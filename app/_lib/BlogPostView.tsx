@@ -27,6 +27,7 @@ import React from 'react';
 
 const SITE_DOMAIN = process.env.NEXT_PUBLIC_SITE_URL || '';
 const AUTHOR_NAME = 'Irfan Nasim';
+const AUTHOR_URL = `${SITE_DOMAIN}/author/irfan-nasim/`;
 const AUTHOR_BIO =
     'Irfan Nasim writes and edits Hard Water Solved. He is not a certified water-treatment professional — he researches each topic against primary sources like the EPA, CDC, NSF, and USGS before writing it up, so the site stays grounded in evidence rather than sales claims.';
 
@@ -256,7 +257,7 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
             author: {
                 '@type': 'Person',
                 name: data.author || AUTHOR_NAME,
-                url: SITE_DOMAIN,
+                url: !data.author || data.author === AUTHOR_NAME ? AUTHOR_URL : SITE_DOMAIN,
             },
             publisher: { '@id': `${SITE_DOMAIN}/#organization` },
             description: data.excerpt,
@@ -401,7 +402,7 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
                                     <span className={styles.metaLabel}>Contributor</span>
                                     <div className={styles.authorSmall}>
                                         <img
-                                            src="/author.png"
+                                            src="/author.jpeg"
                                             alt={data.author || AUTHOR_NAME}
                                             className={styles.authorSmallImg}
                                             width={32}
@@ -409,7 +410,13 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
                                             loading="lazy"
                                             decoding="async"
                                         />
-                                        <span className={styles.metaValue}>{data.author || AUTHOR_NAME}</span>
+                                        {!data.author || data.author === AUTHOR_NAME ? (
+                                            <Link href="/author/irfan-nasim" className={styles.metaValue}>
+                                                {data.author || AUTHOR_NAME}
+                                            </Link>
+                                        ) : (
+                                            <span className={styles.metaValue}>{data.author}</span>
+                                        )}
                                     </div>
                                 </div>
 
@@ -481,7 +488,7 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
                             <section className={styles.authorBio}>
                                 <div className={styles.authorImageWrapper}>
                                     <img
-                                        src="/author.png"
+                                        src="/author.jpeg"
                                         alt={AUTHOR_NAME}
                                         className={styles.authorImage}
                                         loading="lazy"
@@ -490,7 +497,9 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
                                     />
                                 </div>
                                 <div className={styles.authorDetails}>
-                                    <h3 className={styles.authorName}>About {AUTHOR_NAME}</h3>
+                                    <h3 className={styles.authorName}>
+                                        About <Link href="/author/irfan-nasim">{AUTHOR_NAME}</Link>
+                                    </h3>
                                     <p className={styles.authorDescription}>{AUTHOR_BIO}</p>
                                 </div>
                             </section>

@@ -1,5 +1,6 @@
 import React from 'react';
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import styles from '../static-page.module.css';
 
 export const metadata: Metadata = {
@@ -47,6 +48,10 @@ export default function AboutPage() {
                         Where a question genuinely requires a licensed professional &mdash; sizing a system for your
                         specific plumbing, interpreting a borderline water test, or anything safety-related &mdash;
                         our articles say so directly and point you toward that next step instead of guessing.
+                    </p>
+                    <p>
+                        Read <Link href="/author/irfan-nasim">Irfan&apos;s full author bio</Link> for more on his
+                        research approach and every guide he&apos;s published.
                     </p>
                 </section>
 

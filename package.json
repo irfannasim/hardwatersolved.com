@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "download:images": "node download-images.mjs",
+    "prebuild": "node download-images.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",

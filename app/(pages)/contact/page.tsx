@@ -1,7 +1,10 @@
 import React from 'react';
 import type { Metadata } from 'next';
-import { Mail, MessageCircle, Wrench } from 'lucide-react';
+import Link from 'next/link';
+import { Mail, Wrench } from 'lucide-react';
 import styles from '../static-page.module.css';
+
+const CONTACT_EMAIL = 'sageattar12@gmail.com';
 
 export const metadata: Metadata = {
     title: 'Contact Us - Hard Water Solved',
@@ -29,13 +32,9 @@ export default function ContactPage() {
                 </section>
 
                 <div className={styles.contactInfo}>
-                    <p style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
+                    <p style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '0' }}>
                         <Mail size={20} color="var(--color-accent)" />
-                        <strong>General Inquiries:</strong> hello@hardwatersolved.com
-                    </p>
-                    <p style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
-                        <MessageCircle size={20} color="var(--color-accent)" />
-                        <strong>Corrections &amp; Editorial:</strong> editorial@hardwatersolved.com
+                        <strong>Email:</strong> <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>
                     </p>
                 </div>
 
@@ -56,6 +55,14 @@ export default function ContactPage() {
                     <p>
                         Your feedback keeps our guides accurate. If you notice an outdated figure, a broken source
                         link, or a claim that doesn&apos;t hold up, let us know and we&apos;ll review and correct it.
+                    </p>
+                </section>
+
+                <section className={styles.section}>
+                    <h2>Who You&apos;re Writing To</h2>
+                    <p>
+                        Every message goes directly to <Link href="/author/irfan-nasim">Irfan Nasim</Link>, who
+                        researches and writes every guide on this site.
                     </p>
                 </section>
             </main>

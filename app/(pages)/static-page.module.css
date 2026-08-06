@@ -66,7 +66,8 @@
     color: var(--color-text-main);
 }
 
-.section a {
+.section a,
+.contactInfo a {
     color: var(--color-link);
     font-weight: 600;
     text-decoration: underline;
@@ -74,7 +75,8 @@
     text-underline-offset: 2px;
 }
 
-.section a:hover {
+.section a:hover,
+.contactInfo a:hover {
     color: var(--color-link-hover);
     text-decoration-color: var(--color-link-hover);
 }

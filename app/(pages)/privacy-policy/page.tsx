@@ -27,7 +27,7 @@ export default function PrivacyPolicyPage() {
                     </p>
                     <p>
                         If you have additional questions or require more information about our Privacy Policy, do
-                        not hesitate to contact us at hello@hardwatersolved.com.
+                        not hesitate to contact us at sageattar12@gmail.com.
                     </p>
                 </section>
 
