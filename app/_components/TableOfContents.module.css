@@ -1,0 +1,172 @@
+.toc {
+    display: flex;
+    min-height: 0;
+    flex: 1;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
+
+.mobileHeader {
+    display: none;
+}
+
+.tocContent {
+    min-height: 0;
+    flex: 1;
+    overflow-y: auto;
+    padding: 0;
+    scrollbar-color: var(--color-border) transparent;
+    scrollbar-width: thin;
+}
+
+.tocContent::-webkit-scrollbar {
+    width: 3px;
+}
+
+.tocContent::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.tocContent::-webkit-scrollbar-thumb {
+    border-radius: 99px;
+    background-color: var(--color-border);
+}
+
+.tocList {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+    margin: 0;
+    padding: 0;
+    border-left: 1px solid var(--color-border);
+    list-style: none;
+}
+
+.tocItem {
+    position: relative;
+    margin-bottom: 0;
+}
+
+.tocLink {
+    display: block;
+    margin-left: -1px;
+    padding: 0.4rem 0 0.4rem 1.1rem;
+    border-left: 2px solid transparent;
+    color: var(--color-text-light);
+    font-family: var(--font-body);
+    font-size: 0.94rem;
+    font-weight: 500;
+    line-height: 1.45;
+    text-decoration: none;
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.tocLink:hover {
+    color: var(--color-primary);
+}
+
+.tocLink.active {
+    border-left-color: var(--color-accent-hover);
+    color: var(--color-primary);
+    font-weight: 700;
+}
+
+.level3 {
+    padding-left: 1rem;
+}
+
+.level3 .tocLink {
+    font-size: 0.85rem;
+}
+
+@media (max-width: 1024px) {
+    .toc {
+        position: fixed;
+        top: 72px;
+        left: 0;
+        right: 0;
+        z-index: 900;
+        width: 100%;
+        margin: 0;
+        border-bottom: 1px solid var(--color-border);
+        background: rgba(251, 252, 247, 0.97);
+        backdrop-filter: blur(18px);
+    }
+
+    .mobileHeader {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        min-height: 58px;
+        padding: 0 1rem;
+        border: 0;
+        color: var(--color-primary);
+        background: none;
+        cursor: pointer;
+        font-family: var(--font-body);
+    }
+
+    .mobileCurrent {
+        display: flex;
+        align-items: center;
+        gap: 0.65rem;
+        max-width: 82%;
+        overflow: hidden;
+        color: var(--color-accent-hover);
+        font-size: 0.84rem;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+    }
+
+    .mobileCurrent span {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .chevron {
+        color: var(--color-text-light);
+        transition: transform 0.3s ease;
+    }
+
+    .chevronRotated {
+        transform: rotate(180deg);
+    }
+
+    .tocContent {
+        max-height: 0;
+        overflow: hidden;
+        background: #fbfcf7;
+        transition: max-height 0.35s ease;
+    }
+
+    .isExpanded .tocContent {
+        max-height: 70vh;
+        overflow-y: auto;
+        padding-bottom: 1rem;
+    }
+
+    .tocList {
+        border-left: 0;
+        padding: 0 1rem;
+    }
+
+    .tocLink {
+        margin-left: 0;
+        padding: 0.75rem 0;
+        border-left: 0;
+        color: var(--color-text-muted);
+    }
+
+    .tocLink.active {
+        border-left: 0;
+        color: var(--color-accent-hover);
+    }
+
+    .level3 {
+        padding-left: 1.25rem;
+    }
+}

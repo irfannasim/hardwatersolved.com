@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hard Water Solved
+
+An independent, research-backed content site about hard water, whole-house water softeners, and water
+treatment &mdash; built with [Next.js](https://nextjs.org) and deployed on [Vercel](https://vercel.com).
+
+The goal is simple: answer one homeowner question at a time, in plain English, grounded in primary sources
+(EPA, CDC, NSF, USGS, university extension programs) instead of sales copy.
 
 ## Getting Started
 
@@ -6,31 +12,37 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `app/` &mdash; Next.js App Router pages, layouts, and shared components (`_components`, `_lib`, `_utils`).
+- `content/blog/` &mdash; Markdown source for every published guide (frontmatter + body).
+- `public/` &mdash; Static assets, including cached Pexels images used in blog posts.
+- `__content_+_seo/` &mdash; Editorial planning docs: the article outline plan and the per-article writing workflow.
+
+## Content Workflow
+
+New guides are written one at a time using the outline plan and prompt in `__content_+_seo/`, not generated
+in bulk. Each article is checked off in the plan file once published.
+
+## Build & Deploy
+
+```bash
+npm run build            # next build, then postbuild generates sitemap.xml/robots.txt into public/
+npm start                # serve the production build locally on :3000 to sanity-check it
+npm run download:images  # cache external Pexels images referenced in content/app into public/images/pexels
+```
+
+Deployed on Vercel. Every page here is prerenderable at build time (no per-request dynamic data), so
+Vercel serves the whole site statically/via CDN even though the project no longer sets
+`output: 'export'` &mdash; that flag was dropped because it disabled `next/image` optimization and
+`next.config.ts`'s `headers()` (security headers, caching), both of which Vercel's Next.js runtime
+supports natively.
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Learn Next.js](https://nextjs.org/learn)
