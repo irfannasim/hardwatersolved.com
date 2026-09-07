@@ -3,7 +3,7 @@
 **Market:** United States
 **Intent:** Informational, with an explicit path into commercial intent
 **Total articles:** 260 (consolidated from a 500-article draft)
-**Supersedes:** `whole-house-water-softener-500-informational-article-plan.md`
+**Supersedes:** the 500-article draft plan (deleted 2026-09-07; recoverable from git commit `0bb9a2b` if ever needed)
 
 ---
 
