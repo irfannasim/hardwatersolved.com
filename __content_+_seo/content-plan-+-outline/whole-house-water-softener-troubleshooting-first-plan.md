@@ -104,7 +104,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 
 ---
 
-### 001. Household Problems Commonly Mistaken for Hard Water
+### 001. Household Problems Commonly Mistaken for Hard Water ✅ Published — 2026-09-08 — /blog/problems-mistaken-for-hard-water/
 - **Hub:** H1 (this is the hub page)
 - **Funnel role:** Differential-diagnosis entry point; routes misdiagnosed readers to the right cause before they buy the wrong equipment
 - **Search intent:** Reader has a symptom and a wrong hypothesis; wants to know if hard water is actually responsible
@@ -128,7 +128,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** The vinegar dissolution test as a decision tool: scale dissolves, silica does not, soap film smears. Photograph all three side by side. Include the "spots return in under an hour" clue that points to silica rather than hardness.
 - **Links:** up H1; across "Why Scale Keeps Forming Around Faucet Aerators", "Why White Spots and Soap Scum Remain After Softening", "Water Hardness Units: GPG, PPM and mg/L"
 
-### 003. Why Scale Keeps Forming Around Faucet Aerators
+### 003. Why Scale Keeps Forming Around Faucet Aerators ✅ Published — 2026-09-08 — /blog/scale-on-faucet-aerators/
 - **Hub:** H1
 - **Funnel role:** Recurring-problem symptom; strong indicator of untreated hardness
 - **Search intent:** Fix a recurring buildup and understand why cleaning does not hold
@@ -152,7 +152,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** The bottle shake test done properly — pure liquid castile soap, fixed water volume, counted drops to persistent foam, calibrated against a titration kit. Publish the calibration table. A genuinely useful free tool nobody else provides accurately.
 - **Links:** up H1, H2; across "How to Test Water Hardness at Home", "Home Water Test Kit vs Certified Laboratory Test", "Why Laundry Feels Stiff After Washing"
 
-### 005. Can Hard Water Make Skin Feel Dry After Showering?
+### 005. Can Hard Water Make Skin Feel Dry After Showering? ✅ Published — 2026-09-08 — /blog/hard-water-and-dry-skin/
 - **Hub:** H1
 - **Funnel role:** High-volume health-adjacent symptom; must be answered without overclaiming
 - **Search intent:** Establish whether hardness is responsible for a skin complaint
@@ -164,7 +164,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Report the actual evidence base honestly, including the limits of the eczema and hardness studies. Separate "soap residue on skin" (well supported) from "hard water causes dry skin" (weaker). The restraint is the value here.
 - **Links:** up H1; across "Why Dry Skin Can Continue After Installing a Softener", "Why Hair Feels Waxy or Dull in Hard Water", "How Much Soap and Detergent to Use With Soft Water"
 
-### 006. Why Hair Feels Waxy or Dull in Hard Water
+### 006. Why Hair Feels Waxy or Dull in Hard Water ✅ Published — 2026-09-08 — /blog/hard-water-and-hair/
 - **Hub:** H1
 - **Funnel role:** High-volume symptom with strong social search demand
 - **Search intent:** Explain a hair texture change and find a remedy
@@ -176,7 +176,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Use the chelating-shampoo response as a diagnostic: if one chelating wash restores texture, the residue was mineral. Include before and after imagery, plus the reason shower filters underperform for hardness specifically.
 - **Links:** up H1; across "Can Hard Water Make Skin Feel Dry After Showering", "How Soft Water Changes Hair and Skin Washing", "Why Dry Skin Can Continue After Installing a Softener"
 
-### 007. Why Laundry Feels Stiff After Washing
+### 007. Why Laundry Feels Stiff After Washing ✅ Published — 2026-09-08 — /blog/laundry-stiff-after-washing/
 - **Hub:** H1
 - **Funnel role:** Household symptom with a measurable fix; ties to detergent spend
 - **Search intent:** Fix stiff, gray, or scratchy laundry
