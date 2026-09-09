@@ -188,7 +188,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Run a strip-wash on towels washed in measured hard water and publish the drain-water photos plus fabric weight change. Add the detergent-overdose math: dollars per year wasted compensating for hardness.
 - **Links:** up H1; across "How Much Soap and Detergent to Use With Soft Water", "How Softened Water Affects a Washing Machine", "Water Hardness Units: GPG, PPM and mg/L"
 
-### 008. Cloudy Glasses After Dishwashing: Etching or Hard Water?
+### 008. Cloudy Glasses After Dishwashing: Etching or Hard Water? ✅ Published — 2026-09-09 — /blog/cloudy-glasses-etching-or-hard-water/
 - **Hub:** H1
 - **Funnel role:** Strong diagnostic — one cause is reversible, the other is permanent
 - **Search intent:** Distinguish two causes with opposite remedies
@@ -200,7 +200,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** The vinegar-soak test with macro photography of both surfaces. Explain the counterintuitive part clearly: soft water plus an unchanged detergent dose causes etching, so a softener installed without cutting detergent can make glassware worse.
 - **Links:** up H1; across "Why a Dishwasher Leaves a White Film on Dishes", "Why White Spots and Soap Scum Remain After Softening", "How to Adjust a Dishwasher After Installing a Softener"
 
-### 009. Why a Dishwasher Leaves a White Film on Dishes
+### 009. Why a Dishwasher Leaves a White Film on Dishes ✅ Published — 2026-09-09 — /blog/dishwasher-white-film-on-dishes/
 - **Hub:** H1
 - **Funnel role:** Appliance symptom; high volume
 - **Search intent:** Remove and prevent dishwasher film
@@ -212,7 +212,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A single citric-acid cycle plus one control load isolates the cause. Include the built-in softener reservoir check for European-style machines (Bosch, Miele), which US content almost universally omits.
 - **Links:** up H1; across "Cloudy Glasses After Dishwashing: Etching or Hard Water?", "Why White Spots and Soap Scum Remain After Softening", "How to Adjust a Dishwasher After Installing a Softener"
 
-### 010. What Causes a Hard Water Ring in the Toilet?
+### 010. What Causes a Hard Water Ring in the Toilet? ✅ Published — 2026-09-09 — /blog/hard-water-ring-in-toilet/
 - **Hub:** H1
 - **Funnel role:** Visible, recurring, high-volume symptom
 - **Search intent:** Remove a stubborn ring and stop it returning
@@ -224,7 +224,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A color-keyed stain chart (white, pink, orange, brown, black) mapping each to its mineral and its correct removal chemistry, with an explicit warning against mixing acid and bleach products. Explain why the ring sits at the waterline.
 - **Links:** up H1; across "Can a Water Softener Remove Manganese?", "White Spots on Faucets: Hard Water or Something Else?", "Can a Water Softener Remove Iron From Well Water?"
 
-### 011. Why Hard Water Clogs Showerheads
+### 011. Why Hard Water Clogs Showerheads ✅ Published — 2026-09-09 — /blog/hard-water-clogged-showerhead/
 - **Hub:** H1
 - **Funnel role:** Symptom with an immediate DIY fix; builds trust fast
 - **Search intent:** Restore shower flow and prevent recurrence
@@ -236,7 +236,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Bucket-and-stopwatch flow measurement before and after descaling, repeated monthly, as a cheap scale-rate log. Include why silicone-nub heads mask the problem rather than solve it.
 - **Links:** up H1; across "Can Scale Buildup Reduce Household Water Pressure?", "Why Scale Keeps Forming Around Faucet Aerators", "Softened Water and Fixtures: Faucets, Showerheads and Glass"
 
-### 012. Can Scale Buildup Reduce Household Water Pressure?
+### 012. Can Scale Buildup Reduce Household Water Pressure? ✅ Published — 2026-09-09 — /blog/scale-reducing-water-pressure/
 - **Hub:** H1
 - **Funnel role:** High-intent symptom that often has a non-hardness cause; big misdiagnosis risk
 - **Search intent:** Determine whether scale is behind a pressure loss
