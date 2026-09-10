@@ -248,7 +248,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Static versus flowing pressure readings at a hose bib, plus a fixture-by-fixture isolation table. State plainly that a softener will not restore pressure already lost to scaled galvanized pipe — that is a repipe, and saying so builds more trust than a sale.
 - **Links:** up H1; across "Household Problems Commonly Mistaken for Hard Water", "Why Water Pressure Drops After a Softener", "Installing a Softener in an Older Home With Galvanized Pipe"
 
-### 013. Signs of Scale Inside a Tankless Water Heater
+### 013. Signs of Scale Inside a Tankless Water Heater ✅ Published — 2026-09-10 — /blog/scale-in-tankless-water-heater/
 - **Hub:** H1
 - **Funnel role:** Very high value — tankless owners have expensive equipment and act fast
 - **Search intent:** Detect scale before failure and decide on treatment
@@ -260,7 +260,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Map manufacturer hardness limits (Rinnai, Navien, Rheem, Noritz) against required flush intervals in a single table, with warranty language quoted. Add the delta-T logging method for catching scale months before an error code appears.
 - **Links:** up H1; across "How Softened Water Affects a Tankless Water Heater", "Salt-Free Conditioning for Tankless Heaters and Boilers", "Hard Water Sediment in a Storage Water Heater"
 
-### 014. Hard Water Sediment in a Storage Water Heater
+### 014. Hard Water Sediment in a Storage Water Heater ✅ Published — 2026-09-10 — /blog/hard-water-sediment-in-water-heater/
 - **Hub:** H1
 - **Funnel role:** Common appliance symptom; connects to lifespan and energy cost
 - **Search intent:** Identify and remove tank sediment; judge whether the heater is salvageable
@@ -272,7 +272,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Quantify the flush — catch and weigh the sediment, and photograph what comes out at year 3, 6 and 10 on untreated hard water. Include the anode-rod interaction, which changes on softened water and is nearly always left out.
 - **Links:** up H1; across "How a Water Softener Affects a Storage Water Heater", "Signs of Scale Inside a Tankless Water Heater", "Water Hardness Units: GPG, PPM and mg/L"
 
-### 015. Why a Humidifier Leaves White Dust
+### 015. Why a Humidifier Leaves White Dust ✅ Published — 2026-09-10 — /blog/humidifier-white-dust/
 - **Hub:** H1
 - **Funnel role:** Distinct, high-volume seasonal symptom
 - **Search intent:** Stop white dust settling on furniture
@@ -284,7 +284,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** The key correction most articles get wrong: softened water still produces white dust because sodium remains dissolved. Only distilled or RO water fixes it. Demonstrate with three humidifier runs on tap, softened, and RO water over a dark surface.
 - **Links:** up H1; across "Should a Humidifier Use Softened Water?", "What a Water Softener Does Not Remove", "How to Test Water Hardness at Home"
 
-### 016. Scale in Kettles, Coffee Makers and Steam Irons
+### 016. Scale in Kettles, Coffee Makers and Steam Irons ✅ Published — 2026-09-10 — /blog/limescale-in-kettles-coffee-makers-and-irons/
 - **Hub:** H1
 - **Funnel role:** Small-appliance cluster; strong long-tail with a single strong page
 - **Search intent:** Descale small appliances and understand recurrence
@@ -296,7 +296,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** One descaling-interval table driven by measured hardness and weekly use, covering all three appliance types. Include the reason a steam iron spits white flakes specifically (flash boiling in the chamber) and why descaler choice differs for aluminum boilers.
 - **Links:** up H1; across "How Softened Water Changes Coffee, Tea and Cooking", "Water Hardness Units: GPG, PPM and mg/L", "How to Test Water Hardness at Home"
 
-### 017. Can Hard Water Damage a Refrigerator Ice Maker?
+### 017. Can Hard Water Damage a Refrigerator Ice Maker? ✅ Published — 2026-09-10 — /blog/hard-water-and-refrigerator-ice-makers/
 - **Hub:** H1
 - **Funnel role:** Appliance symptom with a clear diagnostic; connects to filter spend
 - **Search intent:** Diagnose cloudy ice, small cubes, or a failing ice maker
