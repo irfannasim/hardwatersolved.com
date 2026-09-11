@@ -308,7 +308,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Correct the widespread claim that softened water makes clearer ice — it does not; clarity is about dissolved gas and freeze rate. Include the inlet-valve screen inspection and a fill-time measurement that catches scale early.
 - **Links:** up H1; across "Why a Humidifier Leaves White Dust", "Should a Kitchen Drinking Tap Bypass the Softener?", "How to Test Water Hardness at Home"
 
-### 018. Why Hard Water Leaves Spots After Washing a Car
+### 018. Why Hard Water Leaves Spots After Washing a Car ✅ Published — 2026-09-11 — /blog/hard-water-spots-on-car/
 - **Hub:** H1
 - **Funnel role:** Distinct audience (car care) with its own search ecosystem
 - **Search intent:** Prevent water spots and remove existing ones
@@ -320,7 +320,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Stage the same panel at three hardness levels and three dry times to show the point where surface deposit becomes etching. Explain why a dedicated hose-end DI filter beats a whole-house softener for this specific job — an honest answer that costs a sale and earns credibility.
 - **Links:** up H1; across "White Spots on Faucets: Hard Water or Something Else?", "How to Test Water Hardness at Home", "Water Hardness Units: GPG, PPM and mg/L"
 
-### 019. Why Hot Water Shows More Scale Than Cold Water
+### 019. Why Hot Water Shows More Scale Than Cold Water ✅ Published — 2026-09-11 — /blog/why-hot-water-causes-more-scale/
 - **Hub:** H1
 - **Funnel role:** Explains the mechanism behind most visible symptoms; strong internal-link anchor
 - **Search intent:** Understand why scale concentrates on the hot side
@@ -332,7 +332,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain inverse solubility properly with a solubility-versus-temperature curve, then map it to the exact points in a house where scale appears first. This is the physics article that makes a dozen symptom pages make sense — and it is a natural link magnet.
 - **Links:** up H1; across "Signs of Scale Inside a Tankless Water Heater", "Hard Water Sediment in a Storage Water Heater", "Why Hot Water Is Hard but Cold Water Is Soft"
 
-### 020. Why Is Well Water Often Hard?
+### 020. Why Is Well Water Often Hard? ✅ Published — 2026-09-11 — /blog/why-is-well-water-hard/
 - **Hub:** H1, H5
 - **Funnel role:** Entry point for well owners — the highest-value audience in this niche
 - **Search intent:** Understand well water hardness and what else to expect
@@ -356,7 +356,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Run four kit types against one certified lab sample and publish the error spread. Then give the sampling protocol that closes most of that gap. A retest schedule keyed to source type (municipal, private well, shared well) belongs here, not in a separate thin page.
 - **Links:** down to all H2 spokes; across "Household Problems Commonly Mistaken for Hard Water", "Water Hardness Units: GPG, PPM and mg/L", "Hard Water vs TDS, Alkalinity and Mineral Water"
 
-### 022. Hardness Test Strips vs Drop Test Kits
+### 022. Hardness Test Strips vs Drop Test Kits ✅ Published — 2026-09-11 — /blog/hardness-test-strips-vs-drop-test-kits/
 - **Hub:** H2
 - **Funnel role:** Purchase-adjacent comparison at the top of the testing funnel
 - **Search intent:** Choose between two test formats
@@ -368,7 +368,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Side-by-side testing of both formats on the same five samples, including an expired strip pack to show real-world drift. Give a plain rule: strips to screen, titration to size, lab to decide.
 - **Links:** up H2; across "How to Test Water Hardness at Home", "Home Water Test Kit vs Certified Laboratory Test", "Common Water Hardness Sampling Mistakes"
 
-### 023. Home Water Test Kit vs Certified Laboratory Test
+### 023. Home Water Test Kit vs Certified Laboratory Test ✅ Published — 2026-09-11 — /blog/home-water-test-vs-lab-test/
 - **Hub:** H2
 - **Funnel role:** Decides how much a reader should spend on evidence before buying equipment
 - **Search intent:** Decide whether a lab test is necessary
