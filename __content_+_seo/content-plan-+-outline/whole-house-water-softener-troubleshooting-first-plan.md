@@ -380,7 +380,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A cost-versus-consequence table: what each parameter costs to test, and what buying the wrong system costs if you skip it. Include how to find a state-certified lab and what the chain-of-custody actually requires.
 - **Links:** up H2; across "How to Test Water Hardness at Home", "Common Water Hardness Sampling Mistakes", "Test Iron and Manganese Before Sizing a Softener"
 
-### 024. How to Read Your Water Hardness Report
+### 024. How to Read Your Water Hardness Report ✅ Published — 2026-09-14 — /blog/how-to-read-a-water-hardness-report/
 - **Hub:** H2
 - **Funnel role:** Turns raw numbers into a sizing input
 - **Search intent:** Interpret a lab report or utility CCR
@@ -392,7 +392,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Annotate a real CCR and a real lab report side by side, marking exactly which figures feed a sizing calculation and which are averages that must not. Show a worked case where the CCR average and the tap reading differ by enough to change the system size.
 - **Links:** up H2; across "Water Hardness Units: GPG, PPM and mg/L", "How to Test Water Hardness at Home", "How to Calculate the Right Water Softener Size"
 
-### 025. Water Hardness Units: GPG, PPM and mg/L
+### 025. Water Hardness Units: GPG, PPM and mg/L ✅ Published — 2026-09-14 — /blog/water-hardness-units-gpg-ppm/
 - **Hub:** H2
 - **Funnel role:** Reference page linked from most of the site; strong internal-link anchor
 - **Search intent:** Convert between hardness units and interpret a number
@@ -416,7 +416,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Collect published hardness limits from water heater, tankless, dishwasher and boiler manufacturers into one table, and show that the real treatment threshold comes from whichever appliance in the house has the tightest limit — not from a generic 7 gpg rule of thumb.
 - **Links:** up H2; across "Water Hardness Units: GPG, PPM and mg/L", "Do You Actually Need a Whole-House Water Softener?", "How to Calculate the Right Water Softener Size", "Signs of Scale Inside a Tankless Water Heater"
 
-### 027. Do You Actually Need a Whole-House Water Softener?
+### 027. Do You Actually Need a Whole-House Water Softener? ✅ Published — 2026-09-14 — /blog/do-you-need-a-whole-house-water-softener/
 - **Hub:** H2
 - **Funnel role:** Primary commercial handoff for the diagnosis batch
 - **Search intent:** Make a yes or no decision on treatment
@@ -428,7 +428,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A payback calculator built from real inputs — measured hardness, appliance replacement costs, detergent and heating overhead, years remaining in the home — that outputs an honest verdict including "no". Include the cases where the answer is a point-of-use filter or nothing at all.
 - **Links:** up H2; across "What Water Hardness Level Is Considered Too Hard", "How to Calculate the Right Water Softener Size", "Salt-Based vs Salt-Free Water Treatment", "How Much Does Water Softener Installation Cost"
 
-### 028. Common Water Hardness Sampling Mistakes
+### 028. Common Water Hardness Sampling Mistakes ✅ Published — 2026-09-14 — /blog/water-hardness-sampling-mistakes/
 - **Hub:** H2
 - **Funnel role:** Protects the accuracy of every downstream decision
 - **Search intent:** Avoid invalidating a water test
@@ -440,7 +440,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A house diagram marking the correct raw-water sampling point for six common plumbing layouts, including the case where no untreated tap exists and what to do instead. Include measured examples of how much each mistake shifts the number.
 - **Links:** up H2; across "How to Test Water Hardness at Home", "Why Hardness Test Results Differ Between Faucets", "Why Only Some Faucets Have Soft Water"
 
-### 029. Why Hardness Test Results Differ Between Faucets
+### 029. Why Hardness Test Results Differ Between Faucets ✅ Published — 2026-09-14 — /blog/hardness-test-differs-between-faucets/
 - **Hub:** H2
 - **Funnel role:** Troubleshooting a confusing result; prevents a wrong purchase
 - **Search intent:** Explain inconsistent readings around the house
