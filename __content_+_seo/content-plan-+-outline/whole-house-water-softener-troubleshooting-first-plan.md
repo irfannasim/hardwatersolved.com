@@ -452,7 +452,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A mapping procedure: test every fixture, mark results on a floor plan, and read the pattern to locate the branch point. The resulting map is the same evidence needed for article 112 (only some faucets soft), so this page does double duty for both untreated and treated homes.
 - **Links:** up H2; across "Why Only Some Faucets Have Soft Water", "Common Water Hardness Sampling Mistakes", "How to Test Water Hardness at Home"
 
-### 030. How to Test Hardness in Private Well Water
+### 030. How to Test Hardness in Private Well Water ✅ Published — 2026-09-15 — /blog/how-to-test-well-water-hardness/
 - **Hub:** H2, H5
 - **Funnel role:** Well-owner testing entry; leads directly into the treatment-train cluster
 - **Search intent:** Test well water correctly and know what else to include
@@ -464,7 +464,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A seasonal sampling protocol with a real 12-month dataset from one well showing how far hardness and iron drift across a year. Include pre-pump versus post-pressure-tank sampling and why it matters for iron.
 - **Links:** up H2, H5; across "Why Is Well Water Often Hard?", "Test Iron and Manganese Before Sizing a Softener", "Why Private Well Chemistry Changes Over Time"
 
-### 031. Test Iron and Manganese Before Sizing a Softener
+### 031. Test Iron and Manganese Before Sizing a Softener ✅ Published — 2026-09-15 — /blog/test-iron-and-manganese-before-sizing/
 - **Hub:** H2, H5
 - **Funnel role:** Prevents the single most expensive sizing mistake in well applications
 - **Search intent:** Understand why iron and manganese change the system spec
@@ -476,7 +476,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Publish the compensated-hardness formula with worked examples, and show a fouled resin bed from a well where iron was never tested. Cover the dissolved-versus-oxidized sampling trap: iron precipitates in the sample bottle, so the collection method changes the result.
 - **Links:** up H2, H5; across "Can a Water Softener Remove Iron From Well Water?", "Dissolved vs Oxidized Iron in Well Water", "How Iron Changes Water Softener Sizing"
 
-### 032. How to Interpret pH and Hardness Together
+### 032. How to Interpret pH and Hardness Together ✅ Published — 2026-09-15 — /blog/interpreting-ph-and-hardness-together/
 - **Hub:** H2
 - **Funnel role:** Prevents corrosive-water mistakes; feeds acid-neutralizer decisions
 - **Search intent:** Understand how pH changes the treatment plan
@@ -488,7 +488,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Introduce the Langelier Saturation Index in plain language with a worked calculation, and show the four quadrants (hard/soft crossed with acidic/alkaline) with the correct treatment order for each. Directly prevents an expensive plumbing mistake.
 - **Links:** up H2; across "Why Low-pH Well Water Needs Separate Treatment", "Water Softener vs Acid Neutralizer", "Water Hardness Units: GPG, PPM and mg/L"
 
-### 033. Why a Hardness Test Reads Zero but Scale Remains
+### 033. Why a Hardness Test Reads Zero but Scale Remains ✅ Published — 2026-09-15 — /blog/hardness-test-zero-but-scale-remains/
 - **Hub:** H2, H3
 - **Funnel role:** Bridges pre- and post-purchase troubleshooting; high-frustration query
 - **Search intent:** Resolve a contradiction between a test result and visible evidence
@@ -508,7 +508,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 
 ---
 
-### 034. Why Water Is Still Hard After Installing a Softener
+### 034. Why Water Is Still Hard After Installing a Softener ✅ Published — 2026-09-15 — /blog/water-still-hard-after-installing-softener/
 - **Hub:** H3 (this is the hub page)
 - **Funnel role:** The highest-intent troubleshooting query in the entire niche; hub for all post-install water quality faults
 - **Search intent:** System is installed but not working; needs a diagnostic sequence
