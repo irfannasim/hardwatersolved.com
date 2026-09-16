@@ -520,7 +520,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A strict diagnostic order that costs nothing before it costs anything: bypass position, hardness setting, salt level, brine draw, then resin. Include a printable flowchart and the "test at the softener outlet, not the kitchen tap" instruction that resolves a large share of these cases immediately.
 - **Links:** down to all H3 spokes; across "Why Only Some Faucets Have Soft Water", "How to Verify a Softener Is Producing Soft Water", "Why a Water Softener Is Not Using Salt"
 
-### 035. Why Hardness Returns Before the Next Regeneration
+### 035. Why Hardness Returns Before the Next Regeneration ✅ Published — 2026-09-16 — /blog/hardness-returns-before-regeneration/
 - **Hub:** H3
 - **Funnel role:** Capacity and programming fault; leads to resizing or resin replacement
 - **Search intent:** Water goes hard partway through the cycle
@@ -532,7 +532,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Use the timing signature as the diagnostic: consistent early breakthrough means the hardness setting or capacity is wrong; erratic breakthrough means channeling or fouling; sudden onset means a missed regeneration or salt bridge. Include a capacity-versus-actual-use worksheet.
 - **Links:** up H3; across "Signs a Water Softener Is Undersized", "What Is Resin Channeling in a Water Softener", "How to Set Capacity and Reserve on a Softener"
 
-### 036. Why Softened Water Tastes Salty
+### 036. Why Softened Water Tastes Salty ✅ Published — 2026-09-16 — /blog/why-softened-water-tastes-salty/
 - **Hub:** H3
 - **Funnel role:** Alarming symptom with a specific mechanical cause; drives service calls
 - **Search intent:** Explain and fix a salty taste
@@ -544,7 +544,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Separate the two very different situations clearly: the sodium a softener normally adds is far below taste threshold, so a salty taste is a fault, not a feature. Give the drain-line restriction, injector, and stuck-valve checks in order, plus the conductivity reading that confirms brine carryover.
 - **Links:** up H3; across "How Much Sodium Does a Water Softener Add", "Why a Water Softener Keeps Draining", "How to Clean a Softener Injector and Venturi"
 
-### 037. Why Soft Water Feels Slippery
+### 037. Why Soft Water Feels Slippery ✅ Published — 2026-09-16 — /blog/why-soft-water-feels-slippery/
 - **Hub:** H3
 - **Funnel role:** Not a fault, but the most common new-owner complaint; retention and trust article
 - **Search intent:** Understand an unexpected sensation and decide whether something is wrong
@@ -556,24 +556,24 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Correct the widespread myth that the feeling is leftover soap. It is the opposite: hard water leaves a film that reads as squeaky. Include the practical adaptation — cut soap volume by roughly two thirds — with measured examples, because most people fix the sensation by changing dose, not equipment.
 - **Links:** up H3; across "How Much Soap and Detergent to Use With Soft Water", "How Soft Water Changes Hair and Skin Washing", "Should Softened Water Always Test at Zero Hardness?"
 
-### 038. Why Softened Water Looks Cloudy
+### 038. Why Softened Water Looks Cloudy ✅ Published — 2026-09-16 — /blog/why-softened-water-looks-cloudy/
 - **Hub:** H3
 - **Funnel role:** Common alarm; usually harmless, occasionally a real fault
 - **Search intent:** Identify why treated water looks milky
 - **Focus keyword:** `softened water looks cloudy`
-- **Meta title:** `Cloudy Softened Water: Air, Sediment or a Real Fault?`
+- **Meta title:** `Why Softened Water Looks Cloudy: Air or a Real Fault?`
 - **Slug:** `/blog/why-softened-water-looks-cloudy/`
 - **Meta description:** `The glass test settles it in two minutes. If it clears from the bottom up it is air; if it stays uniform, something is passing through the system.`
 - **Replaces:** old 145
 - **Unique angle:** The bottom-up versus uniform clearing test, photographed. Then cover the causes that are real: resin fines after a media change, sediment breakthrough, and air drawn in at a well pressure tank. Each has a different next step.
 - **Links:** up H3; across "Why Air Appears in Faucets After Softener Service", "Why Resin Beads Appear in Household Plumbing", "When to Replace a Sediment Prefilter Before a Softener"
 
-### 039. Why Water Turns Brown After Softener Regeneration
+### 039. Why Water Turns Brown After Softener Regeneration ✅ Published — 2026-09-16 — /blog/brown-water-after-softener-regeneration/
 - **Hub:** H3
 - **Funnel role:** Alarming, high-urgency symptom; strong well-water crossover
 - **Search intent:** Explain discolored water tied to the regeneration cycle
 - **Focus keyword:** `brown water after softener regeneration`
-- **Meta title:** `Brown Water After Regeneration: Causes and What to Do`
+- **Meta title:** `Brown Water After Softener Regeneration: Causes and Fixes`
 - **Slug:** `/blog/brown-water-after-softener-regeneration/`
 - **Meta description:** `Regeneration flushes accumulated iron back through the bed. Brown water on cycle days means the resin is fouled and losing capacity.`
 - **Replaces:** old 146
