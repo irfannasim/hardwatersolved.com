@@ -580,7 +580,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain the mechanism: iron captured during service is released during backwash, and if the backwash is inadequate it re-enters the service line. Include the backwash flow rate check and the point at which iron cleaner stops working and resin must be replaced.
 - **Links:** up H3; across "What Is Water Softener Resin Fouling", "Resin and Iron Cleaners: When and How to Use Them", "Can a Water Softener Remove Iron From Well Water?"
 
-### 040. Why Softened Water Looks Yellow
+### 040. Why Softened Water Looks Yellow ✅ Published — 2026-09-17 — /blog/why-softened-water-looks-yellow/
 - **Hub:** H3
 - **Funnel role:** Distinct cause from brown water; points to tannins or a specific corrosion mode
 - **Search intent:** Identify a yellow tint that softening did not remove
@@ -592,7 +592,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** The filter-paper test: iron leaves color on the paper, tannins pass through and stay in the water. Photograph both. Then explain why tannin removal needs a separate anion resin and why installing it in the wrong order ruins the softener.
 - **Links:** up H3; across "Can a Water Softener Remove Tannins", "Well Water Treatment Train Order", "Why Water Turns Brown After Softener Regeneration"
 
-### 041. What Causes Black Specks After a Water Softener?
+### 041. What Causes Black Specks After a Water Softener? ✅ Published — 2026-09-17 — /blog/black-specks-in-water-after-softener/
 - **Hub:** H3
 - **Funnel role:** Points at three very different failures, one expensive
 - **Search intent:** Identify black particles in treated water
@@ -604,7 +604,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** An identification key using three cheap tests: crush between fingers (resin is springy, manganese is powdery), magnet response, and behavior in vinegar. Include photographs of degraded valve seals, which is the cause most owners never consider and the one that means a rebuild.
 - **Links:** up H3; across "Why Resin Beads Appear in Household Plumbing", "Can a Water Softener Remove Manganese", "Water Softener Control Valve: How It Works"
 
-### 042. Why Resin Beads Appear in Household Plumbing
+### 042. Why Resin Beads Appear in Household Plumbing ✅ Published — 2026-09-17 — /blog/resin-beads-in-household-plumbing/
 - **Hub:** H3, H4
 - **Funnel role:** Confirms internal failure; direct path to repair or replacement
 - **Search intent:** Explain resin escaping into the house and assess the damage
@@ -616,7 +616,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A full downstream recovery procedure — the fixtures and appliance inlet screens people forget (dishwasher, washing machine, ice maker, tankless inlet) — plus how to determine whether the tank can be rebuilt or should be replaced. Include the resin-volume check that reveals how much was lost.
 - **Links:** up H3, H4; across "Inside a Water Softener Mineral Tank", "Water Softener Resin Life and When to Replace It", "What Causes Black Specks After a Water Softener?"
 
-### 043. Why Softened Water Has a Metallic Taste
+### 043. Why Softened Water Has a Metallic Taste ✅ Published — 2026-09-17 — /blog/softened-water-metallic-taste/
 - **Hub:** H3
 - **Funnel role:** Taste complaint that often signals a plumbing or pH problem rather than the softener
 - **Search intent:** Identify the source of a metallic taste
@@ -628,7 +628,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Address the uncomfortable truth directly: removing hardness removes some scale-forming protection, and on low-pH water this can increase copper and lead pickup. Give the first-draw versus flushed sample comparison that proves plumbing is the source, and state plainly when a lead test is warranted.
 - **Links:** up H3; across "How to Interpret pH and Hardness Together", "Why Low-pH Well Water Needs Separate Treatment", "How Lead Service Line Work Can Affect a Softener"
 
-### 044. Why a Sulfur Smell Remains After Softening
+### 044. Why a Sulfur Smell Remains After Softening ✅ Published — 2026-09-17 — /blog/sulfur-smell-after-water-softener/
 - **Hub:** H3, H5
 - **Funnel role:** Very high-volume well complaint; softener alone never solves it
 - **Search intent:** Remove a rotten-egg odor that survived treatment
