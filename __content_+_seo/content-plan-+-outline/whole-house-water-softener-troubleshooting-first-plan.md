@@ -640,7 +640,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** The hot-only versus both-taps test that separates a water heater anode reaction from source-water sulfide, plus the case most content misses entirely: sulfate-reducing bacteria colonizing the resin bed, which makes the smell appear only after the softener was installed. Include the sanitize-and-retest protocol.
 - **Links:** up H3, H5; across "How to Sanitize a Water Softener", "Well Water Treatment Train Order", "Why Iron Bacteria Requires More Than a Softener"
 
-### 045. Why Chlorine Taste Remains After a Water Softener
+### 045. Why Chlorine Taste Remains After a Water Softener ✅ Published — 2026-09-20 — /blog/chlorine-taste-after-water-softener/
 - **Hub:** H3
 - **Funnel role:** Corrects a very common expectation gap on city water; drives carbon filter decisions
 - **Search intent:** Understand why treated water still tastes of chlorine
@@ -652,7 +652,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Reframe the complaint as a warning sign: chlorine reaching the tap means chlorine is reaching the resin, which oxidizes it. Quantify resin life loss at typical municipal chlorine and chloramine levels, and show where carbon must sit to protect the bed.
 - **Links:** up H3; across "When City Chlorine Requires Carbon Pretreatment", "How Chlorine Damages Water Softener Resin", "Standard vs Chlorine-Resistant Softener Resin"
 
-### 046. Why White Spots and Soap Scum Remain After Softening
+### 046. Why White Spots and Soap Scum Remain After Softening ✅ Published — 2026-09-20 — /blog/white-spots-remain-after-softening/
 - **Hub:** H3
 - **Funnel role:** Expectation-gap article; prevents unwarranted warranty claims and builds trust
 - **Search intent:** Explain residue that persists on genuinely soft water
@@ -664,7 +664,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover the three residues a softener cannot address, then the one people cause themselves: unchanged detergent dosing after installation. Include the dishwasher rinse-aid and detergent reduction test that fixes most of these complaints in one cycle without touching the equipment.
 - **Links:** up H3; across "Why a Hardness Test Reads Zero but Scale Remains", "How Much Soap and Detergent to Use With Soft Water", "How to Adjust a Dishwasher After Installing a Softener"
 
-### 047. Why Dry Skin Can Continue After Installing a Softener
+### 047. Why Dry Skin Can Continue After Installing a Softener ✅ Published — 2026-09-20 — /blog/dry-skin-after-installing-a-softener/
 - **Hub:** H3
 - **Funnel role:** Manages expectations on a health-adjacent promise; protects credibility
 - **Search intent:** Explain why a purchase did not deliver an expected benefit
@@ -676,7 +676,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** An honest accounting of what softening can and cannot change for skin, with the confounders isolated one at a time. This article deliberately declines to oversell a benefit the industry routinely overstates — which is precisely why it will earn links and trust.
 - **Links:** up H3; across "Can Hard Water Make Skin Feel Dry After Showering?", "Why Soft Water Feels Slippery", "How Soft Water Changes Hair and Skin Washing"
 
-### 048. Why Hot Water Is Hard but Cold Water Is Soft
+### 048. Why Hot Water Is Hard but Cold Water Is Soft ✅ Published — 2026-09-20 — /blog/hot-water-hard-cold-water-soft/
 - **Hub:** H3
 - **Funnel role:** Excellent, specific diagnostic with a definite answer
 - **Search intent:** Explain a difference between hot and cold taps
@@ -688,7 +688,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Two causes with two different fixes, and a simple way to tell them apart: if hot water softens gradually over a week of normal use, the heater was simply full of legacy hard water; if it never softens, the plumbing order is wrong. Include the tank turnover calculation.
 - **Links:** up H3; across "Should a Softener Go Before or After the Water Heater", "Why Only Some Faucets Have Soft Water", "Why Hot Water Shows More Scale Than Cold Water"
 
-### 049. Why Only Some Faucets Have Soft Water
+### 049. Why Only Some Faucets Have Soft Water ✅ Published — 2026-09-20 — /blog/only-some-faucets-have-soft-water/
 - **Hub:** H3
 - **Funnel role:** Plumbing-layout fault; common on retrofits and additions
 - **Search intent:** Locate why softening is inconsistent across the house
