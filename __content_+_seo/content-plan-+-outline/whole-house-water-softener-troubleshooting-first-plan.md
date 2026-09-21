@@ -700,7 +700,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A systematic mapping method: test every fixture, mark a floor plan, and read the pattern to infer where the untreated branch leaves the main. Cover the intentional cases too (outdoor bibs, kitchen cold tap) so readers do not chase a fault that was designed in.
 - **Links:** up H3; across "Why Hardness Test Results Differ Between Faucets", "Should Outdoor Faucets Bypass a Water Softener", "Should a Kitchen Drinking Tap Bypass the Softener"
 
-### 050. How to Verify a Softener Is Producing Soft Water
+### 050. How to Verify a Softener Is Producing Soft Water ✅ Published — 2026-09-21 — /blog/how-to-check-if-water-softener-is-working/
 - **Hub:** H3
 - **Funnel role:** The verification procedure every other troubleshooting article depends on
 - **Search intent:** Confirm the system is actually working
@@ -712,7 +712,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** The inlet-versus-outlet paired test, with sampling points diagrammed, plus a normal-operation checklist (salt drop rate, drain flow during cycle, meter advance) that catches a failing system before hardness ever reaches the tap. This is the plan's core diagnostic utility page.
 - **Links:** up H3; across "Why Water Is Still Hard After Installing a Softener", "How to Test Water Hardness at Home", "Water Softener Maintenance Schedule: Monthly and Annual"
 
-### 051. What Is Water Softener Resin Fouling?
+### 051. What Is Water Softener Resin Fouling? ✅ Published — 2026-09-21 — /blog/water-softener-resin-fouling/
 - **Hub:** H3, H4
 - **Funnel role:** Explains the dominant cause of gradual capacity loss; leads to cleaner or replacement
 - **Search intent:** Understand why resin stops performing
@@ -724,36 +724,36 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** One page covering all four fouling agents with their distinct signatures, and — most usefully — the honest line between recoverable and terminal. Include a resin sample extraction method (pull a scoop from the tank) with photographs of clean, iron-fouled and organically fouled beads side by side.
 - **Links:** up H3, H4; across "Resin and Iron Cleaners: When and How to Use Them", "Water Softener Resin Life and When to Replace It", "Why Water Turns Brown After Softener Regeneration"
 
-### 052. Water Softener Resin Life and When to Replace It
+### 052. Water Softener Resin Life and When to Replace It ✅ Published — 2026-09-21 — /blog/water-softener-resin-life-and-replacement/
 - **Hub:** H4
 - **Funnel role:** Direct repair-versus-replace decision; high commercial value
 - **Search intent:** Judge remaining resin life and decide on replacement
 - **Focus keyword:** `how long does water softener resin last`
-- **Meta title:** `Water Softener Resin Life and When to Replace It`
+- **Meta title:** `How Long Does Water Softener Resin Last? Replace Signs`
 - **Slug:** `/blog/water-softener-resin-life-and-replacement/`
 - **Meta description:** `Resin lasts 10 to 15 years on clean municipal water and as little as 3 on chlorinated or iron-heavy supplies. Capacity loss is the real indicator.`
 - **Replaces:** old 054, 055
 - **Unique angle:** Replace vague year-ranges with a measurable test: track gallons-between-regenerations over time and treat a sustained drop as the replacement signal. Include the economic crossover point where new resin costs more than a new unit, worked with current pricing.
 - **Links:** up H4; across "What Is Water Softener Resin Fouling", "Should You Repair or Replace an Old Water Softener", "Common Water Softener Repair Costs Explained"
 
-### 053. How Chlorine Damages Water Softener Resin
+### 053. How Chlorine Damages Water Softener Resin ✅ Published — 2026-09-21 — /blog/how-chlorine-damages-softener-resin/
 - **Hub:** H4
 - **Funnel role:** Explains premature failure on city water; drives carbon pretreatment
 - **Search intent:** Understand and prevent chlorine damage to resin
 - **Focus keyword:** `chlorine damages water softener resin`
-- **Meta title:** `How Chlorine Destroys Water Softener Resin Over Time`
+- **Meta title:** `How Chlorine Damages Water Softener Resin: Early Signs`
 - **Slug:** `/blog/how-chlorine-damages-softener-resin/`
 - **Meta description:** `Chlorine breaks the crosslinks that hold resin beads rigid. The bed softens, swells and channels long before it visibly fails.`
 - **Replaces:** old 153
 - **Unique angle:** Explain oxidative crosslink attack in plain terms and quantify expected life at typical residual levels, distinguishing free chlorine from chloramine (which is slower but far more persistent). Include the squeeze test on a bead sample for detecting degradation before capacity collapses.
 - **Links:** up H4; across "Standard vs Chlorine-Resistant Softener Resin", "When City Chlorine Requires Carbon Pretreatment", "How Chloramine Affects a Water Softener"
 
-### 054. What Is Resin Channeling in a Water Softener?
+### 054. What Is Resin Channeling in a Water Softener? ✅ Published — 2026-09-21 — /blog/water-softener-resin-channeling/
 - **Hub:** H4
 - **Funnel role:** Explains intermittent hardness that looks like a random fault
 - **Search intent:** Diagnose erratic softening performance
 - **Focus keyword:** `water softener resin channeling`
-- **Meta title:** `Resin Channeling: Why Softening Becomes Erratic`
+- **Meta title:** `Water Softener Resin Channeling: Why Softening Fails`
 - **Slug:** `/blog/water-softener-resin-channeling/`
 - **Meta description:** `When water carves preferred paths through the bed, most of the resin is bypassed. Capacity collapses even though the resin itself is fine.`
 - **Replaces:** old 156, 253
