@@ -760,7 +760,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover both channeling and bed compaction together, since they present identically and are usually fixed by the same intervention. Include the backwash flow rate check with a bucket measurement, plus why undersized drain lines and low pressure are the usual root cause.
 - **Links:** up H4; across "Why Hardness Returns Before the Next Regeneration", "Water Softener Drain Line Requirements", "Minimum and Maximum Pressure for a Water Softener"
 
-### 055. How to Identify and Break a Salt Bridge
+### 055. How to Identify and Break a Salt Bridge ✅ Published — 2026-09-22 — /blog/water-softener-salt-bridge/
 - **Hub:** H4
 - **Funnel role:** Extremely common, entirely free to fix; strong trust builder
 - **Search intent:** Diagnose and clear a hardened salt crust
@@ -772,7 +772,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** The probe test with a cross-section photograph of an actual bridged tank showing the void beneath the crust. Include the safe breaking technique (and the warning against striking the tank wall), plus the humidity and overfilling conditions that cause bridging so it does not recur.
 - **Links:** up H4; across "Why a Water Softener Is Not Using Salt", "How High Should Salt Be in a Brine Tank", "Storing, Changing and Disposing of Softener Salt"
 
-### 056. What Causes Salt Mushing in a Brine Tank?
+### 056. What Causes Salt Mushing in a Brine Tank? ✅ Published — 2026-09-22 — /blog/salt-mushing-in-brine-tank/
 - **Hub:** H4
 - **Funnel role:** Distinct from bridging, different fix, commonly confused
 - **Search intent:** Identify and remove a sludge layer in the brine tank
@@ -784,7 +784,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Show the difference between bridging (a crust with a void) and mushing (a sludge floor) with photographs of both, since the two are constantly confused and the remedies differ. Include the full cleanout procedure and the salt-grade change that prevents recurrence.
 - **Links:** up H4; across "How to Identify and Break a Salt Bridge", "Water Softener Salt Types Compared", "How to Clean a Water Softener Brine Tank"
 
-### 057. Why Softener Salt Looks Brown or Dirty
+### 057. Why Softener Salt Looks Brown or Dirty ✅ Published — 2026-09-22 — /blog/water-softener-salt-looks-brown-or-dirty/
 - **Hub:** H4
 - **Funnel role:** Reassurance plus a genuine fault case; low competition, real search demand
 - **Search intent:** Determine whether discolored salt indicates a problem
@@ -796,7 +796,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Distinguish harmless insolubles by salt grade from the diagnostic case: orange staining indicates iron returning to the tank, which points at a fouled bed or a backwash fault. Include an insoluble-residue comparison across salt grades, dissolved in a jar.
 - **Links:** up H4; across "Water Softener Salt Types Compared", "What Is Water Softener Resin Fouling", "How to Clean a Water Softener Brine Tank"
 
-### 058. How High Should Salt Be in a Brine Tank?
+### 058. How High Should Salt Be in a Brine Tank? ✅ Published — 2026-09-22 — /blog/how-much-salt-in-a-brine-tank/
 - **Hub:** H4
 - **Funnel role:** The most common ownership question; prevents both bridging and starvation
 - **Search intent:** Learn the correct salt level and refill practice
@@ -808,7 +808,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Combine level, refill quantity and overfill risk into one clear standard, with a labeled tank diagram showing the water line, the correct salt band, and the overfill zone. Include why "keep it full" advice from retailers directly causes the bridging problem they later sell you a fix for.
 - **Links:** up H4; across "How to Identify and Break a Salt Bridge", "How Much Salt Does a Water Softener Use", "How to Clean a Water Softener Brine Tank"
 
-### 059. How to Clean a Water Softener Brine Tank
+### 059. How to Clean a Water Softener Brine Tank ✅ Published — 2026-09-22 — /blog/how-to-clean-a-water-softener-brine-tank/
 - **Hub:** H4
 - **Funnel role:** Core maintenance procedure; supports several fault articles
 - **Search intent:** Perform a full brine tank cleanout safely
