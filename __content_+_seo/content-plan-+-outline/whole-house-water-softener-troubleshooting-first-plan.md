@@ -820,7 +820,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Photograph the full sequence including the parts people break: the brine well, the safety float, and the grid plate underneath. Include what the residue at the bottom tells you about the salt grade being used, turning routine maintenance into a diagnostic opportunity.
 - **Links:** up H4; across "What Causes Salt Mushing in a Brine Tank?", "Brine Tank Internals: Float, Safety Float and Brine Well", "Water Softener Maintenance Schedule: Monthly and Annual"
 
-### 060. Resin and Iron Cleaners: When and How to Use Them
+### 060. Resin and Iron Cleaners: When and How to Use Them ✅ Published — 2026-09-23 — /blog/water-softener-resin-and-iron-cleaners/
 - **Hub:** H4
 - **Funnel role:** Recovery step before replacement; clear commercial adjacency
 - **Search intent:** Restore capacity chemically before spending on new resin
@@ -832,7 +832,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** State clearly what cleaner chemistry can and cannot reverse — a distinction almost no product page makes — with before and after capacity measurements from a real fouled unit. Include correct dosing, cycle frequency, and the point at which continued cleaning is throwing money at dead resin.
 - **Links:** up H4; across "What Is Water Softener Resin Fouling", "Water Softener Resin Life and When to Replace It", "Why Water Turns Brown After Softener Regeneration"
 
-### 061. When to Replace a Sediment Prefilter Before a Softener
+### 061. When to Replace a Sediment Prefilter Before a Softener ✅ Published — 2026-09-23 — /blog/sediment-prefilter-before-a-softener/
 - **Hub:** H4
 - **Funnel role:** Preventive maintenance protecting an expensive asset
 - **Search intent:** Set a prefilter change interval and pick a micron rating
@@ -844,7 +844,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Gauge-based change intervals rather than guesswork, with the micron-rating tradeoff explained: too fine and you lose backwash pressure, too coarse and sediment reaches the bed. Include a pressure-drop log template.
 - **Links:** up H4; across "What Is Resin Channeling in a Water Softener", "Minimum and Maximum Pressure for a Water Softener", "Pretreatment Order: Sediment and Iron Filters Before a Softener"
 
-### 062. Water Softener Maintenance Schedule: Monthly and Annual
+### 062. Water Softener Maintenance Schedule: Monthly and Annual ✅ Published — 2026-09-23 — /blog/water-softener-maintenance-schedule/
 - **Hub:** H4
 - **Funnel role:** Retention anchor; the page owners bookmark and return to
 - **Search intent:** Establish a complete preventive routine
@@ -856,7 +856,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A single downloadable maintenance log combining monthly checks, annual service, and a running record of gallons-between-regenerations — which turns the log itself into the early warning system for capacity loss. Include external tank inspection points that catch failures before they flood a basement.
 - **Links:** up H4; across "How to Verify a Softener Is Producing Soft Water", "How to Clean a Water Softener Brine Tank", "Signs a Water Softener Needs Professional Service"
 
-### 063. Signs a Water Softener Needs Professional Service
+### 063. Signs a Water Softener Needs Professional Service ✅ Published — 2026-09-23 — /blog/when-to-call-a-water-softener-technician/
 - **Hub:** H4
 - **Funnel role:** The honest stop-line between DIY and paid service; strong trust and conversion article
 - **Search intent:** Decide whether to call a professional
@@ -876,7 +876,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 
 ---
 
-### 064. Why a Water Softener Is Not Using Salt
+### 064. Why a Water Softener Is Not Using Salt ✅ Published — 2026-09-23 — /blog/water-softener-not-using-salt/
 - **Hub:** H4 (this is the hub page)
 - **Funnel role:** Top mechanical query; hub for all valve and brine faults
 - **Search intent:** Salt level is not dropping; determine why
@@ -888,7 +888,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Split the diagnosis at the top into two branches — not regenerating at all versus regenerating without drawing brine — because they share a symptom and share nothing else. Include the manual regeneration observation test where you watch the brine level fall in real time, which settles the branch in twenty minutes.
 - **Links:** down to all H4 spokes; across "Why a Water Softener Will Not Regenerate", "How to Clean a Softener Injector and Venturi", "How to Identify and Break a Salt Bridge"
 
-### 065. Why a Water Softener Uses Too Much Salt
+### 065. Why a Water Softener Uses Too Much Salt ✅ Published — 2026-09-23 — /blog/water-softener-using-too-much-salt/
 - **Hub:** H4
 - **Funnel role:** Ongoing cost complaint; drives programming and valve repair
 - **Search intent:** Reduce excessive salt consumption
@@ -900,7 +900,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Lead with the settings error nobody checks: hardness entered in ppm on a valve expecting grains, which inflates salt use roughly seventeenfold. Then cover fixed-dose timers and continuous brine fill. Include an expected-consumption calculator so readers can tell "too much" from "normal".
 - **Links:** up H4; across "How to Set Water Hardness on a Control Valve", "How Much Salt Does a Water Softener Use", "How to Set the Salt Dose on a Water Softener"
 
-### 066. Why the Brine Tank Is Full of Water or Overflowing
+### 066. Why the Brine Tank Is Full of Water or Overflowing ✅ Published — 2026-09-23 — /blog/brine-tank-full-of-water-or-overflowing/
 - **Hub:** H4
 - **Funnel role:** Urgent — carries flood risk; high service-call conversion
 - **Search intent:** Stop a brine tank filling or overflowing
@@ -912,7 +912,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Open with damage control — bypass and manually siphon before diagnosing — because readers arriving here often have water on the floor. Then cover the four causes in likelihood order, including the safety float that was supposed to prevent this and why it commonly fails.
 - **Links:** up H4; across "Brine Tank Internals: Float, Safety Float and Brine Well", "How to Clean a Softener Injector and Venturi", "Does Homeowners Insurance Cover Softener Leaks"
 
-### 067. Why There Is No Water in the Brine Tank
+### 067. Why There Is No Water in the Brine Tank ✅ Published — 2026-09-23 — /blog/no-water-in-brine-tank/
 - **Hub:** H4
 - **Funnel role:** Opposite fault to overflow; commonly misread as normal
 - **Search intent:** Determine whether a dry brine tank is a fault
@@ -924,7 +924,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Resolve the confusion first: most valves refill the brine tank at the *end* of regeneration, so a dry tank between cycles can be perfectly correct. Give the timing check that distinguishes normal from a failed refill, then the causes of genuine refill failure.
 - **Links:** up H4; across "How Water Softener Regeneration Works", "Why a Water Softener Is Not Using Salt", "How High Should Salt Be in a Brine Tank"
 
-### 068. Why a Water Softener Keeps Draining
+### 068. Why a Water Softener Keeps Draining ✅ Published — 2026-09-23 — /blog/water-softener-constantly-draining/
 - **Hub:** H4
 - **Funnel role:** Water waste plus bill impact; urgent
 - **Search intent:** Stop continuous drain flow
@@ -936,7 +936,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Quantify the cost immediately — measured gallons per minute converted to a monthly water bill — because that number drives the reader to act. Then the diagnosis: stuck in a cycle position versus failed seals, distinguished by whether advancing the valve manually changes anything.
 - **Links:** up H4; across "Why a Water Softener Is Stuck in Regeneration", "Water Softener Control Valve: How It Works", "Common Water Softener Repair Costs Explained"
 
-### 069. Why a Water Softener Is Stuck in Regeneration
+### 069. Why a Water Softener Is Stuck in Regeneration ✅ Published — 2026-09-23 — /blog/water-softener-stuck-in-regeneration/
 - **Hub:** H4
 - **Funnel role:** Hard fault with clear repair path
 - **Search intent:** Free a valve stuck mid-cycle
@@ -948,7 +948,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A component-isolation sequence anyone can run without special tools: listen for the motor, watch the cam or piston, check the position sensor. Include the manual advance procedure and the point at which continuing to force the valve causes real damage.
 - **Links:** up H4; across "Why a Water Softener Will Not Regenerate", "Water Softener Noises: Motor, Clicking and Humming", "Water Softener Control Valve: How It Works"
 
-### 070. Why a Water Softener Will Not Regenerate
+### 070. Why a Water Softener Will Not Regenerate ✅ Published — 2026-09-23 — /blog/water-softener-will-not-regenerate/
 - **Hub:** H4
 - **Funnel role:** Root cause behind many hardness complaints
 - **Search intent:** Restore a regeneration cycle that never starts
@@ -960,7 +960,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Order the sequence by cost and likelihood, and include the meter test that most guides omit entirely: run a known volume through the system and confirm the display advances. A stalled meter is a common and cheap fault that otherwise gets misdiagnosed as a dead valve.
 - **Links:** up H4; across "How to Start a Manual Regeneration Safely", "Why a Water Softener Is Not Using Salt", "Metered vs Timer-Based Water Softeners"
 
-### 071. Softener Display Blank or Showing an Error Code
+### 071. Softener Display Blank or Showing an Error Code ✅ Published — 2026-09-23 — /blog/water-softener-error-code-or-blank-display/
 - **Hub:** H4
 - **Funnel role:** Electronics fault; high-urgency, immediate search
 - **Search intent:** Interpret an error code or restore a dead display
@@ -972,7 +972,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Build a cross-manufacturer error-code reference table (Fleck, Clack, Autotrol, GE, Whirlpool, Culligan) mapping vendor codes to shared fault families — motor stall, position sensor, memory loss, meter fault. Nothing comparable exists as a single page, and it is a durable link asset.
 - **Links:** up H4; across "Why a Water Softener Keeps Losing Its Settings", "Why a Water Softener Is Stuck in Regeneration", "Signs a Water Softener Needs Professional Service"
 
-### 072. Water Softener Noises: Motor, Clicking and Humming
+### 072. Water Softener Noises: Motor, Clicking and Humming ✅ Published — 2026-09-23 — /blog/water-softener-making-noise/
 - **Hub:** H4
 - **Funnel role:** Early warning symptom; catches failures before they become faults
 - **Search intent:** Identify whether a noise is normal or a failing part
@@ -984,7 +984,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A sound-to-cause reference with audio clips or clear descriptions, keyed to whether the noise occurs during regeneration or between cycles — the single distinction that separates normal operation from a failing motor, stripped gear or air-in-line condition.
 - **Links:** up H4; across "How Water Softener Regeneration Works", "Why a Water Softener Is Stuck in Regeneration", "Why Air Appears in Faucets After Softener Service"
 
-### 073. Why a Water Softener Leaks at the Control Head
+### 073. Why a Water Softener Leaks at the Control Head ✅ Published — 2026-09-23 — /blog/water-softener-leaking-at-control-head/
 - **Hub:** H4
 - **Funnel role:** Leak with water damage exposure; drives rebuild or replacement
 - **Search intent:** Locate and stop a leak at the valve body
@@ -996,7 +996,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A dry-and-mark method for pinpointing the origin (paper towel wrap, mark the first wet spot) plus a labeled diagram of the four leak points and what each one costs to fix. Include the freeze-crack signature, which looks like a seal leak but is terminal.
 - **Links:** up H4; across "Water Softener Control Valve: How It Works", "Common Water Softener Repair Costs Explained", "What to Do if a Water Softener Freezes"
 
-### 074. Why a Water Softener Bypass Valve Leaks
+### 074. Why a Water Softener Bypass Valve Leaks ✅ Published — 2026-09-23 — /blog/water-softener-bypass-valve-leaking/
 - **Hub:** H4
 - **Funnel role:** Common and cheap fix; also explains hardness breakthrough
 - **Search intent:** Stop a leak at the bypass assembly
@@ -1008,7 +1008,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Connect the leak to a second, invisible problem: a worn bypass frequently allows internal bleed-through, so the house gets partially hard water with no obvious symptom. Include the O-ring replacement walkthrough and the annual exercise routine that prevents both failures.
 - **Links:** up H4; across "How to Inspect and Exercise a Bypass Valve", "Why Water Is Still Hard After Installing a Softener", "Water Softener Maintenance Schedule: Monthly and Annual"
 
-### 075. Why a Water Softener Drain Line Leaks
+### 075. Why a Water Softener Drain Line Leaks ✅ Published — 2026-09-23 — /blog/water-softener-drain-line-leaking/
 - **Hub:** H4, H9
 - **Funnel role:** Leak plus code implications
 - **Search intent:** Stop a drain line leak and connect it correctly
@@ -1020,7 +1020,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover inspection and repair together, including the failure modes specific to drain tubing — UV embrittlement, kinking at the elbow, clamp creep — and the support spacing that prevents recurrence. Tie back to air gap requirements so a repair does not create a code violation.
 - **Links:** up H4, H9; across "Water Softener Drain Line Requirements", "Why a Water Softener Drain Needs an Air Gap", "Where Can a Water Softener Drain"
 
-### 076. Why Water Pressure Drops After a Softener
+### 076. Why Water Pressure Drops After a Softener ✅ Published — 2026-09-23 — /blog/low-water-pressure-after-water-softener/
 - **Hub:** H4
 - **Funnel role:** Very high-volume complaint; often a sizing rather than fault issue
 - **Search intent:** Recover pressure lost after installation
@@ -1032,7 +1032,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the expected pressure drop range by valve size and flow, so readers can judge whether their loss is normal engineering or a fault. Include gauge readings taken before and after the unit at several flow rates, and address directly the myth that a softener can *increase* pressure.
 - **Links:** up H4; across "Grain Capacity vs Peak Flow Rate", "How Pressure Drop Affects Softener Sizing", "Minimum and Maximum Pressure for a Water Softener"
 
-### 077. Water Hammer and Pressure Surges After a Softener
+### 077. Water Hammer and Pressure Surges After a Softener ✅ Published — 2026-09-23 — /blog/water-hammer-after-water-softener/
 - **Hub:** H4, H9
 - **Funnel role:** Plumbing damage risk; code-adjacent
 - **Search intent:** Stop banging pipes that started after installation
@@ -1044,7 +1044,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain why the softener triggers hammer the house never had before — rapid valve closure during cycle transitions — and where an arrestor must sit to work. Include the pressure-reducing valve interaction and the thermal expansion trap that appears on closed systems.
 - **Links:** up H4, H9; across "Minimum and Maximum Pressure for a Water Softener", "Minimum and Maximum Pressure for a Water Softener", "Water Softener Control Valve: How It Works"
 
-### 078. Why There Is No Water After Softener Installation
+### 078. Why There Is No Water After Softener Installation ✅ Published — 2026-09-23 — /blog/no-water-after-installing-water-softener/
 - **Hub:** H4, H8
 - **Funnel role:** Emergency; immediate high-intent search
 - **Search intent:** Restore water flow after an install
@@ -1056,7 +1056,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Written for someone standing at the unit with no water in the house: the fastest-to-check items first, in the order a technician would actually work them. Include the inlet screen debris case, which spikes after any main-line work, and how to restore supply while diagnosing.
 - **Links:** up H4, H8; across "How to Inspect and Exercise a Bypass Valve", "Water Softener Startup Procedure After Installation", "Common Water Softener Installation Mistakes"
 
-### 079. Why Air Appears in Faucets After Softener Service
+### 079. Why Air Appears in Faucets After Softener Service ✅ Published — 2026-09-23 — /blog/air-in-faucets-after-softener-service/
 - **Hub:** H4
 - **Funnel role:** Post-service symptom; usually benign but sometimes a real fault
 - **Search intent:** Clear sputtering air from the plumbing
