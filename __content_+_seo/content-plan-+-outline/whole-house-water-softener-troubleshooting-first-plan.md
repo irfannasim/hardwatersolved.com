@@ -1068,7 +1068,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Separate the transient case from the persistent one, and give the purge order (lowest fixture first, hot lines last) that clears trapped air properly. For persistent air, cover the brine draw and well pressure tank causes, which are entirely different problems sharing one symptom.
 - **Links:** up H4; across "Why Softened Water Looks Cloudy", "Water Softener Startup Procedure After Installation", "Why Air Appears in Faucets After Softener Service"
 
-### 080. Why a Water Softener Keeps Losing Its Settings
+### 080. Why a Water Softener Keeps Losing Its Settings ✅ Published — 2026-09-24 — /blog/water-softener-keeps-losing-settings/
 - **Hub:** H4
 - **Funnel role:** Recurring nuisance with a definite cause; cheap fix
 - **Search intent:** Stop programming loss after outages
@@ -1080,7 +1080,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Identify the backup component by valve family with replacement part numbers, since manuals rarely mention it exists. Include the post-outage checklist (verify time, hardness, capacity, cycle position) and why a wrong clock quietly causes hard water at peak demand.
 - **Links:** up H4; across "What Time Should a Water Softener Regenerate", "How to Set Water Hardness on a Control Valve", "Softener Display Blank or Showing an Error Code"
 
-### 081. How to Start a Manual Regeneration Safely
+### 081. How to Start a Manual Regeneration Safely ✅ Published — 2026-09-24 — /blog/how-to-manually-regenerate-a-water-softener/
 - **Hub:** H4
 - **Funnel role:** Core diagnostic procedure referenced across the troubleshooting library
 - **Search intent:** Force a regeneration cycle correctly
@@ -1092,7 +1092,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Frame manual regeneration as a diagnostic instrument, not just a procedure: what to observe at each stage (backwash flow, brine draw rate, salt level change, rinse clarity) and what each observation rules in or out. Include when a double regeneration is warranted and when it is just wasting salt.
 - **Links:** up H4; across "How Water Softener Regeneration Works", "Why a Water Softener Is Not Using Salt", "How to Verify a Softener Is Producing Soft Water"
 
-### 082. How to Clean a Softener Injector and Venturi
+### 082. How to Clean a Softener Injector and Venturi ✅ Published — 2026-09-24 — /blog/how-to-clean-a-water-softener-injector/
 - **Hub:** H4
 - **Funnel role:** The single most valuable DIY repair in the niche; fixes a large share of no-brine faults
 - **Search intent:** Restore brine draw by cleaning the injector
@@ -1104,7 +1104,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Full photographic teardown for the common valve families, including the screen most people miss and the reassembly orientation that causes a repeat failure if reversed. Include what the debris found inside tells you about the salt grade and whether a prefilter is needed.
 - **Links:** up H4; across "Why a Water Softener Is Not Using Salt", "What Does a Softener Injector or Venturi Do", "Water Softener Salt Types Compared"
 
-### 083. How to Clean and Service a Water Softener Control Valve
+### 083. How to Clean and Service a Water Softener Control Valve ✅ Published — 2026-09-24 — /blog/servicing-a-water-softener-control-valve/
 - **Hub:** H4
 - **Funnel role:** Deeper repair; the step before replacement
 - **Search intent:** Service a valve without replacing it
@@ -1116,7 +1116,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A full rebuild walkthrough with the lubricant question answered definitively — silicone only, never petroleum, which destroys the seals — since this is the most common way owners turn a repair into a replacement. Include torque and seating cautions and a parts-kit reference by valve family.
 - **Links:** up H4; across "Water Softener Control Valve: How It Works", "Why a Water Softener Leaks at the Control Head", "Common Water Softener Repair Costs Explained"
 
-### 084. Water Softener Control Valve: How It Works
+### 084. Water Softener Control Valve: How It Works ✅ Published — 2026-09-24 — /blog/how-a-water-softener-control-valve-works/
 - **Hub:** H4
 - **Funnel role:** Reference page that makes every mechanical fault article comprehensible
 - **Search intent:** Understand valve operation to diagnose faults
@@ -1128,7 +1128,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A stage-by-stage flow diagram of all five valve positions showing where water goes in each, annotated with the fault that appears when that stage fails. This turns an educational page into a diagnostic index and makes it the natural hub link target for the whole batch.
 - **Links:** up H4; across every mechanical fault article; across "How Water Softener Regeneration Works"
 
-### 085. What Does a Softener Injector or Venturi Do?
+### 085. What Does a Softener Injector or Venturi Do? ✅ Published — 2026-09-24 — /blog/what-a-water-softener-injector-does/
 - **Hub:** H4
 - **Funnel role:** Component explainer supporting the highest-value repair article
 - **Search intent:** Understand the brine draw mechanism
@@ -1140,7 +1140,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain the Venturi principle with a cutaway diagram, then the practical consequence readers need: because the effect depends entirely on pressure and a precise orifice, low inlet pressure and tiny debris both stop brine draw. Include injector sizing by tank diameter.
 - **Links:** up H4; across "How to Clean a Softener Injector and Venturi", "Minimum and Maximum Pressure for a Water Softener", "Why a Water Softener Is Not Using Salt"
 
-### 086. Brine Tank Internals: Float, Safety Float and Brine Well
+### 086. Brine Tank Internals: Float, Safety Float and Brine Well ✅ Published — 2026-09-24 — /blog/water-softener-brine-tank-internals/
 - **Hub:** H4
 - **Funnel role:** Component reference behind the overflow and no-brine faults
 - **Search intent:** Understand and service brine tank components
@@ -1152,7 +1152,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Show float height adjustment as a tuning control — it directly sets brine volume and therefore salt dose — which most owners never realize is adjustable. Include the safety float test procedure, since a failed one is invisible until the basement floods.
 - **Links:** up H4; across "Why the Brine Tank Is Full of Water or Overflowing", "How to Set the Salt Dose on a Water Softener", "How to Clean a Water Softener Brine Tank"
 
-### 087. Inside a Water Softener Mineral Tank
+### 087. Inside a Water Softener Mineral Tank ✅ Published — 2026-09-24 — /blog/inside-a-water-softener-mineral-tank/
 - **Hub:** H4
 - **Funnel role:** Reference for resin faults and tank rebuilds
 - **Search intent:** Understand internal tank construction
@@ -1164,7 +1164,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A full cutaway with photographs from an actual disassembled tank, covering the gravel underbed debate (when it helps, when it is unnecessary) and the distributor tube crack that sends resin into the house. Include correct resin fill volume by tank size.
 - **Links:** up H4; across "Why Resin Beads Appear in Household Plumbing", "What Is Resin Channeling in a Water Softener", "Water Softener Resin Life and When to Replace It"
 
-### 088. How to Inspect and Exercise a Bypass Valve
+### 088. How to Inspect and Exercise a Bypass Valve ✅ Published — 2026-09-24 — /blog/water-softener-bypass-valve-testing/
 - **Hub:** H4, H8
 - **Funnel role:** Preventive maintenance that avoids an emergency
 - **Search intent:** Keep a bypass valve working and verify it seals
@@ -1176,7 +1176,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Test the bypass rather than just operate it: put the valve in bypass, then measure hardness at a tap to confirm it is actually diverting, and in service to confirm it is not bleeding through. Include planning shutoffs so future service does not require draining the house.
 - **Links:** up H4, H8; across "Why a Water Softener Bypass Valve Leaks", "Why Only Some Faucets Have Soft Water", "Water Softener Maintenance Schedule: Monthly and Annual"
 
-### 089. What to Do if a Water Softener Freezes
+### 089. What to Do if a Water Softener Freezes ✅ Published — 2026-09-24 — /blog/frozen-water-softener/
 - **Hub:** H4
 - **Funnel role:** Seasonal emergency with real damage risk
 - **Search intent:** Recover a frozen system without destroying it
@@ -1188,7 +1188,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A safe thaw protocol plus a damage assessment checklist covering the components that crack invisibly (valve body, tank threads, bypass) and only leak once pressure returns. Include the decision point for replacement and what freeze damage does to warranty coverage.
 - **Links:** up H4; across "How to Winterize a Water Softener", "Why a Water Softener Leaks at the Control Head", "How to Winterize a Water Softener"
 
-### 090. How to Winterize a Water Softener
+### 090. How to Winterize a Water Softener ✅ Published — 2026-09-24 — /blog/how-to-winterize-a-water-softener/
 - **Hub:** H4
 - **Funnel role:** Seasonal preventive; drives traffic every autumn
 - **Search intent:** Prepare a softener for freezing conditions or an unheated season
@@ -1200,7 +1200,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Distinguish the two scenarios that require different procedures: a heated home with an exposed unit versus a property left unheated all winter. Cover the valve passages that retain water after draining, which is where most freeze cracks actually originate.
 - **Links:** up H4; across "What to Do if a Water Softener Freezes", "Water Softener Care for Seasonal Homes and Cabins", "How to Winterize a Water Softener"
 
-### 091. How to Restart a Softener After Running Out of Salt
+### 091. How to Restart a Softener After Running Out of Salt ✅ Published — 2026-09-24 — /blog/water-softener-ran-out-of-salt/
 - **Hub:** H4
 - **Funnel role:** Extremely common, entirely free to fix; excellent trust builder
 - **Search intent:** Recover normal operation after the tank ran empty
@@ -1212,7 +1212,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain the step everyone skips: after refilling, the salt needs several hours to make brine before a regeneration will accomplish anything, and one cycle may not fully restore a badly exhausted bed. Include the timeline and the double-regeneration case.
 - **Links:** up H4; across "How to Start a Manual Regeneration Safely", "How High Should Salt Be in a Brine Tank", "How Much Salt Does a Water Softener Use"
 
-### 092. What to Do With a Softener After Basement Flooding
+### 092. What to Do With a Softener After Basement Flooding ✅ Published — 2026-09-24 — /blog/water-softener-after-basement-flooding/
 - **Hub:** H4
 - **Funnel role:** Emergency with contamination and insurance implications
 - **Search intent:** Decide whether a submerged softener is safe to use
@@ -1232,7 +1232,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 
 ---
 
-### 093. Can a Water Softener Be Used on Private Well Water?
+### 093. Can a Water Softener Be Used on Private Well Water? ✅ Published — 2026-09-24 — /blog/water-softener-for-well-water/
 - **Hub:** H5 (this is the hub page)
 - **Funnel role:** Well-owner entry point; hub for the entire treatment-train cluster
 - **Search intent:** Establish whether a softener suits well water and what else is required
@@ -1244,7 +1244,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Open with the mistake that defines this category: buying a softener from a hardness number alone, then watching it foul within two years. Present a full-panel test requirement and a treatment-train decision tree that routes readers to the right stages before any purchase.
 - **Links:** down to all H5 spokes; across "Well Water Treatment Train Order", "Why Is Well Water Often Hard?", "Test Iron and Manganese Before Sizing a Softener"
 
-### 094. Where to Install a Softener on a Well Water System
+### 094. Where to Install a Softener on a Well Water System ✅ Published — 2026-09-24 — /blog/where-to-install-softener-on-well-system/
 - **Hub:** H5, H8
 - **Funnel role:** Feasibility and layout; prevents pump and pressure faults
 - **Search intent:** Position a softener correctly relative to well components
@@ -1256,7 +1256,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A full well-system layout diagram showing pump, pressure tank, prefilter, treatment stages and softener in correct order, with the reasoning for each position. Include the pressure switch interaction and why upstream placement causes both channeling and premature valve wear.
 - **Links:** up H5, H8; across "Well Water Treatment Train Order", "How Well Pump Flow Limits Treatment Backwashing", "Where Should a Whole-House Water Softener Be Installed"
 
-### 095. Can a Water Softener Remove Iron From Well Water?
+### 095. Can a Water Softener Remove Iron From Well Water? ✅ Published — 2026-09-24 — /blog/can-a-water-softener-remove-iron/
 - **Hub:** H5
 - **Funnel role:** Extremely high-volume well query; the answer determines the whole system spec
 - **Search intent:** Determine whether a softener alone will handle iron
@@ -1268,7 +1268,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give hard numbers with the conditions attached, rather than the vague "some iron" everyone else offers: the practical ceiling by resin type, why the limit collapses if any iron has already oxidized, and how manufacturer iron-removal claims are tested under conditions your well will not match. Include claim-verification guidance.
 - **Links:** up H5; across "Dissolved vs Oxidized Iron in Well Water", "How Iron Changes Water Softener Sizing", "Water Softener vs Iron Filter"
 
-### 096. Dissolved vs Oxidized Iron in Well Water
+### 096. Dissolved vs Oxidized Iron in Well Water ✅ Published — 2026-09-24 — /blog/dissolved-vs-oxidized-iron-in-well-water/
 - **Hub:** H5
 - **Funnel role:** The distinction that determines which equipment is needed; prevents costly errors
 - **Search intent:** Identify which form of iron is present
@@ -1280,7 +1280,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** The glass test photographed over 30 minutes, which readers can run for free and which determines the entire equipment path. Include the sampling trap that ruins lab results — iron oxidizing inside the sample bottle before it reaches the lab — and the preservation method that prevents it.
 - **Links:** up H5; across "Can a Water Softener Remove Iron From Well Water?", "Test Iron and Manganese Before Sizing a Softener", "Pretreatment Order: Sediment and Iron Filters Before a Softener"
 
-### 097. How Iron Changes Water Softener Sizing
+### 097. How Iron Changes Water Softener Sizing ✅ Published — 2026-09-24 — /blog/how-iron-changes-water-softener-sizing/
 - **Hub:** H5, H6
 - **Funnel role:** Sizing correction specific to wells; prevents undersizing
 - **Search intent:** Adjust a sizing calculation for iron content
@@ -1292,7 +1292,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Publish the compensated-hardness formula with three worked well examples at different iron levels, showing the resulting capacity and salt-dose changes. Include why iron also demands more frequent regeneration than the capacity math alone suggests.
 - **Links:** up H5, H6; across "How to Calculate the Right Water Softener Size", "Can a Water Softener Remove Iron From Well Water?", "How to Set Water Hardness on a Control Valve"
 
-### 098. Pretreatment Order: Sediment and Iron Filters Before a Softener
+### 098. Pretreatment Order: Sediment and Iron Filters Before a Softener ✅ Published — 2026-09-24 — /blog/iron-filter-before-water-softener/
 - **Hub:** H5
 - **Funnel role:** Core treatment-train decision; determines several purchases
 - **Search intent:** Decide what goes ahead of the softener and in what order
@@ -1304,7 +1304,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover sediment and iron pretreatment together because they are one decision in practice, with a threshold table stating at what measured level each stage becomes necessary. Include the backwash-scheduling conflict between two backwashing units on one well — a real problem that catches most DIY installers.
 - **Links:** up H5; across "Well Water Treatment Train Order", "Water Softener vs Iron Filter", "How Well Pump Flow Limits Treatment Backwashing"
 
-### 099. Water Softener vs Iron Filter
+### 099. Water Softener vs Iron Filter ✅ Published — 2026-09-24 — /blog/water-softener-vs-iron-filter/
 - **Hub:** H5, H7
 - **Funnel role:** High-intent comparison at a real purchase fork
 - **Search intent:** Choose between two systems, or determine that both are needed
