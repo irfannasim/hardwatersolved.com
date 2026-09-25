@@ -4,6 +4,7 @@ seoTitle: "Hard Water Ring in Toilet: 5 Stain Colors Decoded"
 seoDescription: "A hard water ring in the toilet is white for calcium, orange for iron, black for manganese. Match the color to the right chemistry before you scrub anything."
 excerpt: "The colour of the ring tells you which mineral made it, and each mineral needs different chemistry to remove. Scrubbing the wrong product against the wrong stain is why the ring keeps winning."
 date: "2026-09-09"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/4239074/pexels-photo-4239074.jpeg"
@@ -33,6 +34,8 @@ Two consequences follow directly:
 
 - **The waterline is a moving target.** Every flush drops and refills the bowl, so the deposit builds across a band an inch or two wide rather than a single line. In a rarely used bathroom the level is more stable, and the ring is narrower and harder.
 - **The deposit is layered.** A ring that has been there for years is not one substance. Calcium scale traps iron oxide, which traps more calcium. Removing it often takes two passes with different chemistry, and the second pass reveals a colour the first one hid.
+
+![Cross-section of a toilet bowl showing how evaporation and oxidation form a hard water ring in a band at the waterline](/diagrams/toilet-bowl-hard-water-ring-waterline-formation.svg "Evaporation concentrates minerals at the waterline, and flushing spreads them into a band")
 
 There is a third factor people miss. Toilet bowls are vitreous china, which is glazed and non-porous when new, but decades of abrasive cleaning micro-scratch that glaze. Once scratched, the surface holds deposits mechanically as well as chemically, and the ring returns faster each time. This is the argument against reaching for scouring powder as a first move.
 

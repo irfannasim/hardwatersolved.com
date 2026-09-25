@@ -4,6 +4,7 @@ seoTitle: "How to Clean a Water Softener Brine Tank Step by Step"
 seoDescription: "How to clean a brine tank safely: bypass first, then salt, water, brine well, grid plate. The order that avoids flooding the floor or breaking the float."
 excerpt: "A brine tank cleanout is an hour of unglamorous work with a bucket, and there are exactly three components inside that people break doing it. All three are cheap, none of them are in stock at a hardware store, and each one turns a free afternoon into a week of hard water waiting on a parts order. The sequence below is ordered to protect them — and the sludge you scrape off the floor turns out to be worth reading before you throw it away."
 date: "2026-09-22"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/9462652/pexels-photo-9462652.jpeg"
@@ -37,6 +38,8 @@ Before anything comes apart, it is worth knowing what is fragile, because all th
 | **Safety float** | Float on a rod inside the well that shuts off refill | Pulled out by the rod, or forced past crystallised salt | Refill will not shut off; tank overflows |
 | **Grid plate** | Perforated plate on the tank floor, on some models | Stood on, or prised up with a screwdriver | Snapped; salt sits directly in the brine plenum |
 
+![Brine tank cross-section showing the brine well, safety float and grid plate, numbered in the safe removal order for cleaning.](/diagrams/brine-tank-anatomy-float-brine-well-grid-plate-removal-order.svg "Salt, then water, then float, brine well and grid plate, in that order.")
+
 **The tank itself is the fourth.** Brine tanks are thin polyethylene and go brittle in cold basements. They do not tolerate being tipped when full, stood on, or struck. A full tank is heavy enough that tipping it also strains the connections at the base.
 
 **Why the sequence protects them.** Every one of those breakages happens when someone tries to remove a component while salt or water is still supporting, packing or hiding it. Take the salt out, then the water, then the parts — in that order — and there is almost nothing left to get wrong.
@@ -44,8 +47,6 @@ Before anything comes apart, it is worth knowing what is fragile, because all th
 **One thing to check before you commit to the job.** If the salt level has been frozen at one height for weeks, you may have a bridge rather than a dirty tank, and that is a ten-second fix rather than an hour — see [how to identify and break a salt bridge](/blog/water-softener-salt-bridge/) first.
 
 ## Bypass First, and Move the Valve Slowly
-
-![Engineer in safety gear inspecting a run of industrial piping and valves, the isolation step that has to happen before a brine tank is opened](https://images.pexels.com/photos/16442684/pexels-photo-16442684.jpeg)
 
 This is the step that gets skipped, and it is the one that floods floors.
 
@@ -87,8 +88,6 @@ Work top down. Nothing comes out until what is on top of it has gone.
 
 ## Reading What Came Out
 
-![Gloved hand scrubbing a stainless steel basin with soapy water and a brush, the wash stage that follows scraping residue from a brine tank floor](https://images.pexels.com/photos/9462296/pexels-photo-9462296.jpeg)
-
 Before you wash the scrapings down a drain, look at them. This is the diagnostic half of the job and it takes thirty seconds.
 
 | What you scraped out | What it means | What to change |
@@ -106,8 +105,6 @@ Before you wash the scrapings down a drain, look at them. This is the diagnostic
 **Depth is the other number to note.** Write it down. Next year's depth, compared against this one, tells you whether the salt change worked without you having to guess.
 
 ## Reassembling, Refilling and Proving It Works
-
-![Gloved hand applying detergent with a cleaning brush to a surface, the final wash before a brine tank is rinsed and reassembled](https://images.pexels.com/photos/5233260/pexels-photo-5233260.jpeg)
 
 Reassembly is the reverse of disassembly, with two details that matter.
 

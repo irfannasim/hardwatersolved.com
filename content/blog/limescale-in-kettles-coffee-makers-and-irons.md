@@ -4,6 +4,7 @@ seoTitle: "Limescale in Kettle and Coffee Maker: How Often to Descale"
 seoDescription: "Limescale in kettle and coffee maker builds fastest in heated appliances. Descaling intervals set by measured hardness, plus why steam irons spit white flakes."
 excerpt: "Small heated appliances are the first thing in your house to show hardness, which makes them a free measuring instrument. Here is one descaling table driven by your actual grain count — and the reason an iron spits flakes when a kettle only crusts."
 date: "2026-09-10"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/10965749/pexels-photo-10965749.jpeg"
@@ -104,6 +105,8 @@ A kettle boils. Water and element sit in contact, temperature rises through 212�
 A steam iron **flash-boils**. Water is metered in droplets onto a chamber surface running far above boiling point, where it vaporises almost instantly. That instantaneous phase change is violent at small scale: it produces a pressure pulse that mechanically lifts loose deposit off the chamber wall and drives it out through the soleplate vents.
 
 That is why an iron delivers scale onto your shirt while a kettle merely stores it. The white flakes are not a different substance from kettle scale — they are the same calcium carbonate, being ejected rather than accumulated. Brown or rust-tinted spitting is a later stage, and it usually means corrosion inside the chamber rather than fresh hardness.
+
+![Cutaway comparing limescale building up as a crust in a kettle with a steam iron flash-boiling and ejecting scale flakes through the soleplate](/diagrams/steam-iron-flash-boil-vs-kettle-scale-mechanism.svg "A kettle stores its scale; a steam iron’s flash-boiling blows it out onto your clothes.")
 
 **Practical consequences:**
 

@@ -4,6 +4,7 @@ seoTitle: "Hard Water Clogged Showerhead: Fix It in 30 Minutes"
 seoDescription: "A hard water clogged showerhead is fixable in 30 minutes. Measure flow before and after with a bucket, and the regrowth rate tells you what your water is doing."
 excerpt: "Descaling a showerhead is the easy part. Measuring the flow before and after — and again next month — turns a chore into the cheapest scale-rate log you will ever run."
 date: "2026-09-09"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/4194865/pexels-photo-4194865.jpeg"
@@ -92,6 +93,8 @@ This is the same reasoning applied elsewhere in the house. The [regrowth interva
 Almost every showerhead sold now has flexible silicone or rubber nozzles that you can rub clean with a thumb. They are genuinely convenient, and they are also the reason a lot of households never realise how hard their water is.
 
 The nubs work because scale does not bond well to flexible silicone — flexing the surface cracks the deposit off. What that does is keep the *visible* face clear while scale continues to build in the internal manifold, the flow passages and the inlet screen, none of which flex. So the spray pattern stays acceptable long after the flow rate has fallen substantially.
+
+![Cutaway diagram of a hard water clogged showerhead with scale hidden in the inlet screen and internal passages behind clean silicone nozzles](/diagrams/showerhead-internal-parts-where-scale-hides.svg "Silicone nubs keep the face clear while scale builds where you cannot see it")
 
 The practical consequence: on a nub head, spray appearance is a useless indicator and the bucket test is the only reliable one. Households often report that their old metal-faced head clogged constantly while the new one "never does" — the new one is simply hiding it. Meanwhile the same water is depositing scale in a water heater at exactly the same rate.
 

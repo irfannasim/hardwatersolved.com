@@ -4,6 +4,7 @@ seoTitle: "Water Softener Injector Venturi: 4 Things That Kill Suction"
 seoDescription: "The water softener injector venturi makes suction from flowing water alone, with no moving parts. Why pressure and a speck of debris decide whether brine moves."
 excerpt: "The injector is the only part of a softener that moves brine, and it has no moving parts. It turns water pressure into suction by forcing a jet through a precise hole, and that same precision is its weakness: a grain of sand, a few psi of missing pressure or a kinked drain line can stop it completely while everything else keeps running. Here is how it works, why it fails, and how it is sized to your tank."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/4870836/pexels-photo-4870836.jpeg"
@@ -27,8 +28,6 @@ Everything else about the injector (why it clogs, why it needs pressure, why its
 
 ## The Venturi Principle, Drawn Out
 
-![Clear water running from the end of an outdoor metal pipe in sunlight, a reminder that a softener injector makes its suction entirely from water in motion](https://images.pexels.com/photos/35667687/pexels-photo-35667687.jpeg)
-
 Two pieces of physics do all the work.
 
 1. **The same water through a smaller hole must go faster.** Push a fixed flow through a narrow opening and it speeds up. A thumb over a garden hose does the same thing.
@@ -36,19 +35,7 @@ Two pieces of physics do all the work.
 
 Here is how a softener injector arranges those two effects. The drawing is a simplified cutaway, not to scale.
 
-```text
-            high pressure,         very fast jet,            slowing down,
-            slow water             LOW pressure              pressure recovers
-                 │                       │                          │
-  VALVE ═══════╗ ▼                       ▼                          ▼
-  WATER ──────►║ NOZZLE ▶▶▶▶▶▶▶▶▶▶▶▶ ▶▶▶▶ ║ THROAT ══════════╗
-  (from inlet) ║ (tiny orifice)   ░░░░░░   ║ (slightly larger) ╚══► TO RESIN
-               ╚══════════════╗   ░gap░    ╔═════════════════════   (brine + water)
-                              ║   ░░▲░░    ║
-                              ╚═════╪══════╝
-                                    │  suction
-                              BRINE LINE ◄── from brine tank
-```
+![Cutaway of a water softener injector venturi: water through a nozzle forms a fast jet whose low pressure sucks brine into the throat and on to the resin](/diagrams/water-softener-injector-venturi-cutaway.svg "A fast jet across the gap drops the pressure and pulls brine in")
 
 - **Nozzle.** A precise, small orifice. Water from the valve inlet is forced through it and leaves as a narrow, fast jet.
 - **Gap (suction chamber).** The jet crosses a small open space. Its speed makes the pressure here the lowest in the system. The brine line opens into this space.
@@ -78,6 +65,8 @@ The injector keeps working after the brine is gone. Two things happen at the end
 1. **The air check closes.** A float valve at the bottom of the brine pickup drops as the brine level falls and seals the line before the injector starts pulling air. Autotrol's manual says "brine draw is completed when the air check closes." That part lives in the brine tank; see [water softener brine tank internals](/blog/water-softener-brine-tank-internals/).
 2. **The injector becomes a slow-rinse flow control.** Water still flows through the nozzle and throat, now without brine. That gentle flow pushes the brine already in the bed slowly through the resin, giving it time to work. This is why Fleck and Autotrol name the step "brine/slow rinse," and why Clack's injector charts list a slow rinse rate for each injector size.
 
+![Two-stage diagram of a water softener injector drawing brine until the air check closes, then acting as the slow-rinse flow control](/diagrams/water-softener-injector-brine-draw-then-slow-rinse.svg "When the air check closes, the injector keeps working as a slow rinse")
+
 So the injector sets two rates: how fast brine goes in, and how fast it is rinsed through. Both are part of the regeneration's design. For where this step sits in the whole cycle, see [how a water softener control valve works](/blog/how-a-water-softener-control-valve-works/).
 
 ## The 4 Things That Kill Injector Suction
@@ -98,8 +87,6 @@ The suction depends on a pressure *difference* that is small to begin with. Anyt
 **Well systems deserve a special look.** Pressure on a private well swings between the pressure switch's cut-in and cut-out settings, and a regeneration that happens to run near the bottom of that range gets the weakest draw. If draw is marginal on a well, check the pressure at the low point of the cycle, not only at rest. Softener placement on a well system is covered in [where to install a softener on a well system](/blog/where-to-install-softener-on-well-system/).
 
 ## Injector Sizing by Tank Diameter
-
-![Hands wrapping a tape measure around a round trunk, the same wrap-around method that gives a softener resin tank's diameter when you divide the circumference by 3.14](https://images.pexels.com/photos/6636343/pexels-photo-6636343.jpeg)
 
 Injectors are sized to the resin tank. A wider tank holds more resin, needs more brine, and needs a larger injector to draw it in the programmed time. Manufacturers colour-code their injectors so the size can be identified at a glance.
 

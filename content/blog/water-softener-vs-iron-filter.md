@@ -4,6 +4,7 @@ seoTitle: "Water Softener vs Iron Filter: 4 Honest Answers and Costs"
 seoDescription: "Water softener vs iron filter: your iron level, its form and your hardness decide it. A decision matrix with four outcomes, plus installed and running costs."
 excerpt: "A softener and an iron filter treat different problems, and a lot of well owners end up buying the wrong one first. Three numbers from a water test decide it: how much iron there is, what form it is in, and how hard the water is. Put them into the matrix below and you get one of four answers, with the installed and running cost of each path set out honestly."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/21789836/pexels-photo-21789836.jpeg"
@@ -49,7 +50,7 @@ The row that decides most cases is the one for oxidized iron. A softener has no 
 
 ## The Decision Matrix: Four Possible Answers
 
-![Overhead view of a churning aeration basin at a water treatment facility, the large-scale version of the oxidation an iron filter performs](https://images.pexels.com/photos/5092287/pexels-photo-5092287.jpeg)
+![Water softener vs iron filter decision flowchart showing how iron bacteria, iron level, iron form, pH and hardness lead to four answers](/diagrams/water-softener-vs-iron-filter-decision-flowchart.svg "Answer the questions in order and stop at the first yes")
 
 You need three results, from a lab report or from a glass test plus a lab report. They are **hardness** (gpg), **dissolved and total iron** (ppm, which gives you the form), and **pH**. Manganese and a bacteria check help too. Read down the table and stop at the first row that matches.
 
@@ -63,6 +64,7 @@ You need three results, from a lab report or from a glass test plus a lab report
 | 6 | Hardness 3 gpg or more, dissolved iron above the softener's rating | **C. Both, iron filter first** |
 | 7 | Hardness 3 gpg or more, dissolved iron above 0.3 but within the rating, pH above 6.7 | **A. Softener alone**, programmed with compensated hardness |
 | 8 | Hardness 3 gpg or more, iron under 0.3 mg/L | **A. Softener alone** |
+| 9 | Hardness under 3 gpg, iron 0.3 mg/L or less | **Neither.** Below Penn State's softener range, and below the level where iron stains |
 
 **Notes on the thresholds:**
 
@@ -84,8 +86,6 @@ You need three results, from a lab report or from a glass test plus a lab report
 The arithmetic behind the second well's setting, and why 4 ppm is too much iron to leave to the softener, is set out in [how iron changes water softener sizing](/blog/how-iron-changes-water-softener-sizing/).
 
 ## The Honest Cost Comparison
-
-![Scientific calculator resting on a spread of US dollar bills, comparing the installed and running cost of a softener, an iron filter or both](https://images.pexels.com/photos/4386375/pexels-photo-4386375.jpeg)
 
 These installed price ranges come from [HomeGuide's well water filtration cost guide](https://homeguide.com/costs/well-water-filtration-system-cost). They are national ranges, and your local quotes may differ.
 

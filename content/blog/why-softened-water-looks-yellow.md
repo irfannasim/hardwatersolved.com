@@ -4,6 +4,7 @@ seoTitle: "Softened Water Looks Yellow? Tannins, Iron or Corrosion"
 seoDescription: "If your softened water looks yellow, colour that survives filtering is usually organic tannins — which a softener cannot remove. Two cheap tests prove it."
 excerpt: "Yellow water that a working softener does not touch is almost always organic tannin, not iron. Two tests settle it in an evening: the overnight glass, and a coffee filter. Iron leaves its colour on the paper; tannin goes straight through and stays in the cup — and that single difference decides whether you need a resin cleaner or a completely separate anion tank."
 date: "2026-09-17"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/33221902/pexels-photo-33221902.jpeg"
@@ -50,7 +51,7 @@ If the glass says iron, this is not your page: the mechanism, the backwash check
 
 ## Test 2: The Filter-Paper Test
 
-![Liquid being filtered through paper in a laboratory funnel, the same separation a paper coffee filter performs on yellow well water](https://images.pexels.com/photos/38897485/pexels-photo-38897485.jpeg)
+![Iron vs tannin test for yellow softened water: iron settles and stains a coffee filter, while tannin stays evenly yellow and passes through white paper](/diagrams/yellow-water-iron-vs-tannin-glass-and-filter-test.svg "Iron settles and stains the paper. Tannin stays in the cup")
 
 The overnight glass tells you whether the colour is particulate. The filter test tells you where the colour goes — and it is the more convincing of the two because it leaves physical evidence you can photograph and show a water treatment dealer.
 
@@ -93,7 +94,7 @@ There is one real health-adjacent issue, and it applies to chlorinated water rat
 
 ## Why a Softener Cannot Remove Tannins
 
-![Close-up of a clear glass of water standing on a wooden table, the sample used for the overnight settle test](https://images.pexels.com/photos/25595771/pexels-photo-25595771.jpeg)
+![Why a water softener cannot remove tannins: cation resin exchanges calcium and magnesium but repels negatively charged tannins, which anion resin captures](/diagrams/water-softener-cation-resin-vs-tannin-anion-resin.svg "Softener resin trades positive ions. Tannins are negative, so they pass straight through")
 
 The reason is electrical charge, and it is absolute rather than a matter of degree.
 

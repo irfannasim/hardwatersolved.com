@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="lhd-title lhd-desc">
+<title id="lhd-title">Legacy hard water diluting out of a storage water heater</title>
+<desc id="lhd-desc">Diagram of a storage water heater where softened water enters through the dip tube and mixes with the stored hard water, with a curve showing hardness remaining falling to about 37, 14, 5 and 2 percent, then under 1 percent, per tank volume drawn.</desc>
+<defs><marker id="lhd-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="lhd-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="lhd-t" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">How legacy hard water dilutes out of a water heater</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">A storage tank does not empty and refill. Softened water mixes in, so hardness falls gradually.</text>
+<rect x="70" y="140" width="130" height="250" rx="18" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="74" y="144" width="122" height="242" rx="15" fill="#fde7d4"/>
+<path class="ln" d="M100,104 L100,368" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lhd-s)"/>
+<path class="ln" d="M170,150 L170,104" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lhd-h)"/>
+<path class="ln" d="M118,340 C160,340 176,300 150,280 C128,262 118,236 150,220" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lhd-t)"/>
+<path class="ln" d="M150,210 C176,196 170,176 140,176" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lhd-t)"/>
+<text x="34" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">cold in:</text>
+<text x="34" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">softened</text>
+<text x="180" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">hot out</text>
+<text x="135" y="414" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">dip tube delivers cold</text>
+<text x="135" y="431" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">near the bottom; contents mix</text>
+<path d="M330,124 L330,370 L716,370" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="322" y="375" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0%</text>
+<text x="322" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">50%</text>
+<path d="M330,250 L710,250" stroke="#e2e8f0" stroke-width="1"/>
+<text x="322" y="135" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">100%</text>
+<path d="M330,130 L710,130" stroke="#e2e8f0" stroke-width="1"/>
+<text x="330" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<text x="406" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">1</text>
+<text x="482" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">2</text>
+<text x="558" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">3</text>
+<text x="634" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">4</text>
+<text x="710" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<text x="520" y="410" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">tank volumes drawn</text>
+<text x="280" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hardness remaining in the tank</text>
+<path d="M330.0,130.0 L337.6,152.8 L345.2,173.5 L352.8,192.2 L360.4,209.1 L368.0,224.4 L375.6,238.3 L383.2,250.8 L390.8,262.2 L398.4,272.4 L406.0,281.7 L413.6,290.1 L421.2,297.7 L428.8,304.6 L436.4,310.8 L444.0,316.4 L451.6,321.5 L459.2,326.2 L466.8,330.3 L474.4,334.1 L482.0,337.5 L489.6,340.6 L497.2,343.4 L504.8,345.9 L512.4,348.2 L520.0,350.3 L527.6,352.2 L535.2,353.9 L542.8,355.4 L550.4,356.8 L558.0,358.1 L565.6,359.2 L573.2,360.2 L580.8,361.1 L588.4,362.0 L596.0,362.8 L603.6,363.4 L611.2,364.1 L618.8,364.6 L626.4,365.1 L634.0,365.6 L641.6,366.0 L649.2,366.4 L656.8,366.7 L664.4,367.1 L672.0,367.3 L679.6,367.6 L687.2,367.8 L694.8,368.0 L702.4,368.2 L710.0,368.4" fill="none" stroke="#c2410c" stroke-width="3"/>
+<circle cx="330" cy="130" r="5" fill="#ffffff" stroke="#c2410c" stroke-width="2.5"/>
+<text x="340" y="120" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">100%</text>
+<circle cx="406" cy="281.2" r="5" fill="#ffffff" stroke="#c2410c" stroke-width="2.5"/>
+<text x="416" y="273.2" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">~37%</text>
+<circle cx="482" cy="336.4" r="5" fill="#ffffff" stroke="#c2410c" stroke-width="2.5"/>
+<text x="492" y="328.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">~14%</text>
+<circle cx="558" cy="358" r="5" fill="#ffffff" stroke="#c2410c" stroke-width="2.5"/>
+<text x="568" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">~5%</text>
+<circle cx="634" cy="365.2" r="5" fill="#ffffff" stroke="#c2410c" stroke-width="2.5"/>
+<text x="644" y="357.2" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">~2%</text>
+<circle cx="710" cy="368.32" r="5" fill="#ffffff" stroke="#c2410c" stroke-width="2.5"/>
+<text x="716" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">under 1%</text>
+<text x="716" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">undetectable on a strip</text>
+<path class="ln" d="M710,324 L710,359.32" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lhd-t)"/>
+<rect class="box" x="30" y="440" width="700" height="32" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="380" y="461" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">A family of four turns over a 50-gallon tank about once a day; low use can take weeks.</text>
+</svg>

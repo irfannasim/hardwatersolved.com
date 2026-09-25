@@ -4,6 +4,7 @@ seoTitle: "Water Softener Stuck in Regeneration: 3 Proven Checks"
 seoDescription: "Water softener stuck in regeneration? Listen for the motor, watch the cam or piston, then check the sensor: a no-tools sequence that finds the failed part."
 excerpt: "The display has shown the same regeneration step since yesterday, the drain has not stopped, and the house is on hard water. A valve that stops mid-cycle has failed at one of three points — the motor that turns it, the gears and piston it turns, or the sensor that tells the control where it is — and you can tell which with your ears, your eyes and a flashlight. The one thing to avoid is forcing the valve, because that turns a cheap part into an expensive one."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/34054470/pexels-photo-34054470.jpeg"
@@ -28,8 +29,6 @@ A **water softener stuck in regeneration** has failed at one of three points in 
 That sequence needs no meter and no special tools. It needs a flashlight, a few minutes of patience, and a firm rule about when to stop pushing.
 
 ## Water Softener Stuck in Regeneration? Make the House Safe First
-
-![Black power plug inserted into a white wall socket, the connection that should only be pulled after a stuck softener has been put into bypass](https://images.pexels.com/photos/36272732/pexels-photo-36272732.jpeg)
 
 A stuck valve is doing two kinds of damage while you read this: it may be sending water to the drain continuously, and it is sending unsoftened — or in some positions, unfiltered — water to the house.
 
@@ -57,9 +56,9 @@ Electronic controls report more than people assume. Before you open anything, ma
 
 **If there is a code**, match it to its fault family using [the cross-manufacturer water softener error code table](/blog/water-softener-error-code-or-blank-display/). Fleck's code 0, for example, means the drive took more than six minutes to reach the next position, and Autotrol's Err 3 means the control does not know where the camshaft is.
 
-## Check 1: Listen for the Motor
+![Diagram of a water softener control valve drive chain from power to motor, drive, valve and sensor, with the symptom that identifies each failed link](/diagrams/water-softener-control-valve-drive-chain-faults.svg "A stuck valve has broken one link in this chain")
 
-![Hands holding red and black meter probes against the wiring terminals of a small electric motor, the drive motor being the first suspect when a softener valve stops advancing](https://images.pexels.com/photos/33531832/pexels-photo-33531832.jpeg)
+## Check 1: Listen for the Motor
 
 Take the softener out of bypass so there is pressure at the valve, then call for a step change with the manual advance button. Put your ear close to the control head and listen for the next ten seconds.
 
@@ -95,7 +94,7 @@ Most control heads have a removable front cover, and many retail cabinet units h
 
 ## Check 3: Check the Position Sensor
 
-![Close-up of a printed circuit board with surface-mounted chips and traces, the kind of control board a softener's position switch or optical sensor reports to](https://images.pexels.com/photos/6755082/pexels-photo-6755082.jpeg)
+![Diagram of the three water softener valve position sensor types (cam microswitch, optical slotted wheel and rotor position switch) and what to check](/diagrams/water-softener-valve-position-sensor-types.svg "The control only knows where the valve is through one of these sensors")
 
 The control does not see the valve. It relies on a sensor to tell it where the cam or piston is, and when that signal fails, a perfectly healthy valve can be left parked in the wrong place.
 

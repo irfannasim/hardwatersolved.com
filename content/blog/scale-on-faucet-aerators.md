@@ -4,6 +4,7 @@ seoTitle: "Scale on Faucet Aerator: Why It Keeps Coming Back Fast"
 seoDescription: "Scale on a faucet aerator returns because cleaning treats the symptom. Here is the 15-minute rebuild, the reassembly order people get wrong, and why it recurs."
 excerpt: "You soaked it in vinegar, the flow came back, and six weeks later it is spitting sideways again. The regrowth interval is telling you your hardness level — and the screen order is probably wrong."
 date: "2026-09-08"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/7579012/pexels-photo-7579012.jpeg"
@@ -34,8 +35,6 @@ It is the last thing water touches before it hits air, so every dissolved minera
 Calcium carbonate also behaves in a way that works against you here: it becomes *less* soluble as temperature rises, which is why the hot side of a mixer tap and the kitchen faucet you run hot most often scale up faster than a cold-only outlet.
 
 The practical consequence is that the aerator fails long before the pipe does. [Michigan State University Extension notes](https://www.canr.msu.edu/news/keep_faucet_aerators_clean) that aerator screens also collect grit and debris shaken loose from the supply, which is why a blocked aerator is the first thing a plumber checks on a low-flow complaint — and often the last.
-
-![Metal wrench resting on a stainless steel sink beside water droplets during a faucet repair](https://images.pexels.com/photos/10961064/pexels-photo-10961064.jpeg)
 
 ## The Regrowth Clock: Reading Your Hardness From the Calendar
 
@@ -75,6 +74,8 @@ Leave coloured, matte black, oil-rubbed bronze and brass-plated housings out of 
 **Reassembling it**
 
 Working from the faucet end downward: rubber washer and flow restrictor at the top, then the mixer or diffuser disc, then the fine mesh screen last, nearest the outlet. Hand-tighten only — a quarter turn past finger-tight is plenty, and overtightening splits plastic housings and crushes the washer into a leak.
+
+![Faucet aerator exploded view showing reassembly order: washer and flow restrictor, diffuser disc, then fine mesh screen nearest the outlet](/diagrams/faucet-aerator-exploded-view-reassembly-order.svg "Stack it in this order, or the stream splits and sprays.")
 
 Run the tap for 30 seconds before judging the result. A stream that is straight, quiet and full has been reassembled correctly.
 

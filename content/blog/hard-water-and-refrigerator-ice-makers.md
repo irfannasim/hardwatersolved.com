@@ -4,6 +4,7 @@ seoTitle: "Hard Water Refrigerator Ice Maker: Cloudy Ice and Clogs"
 seoDescription: "Hard water refrigerator ice maker problems: cloudy ice is trapped air, not minerals. Scale shows as small cubes and slow fill. Here is how to tell them apart."
 excerpt: "Cloudy ice is the symptom everyone blames on hard water and it almost never is. The real damage is quieter — a slowing fill valve you can catch a year early with a stopwatch and a measuring jug."
 date: "2026-09-10"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/7630009/pexels-photo-7630009.jpeg"
@@ -32,6 +33,8 @@ Household water holds dissolved oxygen and nitrogen. When water freezes, the cry
 In a refrigerator ice mould, freezing starts on every surface of the cube at once. The freeze fronts advance inward from all sides and converge in the middle, and every dissolved gas molecule they rejected ends up concentrated there, forming microscopic bubbles. That white core is air.
 
 Commercial clear-ice machines solve this by freezing **directionally** — a thin layer at a time, usually with the water flowing, so the rejected gas escapes into the remaining liquid and then into the air rather than being trapped. It is a mechanical difference, not a water quality one.
+
+![Diagram comparing all-sided freezing that traps air in a cloudy ice cube with directional freezing that makes clear ice, unrelated to hard water](/diagrams/cloudy-ice-all-sided-vs-directional-freezing.svg "Cloudy ice is trapped air: the freeze fronts meet in the middle and lock the gas in")
 
 You can prove this at home in a single evening. Fill one section of an ice tray with tap water, one with distilled water, and one with tap water that you boiled and let cool covered (boiling drives off dissolved gas). Freeze all three together. The boiled sample will come out noticeably clearer than the distilled one. Nothing about mineral content explains that result; degassing does.
 

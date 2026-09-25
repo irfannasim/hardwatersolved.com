@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 644" width="760" height="644" role="img" aria-labelledby="g6bp-title g6bp-desc">
+<title id="g6bp-title">Water softener bypass valve positions: service, bypass and halfway</title>
+<desc id="g6bp-desc">Water softener bypass valve diagram: a single-lever bypass in service, bypass and the halfway position that blends hard water in, and a three-valve arrangement where service means inlet and outlet open with the bypass valve closed.</desc>
+<defs><marker id="g6bp-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g6bp-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="644" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Bypass valve: service, bypass and halfway</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Only one position sends all the water through the resin.</text>
+<text x="30" y="104" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">Single-lever or push-button bypass</text>
+<rect class="box" x="30" y="116" width="216" height="204" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="93" y="130" width="90" height="30" rx="6" fill="#0b2f4a"/>
+<text x="138" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">SOFTENER</text>
+<path class="ln" d="M40,227 L92,227" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M118,212 L118,166" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M158,162 L158,206" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-s)"/>
+<rect x="98" y="212" width="80" height="30" rx="6" fill="#fef3c7" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M180,227 L230,227" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-s)"/>
+<text x="138" y="270" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Service</text>
+<text x="138" y="290" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">handle or buttons</text>
+<text x="138" y="307" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">pushed fully in</text>
+<rect class="box" x="272" y="116" width="216" height="204" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="335" y="130" width="90" height="30" rx="6" fill="#0b2f4a"/>
+<text x="380" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">SOFTENER</text>
+<path class="ln" d="M282,227 L334,227" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M360,212 L360,162 M400,162 L400,212" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="340" y="212" width="80" height="30" rx="6" fill="#fef3c7" stroke="#3a5a72" stroke-width="2"/>
+<path d="M348,227 L412,227" stroke="#c2410c" stroke-width="3" stroke-dasharray="5 4"/>
+<path class="ln" d="M422,227 L472,227" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<text x="380" y="270" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Bypass</text>
+<text x="380" y="290" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">water goes straight</text>
+<text x="380" y="307" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">past the softener</text>
+<rect class="box" x="514" y="116" width="216" height="204" rx="12" fill="#f8fafc" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="577" y="130" width="90" height="30" rx="6" fill="#0b2f4a"/>
+<text x="622" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">SOFTENER</text>
+<path class="ln" d="M524,227 L576,227" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M602,212 L602,166" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M642,162 L642,206" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-s)"/>
+<rect x="582" y="212" width="80" height="30" rx="6" fill="#fef3c7" stroke="#3a5a72" stroke-width="2"/>
+<path d="M590,227 L654,227" stroke="#c2410c" stroke-width="3" stroke-dasharray="5 4"/>
+<path class="ln" d="M664,227 L714,227" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<text x="622" y="270" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Halfway</text>
+<text x="622" y="290" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">a real position:</text>
+<text x="622" y="307" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">blends hard water in</text>
+<text x="30" y="350" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">Two-valve or three-valve arrangement</text>
+<rect class="box" x="30" y="362" width="340" height="236" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="150" y="376" width="100" height="30" rx="6" fill="#0b2f4a"/>
+<text x="200" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">SOFTENER</text>
+<path class="ln" d="M40,502 L114,502" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M120,502 L120,391 L142,391" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M252,391 L280,391 L280,494" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-s)"/>
+<path class="ln" d="M126,502 L274,502" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M286,502 L356,502" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-s)"/>
+<circle cx="120" cy="450" r="11" fill="#dcfce7" stroke="#15803d" stroke-width="2.5"/>
+<path d="M120,442 L120,458" stroke="#15803d" stroke-width="3"/>
+<circle cx="280" cy="450" r="11" fill="#dcfce7" stroke="#15803d" stroke-width="2.5"/>
+<path d="M280,442 L280,458" stroke="#15803d" stroke-width="3"/>
+<circle cx="200" cy="502" r="11" fill="#fee2e2" stroke="#dc2626" stroke-width="2.5"/>
+<path d="M200,494 L200,510" stroke="#dc2626" stroke-width="3"/>
+<text x="106" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#0b2f4a">inlet</text>
+<text x="106" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#0b2f4a">open</text>
+<text x="294" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">outlet</text>
+<text x="294" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">open</text>
+<text x="200" y="534" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">bypass: closed</text>
+<text x="200" y="566" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Service</text>
+<text x="200" y="586" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">inlet and outlet open, bypass closed</text>
+<rect class="box" x="390" y="362" width="340" height="236" rx="12" fill="#f8fafc" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="510" y="376" width="100" height="30" rx="6" fill="#0b2f4a"/>
+<text x="560" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">SOFTENER</text>
+<path class="ln" d="M400,502 L474,502" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M480,502 L480,391 L502,391" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M612,391 L640,391 L640,494" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-s)"/>
+<path class="ln" d="M486,502 L634,502" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<path class="ln" d="M646,502 L716,502" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bp-h)"/>
+<circle cx="480" cy="450" r="11" fill="#dcfce7" stroke="#15803d" stroke-width="2.5"/>
+<path d="M480,442 L480,458" stroke="#15803d" stroke-width="3"/>
+<circle cx="640" cy="450" r="11" fill="#dcfce7" stroke="#15803d" stroke-width="2.5"/>
+<path d="M640,442 L640,458" stroke="#15803d" stroke-width="3"/>
+<circle cx="560" cy="502" r="11" fill="#dcfce7" stroke="#15803d" stroke-width="2.5"/>
+<path d="M552,502 L568,502" stroke="#15803d" stroke-width="3"/>
+<text x="466" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#0b2f4a">inlet</text>
+<text x="466" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#0b2f4a">open</text>
+<text x="654" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">outlet</text>
+<text x="654" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">open</text>
+<text x="560" y="534" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">bypass: open</text>
+<text x="560" y="566" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Any other combination</text>
+<text x="560" y="586" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">e.g. bypass open too: hard water blends in</text>
+<rect x="30" y="619" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="64" y="627" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hard water</text>
+<rect x="155" y="619" width="26" height="6" rx="3" fill="#0e7490"/>
+<text x="189" y="627" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">soft water</text>
+<rect x="280" y="619" width="26" height="6" rx="3" fill="#cbd5e1"/>
+<text x="314" y="627" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no flow</text>
+<rect x="384.3" y="615" width="18" height="14" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="410.3" y="627" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">valve open</text>
+<rect x="501.3" y="615" width="18" height="14" fill="#fee2e2" stroke="#dc2626" stroke-width="1"/>
+<text x="527.3" y="627" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">valve closed</text>
+</svg>

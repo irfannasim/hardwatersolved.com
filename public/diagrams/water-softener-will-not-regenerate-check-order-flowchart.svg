@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="g6wr-title g6wr-desc">
+<title id="g6wr-title">Water softener will not regenerate: diagnostic check order</title>
+<desc id="g6wr-desc">Flowchart for a water softener that will not regenerate: check power, then clock, programming and bypass, then a 5-gallon meter test, then a manual regeneration whose result points to a trigger fault, a motor or drive fault, or a stalling valve, with a side check for brine-side faults.</desc>
+<defs><marker id="g6wr-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Softener will not regenerate: check in this order</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Cheapest and most likely first. The manual regeneration splits trigger faults from drive faults.</text>
+<rect class="box" x="30" y="100" width="400" height="50" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="130" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">1 · Power reaching the control</text>
+<text x="416" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">free · 2 min</text>
+<path class="ln" d="M230,152 L230,166" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6wr-a)"/>
+<rect class="box" x="30" y="170" width="400" height="50" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2 · Clock, programming, bypass</text>
+<text x="416" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">free · 5 min</text>
+<path class="ln" d="M230,222 L230,236" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6wr-a)"/>
+<rect class="box" x="30" y="240" width="400" height="50" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="270" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3 · Meter test: draw 5 gallons</text>
+<text x="416" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">free · 5 min</text>
+<path class="ln" d="M230,292 L230,306" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6wr-a)"/>
+<rect class="box" x="30" y="310" width="400" height="50" rx="10" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="340" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4 · Manual regeneration: does it run?</text>
+<text x="416" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">free · 2 min</text>
+<path class="ln" d="M230,362 L230,378 M137,378 L623,378" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M137,378 L137,396" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6wr-a)"/>
+<path class="ln" d="M380,378 L380,396" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6wr-a)"/>
+<path class="ln" d="M623,378 L623,396" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6wr-a)"/>
+<rect class="box" x="30" y="402" width="214" height="138" rx="10" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="44" y="426" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Runs on the button,</text>
+<text x="44" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">never on its own</text>
+<text x="44" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Trigger fault: bypass,</text>
+<text x="44" y="487" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">meter, programming</text>
+<text x="44" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">or clock. Go back to</text>
+<text x="44" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">checks 2 and 3.</text>
+<rect class="box" x="273" y="402" width="214" height="138" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="287" y="426" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Won't run even</text>
+<text x="287" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">on the button</text>
+<text x="287" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Check 5: motor, drive</text>
+<text x="287" y="487" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">or board. Needs parts,</text>
+<text x="287" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">30 minutes or a</text>
+<text x="287" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">service visit.</text>
+<rect class="box" x="516" y="402" width="214" height="138" rx="10" fill="#f8fafc" stroke="#52697a" stroke-width="2"/>
+<text x="530" y="426" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">Starts, then stops</text>
+<text x="530" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">part-way</text>
+<text x="530" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">The valve is stalling,</text>
+<text x="530" y="487" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">not failing to start.</text>
+<text x="530" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">See the stuck-in-</text>
+<text x="530" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">regeneration guide.</text>
+<rect class="box" x="470" y="100" width="260" height="260" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="486" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#7c3aed">SIDE CHECK</text>
+<text x="486" y="148" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Cycles and drains, but</text>
+<text x="486" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">the salt never goes down?</text>
+<text x="486" y="196" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">It is regenerating without</text>
+<text x="486" y="213" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">brine. Check for:</text>
+<text x="486" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">• a salt bridge</text>
+<text x="486" y="266" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">• a blocked injector or screen</text>
+<text x="486" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">• line pressure below 20 psi</text>
+<text x="486" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">• a brine line or float fault</text>
+</svg>

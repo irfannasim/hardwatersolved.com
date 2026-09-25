@@ -4,6 +4,7 @@ seoTitle: "Salt Mushing in a Brine Tank: Cause and Cleanout"
 seoDescription: "Salt mushing in a brine tank is recrystallised sludge on the floor that blocks brine draw. It comes from salt grade and refill habits, not the softener."
 excerpt: "Two brine tank faults produce identical symptoms and are constantly mistaken for each other. One is a crust with a void underneath; the other is a sludge floor with nothing wrong above it. Probing for a bridge and finding none sends most people looking at the control valve, when the actual problem is sitting in the bottom four inches of the tank — and it will not respond to a broom handle, a manual regeneration, or more salt."
 date: "2026-09-22"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/6714344/pexels-photo-6714344.jpeg"
@@ -48,7 +49,7 @@ These two faults get used interchangeably in forum answers and product FAQs, and
 
 ## How Salt Ends Up as Sludge on the Floor
 
-![Dried, cracked mud with water pooled in the fissures, the compacted and recrystallised appearance of a mushed layer at the bottom of a brine tank](https://images.pexels.com/photos/8820855/pexels-photo-8820855.jpeg)
+![Brine tank cutaways comparing a salt bridge crust over an air void with salt mushing sludge burying the brine well on the tank floor](/diagrams/brine-tank-salt-bridge-vs-salt-mushing-cutaway.svg "A bridge is a crust over a void; mushing is sludge on the floor under normal salt.")
 
 Two separate processes contribute, and the severity depends on how much each one has to work with.
 
@@ -73,8 +74,6 @@ That last one is the expensive path. Fine sludge pulled into the brine line reac
 
 ## Confirming It Before You Empty Anything
 
-![Salt crystals arranged in a shallow petri dish photographed from above, the kind of side-by-side grade comparison that shows how much insoluble residue a salt leaves behind](https://images.pexels.com/photos/10187647/pexels-photo-10187647.jpeg)
-
 Emptying a brine tank is an hour of work, so it is worth being sure first.
 
 **The probe, read differently.** Push a broom handle down through the salt. For mushing you are not listening for a crack — you are feeling for the stop. Loose salt, loose salt, loose salt, then a soft but immovable resistance that does not yield when you lean on it, and the handle comes out coated in grey-brown paste rather than clean wet salt. That coating is the diagnosis.
@@ -93,8 +92,6 @@ Emptying a brine tank is an hour of work, so it is worth being sure first.
 **Rule out the cheap explanations first.** If the injector is blocked, the symptom is the same and the tank floor may be innocent. If the unit regenerates but hardness returns after a few days rather than immediately, the pattern points elsewhere and is covered in [why hardness returns before the next regeneration](/blog/hardness-returns-before-regeneration/).
 
 ## The Cleanout
-
-![Yellow mop bucket holding dirty water with a caution sign beside it, the wet-vacuum-and-bucket stage of clearing sludge from a brine tank](https://images.pexels.com/photos/13840330/pexels-photo-13840330.jpeg)
 
 Mushing cannot be broken up in place. The material has to leave the tank.
 
@@ -118,8 +115,6 @@ Mushing cannot be broken up in place. The material has to leave the tank.
 **One thing worth doing while the tank is empty:** look at the residue you scraped out. Grey and gritty is ordinary salt insolubles. Orange or rust-coloured means iron is getting into the tank from the resin side, which is a different diagnosis entirely and is covered in [why softener salt looks brown or dirty](/blog/water-softener-salt-looks-brown-or-dirty/).
 
 ## The Salt Change That Actually Prevents It
-
-![Person scrubbing a wet, muddy floor with a long brush, the scale of cleanup that low-purity salt eventually creates in a brine tank](https://images.pexels.com/photos/5777344/pexels-photo-5777344.jpeg)
 
 You can clean the tank every year, or you can stop supplying the raw material. The second is less work.
 

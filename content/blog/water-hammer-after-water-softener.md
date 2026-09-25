@@ -4,6 +4,7 @@ seoTitle: "Water Hammer After Water Softener: 4 Causes, Proven Fixes"
 seoDescription: "Water hammer after a water softener comes from fast valve closure in the regen cycle. Where the arrestor goes, the PRV link and the thermal expansion trap."
 excerpt: "The house was quiet for twenty years. Then a softener went in, and now something slams in the walls at two in the morning. The softener did not break anything — it added a valve that stops flowing water faster than anything else in the house, at the exact hour the system pressure is highest. Knowing when the bang happens tells you which of four causes you have, and where an arrestor has to sit to actually stop it."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/38028966/pexels-photo-38028966.jpeg"
@@ -29,7 +30,7 @@ The house did not suddenly develop bad plumbing. It gained a device that finds t
 
 ## Water Hammer After Water Softener Installs: Why It Is New
 
-![Close-up of stainless steel pipes fitted with pressure gauges in an industrial plant, the kind of rigid pipework in which a sudden valve closure sends a pressure spike](https://images.pexels.com/photos/372796/pexels-photo-372796.jpeg)
+![Water hammer diagram showing a fast-closing softener valve stopping flow and a pressure spike travelling back up the pipe and reflecting off the main](/diagrams/water-hammer-pressure-wave-mechanism.svg "Stop moving water suddenly and its momentum becomes a pressure spike")
 
 Water hammer is momentum. A column of water moving through a pipe carries energy, and if something stops it suddenly, that energy has to go somewhere. It becomes a pressure spike that races back up the pipe at roughly the speed of sound in water — around 4,000 feet per second in copper — reflects off the main or a closed valve, and returns. Each pass shakes whatever pipe is free to move.
 
@@ -71,7 +72,7 @@ The timing of the bang is the most useful diagnostic you have. Note when it happ
 
 ## Where an Arrestor Must Sit to Work
 
-![Silver plumbing pipework with a red shut-off valve mounted on a white wall, the kind of supply connection where a water hammer arrestor should be fitted close to the closing valve](https://images.pexels.com/photos/26063240/pexels-photo-26063240.jpeg)
+![Where to install a water hammer arrestor on a water softener: on the inlet just upstream of the bypass, not on the outlet, drain line or a far faucet](/diagrams/water-hammer-arrestor-placement-softener-inlet.svg "The arrestor sits upstream of the closing valve, where the spike forms")
 
 This is where most fixes fail. People buy an arrestor, install it wherever is convenient, and the banging continues.
 
@@ -94,8 +95,6 @@ This is where most fixes fail. People buy an arrestor, install it wherever is co
 
 ## The Pressure-Reducing Valve Interaction
 
-![Close-up of a pressure gauge fitted to a red industrial pipe, the reading to watch when a pressure-reducing valve is failing or set too high](https://images.pexels.com/photos/4744721/pexels-photo-4744721.jpeg)
-
 A pressure-reducing valve (PRV) on the main is supposed to hold house pressure steady — commonly around 50 to 60 psi. It can make hammer better or much worse depending on its condition.
 
 **High static pressure multiplies everything.** Hammer severity scales with the pressure behind the moving water. Many residential codes, following IRC section P2903.3.1, cap static pressure at 80 psi and require a PRV where the supply exceeds it. If your house runs at 90 or 100 psi, arrestors will reduce the bang but will not eliminate it, and every valve in the house is working harder than it should.
@@ -117,7 +116,7 @@ A pressure-reducing valve (PRV) on the main is supposed to hold house pressure s
 
 ## The Thermal Expansion Trap on Closed Systems
 
-![Brass pipe elbow fitting against a red background, representing the closed plumbing fittings in which heated water has nowhere to expand](https://images.pexels.com/photos/28178448/pexels-photo-28178448.jpeg)
+![Closed plumbing system diagram showing a PRV blocking thermal expansion and an expansion tank on the water heater cold supply absorbing it](/diagrams/thermal-expansion-closed-system-expansion-tank.svg "On a closed system, heated water needs an expansion tank to go into")
 
 This is the cause that explains the pattern people find most confusing: hammer that is worst in the early morning, often alongside a dripping relief valve on the water heater.
 

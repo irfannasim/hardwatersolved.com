@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="g6iv-title g6iv-desc">
+<title id="g6iv-title">Water softener injector venturi cutaway</title>
+<desc id="g6iv-desc">Cutaway of a water softener injector venturi: valve water is forced through a tiny nozzle into a fast, low-pressure jet across the gap, which sucks brine up from the brine line; the throat catches the mix, slows it so pressure recovers, and sends brine and water to the resin.</desc>
+<defs><marker id="g6iv-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g6iv-b" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="g6iv-k" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Inside the injector: the venturi principle</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Simplified cutaway, not to scale.</text>
+<text x="172" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">high pressure,</text>
+<text x="172" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">slow water</text>
+<path class="ln" d="M172,134 L172,190" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6iv-k)"/>
+<text x="321" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">very fast jet,</text>
+<text x="321" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">LOW pressure</text>
+<path class="ln" d="M321,134 L321,190" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6iv-k)"/>
+<text x="590" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">slowing down,</text>
+<text x="590" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">pressure recovers</text>
+<path class="ln" d="M590,134 L590,190" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6iv-k)"/>
+<rect x="130" y="196" width="510" height="132" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<path d="M130,232 L200,232 L276,256 L276,268 L200,292 L130,292 Z" fill="#fff1e8" stroke="#3a5a72" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M276,226 L366,226 L366,298 L336,298 L336,328 L306,328 L306,298 L276,298 Z" fill="#f5f3ff" stroke="#3a5a72" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M366,250 L520,250 L640,230 L640,294 L520,274 L366,274 Z" fill="#ede9fe" stroke="#3a5a72" stroke-width="1.5" stroke-linejoin="round"/>
+<path class="ln" d="M30,262 L126,262" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6iv-h)"/>
+<path class="ln" d="M140,262 L262,262" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6iv-h)"/>
+<path class="ln" d="M282,262 L354,262" fill="none" stroke="#c2410c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6iv-h)"/>
+<path class="ln" d="M376,262 L628,262" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6iv-b)"/>
+<path class="ln" d="M644,262 L724,262" fill="none" stroke="#7c3aed" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6iv-b)"/>
+<path class="ln" d="M600,420 L321,420 L321,306" fill="none" stroke="#7c3aed" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6iv-b)"/>
+<text x="30" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">VALVE WATER</text>
+<text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(from inlet)</text>
+<text x="730" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#7c3aed">TO RESIN</text>
+<text x="730" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">(brine + water)</text>
+<text x="200" y="354" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">NOZZLE</text>
+<text x="200" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">(tiny orifice)</text>
+<text x="346" y="354" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">GAP</text>
+<text x="346" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(suction chamber)</text>
+<text x="540" y="354" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">THROAT</text>
+<text x="540" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">(slightly larger)</text>
+<text x="310" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#7c3aed">suction</text>
+<text x="470" y="408" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7c3aed">BRINE LINE</text>
+<text x="612" y="425" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">from brine tank</text>
+<rect x="30" y="455" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="64" y="463" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">valve water</text>
+<rect x="161.9" y="455" width="26" height="6" rx="3" fill="#7c3aed"/>
+<text x="195.9" y="463" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">brine, and brine + water</text>
+</svg>

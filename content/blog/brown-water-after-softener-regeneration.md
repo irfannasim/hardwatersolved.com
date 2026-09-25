@@ -4,6 +4,7 @@ seoTitle: "Brown Water After Softener Regeneration: Causes and Fixes"
 seoDescription: "Brown water after softener regeneration means backwash is releasing captured iron into the service line. The resin is fouled and it is losing capacity."
 excerpt: "Brown water that appears on regeneration days and clears by evening is not a coincidence — it is iron being flushed off the resin and pushed into the house instead of down the drain. The mechanism points directly at an inadequate backwash, and the backwash flow rate is measurable with a bucket and a stopwatch."
 date: "2026-09-16"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/16981126/pexels-photo-16981126.jpeg"
@@ -29,7 +30,7 @@ The timing is the diagnosis. Discolouration that appears with the first draw on 
 
 ## The Mechanism: In During Service, Out During Backwash
 
-![Rust patterns spreading across a textured wall surface, the same iron oxide staining that accumulates on softener resin beads](https://images.pexels.com/photos/36346054/pexels-photo-36346054.jpeg)
+![Diagram of how a water softener captures iron in service and, with a weak backwash, releases it as brown water after regeneration](/diagrams/water-softener-iron-capture-and-release-cycle.svg "Iron loosened but not flushed to drain leaves with the first draw")
 
 Ion exchange is not selective in the way people assume. The resin holds a preference order, and dissolved ferrous iron sits on it — so a softener treating iron-bearing water takes iron out of the water whether you intended it to or not.
 
@@ -64,7 +65,7 @@ If the pattern is tied to the cycle, continue. If it is not, skip to the last se
 
 ## Check 1: The Backwash Flow Rate
 
-![White drainage pipe running down a concrete wall, the drain route that has to carry away everything backwash lifts out of the resin bed](https://images.pexels.com/photos/9809765/pexels-photo-9809765.jpeg)
+![Diagram comparing water softener backwash flow rates: too little leaves the bed static, correct expands it, too much washes resin to drain](/diagrams/water-softener-backwash-bed-expansion-flow-rate.svg "Backwash only cleans the bed within a narrow flow band")
 
 This is the check almost nobody runs, and it is the one that most often explains the symptom.
 
@@ -101,8 +102,6 @@ Backwash reverses flow up through the bed to lift and separate the resin so that
 
 ## Check 2: Is the Iron Even Within the Softener's Range?
 
-![Engine-driven pump in a rural field, the well supply that determines how much iron reaches a softener in the first place](https://images.pexels.com/photos/12259051/pexels-photo-12259051.jpeg)
-
 Fixing the backwash does not help if the softener was never the right tool for the iron level. Measure before you spend anything.
 
 **You need two numbers, not one:** total iron, and the split between ferrous and ferric.
@@ -127,8 +126,6 @@ The 0.3 mg/L figure is the EPA's secondary standard, set on staining and taste g
 Also check **manganese**, which travels with iron, stains black instead of brown, and fouls resin at much lower concentrations. And check **pH**, because iron behaviour changes with it — the interaction is covered in [how to interpret pH and hardness together](/blog/interpreting-ph-and-hardness-together/). The measurement side, including why the iron figure must be folded into the softener's hardness setting, is in [testing iron and manganese before sizing a softener](/blog/test-iron-and-manganese-before-sizing/).
 
 ## Check 3: Inspect the Bed
-
-![Corroded outdoor tap showing heavy rust deposits, the visual equivalent of iron fouling on softener resin](https://images.pexels.com/photos/8751911/pexels-photo-8751911.jpeg)
 
 Ten minutes with the top off the tank tells you whether you are looking at a cleaning job or a replacement.
 

@@ -4,6 +4,7 @@ seoTitle: "Water Softener Resin Cleaner: 5 Proven Rules Before You Buy"
 seoDescription: "A water softener resin cleaner reverses iron and some manganese fouling, not chlorine damage. How to dose it, how often, and when to stop."
 excerpt: "A bottle of resin cleaner costs about as much as a couple of bags of salt, and on the right bed it gives back capacity you had written off. On the wrong bed it does nothing at all, and nothing on the label tells you which one you have. The difference comes down to what is actually stuck to the beads, and you can settle it with a meter reading taken before you pour, not after."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/7230262/pexels-photo-7230262.jpeg"
@@ -29,7 +30,7 @@ Most product pages say "restores performance" and leave it there. The honest ans
 
 ## What a Water Softener Resin Cleaner Can and Cannot Reverse
 
-![Close-up of corroded industrial pipes and valves covered in orange rust, the same ferric iron deposit that coats softener resin beads and responds to a reducing cleaner](https://images.pexels.com/photos/357440/pexels-photo-357440.jpeg)
+![Water softener resin cleaner diagram comparing a healthy bead, an iron-fouled bead a cleaner can restore, and a chlorine-degraded bead](/diagrams/water-softener-resin-bead-fouled-vs-degraded.svg "A cleaner removes coatings; it cannot rebuild a broken bead")
 
 A cleaner is a chemical, and a chemical can only dissolve what its chemistry reaches. Every resin problem falls on one side of that line or the other.
 
@@ -70,8 +71,6 @@ A cleaner is a chemical, and a chemical can only dissolve what its chemistry rea
 
 ## Take the "Before" Reading First
 
-![Hand carefully pouring white powder into a glass laboratory apparatus, the kind of measured, recorded approach that a before-and-after resin cleaner test needs](https://images.pexels.com/photos/8926003/pexels-photo-8926003.jpeg)
-
 This is the step almost everyone skips, and skipping it makes the whole exercise unverifiable. Without a baseline, "it seems better" is the only result you will ever get.
 
 **What to record, for at least two full regeneration cycles before cleaning:**
@@ -105,6 +104,8 @@ Dose goes by the volume of resin, not by the size of the brine tank, and the lab
 8. **Run the cold taps** for a few minutes afterwards to clear the lines, and follow any waiting period the label specifies.
 9. **For heavy fouling, repeat once** after the next normal regeneration, not the same day.
 
+![Diagram showing where to pour water softener resin cleaner: down the brine well, not over the salt, before an immediate regeneration](/diagrams/water-softener-resin-cleaner-brine-well-dosing.svg "Pour the dose down the brine well, then regenerate straight away")
+
 **Brown or orange water during that first rinse is normal.** It is the iron coming off. If you see it at your taps afterwards rather than at the drain, the pattern is covered in [brown water after softener regeneration](/blog/brown-water-after-softener-regeneration/).
 
 **Ventilate if the tank is in a small room.** Reducing cleaners can smell of sulfur. That is also why they should never be stored open next to the salt.
@@ -112,8 +113,6 @@ Dose goes by the volume of resin, not by the size of the brine tank, and the lab
 **Never mix chemistries.** Do not follow an acid cleaner with bleach, or combine two products in the brine well. If you need both a sanitiser and an iron cleaner, run them on separate regenerations.
 
 ## How Often to Clean, by Water Type
-
-![Close-up of a rusted industrial valve on a weathered pipe with peeling paint, the kind of steady iron exposure that sets how often a softener bed needs cleaning](https://images.pexels.com/photos/12194246/pexels-photo-12194246.jpeg)
 
 Frequency depends on how fast the bed is being re-fouled, and that depends on what the raw water carries.
 
@@ -153,8 +152,6 @@ Collect the same readings for two full cycles after cleaning, with no settings c
 **Rule out the mechanical causes before blaming the resin.** A partly blocked injector, a bridged salt tank or a drain flow control that is too restrictive will all make a clean bed look exhausted. So will water that is channeling through the bed rather than flowing evenly, which is covered in [water softener resin channeling](/blog/water-softener-resin-channeling/). None of those respond to cleaner.
 
 ## The Point Where Cleaning Becomes Money Spent on Dead Resin
-
-![Hand holding a small glass beaker of clear liquid, representing the careful measured dose that should stop once cleaning no longer recovers resin capacity](https://images.pexels.com/photos/11899935/pexels-photo-11899935.jpeg)
 
 The cleaner manufacturer has no reason to tell you this part, so here it is plainly.
 

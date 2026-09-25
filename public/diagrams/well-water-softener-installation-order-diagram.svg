@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1044" width="760" height="1044" role="img" aria-labelledby="g7wso-title g7wso-desc">
+<title id="g7wso-title">Well water softener installation order</title>
+<desc id="g7wso-desc">Installation order for a water softener on a well system: well, pump, pressure tank, main shutoff with outdoor hose bibs teed off on raw water, sediment prefilter, optional pH neutralizer and iron filter, then the softener in its bypass valve, feeding the water heater and cold lines to the house.</desc>
+<defs><marker id="g7wso-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g7wso-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="g7wso-drain" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker></defs>
+<rect width="760" height="1044" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Where the softener goes on a well system</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Water flows top to bottom. Pressure tank first; softener last before the water heater.</text>
+<rect class="box" x="230" y="96" width="300" height="40" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="121" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">WELL</text>
+<path class="ln" d="M380,138 L380,156" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-hard)"/>
+<rect class="box" x="230" y="166" width="300" height="40" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="191" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">PUMP</text>
+<path class="ln" d="M380,208 L380,226" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-hard)"/>
+<rect class="box" x="230" y="236" width="300" height="40" rx="8" fill="#0b2f4a" stroke="#0b2f4a" stroke-width="2"/>
+<text x="380" y="261" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">PRESSURE TANK</text>
+<text x="216" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">Tank tee: pressure switch,</text>
+<text x="216" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">gauge, relief valve, drain</text>
+<path class="ln" d="M380,278 L380,296" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-hard)"/>
+<rect class="box" x="230" y="306" width="300" height="40" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="331" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">MAIN SHUTOFF</text>
+<path class="ln" d="M380,348 L380,400" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-hard)"/>
+<path class="ln" d="M380,376 L546,376" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-hard)"/>
+<rect class="box" x="556" y="352" width="174" height="48" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="643" y="371" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Outdoor hose bibs</text>
+<text x="643" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">(raw water)</text>
+<rect class="box" x="230" y="410" width="300" height="40" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="435" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SEDIMENT PREFILTER</text>
+<path class="ln" d="M380,452 L380,470" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-hard)"/>
+<rect class="box" x="230" y="480" width="300" height="52" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="380" y="502" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">pH NEUTRALIZER</text>
+<text x="380" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">only if pH is low</text>
+<path class="ln" d="M380,534 L380,552" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-hard)"/>
+<rect class="box" x="230" y="562" width="300" height="52" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="380" y="584" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">IRON / MANGANESE / SULFIDE FILTER</text>
+<text x="380" y="603" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">only if needed</text>
+<path class="ln" d="M380,616 L380,668" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-hard)"/>
+<path class="ln" d="M380,644 L546,644" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#g7wso-hard)"/>
+<rect class="box" x="556" y="620" width="174" height="48" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="643" y="639" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Optional outdoor line</text>
+<text x="643" y="657" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">if iron staining matters</text>
+<rect class="box" x="230" y="678" width="300" height="84" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="698" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">BYPASS VALVE</text>
+<rect class="box" x="260" y="710" width="240" height="40" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2.5"/>
+<text x="380" y="735" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">WATER SOFTENER</text>
+<text x="216" y="735" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">Last conditioning stage</text>
+<path class="ln" d="M502,730 L546,730" fill="none" stroke="#78716c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-drain)"/>
+<rect class="box" x="556" y="710" width="174" height="40" rx="8" fill="#f5f5f4" stroke="#78716c" stroke-width="2"/>
+<text x="643" y="735" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Drain (air gap)</text>
+<path class="ln" d="M380,764 L380,782 M260,782 L500,782" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M260,782 L260,806" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-soft)"/>
+<path class="ln" d="M500,782 L500,806" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-soft)"/>
+<rect class="box" x="170" y="818" width="180" height="40" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="260" y="843" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">WATER HEATER</text>
+<rect class="box" x="410" y="818" width="180" height="40" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="500" y="843" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">COLD TO HOUSE</text>
+<path class="ln" d="M260,860 L260,878" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wso-soft)"/>
+<rect class="box" x="170" y="890" width="180" height="40" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="260" y="915" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">HOT TO HOUSE</text>
+<text x="410" y="905" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Heater after the softener: heating</text>
+<text x="410" y="922" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">is where scale forms fastest</text>
+<rect class="box" x="30" y="954" width="700" height="36" rx="18" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="380" y="977" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">UV goes after the softener if needed; RO sits under the kitchen sink.</text>
+<rect x="30" y="1015" width="26" height="6" rx="3" fill="#c2410c"/><text x="64" y="1022" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">untreated water</text>
+<rect x="200" y="1015" width="26" height="6" rx="3" fill="#0e7490"/><text x="234" y="1022" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">softened water</text>
+<rect x="370" y="1015" width="26" height="6" rx="3" fill="#78716c"/><text x="404" y="1022" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">to drain</text>
+<path d="M540,1018 L566,1018" stroke="#3a5a72" stroke-width="5" stroke-dasharray="7 5"/><text x="574" y="1022" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">optional stage</text>
+</svg>

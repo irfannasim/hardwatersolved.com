@@ -4,6 +4,7 @@ seoTitle: "Water Softener for Well Water: 7 Tests That Prevent Failure"
 seoDescription: "A water softener for well water handles hardness, rarely alone. Iron, manganese, sulfide, pH and bacteria each need their own stage, in the right order."
 excerpt: "Yes, a softener works on a private well. But on its own it only fixes hardness, and most well failures come from buying one based on a hardness number alone. This is the full-panel test to run first, a decision tree that sends each result to the right treatment stage, what a softener cannot do on well water, and links to every guide in the well-water series."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/21047659/pexels-photo-21047659.jpeg"
@@ -38,8 +39,6 @@ Penn State Extension's [water softening fact sheet](https://extension.psu.edu/wa
 So the rest of this guide follows the order a well owner should work in: **test fully, route each result to its stage, then size and place the softener last.**
 
 ## What a Water Softener for Well Water Does, and Does Not Do
-
-![Red barns and a farmhouse on a green hillside above crop fields, the kind of rural home whose private well supply varies with the local geology](https://images.pexels.com/photos/18946995/pexels-photo-18946995.jpeg)
 
 A softener is an ion-exchange tank. Resin beads hold sodium (or potassium) loosely, and give it up in exchange for positively charged ions that pass through, mainly calcium and magnesium. Regeneration with brine resets the beads. That's all it does, and it explains both its strengths and its limits on a well.
 
@@ -81,11 +80,13 @@ How the sample is drawn matters as much as what's on the list. Iron in particula
 
 Work through the test results in this order. Each question either adds a stage ahead of the softener or sends you somewhere else first.
 
+![Decision tree for a water softener on well water, routing bacteria, pH, sulfide, iron, manganese and sediment results to treatment stages](/diagrams/well-water-softener-test-results-decision-tree.svg "Each positive result adds a stage ahead of the softener, which is sized last")
+
 **1. Bacteria positive?**
 → Stop. Find the source, disinfect the well, and retest before buying any equipment. A softener put into contaminated water can harbour bacteria in the bed. If the problem is iron bacteria (slimy, rust-coloured growth in the toilet tank), no softener fixes it.
 
 **2. pH below about 6.7?**
-→ Add a **neutralizer** ahead of everything else. Low pH also affects how iron behaves and corrodes copper plumbing. How pH and hardness readings interact is covered in [reading pH and hardness together](/blog/interpreting-ph-and-hardness-together/).
+→ Add a **neutralizer** ahead of the softener, straight after the sediment prefilter. Low pH also affects how iron behaves and corrodes copper plumbing. How pH and hardness readings interact is covered in [reading pH and hardness together](/blog/interpreting-ph-and-hardness-together/).
 
 **3. Rotten-egg smell or measurable hydrogen sulfide?**
 → Add an **oxidizing stage** (aeration, chlorination or an oxidizing filter) ahead of the softener. Why the smell survives softening is in [why a sulfur smell remains after softening](/blog/sulfur-smell-after-water-softener/).
@@ -113,7 +114,7 @@ Which form you have is the most important fact in this tree. How to tell them ap
 
 ## The Order the Stages Go In
 
-![Pipework with red handwheel valves beside a pressure vessel, a reminder that every treatment stage on a well sits in a fixed order along one supply line](https://images.pexels.com/photos/5711732/pexels-photo-5711732.jpeg)
+![Well water treatment train showing the order from pressure tank and sediment filter through iron removal to the water softener and UV](/diagrams/well-water-treatment-train-softener-order.svg "Anything that harms resin goes before the softener; drinking-water protection goes after")
 
 Once the decision tree has told you which stages you need, the order follows one rule: **anything that would damage the resin comes out before the softener, and anything that protects drinking water goes after it.**
 

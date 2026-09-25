@@ -4,6 +4,7 @@ seoTitle: "Reading pH and Water Hardness Together: 4 Risk Zones"
 seoDescription: "Reading pH and water hardness together is what prevents pinhole leaks. Hard water at low pH still corrodes, and softening it first makes copper worse."
 excerpt: "Hardness tells you about scale. pH tells you about corrosion. Read separately they give contradictory advice, and acting on one while ignoring the other is how a household ends up softening acidic water and finding pinhole leaks in its copper a year later. Here is the four-quadrant read, the Langelier index worked by hand, and the correct treatment order."
 date: "2026-09-15"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Water Testing"
 featuredImage: "https://images.pexels.com/photos/3721272/pexels-photo-3721272.jpeg"
@@ -96,6 +97,8 @@ Finally, neutralise first. A calcite bed raises pH to 7.5 and, in doing so, adds
 
 Balanced. And the softener now has a defined, measurable hardness to remove downstream. Hach publishes the [Langelier and Aggressive indices method](https://images.hach.com/cms-portals/hach_com/cms/documents/pdf/Methods-Guidelines/Langelier-aggressive-indices-method-8073.pdf) with the same terms if you want the reference procedure.
 
+![Langelier Saturation Index scale showing raw well water at −1.16, softened-only water at −2.64 and neutralised-first water at +0.21](/diagrams/langelier-saturation-index-scale-softening-vs-neutralising.svg "Softening acidic water pushes the LSI further negative; neutralising first brings it into balance.")
+
 One honest caveat, because the index is routinely oversold: **LSI describes calcium carbonate saturation, not corrosion**. A negative index means the water will not form a protective carbonate film, which is a strong risk factor for corrosion — it is not a measurement of corrosion, and it says nothing about velocity, workmanship, stray current or particulate scouring. Treat a negative LSI as a reason to investigate, not as a diagnosis.
 
 ## Why Softening Acidic Water Accelerates Pinhole Leaks
@@ -110,13 +113,15 @@ Aggressive water keeps partly dissolving that layer. Where it succeeds, bare met
 
 Softening does not add acid. What it does is remove the calcium that was one of the ingredients of the protective layer, at a moment when the water is already short of the carbonate needed to form it. That is the shift the LSI arithmetic above makes visible — the same pH, half the protection.
 
+![Cross-section of copper pipe wall comparing an intact protective layer with aggressive water dissolving it and pitting through to a pinhole leak](/diagrams/copper-pipe-protective-layer-pitting-mechanism.svg "Where the protective layer is stripped in patches, corrosion concentrates into pits.")
+
 None of this is an argument against softening. It is an argument about **order**. On water at neutral or above, softening changes the corrosion picture very little and the scale benefit is real. On acidic water, softening without neutralising removes a defence the plumbing was quietly depending on.
 
 ## What Your Plumbing Is Already Telling You
 
 ![Aged brass tap handle showing surface corrosion, an early visible sign of aggressive water](https://images.pexels.com/photos/33585897/pexels-photo-33585897.jpeg)
 
-Before spending money on a full panel, these signs point toward the acidic side of the map:
+Before spending money on a full panel, these signs point toward the acidic rows of the table above:
 
 - **Blue-green staining** in sinks, tubs and around fixtures. This is dissolved copper, and it is close to diagnostic on a copper-plumbed house.
 - **A metallic taste** in the first water drawn in the morning, fading after the tap runs.
@@ -129,7 +134,7 @@ Blue-green staining in particular is worth acting on quickly for reasons beyond 
 
 ## Getting the Treatment Order Right
 
-![Coarse white mineral granules of the kind used as calcite neutraliser media](https://images.pexels.com/photos/3693296/pexels-photo-3693296.jpeg)
+![Treatment order diagram showing an acid neutraliser installed upstream of the water softener, with hardness re-measured between them](/diagrams/acid-neutraliser-before-water-softener-treatment-order.svg "On acidic water the neutraliser goes first; size the softener on post-neutraliser hardness.")
 
 For water in Zone 2 or Zone 3, the sequence runs like this, and each step exists because of the one before it.
 

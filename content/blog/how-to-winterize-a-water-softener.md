@@ -4,6 +4,7 @@ seoTitle: "How to Winterize a Water Softener: 2 Proven Methods"
 seoDescription: "How to winterize a water softener in a heated home or a property left unheated, including draining the valve passages that a simple gravity drain leaves full."
 excerpt: "Winterizing a softener means one of two jobs, and doing the wrong one is how most freeze damage happens. A unit in a heated home that sits in a cold garage or crawl space needs to stay warm and in service. A unit in a cabin or rental left unheated all winter needs to be taken out of service and drained properly. Draining the tanks is not enough: the control valve and bypass hold water in passages that a gravity drain never empties, and that is where most freeze cracks start."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/10754168/pexels-photo-10754168.jpeg"
@@ -55,8 +56,6 @@ In this case the softener stays in service. Water moves through it every day, an
 
 ## Scenario 2: Property Left Unheated
 
-![Silver insulated pipes running vertically on a building exterior, a reminder that insulation slows heat loss but cannot protect a drained-down system that will sit unheated all winter](https://images.pexels.com/photos/36983669/pexels-photo-36983669.jpeg)
-
 Here, insulation is not enough. Once the heat is off, every pocket of water in the system will eventually freeze. The goal is to leave no water that can.
 
 **Before you start:** run a manual regeneration a day or two earlier, so the resin goes into storage freshly regenerated and rinsed. See [how to manually regenerate a water softener](/blog/how-to-manually-regenerate-a-water-softener/).
@@ -74,7 +73,7 @@ Here, insulation is not enough. Once the heat is off, every pocket of water in t
 
 ## The Water a Gravity Drain Leaves Behind
 
-![Portable air pump inflating a tyre, the kind of low-pressure air source that can blow trapped water out of a disconnected water softener valve and brine line before winter](https://images.pexels.com/photos/12996982/pexels-photo-12996982.jpeg)
+![Winterizing diagram marking where water stays in a water softener after a gravity drain: piston bore, injector, drain port, meter, bypass and brine line.](/diagrams/water-softener-winterizing-trapped-water-points.svg "Tipping the tank doesn't empty the valve. These pockets crack first.")
 
 Tipping a tank empties the tank. It does not empty the control valve. A softener valve is a block of small chambers and ports, and several of them sit where gravity cannot reach them:
 

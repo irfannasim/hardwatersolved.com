@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="whs-title whs-desc">
+<title id="whs-title">Hard water sediment in gas and electric water heaters</title>
+<desc id="whs-desc">Cutaway of gas and electric storage tanks: hard water sediment settles on the tank floor, a gas burner makes steam bubbles pop under the layer, and in an electric heater the rising layer buries the lower element until it burns out.</desc>
+<defs><pattern id="whs-sed" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#d6d3d1"/><circle cx="2" cy="3" r="1.4" fill="#a8a29e"/><circle cx="6" cy="6" r="1.2" fill="#78716c"/></pattern><marker id="whs-t" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hard water sediment in a storage water heater</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Heated hardness settles on the tank floor. Where the heat comes from decides the noise.</text>
+<text x="125" y="112" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Gas heater</text>
+<text x="125" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">noisy early</text>
+<rect x="50" y="145" width="150" height="230" rx="18" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="54" y="149" width="142" height="222" rx="15" fill="#dbeafe"/>
+<rect x="54" y="342" width="142" height="29" rx="6" fill="url(#whs-sed)"/>
+<circle cx="80" cy="352" r="5" fill="#ffffff" stroke="#52697a" stroke-width="1.2"/>
+<circle cx="112" cy="358" r="6" fill="#ffffff" stroke="#52697a" stroke-width="1.2"/>
+<circle cx="146" cy="350" r="5" fill="#ffffff" stroke="#52697a" stroke-width="1.2"/>
+<circle cx="176" cy="356" r="4" fill="#ffffff" stroke="#52697a" stroke-width="1.2"/>
+<circle cx="96" cy="330" r="4" fill="#ffffff" stroke="#52697a" stroke-width="1.2"/>
+<circle cx="160" cy="326" r="5" fill="#ffffff" stroke="#52697a" stroke-width="1.2"/>
+<circle cx="128" cy="316" r="3" fill="#ffffff" stroke="#52697a" stroke-width="1.2"/>
+<path d="M70,402 Q72,388 78,380 Q84,388 86,402 z" fill="#f97316"/>
+<path d="M96,402 Q98,388 104,380 Q110,388 112,402 z" fill="#f97316"/>
+<path d="M122,402 Q124,388 130,380 Q136,388 138,402 z" fill="#f97316"/>
+<path d="M148,402 Q150,388 156,380 Q162,388 164,402 z" fill="#f97316"/>
+<path d="M174,402 Q176,388 182,380 Q188,388 190,402 z" fill="#f97316"/>
+<rect x="62" y="402" width="126" height="7" rx="3" fill="#3a5a72"/>
+<text x="214" y="186" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Steam bubbles</text>
+<text x="214" y="205" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">form under the layer and</text>
+<text x="214" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">collapse as they escape</text>
+<text x="214" y="239" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">→ popping, crackling</text>
+<path class="ln" d="M226,248 L166,322" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whs-t)"/>
+<text x="214" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Sediment layer</text>
+<text x="214" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">insulating crust between</text>
+<text x="214" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">the burner and the water</text>
+<path class="ln" d="M226,332 L190,352" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whs-t)"/>
+<text x="214" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Burner heats the</text>
+<text x="214" y="408" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">tank floor directly</text>
+<path class="ln" d="M210,396 L192,392" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whs-t)"/>
+<text x="485" y="112" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Electric heater</text>
+<text x="485" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">quiet until late</text>
+<rect x="410" y="145" width="150" height="230" rx="18" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="414" y="149" width="142" height="222" rx="15" fill="#dbeafe"/>
+<rect x="556" y="199" width="12" height="14" rx="2" fill="#3a5a72"/>
+<path d="M556,206 L468,206" stroke="#475569" stroke-width="7" stroke-linecap="round"/>
+<rect x="556" y="321" width="12" height="14" rx="2" fill="#3a5a72"/>
+<path d="M556,328 L468,328" stroke="#475569" stroke-width="7" stroke-linecap="round"/>
+<rect x="414" y="314" width="142" height="57" rx="6" fill="url(#whs-sed)"/>
+<path d="M556,328 L468,328" stroke="#475569" stroke-width="7" stroke-linecap="round" stroke-opacity="0.35"/>
+<text x="582" y="202" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Upper element</text>
+<path class="ln" d="M578,198 L570,204" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whs-t)"/>
+<text x="582" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Lower element</text>
+<text x="582" y="308" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">buried by sediment</text>
+<text x="582" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">usually burns out</text>
+<path class="ln" d="M578,304 L570,322" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whs-t)"/>
+<text x="582" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Elements sit above the</text>
+<text x="582" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">floor, so it stays quiet</text>
+<text x="582" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">until the layer reaches</text>
+<text x="582" y="407" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">the lower element</text>
+<rect class="box" x="30" y="448" width="700" height="56" rx="10" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="380" y="471" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Calcium carbonate becomes less soluble as water heats,</text>
+<text x="380" y="491" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">so a 50-gallon tank behaves like a hardness precipitator with a collection tray at the bottom.</text>
+<rect x="30" y="522" width="26" height="12" rx="2" fill="#dbeafe"/><text x="64" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">water</text>
+<rect x="140" y="522" width="26" height="12" rx="2" fill="url(#whs-sed)"/><text x="174" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hardness sediment</text>
+<circle cx="320" cy="528" r="5" fill="#fff" stroke="#52697a" stroke-width="1.2"/><text x="332" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">steam bubble</text>
+<rect x="450" y="525" width="26" height="7" rx="3" fill="#475569"/><text x="484" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">heating element</text>
+</svg>

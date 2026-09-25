@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 636" width="760" height="636" role="img" aria-labelledby="tvl-title tvl-desc">
+<title id="tvl-title">Water softener bypass valve inside a three-valve loop: service and bypass positions</title>
+<desc id="tvl-desc">Two views of a water softener with an integral bypass inside a three-valve loop. In service the inlet and outlet valves are open and the loop valve is closed, so water passes through the softener. In bypass the inlet and outlet valves are closed and the loop valve is open, so the softener is isolated and can be replaced while the house stays on water.</desc>
+<defs><marker id="tvl-mc2410c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="tvl-m0e7490" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><pattern id="tvl-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern></defs>
+<rect width="760" height="636" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Integral bypass inside a three-valve loop</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">The most serviceable layout: the whole softener can come out with the house still on water.</text>
+<text x="30" y="106" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0e7490">SERVICE</text>
+<text x="108" y="106" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">inlet and outlet open, loop closed: the house gets soft water</text>
+<text x="30" y="231" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">SUPPLY</text>
+<text x="650" y="231" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">HOUSE</text>
+<path class="ln" d="M96,226 L114,226" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M146,226 L180,226" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M180,226 L180,154 L359,154" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M391,154 L570,154 L570,226" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M180,226 L207,226" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvl-mc2410c)"/>
+<path class="ln" d="M251,226 L264,226" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvl-mc2410c)"/>
+<path class="ln" d="M440,226 L482,226" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvl-m0e7490)"/>
+<path class="ln" d="M526,226 L570,226" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M570,226 L626,226" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvl-m0e7490)"/>
+<g opacity="1">
+<rect x="322" y="248" width="76" height="78" rx="18" fill="url(#tvl-beads)" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="280" y="204" width="160" height="44" rx="8" fill="#0b2f4a"/>
+<text x="360" y="223" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">CONTROL VALVE</text>
+<text x="360" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#ffffff">+ integral bypass</text>
+</g>
+<text x="410" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">softener</text>
+<path d="M118,216 L142,236 L142,216 L118,236 z" fill="#15803d" stroke="none"/>
+<text x="130" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Main shutoff</text>
+<text x="130" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">OPEN</text>
+<path d="M223,216 L247,236 L247,216 L223,236 z" fill="#15803d" stroke="none"/>
+<text x="235" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Inlet valve</text>
+<text x="235" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">OPEN</text>
+<path d="M498,216 L522,236 L522,216 L498,236 z" fill="#15803d" stroke="none"/>
+<text x="510" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Outlet valve</text>
+<text x="510" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">OPEN</text>
+<path d="M363,144 L387,164 L387,144 L363,164 z" fill="#0b2f4a" stroke="none"/>
+<text x="375" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Loop valve</text>
+<text x="375" y="184" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">CLOSED</text>
+<text x="30" y="356" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#c2410c">BYPASS</text>
+<text x="100" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">inlet and outlet closed, loop open: the house gets hard water</text>
+<text x="30" y="481" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">SUPPLY</text>
+<text x="650" y="481" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">HOUSE</text>
+<path class="ln" d="M96,476 L114,476" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M146,476 L180,476" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M180,476 L180,404 L347,404" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvl-mc2410c)"/>
+<path class="ln" d="M391,404 L570,404 L570,476" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M180,476 L219,476" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M251,476 L280,476" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M440,476 L494,476" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M526,476 L570,476" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M570,476 L626,476" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvl-mc2410c)"/>
+<g opacity="0.35">
+<rect x="322" y="498" width="76" height="78" rx="18" fill="url(#tvl-beads)" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="280" y="454" width="160" height="44" rx="8" fill="#0b2f4a"/>
+<text x="360" y="473" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">CONTROL VALVE</text>
+<text x="360" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#ffffff">+ integral bypass</text>
+</g>
+<text x="410" y="534" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">isolated: can be replaced</text>
+<text x="410" y="551" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">with the house on water</text>
+<path d="M118,466 L142,486 L142,466 L118,486 z" fill="#15803d" stroke="none"/>
+<text x="130" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Main shutoff</text>
+<text x="130" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">OPEN</text>
+<path d="M223,466 L247,486 L247,466 L223,486 z" fill="#0b2f4a" stroke="none"/>
+<text x="235" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Inlet valve</text>
+<text x="235" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">CLOSED</text>
+<path d="M498,466 L522,486 L522,466 L498,486 z" fill="#0b2f4a" stroke="none"/>
+<text x="510" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Outlet valve</text>
+<text x="510" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">CLOSED</text>
+<path d="M363,394 L387,414 L387,394 L363,414 z" fill="#15803d" stroke="none"/>
+<text x="375" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Loop valve</text>
+<text x="375" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">OPEN</text>
+<path class="ln" d="M30,592 L730,592" fill="none" stroke="#e2e8f0" stroke-width="1.2"/>
+<rect x="30" y="610" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="64" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hard water</text>
+<rect x="180" y="610" width="26" height="6" rx="3" fill="#0e7490"/>
+<text x="214" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">soft water</text>
+<rect x="330" y="610" width="26" height="6" rx="3" fill="#cbd5e1"/>
+<text x="364" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">not flowing</text>
+<path d="M488,606 L506,620 L506,606 L488,620 z" fill="#15803d" stroke="none"/>
+<text x="514" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">open</text>
+<path d="M578,606 L596,620 L596,606 L578,620 z" fill="#0b2f4a" stroke="none"/>
+<text x="604" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">closed</text>
+</svg>

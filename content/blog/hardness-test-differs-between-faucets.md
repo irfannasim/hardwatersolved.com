@@ -4,6 +4,7 @@ seoTitle: "Hardness Test Different Between Faucets? 5 Hidden Culprits"
 seoDescription: "Hardness test different between faucets? A bypassed kitchen line, a leaking bypass valve or an unconnected branch is usually why. Map every tap to find it."
 excerpt: "When one tap tests hard and another tests soft, the kit is rarely wrong. The plumbing is telling you where the softener stops. Test every fixture, write the numbers on a floor plan, and the pattern points to the branch."
 date: "2026-09-14"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Water Testing"
 featuredImage: "https://images.pexels.com/photos/29262657/pexels-photo-29262657.jpeg"
@@ -66,7 +67,7 @@ A titration kit is the better tool here. Strips can't separate 0 from 1 gpg, and
 
 *The readings in this table are illustrative, not measurements from a specific house. They show one common pattern: a kitchen cold line and a hose bib teed off before the softener.*
 
-![Printed house floor plan on a wooden table with a tape measure and pencil, used to map hardness test results fixture by fixture](https://images.pexels.com/photos/4792501/pexels-photo-4792501.jpeg)
+![Illustrative plumbing map showing why a hardness test differs between faucets: the kitchen cold line and hose bib tee off before the softener](/diagrams/hardness-test-by-faucet-house-plumbing-map.svg "Illustrative: hard and soft taps split where a branch leaves the main before the softener")
 
 ## Reading the Map: Where the Branch Point Is
 
@@ -80,7 +81,7 @@ Once the numbers are on paper, look for the edge. Find where the hard fixtures s
 
 **One zone hard.** A basement bathroom, an addition or a bar sink that tests hard while its neighbours test soft was usually tied into the nearest raw pipe when it was added. The branch is wherever that zone's supply joins the house main.
 
-![Row of copper pipe couplings and fittings, the kind of joints where a household water line can branch off before the softener](https://images.pexels.com/photos/28169591/pexels-photo-28169591.jpeg)
+![Diagram of a water softener three-valve bypass loop in service versus partly open, with raw water blending to give 4 gpg at every tap](/diagrams/water-softener-three-valve-bypass-blending.svg "One in-between reading at every tap means blending at the softener, not a branch")
 
 ## Intentional Bypasses You Shouldn't "Fix"
 

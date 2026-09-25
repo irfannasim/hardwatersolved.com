@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 514" width="760" height="514" role="img" aria-labelledby="g6ps-title g6ps-desc">
+<title id="g6ps-title">Water softener control valve position sensor types</title>
+<desc id="g6ps-desc">Three water softener valve position sensors: a microswitch whose arm rides a cam lobe, an optical sensor reading a slotted wheel or reflective label, and a rotor position switch, each with what to check when a softener is stuck in regeneration.</desc>
+<defs></defs>
+<rect width="760" height="514" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Three kinds of valve position sensor</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">The control never sees the valve. It relies on one of these to know where the cam or piston is.</text>
+<rect class="box" x="30" y="92" width="224" height="326" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="142" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Microswitch on a cam</text>
+<text x="142" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">e.g. Fleck SXT</text>
+<circle cx="128" cy="252" r="34" fill="#cbd5e1" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="128" cy="220" r="14" fill="#cbd5e1" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="128" cy="252" r="26" fill="#cbd5e1"/>
+<circle cx="128" cy="252" r="5" fill="#3a5a72"/>
+<rect x="164" y="172" width="60" height="28" rx="4" fill="#0b2f4a"/>
+<path d="M128,198 L172,198" fill="none" stroke="#0b2f4a" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="128" cy="200" r="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="142" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">arm rides up or drops</text>
+<text x="142" y="331" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">off a lobe</text>
+<text x="44" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">What to check</text>
+<text x="44" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Look for a bent arm, a lever</text>
+<text x="44" y="395" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">that no longer clicks,</text>
+<text x="44" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">or a loose lead</text>
+<rect class="box" x="268" y="92" width="224" height="326" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="380" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Optical sensor</text>
+<text x="380" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">e.g. Autotrol 740/760,</text>
+<text x="380" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Clack WS1</text>
+<circle cx="380" cy="248" r="44" fill="#cbd5e1" stroke="#3a5a72" stroke-width="2"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(0 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(30 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(60 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(90 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(120 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(150 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(180 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(210 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(240 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(270 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(300 380 248)"/>
+<rect x="376" y="206" width="8" height="12" fill="#ffffff" transform="rotate(330 380 248)"/>
+<circle cx="380" cy="248" r="6" fill="#3a5a72"/>
+<rect x="362" y="184" width="36" height="10" fill="#0b2f4a"/>
+<rect x="362" y="184" width="9" height="38" fill="#0b2f4a"/>
+<rect x="389" y="184" width="9" height="38" fill="#0b2f4a"/>
+<path d="M371,214 L389,214" stroke="#dc2626" stroke-width="2" stroke-dasharray="3 2"/>
+<text x="380" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">reads a slotted wheel</text>
+<text x="380" y="331" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">or a reflective label</text>
+<text x="282" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">What to check</text>
+<text x="282" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Dirt clogging the slots,</text>
+<text x="282" y="395" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">a dirty or damaged label,</text>
+<text x="282" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">or a sensor not seated</text>
+<rect class="box" x="506" y="92" width="224" height="326" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="618" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Position switch</text>
+<text x="618" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">rotor cabinet units,</text>
+<text x="618" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">e.g. GE GXSH40V</text>
+<circle cx="592" cy="248" r="44" fill="#cbd5e1" stroke="#3a5a72" stroke-width="2"/>
+<rect x="626" y="238" width="14" height="20" fill="#f8fafc"/>
+<path d="M636,238 L626,238 L626,258 L636,258" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="592" cy="248" r="6" fill="#3a5a72"/>
+<rect x="652" y="234" width="48" height="28" rx="4" fill="#0b2f4a"/>
+<path d="M652,248 L636,248" fill="none" stroke="#0b2f4a" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="633" cy="248" r="5" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="618" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">opens and closes as</text>
+<text x="618" y="331" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">the rotor turns</text>
+<text x="520" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">What to check</text>
+<text x="520" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">A diagnostic screen shows</text>
+<text x="520" y="395" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">whether it is open or closed</text>
+<text x="520" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">as the valve is advanced</text>
+<rect class="box" x="30" y="436" width="342" height="58" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="44" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Safe: unplug, reseat every connector,</text>
+<text x="44" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">wipe dry, clip the sensor in firmly</text>
+<rect class="box" x="388" y="436" width="342" height="58" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="402" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">Don't: bend switch arms to adjust them,</text>
+<text x="402" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">or clean an optical sensor with solvent</text>
+</svg>

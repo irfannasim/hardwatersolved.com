@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="ice-title ice-desc">
+<title id="ice-title">Cloudy ice: all-sided freezing versus directional freezing</title>
+<desc id="ice-desc">Diagram comparing a refrigerator ice mould, where freeze fronts from every side trap dissolved oxygen and nitrogen in a cloudy core, with directional freezing, where the gas escapes and the ice comes out clear. Hardness is not the cause.</desc>
+<defs><marker id="ice-f" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="ice-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why refrigerator ice is cloudy</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Cloudiness is trapped air. It comes from how the cube freezes, not from hardness.</text>
+<text x="185" y="110" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Refrigerator ice mould</text>
+<text x="185" y="131" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52697a">freezes from every side at once</text>
+<text x="575" y="110" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Clear-ice machine</text>
+<text x="575" y="131" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52697a">freezes directionally</text>
+<path d="M380,96 L380,470" fill="none" stroke="#cbd5e1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="85" y="160" width="200" height="200" rx="6" fill="#eef8ff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M95,260 L141,260" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ice-f)"/>
+<path class="ln" d="M275,260 L229,260" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ice-f)"/>
+<path class="ln" d="M185,170 L185,216" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ice-f)"/>
+<path class="ln" d="M185,350 L185,304" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ice-f)"/>
+<circle cx="185" cy="260" r="28" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5"/>
+<circle cx="173" cy="250" r="3" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="191" cy="244" r="3" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="199" cy="264" r="3" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="181" cy="270" r="3" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="169" cy="268" r="3" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="193" cy="276" r="3" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="185" cy="258" r="3" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="203" cy="252" r="3" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<rect x="475" y="160" width="200" height="200" rx="6" fill="#eef8ff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="477" y="162" width="196" height="76" rx="4" fill="#dbeafe"/>
+<path d="M483,260 L667,260" stroke="#bfdbfe" stroke-width="1.5"/>
+<path d="M483,285 L667,285" stroke="#bfdbfe" stroke-width="1.5"/>
+<path d="M483,310 L667,310" stroke="#bfdbfe" stroke-width="1.5"/>
+<path d="M483,335 L667,335" stroke="#bfdbfe" stroke-width="1.5"/>
+<path class="ln" d="M495,190 L651,190" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ice-s)"/>
+<text x="575" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">water flowing</text>
+<text x="575" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52697a">clear ice layers</text>
+<path class="ln" d="M657,348 L657,256" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ice-f)"/>
+<circle cx="515" cy="154" r="4" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="537" cy="144" r="4" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="625" cy="150" r="4" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="535" cy="172" r="4" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="615" cy="174" r="4" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<circle cx="575" cy="168" r="4" fill="#ffffff" stroke="#52697a" stroke-width="1"/>
+<text x="40" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Freeze fronts advance inward</text>
+<text x="40" y="418" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">and meet in the middle.</text>
+<text x="40" y="446" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Rejected O₂ and N₂ gas is pushed</text>
+<text x="40" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">into the centre → cloudy white</text>
+<text x="40" y="486" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">core of trapped air</text>
+<text x="420" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">A thin layer freezes at a time,</text>
+<text x="420" y="418" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">usually with the water flowing.</text>
+<text x="420" y="446" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Rejected gas escapes into the</text>
+<text x="420" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">remaining liquid, then into the</text>
+<text x="420" y="486" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">air → clear ice</text>
+<rect class="box" x="30" y="500" width="700" height="34" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="380" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Distilled water frozen in the same tray still comes out cloudy. Softening does not help.</text>
+<rect x="30" y="556" width="26" height="6" rx="3" fill="#3a5a72"/><text x="64" y="563" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">freeze front</text>
+<circle cx="180" cy="559" r="4" fill="#fff" stroke="#52697a" stroke-width="1"/><text x="192" y="563" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">dissolved gas (O₂, N₂)</text>
+<rect x="360" y="553" width="26" height="12" rx="2" fill="#eef8ff" stroke="#3a5a72" stroke-width="1"/><text x="394" y="563" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">ice</text>
+<rect x="440" y="553" width="26" height="12" rx="2" fill="#dbeafe"/><text x="474" y="563" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">liquid water</text>
+</svg>

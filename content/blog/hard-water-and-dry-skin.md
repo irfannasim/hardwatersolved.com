@@ -4,6 +4,7 @@ seoTitle: "Hard Water Dry Skin: Proven Facts vs Popular Myths"
 seoDescription: "The hard water dry skin link is real but narrower than claimed. What the eczema and xerosis research supports, and what a softener trial actually found."
 excerpt: "Two things are true at once: hardness is associated with dry skin in large population studies, and installing a softener did not improve eczema in the trial that tested it. Both matter before you spend money."
 date: "2026-09-08"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/12754952/pexels-photo-12754952.jpeg"
@@ -42,6 +43,8 @@ An association in observational data plus a null result in a randomised trial is
 ## The Mechanism That Does Hold Up: Soap Residue
 
 Here is the part nobody disputes. Calcium and magnesium react with soap and many surfactants to form an insoluble calcium-soap curd. That curd does not rinse away cleanly — it deposits on whatever it was lathered against, including your skin.
+
+![Diagram of hard water and dry skin: calcium binds soap into curd that deposits on skin, while in soft water soap rinses away](/diagrams/hard-water-soap-curd-on-skin-vs-soft-water.svg "Calcium turns soap into curd that stays on skin; soft water rinses clean")
 
 Two consequences follow, and both are relevant to how your skin feels at the end of a shower:
 

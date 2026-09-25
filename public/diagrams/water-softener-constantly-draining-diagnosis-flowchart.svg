@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 740" width="760" height="740" role="img" aria-labelledby="cdf-title cdf-desc">
+<title id="cdf-title">Water softener constantly draining: diagnosis flowchart</title>
+<desc id="cdf-desc">Flowchart for a water softener constantly draining. Check which hose is running, put the softener in bypass, read the display, then manually advance the valve to service. If the drain stops, the valve was stuck in a cycle position; if it keeps flowing, worn seals, spacers or a piston are leaking internally.</desc>
+<defs><marker id="cdf-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="740" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Constantly draining: the one test that splits it</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Work down the chart. The manual advance to service decides the branch.</text>
+<rect class="box" x="60" y="90" width="380" height="42" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="250" y="115.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water running to drain outside a regeneration</text>
+<path class="ln" d="M250,132 L250,152" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<rect class="box" x="60" y="160" width="380" height="42" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="250" y="185.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Which hose is running?</text>
+<path class="ln" d="M440,181 L492,181" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<text x="468" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">overflow</text>
+<rect class="box" x="500" y="150" width="230" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="615" y="176.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Brine tank overflow:</text>
+<text x="615" y="194.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">a different fault</text>
+<path class="ln" d="M250,202 L250,234" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<text x="260" y="223" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">drain line</text>
+<rect class="box" x="60" y="242" width="380" height="52" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="250" y="263.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Put the softener in bypass to stop the waste</text>
+<text x="250" y="281.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">(unplugging can freeze it mid-cycle)</text>
+<path class="ln" d="M250,294 L250,314" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<rect class="box" x="60" y="322" width="380" height="42" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="250" y="347.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Read the display: step, error code or service?</text>
+<path class="ln" d="M250,364 L250,384" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<rect class="box" x="60" y="392" width="380" height="52" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="250" y="413.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Take it out of bypass, manually advance the</text>
+<text x="250" y="431.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">valve to SERVICE, then wait a minute</text>
+<path class="ln" d="M440,418 L492,418" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<rect class="box" x="500" y="392" width="230" height="52" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="615" y="413.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Valve will not advance,</text>
+<text x="615" y="431.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">or shows an error</text>
+<path class="ln" d="M250,444 L250,464" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<rect class="box" x="60" y="472" width="380" height="42" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="250" y="497.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Does the drain flow stop at service?</text>
+<path class="ln" d="M440,493 L560,493 L560,556" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<text x="470" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">YES</text>
+<path class="ln" d="M670,444 L670,556" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<path class="ln" d="M200,514 L200,556" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdf-m3a5a72)"/>
+<text x="212" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">NO, it keeps flowing</text>
+<rect class="box" x="30" y="564" width="340" height="108" rx="10" fill="#f8fafc" stroke="#0b2f4a" stroke-width="2"/>
+<text x="46" y="590" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">BRANCH B · INTERNAL LEAK</text>
+<text x="46" y="614" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Seals, spacers, piston, or a disc</text>
+<text x="46" y="633" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">or rotor that no longer seats.</text>
+<text x="46" y="652" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">The repair depends on the valve design.</text>
+<rect class="box" x="390" y="564" width="340" height="108" rx="10" fill="#f8fafc" stroke="#0b2f4a" stroke-width="2"/>
+<text x="406" y="590" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">BRANCH A · STUCK POSITION</text>
+<text x="406" y="614" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Something stopped the valve advancing:</text>
+<text x="406" y="633" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">power cut mid-cycle, motor, drive gear,</text>
+<text x="406" y="652" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">position sensor, or a binding piston.</text>
+<text x="30" y="700" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Hint: a measured flow close to the rate on your drain line flow control points to a position</text>
+<text x="30" y="719" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">problem; a steady trickle far below it points more towards a seal leak.</text>
+</svg>

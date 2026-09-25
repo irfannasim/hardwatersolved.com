@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 630" width="760" height="630" role="img" aria-labelledby="eff-title eff-desc">
+<title id="eff-title">Water softener error code fault families mapped onto the control valve chain</title>
+<desc id="eff-desc">Block diagram of a water softener control: power feeds the circuit board, the board drives the motor that moves the piston, camshaft or rotor, a position sensor reports back, and a meter counts water. Each link is labelled with the error code fault family it produces.</desc>
+<defs><marker id="eff-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="630" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Where each error code family comes from</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Every brand’s codes point at one link in the same chain.</text>
+<rect class="box" x="30" y="100" width="190" height="64" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="54" cy="132" r="13" fill="#0b2f4a"/>
+<text x="54" y="137" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<text x="76" y="129" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">POWER</text>
+<text x="76" y="147" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">outlet + transformer</text>
+<rect class="box" x="280" y="100" width="200" height="64" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="304" cy="132" r="13" fill="#0b2f4a"/>
+<text x="304" y="137" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<text x="326" y="129" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">CIRCUIT BOARD</text>
+<text x="326" y="147" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">stores programming</text>
+<rect class="box" x="540" y="100" width="190" height="64" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="564" cy="132" r="13" fill="#0b2f4a"/>
+<text x="564" y="137" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="586" y="129" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">MOTOR</text>
+<text x="586" y="147" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">drive gears</text>
+<rect class="box" x="540" y="250" width="190" height="64" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="564" cy="282" r="13" fill="#0b2f4a"/>
+<text x="564" y="287" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="586" y="279" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">PISTON</text>
+<text x="586" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">camshaft or rotor</text>
+<rect class="box" x="280" y="250" width="200" height="64" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="304" cy="282" r="13" fill="#0b2f4a"/>
+<text x="304" y="287" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<text x="326" y="279" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">POSITION SENSOR</text>
+<text x="326" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">switch or optical reader</text>
+<rect class="box" x="30" y="250" width="190" height="64" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="54" cy="282" r="13" fill="#0b2f4a"/>
+<text x="54" y="287" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<text x="76" y="279" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">METER</text>
+<text x="76" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">turbine counts water</text>
+<path class="ln" d="M220,132 L272,132" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#eff-m3a5a72)"/>
+<path class="ln" d="M480,132 L532,132" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#eff-m3a5a72)"/>
+<path class="ln" d="M635,164 L635,242" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#eff-m3a5a72)"/>
+<text x="645" y="208" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">moves</text>
+<path class="ln" d="M540,282 L488,282" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#eff-m3a5a72)"/>
+<text x="514" y="272" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">reads</text>
+<path class="ln" d="M430,250 L430,172" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#eff-m3a5a72)"/>
+<text x="440" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">reports position</text>
+<path class="ln" d="M125,250 L125,210 L330,210 L330,172" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#eff-m3a5a72)"/>
+<text x="140" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">counts gallons</text>
+<text x="30" y="356" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">The fault families</text>
+<rect class="box" x="30" y="370" width="340" height="74" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="54" cy="392" r="13" fill="#0b2f4a"/>
+<text x="54" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="76" y="397" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Motor or drive stall</text>
+<text x="44" y="419" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Valve did not reach the next position in</text>
+<text x="44" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">time, or the motor did not start or stop</text>
+<rect class="box" x="390" y="370" width="340" height="74" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="414" cy="392" r="13" fill="#0b2f4a"/>
+<text x="414" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<text x="436" y="397" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Position sensor</text>
+<text x="404" y="419" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">The valve reported a position the control</text>
+<text x="404" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">did not expect, or no position at all</text>
+<rect class="box" x="30" y="454" width="340" height="74" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="54" cy="476" r="13" fill="#0b2f4a"/>
+<text x="54" y="481" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<text x="76" y="481" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Memory or configuration</text>
+<text x="44" y="503" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Stored settings are corrupt or do not</text>
+<text x="44" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">match the hardware</text>
+<rect class="box" x="390" y="454" width="340" height="74" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="414" cy="476" r="13" fill="#0b2f4a"/>
+<text x="414" y="481" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<text x="436" y="481" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Meter or regeneration overdue</text>
+<text x="404" y="503" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">No water counted, or no regeneration</text>
+<text x="404" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">for too long</text>
+<rect class="box" x="30" y="538" width="340" height="74" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="54" cy="560" r="13" fill="#0b2f4a"/>
+<text x="54" y="565" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<text x="76" y="565" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Smaller group</text>
+<text x="44" y="587" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Power-supply mismatches, and brine alerts</text>
+<text x="44" y="604" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">on controls with a brine sensor</text>
+</svg>

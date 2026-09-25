@@ -4,6 +4,7 @@ seoTitle: "Water Softener Not Using Salt? 6 Proven Checks in Order"
 seoDescription: "Water softener not using salt? It is either not regenerating or not drawing brine. Six checks, cheapest first, and a 20-minute test that tells which."
 excerpt: "The salt line on the tank has not moved in a month, and the water is starting to feel hard again. That one symptom has two completely separate causes: a softener that never starts a regeneration, and one that regenerates on schedule but never pulls brine out of the tank. They share nothing else — different parts, different fixes, different costs — so the first job is working out which one you have. A manual regeneration and twenty minutes of watching the water level settles it."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/27098310/pexels-photo-27098310.jpeg"
@@ -61,8 +62,6 @@ Here is why the split matters. Every regeneration has two jobs: the control valv
 
 ## The 20-Minute Observation Test
 
-![Close-up of a vintage analog stopwatch reflected on a glass surface, the kind of simple timer used to watch a brine tank level fall during a manual regeneration](https://images.pexels.com/photos/5563404/pexels-photo-5563404.jpeg)
-
 This is the test that settles the branch. You need a flashlight, a ruler or a marked dowel, a timer, and access to the brine well — the vertical tube in the corner of the brine tank that houses the float.
 
 **Before you start:**
@@ -107,7 +106,7 @@ If the valve never started, the fault is upstream of the brine tank entirely. Wo
 
 ## Branch B: It Regenerates but Draws No Brine
 
-![Assorted wrenches and pliers laid out on a dark surface, the basic hand tools needed to open brine line fittings and remove a softener injector cap](https://images.pexels.com/photos/12105083/pexels-photo-12105083.jpeg)
+![Diagram of the water softener brine draw path from brine tank to injector and drain, marking six reasons it is not using salt](/diagrams/water-softener-brine-draw-path-failure-points.svg "Six places the brine path fails while the valve keeps cycling normally")
 
 The valve is doing its job. The brine is not getting out of the tank. These are in order of how often they turn out to be the cause and how cheap they are to check.
 
@@ -124,8 +123,6 @@ The valve is doing its job. The brine is not getting out of the tank. These are 
 **6. Low inlet pressure.** Injectors are pressure-driven. The Fleck manual gives 20 psi as the minimum line pressure for brine draw. Wells with a low pump cut-in pressure, and houses with a failing pressure regulator, fall below this during regeneration. Check a pressure gauge on a hose bib while the softener is in brine draw.
 
 ## The Six Checks, Cheapest First
-
-![Steel pipework with several pressure gauges mounted in a row, representing the inlet pressure check that confirms a softener injector has enough force to draw brine](https://images.pexels.com/photos/586019/pexels-photo-586019.jpeg)
 
 If you would rather work straight down a list than read through both branches, this is the order that wastes the least time and money. Stop as soon as one check fails.
 

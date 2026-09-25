@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" role="img" aria-labelledby="cps-title cps-desc">
+<title id="cps-title">Hard water spots on car paint: surface deposit, bonded deposit and etching</title>
+<desc id="cps-desc">Cross-section diagram of hard water spots on car paint: minerals collect at the edge of a drying drop, then sit on the clear coat as a surface deposit, bond to it, and finally etch a dip into the clear coat that only polishing removes.</desc>
+<defs><marker id="cps-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="cps-t" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="470" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hard water spots on car paint: three stages</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Cross-sections of the paint. A deposit sits on the clear coat; an etch is a dip in it.</text>
+<rect class="box" x="30" y="96" width="166" height="256" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="113" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">How a spot forms</text>
+<rect x="42" y="176" width="142" height="30" fill="#e0f2fe" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="42" y="206" width="142" height="26" fill="#475569"/>
+<text x="46" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Minerals move to the</text>
+<text x="46" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">edge of the drop as it</text>
+<text x="46" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">dries → a ring</text>
+<rect class="box" x="208" y="96" width="166" height="256" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="291" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1. Surface deposit</text>
+<rect x="220" y="176" width="142" height="30" fill="#e0f2fe" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="220" y="206" width="142" height="26" fill="#475569"/>
+<text x="224" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Removed by a quick</text>
+<text x="224" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">detailer or a mild acid</text>
+<text x="224" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">water spot remover</text>
+<rect class="box" x="386" y="96" width="166" height="256" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="469" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2. Bonded deposit</text>
+<rect x="398" y="176" width="142" height="30" fill="#e0f2fe" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="398" y="206" width="142" height="26" fill="#475569"/>
+<text x="402" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Stronger remover,</text>
+<text x="402" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">repeated dwell,</text>
+<text x="402" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">then clay bar</text>
+<rect class="box" x="564" y="96" width="166" height="256" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="1"/>
+<text x="647" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">3. Etched</text>
+<path d="M576,176 L616,176 Q622,188 628,176 L666,176 Q672,188 678,176 L718,176 L718,206 L576,206 z" fill="#e0f2fe" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="576" y="206" width="142" height="26" fill="#475569"/>
+<text x="580" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Only polish or</text>
+<text x="580" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">compound fixes it</text>
+<text x="113" y="224" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#ffffff">base colour</text>
+<text x="113" y="196" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">clear coat</text>
+<path d="M68,176 Q113,120 158,176 z" fill="#dbeafe" stroke="#0e7490" stroke-width="1.5"/>
+<circle cx="83" cy="170" r="3" fill="#a8a29e"/>
+<circle cx="89" cy="164" r="3" fill="#a8a29e"/>
+<circle cx="137" cy="164" r="3" fill="#a8a29e"/>
+<circle cx="143" cy="170" r="3" fill="#a8a29e"/>
+<circle cx="103" cy="158" r="3" fill="#a8a29e"/>
+<circle cx="123" cy="160" r="3" fill="#a8a29e"/>
+<path class="ln" d="M106,150 L86,164" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cps-t)"/>
+<path class="ln" d="M120,150 L140,164" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cps-t)"/>
+<path d="M244,176 Q258,160 272,176 z" fill="#a8a29e"/>
+<path d="M304,176 Q318,160 332,176 z" fill="#a8a29e"/>
+<path d="M419,179 Q436,146 453,179 z" fill="#a8a29e" stroke="#78716c" stroke-width="1"/>
+<path d="M479,179 Q496,146 513,179 z" fill="#a8a29e" stroke="#78716c" stroke-width="1"/>
+<text x="647" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">nothing on top</text>
+<text x="580" y="324" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">smooth to the touch,</text>
+<text x="580" y="341" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">ring visible by flashlight</text>
+<text x="478" y="382" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">mineral load + heat + rewetting move a spot along</text>
+<path class="ln" d="M214,398 L722,398" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cps-a)"/>
+<text x="30" y="386" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#15803d">Drying fast beats</text>
+<text x="30" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#15803d">every product</text>
+<rect x="30" y="436" width="26" height="12" rx="2" fill="#e0f2fe" stroke="#3a5a72" stroke-width="1"/><text x="64" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">clear coat</text>
+<rect x="170" y="436" width="26" height="12" rx="2" fill="#475569"/><text x="204" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">base colour</text>
+<rect x="320" y="436" width="26" height="12" rx="2" fill="#a8a29e"/><text x="354" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">calcium and magnesium deposit</text>
+<rect x="590" y="436" width="26" height="12" rx="2" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/><text x="624" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">water drop</text>
+</svg>

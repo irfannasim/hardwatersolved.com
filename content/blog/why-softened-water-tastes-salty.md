@@ -4,6 +4,7 @@ seoTitle: "Why Softened Water Tastes Salty and How to Fix It"
 seoDescription: "Softened water tastes salty only when brine reaches the service line. A working unit adds sodium far below taste threshold, so a salty taste is a fault to fix."
 excerpt: "A correctly working softener does not make water taste salty — the sodium it adds is calculable, constant, and normally well below the point anyone can taste it. A salty taste means brine is reaching the service line instead of going to the drain, and whether the taste is constant or comes and goes on cycle days tells you which of the five faults you have."
 date: "2026-09-16"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/34199673/pexels-photo-34199673.jpeg"
@@ -69,7 +70,7 @@ If the taste disappears in bypass, continue.
 
 ## Fault 1: A Restricted or Blocked Drain Line
 
-![Plumbing valve on a black pipeline, the kind of restriction that prevents a softener from flushing brine to the drain during regeneration](https://images.pexels.com/photos/13726337/pexels-photo-13726337.jpeg)
+![Water softener drain line diagram showing kinks, lift height, flow control and air gap, the restrictions that leave brine behind and make water taste salty](/diagrams/water-softener-drain-line-restriction-points.svg "If the rinse can’t reach the drain, the leftover brine goes to your taps")
 
 The most common mechanical cause, and the one that most reliably produces the "salty only on cycle days" pattern.
 
@@ -86,8 +87,6 @@ What to check, in order:
 **The test.** Start a manual regeneration and go to the backwash stage. You should see a strong, steady flow at the drain — recognisably more than a garden tap trickle. A weak, surging or intermittent flow means a restriction. Fix that and the salty taste very often goes with it.
 
 ## Fault 2: A Blocked Injector or Venturi
-
-![Industrial control assembly with gauges and valves, the equivalent of the small injector and venturi that generate suction inside a softener control head](https://images.pexels.com/photos/4494653/pexels-photo-4494653.jpeg)
 
 The injector is a small nozzle-and-throat assembly on the side of the control valve that creates suction to draw brine into the resin tank. Its orifices are tiny, and salt fines, iron and grit block them.
 
@@ -125,8 +124,6 @@ A one-off salty taste that never repeats usually has a one-off cause.
 **The fix is the same in every case:** run a full manual regeneration start to finish without drawing water, then flush a few gallons at a cold tap and taste again. If the taste is gone and does not return on the next scheduled cycle, that was it.
 
 ## Confirming Brine Carryover With a Conductivity Reading
-
-![Water being poured from a jug into a clear glass, the sample used for a conductivity reading that confirms or rules out brine carryover](https://images.pexels.com/photos/6853442/pexels-photo-6853442.jpeg)
 
 Taste is a poor instrument. A cheap TDS or conductivity meter turns "it tastes a bit salty" into a number you can act on, and it is the check that separates a real fault from an expectation problem.
 

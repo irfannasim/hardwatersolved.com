@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" width="760" height="570" role="img" aria-labelledby="g6sb-title g6sb-desc">
+<title id="g6sb-title">Water softener salt bridge compared with a working brine tank</title>
+<desc id="g6sb-desc">Cross-section of a water softener salt bridge beside a working brine tank: both look identical from above, but in the bridged tank a fused salt crust arches wall to wall over an air void, so the nearly fresh water below never touches salt.</desc>
+<defs><pattern id="g6sb-s" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#f8fafc"/><rect x="2" y="2" width="7" height="6" rx="1.5" fill="#cbd5e1"/></pattern><marker id="g6sb-f" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="570" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why a salt bridge looks like a full tank</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Same view from above; underneath, the bridged tank has no salt in contact with the water.</text>
+<text x="130" y="108" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#15803d">Working tank</text>
+<rect x="40" y="124" width="180" height="350" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="42" y="200" width="176" height="244" fill="url(#g6sb-s)"/>
+<rect x="42" y="380" width="176" height="92" fill="#c4b5fd" opacity="0.55"/>
+<rect x="52" y="112" width="16" height="358" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="70" y="452" width="148" height="6" fill="#64748b"/>
+<text x="490" y="108" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#dc2626">Bridged tank</text>
+<rect x="400" y="124" width="180" height="350" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="402" y="200" width="176" height="72" fill="url(#g6sb-s)"/>
+<path d="M402,300 Q490,240 578,300 L578,276 Q490,220 402,276 Z" fill="#94a3b8" stroke="#64748b" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="402" y="404" width="176" height="68" fill="#dbeafe"/>
+<path d="M402,404 L578,404" stroke="#93c5fd" stroke-width="2"/>
+<rect x="412" y="112" width="16" height="358" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="430" y="452" width="148" height="6" fill="#64748b"/>
+<path class="ln" d="M190,230 L230,230" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="236" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">loose salt</text>
+<text x="236" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">you can scoop</text>
+<path class="ln" d="M190,320 L230,320" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="236" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">loose salt,</text>
+<text x="236" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">continuous down</text>
+<text x="236" y="348" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">to the water</text>
+<path class="ln" d="M190,410 L230,404" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="236" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">wet salt sitting</text>
+<text x="236" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">in brine</text>
+<path class="ln" d="M190,450 L230,450" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="236" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#7c3aed">saturated brine,</text>
+<text x="236" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#7c3aed">near full strength</text>
+<path class="ln" d="M550,226 L590,226" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="596" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">loose salt:</text>
+<text x="596" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">identical</text>
+<path class="ln" d="M550,266 L590,274" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="596" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">fused crust, an</text>
+<text x="596" y="286" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">inch or more thick,</text>
+<text x="596" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">arching wall to wall</text>
+<path class="ln" d="M550,350 L590,350" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="596" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">air:</text>
+<text x="596" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">nothing at all</text>
+<path class="ln" d="M550,430 L590,430" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="596" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">water, nearly fresh,</text>
+<text x="596" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">touching no salt</text>
+<path class="ln" d="M440,292 L408,296" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6sb-f)"/>
+<path class="ln" d="M540,292 L572,296" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6sb-f)"/>
+<text x="506" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">arch rests on the walls</text>
+<path class="ln" d="M60,474 L60,490" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="46" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">brine well</text>
+<path class="ln" d="M170,460 L170,490" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="170" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">grid plate</text>
+<path class="ln" d="M420,474 L420,490" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="406" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">brine well</text>
+<rect x="30" y="535" width="18" height="14" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1"/>
+<text x="56" y="547" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">loose salt</text>
+<rect x="147" y="535" width="18" height="14" fill="#94a3b8" stroke="#3a5a72" stroke-width="1"/>
+<text x="173" y="547" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">fused crust</text>
+<rect x="270.9" y="535" width="18" height="14" fill="#c4b5fd" stroke="#3a5a72" stroke-width="1"/>
+<text x="296.9" y="547" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">saturated brine</text>
+<rect x="422.4" y="535" width="18" height="14" fill="#dbeafe" stroke="#3a5a72" stroke-width="1"/>
+<text x="448.4" y="547" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">nearly fresh water</text>
+</svg>

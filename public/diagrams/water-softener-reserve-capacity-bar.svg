@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" width="760" height="450" role="img" aria-labelledby="rcb-title rcb-desc">
+<title id="rcb-title">Water softener reserve capacity: zero reserve versus one day</title>
+<desc id="rcb-desc">Diagram of water softener reserve capacity: with a zero reserve, a heavy evening of laundry and showers runs past the usable capacity before the overnight regeneration; a reserve of about one day makes the valve regenerate early.</desc>
+<defs><pattern id="rcb-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#ecfdf5"/><rect width="3" height="8" fill="#86efac"/></pattern><marker id="rcb-t" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="450" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water softener reserve capacity</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">One bar is the usable capacity of one cycle. Each block is a day of household use.</text>
+<text x="30" y="112" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">Reserve set to zero</text>
+<rect x="40" y="128" width="480" height="40" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="40" y="128" width="120" height="40" fill="#bae6fd" stroke="#ffffff" stroke-width="2"/>
+<text x="100" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">day 1</text>
+<rect class="box" x="160" y="128" width="120" height="40" fill="#bae6fd" stroke="#ffffff" stroke-width="2"/>
+<text x="220" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">day 2</text>
+<rect class="box" x="280" y="128" width="120" height="40" fill="#bae6fd" stroke="#ffffff" stroke-width="2"/>
+<text x="340" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">day 3</text>
+<rect x="400" y="128" width="120" height="40" fill="#fed7aa" stroke="#ffffff" stroke-width="2"/>
+<rect x="520" y="128" width="70" height="40" fill="#fecaca" stroke="#dc2626" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="460" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">heavy day 4</text>
+<text x="555" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">runs out</text>
+<path d="M520,118 L520,178" stroke="#0b2f4a" stroke-width="3"/>
+<path d="M630,118 L630,178" stroke="#3a5a72" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="638" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">overnight</text>
+<text x="638" y="154" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">regeneration</text>
+<text x="40" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Three loads of laundry and four showers overrun the last of the capacity.</text>
+<text x="40" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Hard water reaches the taps for a couple of hours before the overnight cycle.</text>
+<text x="30" y="274" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">Reserve of about one day of household use</text>
+<rect x="40" y="290" width="480" height="40" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="40" y="290" width="120" height="40" fill="#bae6fd" stroke="#ffffff" stroke-width="2"/>
+<text x="100" y="315" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">day 1</text>
+<rect class="box" x="160" y="290" width="120" height="40" fill="#bae6fd" stroke="#ffffff" stroke-width="2"/>
+<text x="220" y="315" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">day 2</text>
+<rect class="box" x="280" y="290" width="120" height="40" fill="#bae6fd" stroke="#ffffff" stroke-width="2"/>
+<text x="340" y="315" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">day 3</text>
+<rect class="box" x="400" y="290" width="120" height="40" fill="url(#rcb-hatch)" stroke="#15803d" stroke-width="2"/>
+<text x="460" y="315" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#14532d">reserve</text>
+<path d="M520,280 L520,340" stroke="#0b2f4a" stroke-width="3"/>
+<path d="M400,280 L400,340" stroke="#3a5a72" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="538" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">regenerates overnight</text>
+<text x="538" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">once only the reserve</text>
+<text x="538" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">is left</text>
+<text x="40" y="362" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#15803d">The valve regenerates early, so a heavy evening is still covered.</text>
+<rect x="30" y="414" width="26" height="12" fill="#bae6fd"/><text x="64" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">capacity used</text>
+<rect x="180" y="414" width="26" height="12" fill="url(#rcb-hatch)"/><text x="214" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">reserve held back</text>
+<path d="M360,410 L360,430" stroke="#0b2f4a" stroke-width="3"/><text x="370" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">end of usable capacity</text>
+<path d="M560,410 L560,430" stroke="#3a5a72" stroke-width="2" stroke-dasharray="5 4"/><text x="570" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">regeneration</text>
+</svg>

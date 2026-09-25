@@ -4,6 +4,7 @@ seoTitle: "Air in Water Lines After Softener? 3 Causes and Easy Fixes"
 seoDescription: "Air in water lines after softener service is normal and clears in a day. Air that keeps returning means a brine draw or well fault. Purge order and diagnosis."
 excerpt: "Every faucet in the house coughs and spits the first time it is opened after a softener has been serviced. That is trapped air, and it is harmless if you purge it in the right order. The version worth worrying about is air that comes back — the morning after every regeneration, or after every long shower on a well — because that means something is drawing air in, and there are two completely different culprits sharing one symptom."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/31213992/pexels-photo-31213992.jpeg"
@@ -61,7 +62,7 @@ Almost every softener service opens the pressurised side of the system.
 
 ## The Purge Order That Actually Clears It
 
-![Rusty outdoor faucet with a single water droplet falling, the kind of low hose bib that is opened first when purging air from the plumbing](https://images.pexels.com/photos/34158878/pexels-photo-34158878.jpeg)
+![Diagram of the order for purging air from water lines after softener service: cold taps from lowest and nearest to highest and farthest, then hot](/diagrams/house-plumbing-air-purge-order-after-softener-service.svg "Purge cold lines from low and near to high and far, then repeat on the hot side")
 
 Opening random taps moves air around; it does not reliably get it out. The order below pushes air in one direction — away from the softener and up and out of the house — rather than chasing it back and forth.
 
@@ -92,7 +93,7 @@ Opening random taps moves air around; it does not reliably get it out. The order
 
 ## Persistent Cause 1: The Softener Draws Air During Brine Draw
 
-![Close-up of water droplets on a brass faucet against a yellow background, representing the intermittent air-and-water spurts that follow a softener regeneration fault](https://images.pexels.com/photos/2339722/pexels-photo-2339722.jpeg)
+![Diagram of a water softener brine draw showing how a failed air check valve or leaking brine line fitting lets air into the resin tank](/diagrams/water-softener-brine-draw-air-check-valve.svg "When the air check fails to seat, the injector draws air instead of brine")
 
 **The pattern:** air appears the morning after each regeneration, then clears. Nothing between regenerations. This happens on city water and well water alike.
 

@@ -21,3 +21,4 @@ Rules that apply to every content task here:
 - Body content starts at `##`; the `<h1>` comes from `title`.
 - Internal links use `/blog/<slug>/` with a trailing slash (`trailingSlash: true`).
 - Images: Pexels URLs in markdown, cached to `public/images/pexels/` by `npm run prebuild`. Every image on the site must be unique, with descriptive alt text.
+- **Diagrams are SVG, and required wherever a reader needs one.** Every time you write or edit an article, check it for flows, anatomy, sequences, levels, decision chains and scales. Draw those as SVG in `public/diagrams/`, following `__content_+_seo/prompts/diagram-guidelines.md`. Never use ASCII/text diagrams. Never convert diagrams to PNG or JPG. Never use a metaphorical stock photo ("the kind of…", "similar to…") where a diagram belongs. Replace it or delete it. Before finishing, run `npm run check:diagrams` and look at every rendered PNG yourself to confirm nothing overlaps.

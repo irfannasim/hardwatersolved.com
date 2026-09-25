@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="anr-title anr-desc">
+<title id="anr-title">Water heater anode rod, new versus depleted, on softened water</title>
+<desc id="anr-desc">Diagram of a water heater sacrificial anode rod, new versus eaten down to its bare core wire, and why softened water raises conductivity so the anode is consumed faster and should be inspected within two years.</desc>
+<defs><marker id="anr-t" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="anr-k" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water heater anode rod: new versus used up</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Softened water is more conductive, so the anode is consumed faster.</text>
+<rect x="40" y="130" width="150" height="270" rx="18" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="44" y="134" width="142" height="262" rx="15" fill="#dbeafe"/>
+<rect x="104" y="114" width="22" height="16" rx="2" fill="#3a5a72"/>
+<rect x="108" y="130" width="14" height="230" rx="5" fill="#9ca3af" stroke="#6b7280" stroke-width="1"/>
+<text x="115" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">glass-lined steel tank</text>
+<text x="214" y="176" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Sacrificial anode rod</text>
+<text x="214" y="195" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">magnesium or aluminium;</text>
+<text x="214" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">it corrodes so the</text>
+<text x="214" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">steel tank does not</text>
+<path class="ln" d="M210,190 L126,210" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#anr-t)"/>
+<rect class="box" x="400" y="104" width="330" height="346" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="480" y="130" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">New</text>
+<text x="650" y="130" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Needs replacing</text>
+<rect x="468" y="146" width="24" height="14" rx="2" fill="#3a5a72"/>
+<rect x="470" y="160" width="20" height="250" rx="7" fill="#9ca3af" stroke="#6b7280" stroke-width="1"/>
+<rect x="638" y="146" width="24" height="14" rx="2" fill="#3a5a72"/>
+<rect x="648" y="160" width="4" height="250" fill="#475569"/>
+<path d="M641,160 L659,160 L661,176 L656,188 L662,200 L655,214 L645,214 L639,202 L643,190 L638,176 z" fill="#9ca3af" stroke="#6b7280" stroke-width="1"/>
+<path d="M644,318 L656,318 L658,330 L653,344 L647,344 L642,330 z" fill="#9ca3af" stroke="#6b7280" stroke-width="1"/>
+<path d="M646,388 L654,388 L655,400 L645,400 z" fill="#9ca3af" stroke="#6b7280" stroke-width="1"/>
+<text x="560" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">bare</text>
+<text x="560" y="267" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">core wire</text>
+<path class="ln" d="M566,254 L644,260" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#anr-t)"/>
+<text x="565" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">down to bare wire over much of its length</text>
+<rect class="box" x="30" y="474" width="154" height="56" rx="10" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="107" y="497" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softened water</text>
+<text x="107" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">adds sodium</text>
+<path class="ln" d="M189,502 L204,502" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#anr-k)"/>
+<rect class="box" x="210" y="474" width="154" height="56" rx="10" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="287" y="497" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Higher</text>
+<text x="287" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">conductivity</text>
+<path class="ln" d="M369,502 L384,502" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#anr-k)"/>
+<rect class="box" x="390" y="474" width="154" height="56" rx="10" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="467" y="497" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Anode consumed</text>
+<text x="467" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">faster</text>
+<path class="ln" d="M549,502 L564,502" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#anr-k)"/>
+<rect class="box" x="570" y="474" width="154" height="56" rx="10" fill="#ecfdf5" stroke="#15803d" stroke-width="1.5"/>
+<text x="647" y="497" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Inspect within</text>
+<text x="647" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">2 years of softening</text>
+<text x="30" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Replacing it: aluminium lasts longer in conductive water; magnesium protects the tank more aggressively.</text>
+<text x="30" y="582" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Softening still extends tank life overall, as long as the rod gets replaced.</text>
+</svg>

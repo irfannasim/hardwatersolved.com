@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 670" width="760" height="670" role="img" aria-labelledby="g6bi-title g6bi-desc">
+<title id="g6bi-title">Dirty water softener salt: grey insoluble residue versus orange iron staining</title>
+<desc id="g6bi-desc">Diagram of a water softener and brine tank showing why softener salt looks dirty: grey insoluble residue from the salt settles on the tank floor, while orange iron staining leaves a tidemark at the water line, arriving from an iron-loaded resin bed by the refill path.</desc>
+<defs><pattern id="g6bi-bd" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><pattern id="g6bi-s" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#f8fafc"/><rect x="2" y="2" width="7" height="6" rx="1.5" fill="#cbd5e1"/></pattern><marker id="g6bi-i" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="g6bi-m" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="670" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Grey residue or orange staining?</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Grey settles on the floor; orange stains the wall at the water line.</text>
+<rect x="30" y="110" width="180" height="50" rx="8" fill="#0b2f4a"/>
+<text x="120" y="141" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">CONTROL VALVE</text>
+<rect x="50" y="160" width="140" height="290" rx="24" fill="#f4f9fb" stroke="#3a5a72" stroke-width="2"/>
+<rect x="56" y="200" width="128" height="244" rx="20" fill="url(#g6bi-bd)"/>
+<rect x="56" y="200" width="128" height="244" rx="20" fill="#b45309" opacity="0.35"/>
+<text x="120" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#b45309">resin bed loaded</text>
+<text x="120" y="493" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#b45309">with iron</text>
+<text x="222" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">refill: from the valve, down the brine line, into the tank</text>
+<rect x="330" y="190" width="190" height="270" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="332" y="250" width="186" height="190" fill="url(#g6bi-s)"/>
+<rect x="332" y="396" width="186" height="62" fill="#dbeafe" opacity="0.6"/>
+<path d="M332,440 L350,436 L372,441 L396,435 L420,440 L448,436 L474,441 L498,436 L518,440 L518,458 L332,458 Z" fill="#a8a29e" stroke-linejoin="round"/>
+<circle cx="340" cy="450" r="1.8" fill="#57534e"/>
+<circle cx="355" cy="453" r="1.8" fill="#57534e"/>
+<circle cx="370" cy="450" r="1.8" fill="#57534e"/>
+<circle cx="385" cy="453" r="1.8" fill="#57534e"/>
+<circle cx="400" cy="450" r="1.8" fill="#57534e"/>
+<circle cx="415" cy="453" r="1.8" fill="#57534e"/>
+<circle cx="430" cy="450" r="1.8" fill="#57534e"/>
+<circle cx="445" cy="453" r="1.8" fill="#57534e"/>
+<circle cx="460" cy="450" r="1.8" fill="#57534e"/>
+<circle cx="475" cy="453" r="1.8" fill="#57534e"/>
+<circle cx="490" cy="450" r="1.8" fill="#57534e"/>
+<circle cx="505" cy="453" r="1.8" fill="#57534e"/>
+<rect x="415" y="244" width="20" height="212" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/>
+<path class="ln" d="M210,138 L425,138 L425,234" fill="none" stroke="#b45309" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6bi-i)"/>
+<path d="M333,396 L414,396 M436,396 L517,396" stroke="#b45309" stroke-width="3"/>
+<rect x="332" y="390" width="7" height="12" fill="#b45309"/>
+<rect x="511" y="390" width="7" height="12" fill="#b45309"/>
+<path class="ln" d="M519,396 L534,382" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="540" y="376" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#b45309">ORANGE · iron</text>
+<text x="540" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">tidemark at the water line,</text>
+<text x="540" y="414" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">rubs off with a finger</text>
+<text x="540" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">source: the resin bed</text>
+<path class="ln" d="M500,452 L534,468" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="540" y="472" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#57534e">GREY · insolubles</text>
+<text x="540" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">heaviest at the floor,</text>
+<text x="540" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">water above roughly clear</text>
+<text x="540" y="528" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">source: the bag you bought</text>
+<rect class="box" x="30" y="556" width="700" height="92" rx="12" fill="#fff7ed" stroke="#b45309" stroke-width="1.5"/>
+<text x="46" y="580" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Iron-bearing water arrives through that same path, either:</text>
+<text x="46" y="604" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">• carried out of a bed so loaded with iron that the refill water itself is discoloured</text>
+<text x="46" y="628" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">• or dragged back during the draw and refill transition</text>
+</svg>

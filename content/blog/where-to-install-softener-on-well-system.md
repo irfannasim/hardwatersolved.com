@@ -4,6 +4,7 @@ seoTitle: "Where to Install a Softener on a Well System: 1 Right Spot"
 seoDescription: "Where to install a softener on a well system: after the pressure tank, never before it. Upstream, pump surges hit the valve and churn the resin bed."
 excerpt: "On a private well, the softener goes after the pressure tank, after any prefilters and iron stages, and before the water heater, with the outdoor taps teed off ahead of it. This is the full layout diagram with the reason for each position, how the pressure switch and tank protect the softener, what goes wrong when it is installed upstream, and the room requirements that decide the exact spot in the basement."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/5600225/pexels-photo-5600225.jpeg"
@@ -27,39 +28,7 @@ The rest of this page is the layout itself, with the reason each part sits where
 
 ## Where to Install a Softener on a Well System: The Layout
 
-```
-   WELL  ──►  PUMP  ──►  PRESSURE TANK
-                         (tank tee: pressure switch,
-                          gauge, relief valve, drain)
-                              │
-                              ▼
-                        MAIN SHUTOFF
-                              │
-                ┌─────────────┴──── outdoor hose bibs (raw water)
-                ▼
-          SEDIMENT PREFILTER
-                │
-                ▼
-     pH NEUTRALIZER  (only if pH is low)
-                │
-                ▼
-     IRON / MANGANESE / SULFIDE FILTER  (only if needed)
-                │
-                ├──── optional: outdoor line if iron staining matters
-                ▼
-       ┌─── BYPASS VALVE ───┐
-       │   WATER SOFTENER   │ ──► drain (air gap)
-       └────────────────────┘
-                │
-        ┌───────┴────────┐
-        ▼                ▼
-   WATER HEATER     COLD TO HOUSE
-        │
-        ▼
-   HOT TO HOUSE
-
-   (UV goes after the softener if needed; RO sits under the kitchen sink)
-```
+![Well water softener installation order from well, pump and pressure tank through prefilters and softener to the water heater, outdoor taps teed off raw](/diagrams/well-water-softener-installation-order-diagram.svg "Install order on a well: pressure tank first, softener last before the water heater")
 
 This matches the "proper order to install water treatment equipment" in Whirlpool's softener [installation and operation manual](https://www.whirlpoolwatersolutions.com/wp-content/manuals/WHES40-44/7345469Eng_B.pdf). Its diagram runs from well and pump to pressure tank, then an optional sediment filter, then the softener, then the water heater, with outside faucets left on untreated water. The same manual says to install the softener "between the water inlet and water heater" and that "any other installed water conditioning equipment should be installed between the water inlet and water softener."
 
@@ -80,7 +49,7 @@ Which of the middle stages you actually need is a test-result question. That dec
 
 ## Why the Pressure Tank Must Come First
 
-![Old cast-iron hand pump on a wooden post in a field, a reminder that a well's water starts as pump flow that has to be steadied before any treatment](https://images.pexels.com/photos/6929715/pexels-photo-6929715.jpeg)
+![Softener installed before vs after the pressure tank on a well: upstream it takes pump surges, downstream it sees steady 40/60 psi pressure](/diagrams/softener-before-vs-after-pressure-tank-comparison.svg "Upstream of the tank, every pump surge hits the softener. Downstream, the tank absorbs them")
 
 The pressure tank isn't just storage. Amtrol's [Well-X-Trol installation and operation instructions](https://www.amtrol.com/wp-content/uploads/2019/03/9016-868-MC10185-01_19-WXT-IO-manual.pdf) describe it as protecting the pump "by reducing surge, dampening pressure spikes, offering a point of pressure control, and providing minimum run time." Each of those four jobs also protects a softener placed after the tank.
 
@@ -127,8 +96,6 @@ Once the order is right, the exact position comes down to four practical constra
 **Access.** Leave room to lift a 40-pound salt bag into the brine tank, to reach the bypass valve, and to change the prefilter cartridge. A softener squeezed behind the pressure tank is one that doesn't get maintained.
 
 ## Five Placement Mistakes on Well Systems
-
-![Plain wall with a row of receptacles, a reminder that a well softener needs an uninterrupted outlet that is not on the pump circuit or a switched line](https://images.pexels.com/photos/3615711/pexels-photo-3615711.jpeg)
 
 1. **Softener between the pump and the pressure tank.** Covered above. Re-pipe it.
 2. **Outdoor taps downstream of the softener.** Salt and capacity go into the lawn. Move the hose bib tees ahead of it.

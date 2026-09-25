@@ -4,6 +4,7 @@ seoTitle: "Why Water Softener Salt Looks Brown or Dirty"
 seoDescription: "When water softener salt looks dirty, grey grit is harmless insolubles from the grade you bought. Orange staining means iron is backing up into the tank."
 excerpt: "Open the brine tank lid, find the salt discoloured, and there are two possible explanations that could hardly be further apart. One means you bought a cheaper grade of salt and nothing is wrong. The other means iron is travelling backwards from the resin bed into a tank it should never reach, and something upstream has already failed. The colour tells you which, and a jar of warm water settles it in twenty minutes."
 date: "2026-09-22"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/33848383/pexels-photo-33848383.jpeg"
@@ -45,11 +46,13 @@ Almost every article on this subject answers the question one way and stops. The
 
 **The tell that separates them instantly.** Insolubles are dispersed and the water in the tank stays roughly clear above them. Iron stains everything it touches, including the white plastic of the tank wall, and leaves a tidemark you can rub with a finger.
 
+![Diagram of a water softener brine tank showing grey salt residue on the floor versus orange iron staining at the water line from the brine line](/diagrams/brine-tank-grey-residue-vs-orange-iron-staining.svg "Grey settles on the floor; orange stains the wall at the water line")
+
 If the discolouration came with other symptoms — coloured water at the taps after a cycle, particles in the aerators — the investigation starts elsewhere, in [why water turns brown after softener regeneration](/blog/brown-water-after-softener-regeneration/).
 
 ## The Jar Test That Settles It
 
-![Dark ink dispersing through a clear glass of water, the same settling behaviour that reveals how much insoluble residue a salt grade leaves behind](https://images.pexels.com/photos/4123851/pexels-photo-4123851.jpeg)
+![Four jars showing water softener salt jar test results for evaporated, solar and rock salt, plus an orange result that points away from the salt](/diagrams/softener-salt-jar-test-results.svg "Twenty minutes and a jar tell you whether the bag explains the tank")
 
 This takes twenty minutes and needs a jar. It is the closest thing to a definitive answer without a lab.
 
@@ -91,6 +94,8 @@ Softener salt is not chemically pure, and no grade claims to be. What varies is 
 - **Over three inches** — it has likely already compacted into a sludge layer, which is a distinct fault covered in [what causes salt mushing in a brine tank](/blog/salt-mushing-in-brine-tank/)
 - **Any depth, if brine draw has failed** — the residue is the prime suspect regardless of how thick it looks
 
+![Depth scale for residue on a water softener brine tank floor, showing when grey salt sludge needs cleaning before it blocks the brine well](/diagrams/brine-tank-floor-residue-depth-zones.svg "Residue depth on the floor, not colour, decides when to clean")
+
 **The practical decision.** Switching from rock salt to evaporated pellets costs a few dollars more per bag and removes the source. Across a year the price gap is smaller than one service call, and it also lowers the risk of bridging in a humid tank — the mechanism for which is set out in [how to identify and break a salt bridge](/blog/water-softener-salt-bridge/).
 
 ## Orange and Rust-Coloured: The Case That Matters
@@ -122,8 +127,6 @@ Orange in a brine tank is not a salt story. It means iron has reached a part of 
 Sampling has to be done on the raw supply, not on the softened tap, and the reasons that distinction matters are covered in [test iron and manganese before sizing a softener](/blog/test-iron-and-manganese-before-sizing/).
 
 ## What to Actually Do
-
-![Water droplets falling from a rusted outdoor pipe, the staining pattern that indicates iron in a system rather than ordinary mineral residue](https://images.pexels.com/photos/36571568/pexels-photo-36571568.jpeg)
 
 The two cases diverge completely here.
 

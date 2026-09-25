@@ -4,6 +4,7 @@ seoTitle: "Hardness Test Strips vs Drop Test Kit: The 5-Sample Truth"
 seoDescription: "Hardness test strips vs drop test kit: strips read in colour bands and drift with age; titration counts single grains. Screen with one, size with the other."
 excerpt: "A strip tells you which band your water sits in. A drop kit tells you the number. Here is what each format can actually resolve across five very different samples, and how to check whether your strip pack has drifted."
 date: "2026-09-11"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Water Testing"
 featuredImage: "https://images.pexels.com/photos/9629679/pexels-photo-9629679.jpeg"
@@ -61,7 +62,7 @@ Resolution is fine where you care least, near zero, and coarsest where you care 
 
 Interpolating (calling a colour "about halfway, so 11") is where readers disagree. Two people can read the same pad a full band apart, and warm indoor light makes it worse. Hach's own chart gives you a range, and it's better to treat the result as a range than to invent precision the chart doesn't have.
 
-![Row of test tubes holding different coloured liquids, a reminder that strip results depend on matching colour against a chart](https://images.pexels.com/photos/7722793/pexels-photo-7722793.jpeg)
+![Scale comparing hardness test strip colour bands with 1 gpg drop test kit steps, with the 7–15 gpg band straddling 10.5 gpg](/diagrams/hardness-test-strip-bands-vs-titration-resolution-scale.svg "Strip bands widen as water gets harder; titration steps stay at one grain")
 
 ## Why Titration Resolves Single Grains
 
@@ -79,7 +80,7 @@ At 10 ppm per drop, the Taylor procedure resolves steps of about 0.6 gpg, finer 
 
 Titration has limits too. Drop size depends on how you hold the bottle, and it's easy to add one drop past the endpoint. Water with visible rust or strong colour can make the red-to-blue change harder to see. But none of those errors *grow with the hardness*. A careful titration of 20 gpg water is as tight as a careful titration of 5 gpg water. A strip gets vaguer the harder your water is.
 
-![Close-up of a glass dropper with water droplets, the tool that makes each drop of titrant count as one grain of hardness](https://images.pexels.com/photos/12236651/pexels-photo-12236651.jpeg)
+![Diagram of an EDTA drop test kit titration turning red to blue, where each drop counts one grain of water hardness](/diagrams/hardness-drop-test-edta-titration-steps.svg "Each drop binds a fixed amount of hardness, so the count is the measurement")
 
 ## A Five-Sample Comparison Protocol You Can Repeat
 
@@ -103,8 +104,6 @@ The fairest way to compare the two formats is to run both on the same water, sid
 5. **Strip every sample with the fresh pack.** Record *the two blocks the pad sits between*, not a single number. If someone else is home, have them read the same pads independently.
 6. **Repeat step 5 with the old pack.** Same samples, same timing, same light.
 7. **Fill in the table below** with your own numbers.
-
-![Test tubes of purple solution lined up for side-by-side chemical analysis, like running several water samples through a hardness comparison](https://images.pexels.com/photos/36529612/pexels-photo-36529612.jpeg)
 
 ## What Each Format Can Report on Five Sample Types
 

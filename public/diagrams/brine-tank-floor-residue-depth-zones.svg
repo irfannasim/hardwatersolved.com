@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 550" width="760" height="550" role="img" aria-labelledby="g6rd-title g6rd-desc">
+<title id="g6rd-title">Brine tank floor residue depth: when to clean</title>
+<desc id="g6rd-desc">Depth scale for grey salt residue on a water softener brine tank floor: under 1 inch is normal, 1 to 3 inches means clean now before it reaches the brine well openings, and over 3 inches has likely compacted into sludge.</desc>
+<defs><pattern id="g6rd-s" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#f8fafc"/><rect x="2" y="2" width="7" height="6" rx="1.5" fill="#cbd5e1"/></pattern></defs>
+<rect width="760" height="550" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">How deep is the residue on the tank floor?</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Measure the grey layer at the bottom of the brine tank; the depth decides when to clean.</text>
+<rect x="92" y="150" width="276" height="290" fill="url(#g6rd-s)"/>
+<rect x="92" y="260" width="276" height="180" fill="#dbeafe" opacity="0.55"/>
+<path d="M92,384 L120,378 L150,386 L182,377 L214,385 L246,379 L278,386 L300,380 L300,438 L92,438 Z M320,380 L346,385 L368,379 L368,438 L320,438 Z" fill="#a8a29e" stroke-linejoin="round"/>
+<path d="M90,132 L90,420 Q90,440 110,440 L350,440 Q370,440 370,420 L370,132" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M82,136 L98,128 L114,136 L130,128 L146,136 L162,128 L178,136 L194,128 L210,136 L226,128 L242,136 L258,128 L274,136 L290,128 L306,136 L322,128 L338,136 L354,128 L370,136 L380,131" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<rect x="300" y="112" width="20" height="326" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="304" y="358" width="12" height="4" fill="#0b2f4a"/>
+<rect x="304" y="370" width="12" height="4" fill="#0b2f4a"/>
+<rect x="304" y="382" width="12" height="4" fill="#0b2f4a"/>
+<rect x="304" y="394" width="12" height="4" fill="#0b2f4a"/>
+<rect x="304" y="406" width="12" height="4" fill="#0b2f4a"/>
+<rect x="304" y="418" width="12" height="4" fill="#0b2f4a"/>
+<rect class="box" x="118" y="292" width="150" height="26" rx="6" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="193" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">brine well openings</text>
+<path class="ln" d="M268,312 L302,370" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M196,454 L196,412" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="196" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#57534e">grey residue on the tank floor</text>
+<rect x="384" y="400" width="20" height="40" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="384" y="320" width="20" height="80" fill="#fef3c7" stroke="#ca8a04" stroke-width="1"/>
+<rect x="384" y="200" width="20" height="120" fill="#fee2e2" stroke="#dc2626" stroke-width="1"/>
+<text x="410" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">0</text>
+<text x="410" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">1 in</text>
+<text x="410" y="324" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">3 in</text>
+<text x="460" y="418" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#15803d">under 1 in: normal</text>
+<text x="460" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">annual clean, nothing more</text>
+<text x="460" y="344" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#a16207">1 to 3 in: clean it now</text>
+<text x="460" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">before it reaches the</text>
+<text x="460" y="379" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">brine well openings</text>
+<text x="460" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">over 3 in: sludge</text>
+<text x="460" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">likely already compacted</text>
+<text x="460" y="267" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">into a sludge layer, a</text>
+<text x="460" y="284" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">distinct fault (salt mushing)</text>
+<rect class="box" x="30" y="490" width="700" height="40" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="380" y="515" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">At any depth, if brine draw has failed, the residue is the prime suspect.</text>
+</svg>

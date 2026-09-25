@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="g7sbt-title g7sbt-desc">
+<title id="g7sbt-title">Water softener before vs after the pressure tank on a well</title>
+<desc id="g7sbt-desc">Comparison of a well water softener installed before the pressure tank, where it takes full pump output and start-stop surges, with one installed after the tank, where a 40/60 pressure switch and 38 psi air pre-charge give it steady flow.</desc>
+<defs><marker id="g7sbt-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g7sbt-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Softener before vs after the pressure tank</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Same parts, different order. The tank decides what the softener has to absorb.</text>
+<rect class="box" x="30" y="96" width="330" height="30" rx="15" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/><text x="195" y="116.04" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">WRONG: softener upstream of the tank</text>
+<rect class="box" x="30" y="140" width="144" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="102" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">WELL</text>
+<rect class="box" x="215" y="140" width="144" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="287" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">PUMP</text>
+<rect class="box" x="401" y="140" width="144" height="50" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2.5"/>
+<text x="473" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SOFTENER</text>
+<rect class="box" x="586" y="140" width="144" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="658" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">PRESSURE TANK</text>
+<path class="ln" d="M176,165 L205,165" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7sbt-hard)"/>
+<path class="ln" d="M361.0,165 L366.5,156 L372.0,174 L377.5,156 L383.0,165 L391,165" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7sbt-hard)"/>
+<path class="ln" d="M547,165 L576,165" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7sbt-soft)"/>
+<circle cx="40" cy="219" r="4" fill="#dc2626"/>
+<text x="54" y="224" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Takes full pump output on every pump cycle, whatever the house is using</text>
+<circle cx="40" cy="245" r="4" fill="#dc2626"/>
+<text x="54" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Start and stop surges hit the valve’s piston, seals and spacers directly</text>
+<circle cx="40" cy="271" r="4" fill="#dc2626"/>
+<text x="54" y="276" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Resin bed churns and channels, so hardness leaks through early</text>
+<circle cx="40" cy="297" r="4" fill="#dc2626"/>
+<text x="54" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Pump must first push through the softener’s pressure drop (one manual: about 9–11 psig)</text>
+<rect class="box" x="30" y="338" width="330" height="30" rx="15" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/><text x="195" y="358.04" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">RIGHT: softener after the tank</text>
+<rect class="box" x="30" y="382" width="144" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="102" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">WELL</text>
+<rect class="box" x="215" y="382" width="144" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="287" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">PUMP</text>
+<rect class="box" x="401" y="382" width="144" height="50" rx="8" fill="#0b2f4a" stroke="#0b2f4a" stroke-width="2"/>
+<text x="473" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">PRESSURE TANK</text>
+<rect class="box" x="586" y="382" width="144" height="50" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2.5"/>
+<text x="658" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SOFTENER</text>
+<path class="ln" d="M176,407 L205,407" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7sbt-hard)"/>
+<path class="ln" d="M361.0,407 L366.5,398 L372.0,416 L377.5,398 L383.0,407 L391,407" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7sbt-hard)"/>
+<path class="ln" d="M547,407 L576,407" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7sbt-hard)"/>
+<circle cx="40" cy="461" r="4" fill="#15803d"/>
+<text x="54" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Example 40/60 switch: pump starts at 40 psi, stops at 60 psi</text>
+<circle cx="40" cy="487" r="4" fill="#15803d"/>
+<text x="54" y="492" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Tank air pre-charge 38 psi (2 psi below cut-in) cushions each start and stop</text>
+<circle cx="40" cy="513" r="4" fill="#15803d"/>
+<text x="54" y="518" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Softener sees only the flow the house is using, never the pump’s jolt</text>
+<rect x="30" y="561" width="26" height="6" rx="3" fill="#c2410c"/><text x="64" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">untreated water</text>
+<rect x="210" y="561" width="26" height="6" rx="3" fill="#0e7490"/><text x="244" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">softened water</text>
+<path d="M390,564 l6,-7 l6,14 l6,-14 l6,14 l4,-7" fill="none" stroke="#c2410c" stroke-width="3"/>
+<text x="432" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">pump surges (full output, on/off)</text>
+</svg>

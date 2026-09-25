@@ -4,6 +4,7 @@ seoTitle: "No Water After Installing Water Softener: 8 Urgent Checks"
 seoDescription: "No water after installing a water softener? Start at the bypass and work backward. 8 checks in technician order, plus how to restore supply while you diagnose."
 excerpt: "The softener is in, the valves are turned back on, and nothing comes out of the taps. Nearly every no-flow case after an installation comes down to a valve in the wrong position or a screen blocked by debris the installation itself knocked loose. Here is the order a technician works through them, with the quickest checks first, and how to get water back to the house in the meantime."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/12527113/pexels-photo-12527113.jpeg"
@@ -29,7 +30,7 @@ Stay calm and work in order. This is nearly always fixable in under an hour, and
 
 ## First Five Minutes: Get Water Back to the House
 
-![Hands of a worker assembling a water supply pipe outdoors, the kind of main-line plumbing work that often precedes a no-water call after a softener is installed](https://images.pexels.com/photos/14598653/pexels-photo-14598653.jpeg)
+![Water softener three-valve bypass loop shown in service and in bypass, with valve positions and flow path to the house](/diagrams/water-softener-three-valve-bypass-service-vs-bypass.svg "In bypass, water goes around the softener untreated, which gets the house supplied first.")
 
 Before diagnosing anything, restore supply. Diagnosis goes faster when the household is not waiting on you, and the bypass test is the first diagnostic step anyway.
 
@@ -67,6 +68,8 @@ Technicians do not check the most likely item first — they check the fastest o
 | 7 | Inlet screen, meter and piston for debris | 20–40 minutes | Screwdriver, bucket, towels |
 | 8 | Frozen or kinked supply line | 5 minutes | Hands, hairdryer |
 
+![Map of a water softener supply line marking the eight no-water checks, from the main shutoff and bypass to the inlet screen and check valve](/diagrams/water-softener-no-water-check-locations-map.svg "The eight checks, located on the pipe: bypass first, then work backward.")
+
 **1. Bypass position.** Covered above. If bypass restores water and switching back to service kills it again, the fault is inside the softener side — carry on to checks 4 to 7.
 
 **2. Main shutoff fully open.** Gate valves need many turns to open fully; people stop at the first sign of flow. Quarter-turn ball valves should sit with the handle parallel to the pipe. After a softener install, the main has usually been off and on, so check it is truly open. A partially seated old gate valve can also drop its disc — the handle turns but the valve stays shut. If the handle spins without resistance, that is the likely cause, and it needs a plumber.
@@ -78,8 +81,6 @@ Technicians do not check the most likely item first — they check the fastest o
 **5. Inlet and outlet reversed.** The valve or bypass body is marked IN and OUT, or with an arrow in the direction of flow. Reversed plumbing does not always stop flow, but it forces water up through the resin backward and in some configurations restricts it severely or pushes resin into the outlet. A quick look settles it. Reversal needs re-plumbing, not a valve adjustment.
 
 ## The Inlet Screen Debris Case
-
-![Vintage pipe wrench lying on a rustic wooden surface, the basic hand tool needed to open fittings and clear debris from a softener inlet](https://images.pexels.com/photos/8488060/pexels-photo-8488060.jpeg)
 
 This is the fault that surprises people, because the installation looked perfect and the softener is new.
 
@@ -104,8 +105,6 @@ This is the fault that surprises people, because the installation looked perfect
 **Preventing a repeat.** A sediment prefilter ahead of the softener catches this debris before it reaches the valve — useful in houses with old pipe or frequent main work. Penn State Extension's guide to [water softening](https://extension.psu.edu/water-softening) also warns that turbid water can clog the resin itself with mud and clay, so the same filter protects the bed as well as the valve. See [a sediment prefilter before a softener](/blog/sediment-prefilter-before-a-softener/) for when it is worth fitting.
 
 ## Check Valves, Connectors and Frozen Lines
-
-![Plumbing tools and a faucet laid out on an architectural plumbing drawing, the kind of layout used to check flow direction and fittings after a softener install](https://images.pexels.com/photos/14953886/pexels-photo-14953886.jpeg)
 
 **6. Check valves and flexible connectors.** A check valve fitted backward is a complete, silent blockage — water cannot pass at all. Check valves carry an arrow on the body that must point toward the house. Some installers fit one in the softener loop; look for it. While you are there, inspect flexible stainless or rubber connectors: a sharply kinked connector behind the tank can pinch almost shut. Connectors with small internal bores can also restrict flow, though they rarely stop it completely.
 
@@ -159,8 +158,6 @@ Sometimes the bypass valve is the part that is broken — cracked, seized, or in
 **The limit of self-diagnosis.** If the main valve disc has dropped, a check valve needs re-plumbing, the inlet and outlet are reversed, or the piston is damaged, that is plumbing or valve work. If you get to the end of this list with no water in service, the checklist in [when to call a water softener technician](/blog/when-to-call-a-water-softener-technician/) will help you describe exactly what you have ruled out, which shortens the call considerably.
 
 ## At the Unit, In Order
-
-![Rustic outdoor water valve with a blurred green background, the kind of main shutoff that must be confirmed fully open when a house has no water after a softener install](https://images.pexels.com/photos/13080967/pexels-photo-13080967.jpeg)
 
 1. **Move the bypass fully to BYPASS** and open a low cold tap.
 2. **Water in bypass:** the softener side is the problem. No water in bypass: go upstream.

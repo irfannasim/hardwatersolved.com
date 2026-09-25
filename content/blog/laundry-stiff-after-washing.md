@@ -4,6 +4,7 @@ seoTitle: "Laundry Stiff After Washing? Hard Water Is Usually Why"
 seoDescription: "Laundry stiff after washing is soap curd bonded to the fibres. Here is the strip-wash that proves it, plus the detergent money hard water costs you yearly."
 excerpt: "Towels that come out of the machine crunchy are not under-rinsed — they are carrying calcium soap curd that rinsing cannot remove. A strip-wash proves it in one afternoon, and the drain water is the evidence."
 date: "2026-09-08"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/7691101/pexels-photo-7691101.jpeg"
@@ -36,6 +37,8 @@ Three effects compound over time:
 - **Greying and dulling.** Detergent consumed by hardness is detergent not removing soil, so a fraction of every load's dirt stays behind and accumulates.
 
 Fabric softener makes all three worse rather than better. It works by depositing a cationic waxy film on the fibre, which masks the roughness for a few days while adding another layer that water cannot penetrate. On hard water it is treating the symptom with more of the cause.
+
+![Close-up of towel fibres comparing soft-water washing with calcium soap curd gluing terry loops flat and blocking absorbency in hard water](/diagrams/hard-water-soap-curd-on-towel-fibres.svg "Soap curd bonds into the fibre, so extra rinsing cannot remove it.")
 
 ![Person pouring liquid detergent into a washing machine dispenser drawer](https://images.pexels.com/photos/5591581/pexels-photo-5591581.jpeg)
 

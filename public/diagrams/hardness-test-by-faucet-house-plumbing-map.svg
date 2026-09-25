@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 530" width="760" height="530" role="img" aria-labelledby="hfm-title hfm-desc">
+<title id="hfm-title">House plumbing map of hardness test results by faucet (illustrative)</title>
+<desc id="hfm-desc">Illustrative plumbing map showing why a hardness test differs between faucets: the kitchen cold line, fridge and hose bib branch off before the softener and read 18 gpg, while every tap after the softener reads 0.</desc>
+<defs><marker id="hfm-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="hfm-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="530" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Mapping hardness test results by faucet</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative readings (gpg), not from a real house: a kitchen line and hose bib branch off raw.</text>
+<path class="ln" d="M30,300 L334,300" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hfm-h)"/>
+<text x="30" y="284" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Main in: raw 18</text>
+<path class="ln" d="M200,296 L200,218" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hfm-h)"/>
+<rect class="box" x="120" y="150" width="160" height="62" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="132" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Front hose bib</text>
+<text x="132" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">cold</text>
+<text x="268" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#c2410c">18</text>
+<path class="ln" d="M270,304 L270,396" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M190,398 L350,398" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M190,398 L190,414" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hfm-h)"/>
+<path class="ln" d="M350,398 L350,414" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hfm-h)"/>
+<rect class="box" x="120" y="420" width="140" height="62" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="132" y="442" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Kitchen sink</text>
+<text x="132" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">cold</text>
+<text x="248" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#c2410c">18</text>
+<rect class="box" x="280" y="420" width="140" height="62" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="292" y="442" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fridge</text>
+<text x="292" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">dispenser</text>
+<text x="408" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#c2410c">18</text>
+<text x="282" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">½-inch line,</text>
+<text x="282" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no shutoff</text>
+<text x="30" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Branch points:</text>
+<text x="30" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">upstream of the</text>
+<text x="30" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">softener</text>
+<rect class="box" x="340" y="272" width="100" height="56" rx="8" fill="#0b2f4a"/>
+<text x="390" y="305" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">SOFTENER</text>
+<text x="452" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">outlet 0</text>
+<path class="ln" d="M446,300 L690,300" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M520,296 L520,238" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hfm-s)"/>
+<rect class="box" x="470" y="182" width="100" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="520" y="203" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water</text>
+<text x="520" y="219" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">heater</text>
+<path class="ln" d="M574,206 L650,206 L650,192" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hfm-s)"/>
+<rect class="box" x="590" y="88" width="140" height="96" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="602" y="110" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hot taps</text>
+<text x="602" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">kitchen</text>
+<text x="718" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">0</text>
+<text x="602" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">main bath</text>
+<text x="718" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">0</text>
+<text x="602" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">laundry</text><text x="718" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">0</text>
+<path class="ln" d="M660,304 L660,392" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hfm-s)"/>
+<rect class="box" x="590" y="398" width="140" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="602" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Cold taps</text>
+<text x="602" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">main bath sink</text>
+<text x="718" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">0</text>
+<text x="602" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">laundry</text>
+<text x="718" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">0</text>
+<rect x="30" y="508" width="26" height="6" rx="3" fill="#c2410c"/><text x="64" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">raw water (hard)</text>
+<rect x="210" y="508" width="26" height="6" rx="3" fill="#0e7490"/><text x="244" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">softened water</text>
+<text x="400" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Readings in gpg, from the example table</text>
+</svg>

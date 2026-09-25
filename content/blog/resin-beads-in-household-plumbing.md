@@ -4,13 +4,14 @@ seoTitle: "Resin Beads in Water Lines: What Broke and How to Fix It"
 seoDescription: "Resin beads in water lines mean a cracked distributor tube or failed bottom screen. Here is the repair decision, plus every screen downstream you must clear."
 excerpt: "Amber beads in an aerator are not a nuisance — they are proof that something inside the softener tank has split. The repair itself is cheap; the expensive part is the recovery, because beads reach every appliance inlet screen in the house and most owners clear three of the eleven."
 date: "2026-09-17"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/32588548/pexels-photo-32588548.jpeg"
 ogImageAlt: "Plumber in blue overalls working on a pipe repair with a wrench, the kind of work needed when softener resin escapes into household plumbing"
 faqs:
   - question: "What does it mean when resin beads get into the water lines?"
-    answer: "It means the barrier that keeps resin inside the mineral tank has failed. In practice that is one of three parts: a cracked or split riser (distributor) tube, a broken bottom distributor basket or screen, or a damaged top screen in the valve. Resin cannot pass any of them while they are intact. It is a mechanical failure inside the tank, not a water chemistry problem, and it will not stop on its own — beads keep migrating out until the part is replaced."
+    answer: "It means the barrier that keeps resin inside the mineral tank has failed. In practice that is one of three parts: a cracked or split riser (distributor) tube, a broken bottom distributor basket or screen, or a damaged top screen in the valve. Resin cannot pass any of them while they are intact. A failed riser or bottom basket sends beads into the house; a damaged top screen mostly loses them to the drain during backwash. It is a mechanical failure inside the tank, not a water chemistry problem, and it will not stop on its own — beads keep migrating out until the part is replaced."
   - question: "Are water softener resin beads harmful if swallowed?"
     answer: "Softener resin is an inert food-grade polymer bead and small quantities passing through are not considered a poisoning risk, but that is not a reason to ignore them. Beads entering the house mean the bed is losing volume and the softener is losing capacity, and the beads themselves jam mixing valves, block appliance inlet screens and foul the seals in taps. Filter them out, fix the source, and do not treat it as cosmetic."
   - question: "How do I get resin beads out of my plumbing?"
@@ -23,7 +24,7 @@ faqs:
     answer: "They rarely destroy anything outright, but they cause the failures people then attribute to something else. Beads collect in the bottom of a storage water heater and in the inlet screens of dishwashers and washing machines, where they restrict flow and cause slow-fill faults and mid-cycle errors. In mixing cartridges and thermostatic valves they cause temperature swings. In a tankless unit they block the inlet filter and trigger flow errors. All are recoverable if cleared promptly."
 ---
 
-Resin beads in water lines mean something inside the softener tank has split. The bed is held in by three parts — the riser tube that runs up the centre, the bottom distributor basket, and the top screen in the valve — and **beads can only reach the house if one of those three has failed.** No setting, salt level or water chemistry produces this symptom.
+Resin beads in water lines mean something inside the softener tank has split. The bed is held in by three parts — the riser tube that runs up the centre, the bottom distributor basket, and the top screen in the valve — and **beads can only escape the tank if one of those three has failed.** A cracked riser or broken bottom basket sends them to your taps; a damaged top screen mostly loses them to the drain during backwash. No setting, salt level or water chemistry produces this symptom.
 
 Amber beads in an aerator are also a clock running. Every gallon drawn moves a little more resin out of the tank, so capacity falls until the failed part is replaced.
 
@@ -46,7 +47,7 @@ Uniform, round and translucent means resin. If the specks are irregular or powde
 
 ## Which of the Three Parts Failed
 
-![Chrome tap with a water droplet forming at the spout, where resin beads first collect in the aerator screen](https://images.pexels.com/photos/2574664/pexels-photo-2574664.jpeg)
+![Water softener resin tank cutaway showing riser tube, bottom distributor basket, top screen and freeboard, with where resin beads escape](/diagrams/water-softener-resin-tank-riser-tube-distributor-basket-failure-points.svg "Beads escape only through a failed riser tube, bottom basket or top screen.")
 
 You do not need the tank open to make a reasonable first guess.
 

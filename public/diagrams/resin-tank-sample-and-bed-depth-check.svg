@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 530" width="760" height="530" role="img" aria-labelledby="g6rs-title g6rs-desc">
+<title id="g6rs-title">How to pull a water softener resin sample and check bed depth</title>
+<desc id="g6rs-desc">Cutaway of a water softener resin tank with the control valve removed: a thumb-capped clear tube draws a resin sample from the top of the bed, the actual bed depth is compared with the design fill, and healthy amber beads are compared with a fragmented sample.</desc>
+<defs><pattern id="g6rs-bd" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern></defs>
+<rect width="760" height="530" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Pulling a resin sample</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Valve off, clear tube into the top of the bed, then check the bed depth and the screens.</text>
+<rect x="30" y="92" width="150" height="40" rx="8" fill="#0b2f4a"/>
+<text x="105" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">CONTROL VALVE</text>
+<text x="30" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">unthreaded, set aside</text>
+<rect x="110" y="180" width="150" height="330" rx="26" fill="#f4f9fb" stroke="#3a5a72" stroke-width="2"/>
+<rect x="155" y="168" width="70" height="14" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="114" y="184" width="142" height="110" rx="22" fill="#dbeafe" opacity="0.6"/>
+<rect x="114" y="290" width="142" height="216" rx="22" fill="url(#g6rs-bd)"/>
+<rect x="170" y="150" width="10" height="340" fill="#94a3b8"/>
+<rect x="161" y="486" width="28" height="14" rx="3" fill="#64748b"/>
+<path d="M112,250 L258,250" stroke="#3a5a72" stroke-width="2" stroke-dasharray="7 5"/>
+<path d="M114,290 L256,290" stroke="#0b2f4a" stroke-width="2.5"/>
+<rect x="203" y="146" width="14" height="216" fill="none" stroke="#3a5a72" stroke-width="2"/>
+<rect x="205" y="290" width="10" height="70" fill="url(#g6rs-bd)"/>
+<ellipse cx="210" cy="142" rx="12" ry="7" fill="#e8c4a0" stroke="#a0724a" stroke-width="1.5"/>
+<path class="ln" d="M224,142 L284,142" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="290" y="147" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">thumb caps the top</text>
+<path class="ln" d="M218,210 L284,196" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="290" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">rigid clear tubing:</text>
+<text x="290" y="209" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">shows the bed</text>
+<text x="290" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">in cross-section</text>
+<path class="ln" d="M258,250 L284,258" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="290" y="263" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#3a5a72">design fill</text>
+<path class="ln" d="M258,290 L284,290" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="290" y="295" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">actual bed depth</text>
+<text x="290" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">gap = lost resin: a</text>
+<text x="290" y="339" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">distributor or screen</text>
+<text x="290" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">problem, not fouling</text>
+<path class="ln" d="M180,410 L284,410" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="290" y="415" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">riser tube</text>
+<path class="ln" d="M189,493 L284,478" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="290" y="474" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">screens: sediment</text>
+<text x="290" y="491" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">shows here first</text>
+<rect class="box" x="470" y="92" width="260" height="418" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="600" y="120" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Rinse in a white dish,</text>
+<text x="600" y="139" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">look in daylight</text>
+<ellipse cx="600" cy="196" rx="96" ry="30" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="540" cy="192" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<circle cx="555" cy="201" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<circle cx="570" cy="192" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<circle cx="585" cy="201" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<circle cx="600" cy="192" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<circle cx="615" cy="201" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<circle cx="630" cy="192" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<circle cx="645" cy="201" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<circle cx="660" cy="192" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<text x="600" y="252" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Healthy</text>
+<text x="600" y="272" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">uniform, translucent,</text>
+<text x="600" y="289" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">amber to light gold,</text>
+<text x="600" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">spherical, coarse-sand size</text>
+<ellipse cx="600" cy="376" rx="96" ry="30" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path d="M531,375 A7,7 0 0 1 545,375 Z" fill="#d6b060" stroke="#a0724a" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="556" cy="382" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<path d="M571,371 A7,7 0 0 1 585,371 Z" fill="#d6b060" stroke="#a0724a" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="600" cy="380" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<path d="M617,373 A7,7 0 0 1 631,373 Z" fill="#d6b060" stroke="#a0724a" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="646" cy="382" r="7" fill="#e2b865" stroke="#c9973a" stroke-width="1.5"/>
+<path d="M655,375 A7,7 0 0 1 669,375 Z" fill="#d6b060" stroke="#a0724a" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="600" y="432" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Fragmented</text>
+<text x="600" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">broken pieces are a warning</text>
+<text x="600" y="469" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">even if the colour looks fine</text>
+</svg>

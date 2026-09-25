@@ -4,6 +4,7 @@ seoTitle: "White Spots Remain After Water Softener? 4 Real Causes"
 seoDescription: "White spots remain after a water softener because zero hardness is not zero residue. Silica, sodium salts and detergent overdose all leave the same marks."
 excerpt: "A hardness test reading zero and dishes that still come out spotted is not a contradiction. Three of the four things that leave white marks on glass and tile were never removable by ion exchange — and the fourth is something owners cause themselves by never changing the detergent dose after installation. One dishwasher cycle usually settles which one you have."
 date: "2026-09-20"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/16955291/pexels-photo-16955291.jpeg"
@@ -43,6 +44,8 @@ Only once hardness is confirmed at zero does the rest of this article apply. If 
 ## The Four Things That Leave a White Mark
 
 Three are in the water and one is on your shelf. Identify which before spending anything.
+
+![What passes through a water softener: calcium and magnesium are swapped for sodium, while silica and dissolved solids pass through and dry as white spots](/diagrams/water-softener-what-passes-through-ion-exchange.svg "A softener removes two minerals. Silica, sodium and detergent can still dry to white spots")
 
 | Cause | Removable by a softener | Dissolves in vinegar | Feels like | Typical giveaway |
 |---|---|---|---|---|
@@ -127,8 +130,6 @@ Sodium chloride is highly soluble, so it rarely deposits the way calcium carbona
 A potassium chloride salt substitute changes which ion you get but not the underlying mechanism. It costs considerably more and does not reduce film.
 
 ## Soap Scum on Soft Water: What Changed and What Did Not
-
-![Hands loading dishes into an open dishwasher, the routine where detergent dose matters most after softening](https://images.pexels.com/photos/4107302/pexels-photo-4107302.jpeg)
 
 Classic soap scum is calcium stearate — a genuinely insoluble curd formed when soap fatty acids meet calcium. Remove the calcium and that reaction stops. Penn State Extension's guide to [water softening](https://extension.psu.edu/water-softening) covers the chemistry and what changes when hardness is removed.
 

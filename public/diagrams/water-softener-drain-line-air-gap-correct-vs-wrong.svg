@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="dag-title dag-desc">
+<title id="dag-title">Water softener drain line air gap: correct termination versus two common wrong repairs</title>
+<desc id="dag-desc">Water softener drain line air gap diagram. Correct: the tube end is held above the flood rim of the standpipe with open air between them. Wrong: the tube pushed down the standpipe below the flood rim, or taped and sealed into the opening, which makes a direct connection.</desc>
+<defs><marker id="dag-s15803d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Keep the air gap when you repair the line</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">The tube end stays above the receptor, never inside or sealed to it.</text>
+<rect class="box" x="30" y="86" width="226" height="400" rx="10" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+<text x="143" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">CORRECT</text>
+<rect x="113" y="250" width="60" height="150" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<rect x="115" y="360" width="56" height="38" fill="#dbeafe"/>
+<rect x="42" y="400" width="202" height="3" fill="#cbd5e1"/>
+<rect x="136" y="138" width="14" height="68" fill="#78716c"/>
+<path class="ln" d="M159,206 L177,206 M159,250 L177,250" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M169,215 L169,241" fill="none" stroke="#15803d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#dag-s15803d)" marker-start="url(#dag-s15803d)"/>
+<text x="183" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">air gap</text>
+<text x="48" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">flood</text>
+<text x="48" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">rim</text>
+<path class="ln" d="M86,270 L109,252" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="143" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">standpipe</text>
+<path d="M43,454 L49,461 L62,446" fill="none" stroke="#15803d" stroke-width="4"/>
+<text x="72" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Open air between the tube</text>
+<text x="72" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">end and the flood rim</text>
+<rect class="box" x="267" y="86" width="226" height="400" rx="10" fill="#ffffff" stroke="#fecaca" stroke-width="1.5"/>
+<text x="380" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">WRONG: pushed down</text>
+<rect x="350" y="250" width="60" height="150" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<rect x="352" y="360" width="56" height="38" fill="#dbeafe"/>
+<rect x="279" y="400" width="202" height="3" fill="#cbd5e1"/>
+<rect x="373" y="138" width="14" height="192" fill="#78716c"/>
+<text x="380" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">standpipe</text>
+<path d="M281,446 L297,462 M297,446 L281,462" fill="none" stroke="#dc2626" stroke-width="4"/>
+<text x="309" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">The end sits below the</text>
+<text x="309" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">flood rim: no air gap</text>
+<rect class="box" x="504" y="86" width="226" height="400" rx="10" fill="#ffffff" stroke="#fecaca" stroke-width="1.5"/>
+<text x="617" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">WRONG: taped in</text>
+<rect x="587" y="250" width="60" height="150" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<rect x="589" y="360" width="56" height="38" fill="#dbeafe"/>
+<rect x="516" y="400" width="202" height="3" fill="#cbd5e1"/>
+<rect x="610" y="138" width="14" height="142" fill="#78716c"/>
+<rect x="583" y="242" width="68" height="18" rx="3" fill="#94a3b8" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="617" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">standpipe</text>
+<path d="M518,446 L534,462 M534,446 L518,462" fill="none" stroke="#dc2626" stroke-width="4"/>
+<text x="546" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Taped or sealed into the</text>
+<text x="546" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">opening: a direct connection</text>
+<text x="30" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Fleck 5600SXT manual: an air gap of twice the drain line diameter, with a minimum of 1 inch.</text>
+<text x="30" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Code requirements vary by edition and local amendment: check with your building department.</text>
+</svg>

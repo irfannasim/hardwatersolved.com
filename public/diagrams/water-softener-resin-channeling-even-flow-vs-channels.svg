@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 572" width="760" height="572" role="img" aria-labelledby="rch-title rch-desc">
+<title id="rch-title">Water softener resin channeling: even flow front versus channels through the bed</title>
+<desc id="rch-desc">Two softener resin tanks compared. In a healthy bed water moves down as a flat front and contacts every bead. With resin channeling, a few fast lanes carry most of the water, and the zones either side are bypassed and stay exhausted because brine follows the same channels.</desc>
+<defs><pattern id="rch-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><marker id="rch-mc2410c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker></defs>
+<rect width="760" height="572" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Even flow versus channeling</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">The resin is the same. Only the path the water takes through it changes.</text>
+<text x="190" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">HEALTHY BED</text>
+<rect x="90" y="120" width="200" height="300" rx="28" fill="url(#rch-beads)" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M120,136 L120,236" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rch-mc2410c)"/>
+<path class="ln" d="M155,136 L155,236" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rch-mc2410c)"/>
+<path class="ln" d="M190,136 L190,236" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rch-mc2410c)"/>
+<path class="ln" d="M225,136 L225,236" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rch-mc2410c)"/>
+<path class="ln" d="M260,136 L260,236" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rch-mc2410c)"/>
+<path d="M96,262 L284,262" fill="none" stroke="#0b2f4a" stroke-width="2.5"/>
+<text x="300" y="267" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">flat front</text>
+<path class="ln" d="M296,263 L286,263" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="570" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">CHANNELING</text>
+<rect x="470" y="120" width="200" height="300" rx="28" fill="url(#rch-beads)" stroke="#3a5a72" stroke-width="2"/>
+<rect x="476" y="126" width="188" height="288" rx="24" fill="#94a3b8" opacity="0.55"/>
+<rect x="521" y="127" width="22" height="286" fill="#fff7ed"/>
+<rect x="603" y="127" width="22" height="286" fill="#fff7ed"/>
+<path class="ln" d="M532,132 L532,398" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rch-mc2410c)"/>
+<path class="ln" d="M614,132 L614,398" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rch-mc2410c)"/>
+<text x="460" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">fast lanes</text>
+<path class="ln" d="M464,176 L518,176" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="460" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">bypassed</text>
+<text x="460" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">zones stay</text>
+<text x="460" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">exhausted</text>
+<path class="ln" d="M464,342 L498,342" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="90" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Water moves down as a flat</text>
+<text x="90" y="469" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">front and contacts every bead.</text>
+<text x="470" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">A few fast lanes carry most of the</text>
+<text x="470" y="469" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">water; higher flow pushes more</text>
+<text x="470" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">of it down them, almost untreated.</text>
+<text x="470" y="507" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Brine follows the same lanes, so</text>
+<text x="470" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">the zones either side stay exhausted.</text>
+<rect x="30" y="548" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="64" y="556" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">water flow</text>
+<rect x="180" y="548" width="26" height="6" rx="3" fill="#94a3b8"/>
+<text x="214" y="556" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">bypassed, exhausted resin</text>
+<text x="420" y="556" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Self-reinforcing: left alone, it gets worse.</text>
+</svg>

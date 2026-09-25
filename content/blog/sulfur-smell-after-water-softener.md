@@ -4,6 +4,7 @@ seoTitle: "Sulfur Smell After Water Softener: Why It Never Left"
 seoDescription: "A sulfur smell after a water softener is expected — resin cannot remove hydrogen sulfide, and it can host the bacteria that make it. Here is the hot-tap test."
 excerpt: "A softener has no mechanism for hydrogen sulfide, so a rotten-egg smell was never going to disappear when one was installed. The harder case is the smell that appeared afterwards: sulfate-reducing bacteria colonising the resin bed. One test — hot taps versus both — separates the water heater from the well, and a third result points at the softener itself."
 date: "2026-09-17"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/28240873/pexels-photo-28240873.jpeg"
@@ -49,6 +50,8 @@ Do this before anything else. It costs nothing and eliminates whole categories o
 
 That first-draw versus heavy-use distinction does more work than people expect. Sulfide arriving dissolved from the well is at roughly constant concentration whatever the flow. Sulfide being *generated* by bacteria needs standing time to accumulate, so it peaks after the house has been quiet.
 
+![Map of where a sulfur smell after a water softener can start: the well, pressure tank, resin bed or water heater anode, with the smell-test taps marked](/diagrams/sulfur-smell-source-map-well-to-tap.svg "Which taps smell tells you which of the four sources is making hydrogen sulfide")
+
 ## Why the Resin Cannot Touch It
 
 Hardness removal works by exchange: the resin holds sodium ions on negatively charged sites and swaps them for calcium and magnesium, which are positively charged. That is the whole mechanism, and the EPA describes it plainly in its overview of [cation exchange water softeners](https://www.epa.gov/watersense/cation-exchange-water-softeners).
@@ -67,8 +70,6 @@ Hydrogen sulfide is **a dissolved gas molecule with no net charge**. There is no
 That last row is the part worth acting on. Running sulfide-bearing water through a softener shortens the life of the resin and the valve, which is a reason to treat it upstream even if you have made peace with the smell.
 
 ## The Case Most Content Misses: Bacteria in the Bed
-
-![Bright basement laundry area with utility connections, the kind of space where a softener and water heater sit together and share a smell problem](https://images.pexels.com/photos/10847199/pexels-photo-10847199.jpeg)
 
 Sulfate-reducing bacteria are naturally present in many groundwater systems and are not a pathogen. They metabolise sulfate — which is ordinary and common in well water — and excrete hydrogen sulfide. They need darkness, warmth, low oxygen and surface area to colonise.
 
@@ -124,8 +125,6 @@ While the heater is open, note what else comes out with the flush — accumulate
 
 ## Treating the Sulfide Itself
 
-![Laboratory water filtration apparatus with beakers and taps, representing the oxidation and filtration options for hydrogen sulfide removal](https://images.pexels.com/photos/7298554/pexels-photo-7298554.jpeg)
-
 If the raw water genuinely contains hydrogen sulfide, the treatment is chosen on concentration — and on whether iron and manganese are present too, because they usually are.
 
 | Sulfide level | Usual approach | Notes |
@@ -140,6 +139,8 @@ If the raw water genuinely contains hydrogen sulfide, the treatment is chosen on
 
 1. Sulfide corrodes and fouls resin. Anything that removes it upstream extends the life of the bed.
 2. Any oxidiser used to destroy sulfide will also destroy resin. So an oxidising system needs a filter — and usually carbon — between it and the softener.
+
+![Treatment order for hydrogen sulfide: oxidiser, filter and carbon all installed ahead of the water softener to protect the resin](/diagrams/hydrogen-sulfide-treatment-order-before-softener.svg "Oxidise, filter, then carbon, and only then the softener")
 
 Get that sequence wrong and you can ruin a new resin bed in a season. The same principle governs iron: treatment before the softener, never after, which is the point made in [testing iron and manganese before sizing a softener](/blog/test-iron-and-manganese-before-sizing/) and demonstrated in [why water turns brown after softener regeneration](/blog/brown-water-after-softener-regeneration/).
 

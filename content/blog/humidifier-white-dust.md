@@ -4,6 +4,7 @@ seoTitle: "Humidifier White Dust: Why It Happens and How to Stop It"
 seoDescription: "Humidifier white dust is aerosolised minerals, not mould. A water softener will not stop it — only distilled or RO water will. Here is the evidence and the fix."
 excerpt: "Softening your water will not stop the white dust, and the reason is the single most misunderstood fact about how a softener works. What it swaps stays dissolved — and an ultrasonic humidifier sprays it into the room."
 date: "2026-09-10"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/7417513/pexels-photo-7417513.jpeg"
@@ -61,9 +62,11 @@ This is the section this article exists for.
 
 A water softener works by ion exchange. Water passes through a bed of resin beads that hold sodium ions; calcium and magnesium ions stick to the resin, and sodium ions are released into the water in their place. The EPA's description of [cation exchange water softeners](https://www.epa.gov/watersense/cation-exchange-water-softeners) sets out the process.
 
-Notice what did not happen: nothing was removed. Two ions went in, two ions came out. Total dissolved solids after softening are approximately unchanged — often very slightly higher, because it takes two sodium ions to replace one calcium ion.
+Notice what did not happen: nothing was removed. Hardness ions went in and sodium ions came out. Total dissolved solids after softening are approximately unchanged — often very slightly higher, because it takes two sodium ions to replace one calcium ion.
 
 An ultrasonic humidifier does not care which ions are dissolved. It shatters water into droplets, the droplets evaporate, and whatever was dissolved is deposited as dust. Feed it softened water and you get sodium-based dust instead of calcium-based dust. Some owners report it looks slightly different — finer, and less visible on pale surfaces — but the quantity does not fall.
+
+![Diagram showing why a water softener doesn't stop humidifier white dust: ion exchange swaps calcium for sodium, so dissolved solids still become dust.](/diagrams/humidifier-white-dust-softened-water-ion-exchange.svg "Softening swaps minerals but doesn't remove them. Only distilled or RO water stops the dust.")
 
 There is a piece of evidence that makes this concrete. A 2020 study in *Water Research X* by Yao, Gallagher and Dietrich measured what an ultrasonic humidifier actually puts into a room, and their tap water was **soft** — 42 mg/L hardness as calcium carbonate, about 2.5 grains per gallon, with 75 mg/L total dissolved solids. Running eight hours, it produced [average indoor particle concentrations of 211 µg/m³](https://pmc.ncbi.nlm.nih.gov/articles/PMC7408721/), with a median particle diameter of 146 nanometres and 85 percent of particles under half a micron. The same unit filled with distilled water measured around 25 µg/m³.
 

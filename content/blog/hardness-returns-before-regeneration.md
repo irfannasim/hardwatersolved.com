@@ -4,6 +4,7 @@ seoTitle: "Hard Water Returns Before Regeneration: Causes and Fixes"
 seoDescription: "Hard water returns before regeneration when capacity, programming or resin is wrong — and the day of the cycle it happens on tells you which one to fix."
 excerpt: "Running out of soft water partway through the cycle is a capacity problem, a programming problem or a resin problem, and they are not hard to tell apart. The diagnostic is the timing: write down which day of the cycle the hardness appears on, for two full cycles, and the pattern names the fault before you touch the unit."
 date: "2026-09-16"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/17181949/pexels-photo-17181949.jpeg"
@@ -29,8 +30,6 @@ This is the check most people skip, and it is why so many of these cases end in 
 
 ## Log It Before You Diagnose It
 
-![Hand marking a date on a calendar with a pen, the record-keeping step that turns an intermittent hard water complaint into a readable pattern](https://images.pexels.com/photos/11773871/pexels-photo-11773871.jpeg)
-
 You need two pieces of information, over two full regeneration cycles:
 
 1. **The date and time of each regeneration.** Metered valves display days since the last cycle or remaining capacity; note it daily for a week and you will see the interval.
@@ -49,11 +48,11 @@ Two cycles of data is enough. Then read the pattern.
 | Was fine, then went hard abruptly and stayed hard | A cycle did not happen, or happened without salt | Missed regeneration, salt bridge, power cut clock reset | Free |
 | Hard only in the last evening before regeneration | The bed is right, the safety margin is not | Reserve set too low or to zero | Free |
 
+![Four illustrative charts of hardness returning before water softener regeneration: capacity, channelling, missed cycle and reserve patterns](/diagrams/water-softener-hardness-breakthrough-timing-signatures.svg "Illustrative patterns: the day hardness appears in the cycle names the fault")
+
 Everything below works through those four in order of how often they turn out to be the answer.
 
 ## Signature 1: Consistent Early Breakthrough — Capacity or Setting
-
-![Bank of water meters connected by pipework, the metering that determines when a demand-initiated softener decides to regenerate](https://images.pexels.com/photos/4494656/pexels-photo-4494656.jpeg)
 
 This is the common one. The water is soft for the first three days of a four-day cycle and hard for the fourth, every single time, and the hardness reading climbs steadily rather than jumping.
 
@@ -106,7 +105,7 @@ usable capacity ÷ grains per day = days between regenerations
 
 ## Signature 2: Erratic Breakthrough — Channelling or Fouling
 
-![Industrial pipework with pressure gauges and valves, the flow conditions that determine whether water passes evenly through a resin bed](https://images.pexels.com/photos/11142768/pexels-photo-11142768.jpeg)
+![Cutaway diagram of a water softener resin tank showing channelling, silt on the bed and a cracked distributor causing erratic hardness breakthrough](/diagrams/water-softener-resin-bed-channelling-and-fouling.svg "Water that takes a shortcut through the bed leaves most of the resin unused")
 
 If the log has no pattern — six good days, then two, then five — the bed is not exhausting evenly. Water is finding a preferential path through the resin and leaving parts of it untouched, or parts of it are coated and out of service.
 
@@ -143,6 +142,8 @@ The subtlest of the four, and genuinely easy to fix.
 The bed is the right size and the setting is correct, but the valve triggers regeneration at the moment the calculated capacity runs out rather than before it. On an ordinary day that works. On the evening of three loads of laundry and four showers, demand overruns the last of the capacity and hard water reaches the taps for a couple of hours before the overnight cycle.
 
 The fix is the **reserve**: a slice of capacity the valve holds back so it regenerates early rather than exactly on time. Roughly one day of household use is a common setting. Many valves express this as a percentage or as a fixed gallon figure; some calculate it automatically from learned usage and some do not.
+
+![Diagram of water softener reserve capacity showing how a zero reserve lets a heavy evening run past capacity before the overnight regeneration](/diagrams/water-softener-reserve-capacity-bar.svg "The reserve holds back about a day of capacity so heavy evenings do not run the bed dry")
 
 Two related settings to check while you are in the menu:
 

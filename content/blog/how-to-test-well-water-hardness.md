@@ -4,6 +4,7 @@ seoTitle: "How to Test Well Water Hardness: Why 1 Sample Fails"
 seoDescription: "How to test well water hardness without sizing the wrong softener: where to draw the sample, what else to test with it, and the 12-month schedule to use."
 excerpt: "Well hardness is not a fixed number. It moves with the water table, the season and where in the plumbing you fill the bottle. Here is how to test well water hardness so the result is still true in six months, what to test alongside it, and why the sample point matters more on a well than on city water."
 date: "2026-09-15"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/8745692/pexels-photo-8745692.jpeg"
@@ -29,7 +30,7 @@ That is the whole problem in one paragraph. The rest of this page is how to do i
 
 ## How to Test Well Water Hardness in Four Steps
 
-![Outdoor plumbing manifold with pressure gauges and valves, the kind of fitting used to draw a raw well water sample](https://images.pexels.com/photos/13312223/pexels-photo-13312223.jpeg)
+![Well water system diagram showing where to draw hardness and iron samples relative to the pressure tank, with the softener installed last.](/diagrams/well-water-sampling-points-and-treatment-order.svg "Sample iron near the wellhead. Hardness reads the same either side of the pressure tank.")
 
 The mechanics are simple. The discipline is in the sampling, not the chemistry.
 
@@ -69,6 +70,8 @@ Here is what that looks like over a year. The table below is an **illustrative p
 | November | 17 | 1.3 | Recharge |
 | December | 18 | 1.4 | Ground beginning to freeze |
 
+![Illustrative line chart of well water hardness and iron across a year, falling to 12 gpg in April and peaking at 21 gpg in September.](/diagrams/well-water-hardness-seasonal-variation-chart.svg "Illustrative: one well's hardness nearly doubles between spring recharge and late summer.")
+
 Two things matter about this pattern. First, the **spread is 12 to 21 gpg** — nearly a factor of two. A softener sized on the April sample runs out of capacity every summer. A softener sized on the September sample is oversized, regenerates inefficiently and wastes salt for most of the year. Second, **iron tracks hardness** here, because both are being diluted and concentrated by the same recharge cycle. That is common but not universal, and it is one more reason to draw both from the same bottle.
 
 The practical rule that falls out of this: **size on the high end of your measured range, not on the average**, and set the softener's hardness figure to the high end plus the iron compensation covered in [why to test iron and manganese before sizing a softener](/blog/test-iron-and-manganese-before-sizing/). A softener that is slightly oversized costs a little salt. A softener that is undersized fails visibly for a third of the year.
@@ -89,8 +92,6 @@ Two practical habits fix most of this. Fill the bottle to the brim and cap it im
 The related trap — sampling the wrong side of a neutraliser, or from a tap you thought was untreated — is covered in [common water hardness sampling mistakes](/blog/water-hardness-sampling-mistakes/).
 
 ## What Else to Test From the Same Draw
-
-![Rack of labelled laboratory test tubes, representing the full well water panel that accompanies a hardness result](https://images.pexels.com/photos/8442444/pexels-photo-8442444.jpeg)
 
 Hardness alone will not let you design a treatment train. On a private well, the hardness number is one input in a decision that needs five or six. Test these together, from the same draw, so the numbers are comparable:
 

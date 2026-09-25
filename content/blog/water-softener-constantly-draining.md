@@ -4,6 +4,7 @@ seoTitle: "Water Softener Constantly Draining? 2 Causes, 1 Quick Test"
 seoDescription: "A water softener constantly draining can waste 60,000+ gallons a month. Measure the flow, then one manual-advance test separates a stuck valve from worn seals."
 excerpt: "A softener that should run water to the drain for a couple of hours a week is running it all day and all night. At a typical drain flow rate that is more water in a week than the whole system is meant to use in a year. The fix is usually one of two things — a valve parked in the wrong position, or seals that no longer seal — and a single test with the manual advance button tells you which one you have before you spend anything."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/13073423/pexels-photo-13073423.jpeg"
@@ -28,8 +29,6 @@ A **water softener constantly draining** is almost always one of two faults: the
 Before the diagnosis, though, it is worth knowing what this is costing, because the number is usually bigger than people expect and it changes how urgently you should act.
 
 ## What a Water Softener Constantly Draining Actually Costs
-
-![Woman working through household bills with a pencil and calculator, the calculation that turns a softener drain flow rate into a monthly water and sewer cost](https://images.pexels.com/photos/7680742/pexels-photo-7680742.jpeg)
 
 A drain line that runs around the clock is the most expensive softener fault there is. The water goes straight from the supply, through the valve and into the sewer or septic system, and every gallon passes through your water meter on the way.
 
@@ -78,7 +77,7 @@ For a slow trickle, use a measuring jug and time how long it takes to collect a 
 
 ## Confirm It Is the Softener and Not the Brine Tank
 
-![Square stainless steel floor drain set in white tiles, the kind of floor drain where both a softener drain hose and a brine tank overflow line often discharge](https://images.pexels.com/photos/5768318/pexels-photo-5768318.jpeg)
+![Diagram tracing a water softener's control valve drain line and its brine tank overflow hose to the same floor drain](/diagrams/water-softener-drain-line-vs-brine-tank-overflow-hoses.svg "Two hoses, one drain: trace the wet one back before you diagnose anything")
 
 Two different hoses can deliver water to the same floor drain, and they point to different faults.
 
@@ -134,6 +133,8 @@ Those button sequences come from the manufacturers' own manuals. For any other m
 | Valve will not advance at all, or display shows an error | **Stuck position** with a drive or control fault | Branch A |
 | Valve reaches service, display looks normal, drain keeps flowing | **Internal leak** — seals, spacers, piston or a disc not seating | Branch B |
 | Drain flow changes in every position but never stops | **Internal leak**, usually a badly worn seal stack | Branch B |
+
+![Flowchart for a water softener constantly draining that separates a stuck valve position from worn internal seals](/diagrams/water-softener-constantly-draining-diagnosis-flowchart.svg "One manual advance to service splits a stuck valve from a leaking seal")
 
 ## Branch A: The Valve Is Stuck in a Cycle Position
 

@@ -4,6 +4,7 @@ seoTitle: "Chlorine Taste After Water Softener: The Real Warning"
 seoDescription: "A chlorine taste after a water softener is not a fault — resin cannot remove chlorine. But it is a warning: that chlorine is shortening your resin life now."
 excerpt: "Ion exchange moves calcium and magnesium. It has no mechanism for chlorine, so a chlorine taste survives the softener untouched. The part almost nobody tells owners is what that taste implies: chlorine reaching your tap is chlorine that already passed through the resin bed, oxidising it on the way. At 2 ppm that can halve the life of a standard resin."
 date: "2026-09-20"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/11614346/pexels-photo-11614346.jpeg"
@@ -58,6 +59,8 @@ Now look at what a disinfectant residual actually is:
 
 There is no site to occupy and nothing to swap. The residual enters the tank in the water and leaves in the water, and it reacts with the resin polymer on the way past.
 
+![Diagram showing why a water softener cannot remove chlorine: resin swaps calcium and magnesium for sodium while neutral chlorine passes through](/diagrams/water-softener-resin-cannot-exchange-chlorine.svg "Resin trades charged ions; neutral chlorine and chloramine pass straight through")
+
 **What a softener does and does not do to chlorine:**
 
 | Claim | Reality |
@@ -71,8 +74,6 @@ There is no site to occupy and nothing to swap. The residual enters the tank in 
 That second row is worth sitting with. To the extent a softener "removes" any chlorine at all, it does so by being chemically attacked. The resin is acting as a sacrificial filter, and you are paying for it in capacity.
 
 ## The Damage: What Oxidation Does to a Resin Bead
-
-![Scientist pouring a liquid sample into a beaker, the kind of bench testing used to measure resin cross-link degradation](https://images.pexels.com/photos/36515389/pexels-photo-36515389.jpeg)
 
 A resin bead is a polystyrene sphere held rigid by **divinylbenzene (DVB) cross-links** — usually 8 percent by weight in a standard softening resin. Those cross-links are what give the bead its structure, its moisture balance and its capacity.
 
@@ -120,7 +121,7 @@ Find out which one you have before you buy anything. Your utility's annual Consu
 
 ## Where Carbon Has to Sit
 
-![Modern laboratory water purification system with cartridge housings, illustrating carbon media placed ahead of a softener](https://images.pexels.com/photos/36847822/pexels-photo-36847822.jpeg)
+![Diagram of whole-house carbon filter placement: sediment then carbon before the water softener protects resin, while carbon after only fixes taste](/diagrams/whole-house-carbon-filter-placement-before-softener.svg "Sediment, then carbon, then softener. Only that order protects the resin")
 
 This is the whole decision, and it is a plumbing question rather than a product question.
 
@@ -147,8 +148,6 @@ This is the whole decision, and it is a plumbing question rather than a product 
 **Sediment first, then carbon, then softener.** Carbon media blinds quickly on turbid water, and a cheap sediment cartridge ahead of it is the difference between annual and quarterly replacement.
 
 ## The Other Reasons Chlorine Taste Appears or Changes
-
-![Thermometer measuring water temperature at a pool edge, a reference point for the chlorine smell people recognise](https://images.pexels.com/photos/8028684/pexels-photo-8028684.jpeg)
 
 Not every chlorine complaint is a missing filter. Rule these out before spending:
 

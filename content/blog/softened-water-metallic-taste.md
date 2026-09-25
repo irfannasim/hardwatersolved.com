@@ -4,6 +4,7 @@ seoTitle: "Softened Water Metallic Taste: What It Usually Means"
 seoDescription: "A softened water metallic taste usually comes from your pipes, not the softener. The first-draw versus flushed sample test proves it in ten minutes."
 excerpt: "A metallic taste that arrives with a new softener is rarely the softener's water — it is the plumbing, tasted more clearly. Softening removes hardness that was partly protecting the pipe, and on low-pH water that can raise copper enough to taste. Two samples, ten minutes apart, tell you whether the metal is coming from the supply or from your own house."
 date: "2026-09-17"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/2113127/pexels-photo-2113127.jpeg"
@@ -49,7 +50,7 @@ If the taste is uniform across every tap at every time of day, suspect the suppl
 
 ## The Test That Settles It: First Draw Versus Flushed
 
-![High-angle view of a glass of cold water on a worn surface, the first-draw sample used to test for metal picked up from plumbing](https://images.pexels.com/photos/4946713/pexels-photo-4946713.jpeg)
+![Diagram of the first-draw versus flushed sample test that shows whether a metallic taste in softened water comes from pipes or the supply](/diagrams/first-draw-vs-flushed-water-sample-test.svg "Sample A is the water that sat in your pipes. Sample B is what the supply delivers")
 
 This is a standard sampling approach used for lead and copper investigations, and it works because metal dissolves into water in proportion to how long the water sits against the pipe.
 
@@ -80,6 +81,8 @@ Do not substitute a strip test for the lab here. Home kits are fine for hardness
 This is the uncomfortable part of the answer, and it is better stated plainly than avoided.
 
 Hard water deposits a thin calcium carbonate film on the inside of pipes. That film is a nuisance in a water heater, but in a copper pipe it also functions as a partial barrier between the water and the metal. Remove the hardness and the film no longer forms, and over time mildly aggressive water can dissolve the film that was already there.
+
+![Diagram of copper pipe with and without a calcium carbonate film, showing why softened water can have a metallic taste on low-pH water](/diagrams/softened-water-metallic-taste-copper-pipe-film.svg "Softening removes the scale film that partly shielded the water from copper")
 
 **What follows from that:**
 

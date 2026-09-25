@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" role="img" aria-labelledby="ckr-title ckr-desc">
+<title id="ckr-title">Water softener loses settings: how a clock reset moves regeneration into the evening</title>
+<desc id="ckr-desc">Timeline of a water softener that loses its clock settings in a 3:00 PM power cut. The clock restarts at 12:00 and treats 3:00 PM as midnight, so the 2:00 AM regeneration runs at about 5:00 PM, when the household is using water.</desc>
+<defs></defs>
+<rect width="760" height="470" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">A reset clock moves the night regeneration</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Both bars show the same 24 hours. The top one is real time, the bottom one is what the softener thinks.</text>
+<text x="30" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Real time</text>
+<text x="30" y="268" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Softener’s</text>
+<text x="30" y="286" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">clock</text>
+<rect x="150" y="150" width="570" height="30" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="268.75" y="150" width="47.5" height="30" fill="#fecaca"/>
+<rect x="482.5" y="150" width="47.5" height="30" fill="#e2e8f0" stroke="#52697a" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="150" y="256" width="71.25" height="30" fill="#dcfce7"/>
+<rect x="221.25" y="256" width="498.75" height="30" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<rect x="268.75" y="256" width="47.5" height="30" fill="#dc2626" opacity="0.85"/>
+<rect x="219.75" y="146" width="3" height="144" fill="#0b2f4a"/>
+<text x="215.25" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Power drops at 3:00 PM, backup dead: clock restarts at 12:00</text>
+<path class="ln" d="M221.25,110 L221.25,144" fill="none" stroke="#0b2f4a" stroke-width="1.2"/>
+<text x="268.75" y="204" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">about 5:00 PM: dinner, dishes, showers</text>
+<text x="150" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">12 PM</text>
+<text x="292.5" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6 PM</text>
+<text x="363.75" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">9 PM</text>
+<text x="435" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">12 AM</text>
+<text x="506.25" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">3 AM</text>
+<text x="577.5" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6 AM</text>
+<text x="648.75" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">9 AM</text>
+<text x="720" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">12 PM</text>
+<text x="482.5" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">2:00 AM: when it should run</text>
+<text x="270.75" y="248" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">clock says 2:00 AM: regeneration starts</text>
+<text x="150" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">12 PM</text>
+<text x="221.25" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">12 AM</text>
+<text x="292.5" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">3 AM</text>
+<text x="363.75" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">6 AM</text>
+<text x="435" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">9 AM</text>
+<text x="506.25" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">12 PM</text>
+<text x="577.5" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">3 PM</text>
+<text x="648.75" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">6 PM</text>
+<text x="720" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">9 PM</text>
+<text x="30" y="352" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">From then on it believes 3:00 PM is midnight, so the 2:00 AM regeneration runs around 5:00 PM.</text>
+<text x="30" y="376" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">A single-tank softener cannot soften while it regenerates, so the house gets untreated water</text>
+<text x="30" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">for up to two hours, every time. Nothing on the display looks wrong unless you check the time.</text>
+<rect x="30" y="430" width="22" height="14" rx="3" fill="#dcfce7"/>
+<text x="60" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">clock correct</text>
+<rect x="200" y="430" width="22" height="14" rx="3" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<text x="230" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">clock wrong</text>
+<rect x="360" y="430" width="22" height="14" rx="3" fill="#dc2626"/>
+<text x="390" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">regeneration: untreated water</text>
+</svg>

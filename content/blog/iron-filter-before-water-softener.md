@@ -4,6 +4,7 @@ seoTitle: "Iron Filter Before Water Softener? The Proven 4-Stage Order"
 seoDescription: "Iron filter before water softener, always. Remove sediment and iron ahead of the resin, or the softener fouls and the filter's work is wasted."
 excerpt: "Sediment and iron have to come out before water reaches the resin bed, so the order is sediment screen, any pH correction, iron filter, then softener. This guide covers both pretreatment stages as one decision, with a threshold table showing the measured level at which each stage becomes necessary. It also covers the backwash-scheduling clash between two backwashing units on one well, a problem most DIY installs run into."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/38404253/pexels-photo-38404253.jpeg"
@@ -35,6 +36,8 @@ In practice, sediment and iron are one decision. The same wells tend to produce 
 | 4 | Iron, manganese or sulfide filter | The softener's resin, from iron coating and oxidized-iron clogging |
 | 5 | **Water softener** | The house and water heater, from hardness |
 | 6 | UV or point-of-use polishing | Drinking water |
+
+![Well water treatment train showing pressure tank, sediment screen, pH neutralizer, iron filter, then water softener and UV in order](/diagrams/well-water-treatment-train-iron-filter-before-softener.svg "Each stage protects the one after it; the iron filter always sits ahead of the softener.")
 
 Manufacturers put it the same way. Whirlpool's softener installation manual says "any other installed water conditioning equipment should be installed between the water inlet and water softener." Its installation diagram shows the sediment filter ahead of the softener and adds that the softener "will not remove sediment." Where the softener sits relative to the pressure tank and water heater is laid out in [where to install a softener on a well system](/blog/where-to-install-softener-on-well-system/).
 
@@ -71,8 +74,6 @@ Two notes on reading your result against this table:
 
 ## Sediment First, but Not Too Fine
 
-![Close-up of fine sand in rippled ridges, the grit a well can pump that scores valve seals if no sediment stage sits ahead of the iron filter and softener](https://images.pexels.com/photos/5874027/pexels-photo-5874027.jpeg)
-
 Sediment control goes first because sand is abrasive. It scores pistons and seals in every control valve after it. The Hellenbrand ProMate manual warns that on rural supplies unfiltered sand and sediment "may plug up the water softener restricting the flow through the resin bed," which "often requires rebedding." It recommends "an in-line filter system ahead of a water softener."
 
 The trap is choosing a filter that is too fine. Here's how it plays out on an iron well:
@@ -81,6 +82,8 @@ The trap is choosing a filter that is too fine. Here's how it plays out on an ir
 2. In the pressure tank and piping, some of that iron starts to oxidize into fine rust particles.
 3. A fine cartridge catches those particles, so it browns and clogs within days, and pressure drops through the house.
 4. The iron filter behind it, which is built to trap oxidized iron and backwash it out, is left with nothing to do.
+
+![Comparison of a fine sediment cartridge clogging with rust ahead of an iron filter versus a coarse screen placed before it](/diagrams/sediment-filter-too-fine-iron-well-clogging.svg "A fine cartridge ahead of an iron filter catches the iron the filter is built to remove.")
 
 **What works instead:**
 
@@ -91,8 +94,6 @@ The trap is choosing a filter that is too fine. Here's how it plays out on an ir
 How to pick the micron rating and when to change the cartridge are covered in [when to replace a sediment prefilter before a softener](/blog/sediment-prefilter-before-a-softener/).
 
 ## The Backwash-Scheduling Conflict Between Two Units
-
-![Row of inline flow meters on a manifold, the kind of flow reading that shows whether one well pump can supply two treatment units backwashing at once](https://images.pexels.com/photos/7937292/pexels-photo-7937292.jpeg)
 
 This is the problem that trips up most DIY installs. It shows up weeks later as rusty water or a softener that fouls anyway, and nobody connects it to the clock.
 
@@ -112,7 +113,7 @@ The softener's drain flow is added on top of that. The Whirlpool manual lists a 
 
 **The fix: stagger them, iron filter first.**
 
-![Digital clock display showing 1:00 on a dark desk, the kind of early-morning slot to give the iron filter so the softener regenerates afterwards on filtered water](https://images.pexels.com/photos/880989/pexels-photo-880989.jpeg)
+![Backwash schedule timeline showing iron filter and water softener clashing at the 2:00 a.m. default versus staggered at 1:00 and 3:00 a.m.](/diagrams/iron-filter-softener-backwash-schedule-stagger.svg "Run the iron filter first and the softener afterwards so they never backwash together.")
 
 1. **Find each unit's total regeneration time** from its programmed cycle steps. Iron filters are often shorter, softeners longer.
 2. **Set the iron filter earlier**, for example 1:00 a.m.

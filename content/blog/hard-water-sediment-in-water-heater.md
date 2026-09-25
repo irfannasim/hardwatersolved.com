@@ -4,6 +4,7 @@ seoTitle: "Hard Water Sediment in Water Heater: Signs and Flushing"
 seoDescription: "Sediment in a water heater on hard water sounds like popping and rumbling. Weigh what the flush brings out and you learn whether the tank is recoverable."
 excerpt: "Everyone tells you to flush the tank. Nobody tells you to catch what comes out and weigh it — which is the one measurement that says whether you are maintaining a heater or postponing a replacement."
 date: "2026-09-10"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/28479466/pexels-photo-28479466.jpeg"
@@ -41,7 +42,7 @@ Popping and rumbling are the two that mean sediment. They appear earlier on gas 
 
 The rate at which this accumulates tracks hardness closely, and the physics is the same one behind [scale on the hot side of every fixture in the house](/blog/hard-water-clogged-showerhead/): calcium carbonate becomes *less* soluble as water heats, so a storage tank is effectively a hardness precipitator with a 50-gallon collection tray at the bottom.
 
-![Engineer adjusting metal pipeline valves during a heating system service](https://images.pexels.com/photos/34938446/pexels-photo-34938446.jpeg)
+![Cutaway diagram of gas and electric tanks showing hard water sediment on a water heater floor, steam bubbles popping, and a buried lower element](/diagrams/water-heater-sediment-layer-gas-vs-electric.svg "Gas heaters pop early; electric heaters stay quiet until sediment reaches the lower element")
 
 ## The Weighed Flush: Turning a Chore Into a Measurement
 
@@ -82,17 +83,15 @@ The year-10 row is the one to take seriously. Pale grit is hardness. Rust flakes
 
 Colour is worth a second look before you panic, though. Discoloured hot water has several causes that have nothing to do with a failing tank, and it is worth ruling out [the household problems routinely misattributed to hard water](/blog/problems-mistaken-for-hard-water/) — iron, manganese and a corroding galvanized run all produce coloured water without the heater being at fault.
 
-![Aged and rusted pressure valve and gauges on old pipework](https://images.pexels.com/photos/7865898/pexels-photo-7865898.jpeg)
-
 ## The Anode Rod Changes When You Soften
-
-![Close-up of an aged brass valve fitting on a metal tank body](https://images.pexels.com/photos/32979605/pexels-photo-32979605.jpeg)
 
 Here is the part left out of nearly every article on hard water and water heaters, and it matters most to exactly the people reading this — those about to install a softener to protect the tank.
 
 Every glass-lined steel water heater contains a sacrificial anode rod: a magnesium or aluminium rod that corrodes preferentially so the tank does not. It works by galvanic action, and galvanic action depends on how well the water conducts electricity.
 
 Softening does not remove dissolved solids. It exchanges calcium and magnesium ions for sodium ions, which [Penn State Extension describes plainly in its water softening guidance](https://extension.psu.edu/water-softening). Sodium chloride raises conductivity, and higher conductivity accelerates the anode's consumption.
+
+![Diagram of a water heater anode rod, new versus eaten down to bare core wire, showing why softened water consumes the anode faster](/diagrams/water-heater-anode-rod-new-vs-depleted.svg "Softened water is more conductive, so the anode rod wears out sooner")
 
 Bradford White states it directly in its technical bulletin on anode rods: *"In some situations where water is more conductive, i.e. softened water or lower pH levels, this sacrificial process is accelerated; in those cases, [aluminum is a better choice](https://forthepro.bradfordwhite.com/water-heater-anode-rods/)."*
 

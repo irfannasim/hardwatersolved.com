@@ -4,6 +4,7 @@ seoTitle: "Test Iron Before Sizing a Water Softener: 3 Costly Traps"
 seoDescription: "Test iron before sizing a water softener: every 1 ppm consumes capacity like about 4 grains of hardness, and how you draw the sample decides the number."
 excerpt: "A softener sized on hardness alone is undersized on any well that carries iron. This is the compensated hardness formula with worked examples, the conversion factors for ferrous and ferric iron and for manganese, and the sampling trap that makes a lab result read low before it ever reaches the bench."
 date: "2026-09-15"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/17882785/pexels-photo-17882785.jpeg"
@@ -61,6 +62,8 @@ So iron occupies exchange sites. Those sites are then unavailable for hardness, 
 
 This is the difference between an undersized softener and a failing one. An undersized softener runs out early and then recovers fully on the next regeneration. An iron-fouled softener runs out early and recovers a little less each time.
 
+![Feedback loop showing how untested iron fouls a water softener sized on hardness alone, with capacity falling a little more every cycle](/diagrams/water-softener-iron-fouling-feedback-loop.svg "Undersized softeners recover. Iron-fouled ones recover a little less each cycle")
+
 ## The Sampling Trap: Ferrous, Ferric and What the Bottle Does
 
 ![Laboratory technician transferring a water sample for iron analysis](https://images.pexels.com/photos/16998380/pexels-photo-16998380.jpeg)
@@ -75,6 +78,8 @@ The countermeasures are all about air and time:
 - **Fill the bottle to the brim** and cap immediately. Headspace air is the reagent you are trying to exclude.
 - **Deliver the same day.** Iron is not a test to post on a Friday.
 - **Ask for both numbers.** A filtered sample gives dissolved iron; an unfiltered sample gives total iron. The difference between them is the fraction that has already oxidised in your plumbing — and that fraction is the part a softener cannot handle.
+
+![Diagram of the iron sampling trap: a brim-full capped bottle keeps ferrous iron dissolved, while headspace air turns it to ferric particles and a low result](/diagrams/iron-water-sample-bottle-ferrous-ferric-trap.svg "Air in the bottle oxidises iron before it reaches the lab bench")
 
 That dissolved-versus-total pair is the most useful thing on a well water report, and most homeowners never request it. Without it you know how much iron you have but not which kind, and the treatment differs completely between the two. Penn State Extension's [guidance on iron and manganese in private water systems](https://extension.psu.edu/iron-and-manganese-in-private-water-systems) sets out how the forms differ and which treatments match which concentration band.
 
@@ -109,8 +114,6 @@ Past a certain point, compensating the hardness setting is the wrong answer and 
 Penn State Extension's [water softening guidance](https://extension.psu.edu/water-softening) describes broadly this envelope for ion exchange on private systems. The geology that puts the iron and the hardness there in the first place is covered in [why well water is often hard](/blog/why-is-well-water-hard/). The last two rows are the ones that get ignored most often, and the last one connects to a separate and expensive problem — acidic water that is softened without being neutralised can corrode plumbing faster, which is worked through in [reading pH and hardness together](/blog/interpreting-ph-and-hardness-together/).
 
 ## What a Fouled Resin Bed Actually Looks Like
-
-![Old iron pipe and valve heavily coated with corrosion product, the same deposit that accumulates on softener resin](https://images.pexels.com/photos/35016079/pexels-photo-35016079.jpeg)
 
 If you open the top of a softener that has been running on untested iron water for a couple of years, the resin is the colour of the problem. Healthy cation resin is amber to honey-coloured, translucent, and the beads pour like coarse sand. Iron-fouled resin is rust-brown to near-black, the beads clump rather than pour, and the bed has lost its uniform appearance.
 

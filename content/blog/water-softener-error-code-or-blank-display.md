@@ -4,6 +4,7 @@ seoTitle: "Water Softener Error Code Guide: 6 Brands, 1 Simple Table"
 seoDescription: "Every water softener error code falls into a few fault families. Match your Fleck, Clack, Autotrol, GE, Whirlpool or Culligan code, then run the right checks."
 excerpt: "Every softener brand invents its own codes, and most owner's manuals explain them in a single line that tells you almost nothing. Underneath, though, the faults are the same handful on every valve — a motor that cannot move, a sensor that cannot see, a memory that has been scrambled, a meter that has stopped counting. This guide maps codes from six manufacturers onto those shared families using the manufacturers' own manuals, says plainly where a code could not be verified, and covers the display that shows nothing at all."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/10699352/pexels-photo-10699352.jpeg"
@@ -31,6 +32,8 @@ A blank display is a separate case — it is not a code, it is the absence of po
 
 Control valves from different manufacturers look nothing alike, but electronically they all do the same job. A motor moves a piston, camshaft or rotor. A sensor — a microswitch, an optical reader or a position switch — tells the board where that part has got to. The board stores the programming and counts water through a meter. When any link in that chain misbehaves, the board raises a code.
 
+![Diagram of a water softener control valve's power, board, motor, piston, sensor and meter chain, mapping each link to an error code fault family](/diagrams/water-softener-control-valve-fault-families-chain.svg "Every brand's error codes map to one link in this chain")
+
 | Fault family | What the control detected | What usually causes it |
 |---|---|---|
 | **Motor or drive stall** | The motor ran but the valve did not reach the next position in the time allowed, or the motor did not start or stop | Seized or failed motor, stripped gear, piston binding on iron or debris, loose motor wiring |
@@ -41,8 +44,6 @@ Control valves from different manufacturers look nothing alike, but electronical
 A fifth, smaller group covers **power-supply mismatches** (the wrong frequency or a failing transformer) and **brine alerts** on controls with a brine sensor. Both appear in the table below where manufacturers document them.
 
 ## The Cross-Manufacturer Error Code Table
-
-![Close-up of a green printed circuit board with rows of electronic components, the kind of controller board whose diagnostics generate a softener error code](https://images.pexels.com/photos/343457/pexels-photo-343457.jpeg)
 
 Every entry below comes from a manufacturer's own manual for the named model, not from forum posts or parts-seller summaries. Codes vary between models from the same manufacturer, so treat each row as valid for the model listed, and confirm against your own manual.
 
@@ -119,8 +120,6 @@ This family includes Fleck 0, Clack 102–104, Culligan ERR 1 and ERR 2, and Whi
 
 ## Position Sensor Codes: What to Check
 
-![Macro view of microchips and surface components on an electronic circuit board, illustrating the sensor and controller circuitry that reports a softener valve's position](https://images.pexels.com/photos/36169774/pexels-photo-36169774.jpeg)
-
 This family includes Fleck 1, Clack 101, Autotrol Err 3, Culligan ERR 3 and "Pos Sensor Err".
 
 **Give it time on power-up.** Autotrol's manual says the camshaft may take one to two minutes to return home after power is applied, and that Err 3 shows until it does. An Err 3 that clears by itself within a couple of minutes of a power cut is not a fault.
@@ -153,8 +152,6 @@ This family includes Fleck 3, Autotrol Err 1, Culligan ERR 4 and Whirlpool Err 5
 
 ## Resetting a Code Properly
 
-![Digital multimeter lying beside electrical tools and circuit breakers, the kind of basic test gear used to confirm power before resetting a softener control](https://images.pexels.com/photos/6349399/pexels-photo-6349399.jpeg)
-
 A reset clears the display, not the fault. The test is whether the code comes back.
 
 | Control | Reset method in the manual | How long before it returns if unfixed |
@@ -169,8 +166,6 @@ A reset clears the display, not the fault. The test is whether the code comes ba
 **Resetting the same code over and over is not a repair.** Each stall retry heats the motor and loads the gears. If a code returns after one honest reset and the family checks above, it needs a part.
 
 ## When an Error Code Means a Service Call
-
-![Electrician examining a residential fuse box indoors, the point at which a persistent softener error code becomes a job for a trained technician](https://images.pexels.com/photos/32497160/pexels-photo-32497160.jpeg)
 
 A water softener error code tells you where to look; it does not always mean you should be the one looking. The reasonable line:
 

@@ -4,6 +4,7 @@ seoTitle: "Dishwasher White Film on Dishes: 3 Causes, 1 Fast Test"
 seoDescription: "A dishwasher white film on dishes has three possible causes. One citric acid cycle plus a control load isolates which one you have without buying anything."
 excerpt: "Hardness, rinse aid failure and detergent overdose all leave white residue, and they need opposite fixes. One cycle plus one control load narrows it to a single cause before you spend anything."
 date: "2026-09-09"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/5018049/pexels-photo-5018049.jpeg"
@@ -51,11 +52,11 @@ The control load is what makes this work. A normal load has too many variables �
 
 ## The Built-In Softener Almost No US Guide Mentions
 
-![Stainless steel forks standing in a dishwasher cutlery rack after a wash cycle](https://images.pexels.com/photos/3829548/pexels-photo-3829548.jpeg)
-
 If your dishwasher is a Bosch, Miele, Siemens, Asko, Thermador, Beko or Gaggenau, there is a good chance it contains its own miniature water softener, and it will not work unless you feed it.
 
 Open the door, take out the lower rack, and look at the floor of the tub. A large screw cap, usually 40 to 50 mm across and often blue or grey, sits in one corner. That is a salt reservoir feeding an ion exchange cartridge built into the machine. If the cap is there, the machine has a softener; if the tub floor is flat and featureless, it does not.
+
+![Top-down diagram of a dishwasher tub floor showing the built-in softener salt reservoir cap, filter and spray arm](/diagrams/dishwasher-built-in-softener-salt-reservoir-location.svg "Lower rack out: a screw cap in the tub floor means a built-in softener")
 
 Three things go wrong with it, and all three produce white film:
 
@@ -74,6 +75,8 @@ This matters even in a softened house. If your whole-house softener is bypassed,
 **Detergent overdose.** Cut to half the mark and run a week of loads. Powder lets you dose precisely; pods do not, which is why pods are the wrong choice on soft or moderately soft water. If you are on softened water and glasses are involved, act quickly — the same alkaline overdose that leaves film will go on to [etch the glass permanently](/blog/cloudy-glasses-etching-or-hard-water/), and that damage does not wash off.
 
 **Rinse aid.** Fill it and turn the setting up one notch. Rinse aid is a surfactant that lowers water's surface tension so it drains as a sheet instead of beading and drying in place. On hard water it is not optional; every droplet that dries where it sits leaves its whole mineral load behind. Reservoirs typically hold enough for 30 to 60 cycles and give no warning when empty.
+
+![Diagram of dishwasher rinse aid: without it water beads and dries leaving mineral spots, with it water sheets off the dishes](/diagrams/dishwasher-rinse-aid-sheeting-vs-beading.svg "Rinse aid makes water sheet off instead of drying in droplets")
 
 **Filter and spray arms.** Twist out the filter under the lower rack, rinse it under warm water with a soft brush, and check every hole in both spray arms with a toothpick. A blocked arm hole leaves an entire sector of the rack unrinsed, which reads as film on some items and not others — a pattern that maps to rack position rather than to item type.
 

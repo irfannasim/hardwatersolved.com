@@ -4,6 +4,7 @@ seoTitle: "Frozen Water Softener? 5 Safe Steps Before You Restart"
 seoDescription: "A frozen water softener must thaw slowly with no direct heat, then be pressure tested in stages. Cracks in the valve, bypass and tank neck hide until then."
 excerpt: "The garage dropped below freezing, the softener is silent, and there may be ice in the lines. The damage, if there is any, was done when the water expanded. What happens next decides whether you find it on your terms or on the floor. Isolate the unit, warm the room rather than the valve, and bring pressure back in stages while you watch the parts that crack invisibly: the valve body, the bypass and the tank neck."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/35915028/pexels-photo-35915028.jpeg"
@@ -41,8 +42,6 @@ Ice itself stops nothing from leaking. The expansion that cracks a part happens 
 
 ## How to Thaw a Frozen Water Softener
 
-![Outdoor thermometer against a frosty winter backdrop, a reminder to bring a frozen water softener back to room temperature slowly rather than blasting it with heat](https://images.pexels.com/photos/7790027/pexels-photo-7790027.jpeg)
-
 The goal is to bring the whole unit up to room temperature together.
 
 **Warm the space, not the part.** Close the garage door, open the door between the heated house and the room, or add a space heater aimed into the room. Keep the heater well clear of the softener and anything combustible, as its own instructions require. Clack rates its valve for operation between 40°F and 110°F. Get the room back above the low end of that range and keep it there.
@@ -59,6 +58,8 @@ The goal is to bring the whole unit up to room temperature together.
 ## Where Freeze Cracks Hide
 
 Work through this list with a flashlight and a dry paper towel **before** any pressure goes back in. Then use it again during the pressure test.
+
+![Cutaway diagram of a water softener marking where freeze cracks hide: valve body, bypass, tank neck, distributor tube, drain fitting and brine line](/diagrams/water-softener-freeze-crack-locations.svg "Freeze cracks hide in these parts and stay dry until pressure returns")
 
 | Component | Why it is vulnerable | What a crack looks like | When it usually shows |
 |---|---|---|---|
@@ -77,7 +78,7 @@ On resin, DuPont's [storage guidance for ion exchange resins](https://www.dupont
 
 ## The Staged Pressure Test
 
-![Close-up of a pressure gauge on a machine, a reminder to bring house pressure back to a thawed water softener in careful stages while watching for leaks](https://images.pexels.com/photos/18027547/pexels-photo-18027547.jpeg)
+![Four-stage diagram of pressure testing a thawed frozen water softener: bypass, service, each regeneration step, then a week of checks](/diagrams/frozen-water-softener-staged-pressure-test.svg "Pressurise one part at a time so a crack weeps instead of bursting")
 
 The point is to pressurise one part of the system at a time, so a crack shows as a weep rather than a burst.
 
@@ -92,8 +93,6 @@ The point is to pressurise one part of the system at a time, so a crack shows as
 **If any stage leaks, stop there.** Put the unit back in bypass and decide on repair before going further. Do not try to seal a cracked pressurised plastic part with epoxy or tape. It sits at full house pressure around the clock.
 
 ## Repair or Replace: The Decision Point
-
-![Close-up of a cracked ice surface with branching fracture lines, the same pattern a freeze crack leaves across a plastic softener valve body or bypass](https://images.pexels.com/photos/14868958/pexels-photo-14868958.jpeg)
 
 | What failed | Usual fix | Rough scale of the job |
 |---|---|---|

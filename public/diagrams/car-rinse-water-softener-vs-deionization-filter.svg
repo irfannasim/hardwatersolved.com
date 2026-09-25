@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" role="img" aria-labelledby="cdi-title cdi-desc">
+<title id="cdi-title">Car rinse water: untreated, softened and deionized compared</title>
+<desc id="cdi-desc">Diagram comparing untreated, softened and deionized rinse water: a softener swaps calcium and magnesium for sodium so spots still form, while a hose-end DI filter removes the ions and prevents hard water spots on car paint.</desc>
+<defs><marker id="cdi-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="cdi-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="470" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Car rinse water: softener versus DI filter</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">What each option leaves dissolved in the water, and what dries on the paint.</text>
+<text x="30" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Rinse water</text>
+<text x="200" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">What happens</text>
+<text x="440" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Left in the water</text>
+<text x="620" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Dried on paint</text>
+<rect class="box" x="30" y="118" width="700" height="86" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="44" y="154" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Untreated</text>
+<text x="44" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hard water</text>
+<rect class="box" x="200" y="132" width="210" height="58" rx="8" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+<text x="212" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Nothing removed;</text>
+<text x="212" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">minerals stay dissolved</text>
+<path class="ln" d="M414,161 L432,161" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdi-h)"/>
+<text x="440" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Ca²⁺, Mg²⁺</text>
+<text x="440" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">plus anions</text>
+<rect x="620" y="170" width="96" height="12" fill="#e0f2fe" stroke="#3a5a72" stroke-width="1"/>
+<rect x="620" y="182" width="96" height="8" fill="#475569"/>
+<path d="M634,170 Q646,150 658,170 z" fill="#a8a29e" stroke="#78716c" stroke-width="1"/>
+<path d="M678,170 Q690,150 702,170 z" fill="#a8a29e" stroke="#78716c" stroke-width="1"/>
+<text x="620" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">calcium spots</text>
+<rect class="box" x="30" y="218" width="700" height="86" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="44" y="254" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Softener</text>
+<text x="44" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">whole house</text>
+<rect class="box" x="200" y="232" width="210" height="58" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="212" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Ca²⁺ and Mg²⁺ swapped</text>
+<text x="212" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">for Na⁺ (sodium)</text>
+<path class="ln" d="M414,261 L432,261" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdi-s)"/>
+<text x="440" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Na⁺ plus anions:</text>
+<text x="440" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">TDS about the same</text>
+<rect x="620" y="270" width="96" height="12" fill="#e0f2fe" stroke="#3a5a72" stroke-width="1"/>
+<rect x="620" y="282" width="96" height="8" fill="#475569"/>
+<path d="M636,270 Q646,260 656,270 z" fill="#d6d3d1" stroke="#a8a29e" stroke-width="1"/>
+<path d="M680,270 Q690,260 700,270 z" fill="#d6d3d1" stroke="#a8a29e" stroke-width="1"/>
+<text x="620" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">softer spots</text>
+<rect class="box" x="30" y="318" width="700" height="86" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="44" y="354" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hose-end DI</text>
+<text x="44" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">mixed-bed resin</text>
+<rect class="box" x="200" y="332" width="210" height="58" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="212" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">cations → H⁺, anions → OH⁻,</text>
+<text x="212" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">which recombine as water</text>
+<path class="ln" d="M414,361 L432,361" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#cdi-s)"/>
+<text x="440" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">close to pure water:</text>
+<text x="440" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">near zero TDS</text>
+<rect x="620" y="370" width="96" height="12" fill="#e0f2fe" stroke="#3a5a72" stroke-width="1"/>
+<rect x="620" y="382" width="96" height="8" fill="#475569"/>
+<text x="620" y="342" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">no residue</text>
+<rect class="box" x="30" y="418" width="700" height="36" rx="8" fill="#ecfdf5" stroke="#15803d" stroke-width="1"/>
+<text x="380" y="441" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softening swaps minerals; deionization removes them. Use DI for the final rinse only.</text>
+</svg>

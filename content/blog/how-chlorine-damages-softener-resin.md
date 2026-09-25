@@ -4,6 +4,7 @@ seoTitle: "How Chlorine Damages Water Softener Resin: Early Signs"
 seoDescription: "Chlorine damages water softener resin by breaking the cross-links that hold each bead rigid. Find your residual and catch it before capacity collapses."
 excerpt: "By the time chlorinated water produces hard taps, the bed has been degrading for years. The damage is detectable long before that — in your utility's own chlorine figures, in a bead you can squeeze between finger and thumb, and in a capacity trend that starts falling while every tap still tests at zero. This is the detection side of the problem: how to establish what your resin is actually being exposed to, and how to read the bed before it fails."
 date: "2026-09-21"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/7451952/pexels-photo-7451952.jpeg"
@@ -68,7 +69,7 @@ Those planning figures derive from the pattern reported across the resin industr
 
 ## Step Two: The Squeeze Test
 
-![Close-up of a microscope positioned over a prepared slide, the level of inspection used to judge whether resin beads have lost structure](https://images.pexels.com/photos/4033307/pexels-photo-4033307.jpeg)
+![Diagram comparing healthy, chlorine-oxidised and fouled water softener resin beads under a finger squeeze test, showing swelling and broken cross-links.](/diagrams/softener-resin-bead-chlorine-oxidation-vs-fouling-squeeze-test.svg "Soft and swollen with normal colour means chlorine damage. Firm and discoloured means fouling.")
 
 This is the check that distinguishes oxidative damage from fouling, and it takes about five seconds once you have a sample in your hand. The sampling procedure — bypass, depressurise, unthread the control valve, draw beads from the top of the bed — is set out step by step in [water softener resin fouling](/blog/water-softener-resin-fouling/).
 
@@ -85,8 +86,6 @@ This is the check that distinguishes oxidative damage from fouling, and it takes
 **The distinction that saves money:** soft beads with normal colour means oxidation, which cleaner cannot help. Firm beads with heavy colour means fouling, which cleaner sometimes can. Buying a resin cleaner without doing the squeeze test is how people spend money on a bed that was never going to respond.
 
 ## Step Three: Read the Capacity Trend
-
-![Rack of laboratory test tubes holding graded colour solutions, the free and total chlorine testing that establishes a resin bed exposure level](https://images.pexels.com/photos/8540029/pexels-photo-8540029.jpeg)
 
 Oxidative damage is gradual and linear, which makes it one of the easier failures to see coming in a log.
 
@@ -106,8 +105,6 @@ How to take these readings consistently, and how to build the log if you do not 
 **One supporting signal worth watching:** pressure drop. Swollen beads pack tighter and restrict flow, so a house that has quietly lost pressure when two fixtures run together, with no scale and no clogged aerators to explain it, is consistent with a degrading bed.
 
 ## What Protects a Bed, and What Only Appears To
-
-![Charcoal being poured from a bag into a metal basin, the granular activated carbon media that removes chlorine before it reaches the resin](https://images.pexels.com/photos/8021316/pexels-photo-8021316.jpeg)
 
 **Activated carbon ahead of the softener.** The only intervention that addresses the cause. Free chlorine is removed readily by standard granular activated carbon at normal contact times. Chloramine is not — it needs catalytic carbon and roughly double the empty bed contact time, which in practice means a physically larger vessel. Undersizing here is the most common mistake, and it produces a filter that works for a few weeks and then breaks through. The sizing logic and placement are covered in detail in [chlorine taste after a water softener](/blog/chlorine-taste-after-water-softener/).
 

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 738" width="760" height="738" role="img" aria-labelledby="g6if-title g6if-desc">
+<title id="g6if-title">Water softener vs iron filter decision flowchart</title>
+<desc id="g6if-desc">Water softener vs iron filter decision flowchart: check iron bacteria, combined iron and manganese, pH, hardness under 3 gpg, oxidized iron and dissolved iron against the softener rating in order, stopping at the first yes, to reach a softener, an iron filter, both, neither, or a different technology.</desc>
+<defs><marker id="g6if-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="738" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water softener or iron filter? Read down, stop at the first yes</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">You need three results: hardness (gpg), dissolved and total iron (mg/L), and pH.</text>
+<rect class="box" x="30" y="96" width="420" height="58" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="130" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Iron bacteria? (slime, rust-coloured growth in tanks)</text>
+<text x="470" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M452,125 L482,125" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<rect class="box" x="490" y="96" width="240" height="58" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="504" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">D · Different technology first</text>
+<text x="504" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">disinfect before choosing</text>
+<path class="ln" d="M60,156 L60,172" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<text x="74" y="171" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="176" width="420" height="58" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="210" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Combined iron and manganese above 10 mg/L?</text>
+<text x="470" y="195" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M452,205 L482,205" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<rect class="box" x="490" y="176" width="240" height="58" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="504" y="194" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">D · Different technology</text>
+<text x="504" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">oxidation, then filtration;</text>
+<text x="504" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">add a softener if the water is hard</text>
+<path class="ln" d="M60,236 L60,252" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<text x="74" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="256" width="420" height="58" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">pH below about 6.7, with iron present?</text>
+<text x="470" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M452,285 L482,285" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<rect class="box" x="490" y="256" width="240" height="58" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="504" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">D · Correct the pH first</text>
+<path class="ln" d="M60,316 L60,332" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<text x="74" y="331" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="336" width="420" height="58" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="370" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hardness under 3 gpg?</text>
+
+<text x="470" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M452,365 L482,365" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<rect class="box" x="490" y="336" width="240" height="58" rx="10" fill="#fff7ed" stroke="#b45309" stroke-width="2"/>
+<text x="504" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#b45309">B · Iron filter alone</text><text x="504" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">if iron is above 0.3 mg/L;</text><text x="504" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">otherwise neither is needed</text>
+<path class="ln" d="M60,396 L60,412" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<text x="74" y="411" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no · from here on, hardness is 3 gpg or more</text>
+<rect class="box" x="30" y="416" width="420" height="58" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="450" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Any oxidized iron?</text>
+<text x="470" y="435" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M452,445 L482,445" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<rect class="box" x="490" y="416" width="240" height="58" rx="10" fill="#eef2f6" stroke="#3a5a72" stroke-width="2"/>
+<text x="504" y="450" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#3a5a72">C · Both, iron filter first</text>
+<path class="ln" d="M60,476 L60,492" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<text x="74" y="491" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="496" width="420" height="58" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Dissolved iron above the softener's rating?</text>
+<text x="470" y="515" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M452,525 L482,525" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<rect class="box" x="490" y="496" width="240" height="58" rx="10" fill="#eef2f6" stroke="#3a5a72" stroke-width="2"/>
+<text x="504" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#3a5a72">C · Both, iron filter first</text>
+<path class="ln" d="M60,556 L60,572" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<text x="74" y="571" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="576" width="420" height="58" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="601" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Dissolved iron above 0.3 mg/L but within the</text>
+<text x="46" y="619" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">rating, and pH above 6.7?</text>
+<text x="470" y="595" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M452,605 L482,605" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<rect class="box" x="490" y="576" width="240" height="58" rx="10" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="504" y="594" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">A · Softener alone</text>
+<text x="504" y="610" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">programmed with</text>
+<text x="504" y="626" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">compensated hardness</text>
+<path class="ln" d="M60,636 L60,652" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6if-a)"/>
+<text x="74" y="651" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="656" width="420" height="58" rx="10" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="682" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">A · Softener alone</text>
+<text x="46" y="700" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">iron under 0.3 mg/L</text>
+</svg>

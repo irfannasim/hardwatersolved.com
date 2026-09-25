@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 558" width="760" height="558" role="img" aria-labelledby="g7ssk-title g7ssk-desc">
+<title id="g7ssk-title">Soap scum on skin: hard water vs soft water</title>
+<desc id="g7ssk-desc">Soap scum on skin in hard vs soft water: in hard water soap reacts with calcium and magnesium into an insoluble curd that coats the skin and feels squeaky; in soft water soap stays soluble, rinses off and leaves the skin’s lipid layer bare, which feels slippery.</desc>
+<defs><marker id="g7ssk-steel" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="g7ssk-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><pattern id="g7ssk-curd" width="8" height="10" patternUnits="userSpaceOnUse"><rect width="8" height="10" fill="#a8a29e"/><circle cx="4" cy="5" r="1.6" fill="#c2410c"/></pattern></defs>
+<rect width="760" height="558" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Squeaky vs slippery: what soap leaves on your skin</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">The feel comes from what is still on the skin after rinsing, not from how clean it is.</text>
+<rect class="box" x="30" y="92" width="340" height="32" rx="16" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/><text x="200" y="113.4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#c2410c">HARD WATER</text>
+<rect class="box" x="30" y="136" width="340" height="54" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="200" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Soap + Ca²⁺/Mg²⁺ → calcium/magnesium stearate</text>
+<text x="200" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">an insoluble curd (soap scum)</text>
+<rect x="30" y="198" width="340" height="104" fill="#dbeafe" stroke="none" stroke-width="2"/>
+<rect x="30" y="312" width="340" height="50" fill="#f3d9c6" stroke="none" stroke-width="2"/>
+<rect x="30" y="302" width="340" height="10" fill="#fcd34d" stroke="none" stroke-width="2"/>
+<g transform="translate(70,222) rotate(20)"><path d="M5,0 q5,-4 10,0 t10,0" fill="none" stroke="#3a5a72" stroke-width="2"/><circle cx="0" cy="0" r="5" fill="#3a5a72"/></g>
+<circle cx="120" cy="216" r="5" fill="#c2410c"/>
+<g transform="translate(280,220) rotate(-15)"><path d="M5,0 q5,-4 10,0 t10,0" fill="none" stroke="#3a5a72" stroke-width="2"/><circle cx="0" cy="0" r="5" fill="#3a5a72"/></g>
+<circle cx="330" cy="228" r="5" fill="#c2410c"/>
+<ellipse cx="100" cy="246" rx="17" ry="10" fill="#a8a29e"/><circle cx="94" cy="245" r="5" fill="#c2410c"/><circle cx="107" cy="248" r="5" fill="#c2410c"/>
+<path class="ln" d="M100,259 L100,276" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7ssk-steel)"/>
+<ellipse cx="200" cy="246" rx="17" ry="10" fill="#a8a29e"/><circle cx="194" cy="245" r="5" fill="#c2410c"/><circle cx="207" cy="248" r="5" fill="#c2410c"/>
+<path class="ln" d="M200,259 L200,276" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7ssk-steel)"/>
+<ellipse cx="300" cy="246" rx="17" ry="10" fill="#a8a29e"/><circle cx="294" cy="245" r="5" fill="#c2410c"/><circle cx="307" cy="248" r="5" fill="#c2410c"/>
+<path class="ln" d="M300,259 L300,276" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7ssk-steel)"/>
+<rect x="30" y="292" width="340" height="10" fill="url(#g7ssk-curd)" stroke="none" stroke-width="2"/>
+<text x="44" y="344" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#9a6b4f">SKIN</text>
+<path class="ln" d="M230,296 L230,382" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="242" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">curd film that won’t</text>
+<text x="242" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">rinse off</text>
+<rect class="box" x="30" y="428" width="340" height="38" rx="19" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/><text x="200" y="452.4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Grips: feels squeaky</text>
+<rect class="box" x="390" y="92" width="340" height="32" rx="16" fill="#e0f2f1" stroke="#0e7490" stroke-width="1.5"/><text x="560" y="113.4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">SOFT WATER</text>
+<rect class="box" x="390" y="136" width="340" height="54" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="560" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">No calcium for the soap to react with</text>
+<text x="560" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">soap stays soluble and rinses away</text>
+<rect x="390" y="198" width="340" height="104" fill="#dbeafe" stroke="none" stroke-width="2"/>
+<rect x="390" y="312" width="340" height="50" fill="#f3d9c6" stroke="none" stroke-width="2"/>
+<rect x="390" y="302" width="340" height="10" fill="#fcd34d" stroke="none" stroke-width="2"/>
+<g transform="translate(440,270) rotate(-30)"><path d="M5,0 q5,-4 10,0 t10,0" fill="none" stroke="#3a5a72" stroke-width="2"/><circle cx="0" cy="0" r="5" fill="#3a5a72"/></g>
+<g transform="translate(510,240) rotate(10)"><path d="M5,0 q5,-4 10,0 t10,0" fill="none" stroke="#3a5a72" stroke-width="2"/><circle cx="0" cy="0" r="5" fill="#3a5a72"/></g>
+<g transform="translate(590,262) rotate(-20)"><path d="M5,0 q5,-4 10,0 t10,0" fill="none" stroke="#3a5a72" stroke-width="2"/><circle cx="0" cy="0" r="5" fill="#3a5a72"/></g>
+<g transform="translate(660,232) rotate(15)"><path d="M5,0 q5,-4 10,0 t10,0" fill="none" stroke="#3a5a72" stroke-width="2"/><circle cx="0" cy="0" r="5" fill="#3a5a72"/></g>
+<path class="ln" d="M540,280 L540,216" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7ssk-soft)"/>
+<path class="ln" d="M630,280 L630,216" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7ssk-soft)"/>
+<text x="690" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">rinsed off</text>
+<text x="404" y="344" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#9a6b4f">SKIN</text>
+<path class="ln" d="M590,307 L590,382" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="602" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">skin’s own lipid layer,</text>
+<text x="602" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">nothing on top</text>
+<rect class="box" x="390" y="428" width="340" height="38" rx="19" fill="#e0f2f1" stroke="#0e7490" stroke-width="1.5"/><text x="560" y="452.4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Low friction: feels slippery</text>
+<text x="380" y="500" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Not clean vs slippery, but coated vs not coated.</text>
+<g transform="translate(40,533) rotate(0)"><path d="M5,0 q5,-4 10,0 t10,0" fill="none" stroke="#3a5a72" stroke-width="2"/><circle cx="0" cy="0" r="5" fill="#3a5a72"/></g>
+<text x="72" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">soap</text>
+<circle cx="130" cy="533" r="5" fill="#c2410c"/>
+<text x="142" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Ca²⁺ / Mg²⁺</text>
+<ellipse cx="250" cy="533" rx="14" ry="8" fill="#a8a29e"/>
+<text x="272" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">soap curd</text>
+<rect x="360" y="527" width="26" height="12" fill="#fcd34d"/>
+<text x="394" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">skin’s lipid layer</text>
+<rect x="530" y="527" width="26" height="12" fill="#dbeafe"/>
+<text x="564" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">rinse water</text>
+</svg>

@@ -4,6 +4,7 @@ seoTitle: "What Hardness Level Is Too Hard? 5 Proven Thresholds"
 seoDescription: "What hardness level is too hard? Above 7 grains per gallon, scale and soap costs turn real. Here are the five thresholds that set your own limit."
 excerpt: "There's no health limit for hard water, so the threshold that matters isn't a safety line — it's whichever appliance in your house has the tightest tolerance. Here's how to find yours."
 date: "2026-09-07"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Fundamentals"
 featuredImage: "https://images.pexels.com/photos/8488035/pexels-photo-8488035.jpeg"
@@ -47,7 +48,7 @@ That range has two edges, and both are frequently ignored.
 
 **1 gpg — the floor.** Below this, water is soft by any definition. Nothing to do, and no equipment will produce a noticeable improvement.
 
-**3.5 gpg — where softening starts being defensible.** Below this, Penn State's guidance says there isn't enough hardness to justify the equipment, the salt, or the regeneration water. Buying a softener here is buying a solution to a problem you don't have.
+**3.5 gpg — where softening starts being defensible.** This is the top of the "slightly hard" band, just above the roughly 3 gpg floor of Penn State's recommended range. Below it, Penn State's guidance says there isn't enough hardness to justify the equipment, the salt, or the regeneration water. Buying a softener here is buying a solution to a problem you don't have.
 
 **7 gpg — the practical treatment threshold.** This is where scale on heating elements and soap waste stop being occasional annoyances and become recurring costs. Most treatment recommendations cluster here for good reason.
 
@@ -55,7 +56,7 @@ That range has two edges, and both are frequently ignored.
 
 **20 gpg — the top of the standard range.** Still treatable, but it changes the specification rather than just the size. Capacity requirements rise steeply, regeneration becomes more frequent, and annual salt cost roughly triples relative to 7 gpg water. Above this you're into territory where a single standard residential unit may not be the right answer.
 
-![Industrial manifold with pressure gauges and steel pipework](https://images.pexels.com/photos/7937299/pexels-photo-7937299.jpeg)
+![Water hardness scale in grains per gallon and mg/L showing five bands and the five thresholds for when hardness is too hard](/diagrams/water-hardness-scale-five-thresholds.svg "Five thresholds from soft to the top of the standard softener range")
 
 ## Why Appliance Limits Beat the Generic 7 GPG Rule
 
@@ -98,8 +99,6 @@ Three cases where a high hardness reading still doesn't point at ion exchange.
 **The complaint isn't hardness.** If what actually bothers you is taste, odour, staining or a suspected contaminant, [ion exchange](https://www.epa.gov/watersense/cation-exchange-water-softeners) will not touch any of it. A softener trades calcium and magnesium for sodium. It is not a filter and not a disinfection system, and this is the most common way people spend money on the wrong equipment.
 
 One more worth flagging: if your fixtures show white deposits but your hardness tests low, the cause may be silica rather than calcium — and [the spots on your faucets need identifying before you treat anything](/blog/white-spots-on-faucets/).
-
-![Hand holding a glass being filled with tap water](https://images.pexels.com/photos/12644991/pexels-photo-12644991.jpeg)
 
 ## What to Do Next
 

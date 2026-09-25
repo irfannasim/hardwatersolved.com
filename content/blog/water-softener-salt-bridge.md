@@ -4,6 +4,7 @@ seoTitle: "Water Softener Salt Bridge: How to Find and Break It"
 seoDescription: "A water softener salt bridge leaves a full-looking tank with no brine underneath. The broom handle test finds it in ten seconds and costs nothing to fix."
 excerpt: "The brine tank looks fine. It is two-thirds full of salt, the lid closes, nothing is leaking — and the house has been hard for three weeks. A salt bridge is the fault that hides behind a reassuring surface, because the salt you can see is welded into an arch with an empty void beneath it, and the water underneath never touches a grain. It takes ten seconds to confirm, costs nothing to fix, and comes back within months unless you change what caused it."
 date: "2026-09-22"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/12842079/pexels-photo-12842079.jpeg"
@@ -42,6 +43,8 @@ Think of the tank in layers from the top down.
 
 The arch carries its own weight on the tank walls. That is the whole mechanism — a load-bearing shell of recrystallised salt that holds everything above it up while the salt below it dissolves away and leaves a cavity.
 
+![Cross-section of a water softener salt bridge: a fused salt crust arching wall to wall over an air void, beside a working brine tank](/diagrams/brine-tank-salt-bridge-vs-working-tank-cross-section.svg "From above, a bridged tank looks exactly like a working one")
+
 **Why the level stops falling.** Once the arch forms, the salt above it is structurally supported and has nowhere to go. It sits there indefinitely. A homeowner checking the tank sees a reassuring depth of salt and reasonably concludes salt is not the problem.
 
 **Why the softener reports success.** The control valve has no way to measure brine strength. It opens the injector, draws for the programmed number of minutes, rinses, and returns to service. With a bridge in place it draws nearly fresh water, achieves nothing, and logs a completed regeneration exactly as it always does.
@@ -57,7 +60,7 @@ If hardness came back abruptly and completely rather than over several days, che
 
 ## The Probe Test, Which Takes Ten Seconds
 
-![Yellow measuring tape stretched against a plain wall during home renovation work, the kind of simple depth measurement that confirms a salt bridge](https://images.pexels.com/photos/5691669/pexels-photo-5691669.jpeg)
+![Diagram of the broom handle test for a water softener salt bridge, showing the hard stop, the drop into the void and where to probe](/diagrams/salt-bridge-broom-handle-probe-test.svg "Resistance, a crack, then nothing: that is a bridge")
 
 There is no instrument for this and no reason to disassemble anything. You need a broom handle.
 
@@ -130,8 +133,6 @@ Breaking the bridge fixes today. These conditions decide whether you are doing i
 **Temperature swings.** An unheated garage that runs warm by day and cold by night cycles condensation onto the salt surface every single day.
 
 ## Getting Softening Back Afterwards
-
-![Water discharging steadily from an industrial metal pipe outdoors, comparable to the drain flow during the brine draw and rinse stages of a regeneration](https://images.pexels.com/photos/32200999/pexels-photo-32200999.jpeg)
 
 Clearing the bridge does not soften the water. The resin is still fully exhausted, and the brine tank still needs time to make usable brine.
 

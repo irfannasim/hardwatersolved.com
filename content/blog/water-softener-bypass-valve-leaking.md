@@ -4,6 +4,7 @@ seoTitle: "Water Softener Bypass Valve Leaking? 3 Easy, Lasting Fixes"
 seoDescription: "Water softener bypass valve leaking? Dried O-rings are the usual cause, and the same wear often lets hard water slip past the softener into the house."
 excerpt: "A bypass valve that nobody has touched in five years is the most likely part of a softener to start dripping, and the drip is the smaller of its two problems. The same dried, flattened O-rings that let water out of the valve body can also let raw water leak straight through it to the house side, so the softener regenerates on schedule, the salt goes down, and the taps quietly deliver partly hard water. One O-ring kit fixes both, and a two-minute routine once a year stops either happening again."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/34104333/pexels-photo-34104333.jpeg"
@@ -38,6 +39,8 @@ A bypass valve does two jobs. In service, it sends every drop of incoming water 
 
 **Why they fail together.** Both sets of O-rings sit in the same body, see the same water, the same pressure and the same years without movement. An O-ring that stays compressed in one position for a long time takes a permanent set. It loses its springiness and stops following the surface it seals against. When the valve finally moves — or when pressure spikes — it no longer rebounds. Outside, that is a leak. Inside, it is a bleed.
 
+![Water softener bypass valve diagram showing service and bypass flow, and worn internal O-rings letting hard water bleed through to the house](/diagrams/water-softener-bypass-valve-flow-and-bleed-through.svg "The same worn seals that drip outside can leak hard water through inside")
+
 **The three common bypass styles:**
 
 | Style | How it works | Where it usually leaks |
@@ -50,7 +53,7 @@ The walkthrough below covers the first two, which make up most leaks people sear
 
 ## Water Softener Bypass Valve Leaking: Pinpointing the Source
 
-![Close-up of a water droplet hanging from the end of a stainless steel faucet, the kind of tap where partly hard water from a leaking bypass shows up without any visible sign](https://images.pexels.com/photos/2583028/pexels-photo-2583028.jpeg)
+![Diagram of the four places a water softener bypass valve leaks: plunger stem, clip joint to the valve, pipe adapter joint and a cracked body](/diagrams/water-softener-bypass-valve-leak-points.svg "Where the first drop appears tells you which seal or part has failed")
 
 Dry everything first, then watch for thirty minutes in service and, if nothing shows, through a manual regeneration. Look for where water appears first, not where it ends up.
 
@@ -102,8 +105,6 @@ You need a hardness test kit that reads down to 1 gpg or lower. Test strips with
 
 ## Replacing Bypass O-Rings, Step by Step
 
-![Person holding a plumber's wrench ready for work, the kind of basic tool needed to isolate supply valves before a softener bypass is pulled for O-ring replacement](https://images.pexels.com/photos/8486927/pexels-photo-8486927.jpeg)
-
 **Parts and tools:** the O-ring kit for your specific bypass model, silicone grease, a small flat screwdriver or O-ring pick (plastic is kinder than metal), towels, a bucket, and a torch.
 
 **The one thing that catches people out.** Putting the softener in bypass does not isolate the bypass itself. It still sees full house pressure. You have to shut the water off upstream.
@@ -137,8 +138,6 @@ New O-rings stop most bypass leaks. They do not fix these:
 On most residential softeners the bypass is a separate plastic assembly that clips or screws onto the control valve, so replacing it does not mean replacing the valve. Make sure the replacement matches the valve model and the connection size, and ideally stick with the manufacturer's part.
 
 ## The Annual Exercise Routine
-
-![Person measuring near home plumbing and heating pipework, the kind of quick yearly check that keeps a softener bypass valve free to move and its seals supple](https://images.pexels.com/photos/5691536/pexels-photo-5691536.jpeg)
 
 The cheapest way to avoid both the leak and the bleed is to stop the O-rings taking a set. Clack uses self-lubricating EPDM seals in its bypass specifically "to help prevent valve seizing after long periods of non-use" — a sign that long periods without movement are exactly the condition manufacturers design against.
 

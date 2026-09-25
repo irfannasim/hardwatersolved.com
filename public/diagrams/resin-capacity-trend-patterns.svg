@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="g6rt-title g6rt-desc">
+<title id="g6rt-title">Water softener resin life: four capacity trend patterns</title>
+<desc id="g6rt-desc">Four illustrative charts of gallons treated between regenerations show how to read water softener resin life: a flat trend, normal 5 to 10 percent yearly attrition, a steep fall of 20 percent or more, and a sudden step down that usually is not the resin.</desc>
+<defs></defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Reading your resin capacity log</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Gallons between regenerations over time. The shapes are illustrative; your own log gives the numbers.</text>
+<rect class="box" x="30" y="92" width="340" height="190" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#15803d">Flat over two years</text>
+<text x="46" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">The bed is fine.</text>
+<text x="46" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Age is irrelevant.</text>
+<path d="M60,180 L60,270 L350,270" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M68,198 L348,198" fill="none" stroke="#15803d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="390" y="92" width="340" height="190" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="406" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">Falling 5 to 10% a year</text>
+<text x="406" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Normal attrition. Plan for the</text>
+<text x="406" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">far end of the published range.</text>
+<path d="M420,180 L420,270 L710,270" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M428,196 L708,226" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="30" y="296" width="340" height="190" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="324" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#dc2626">Falling 20% or more a year</text>
+<text x="46" y="344" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Something is actively degrading</text>
+<text x="46" y="361" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">the bed. Find it before replacing.</text>
+<path d="M60,384 L60,474 L350,474" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M68,398 L348,468" fill="none" stroke="#dc2626" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="390" y="296" width="340" height="190" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="406" y="324" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#52697a">Sudden step down, then flat</text>
+<text x="406" y="344" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Usually not the resin: a changed</text>
+<text x="406" y="361" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">setting, resin loss, a larger household.</text>
+<path d="M420,384 L420,474 L710,474" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M428,402 L558,402 L568,444 L708,444" fill="none" stroke="#52697a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="30" y="502" width="700" height="64" rx="12" fill="#e0f2f1" stroke="#0e7490" stroke-width="1.5"/>
+<text x="46" y="528" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Worked example: a 32,000-grain unit on 15 gpg water</text>
+<text x="46" y="552" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">1,650 gallons per cycle three years ago, 980 now: about 40% of working capacity lost</text>
+</svg>

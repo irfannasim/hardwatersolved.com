@@ -4,6 +4,7 @@ seoTitle: "Water Softener Maintenance Schedule: 5 Easy Monthly Checks"
 seoDescription: "A water softener maintenance schedule: five minutes a month and one hour a year prevents most service calls. Checklist, flood checks and a printable log."
 excerpt: "Most softener service calls are for faults that were visible weeks earlier to anyone who looked: a salt level that had not moved, a regeneration count that had crept up, a damp ring under the tank. The schedule below is five minutes a month and an hour a year, and the one number it asks you to write down each month catches resin failure months before the water goes hard."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/7718755/pexels-photo-7718755.jpeg"
@@ -42,8 +43,6 @@ Every task on this schedule is something an owner can do without tools beyond a 
 
 ## The Monthly Five Minutes
 
-![Close-up of a person ticking items off a checklist with a pen, the quick monthly routine that keeps a water softener on schedule](https://images.pexels.com/photos/12234106/pexels-photo-12234106.jpeg)
-
 Do these in the same order every month so none gets skipped.
 
 1. **Salt level.** Lift the lid and note the height. Keep it between one third and two thirds. Topping up to the rim is what causes bridges.
@@ -57,8 +56,6 @@ Do these in the same order every month so none gets skipped.
 **The two readings people misread.** A salt level that has not moved is not good news. It means salt is not being used, which points to a bridge or no brine draw. A salt level that has dropped far more than usual is also not good news. It means the unit is regenerating more often than it should, and the log tells you why.
 
 ## Gallons Between Regenerations: The Number That Warns You First
-
-![Row of exposed water meters set into a tiled wall, the kind of meter reading that tracks gallons treated between softener regenerations](https://images.pexels.com/photos/16258658/pexels-photo-16258658.jpeg)
 
 This is the one column that turns a routine checklist into an early warning system.
 
@@ -86,7 +83,7 @@ A demand-initiated softener regenerates when it has treated a set number of gall
 
 ## External Tank Inspection Points That Catch Floods Early
 
-![Close-up of a leaking plastic pipe with water dripping from a worn joint, the kind of slow seep that an external softener inspection is meant to catch](https://images.pexels.com/photos/15206136/pexels-photo-15206136.jpeg)
+![Water softener maintenance schedule inspection map with ten numbered check points on the mineral tank, valve, brine tank and floor](/diagrams/water-softener-external-inspection-points-map.svg "Ten places to look each month; a red finding means stop and call someone")
 
 A softener sits under mains pressure all day, every day, usually in a basement or utility room nobody visits. Most water-damage failures start as a small seep that was visible for weeks. These are the places to look.
 
@@ -108,8 +105,6 @@ A softener sits under mains pressure all day, every day, usually in a basement o
 **Which findings mean stop and call someone:** a bulging or cracked mineral tank, water leaking from the tank-to-valve joint, or any leak you cannot isolate with the bypass. Those are not tighten-and-watch jobs.
 
 ## The Annual Hour
-
-![Flood water pooled across a concrete floor at the foot of a staircase, the basement damage that an annual softener inspection is designed to prevent](https://images.pexels.com/photos/7924140/pexels-photo-7924140.jpeg)
 
 Do it at the same time every year, when the salt is low and you have an hour free. Spring works well, since it catches any damage from a cold winter.
 

@@ -4,6 +4,7 @@ seoTitle: "How to Test Water Hardness at Home: 3 Proven Methods"
 seoDescription: "How to test water hardness at home three ways — strips, a titration kit, or your utility report. Plus the sampling mistake that makes most home results useless."
 excerpt: "Most home hardness tests fail on technique, not on the kit. Here are the three ways to get a number, what each one is actually accurate to, and where in the house to draw the sample."
 date: "2026-09-07"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Water Testing"
 featuredImage: "https://images.pexels.com/photos/11066339/pexels-photo-11066339.jpeg"
@@ -75,8 +76,6 @@ Two caveats worth knowing before you rely on it:
 **It won't be in grains per gallon.** Reports use mg/L as calcium carbonate. Divide by 17.1 to convert, so 171 mg/L becomes 10 gpg.
 
 Private well owners have no report to fall back on. The [CDC's guidance on home water treatment](https://www.cdc.gov/drinking-water/about/about-home-water-treatment-systems.html) is direct about the order of operations: test first, then choose treatment based on what the test shows.
-
-![Laboratory glassware and test tubes used for certified water analysis](https://images.pexels.com/photos/9243559/pexels-photo-9243559.jpeg)
 
 ## The Sampling Mistakes That Ruin Results
 

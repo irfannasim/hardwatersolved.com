@@ -22,6 +22,28 @@ const manrope = Manrope({
 
 const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
 
+// Dev only: browser extensions (Bitdefender's bis_skin_checked / bis_register /
+// __processed_*) write attributes into the DOM before React hydrates, and the dev
+// overlay reports them as a hydration mismatch. Strip them as they appear, then
+// stop watching once the page has loaded. Production ignores these mismatches.
+const STRIP_EXTENSION_ATTRIBUTES = `(() => {
+    const isExt = (n) => n.startsWith('bis_') || n.startsWith('__processed_');
+    const clean = (el) => {
+        for (const a of Array.from(el.attributes || [])) if (isExt(a.name)) el.removeAttribute(a.name);
+    };
+    const obs = new MutationObserver((records) => {
+        for (const r of records) {
+            if (r.type === 'attributes' && r.attributeName && isExt(r.attributeName)) clean(r.target);
+            for (const n of r.addedNodes || []) if (n.nodeType === 1) clean(n);
+        }
+    });
+    obs.observe(document.documentElement, { attributes: true, childList: true, subtree: true });
+    window.addEventListener('load', () => {
+        document.querySelectorAll('*').forEach(clean);
+        setTimeout(() => obs.disconnect(), 3000);
+    });
+})();`;
+
 export const metadata: Metadata = {
     title: process.env.NEXT_PUBLIC_SITE_TITLE || "Hard Water Solved",
     description:
@@ -48,8 +70,11 @@ export default function RootLayout({
     children: React.ReactNode;
 }>) {
     return (
-        <html lang="en" className={`${inter.variable} ${manrope.variable}`}>
+        <html lang="en" className={`${inter.variable} ${manrope.variable}`} suppressHydrationWarning>
             <head>
+                {process.env.NODE_ENV === 'development' && (
+                    <script dangerouslySetInnerHTML={{ __html: STRIP_EXTENSION_ATTRIBUTES }} />
+                )}
                 <Script
                     src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
                     strategy="afterInteractive"
@@ -65,7 +90,7 @@ export default function RootLayout({
                 </Script>
                 <ClarityAnalytics projectId={ENABLE_ANALYTICS ? CLARITY_ID : undefined} />
             </head>
-            <body>
+            <body suppressHydrationWarning>
                 {children}
             </body>
         </html>

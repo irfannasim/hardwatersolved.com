@@ -4,6 +4,7 @@ seoTitle: "Water Softener After Flooding: 3 Parts, 3 Honest Verdicts"
 seoDescription: "Water softener after flooding? A submerged control head is usually finished. The resin may be saved, but only after sanitizing and a clean bacteria test."
 excerpt: "The water is out of the basement and the softener is still standing in the tide line. Whether it can go back into service depends on which of its three parts went under: the control head, the brine tank or the mineral tank. Each has a different, honest verdict. This guide takes you through them, then the sanitizing and bacteria-testing steps that have to happen before softened water goes back to the kitchen tap, and the paperwork that keeps an insurance claim alive."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/28447774/pexels-photo-28447774.jpeg"
@@ -56,6 +57,8 @@ Find the high-water mark on the wall or the cabinet, then compare it with where 
 - **Through the valve.** If the control head was fully submerged, water can get past seals and caps into the valve's flow paths.
 
 If none of those routes was open, the flood only touched the outside of the mineral tank. That is the best result you can hope for.
+
+![Diagram of a water softener after flooding showing the waterline, a verdict for each component, and the three routes floodwater takes into the resin](/diagrams/water-softener-flood-damage-waterline-and-entry-routes.svg "Where the water reached decides each part's verdict. Check all three entry routes")
 
 ## The Electrical Verdict: Why the Control Head Rarely Comes Back
 

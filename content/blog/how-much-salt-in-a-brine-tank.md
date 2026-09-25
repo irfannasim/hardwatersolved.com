@@ -4,6 +4,7 @@ seoTitle: "How Much Salt Should Be in a Brine Tank? The Right Level"
 seoDescription: "How much salt in a brine tank: a few inches above the water line, never more than two thirds full. Overfilling bridges; refilling late means hard water."
 excerpt: "Two pieces of advice circulate about brine tank salt levels and they contradict each other. The bag says keep it full. The manual says do not. One of them is written by the people who sell you salt, and following it reliably produces the hardened crust that stops the softener working — which is then diagnosed as a fault and fixed with a service call. There is a correct band, it is narrower than most people think, and it is measured against the water line rather than the tank."
 date: "2026-09-22"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/11616420/pexels-photo-11616420.jpeg"
@@ -16,7 +17,7 @@ faqs:
   - question: "How many inches of salt above the water line is correct?"
     answer: "Three to four inches is the usual target. A modern dry brine tank holds only about two to four inches of standing water at the bottom after a cycle, so three to four inches of salt above that gives full brine saturation with a comfortable reserve. Less than two inches above the water line risks the salt being consumed before the next refill, which means a regeneration runs with weak brine and hardness breaks through."
   - question: "How often should I add salt to my water softener?"
-    answer: "Check monthly and refill when the level reaches about a quarter of the tank. Most households on a correctly sized unit go through roughly one 40 lb bag per person every one to two months, but the real figure depends on water hardness, water use and how efficiently the unit regenerates. Refilling on a measured level rather than a fixed schedule is more reliable than either extreme."
+    answer: "Check monthly and refill when the level drops to about one third of the tank. Most households on a correctly sized unit go through roughly one 40 lb bag per person every one to two months, but the real figure depends on water hardness, water use and how efficiently the unit regenerates. Refilling on a measured level rather than a fixed schedule is more reliable than either extreme."
   - question: "What happens if there is too much salt in a brine tank?"
     answer: "Nothing good and nothing useful. Brine reaches saturation with far less salt than most tanks hold, so extra salt does not produce stronger brine or better softening. What it does produce is weight on the lower layers, which compacts and fuses them into a bridge, and a larger surface exposed to humid air, which accelerates the same process. Overfilled tanks also make it harder to spot a bridge, because the level appears healthy either way."
   - question: "What happens if a water softener runs out of salt?"
@@ -33,21 +34,7 @@ The mistake nearly everyone makes is measuring salt against the tank. What matte
 
 A modern dry brine tank holds only about two to four inches of standing water at the bottom after a cycle completes. Everything above that is a reservoir waiting its turn.
 
-```
-        ┌─────────────────────┐  ← tank rim
-        │                     │
-        │   KEEP CLEAR        │  6+ inches of clear space
-        │                     │     (bridging zone if filled)
-        ├─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┤  ← two-thirds line: ceiling
-        │                     │
-        │   WORKING BAND      │  refill to here
-        │   (salt lives here) │
-        │                     │
-        ├─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┤  ← one-third line: refill trigger
-        │  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  │  3–4 inches of salt above water
-        │≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈│  ← water line (2–4 inches deep)
-        └─────────────────────┘  ← floor, grid plate, brine well base
-```
+![Brine tank cross-section showing the correct salt level band between one third and two thirds full, 3–4 inches above a 2–4 inch water line.](/diagrams/brine-tank-salt-level-zones.svg "Measure salt against the water line, not the tank: 3–4 inches above water, 6 inches below the rim.")
 
 **The three numbers that define it:**
 
@@ -63,8 +50,6 @@ A modern dry brine tank holds only about two to four inches of standing water at
 
 ## Why "Keep It Full" Is the Wrong Instruction
 
-![Measuring tapes and rulers laid out showing millimetre, centimetre and inch markings, the measurement discipline that a brine tank salt level actually requires](https://images.pexels.com/photos/19585984/pexels-photo-19585984.jpeg)
-
 The advice is everywhere: on the bag, on retail shelf tags, from delivery services. It is convenient for everyone except the softener.
 
 **What a full tank actually does:**
@@ -76,7 +61,7 @@ The advice is everywhere: on the bag, on retail shelf tags, from delivery servic
 
 **The circularity worth noticing.** Overfilling causes bridging. Bridging causes hard water. Hard water gets diagnosed as a softener fault. The fault is fixed — often by a technician who breaks the bridge with a broom handle in ninety seconds — and the homeowner is advised to keep the tank topped up. The full sequence and the fix are in [how to identify and break a salt bridge](/blog/water-softener-salt-bridge/).
 
-**What to do instead:** refill when the level drops to roughly a quarter, and refill *to* two thirds rather than to the top. In a tank that holds four bags, that is two bags at a time rather than four, twice as often. Same salt consumed, far less sitting around waiting.
+**What to do instead:** refill when the level drops to about one third, and refill *to* two thirds rather than to the top. In a tank that holds four bags, that is a bag or two at a time rather than four, more often. Same salt consumed, far less sitting around waiting.
 
 ## How Much to Add, and How Often
 
@@ -112,7 +97,7 @@ The EPA's overview of [cation exchange water softeners](https://www.epa.gov/wate
 
 ## Reading the Level: Falling, Stalled and Rising
 
-![Dimly lit basement corridor lined with overhead piping, the typical location where a brine tank sits and where its salt level goes unchecked for months](https://images.pexels.com/photos/18343425/pexels-photo-18343425.jpeg)
+![Three brine tank cross-sections showing a normally falling salt level, a stalled level caused by a salt bridge, and water rising over the salt.](/diagrams/brine-tank-salt-level-states-falling-stalled-bridge.svg "A stalled salt level means a bridge or a failed brine draw, not a full tank.")
 
 The level itself is a diagnostic instrument, and it reports three distinct states.
 
@@ -130,8 +115,6 @@ Either way the water is going hard, and confirming that is the first step — th
 **One more thing the level hides.** A tank can have a perfectly healthy salt level, fall normally, and still have three inches of sludge on the floor blocking the brine well openings. The level tells you about consumption; it tells you nothing about the tank floor. That is what the annual clean is for, and the residue it turns up is itself informative — see [why softener salt looks brown or dirty](/blog/water-softener-salt-looks-brown-or-dirty/).
 
 ## Running Too Low, and Recovering From Empty
-
-![Water filtration equipment and machinery mounted on an exterior wall, the treatment hardware whose performance depends on brine being available when a regeneration starts](https://images.pexels.com/photos/1029635/pexels-photo-1029635.jpeg)
 
 The other failure direction gets less attention because it is less common, but the recovery has a step people skip.
 
@@ -158,7 +141,7 @@ The other failure direction gets less attention because it is less common, but t
 2. **Target three to four inches of salt above it** as the absolute minimum.
 3. **Keep the fill between one third and two thirds** of tank height.
 4. **Leave six inches clear below the rim.** Always.
-5. **Check monthly** and refill at about a quarter.
+5. **Check monthly** and refill at about one third.
 6. **Break up the surface with a broom handle** before every refill.
 7. **Refill to two thirds, never to the top,** whatever the bag says.
 8. **Log the date and bag count** so you learn your household's real rate.

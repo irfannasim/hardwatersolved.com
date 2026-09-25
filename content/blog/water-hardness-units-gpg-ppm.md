@@ -4,6 +4,7 @@ seoTitle: "Grains per Gallon vs PPM: 6 Units Converted, 1 Costly Error"
 seoDescription: "Grains per gallon vs ppm: 1 gpg equals 17.1 ppm as calcium carbonate. Convert gpg, mg/L, °dH and mmol/L, and see why two labs report different numbers."
 excerpt: "One grain per gallon is 17.1 ppm, and that single factor covers most of what you need. The trouble starts with the small print — 'as CaCO₃', calcium versus total hardness, and which gallon — which is where two labs end up reporting different numbers for the same water."
 date: "2026-09-14"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Water Testing"
 featuredImage: "https://images.pexels.com/photos/7722567/pexels-photo-7722567.jpeg"
@@ -33,8 +34,6 @@ The two units measure the same thing in different systems.
 - **Parts per million** is a ratio: one unit of hardness per million units of water. Because a litre of water weighs a kilogram, one ppm is one milligram per litre. [Penn State Extension](https://extension.psu.edu/water-softening) states it directly: ppm "is also equal to milligrams/liter," while a gpg "is used exclusively as a hardness unit and equals approximately 17 mg/l or ppm."
 
 Divide 64.8 mg by 3.785 L and you get 17.118 mg/L. That's the whole conversion. Charts that use 17 or 17.14 are rounding the same figure.
-
-![Hand writing a conversion in a notebook beside a calculator, converting a water hardness reading from ppm to grains per gallon](https://images.pexels.com/photos/5877591/pexels-photo-5877591.jpeg)
 
 ### Quick conversion table
 
@@ -70,6 +69,8 @@ Two rows in that table catch people out.
 **The German degree is not based on calcium carbonate.** It's defined as 10 mg/L of calcium *oxide*, which is lighter than calcium carbonate. That's why 1 °dH (17.85 mg/L) looks almost identical to 1 gpg (17.12 mg/L) but isn't. A dishwasher asking you to set "18 °dH" wants water of about 320 mg/L, or 18.8 gpg, not 18 gpg. Close, but not interchangeable.
 
 **The English degree uses the imperial gallon.** A UK source that says water is "10 grains per gallon" usually means Clark degrees, because an imperial gallon is 4.546 litres rather than 3.785. Ten Clark degrees is 8.3 US gpg. If you're reading a British forum or an old UK manual, convert before you compare.
+
+![Bar comparison of water hardness units in mg/L as calcium carbonate, showing gpg, German, French and Clark degrees and mmol/L](/diagrams/water-hardness-unit-sizes-compared-mg-l-caco3.svg "How big each hardness unit is: °dH looks like gpg but isn't")
 
 The figures for gpg, °dH and Clark degrees match the [conversion factors published for the grain per gallon](https://en.wikipedia.org/wiki/Grain_per_gallon) (1 Clark degree = 0.8327 gpg; 1 dGH = 1.0426 gpg).
 

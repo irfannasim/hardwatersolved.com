@@ -4,6 +4,7 @@ seoTitle: "Cloudy Glasses From Dishwasher: Hard Water or Etching?"
 seoDescription: "Cloudy glasses from the dishwasher have two causes with opposite fixes. A 5-minute vinegar test separates removable hard water film from permanent etching."
 excerpt: "One of these two causes wipes away in five minutes. The other has already destroyed the glass. The test that tells them apart costs nothing, and the answer changes what you do about your water."
 date: "2026-09-09"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/7809791/pexels-photo-7809791.jpeg"
@@ -44,7 +45,7 @@ Do this before you buy anything or change any setting.
 
 That third row is the one that saves money. If a 30-second acid rub does nothing, no product on the shelf will do anything either, and you should stop buying them.
 
-![Close-up of crystal drinking glasses with a geometric cut design showing surface clarity](https://images.pexels.com/photos/11276658/pexels-photo-11276658.jpeg)
+![Cross-section diagram comparing cloudy glasses: removable hard water mineral film, iridescent silica film and permanent etching of the glass surface](/diagrams/glass-surface-hard-water-film-vs-silica-film-vs-etching.svg "Film sits on the glass; etching is damage to the glass itself")
 
 ## What Cloudy Glasses Actually Look Like Under Magnification
 
@@ -74,7 +75,7 @@ So the household that softened its water, kept the same detergent dose, ran the 
 
 If you softened recently and are also seeing [white spots and soap scum that did not go away](/blog/white-spots-on-faucets/), that combination points at dosing rather than at the softener failing.
 
-![Bartender polishing a wine glass with a cloth to a clear finish](https://images.pexels.com/photos/3092970/pexels-photo-3092970.jpeg)
+![Diagram showing why softened water etches glass: the same detergent dose that hardness would consume reaches the glass at full strength](/diagrams/dishwasher-detergent-hard-vs-soft-water-glass-etching.svg "Without hardness to consume it, the full detergent dose attacks the glass")
 
 ## Rescuing Cloudy Glasses That Are Only Filmed
 

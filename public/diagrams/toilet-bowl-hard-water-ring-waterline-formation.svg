@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="twr-title twr-desc">
+<title id="twr-title">How a hard water ring forms at the toilet waterline</title>
+<desc id="twr-desc">Cross-section of a toilet bowl showing evaporation concentrating minerals at the waterline, iron and manganese oxidising in the oxygenated surface zone, and flushing spreading the hard water ring into a band an inch or two wide.</desc>
+<defs><clipPath id="twr-bowl"><path d="M100,140 C100,330 150,390 230,390 C310,390 360,330 360,140 z"/></clipPath><marker id="twr-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="twr-t" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why the hard water ring forms at the waterline</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Side section of a toilet bowl. The band is where evaporation and air meet the water.</text>
+<path d="M100,140 C100,330 150,390 230,390 C310,390 360,330 360,140" fill="none" stroke="#e2e8f0" stroke-width="22"/>
+<path d="M100,140 C100,330 150,390 230,390 C310,390 360,330 360,140" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="70" y="124" width="44" height="16" rx="6" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="346" y="124" width="44" height="16" rx="6" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<g clip-path="url(#twr-bowl)"><rect x="80" y="252" width="300" height="160" fill="#dbeafe"/><path d="M80,252 L380,252" stroke="#0e7490" stroke-width="2"/></g>
+<rect x="99" y="234" width="8" height="36" rx="3" fill="#a8a29e"/>
+<rect x="353" y="234" width="8" height="36" rx="3" fill="#a8a29e"/>
+<rect x="99" y="244" width="8" height="10" fill="#b45309"/>
+<rect x="353" y="244" width="8" height="10" fill="#b45309"/>
+<path class="ln" d="M170,244 Q162,224 170,206" fill="none" stroke="#0e7490" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#twr-s)"/>
+<path class="ln" d="M230,244 Q222,224 230,206" fill="none" stroke="#0e7490" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#twr-s)"/>
+<path class="ln" d="M290,244 Q282,224 290,206" fill="none" stroke="#0e7490" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#twr-s)"/>
+<text x="230" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">standing water</text>
+<path class="ln" d="M384,234 L392,234 L392,270 L384,270" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="420" y="128" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water evaporates at the surface</text>
+<text x="420" y="147" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Minerals stay behind and concentrate</text>
+<text x="420" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">in a thin band at the waterline</text>
+<path class="ln" d="M416,160 L300,208" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#twr-t)"/>
+<path class="ln" d="M414,212 L368,246" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#twr-t)"/>
+<text x="420" y="206" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Most oxygenated zone</text>
+<text x="420" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Dissolved iron and manganese oxidise</text>
+<text x="420" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">here and drop out as coloured solids</text>
+<text x="420" y="284" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Every flush moves the level</text>
+<text x="420" y="303" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">so the deposit builds across a band</text>
+<text x="420" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">an inch or two wide, not a single line</text>
+<path class="ln" d="M416,288 L398,256" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#twr-t)"/>
+<rect class="box" x="420" y="336" width="310" height="94" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="436" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">An old ring is layered</text>
+<rect x="436" y="370" width="16" height="10" fill="#a8a29e"/>
+<rect x="436" y="380" width="16" height="10" fill="#b45309"/>
+<rect x="436" y="390" width="16" height="10" fill="#a8a29e"/>
+<text x="464" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">calcium scale traps iron oxide,</text>
+<text x="464" y="397" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">which traps more calcium</text>
+<text x="436" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Expect two passes with different chemistry</text>
+<rect class="box" x="30" y="446" width="700" height="52" rx="10" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="46" y="468" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Black ring? Position tells you which:</text>
+<text x="46" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">manganese sits at or below the waterline and feels slick; mould grows above it and under the rim.</text>
+<rect x="30" y="516" width="26" height="12" rx="2" fill="#a8a29e"/><text x="64" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">calcium scale</text>
+<rect x="176" y="516" width="26" height="12" rx="2" fill="#b45309"/><text x="210" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">iron oxide</text>
+<rect x="310" y="516" width="26" height="12" rx="2" fill="#dbeafe"/><text x="344" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">bowl water</text>
+<rect x="450" y="519" width="26" height="6" rx="3" fill="#0e7490"/><text x="484" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">evaporation</text>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" width="760" height="650" role="img" aria-labelledby="dlz-title dlz-desc">
+<title id="dlz-title">Water softener drain line leaking: the four zones from valve outlet to discharge end</title>
+<desc id="dlz-desc">Diagram of a water softener drain line split into four leak zones: the valve outlet with its drain elbow and flow control, the first connection where tubing is clamped on a barb, the run along the wall or floor where sags split, and the discharge end with its air gap.</desc>
+<defs><pattern id="dlz-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><marker id="dlz-m78716c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker></defs>
+<rect width="760" height="650" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">The four zones of a softener drain line</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Find the first wet zone. Each one fails in its own way.</text>
+<path class="ln" d="M153,126 L153,134 L187,134 L187,126" fill="none" stroke="#3a5a72" stroke-width="1.2"/>
+<circle cx="170" cy="106" r="13" fill="#0b2f4a"/>
+<text x="170" y="111" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<path class="ln" d="M193,126 L193,134 L247,134 L247,126" fill="none" stroke="#3a5a72" stroke-width="1.2"/>
+<circle cx="220" cy="106" r="13" fill="#0b2f4a"/>
+<text x="220" y="111" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<path class="ln" d="M253,126 L253,134 L595,134 L595,126" fill="none" stroke="#3a5a72" stroke-width="1.2"/>
+<circle cx="424" cy="106" r="13" fill="#0b2f4a"/>
+<text x="424" y="111" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<path class="ln" d="M607,126 L607,134 L697,134 L697,126" fill="none" stroke="#3a5a72" stroke-width="1.2"/>
+<circle cx="652" cy="106" r="13" fill="#0b2f4a"/>
+<text x="652" y="111" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<rect x="45" y="200" width="90" height="220" rx="20" fill="url(#dlz-beads)" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="30" y="150" width="120" height="50" rx="8" fill="#0b2f4a"/>
+<text x="90" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">VALVE</text>
+<rect x="150" y="162" width="40" height="26" rx="4" fill="#3a5a72"/>
+<path d="M190,166 L214,170 L190,174 L214,178 L190,182 z" fill="#94a3b8" stroke="none"/>
+<path class="ln" d="M192,175 L300,182 L360,186 Q440,262 520,196 L590,200 Q640,202 640,240 L640,292" fill="none" stroke="#78716c" stroke-width="9" stroke-linecap="butt" stroke-linejoin="round" marker-end="url(#dlz-m78716c)"/>
+<rect x="222" y="165" width="9" height="22" rx="2" fill="#0b2f4a"/>
+<rect x="296" y="171" width="8" height="22" rx="2" fill="#0b2f4a"/>
+<rect x="356" y="175" width="8" height="22" rx="2" fill="#0b2f4a"/>
+<rect x="516" y="185" width="8" height="22" rx="2" fill="#0b2f4a"/>
+<rect x="586" y="189" width="8" height="22" rx="2" fill="#0b2f4a"/>
+<text x="425" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">clips hold a steady fall</text>
+<text x="440" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">unsupported sag: water sits in</text>
+<text x="440" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">the low point and it splits</text>
+<text x="236" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">clamp</text>
+<text x="236" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">on barb</text>
+<text x="170" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">drain</text>
+<text x="170" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">elbow</text>
+<rect x="620" y="320" width="40" height="100" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<rect x="30" y="420" width="700" height="3" fill="#cbd5e1"/>
+<text x="612" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">air gap</text>
+<path class="ln" d="M616,308 L634,308" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="640" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">standpipe, floor drain</text>
+<text x="640" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">or laundry tub</text>
+<rect class="box" x="30" y="478" width="340" height="74" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="54" cy="500" r="13" fill="#0b2f4a"/>
+<text x="54" y="505" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="76" y="505" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Valve outlet</text>
+<text x="44" y="527" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Drain elbow, flow control, O-ring, clip</text>
+<text x="44" y="544" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">Leak: drip at the elbow during backwash</text>
+<rect class="box" x="390" y="478" width="340" height="74" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="414" cy="500" r="13" fill="#0b2f4a"/>
+<text x="414" y="505" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<text x="436" y="505" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">First connection</text>
+<text x="404" y="527" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Tubing clamped on a barb, or nut and insert</text>
+<text x="404" y="544" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">Leak: seep or spray at the tube end</text>
+<rect class="box" x="30" y="562" width="340" height="74" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="54" cy="584" r="13" fill="#0b2f4a"/>
+<text x="54" y="589" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<text x="76" y="589" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">The run</text>
+<text x="44" y="611" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Tubing along the wall, floor or ceiling</text>
+<text x="44" y="628" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">Leak: wet line on the floor, drip from a low point</text>
+<rect class="box" x="390" y="562" width="340" height="74" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<circle cx="414" cy="584" r="13" fill="#0b2f4a"/>
+<text x="414" y="589" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<text x="436" y="589" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Discharge end</text>
+<text x="404" y="611" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Air gap, standpipe, floor drain or laundry tub</text>
+<text x="404" y="628" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">Leak: water on the floor near the drain</text>
+</svg>

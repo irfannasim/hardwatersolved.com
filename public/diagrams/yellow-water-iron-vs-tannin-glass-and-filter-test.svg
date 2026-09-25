@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 544" width="760" height="544" role="img" aria-labelledby="g7ivt-title g7ivt-desc">
+<title id="g7ivt-title">Iron vs tannin test for yellow water</title>
+<desc id="g7ivt-desc">Iron vs tannin tests for yellow softened water: after 24 hours iron settles as orange sediment and stains a coffee filter while the water clears, but tannin stays evenly yellow in the glass and passes through white filter paper.</desc>
+<defs><pattern id="g7ivt-rust" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#fde7cf"/><circle cx="3" cy="3" r="1.6" fill="#b45309"/></pattern></defs>
+<rect width="760" height="544" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Iron or tannins? Two cheap tests settle it</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Iron is a particle: it settles and filters out. Tannin is dissolved: it stays in the water.</text>
+<text x="315" y="106" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Overnight glass (24 h)</text>
+<text x="595" y="106" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Coffee-filter test</text>
+<rect class="box" x="30" y="124" width="140" height="160" rx="10" fill="#f8fafc" stroke="#b45309" stroke-width="2"/>
+<text x="46" y="158" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#b45309">IRON</text>
+<text x="46" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">(ferric)</text>
+<text x="46" y="205" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">a particle:</text>
+<text x="46" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">filterable</text>
+<rect x="180" y="124" width="270" height="160" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="460" y="124" width="270" height="160" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="201" y="160" width="54" height="84" fill="#fdf6e3" stroke="none" stroke-width="2"/><rect x="201" y="244" width="54" height="14" fill="#b45309" stroke="none" stroke-width="2"/>
+<path d="M198,150 L198,260 L258,260 L258,150" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linejoin="round"/>
+<text x="274" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Orange sediment drops</text>
+<text x="274" y="201" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">to the bottom; water</text>
+<text x="274" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">above is clearer</text>
+<rect x="488" y="212" width="56" height="46" fill="#fdf6e3" stroke="none" stroke-width="2"/>
+<path d="M486,204 L486,260 L546,260 L546,204" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linejoin="round"/>
+<path d="M476,148 L556,148 L516,200 z" fill="url(#g7ivt-rust)" stroke="#3a5a72" stroke-width="2" stroke-linejoin="round"/>
+<text x="572" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Paper: orange or</text>
+<text x="572" y="193" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">rust-brown stain</text>
+<text x="572" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water: noticeably</text>
+<text x="572" y="231" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">clearer</text>
+<rect class="box" x="30" y="300" width="140" height="160" rx="10" fill="#f8fafc" stroke="#a16207" stroke-width="2"/>
+<text x="46" y="334" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#a16207">TANNINS</text>
+<text x="46" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">dissolved</text>
+<text x="46" y="381" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">organic colour:</text>
+<text x="46" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">not filterable</text>
+<rect x="180" y="300" width="270" height="160" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="460" y="300" width="270" height="160" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="201" y="336" width="54" height="98" fill="#f2cf6f" stroke="none" stroke-width="2"/>
+<path d="M198,326 L198,436 L258,436 L258,326" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linejoin="round"/>
+<text x="274" y="358" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Colour unchanged and</text>
+<text x="274" y="377" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">evenly spread; nothing</text>
+<text x="274" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">on the bottom</text>
+<rect x="488" y="388" width="56" height="46" fill="#f2cf6f" stroke="none" stroke-width="2"/>
+<path d="M486,380 L486,436 L546,436 L546,380" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linejoin="round"/>
+<path d="M476,324 L556,324 L516,376 z" fill="#ffffff" stroke="#3a5a72" stroke-width="2" stroke-linejoin="round"/>
+<text x="572" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Paper: stays white</text>
+<text x="572" y="391" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water: still yellow</text>
+<rect class="box" x="30" y="480" width="700" height="40" rx="20" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="380" y="505" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">A filter removes particles, not dissolved molecules. Tannins are dissolved.</text>
+</svg>

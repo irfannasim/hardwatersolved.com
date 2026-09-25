@@ -4,6 +4,7 @@ seoTitle: "Water Softener Bypass Valve: 3 Proven Tests, Twice a Year"
 seoDescription: "A seized water softener bypass valve turns any repair into a whole-house shutdown. Three quick tests twice a year prove it moves, diverts and seals."
 excerpt: "Most people touch their softener bypass only when something has already gone wrong, and that is exactly when it turns out to be seized or not fully diverting. Moving it is not the same as testing it. With a hardness kit and ten minutes you can prove the valve actually sends all the water around the softener in bypass, lets none slip past in service, and still turns freely, and you can plan the shutoffs that keep a future repair from emptying the house."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/39458029/pexels-photo-39458029.jpeg"
@@ -37,6 +38,8 @@ Every test below depends on knowing what "bypass" and "service" look like on you
 | Three-valve loop | Two valves in the softener's inlet and outlet pipes and a third in a pipe joining them | Inlet and outlet closed, loop valve open | Inlet and outlet open, loop valve closed |
 
 The Clack positions come straight from Clack's [WS1 drawings and service manual](https://www.clackcorp.com/wp-content/uploads/2026/01/V3115-99-WS1-1.25-DRAWINGS-AND-SERVICE-MANUAL.pdf), which describes four positions for its bypass: normal operation, bypass, a diagnostic position, and a shut-off position. The last two turn out to be useful test tools.
+
+![Clack twin-rotor water softener bypass valve handle positions for normal service, bypass and shut-off, relative to the flow arrow](/diagrams/water-softener-clack-twin-rotor-bypass-handle-positions.svg "Both handles with the flow means service; both pointing to the centre means bypass")
 
 **If you have an integral bypass and a three-valve loop,** you have two independent ways to take the softener off line, which is the best layout for servicing. More on that below.
 
@@ -86,8 +89,6 @@ Some houses have a pipe that joins the hard supply to the soft side somewhere ot
 
 ## Exercising It Twice a Year Without Breaking It
 
-![Wall calendar page showing a grid of dates, the kind of reminder used to schedule a twice-yearly softener bypass valve exercise and hardness check](https://images.pexels.com/photos/11706725/pexels-photo-11706725.jpeg)
-
 Clack builds its bypass with "self-lubricating EPDM to help prevent valve seizing after long periods of non-use." Designing against seizure tells you that seizure after long periods of non-use is the expected failure. Moving the valve regularly is the owner's side of the same defence.
 
 **Pick two dates a year.** The clock changes in spring and autumn are easy to remember, and you will be looking at the softener's clock then anyway.
@@ -105,8 +106,6 @@ Add both dates to your [water softener maintenance schedule](/blog/water-softene
 
 ## If the Bypass Is Already Seized
 
-![Heavily rusted valve on an outdoor water pipe with flaking blue paint, an extreme example of the corrosion and seizing a neglected valve suffers when it is never operated](https://images.pexels.com/photos/17121314/pexels-photo-17121314.jpeg)
-
 A plastic bypass that will not move is a part replacement waiting to happen. Forcing it turns an O-ring job into a cracked body and a flooded floor.
 
 **What to do:**
@@ -121,7 +120,7 @@ A plastic bypass that will not move is a part replacement waiting to happen. For
 
 ## Planning Shutoffs So Service Never Drains the House
 
-![Tradesperson in a hard hat and high-visibility vest holding a large pipe wrench, the kind of plumber's visit worth combining with adding isolation valves around a softener](https://images.pexels.com/photos/8486978/pexels-photo-8486978.jpeg)
+![Diagram of a water softener bypass valve inside a three-valve loop, showing which valves are open and closed in service and in bypass](/diagrams/water-softener-three-valve-bypass-loop-service-vs-bypass.svg "With the loop open and both isolation valves shut, the softener comes out with the house on water")
 
 Putting the softener in bypass isolates the control valve. It does not isolate the bypass itself, which still sees full supply pressure. To replace a bypass, or a softener, you need a valve upstream of it, and ideally a way to keep water flowing to the house while the work is done.
 

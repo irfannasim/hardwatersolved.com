@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="g7cat-title g7cat-desc">
+<title id="g7cat-title">Water softener cation resin vs tannin anion resin</title>
+<desc id="g7cat-desc">Why a water softener cannot remove tannins: cation resin with fixed negative sites exchanges sodium for calcium, magnesium and some iron but repels negatively charged tannins, which anion resin with fixed positive sites captures.</desc>
+<defs><marker id="g7cat-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g7cat-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="g7cat-iron" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="g7cat-tan" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#a16207"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why a water softener can’t remove tannins</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Softener resin trades positive ions. Tannins carry a negative charge, so they pass straight by.</text>
+<rect class="box" x="30" y="92" width="340" height="32" rx="16" fill="#e0f2f1" stroke="#0e7490" stroke-width="1.5"/><text x="200" y="113.4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">SOFTENER: cation resin</text>
+<circle cx="180" cy="300" r="84" fill="#f6ead2" stroke="#e2b865" stroke-width="3"/>
+<circle cx="264.0" cy="300.0" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="264.0" y="305.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<circle cx="239.4" cy="359.4" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="239.4" y="364.9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<circle cx="120.6" cy="359.4" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="120.6" y="364.9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<circle cx="96.0" cy="300.0" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="96.0" y="305.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<circle cx="120.6" cy="240.6" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="120.6" y="246.1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<circle cx="180.0" cy="216.0" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="180.0" y="221.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<circle cx="239.4" cy="240.6" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="239.4" y="246.1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="180" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">fixed − sites</text>
+<text x="180" y="313" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">loaded with Na⁺</text>
+<text x="30" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">Ca²⁺, Mg²⁺</text>
+<path class="ln" d="M44,236 L84,262" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7cat-hard)"/>
+<text x="30" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#b45309">Fe²⁺, Mn²⁺</text>
+<text x="30" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(some)</text>
+<path class="ln" d="M44,370 L84,340" fill="none" stroke="#b45309" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7cat-iron)"/>
+<path class="ln" d="M180,398 L180,428" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7cat-soft)"/>
+<text x="194" y="430" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Na⁺ out</text>
+<ellipse cx="318" cy="166" rx="22" ry="13" fill="#fde68a" stroke="#a16207" stroke-width="2"/><text x="318" y="171" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#a16207">−</text>
+<text x="318" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#a16207">tannin</text>
+<path class="ln" d="M312,184 Q262,236 318,290" fill="none" stroke="#a16207" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7cat-tan)"/>
+<text x="290" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">repelled:</text>
+<text x="290" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">no exchange</text>
+<text x="30" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Removes calcium, magnesium,</text>
+<text x="30" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">some ferrous iron and manganese</text>
+<rect class="box" x="390" y="92" width="340" height="32" rx="16" fill="#fef9c3" stroke="#a16207" stroke-width="1.5"/><text x="560" y="113.4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#a16207">TANNIN UNIT: anion resin</text>
+<circle cx="580" cy="300" r="84" fill="#f1f5f9" stroke="#3a5a72" stroke-width="3"/>
+<circle cx="664.0" cy="300.0" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="664.0" y="305.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">+</text>
+<circle cx="639.4" cy="359.4" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="639.4" y="364.9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">+</text>
+<circle cx="520.6" cy="359.4" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="520.6" y="364.9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">+</text>
+<circle cx="496.0" cy="300.0" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="496.0" y="305.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">+</text>
+<circle cx="520.6" cy="240.6" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="520.6" y="246.1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">+</text>
+<circle cx="580.0" cy="216.0" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="580.0" y="221.5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">+</text>
+<circle cx="639.4" cy="240.6" r="11" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="639.4" y="246.1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">+</text>
+<text x="580" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">fixed + sites</text>
+<text x="580" y="313" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">hold the tannin</text>
+<ellipse cx="442" cy="166" rx="22" ry="13" fill="#fde68a" stroke="#a16207" stroke-width="2"/><text x="442" y="171" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#a16207">−</text>
+<text x="442" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#a16207">tannin</text>
+<path class="ln" d="M458,180 L500,222" fill="none" stroke="#a16207" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7cat-tan)"/>
+<text x="410" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">captured</text>
+<text x="390" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Removes tannins, other organics,</text>
+<text x="390" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">some sulphate and nitrate</text>
+<rect class="box" x="30" y="504" width="700" height="36" rx="18" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.5"/><text x="380" y="527.04" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Both regenerate with the same sodium chloride brine</text>
+</svg>

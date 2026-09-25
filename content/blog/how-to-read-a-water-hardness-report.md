@@ -4,6 +4,7 @@ seoTitle: "How to Read a Water Hardness Report: 5 Crucial Numbers"
 seoDescription: "How to read a water hardness report: which figures feed softener sizing, which are system-wide averages, and why your tap can sit outside the CCR range."
 excerpt: "A utility report and a lab report both print a hardness number, but only one of them describes your tap. Here is what every column means, which figures belong in a sizing calculation, and a real CCR range wide enough to change the softener you buy."
 date: "2026-09-14"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Water Testing"
 featuredImage: "https://images.pexels.com/photos/6963856/pexels-photo-6963856.jpeg"
@@ -130,7 +131,7 @@ Everything in the "No" and "Only as a check" rows is still worth reading. It jus
 
 Here is how the gap plays out in money. The utility figures are Phoenix's real 2025 range. Everything else, including the household's usage, the tap reading and the regeneration interval, is an **illustrative assumption** chosen to show the arithmetic, not a measured case.
 
-![Calculator resting on a printed report with charts and a pen, representing the arithmetic of sizing a softener from a hardness report](https://images.pexels.com/photos/33175667/pexels-photo-33175667.jpeg)
+![Number line of a water hardness report range from 10 to 17.6 gpg, showing how sizing from the midpoint undersizes a softener for this home's tap.](/diagrams/water-hardness-ccr-range-vs-tap-softener-sizing.svg "Size from your own tap, not the CCR midpoint.")
 
 **Assumptions:** four people using about 300 gallons a day in total, a softener set to regenerate every 7 days, no iron.
 

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 708" width="760" height="708" role="img" aria-labelledby="g6is-title g6is-desc">
+<title id="g6is-title">Water softener injector: brine draw, then slow rinse</title>
+<desc id="g6is-desc">Two-step diagram of a water softener injector: during brine draw it sucks brine from the brine tank into the water going to the resin; once the air check closes, plain water keeps flowing and the injector acts as the slow-rinse flow control.</desc>
+<defs><pattern id="g6is-bd" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><marker id="g6is-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g6is-b" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker></defs>
+<rect width="760" height="708" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">When the brine runs out, the injector keeps working</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Same parts in both steps. Only the air check and what flows through the injector change.</text>
+<rect class="box" x="30" y="92" width="340" height="496" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="120" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#7c3aed">1 · Brine draw</text>
+<rect x="44" y="242" width="130" height="220" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="46" y="292" width="126" height="168" fill="#ddd6fe"/>
+<rect x="280" y="242" width="70" height="220" rx="16" fill="#f4f9fb" stroke="#3a5a72" stroke-width="2"/>
+<rect x="285" y="262" width="60" height="194" rx="12" fill="url(#g6is-bd)"/>
+<rect x="130" y="218" width="12" height="226" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="126" y="442" width="20" height="18" rx="3" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<circle cx="136" cy="448" r="5" fill="#15803d"/>
+<rect x="180" y="172" width="90" height="36" rx="6" fill="#0b2f4a"/>
+<text x="225" y="195" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">INJECTOR</text>
+<path class="ln" d="M225,136 L225,166" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6is-h)"/>
+<text x="214" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">valve water</text>
+<path class="ln" d="M136,216 L136,190 L172,190" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6is-b)"/>
+<path class="ln" d="M272,190 L315,190 L315,234" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6is-b)"/>
+<text x="54" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">air check</text>
+<text x="54" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">open</text>
+<path class="ln" d="M92,414 L122,444" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="109" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">brine tank</text>
+<text x="315" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">resin</text>
+<text x="46" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Suction pulls brine up the brine line,</text>
+<text x="46" y="534" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">and the injector mixes it into the</text>
+<text x="46" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">water going to the resin.</text>
+<rect class="box" x="390" y="92" width="340" height="496" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="406" y="120" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#c2410c">2 · Slow rinse</text>
+<rect x="404" y="242" width="130" height="220" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="406" y="442" width="126" height="18" fill="#ddd6fe"/>
+<rect x="640" y="242" width="70" height="220" rx="16" fill="#f4f9fb" stroke="#3a5a72" stroke-width="2"/>
+<rect x="645" y="262" width="60" height="194" rx="12" fill="url(#g6is-bd)"/>
+<rect x="490" y="218" width="12" height="226" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="486" y="442" width="20" height="18" rx="3" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<circle cx="496" cy="455" r="5" fill="#dc2626"/>
+<rect x="540" y="172" width="90" height="36" rx="6" fill="#0b2f4a"/>
+<text x="585" y="195" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">INJECTOR</text>
+<path class="ln" d="M585,136 L585,166" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6is-h)"/>
+<text x="574" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">valve water</text>
+<path class="ln" d="M496,216 L496,190 L538,190" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M632,190 L675,190 L675,234" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6is-h)"/>
+<text x="414" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">air check</text>
+<text x="414" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">closed</text>
+<path class="ln" d="M452,414 L482,444" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="469" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">brine tank</text>
+<text x="675" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">resin</text>
+<text x="406" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">The air check closes before the</text>
+<text x="406" y="534" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">injector can pull air. Plain water keeps</text>
+<text x="406" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">flowing: the injector is now the</text>
+<text x="406" y="570" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">slow-rinse flow control.</text>
+<rect class="box" x="30" y="604" width="700" height="60" rx="10" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="46" y="628" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">The injector sets two rates: how fast brine goes in, and how fast it is rinsed through.</text>
+<text x="46" y="650" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Autotrol: "brine draw is completed when the air check closes." Fleck and Autotrol call it brine/slow rinse.</text>
+<rect x="30" y="685" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="64" y="693" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">valve water</text>
+<rect x="161.9" y="685" width="26" height="6" rx="3" fill="#7c3aed"/>
+<text x="195.9" y="693" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">brine, and brine + water</text>
+<rect x="383.5" y="685" width="26" height="6" rx="3" fill="#cbd5e1"/>
+<text x="417.5" y="693" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">not flowing</text>
+</svg>

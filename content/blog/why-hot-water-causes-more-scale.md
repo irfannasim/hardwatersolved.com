@@ -4,6 +4,7 @@ seoTitle: "Why Hot Water Causes More Scale (7 Places It Hits Worst)"
 seoDescription: "Why hot water causes more scale: heat drives CO2 out, turning dissolved bicarbonate into calcium carbonate. See the curve and the 7 spots that scale first."
 excerpt: "Hot water is not harder than cold water — it simply cannot keep the same minerals dissolved. The cause is a gas, not the minerals themselves, and it predicts exactly which fixture in your house scales first."
 date: "2026-09-11"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Fundamentals"
 featuredImage: "https://images.pexels.com/photos/30560254/pexels-photo-30560254.jpeg"
@@ -125,6 +126,8 @@ This is why:
 - A kettle's element or base plate crusts before its sides do.
 
 It also explains why scale is self-reinforcing. Calcium carbonate is a poor conductor of heat, so a scaled element has to run hotter to deliver the same energy, and a hotter surface precipitates scale faster. The deposit builds its own accelerator.
+
+![Water heater element cross-section showing the hot boundary layer where CO2 escapes and calcium carbonate scale bonds, with the self-reinforcing heat loop](/diagrams/water-heater-element-scale-boundary-layer.svg "Scale forms where the metal heats the water, and each layer makes the surface hotter")
 
 ## Where Scale Appears First in Your House
 

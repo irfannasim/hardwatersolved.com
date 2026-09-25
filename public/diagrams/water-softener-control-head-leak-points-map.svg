@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="chl-title chl-desc">
+<title id="chl-title">Water softener leaking at control head: the four leak points A to D</title>
+<desc id="chl-desc">Side view of the top of a water softener showing where the control head leaks: A the inlet, outlet and bypass connections, B the tank neck O-ring, C the end cap, piston rod seal, injector cap, drain fitting and brine port, and D a crack anywhere in the valve body.</desc>
+<defs><pattern id="chl-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><marker id="chl-sb45309" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="chl-s15803d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="chl-sdc2626" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">The four places a control head leaks</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Side view of the top of the softener. Colour shows the rough cost tier.</text>
+<rect class="box" x="250" y="96" width="260" height="60" rx="8" fill="#0b2f4a"/>
+<text x="380" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">COVER / MOTOR / BOARD</text>
+<text x="380" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#cbd5e1">(no water in here)</text>
+<rect class="box" x="250" y="156" width="260" height="124" rx="6" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="226" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">VALVE BODY</text>
+<path class="ln" d="M206,236 L248,236" fill="none" stroke="#3a5a72" stroke-width="10" stroke-linecap="butt" stroke-linejoin="round"/>
+<path class="ln" d="M206,264 L248,264" fill="none" stroke="#3a5a72" stroke-width="10" stroke-linecap="butt" stroke-linejoin="round"/>
+<rect x="222" y="228" width="8" height="16" fill="#0b2f4a"/>
+<rect x="222" y="256" width="8" height="16" fill="#0b2f4a"/>
+<path d="M462,238 L472,248 L466,254 L480,266 L476,272" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<rect x="340" y="280" width="80" height="44" fill="#cbd5e1" stroke="#3a5a72" stroke-width="2"/>
+<rect x="332" y="290" width="96" height="9" rx="4" fill="#0b2f4a"/>
+<rect x="300" y="324" width="160" height="160" rx="20" fill="url(#chl-beads)" stroke="#3a5a72" stroke-width="2"/>
+<text x="476" y="410" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">RESIN TANK</text>
+<circle cx="44" cy="185" r="13" fill="#b45309"/>
+<text x="44" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">C</text>
+<text x="64" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">end cap ·</text>
+<text x="64" y="208" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">piston rod seal</text>
+<path class="ln" d="M180,186 L240,186" fill="none" stroke="#b45309" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#chl-sb45309)"/>
+<circle cx="716" cy="167" r="13" fill="#b45309"/>
+<text x="716" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">C</text>
+<text x="696" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="end" fill="#0b2f4a">injector cap,</text>
+<text x="696" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="end" fill="#0b2f4a">drain fitting,</text>
+<text x="696" y="208" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="end" fill="#0b2f4a">brine port</text>
+<path class="ln" d="M586,186 L520,186" fill="none" stroke="#b45309" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#chl-sb45309)"/>
+<circle cx="44" cy="245" r="13" fill="#15803d"/>
+<text x="44" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">A</text>
+<text x="64" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">inlet / outlet /</text>
+<text x="64" y="268" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">bypass</text>
+<path class="ln" d="M176,250 L212,250" fill="none" stroke="#15803d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#chl-s15803d)"/>
+<circle cx="716" cy="243" r="13" fill="#dc2626"/>
+<text x="716" y="248" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">D</text>
+<text x="696" y="248" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="end" fill="#0b2f4a">crack anywhere</text>
+<text x="696" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="end" fill="#0b2f4a">in the body</text>
+<path class="ln" d="M586,252 L488,256" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#chl-sdc2626)"/>
+<circle cx="44" cy="295" r="13" fill="#15803d"/>
+<text x="44" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">B</text>
+<text x="64" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">tank neck +</text>
+<text x="64" y="318" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">O-ring</text>
+<path class="ln" d="M150,295 L322,295" fill="none" stroke="#15803d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#chl-s15803d)"/>
+<circle cx="44" cy="525" r="11" fill="#15803d"/>
+<text x="44" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">A</text>
+<circle cx="70" cy="525" r="11" fill="#15803d"/>
+<text x="70" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">B</text>
+<text x="90" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">low: O-rings</text>
+<circle cx="236" cy="525" r="11" fill="#b45309"/>
+<text x="236" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">C</text>
+<text x="256" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">moderate: seal kit plus labour</text>
+<circle cx="496" cy="525" r="11" fill="#dc2626"/>
+<text x="496" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">D</text>
+<text x="516" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">high: new control valve</text>
+</svg>

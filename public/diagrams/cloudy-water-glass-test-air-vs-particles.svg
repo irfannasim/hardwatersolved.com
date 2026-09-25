@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 466" width="760" height="466" role="img" aria-labelledby="g7cgt-title g7cgt-desc">
+<title id="g7cgt-title">Cloudy water glass test: air vs particles</title>
+<desc id="g7cgt-desc">Glass test for cloudy softened water: dissolved air clears from the bottom up in 30 to 120 seconds, fine particles fade evenly over minutes, sediment settles a layer in 5 to 10 minutes, and colloidal haze does not change after 15 minutes.</desc>
+<defs><marker id="g7cgt-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><pattern id="g7cgt-air" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#f8fafc"/><circle cx="1.5" cy="1.5" r="1" fill="#94a3b8"/><circle cx="4.5" cy="4.5" r="0.8" fill="#cbd5e1"/></pattern><pattern id="g7cgt-fine" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#f1e9da"/><circle cx="2" cy="3" r="1.1" fill="#a8a29e"/><circle cx="5.5" cy="6" r="0.7" fill="#b7ae9f"/></pattern><pattern id="g7cgt-coll" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#e7e5e4"/><circle cx="3.5" cy="3.5" r="1" fill="#c4bfb8"/></pattern></defs>
+<rect width="760" height="466" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">The two-minute glass test for cloudy softened water</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Fill a straight-sided glass from a cold tap, set it down, and watch which way it clears.</text>
+<text x="115" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Clears bottom-up</text>
+<rect x="80" y="152" width="70" height="60" fill="url(#g7cgt-air)" stroke="none" stroke-width="2"/>
+<rect x="80" y="212" width="70" height="77" fill="#dbeafe" stroke="none" stroke-width="2"/>
+<path d="M80,212 L150,212" stroke="#0e7490" stroke-width="2" stroke-dasharray="4 3"/>
+<path class="ln" d="M169,270 L169,172" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7cgt-soft)"/>
+<path d="M77,140 L77,292 L153,292 L153,140" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linejoin="round"/>
+<text x="115" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Clear zone rises;</text>
+<text x="115" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">fully clear in 30–120 s</text>
+<rect class="box" x="30" y="354" width="170" height="54" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="115" y="377" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">Dissolved air</text>
+<text x="115" y="397" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">nothing to fix</text>
+<text x="291.7" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Fades evenly</text>
+<rect x="256.7" y="152" width="70" height="137" fill="url(#g7cgt-fine)" stroke="none" stroke-width="2"/>
+<path d="M253.7,140 L253.7,292 L329.7,292 L329.7,140" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linejoin="round"/>
+<text x="291.7" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Whole glass fades over</text>
+<text x="291.7" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">several minutes</text>
+<rect class="box" x="206.7" y="354" width="170" height="54" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="291.7" y="377" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Fine particles</text>
+<text x="291.7" y="397" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">resin fines or silt</text>
+<text x="468.4" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Settles a layer</text>
+<rect x="433.4" y="152" width="70" height="137" fill="url(#g7cgt-fine)" stroke="none" stroke-width="2"/>
+<rect x="433.4" y="279" width="70" height="10" fill="#a8a29e" stroke="none" stroke-width="2"/>
+<path d="M430.4,140 L430.4,292 L506.4,292 L506.4,140" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linejoin="round"/>
+<text x="468.4" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Thin layer on the bottom</text>
+<text x="468.4" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">after 5–10 minutes</text>
+<rect class="box" x="383.4" y="354" width="170" height="54" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="468.4" y="377" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sediment</text>
+<text x="468.4" y="397" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">usually from upstream</text>
+<text x="645.0999999999999" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Never changes</text>
+<rect x="610.0999999999999" y="152" width="70" height="137" fill="url(#g7cgt-coll)" stroke="none" stroke-width="2"/>
+<path d="M607.0999999999999,140 L607.0999999999999,292 L683.0999999999999,292 L683.0999999999999,140" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linejoin="round"/>
+<text x="645.0999999999999" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">No change at all</text>
+<text x="645.0999999999999" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">after 15 minutes</text>
+<rect class="box" x="560.0999999999999" y="354" width="170" height="54" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="645.0999999999999" y="377" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Dissolved/colloidal</text>
+<text x="645.0999999999999" y="397" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">not the softener: test it</text>
+<rect x="30" y="432" width="26" height="14" fill="url(#g7cgt-air)" stroke="#cbd5e1"/>
+<text x="64" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">milky: tiny air bubbles</text>
+<rect x="240" y="432" width="26" height="14" fill="url(#g7cgt-fine)" stroke="#cbd5e1"/>
+<text x="274" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">suspended particles</text>
+<rect x="430" y="432" width="26" height="14" fill="#dbeafe" stroke="#cbd5e1"/>
+<text x="464" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">clear water</text>
+<rect x="570" y="432" width="26" height="14" fill="#a8a29e"/>
+<text x="604" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">settled sediment</text>
+</svg>

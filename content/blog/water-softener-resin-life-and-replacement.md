@@ -4,6 +4,7 @@ seoTitle: "How Long Does Water Softener Resin Last? Replace Signs"
 seoDescription: "How long does water softener resin last? Ten to fifteen years on clean water, as little as three on chlorinated or iron-heavy supplies. Capacity decides."
 excerpt: "Every answer to this question is a range, and ranges are useless when you are deciding whether to spend money. The number that actually tells you where your bed stands is not its age but the gallons it treats between regenerations, tracked over time. A sustained fall in that figure is the replacement signal — and knowing it lets you work the one calculation that matters, which is whether new resin in an old tank is still cheaper than a new softener."
 date: "2026-09-21"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/11069123/pexels-photo-11069123.jpeg"
@@ -48,7 +49,7 @@ Those are planning figures rather than guarantees. What they establish is the po
 
 ## The Measurement That Replaces Guesswork
 
-![Hand writing entries onto a desk calendar with a pen, the monthly logging habit that turns resin condition into a measurable trend](https://images.pexels.com/photos/6172482/pexels-photo-6172482.jpeg)
+![Four trend charts of gallons between regenerations showing how water softener resin life reads as flat, gradual, steep or step-change decline](/diagrams/resin-capacity-trend-patterns.svg "The shape of your capacity log tells you more than the resin's age")
 
 Working capacity is the only property of a resin bed that matters to a household, and it is directly measurable without any equipment you do not already own.
 
@@ -88,8 +89,6 @@ Not every sign carries equal weight, and the ones people act on are usually the 
 
 ## Re-Bed or Replace: Working the Crossover
 
-![Calculator and notepad resting on United States dollar bills, the cost comparison between re-bedding a softener and replacing the unit](https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg)
-
 This is a genuine decision with a genuine crossover point, and it turns on one question: **how old is the control valve?**
 
 The resin is a consumable. The tank is close to indestructible. The control valve is the part with moving components, seals, an injector, a meter turbine and electronics — and it is the part that decides whether new resin is a good investment or a good bed under a bad head.
@@ -113,8 +112,6 @@ The resin is a consumable. The tank is close to indestructible. The control valv
 
 ## What Actually Extends Resin Life
 
-![Industrial pipework and machinery running along a maintenance corridor, the pretreatment stages that determine how long a resin bed survives](https://images.pexels.com/photos/10290629/pexels-photo-10290629.jpeg)
-
 All of these are upstream of the softener, which is the point.
 
 **Carbon pretreatment on chlorinated supplies.** The single highest-value intervention on municipal water. Ecolab's Purolite division sets out the oxidation mechanism in its note on [factors affecting softening resin performance and life](https://www.purolite.com/index/core-technologies/application/softening/factors-effect-softening-resin-performance-life), and the practical detection methods are in [how chlorine damages water softener resin](/blog/how-chlorine-damages-softener-resin/). Chloramine needs catalytic carbon and longer contact time than free chlorine.
@@ -130,8 +127,6 @@ All of these are upstream of the softener, which is the point.
 **Two things that do not extend resin life,** despite being widely sold as if they do: premium salt grades make essentially no difference to the bed if your salt is already clean and dry, and resin cleaner used prophylactically on unfouled resin achieves nothing. Spend the money on pretreatment instead.
 
 ## When Replacement Is the Right Answer Anyway
-
-![Worker in protective equipment holding a wrench indoors, the service visit where a re-bed or replacement decision gets made](https://images.pexels.com/photos/8486972/pexels-photo-8486972.jpeg)
 
 Some beds should be replaced regardless of what the capacity log says.
 

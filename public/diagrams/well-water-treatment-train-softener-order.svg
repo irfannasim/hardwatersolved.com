@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="wtt-title wtt-desc">
+<title id="wtt-title">Well water treatment train: where the water softener goes</title>
+<desc id="wtt-desc">Order of treatment stages on a private well: well and pump, pressure tank, sediment prefilter, pH neutralizer, oxidation or iron, manganese and sulfide filter, then the water softener, then UV disinfection and drinking-water polishing at the kitchen tap.</desc>
+<defs><marker id="wtt-mc2410c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="wtt-m0e7490" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">The well water treatment train, in order</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Anything that would damage the resin comes out before the softener.</text>
+<circle cx="109" cy="110" r="13" fill="#0b2f4a"/>
+<text x="109" y="115" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<rect class="box" x="30" y="128" width="158" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="109" y="170.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Well and pump</text>
+<circle cx="289" cy="110" r="13" fill="#0b2f4a"/>
+<text x="289" y="115" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<rect class="box" x="210" y="128" width="158" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="289" y="162.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Pressure tank</text>
+<text x="289" y="179.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">every stage goes after it</text>
+<circle cx="469" cy="110" r="13" fill="#0b2f4a"/>
+<text x="469" y="115" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<rect class="box" x="390" y="128" width="158" height="76" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="469" y="162.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sediment</text>
+<text x="469" y="179.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">prefilter</text>
+<circle cx="649" cy="110" r="13" fill="#0b2f4a"/>
+<text x="649" y="115" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<rect class="box" x="570" y="128" width="158" height="76" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="649" y="162.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">pH neutralizer</text>
+<text x="649" y="179.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">if needed</text>
+<circle cx="109" cy="278" r="13" fill="#0b2f4a"/>
+<text x="109" y="283" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<rect class="box" x="30" y="296" width="158" height="76" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="109" y="321.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Oxidation or iron,</text>
+<text x="109" y="338.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">manganese and sulfide</text>
+<text x="109" y="355.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">filter, if needed</text>
+<circle cx="289" cy="278" r="13" fill="#0b2f4a"/>
+<text x="289" y="283" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">6</text>
+<rect class="box" x="210" y="296" width="158" height="76" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="3"/>
+<text x="289" y="338.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">WATER SOFTENER</text>
+<circle cx="469" cy="278" r="13" fill="#0b2f4a"/>
+<text x="469" y="283" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">7</text>
+<rect class="box" x="390" y="296" width="158" height="76" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="469" y="330.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Disinfection (UV)</text>
+<text x="469" y="347.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">if needed</text>
+<rect class="box" x="570" y="296" width="158" height="76" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="649" y="338.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">HOUSE</text>
+<path class="ln" d="M190,166 L203,166" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wtt-mc2410c)"/>
+<path class="ln" d="M370,166 L383,166" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wtt-mc2410c)"/>
+<path class="ln" d="M550,166 L563,166" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wtt-mc2410c)"/>
+<path class="ln" d="M649,204 L649,246 L109,246 L109,254" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wtt-mc2410c)"/>
+<path class="ln" d="M190,334 L203,334" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wtt-mc2410c)"/>
+<path class="ln" d="M370,334 L383,334" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wtt-m0e7490)"/>
+<path class="ln" d="M550,334 L563,334" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wtt-m0e7490)"/>
+<path class="ln" d="M649,372 L649,404" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wtt-m0e7490)"/>
+<circle cx="548" cy="434" r="13" fill="#0b2f4a"/>
+<text x="548" y="439" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">8</text>
+<rect class="box" x="566" y="412" width="166" height="60" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="649" y="438.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Kitchen tap polishing</text>
+<text x="649" y="455.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">e.g. RO, if needed</text>
+<rect x="30" y="498" width="22" height="14" rx="3" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/>
+<text x="60" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">before the softener: protects the resin</text>
+<rect x="330" y="498" width="22" height="14" rx="3" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="360" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">after: protects drinking water</text>
+<rect x="580" y="498" width="22" height="14" rx="3" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="610" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">only if needed</text>
+<text x="30" y="556" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Most wells need only some stages. A hard well with clean chemistry might need only 1, 2, 3 and 6.</text>
+</svg>

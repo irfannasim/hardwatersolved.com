@@ -4,6 +4,7 @@ seoTitle: "Black Specks in Water After a Softener: 3 Real Causes"
 seoDescription: "Black specks in water after a softener come from crushed resin, manganese oxide or failing rubber seals. Three one-minute tests tell them apart before you pay."
 excerpt: "Crushed resin, oxidised manganese and disintegrating rubber seals all look identical floating in a glass — but one is harmless, one is a water chemistry problem, and one means the control valve is failing. A fingertip, a magnet and a splash of vinegar separate them in under a minute."
 date: "2026-09-17"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/6331084/pexels-photo-6331084.jpeg"
@@ -29,7 +30,7 @@ Catch a sample before anything else. Hold a fine mesh strainer, a coffee filter 
 
 ## Start Here: The One-Minute Identification Key
 
-![Water droplets falling from a chrome tap into a sink, the point at which black specks first become visible](https://images.pexels.com/photos/3787025/pexels-photo-3787025.jpeg)
+![Illustrated comparison of black specks in water after a softener: manganese grit that smears, round amber resin fragments and flat rubber seal flakes](/diagrams/black-specks-in-water-three-types-identification.svg "Shape, translucency and smear tell manganese, resin and rubber apart")
 
 Work down this list in order. Each step is a physical test on the specks you caught, not a guess from appearance.
 
@@ -53,8 +54,6 @@ That final row does most of the diagnostic work, so track it before you take any
 
 ## Cause 1: Manganese Oxide
 
-![Close-up of dark granular material showing powdery texture, similar to the oxidised manganese that stains fixtures black](https://images.pexels.com/photos/266455/pexels-photo-266455.jpeg)
-
 Manganese travels with iron in groundwater and behaves like iron's more troublesome relative. Dissolved, it is invisible. Exposed to air, chlorine or any oxidiser, it converts to black manganese dioxide — the specks in the glass and the black film in the toilet tank.
 
 **Why it turns up specifically after a softener:**
@@ -76,8 +75,6 @@ The 0.05 mg/L figure is the EPA's aesthetic threshold, listed with the other [se
 **The practical point most owners miss:** manganese fouls resin at roughly a tenth the concentration iron does, and it responds far less well to cleaning once it is in the bed. Where 1 ppm of iron is manageable, 0.3 mg/L of manganese is already a problem. If the black specks are manganese, the softener is not the fix — it is the casualty. Sizing a replacement without measuring manganese first repeats the mistake, which is the argument made in [testing iron and manganese before sizing a softener](/blog/test-iron-and-manganese-before-sizing/).
 
 ## Cause 2: Resin Fragments
-
-![Fine dark granular texture resembling degraded water softener resin that has broken down inside the tank](https://images.pexels.com/photos/20582230/pexels-photo-20582230.jpeg)
 
 Healthy softener resin is a translucent amber bead, round, and roughly the size of a coarse grain of sand. It arrives in your glass when it has been damaged, and the damage tells you how much life the bed has left.
 
@@ -104,7 +101,7 @@ Where a softener sits on a chlorinated municipal supply, the resin's working lif
 
 ## Cause 3: Failing Valve Seals — The One Nobody Checks
 
-![Close-up of black rubber granules, the material that sheds from hardened O-rings and seals inside an ageing softener valve](https://images.pexels.com/photos/15247767/pexels-photo-15247767.jpeg)
+![Cutaway diagram of a water softener control valve piston and seal stack, showing worn seals shedding black flakes into treated water](/diagrams/water-softener-control-valve-piston-seal-stack.svg "Worn piston seals shed flakes when the piston moves at each regeneration")
 
 Inside the control valve is a piston that moves through a stack of rubber seals and plastic spacers to direct water between service, backwash, brine draw and rinse. Those seals are consumables. They harden with age, faster on chlorinated water, and when they start to break down they shed flat black flakes directly into the treated line.
 

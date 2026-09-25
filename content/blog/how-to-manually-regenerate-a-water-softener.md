@@ -4,6 +4,7 @@ seoTitle: "Manual Regeneration: Water Softener Guide, 4 Proven Checks"
 seoDescription: "Manual regeneration water softener guide: start the cycle safely, then watch backwash, brine draw, rinse and refill. Four checks that pinpoint the fault."
 excerpt: "Pressing the regeneration button takes five seconds. What makes a manual cycle worth running is what you watch while it happens: how the drain flows during backwash, whether the brine tank level actually falls, whether the rinse runs clear, and whether the tank refills. Those four observations, taken with a tape measure and a glass, separate a softener that works from one with a blocked injector, a restricted drain or a valve that never moved, before you spend anything on parts."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/19730401/pexels-photo-19730401.jpeg"
@@ -43,8 +44,6 @@ A regeneration sends water to the drain for an hour or more and delivers unsofte
 
 ## Take Three Baselines First
 
-![Row of clear sample tubes in a rack, the kind of containers used to hold before-and-after tap samples when testing a softener's hardness around a manual regeneration](https://images.pexels.com/photos/7722535/pexels-photo-7722535.jpeg)
-
 Without a starting point, the observations during the cycle have nothing to be compared against.
 
 1. **Hardness at a cold softened tap.** Run it for a minute and test. Write the number down. If you have no method yet, [how to test water hardness at home](/blog/how-to-test-water-hardness-at-home/) compares strips and drop kits.
@@ -67,9 +66,9 @@ Clack adds that an immediate request "cannot be canceled", so start it only when
 
 **Keep a stopwatch or phone timer running.** The display shows each step and its remaining time. You will need those times to know when to look.
 
-## Stage 1: Backwash, Read the Drain
+![Four-panel diagram of a manual water softener regeneration (backwash, brine draw, rinse and refill), with the check to make at each stage.](/diagrams/water-softener-manual-regeneration-stages-what-to-check.svg "Watch four things: drain flow, brine level drop, rinse clarity and refill.")
 
-![Close-up of a round stainless steel sink drain, the kind of discharge point where a softener's backwash flow can be watched for strength, colour and escaping resin](https://images.pexels.com/photos/220612/pexels-photo-220612.jpeg)
+## Stage 1: Backwash, Read the Drain
 
 Backwash is first on most downflow softeners. Water runs up through the resin and out of the drain line at a fixed rate set by a flow control in the drain fitting.
 

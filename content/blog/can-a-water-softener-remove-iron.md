@@ -4,6 +4,7 @@ seoTitle: "Can a Water Softener Remove Iron? 6 Honest Limits"
 seoDescription: "A water softener can remove iron only if it is dissolved, the pH is right and no air reaches it first. Published ceilings run from 2 to 10 ppm. Here's why."
 excerpt: "Every answer online says a softener handles some iron. The published figures actually run from 0.5 ppm to 10 ppm, and each one comes with conditions: iron still dissolved, pH above 6.7, no air or chlorine upstream. This page puts the extension-service and manufacturer numbers side by side, explains why the ceiling drops to zero once any iron has oxidized, and shows how to check an iron-removal claim against your own well."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/35972870/pexels-photo-35972870.jpeg"
@@ -55,11 +56,11 @@ A softener works by cation exchange. The resin holds sodium loosely and swaps it
 
 Oxidized ferric iron is a different thing. Once ferrous iron meets oxygen, it turns into insoluble particles of ferric hydroxide, the orange floc you see in a glass left standing. There is no dissolved ion left to exchange. The resin bed can only strain out the particles, and it does that badly. Backwash lifts some of them out, and the rest coat the beads. The progression is described in [what is water softener resin fouling](/blog/water-softener-resin-fouling/).
 
+![Diagram showing water softener resin exchanging dissolved ferrous iron like hardness while oxidized ferric iron particles coat and foul the beads](/diagrams/water-softener-resin-ferrous-vs-ferric-iron.svg "Dissolved iron exchanges; oxidized iron only fouls the bed")
+
 This is why form matters more than concentration. A softener can handle 2 ppm of dissolved iron. The same softener handles 0.5 ppm of oxidized iron badly.
 
 ## When a Water Softener Can Remove Iron: The Six Conditions
-
-![Corroded brass tap set into a weathered wall, showing the kind of iron damage that builds up when a well's iron was never matched to the right treatment](https://images.pexels.com/photos/3868136/pexels-photo-3868136.jpeg)
 
 Every number in the table above assumes these conditions. If any one of them fails, the number stops applying.
 
@@ -74,7 +75,7 @@ A well that meets all six conditions is a genuine candidate for a softener alone
 
 ## Why the Limit Collapses Once Any Iron Has Oxidized
 
-![Rust-streaked stone basin under a wall fountain, the orange staining that oxidized iron leaves wherever water sits](https://images.pexels.com/photos/10436894/pexels-photo-10436894.jpeg)
+![Diagram of a well water system showing where iron oxidizes before the softener: chlorine, air injection, an air-over-water pressure tank and standing water](/diagrams/well-water-iron-oxidation-points-before-softener.svg "Clear well water can arrive at the softener already oxidized")
 
 This is the point most "softeners remove iron" pages skip. **For oxidized iron, the practical ceiling is not a lower number. It is zero.**
 

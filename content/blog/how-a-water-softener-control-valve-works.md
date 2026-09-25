@@ -4,6 +4,7 @@ seoTitle: "How a Water Softener Control Valve Works in 5 Easy Stages"
 seoDescription: "How a water softener control valve works: five positions, where water goes in each, and the fault you get when a stage fails, so symptoms name themselves."
 excerpt: "Every mechanical softener fault is one stage of the cycle failing. The control valve has only five jobs: send water through the resin, flush it backwards, pull brine through it, rinse it, and refill the salt tank. Once you can picture where the water goes in each of those positions, a salty tap, an overflowing brine tank or a drain that never stops each point to one stage and one part."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/19895875/pexels-photo-19895875.jpeg"
@@ -39,8 +40,6 @@ Nothing in the valve measures hardness or brine strength. It carries out the pro
 
 ## Three Ways a Valve Moves the Water
 
-![Interlocking silver metal gears, the kind of reduction gear train a softener control motor drives to move the piston or camshaft between cycle positions](https://images.pexels.com/photos/149387/pexels-photo-149387.jpeg)
-
 Residential valves reach the same five positions by different mechanical routes. Knowing which one you have tells you what wears out.
 
 | Design | Example | How it changes position | How it knows where it is | What wears |
@@ -55,18 +54,11 @@ When the drive or the position sensing fails, the valve stops partway through th
 
 ## How a Water Softener Control Valve Works, Stage by Stage
 
-![Technical blueprint with a pencil and compass, the kind of engineering drawing used to trace the separate water paths a softener control valve opens in each position](https://images.pexels.com/photos/716661/pexels-photo-716661.jpeg)
-
-The diagrams below show a standard **downflow** softener, the most common residential layout. They are simplified from the flow diagrams in the Fleck 5600SXT and Autotrol 255 service manuals. Arrows show where the water goes; the last line of each diagram shows the state of the brine line and drain, and what reaches the house.
+The diagrams below show a standard **downflow** softener, the most common residential layout. They are simplified from the flow diagrams in the Fleck 5600SXT and Autotrol 255 service manuals. Every diagram uses the same drawing of the valve, resin tank, brine tank and drain, so you can compare the positions directly. Coloured lines are carrying water and grey lines are not. The bar under each diagram shows the state of the brine line and the drain, and what reaches the house.
 
 ### Position 1: Service
 
-```text
-  INLET ──► VALVE ──► top of resin ──▼ down through resin ▼──► distributor
-                                                              │ tube (up)
-  HOUSE ◄── VALVE ◄──────────────────────────────────────────┘
-  Brine line: closed        Drain: closed        House gets: SOFT water
-```
+![Water softener control valve in service: hard water flows down through the resin bed and up the distributor tube to the house as soft water](/diagrams/water-softener-control-valve-service-position.svg "Service: down through the resin, up the centre tube, out to the house as soft water")
 
 Hard water enters the top of the tank and passes down through the resin, where calcium and magnesium are exchanged for sodium. It rises up the distributor tube and leaves through the outlet. On a metered valve, the meter in the outlet counts every gallon.
 
@@ -78,13 +70,7 @@ Hard water enters the top of the tank and passes down through the resin, where c
 
 ### Position 2: Backwash
 
-```text
-  INLET ──► VALVE ──► down the distributor tube ──► bottom of tank
-                                                        │
-                        ▲ UP through resin (bed lifts) ◄┘
-  DRAIN ◄── flow control ◄── VALVE ◄── top of tank
-  Brine line: closed    Drain: OPEN, rate-limited    House gets: HARD water (bypass)
-```
+![Water softener control valve in backwash: water goes down the distributor tube and up through the resin bed to a rate-limited drain](/diagrams/water-softener-control-valve-backwash-position.svg "Backwash: the flow reverses to lift the bed and flush debris to the drain")
 
 The flow reverses. Water goes down the distributor tube and **up** through the resin, lifting and loosening the bed and carrying trapped sediment out to the drain. Autotrol's manual describes the bed being "expanded and debris is flushed to the drain." A **drain line flow control** (a small rubber washer with a precise orifice) caps the rate so the resin lifts but is not washed out.
 
@@ -96,13 +82,7 @@ The flow reverses. Water goes down the distributor tube and **up** through the r
 
 ### Position 3: Brine Draw and Slow Rinse
 
-```text
-  INLET ──► VALVE ──► INJECTOR (nozzle ► throat) ──► top of resin
-                          ▲ suction                     ▼ brine flows down
-  BRINE TANK ── brine line┘                         distributor tube
-  DRAIN ◄── VALVE ◄─────────────────────────────────────┘
-  Brine line: OPEN (drawing)   Drain: open   House gets: HARD water (bypass)
-```
+![Water softener control valve in brine draw: injector suction pulls brine from the brine tank down through the resin to the drain](/diagrams/water-softener-control-valve-brine-draw-position.svg "Brine draw: injector suction pulls brine through the resin, and the house gets bypass water")
 
 This is the stage that actually regenerates the resin. Water is forced through the **injector**, a nozzle that sprays into a slightly larger throat. The fast-moving jet creates suction that pulls brine up the brine line from the salt tank. The mix flows down through the resin, and the sodium pushes off the hardness, which goes to the drain. How that suction works, and why it is so easily lost, is explained in [what a water softener injector and venturi actually do](/blog/what-a-water-softener-injector-does/).
 
@@ -115,11 +95,7 @@ When the brine tank has been drawn down, a float-operated **air check** at the b
 
 ### Position 4: Rapid Rinse
 
-```text
-  INLET ──► VALVE ──► top of resin ──▼ fast, down through resin ▼──► distributor
-  DRAIN ◄── flow control ◄── VALVE ◄──────────────────────────────────┘
-  Brine line: closed        Drain: OPEN        House gets: HARD water (bypass)
-```
+![Water softener control valve in rapid rinse: fast flow down through the resin and up the distributor tube flushes the last brine to the drain](/diagrams/water-softener-control-valve-rapid-rinse-position.svg "Rapid rinse: service-direction flow to the drain repacks the bed and clears the brine")
 
 Water runs down through the bed at full service direction and speed and out to the drain. It flushes out the last brine and packs the bed back down so service water will not channel through it. Autotrol describes it as removing "any remaining brine residual."
 
@@ -129,12 +105,7 @@ Water runs down through the bed at full service direction and speed and out to t
 
 ### Position 5: Brine Refill
 
-```text
-  INLET ──► VALVE ──► (softened, on Clack) ──► REFILL FLOW CONTROL
-                                                          │ ~0.5 gpm
-  BRINE TANK ◄──────────── brine line (flow reversed) ◄───┘
-  Brine line: OPEN (filling)   Drain: closed or rinse   House gets: depends on valve
-```
+![Water softener control valve in brine refill: about 0.5 gpm flows back down the brine line through the refill flow control into the brine tank](/diagrams/water-softener-control-valve-brine-refill-position.svg "Refill: a measured amount of water goes back to the salt tank to make the next brine")
 
 The valve sends a measured amount of water back down the brine line into the salt tank, where it dissolves salt for the *next* regeneration. A **refill flow control** limits the rate. Clack's is a washer designed to deliver a steady 0.5 gpm across the pressure range, and Clack notes that on softeners, refill is done with soft water. The refill time or volume sets how much salt the next regeneration uses.
 
@@ -160,8 +131,6 @@ The Fleck sequence is from the [Fleck 5600SXT downflow service manual](https://w
 **Why the order matters for diagnosis.** The third step is rapid rinse on a Fleck, a second backwash on a Clack, and the repressurize step on an Autotrol, so "stuck on step 3" means three different things. A valve that fills at the *end* of the cycle and one set to pre-fill at the *start* will also leave very different water levels in the brine tank if the cycle is interrupted. Always read the step against your own valve's sequence.
 
 ## What Decides When It Regenerates
-
-![Close-up of the gears and wheels inside a clock mechanism, the timekeeping heart of the day-clock controls that trigger a softener regeneration on schedule](https://images.pexels.com/photos/4069389/pexels-photo-4069389.jpeg)
 
 The five positions are the *how*. The control decides *when*. Penn State Extension's guide to [water softening](https://extension.psu.edu/water-softening) describes two approaches:
 

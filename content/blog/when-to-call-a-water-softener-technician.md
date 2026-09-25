@@ -4,6 +4,7 @@ seoTitle: "When to Call a Water Softener Technician: 3 Honest Red Lines"
 seoDescription: "When to call a water softener technician: some faults are a 10-minute fix, others risk flooding, contamination or a void warranty. Here's the line."
 excerpt: "Most softener faults are cheap, and a surprising number are free: a crust of salt, a clogged screen, a clock reset after a power cut. A smaller group are different. They need the valve off a pressurised tank, they open the drinking water side of the house, or they sit squarely inside the warranty's exclusions. This page sorts common faults into three piles and gives the reason for each one, including the jobs we tell readers not to attempt."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/8486975/pexels-photo-8486975.jpeg"
@@ -29,7 +30,7 @@ That leaves most faults in the do-it-yourself pile. The honest part is being cle
 
 ## The Three Reasons a Job Leaves the DIY Pile
 
-![Close-up of a combination wrench set spread across a cluttered workbench, the basic tools that cover most softener fixes but not every one](https://images.pexels.com/photos/7541355/pexels-photo-7541355.jpeg)
+![Diagram of which water softener parts are under full house pressure (technician jobs) versus the brine tank and screens owners can fix](/diagrams/water-softener-pressure-zones-diy-vs-technician.svg "Pressurised parts are technician work; the brine side is yours")
 
 Difficulty is rarely the real reason to call someone. Most softener repairs are mechanically simple. What matters is what happens if the repair goes wrong, and that comes down to three risks.
 
@@ -42,8 +43,6 @@ Difficulty is rarely the real reason to call someone. Most softener repairs are 
 **The rule of thumb.** If a mistake would flood the floor, touch the drinking water, or hand the manufacturer a reason to refuse a claim, it belongs further down the table.
 
 ## The Triage Table
-
-![Person in a yellow reflective safety vest holding a checklist, the kind of structured triage that sorts softener faults into DIY and professional jobs](https://images.pexels.com/photos/8293680/pexels-photo-8293680.jpeg)
 
 These are the faults this site covers, sorted by who should fix them and why. "Caution" means an owner can do it, but should read the manual first, isolate the unit, and stop if anything does not match what they expected.
 
@@ -75,8 +74,6 @@ These are the faults this site covers, sorted by who should fix them and why. "C
 **What moves a fault between piles.** The same symptom can sit in different piles depending on what the first checks find. A softener that "will not regenerate" because the clock was reset by a power cut is a one-minute DIY fix. The same symptom caused by a stripped drive gear is not. Do the owner-level checks first, then decide.
 
 ## The DIY Pile: What Almost Anyone Can Do
-
-![Close-up of a hand gripping an adjustable wrench, the kind of simple tool that covers most owner-level softener repairs](https://images.pexels.com/photos/29459133/pexels-photo-29459133.jpeg)
 
 These faults share three features: the parts involved are not under pressure, a mistake is visible and reversible, and nothing about them affects the warranty.
 

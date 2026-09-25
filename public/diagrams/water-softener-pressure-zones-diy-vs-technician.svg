@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 632" width="760" height="632" role="img" aria-labelledby="g6pz-title g6pz-desc">
+<title id="g6pz-title">When to call a water softener technician: pressure zones</title>
+<desc id="g6pz-desc">Diagram of a water softener showing when to call a technician: the control valve, valve-to-tank joint, mineral tank and distributor are under full house pressure, the bypass and drain air gap need caution, and the brine tank and injector screen are DIY.</desc>
+<defs><pattern id="g6pz-bd" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><pattern id="g6pz-s" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#f8fafc"/><rect x="2" y="2" width="7" height="6" rx="1.5" fill="#cbd5e1"/></pattern><marker id="g6pz-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g6pz-s2" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="g6pz-d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker></defs>
+<rect width="760" height="632" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Which softener jobs are DIY, and which are not</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Ask one question: if I get this wrong, does water stop by itself?</text>
+<text x="200" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#b45309">bypass valve:</text>
+<text x="200" y="116" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#b45309">your isolation point</text>
+<text x="30" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">supply in</text>
+<text x="30" y="184" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">to house</text>
+<path class="ln" d="M30,140 L162,140" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6pz-h)"/>
+<path class="ln" d="M168,162 L36,162" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6pz-s2)"/>
+<rect x="168" y="126" width="62" height="50" rx="6" fill="#fef3c7" stroke="#b45309" stroke-width="2.5"/>
+<path class="ln" d="M230,140 L250,140" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="butt" stroke-linejoin="round"/>
+<path class="ln" d="M250,162 L230,162" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="butt" stroke-linejoin="round"/>
+<rect x="280" y="178" width="100" height="290" rx="22" fill="url(#g6pz-bd)" stroke="#dc2626" stroke-width="3"/>
+<rect x="326" y="182" width="8" height="276" fill="#94a3b8"/>
+<rect x="274" y="172" width="112" height="8" rx="3" fill="#dc2626"/>
+<rect class="box" x="250" y="118" width="160" height="56" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="2.5"/>
+<text x="330" y="151" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">CONTROL VALVE</text>
+<circle cx="262" cy="186" r="8" fill="#dcfce7" stroke="#15803d" stroke-width="2.5"/>
+<path class="ln" d="M246,210 L256,192" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="242" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#15803d">injector screen and nozzle,</text>
+<text x="242" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#15803d">cap on the valve side: DIY</text>
+<path class="ln" d="M246,264 L276,180" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="242" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">valve-to-tank joint</text>
+<path class="ln" d="M246,322 L278,330" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="242" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#dc2626">mineral tank: full house</text>
+<text x="242" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#dc2626">pressure all day</text>
+<path class="ln" d="M246,398 L324,404" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="242" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#dc2626">distributor tube and resin:</text>
+<text x="242" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#dc2626">removing the valve from the</text>
+<text x="242" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#dc2626">tank is the dividing line</text>
+<path class="ln" d="M410,132 L700,132 L700,394" fill="none" stroke="#78716c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6pz-d)"/>
+<text x="690" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#b45309">drain line: keep an air gap</text>
+<rect x="686" y="424" width="28" height="56" fill="#e7e5e4" stroke="#3a5a72" stroke-width="2"/>
+<text x="678" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#b45309">air gap</text>
+<rect x="440" y="240" width="150" height="210" rx="8" fill="#ffffff" stroke="#15803d" stroke-width="3"/>
+<rect x="442" y="300" width="146" height="148" fill="url(#g6pz-s)"/>
+<rect x="442" y="400" width="146" height="48" fill="#ddd6fe" opacity="0.7"/>
+<rect x="560" y="228" width="16" height="216" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/>
+<path class="ln" d="M410,160 L568,160 L568,226" fill="none" stroke="#7c3aed" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="515" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">brine tank, float, brine line:</text>
+<text x="515" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">a few gallons at atmospheric pressure</text>
+<rect class="box" x="30" y="516" width="216" height="96" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="44" y="540" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#dc2626">CALL</text>
+<text x="44" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">valve off the tank, internal</text>
+<text x="44" y="579" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">rebuilds, tank damage,</text>
+<text x="44" y="596" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">contamination, electrical</text>
+<rect class="box" x="272" y="516" width="216" height="96" rx="10" fill="#fff7ed" stroke="#b45309" stroke-width="2"/>
+<text x="286" y="540" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#b45309">CAUTION</text>
+<text x="286" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">bypass O-rings, drain line</text>
+<text x="286" y="579" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">and its air gap, refill</text>
+<text x="286" y="596" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">problems, noise, pressure</text>
+<rect class="box" x="514" y="516" width="216" height="96" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="528" y="540" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#15803d">DIY</text>
+<text x="528" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">anything in the brine tank,</text>
+<text x="528" y="579" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">settings, screens, prefilters,</text>
+<text x="528" y="596" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">testing, resin cleaner</text>
+</svg>

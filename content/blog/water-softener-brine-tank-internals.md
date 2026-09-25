@@ -4,6 +4,7 @@ seoTitle: "Water Softener Brine Float Assembly: 3 Critical Parts"
 seoDescription: "The water softener brine float assembly sets brine volume on some units and stops overflows on all of them. How to adjust it, test it and spot a failed one."
 excerpt: "Most owners never lift the lid on the brine well, and the parts inside fail quietly. The float sets how much brine is made on some softeners, the safety shutoff is the only thing standing between a stuck valve and a flooded floor, and the air check at the bottom keeps air out of the resin tank. Here is what each part does, how float height changes the salt dose, and a five-minute test that proves the safety float still works."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/6478110/pexels-photo-6478110.jpeg"
@@ -44,6 +45,8 @@ Lift the small cap on top of the tall tube inside the salt tank and you are look
 
 Fleck's part lists show how standard this layout is: the Fleck 5600SXT service manual lists its 2300 and 2310 safety brine valves with a float assembly, a 30-inch float rod and a separate air check. The same manual tells installers to cut the air check level with the grid plate when a grid is used. It calls this "critical" on 6-, 7-, 8- and 9-inch tanks, because the refill water has to rise above the grid and reach the salt.
 
+![Cutaway of a water softener brine tank showing the brine well, brine valve, float and rod, air check, grid plate and overflow elbow](/diagrams/water-softener-brine-tank-cutaway-anatomy.svg "What sits inside the brine tank and the brine well")
+
 **The overflow elbow is not part of the assembly**, but check it while the lid is off. If nothing is connected to it, or its tube ends on the floor, it gives you no protection. Draining it properly is covered in [why the brine tank is full of water or overflowing](/blog/brine-tank-full-of-water-or-overflowing/).
 
 ## Two Kinds of Float: Dose Setter or Backstop
@@ -60,9 +63,9 @@ This is the difference most owners never hear about, and it changes what "adjust
 - **Your manual has a float-height or "A dimension" chart**, often on older or dealer-built units. The float sets the dose.
 - **You are not sure.** Watch one refill. If the water stops rising before the float reaches its stop, the valve timed the refill. If the float rises and the flow stops the moment it closes, the float is setting the volume.
 
-## Float Height as a Salt-Dose Control
+![Comparison of a float-controlled brine valve that sets the salt dose and a timed-refill brine float that only acts as a safety backstop](/diagrams/water-softener-brine-float-dose-setter-vs-backstop.svg "On some valves the float sets the salt dose. On most it's only the overflow backstop")
 
-![Coiled yellow tape measure showing its numbered markings, the kind of measurement used to set a water softener brine float to an exact height for a chosen salt dose](https://images.pexels.com/photos/3143085/pexels-photo-3143085.jpeg)
+## Float Height as a Salt-Dose Control
 
 On a float-controlled valve, every inch of float travel is salt. These three numbers from primary sources explain why.
 
@@ -99,8 +102,6 @@ This applies to float-controlled valves, and to resetting the safety float's hei
 
 ## The Safety Float Test
 
-![Technician shining a flashlight on equipment in a dim room, the kind of close look needed down a brine well to confirm the safety float closes the refill](https://images.pexels.com/photos/30226733/pexels-photo-30226733.jpeg)
-
 A failed safety float looks exactly like a working one until the day the control valve sticks in refill. Pentair's manual says that a valve losing power mid-regeneration "will remain in its current position until power is restored" and that the system "should include all required safety components to prevent overflows". The float is that component, so prove it works once a year.
 
 **You need:** a flashlight, a bucket of clean water, a ruler, and the softener able to reach its refill step.
@@ -118,7 +119,7 @@ A failed safety float looks exactly like a working one until the day the control
 
 ## The Air Check: The Part at the Bottom
 
-![Red fishing float sitting on calm water with ripples spreading around it, showing how a buoyant check ball rides the brine level until the tank is drawn down](https://images.pexels.com/photos/10418936/pexels-photo-10418936.jpeg)
+![Brine tank air check diagram showing the check ball floating open during brine draw and dropping to seal so no air reaches the resin tank](/diagrams/brine-tank-air-check-open-and-sealed.svg "The air check floats open while brine remains and seals once it's drawn down")
 
 The air check is a small float or ball in a cage at the foot of the assembly. While there is brine above it, it floats open. Once the brine has been drawn down, it drops and seals, so the injector cannot keep sucking and pull air into the resin tank.
 

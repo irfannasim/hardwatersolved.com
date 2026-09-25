@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 584" width="760" height="584" role="img" aria-labelledby="g6tp-title g6tp-desc">
+<title id="g6tp-title">Where to test water after installing a softener</title>
+<desc id="g6tp-desc">Plumbing diagram showing where to test water after installing a softener: the outlet test point right after the softener versus a house fixture, with an outdoor spigot and a later addition branched off before the softener and a crossover leaking hard water into the soft side.</desc>
+<defs><marker id="g6tp-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g6tp-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="g6tp-f" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="584" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Where to test after installing a softener</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Test at the softener outlet first. It tells you which half of the problem you have.</text>
+<text x="30" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">SUPPLY · hard</text>
+<path class="ln" d="M30,150 L190,150" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6tp-h)"/>
+<rect class="box" x="196" y="136" width="58" height="28" rx="6" fill="#fef3c7" stroke="#3a5a72" stroke-width="2"/>
+<text x="225" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">bypass</text>
+<path class="ln" d="M254,150 L268,150" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="butt" stroke-linejoin="round"/>
+<rect class="box" x="270" y="124" width="110" height="52" rx="8" fill="#0b2f4a"/>
+<text x="325" y="155" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">SOFTENER</text>
+<path class="ln" d="M380,150 L722,150" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6tp-s)"/>
+<text x="730" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0e7490">TO HOUSE · soft</text>
+<path class="ln" d="M440,153 L440,190" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="butt" stroke-linejoin="round"/>
+<rect x="430" y="190" width="20" height="10" rx="3" fill="#0e7490"/>
+<path d="M442,200 L442,210" fill="none" stroke="#0e7490" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="440" cy="150" r="12" fill="none" stroke="#dc2626" stroke-width="3"/>
+<text x="426" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#dc2626">OUTLET TEST POINT</text>
+<text x="426" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">test cock or nearby utility sink</text>
+<path class="ln" d="M670,153 L670,190" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="butt" stroke-linejoin="round"/>
+<rect x="660" y="190" width="20" height="10" rx="3" fill="#0e7490"/>
+<path d="M672,200 L672,210" fill="none" stroke="#0e7490" stroke-width="4" stroke-linejoin="round"/>
+<text x="670" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">HOUSE FIXTURE</text>
+<text x="670" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">e.g. the kitchen tap</text>
+<path class="ln" d="M140,153 L140,290 L346,290" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6tp-h)"/>
+<rect x="352" y="282" width="20" height="10" rx="3" fill="#c2410c"/>
+<path d="M364,292 L364,302" fill="none" stroke="#c2410c" stroke-width="4" stroke-linejoin="round"/>
+<text x="384" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">outdoor spigot, often split</text>
+<text x="384" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">off before the softener</text>
+<path class="ln" d="M170,153 L170,384 L576,384" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="190" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">later addition plumbed from</text>
+<text x="190" y="363" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">a pipe upstream of the softener</text>
+<path class="ln" d="M580,380 L580,166" fill="none" stroke="#dc2626" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" marker-end="url(#g6tp-f)"/>
+<text x="594" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">crossover:</text>
+<text x="594" y="299" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">hard water</text>
+<text x="594" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">leaks back into</text>
+<text x="594" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">the soft side</text>
+<rect class="box" x="30" y="412" width="700" height="128" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="436" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Read the two results together</text>
+<text x="46" y="460" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Outlet 0, fixture hard: the plumbing between them (step 8)</text>
+<text x="46" y="482" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Outlet hard: the softener itself (steps 1 to 7)</text>
+<text x="46" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Both 0: the symptom is not hardness (step 9)</text>
+<text x="46" y="526" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Both low but not zero: blending or capacity (steps 1, 2 and 6)</text>
+<rect x="30" y="561" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="64" y="569" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hard water</text>
+<rect x="155" y="561" width="26" height="6" rx="3" fill="#0e7490"/>
+<text x="189" y="569" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">soft water</text>
+<path d="M280,564 L306,564" stroke="#dc2626" stroke-width="3" stroke-dasharray="5 4"/>
+<text x="314" y="569" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">crossover</text>
+</svg>

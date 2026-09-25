@@ -4,6 +4,7 @@ seoTitle: "Brine Tank Full of Water? Stop It Fast, Then 4 Sure Fixes"
 seoDescription: "Brine tank full of water or overflowing? Bypass the softener first, then work through the injector, brine valve, safety float and valve in order."
 excerpt: "There is water on the floor beside the softener, or the brine tank is brimming with it when it should hold a few inches. Diagnosis can wait ten minutes. Bypass the unit, get the water level down, and keep the salt. Then the cause is almost always one of four things, in a predictable order: an injector that has stopped drawing brine, a brine valve that will not close, a safety float that was supposed to prevent exactly this and did not, or a valve stuck partway through a cycle."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/7717858/pexels-photo-7717858.jpeg"
@@ -50,6 +51,8 @@ A brine tank full of water is only a fault if it is fuller than your design inte
 
 **Pre-fill tanks** add water about two hours before regeneration and sit nearly dry the rest of the time. The [Clack WS1 manual](https://www.clackcorp.com/wp-content/uploads/2025/10/V3115_WS1_1.25.pdf) describes both options; which one your unit uses was chosen by the equipment maker.
 
+![Brine tank cross-section showing normal water level above the grid plate, fault levels, safety float and overflow fitting piped to a drain](/diagrams/brine-tank-water-levels-normal-vs-fault.svg "Normal and fault water levels in a brine tank, and where the float and overflow sit")
+
 | What you see | Post-fill tank | Pre-fill tank |
 |---|---|---|
 | A few inches of water under the salt | Normal | Last draw incomplete — watch it |
@@ -74,13 +77,11 @@ Before opening anything, work out *when* the level rises. That single observatio
 
 ## Cause 1: The Injector Is Not Drawing Brine
 
-![Metal plumber's wrench resting on a wooden surface, the tool used to loosen fittings when removing and cleaning a softener injector](https://images.pexels.com/photos/8488058/pexels-photo-8488058.jpeg)
-
 This is the most common cause by a distance, and it is really a brine-draw failure showing up as a water problem.
 
 **How it fills the tank.** Every regeneration the valve refills the tank with a measured amount of water. If the brine draw stage never pulls that water back out, the next refill adds more on top. Cycle by cycle, the tank fills.
 
-**Why the injector stops drawing.** The injector is a small venturi — nozzle and throat — on the valve body. It uses water flowing to the drain to create suction on the brine line. The Fleck troubleshooting chart lists these as causes of excessive water in the brine tank:
+**Why the injector stops drawing.** The injector is a small venturi — nozzle and throat — on the valve body. Water forced through it creates suction on the brine line, and that water has to keep moving on through the resin tank and out to the drain. The Fleck troubleshooting chart lists these as causes of excessive water in the brine tank:
 
 - **Plugged injector or injector screen** — sediment, iron or pipe debris
 - **Plugged drain line flow control** — the restrictor in the drain fitting
@@ -99,8 +100,6 @@ Two more causes stop the injector working even when it is clean:
 **If the brine well itself is blocked** by sludge from the salt, the injector may be fine and simply starved. A cleanout clears it — see [how to clean a water softener brine tank](/blog/how-to-clean-a-water-softener-brine-tank/).
 
 ## Cause 2: The Brine Valve Is Not Shutting Off
-
-![Water leaking from a joint in an outdoor pipe, similar to the steady leak-by of a worn brine valve seat letting water into a softener tank](https://images.pexels.com/photos/18274115/pexels-photo-18274115.jpeg)
 
 The brine valve controls water moving into and out of the tank through the brine line. If it will not seal, water seeps in between regenerations, slowly and continuously.
 
@@ -142,8 +141,6 @@ This is the part of the system whose only job is to stop the brine tank overflow
 **Internal leaks.** On piston-and-seal valves, worn seals and spacers let water bypass to the brine port even while the valve is in service. The level creeps up with no regeneration running. Often the drain line trickles too — if so, see [water softener constantly draining](/blog/water-softener-constantly-draining/). The fix is a seal and spacer kit, and on many valves a new piston; some valves need a puller tool to extract the stack.
 
 ## The Overflow Fitting Is Your Last Line of Defence
-
-![Wet, cracked concrete floor surface with standing moisture, showing why a brine tank overflow fitting needs its own line to a drain](https://images.pexels.com/photos/5214204/pexels-photo-5214204.jpeg)
 
 Most brine tanks have a small elbow fitting on the side, below the rim. It exists so that if every other safeguard fails, the water goes to a drain rather than across the floor.
 

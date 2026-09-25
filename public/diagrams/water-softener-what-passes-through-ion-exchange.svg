@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 504" width="760" height="504" role="img" aria-labelledby="g7wpt-title g7wpt-desc">
+<title id="g7wpt-title">What passes through a water softener</title>
+<desc id="g7wpt-desc">Diagram of what passes through a water softener: calcium and magnesium are held on the resin and swapped for sodium, while silica and other dissolved solids pass through unchanged and can still dry as white spots, along with detergent overdose.</desc>
+<defs><marker id="g7wpt-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g7wpt-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="g7wpt-steel" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><pattern id="g7wpt-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern></defs>
+<rect width="760" height="504" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">What a softener removes, and what gets past it</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Zero hardness is not zero residue: three things can still dry to a white mark.</text>
+<text x="30" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">IN: raw water</text>
+<text x="380" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">SOFTENER</text>
+<text x="520" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">OUT: softened water</text>
+<path class="ln" d="M242,232 L508,232" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wpt-steel)"/>
+<path class="ln" d="M242,300 L508,300" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wpt-steel)"/>
+<rect x="310" y="122" width="140" height="212" rx="24" fill="url(#g7wpt-beads)" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M242,150 L354,150" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wpt-hard)"/>
+<path class="ln" d="M420,150 L508,150" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wpt-soft)"/>
+<rect class="box" x="322" y="168" width="116" height="42" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1"/>
+<text x="380" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Ca²⁺, Mg²⁺ held</text>
+<text x="380" y="202" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Na⁺ released</text>
+<rect class="box" x="30" y="125" width="210" height="50" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="42" y="145" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Calcium, magnesium</text>
+<text x="42" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">the hardness</text>
+<rect class="box" x="30" y="207" width="210" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="42" y="227" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Silica (SiO₂)</text>
+<text x="42" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">often 20–60 mg/L</text>
+<rect class="box" x="30" y="275" width="210" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="42" y="295" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Other dissolved solids</text>
+<text x="42" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">already in the supply</text>
+<rect class="box" x="520" y="125" width="210" height="50" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="532" y="145" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hardness: zero</text>
+<text x="532" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">each Ca²⁺ swapped for 2 Na⁺</text>
+<rect class="box" x="520" y="207" width="210" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="532" y="227" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Silica: unchanged</text>
+<text x="532" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">passes the bed untouched</text>
+<rect class="box" x="520" y="275" width="210" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="532" y="295" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Dissolved-solids load</text>
+<text x="532" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">similar or slightly higher</text>
+<text x="30" y="372" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">What can still dry to a white mark</text>
+<rect class="box" x="30" y="388" width="220" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Silica haze</text>
+<text x="44" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">vinegar does nothing</text>
+<rect class="box" x="270" y="388" width="220" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="284" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Sodium / solids film</text>
+<text x="284" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">wipes off with plain water</text>
+<rect class="box" x="510" y="388" width="220" height="56" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="524" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Detergent overdose</text>
+<text x="524" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">added by you, not the water</text>
+<rect x="30" y="475" width="26" height="6" rx="3" fill="#c2410c"/><text x="64" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hardness</text>
+<rect x="180" y="475" width="26" height="6" rx="3" fill="#0e7490"/><text x="214" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">softened water</text>
+<rect x="330" y="475" width="26" height="6" rx="3" fill="#3a5a72"/><text x="364" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">passes through unchanged</text>
+<rect x="530" y="471" width="22" height="14" fill="url(#g7wpt-beads)" stroke="#3a5a72"/>
+<text x="560" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">resin bed</text>
+</svg>

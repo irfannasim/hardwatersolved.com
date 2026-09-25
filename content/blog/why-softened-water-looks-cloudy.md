@@ -4,6 +4,7 @@ seoTitle: "Why Softened Water Looks Cloudy: Air or a Real Fault?"
 seoDescription: "Softened water looks cloudy for one of three reasons. The glass test settles it in two minutes: clearing from the bottom up is air, uniform haze is particles."
 excerpt: "One test decides this, and it takes two minutes and a clear glass. Water that clears from the bottom upward is dissolved air and needs nothing done about it. Water that stays uniformly hazy is carrying something — resin fines, sediment or precipitate — and each of those has a different next step and a different cost."
 date: "2026-09-16"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/13464445/pexels-photo-13464445.jpeg"
@@ -16,7 +17,7 @@ faqs:
   - question: "How do I tell whether cloudy water is air or particles?"
     answer: "Fill a clear glass with cold water, set it on a flat surface and do not touch it. Watch the boundary between cloudy and clear. If a clear zone forms at the bottom and rises to the top over 30 to 120 seconds, the cloudiness was air — the bubbles are floating up and popping. If the glass fades uniformly, or if a fine layer settles at the bottom after several minutes, you have particles. A photograph at 30 seconds and at 2 minutes makes the difference obvious."
   - question: "Why is my water cloudy after the water softener was serviced?"
-    answer: "A media change disturbs the bed and releases fine broken beads and manufacturing dust, which pass into the service line for the first few days. It usually shows as a faint haze, sometimes with a slight amber sparkle in direct light. Run several outside taps hard for ten minutes each, clean every aerator in the house, and give it a few days of normal use. If it has not cleared after a week, the upper distributor screen may be damaged or missing, which lets whole beads through and is a different repair."
+    answer: "A media change disturbs the bed and releases fine broken beads and manufacturing dust, which pass into the service line for the first few days. It usually shows as a faint haze, sometimes with a slight amber sparkle in direct light. Run several outside taps hard for ten minutes each, clean every aerator in the house, and give it a few days of normal use. If it has not cleared after a week, the riser tube or the lower distributor basket may be cracked or damaged, which lets whole beads through and is a different repair."
   - question: "Why is only my hot water cloudy?"
     answer: "Because heating water drives dissolved gases out of solution. Cold water arriving under pressure holds more air than hot water can, so the bubbles appear as the water warms — which is why hot taps often look milky when cold taps do not. That is normal and needs nothing done. The exception is a water heater at the end of its life shedding sediment, which produces a cloudiness that does not clear in the glass and often comes with grit in the aerators. That is covered by hard water sediment in a water heater."
   - question: "Can a water softener cause cloudy water permanently?"
@@ -29,7 +30,7 @@ A softener does not make water cloudy. Ion exchange swaps calcium and magnesium 
 
 ## Why Softened Water Looks Cloudy: The Two-Minute Glass Test
 
-![Clear glass of water standing on a sunlit table, the settling test that separates dissolved air from suspended particles](https://images.pexels.com/photos/31206817/pexels-photo-31206817.jpeg)
+![Cloudy water glass test: air clears from the bottom up in 30–120 seconds, particles fade evenly, sediment settles, and colloidal haze never clears](/diagrams/cloudy-water-glass-test-air-vs-particles.svg "Watch which way the glass clears. Bottom-up means air")
 
 Do this properly. It is the whole diagnosis.
 
@@ -66,8 +67,6 @@ This is the answer in the clear majority of cases, and it has a few characterist
 
 ## Cause 2: Resin Fines After a Media Change
 
-![Assorted metal pipes and fittings, the plumbing that carries resin fines through the house after a softener media change](https://images.pexels.com/photos/39317590/pexels-photo-39317590.jpeg)
-
 If the cloudiness started within days of a resin change or a new softener installation, this is almost certainly it.
 
 A bed of fresh resin contains a proportion of broken beads and manufacturing dust. Commissioning should include a thorough backwash to flush that out, and often does not, or does not do enough. What remains passes into the service line for the first few days of use.
@@ -86,7 +85,7 @@ A bed of fresh resin contains a proportion of broken beads and manufacturing dus
 3. **Clean every aerator in the house** and the washing machine and dishwasher inlet screens. Fines collect there and keep releasing for weeks if left.
 4. **Give it a week** of normal use.
 
-**If it has not cleared after a week,** stop flushing and look at the distributor. Whole amber beads appearing in aerators, rather than fine dust, mean the upper screen or the lower distributor basket is damaged, cracked or missing — a real repair, and one that will also cause the bed to lose media steadily until it is fixed.
+**If it has not cleared after a week,** stop flushing and look at the distributor. Whole amber beads appearing in aerators, rather than fine dust, mean the riser (distributor) tube or the lower distributor basket is damaged, cracked or missing — a real repair, and one that will also cause the bed to lose media steadily until it is fixed.
 
 ## Cause 3: Sediment Passing Through the System
 
@@ -108,7 +107,7 @@ A softener is not a sediment filter. It removes dissolved hardness by ion exchan
 
 ## Cause 4: Air Drawn In at a Well Pressure Tank
 
-![Stainless steel pipe with a pressure gauge, the pressure tank connection where a waterlogged tank or a leak can draw air into a well system](https://images.pexels.com/photos/8940464/pexels-photo-8940464.jpeg)
+![Well pressure system diagram showing where air enters and makes water cloudy: waterlogged tank, suction-side leak, low well level and a worn snifter valve](/diagrams/well-pressure-system-air-entry-points.svg "On a well, persistent milky water starts at the pump and tank, not the softener")
 
 On private wells, persistent air is common enough to deserve its own section, because the fix is at the pressure tank rather than anywhere near the softener.
 

@@ -4,6 +4,7 @@ seoTitle: "Water Softener Ran Out of Salt? 5 Easy Steps to Recover"
 seoDescription: "Water softener ran out of salt? Refilling is not enough. Give the salt at least 2 hours to make brine, run a manual cycle, then decide if a second is needed."
 excerpt: "The kettle is scaling again, the soap will not lather, and the brine tank turns out to be empty. Pouring in a bag of salt feels like the fix, but the resin is completely exhausted and the salt has not dissolved yet, so the next regeneration may rinse the bed with barely salty water. Recovery takes a wait, a manual cycle, a test, sometimes a second cycle, and a flush of the hard water already sitting in the water heater."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/6690851/pexels-photo-6690851.jpeg"
@@ -67,8 +68,6 @@ This is the order of events, with the time each step needs.
 
 ## Step 2: The Wait Everyone Skips
 
-![Brass-framed hourglass with sand running on a wooden table, a reminder of the hours fresh softener salt needs to dissolve into usable brine before a regeneration](https://images.pexels.com/photos/9862247/pexels-photo-9862247.jpeg)
-
 Clack's [WS1 operation manual](https://www.clackcorp.com/wp-content/uploads/2025/10/V3115_WS1_1.25.pdf) puts it in one line: "For softeners, if brine tank does not contain salt, fill with salt and wait at least 2 hours before regenerating."
 
 **Why the wait matters.** The water sitting in the tank has been there since the last refill, with no salt to dissolve. Pouring pellets on top does not make it brine instantly; the salt has to dissolve into it. A regeneration started five minutes after refilling draws weak brine, and the resin comes out partly recharged at best.
@@ -109,8 +108,6 @@ One regeneration is not guaranteed to restore a bed that ran completely dry. The
 **A second cycle is the limit.** If the water is still hard after two good cycles with confirmed brine draw, more regenerations will not fix it; see the section on persistent hardness below.
 
 ## Step 5: Flush the Hard Water Already in the House
-
-![Row of outdoor taps with water trickling from one, the kind of running tap that gradually flushes hard water out of household pipes after a softener recovers](https://images.pexels.com/photos/67184/pexels-photo-67184.jpeg)
 
 The softener can only soften water that passes through it from now on. Everything already stored downstream is still hard.
 

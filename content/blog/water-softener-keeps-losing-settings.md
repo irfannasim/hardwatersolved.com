@@ -4,6 +4,7 @@ seoTitle: "Water Softener Loses Settings? The Proven 7-Step Fix"
 seoDescription: "Water softener loses settings after every outage? Its clock backup is dead. Identify the part by valve brand, replace it, then run a 7-step post-outage check."
 excerpt: "The power blinked for ten minutes last night and the softener is flashing 12:00 again. On most modern control valves the hardness, capacity and salt settings are stored permanently; what gets lost is the clock, and the clock is kept alive through an outage by a small backup part most owners never know exists. When that part dies, every flicker resets the time, and a softener that regenerates at the wrong hour quietly sends hard water to the house when everyone is showering."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/38171184/pexels-photo-38171184.jpeg"
@@ -26,8 +27,6 @@ When a **water softener loses settings** after every power cut, it is almost alw
 Sometimes the fix is a few-dollar coin cell; sometimes the backup is built into the controller. The hard part is that most owner's manuals barely mention the backup exists, so people reprogram the unit after every storm without knowing there is a part to replace.
 
 ## Settings or Clock: What Your Softener Actually Forgets
-
-![Close-up of cylindrical capacitors on a red circuit board, the kind of on-board component that can hold a control valve's clock through a short outage](https://images.pexels.com/photos/6385894/pexels-photo-6385894.jpeg)
 
 Before looking for a failed part, work out which of two very different problems you have.
 
@@ -96,8 +95,6 @@ Clack's manual shows the battery seated on the control behind the front cover, w
 
 ## When the Settings Really Are Being Lost
 
-![Red digital clock display glowing in a dark room, the kind of reset clock a softener shows after an outage outlasts its backup](https://images.pexels.com/photos/9458647/pexels-photo-9458647.jpeg)
-
 If hardness, capacity or regeneration time are changing, look at these causes, roughly in order of likelihood.
 
 **Someone reset it.** A Fleck SXT has a soft reset, holding Extra Cycle and Down for 25 seconds, which the manual says "resets all parameters to the system default values". Holding Extra Cycle while powering up performs a master reset. Children, a cleaner leaning on the keypad, or a well-meaning visitor can trigger either.
@@ -116,15 +113,15 @@ Clack's manual states the reason directly: a system is set to regenerate "when a
 
 **How that plays out after an outage.** The power drops at 3:00 in the afternoon and the backup is dead. The clock restarts at 12:00. From then on it believes 3:00 PM is midnight, so the 2:00 AM regeneration now runs around 5:00 in the afternoon. That is dinner, dishes and showers, all on hard water, for up to two hours, every time it regenerates. Nothing on the display looks wrong unless you notice the time.
 
-**The AM/PM trap.** Many controls toggle AM and PM as the hour passes 12. A clock set to 7:00 when it is 7:00 PM puts every regeneration twelve hours out, straight into the morning rush.
+![Timeline showing how a water softener that loses its clock settings in a 3 PM outage shifts its 2 AM regeneration to about 5 PM](/diagrams/water-softener-clock-reset-regeneration-time-shift.svg "A reset clock moves the 2 AM regeneration to 5 PM, into peak water use")
+
+**The AM/PM trap.** Many controls toggle AM and PM as the hour passes 12. A clock set to 7:00 when it is 7:00 PM puts every regeneration twelve hours out: a 2:00 AM regeneration runs at 2:00 PM, in the middle of the day, when someone at home may be running water.
 
 **The quieter cost.** Hard water sent to the water heater during a daytime regeneration stays there. Nobody sees scale form, and the softener gets blamed months later for "not working". If you want to confirm when your unit regenerates, [why a water softener will not regenerate](/blog/water-softener-will-not-regenerate/) walks through reading the regeneration schedule and history.
 
 **A missed regeneration shifts too.** Fleck's SXT will not start a regeneration without line power. If an outage makes it miss one, it queues it for the next time the clock reaches the regeneration time, "typically... one day after it was originally scheduled." The manual suggests setting enough reserve capacity to cover that delay where outages are common.
 
 ## The 7-Step Post-Outage Checklist
-
-![Woman rinsing her hair under a running shower, the peak-demand water use that receives unsoftened water if a softener's clock drifts and it regenerates in the evening](https://images.pexels.com/photos/5269483/pexels-photo-5269483.jpeg)
 
 Run this after any outage long enough that the lights went off, even if the display looks normal.
 

@@ -4,6 +4,7 @@ seoTitle: "Why Soft Water Feels Slippery (and Why That Is Normal)"
 seoDescription: "Soft water feels slippery because soap rinses off completely instead of leaving curd on your skin. It is the softener working — and cutting soap dose fixes it."
 excerpt: "The slippery feeling is the single most common complaint from new softener owners, and it is the opposite of what almost everyone assumes. It is not leftover soap. It is the absence of the soap scum that hard water used to deposit on your skin, plus your own skin oils left where they belong. The practical fix is dose, not equipment."
 date: "2026-09-16"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/8284365/pexels-photo-8284365.jpeg"
@@ -38,6 +39,8 @@ Soap is a salt of a fatty acid — sodium stearate, in a traditional bar. In wat
 That layer has texture. Run a finger across it and it grips. Your brain has been reading that grip as *clean* for your whole life.
 
 **In soft water**, there is no calcium to react with. The soap stays soluble, does its job, and rinses away entirely. What is left on your skin is your skin: its own lipid layer, undisturbed, with nothing stuck on top of it. Skin in that condition has very low surface friction — and low friction is what you are interpreting as slippery.
+
+![Soap scum on skin in hard vs soft water: calcium stearate curd coats skin and feels squeaky, while soft water rinses soap off and feels slippery](/diagrams/soap-scum-on-skin-hard-vs-soft-water.svg "Squeaky is soap scum on your skin. Slippery is skin with nothing on it")
 
 | | Hard water | Soft water |
 |---|---|---|

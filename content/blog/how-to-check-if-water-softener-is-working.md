@@ -4,6 +4,7 @@ seoTitle: "How to Check If Your Water Softener Is Actually Working"
 seoDescription: "How to check if a water softener is working: test the outlet and the inlet in the same ten minutes. The paired result separates equipment faults from plumbing."
 excerpt: "Almost everyone tests the kitchen tap, gets a hard reading, and concludes the softener has failed. That single sample cannot tell you whether the unit stopped softening or whether the water never went through it. Two samples taken ten minutes apart — one at the inlet, one at the outlet — answer the question outright, and four things you can watch during a normal week tell you a system is degrading long before any tap goes hard."
 date: "2026-09-21"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/34295402/pexels-photo-34295402.jpeg"
@@ -29,8 +30,6 @@ That distinction matters because the kitchen tap — where almost everyone tests
 
 ## Why One Sample Cannot Answer the Question
 
-![Gloved hand holding a clear sample tube in a darkened laboratory, the paired-sample discipline a hardness check depends on](https://images.pexels.com/photos/36854273/pexels-photo-36854273.jpeg)
-
 A hard reading at the kitchen tap is consistent with at least six completely different situations, and they have nothing in common except the number on the strip.
 
 | What the kitchen tap shows | Could mean |
@@ -50,6 +49,8 @@ Five of those six are not equipment faults. Spending an afternoon opening a valv
 
 Most softeners give you two accessible points without any plumbing work.
 
+![Plumbing diagram showing where to take inlet and outlet samples to check if a water softener is working, from a hose bib and the nearest downstream tap.](/diagrams/water-softener-inlet-outlet-sampling-points.svg "Test the untreated inlet and the nearest outlet together. The kitchen tap alone proves nothing.")
+
 **The outlet sample.** Ideal is a sample tap on the outlet pipe itself, which some installers fit. If there is none, the next best point is the **nearest cold tap downstream of the unit** — usually a laundry tap or a basement utility sink, a few feet of pipe away rather than fifty. The closer the tap, the less chance of something in between confusing the result.
 
 **The inlet sample.** An outdoor hose bib is the usual choice, because most installations deliberately leave outdoor lines on untreated water. Confirm yours is one of them: if the bib reads zero, it is softened and cannot serve as your raw reference. The alternative is the tap nearest the point where the supply enters the house, or — on municipal water — the hardness figure from your utility's annual report, available through the EPA's [Consumer Confidence Report](https://www.epa.gov/ccr) system.
@@ -63,8 +64,6 @@ Most softeners give you two accessible points without any plumbing work.
 The full procedure, including the errors that quietly ruin a reading, is in [how to test water hardness at home](/blog/how-to-test-water-hardness-at-home/) and [common water hardness sampling mistakes](/blog/water-hardness-sampling-mistakes/).
 
 ## How to Check If a Water Softener Is Working: Reading the Two Numbers
-
-![Row of test tubes holding graded colour solutions beside a pipette, the titration step that gives a hardness figure rather than a colour band](https://images.pexels.com/photos/8325713/pexels-photo-8325713.jpeg)
 
 Four combinations are possible, and each one points somewhere different.
 
@@ -80,8 +79,6 @@ Four combinations are possible, and each one points somewhere different.
 If the outlet is genuinely at zero and the house is still hard, the diagnosis moves to the pipework, and the mapping method in [why only some faucets have soft water](/blog/only-some-faucets-have-soft-water/) is the next step. If the outlet is hard, the fault tree in [why water is still hard after installing a softener](/blog/water-still-hard-after-installing-softener/) works through the causes in cost order.
 
 ## The Four Signs a Healthy System Shows Between Tests
-
-![Domestic water meter and pipework set into a concrete wall, the counter that tells you whether a demand-initiated softener is still measuring flow](https://images.pexels.com/photos/11658940/pexels-photo-11658940.jpeg)
 
 A hardness test is a snapshot. These four checks catch a system sliding towards failure weeks before any tap goes hard — and they cost nothing.
 
@@ -113,8 +110,6 @@ Fill it in monthly, and once after any service visit. Within a year it answers q
 This log is also what turns a service call from a conversation into a diagnosis. A technician handed twelve months of gallons-between-regenerations has most of the answer before opening anything.
 
 ## What a Passing Test Does Not Prove
-
-![Painted industrial pipework and coloured isolation valves on a wall, the downstream plumbing a passing outlet test says nothing about](https://images.pexels.com/photos/29248902/pexels-photo-29248902.jpeg)
 
 A zero at the outlet is a narrow claim, and it is worth being precise about how narrow.
 

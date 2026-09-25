@@ -4,6 +4,7 @@ seoTitle: "Water Softener Using Too Much Salt? 5 Costly Causes Fixed"
 seoDescription: "Water softener using too much salt? Check for hardness entered in ppm instead of grains first, then timers and a brine tank that never stops filling."
 excerpt: "A bag of salt used to last six weeks and now it is gone in ten days. Before blaming the softener, check one number on the control: the hardness. Entered in parts per million on a valve that expects grains per gallon, it tells the softener the water is seventeen times harder than it is, and the softener obediently regenerates far more often. After that come timers running blind, oversized salt doses and a brine valve that never shuts. A simple calculation tells you what normal should look like first."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/7680736/pexels-photo-7680736.jpeg"
@@ -51,8 +52,6 @@ That means the hardness entry directly sets how often the softener regenerates. 
 **The legitimate reason for a high setting.** Installers sometimes raise the hardness entry deliberately to account for dissolved iron, which the resin also removes and which uses up capacity. The Clack manual notes that the setting can be increased when soluble iron needs to be reduced. A setting a few grains above your measured hardness on iron-bearing well water may be correct. A setting ten times above it is not.
 
 ## Is It Really Too Much? The Expected-Consumption Calculator
-
-![Close-up of coarse white sea salt piled in a wicker basket, a visual reminder of how much softener salt a household should get through in a month](https://images.pexels.com/photos/27098272/pexels-photo-27098272.jpeg)
 
 Salt use scales with three things: how much water you soften, how hard it is, and how efficiently each pound of salt is converted into softening capacity.
 
@@ -109,8 +108,6 @@ Older and cheaper softeners regenerate on a clock: every third night, or every T
 
 ## Salt Dose Set Higher Than It Needs
 
-![A hand holding a small heap of white salt crystals outdoors, representing the fixed salt dose a softener is programmed to use in every regeneration](https://images.pexels.com/photos/17695484/pexels-photo-17695484.jpeg)
-
 The salt setting — pounds per regeneration — controls how much brine is made for each cycle. More salt does recharge the resin more fully, but with steeply falling returns.
 
 The Clack WS1 manual groups salt doses into three efficiency bands:
@@ -127,7 +124,7 @@ The Clack WS1 manual groups salt doses into three efficiency bands:
 
 ## A Brine Tank That Never Stops Filling
 
-![Water flowing steadily from a tap into a sink with bubbles on the surface, the same uninterrupted flow a stuck brine valve sends into a softener tank](https://images.pexels.com/photos/20661422/pexels-photo-20661422.jpeg)
+![Diagram of a water softener brine tank overfilling, showing how extra refill water dissolves salt that leaves by the drain or the overflow elbow](/diagrams/brine-tank-overfill-salt-waste-paths.svg "Extra refill water turns into extra brine, and that salt goes to waste")
 
 This is the mechanical cause, and it is the one that combines high salt use with other visible symptoms.
 

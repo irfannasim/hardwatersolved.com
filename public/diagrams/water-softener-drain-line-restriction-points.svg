@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 576" width="760" height="576" role="img" aria-labelledby="g7sdl-title g7sdl-desc">
+<title id="g7sdl-title">Water softener drain line restriction points</title>
+<desc id="g7sdl-desc">Water softener drain line showing the restrictions that stop brine rinsing to the drain and make water taste salty: a clogged flow control button, kinked tubing, too much vertical rise, and a missing air gap at the standpipe.</desc>
+<defs><marker id="g7sdl-drain" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="g7sdl-dim" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><pattern id="g7sdl-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern></defs>
+<rect width="760" height="576" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Where a softener drain line gets restricted</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">The final rinse flushes the last brine to the drain. If the drain can’t take the flow,</text>
+<text x="30" y="90" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">that brine leaves through the house instead, and the water tastes salty.</text>
+<path d="M30,440 L730,440" stroke="#3a5a72" stroke-width="2"/>
+<rect x="62" y="232" width="86" height="208" rx="18" fill="url(#g7sdl-beads)" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="50" y="182" width="110" height="48" rx="8" fill="#0b2f4a" stroke="none" stroke-width="2"/>
+<text x="105" y="211" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">VALVE</text>
+<text x="105" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">softener</text>
+<path class="ln" d="M162,206 L236,206 L242,198 L248,214 L254,198 L260,214 L266,206 L320,206 L320,126 L560,126 L560,188" fill="none" stroke="#78716c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7sdl-drain)"/>
+<rect x="186" y="197" width="12" height="18" rx="2" fill="#0b2f4a" stroke="none" stroke-width="2"/>
+<rect x="544" y="232" width="32" height="208" fill="#f5f5f4" stroke="#3a5a72" stroke-width="2"/>
+<text x="560" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">standpipe</text>
+<path class="ln" d="M192,192 L192,180" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="150" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Flow control button:</text>
+<text x="150" y="167" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">clogs with salt fines</text>
+<path class="ln" d="M251,220 L251,240" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="214" y="258" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Kinked or crushed tubing</text>
+<text x="214" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">behind the tank</text>
+<path class="ln" d="M350,167 L350,136" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7sdl-dim)"/>
+<path class="ln" d="M350,167 L350,198" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7sdl-dim)"/>
+<text x="364" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Vertical rise: limit is</text>
+<text x="364" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">commonly around 4–6 ft,</text>
+<text x="364" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">less at low supply pressure</text>
+<path d="M592,196 L604,196 M592,230 L604,230 M598,196 L598,230" stroke="#15803d" stroke-width="1.5"/>
+<text x="612" y="204" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Air gap: hose end</text>
+<text x="612" y="221" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">above the pipe,</text>
+<text x="612" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">not pushed in</text>
+<rect class="box" x="214" y="312" width="300" height="104" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="230" y="336" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">The test</text>
+<text x="230" y="358" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Start a manual regeneration. At backwash,</text>
+<text x="230" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">expect a strong, steady flow at the drain.</text>
+<text x="230" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Weak, surging or on-off flow = restriction.</text>
+<rect class="box" x="30" y="486" width="700" height="40" rx="20" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="380" y="511" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Also check any outdoor run: it can freeze partly, so the cycle still seems to work.</text>
+<rect x="30" y="549" width="26" height="6" rx="3" fill="#78716c"/>
+<text x="64" y="556" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">drain line (brine and rinse water)</text>
+<rect x="300" y="545" width="22" height="14" fill="url(#g7sdl-beads)" stroke="#3a5a72"/>
+<text x="330" y="556" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">resin tank</text>
+</svg>

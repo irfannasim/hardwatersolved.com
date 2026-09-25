@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 612" width="760" height="612" role="img" aria-labelledby="g6of-title g6of-desc">
+<title id="g6of-title">Water softener brine tank overfilling and wasting salt</title>
+<desc id="g6of-desc">Diagram of a water softener brine tank that overfills: refill water runs too long or leaks in, the level rises well up into the salt past a float defeated by salt crystals, and the extra brine leaves either through the next regeneration to the drain or out of the overflow elbow.</desc>
+<defs><pattern id="g6of-s" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#f8fafc"/><rect x="2" y="2" width="7" height="6" rx="1.5" fill="#cbd5e1"/></pattern><marker id="g6of-w" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="g6of-b" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="g6of-d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="g6of-m" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="612" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">A brine tank that never stops filling</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Extra refill water dissolves extra salt, and that brine leaves by one of two exits.</text>
+<rect x="30" y="100" width="160" height="50" rx="8" fill="#0b2f4a"/>
+<text x="110" y="131" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">CONTROL VALVE</text>
+<text x="200" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">refill runs too long, or the brine valve leaks between cycles</text>
+<text x="206" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#7c3aed">next regeneration draws it</text>
+<rect x="200" y="180" width="240" height="290" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="202" y="230" width="236" height="236" fill="url(#g6of-s)"/>
+<rect x="202" y="258" width="236" height="210" fill="#dbeafe" opacity="0.55"/>
+<path d="M202,258 L438,258" stroke="#dc2626" stroke-width="2.5"/>
+<path d="M202,410 L438,410" stroke="#15803d" stroke-width="2" stroke-dasharray="7 5"/>
+<rect x="376" y="206" width="30" height="258" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
+<path class="ln" d="M194,114 L384,114 L384,200" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6of-w)"/>
+<path class="ln" d="M398,204 L398,136 L198,136" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6of-b)"/>
+<rect x="378" y="258" width="26" height="204" fill="#dbeafe" opacity="0.8"/>
+<rect x="390" y="210" width="3" height="44" fill="#3a5a72"/>
+<rect x="387" y="214" width="9" height="7" rx="1" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<rect x="387" y="228" width="9" height="7" rx="1" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<rect x="387" y="242" width="9" height="7" rx="1" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+<rect x="381" y="252" width="21" height="16" rx="4" fill="#fbbf24" stroke="#0b2f4a" stroke-width="1.5"/>
+<rect x="438" y="255" width="14" height="14" fill="#3a5a72"/>
+<path class="ln" d="M452,262 L458,262 L458,466" fill="none" stroke="#78716c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6of-d)"/>
+<path class="ln" d="M62,150 L62,436" fill="none" stroke="#78716c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6of-d)"/>
+<text x="62" y="468" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">DRAIN</text>
+<text x="76" y="272" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">exit 1: brine</text>
+<text x="76" y="289" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">drawn next</text>
+<text x="76" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">regeneration,</text>
+<text x="76" y="323" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">flushed to</text>
+<text x="76" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">the drain</text>
+<path class="ln" d="M407,212 L468,204" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="474" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">float on its rod: salt</text>
+<text x="474" y="217" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">crystals on the rod</text>
+<text x="474" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">defeat the backstop</text>
+<path class="ln" d="M438,280 L468,286" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="474" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">overfilled: water</text>
+<text x="474" y="299" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">well up into the salt</text>
+<text x="474" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">about 3 lb of salt dissolves</text>
+<text x="474" y="353" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">into every gallon</text>
+<path class="ln" d="M438,410 L468,400" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="474" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#15803d">where the level</text>
+<text x="474" y="413" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#15803d">used to be</text>
+<text x="474" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">exit 2: brine rises to the</text>
+<text x="474" y="463" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">overflow elbow and</text>
+<text x="474" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">leaves onto the floor</text>
+<rect class="box" x="30" y="506" width="700" height="60" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Common culprits: refill time programmed too long · debris in the brine valve seat</text>
+<text x="46" y="552" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">a damaged brine line flow control · a float that sticks</text>
+<rect x="30" y="589" width="26" height="6" rx="3" fill="#0e7490"/>
+<text x="64" y="597" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">refill water</text>
+<rect x="168.8" y="589" width="26" height="6" rx="3" fill="#7c3aed"/>
+<text x="202.8" y="597" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">brine</text>
+<rect x="259.3" y="589" width="26" height="6" rx="3" fill="#78716c"/>
+<text x="293.3" y="597" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">to drain or floor</text>
+</svg>

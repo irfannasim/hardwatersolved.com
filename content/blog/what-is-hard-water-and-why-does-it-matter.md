@@ -4,7 +4,7 @@ seoTitle: "What Is Hard Water? 5 Warning Signs and Proven Fixes"
 seoDescription: "What is hard water? Dissolved calcium and magnesium that scale pipes, kill soap lather and shorten appliance life. Here's how to test yours and what to do."
 excerpt: "Hard water isn't dirty or dangerous by default — but it isn't nothing, either. Here's what the minerals in your water actually do, how to spot them, and how to check your own numbers."
 date: "2026-08-06"
-updatedDate: "2026-09-07"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Fundamentals"
 featuredImage: "https://images.pexels.com/photos/4194866/pexels-photo-4194866.jpeg"
@@ -47,6 +47,8 @@ You can usually spot the effects before you ever test for the cause. These are t
 None of these are hazards — they're mineral residue, and they're the most common reason people start asking what's going on with their water in the first place.
 
 The same residue that shows up on glassware also builds up somewhere you can't see it: inside pipes, on water heater elements, and in the internal parts of dishwashers, washing machines, and coffee makers. A thin layer of scale acts as insulation, so a water heater has to work harder — and use more energy — to heat the same amount of water. Over years, that buildup is also the most common reason those appliances need earlier repairs or replacement in hard water areas than in soft water areas.
+
+![Diagram of hard water forming soap curd with calcium and magnesium, and bicarbonate hardness depositing scale that insulates a water heater element](/diagrams/hard-water-scale-and-soap-curd-formation.svg "The same minerals kill soap lather and scale anything that heats water")
 
 ## What Is Hard Water Measured In? The Hardness Scale
 

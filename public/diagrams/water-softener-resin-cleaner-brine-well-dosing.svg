@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="rcd-title rcd-desc">
+<title id="rcd-title">Where to pour water softener resin cleaner: down the brine well, not over the salt</title>
+<desc id="rcd-desc">Diagram of dosing a water softener resin cleaner: pour the diluted dose down the brine well that houses the float, not over the salt, then start a manual regeneration straight away so the injector draws it through the resin bed and the rinse carries it to the drain.</desc>
+<defs><pattern id="rcd-salt" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#f8fafc"/><rect x="2" y="2" width="7" height="6" rx="1.5" fill="#cbd5e1"/></pattern><marker id="rcd-m7c3aed" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><pattern id="rcd-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><marker id="rcd-m78716c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker></defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Where the resin cleaner goes</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Into the brine well, then regenerate straight away while it is still concentrated.</text>
+<rect x="60" y="230" width="200" height="240" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="62" y="290" width="150" height="178" fill="url(#rcd-salt)"/>
+<rect x="62" y="420" width="150" height="48" fill="#dbeafe" opacity="0.8"/>
+<rect x="52" y="220" width="216" height="10" rx="3" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<rect x="214" y="200" width="30" height="268" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+<rect x="222" y="400" width="14" height="16" rx="2" fill="#0b2f4a"/>
+<text x="252" y="413" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">float</text>
+<text x="30" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">1  Pour the diluted dose down</text>
+<text x="30" y="131" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">the brine well (it houses the float)</text>
+<path class="ln" d="M229,146 L229,186" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rcd-m7c3aed)"/>
+<path d="M112,304 L128,320 M128,304 L112,320" fill="none" stroke="#dc2626" stroke-width="4"/>
+<text x="60" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Not over the salt: it spreads</text>
+<text x="60" y="514" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">through the tank and dilutes</text>
+<text x="160" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">brine tank</text>
+<path class="ln" d="M244,240 L340,240 L340,184 L446,184" fill="none" stroke="#7c3aed" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rcd-m7c3aed)"/>
+<text x="350" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">brine line</text>
+<rect x="470" y="200" width="110" height="270" rx="22" fill="url(#rcd-beads)" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="454" y="150" width="142" height="50" rx="8" fill="#0b2f4a"/>
+<text x="525" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">CONTROL VALVE</text>
+<path class="ln" d="M525,216 L525,440" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rcd-m7c3aed)"/>
+<text x="330" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2  Start a manual</text>
+<text x="330" y="131" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">regeneration immediately</text>
+<text x="525" y="500" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">resin bed</text>
+<path class="ln" d="M580,150 L580,100 L690,100 L690,430" fill="none" stroke="#78716c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rcd-m78716c)"/>
+<text x="680" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">3  Let the full</text>
+<text x="680" y="309" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">cycle finish,</text>
+<text x="680" y="328" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">rinse included</text>
+<text x="700" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">drain</text>
+<text x="730" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#b45309">Brown or orange rinse</text>
+<text x="730" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#b45309">water at the drain is normal</text>
+<text x="30" y="566" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Dose by the resin volume (per cubic foot on the label), not by the size of the brine tank.</text>
+</svg>

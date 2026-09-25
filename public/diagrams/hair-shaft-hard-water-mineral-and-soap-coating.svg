@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="hsc-title hsc-desc">
+<title id="hsc-title">Hard water coating on a hair shaft: mineral ions and calcium-soap curd</title>
+<desc id="hsc-desc">Diagram of a hair strand showing hard water calcium and magnesium ions bound to negatively charged sites between cuticle scales, and a calcium-soap curd film on top, which cause tangling and dullness.</desc>
+<defs><marker id="hsc-t" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="hsc-y" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ca8a04"/></marker></defs>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hard water coating on a hair strand</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Two deposits build up on the cuticle surface, not inside the hair.</text>
+<rect x="40" y="250" width="680" height="90" fill="#efe2c8" stroke="#3a5a72" stroke-width="2"/>
+<path d="M40,250 L108,240 L108,250 L176,240 L176,250 L244,240 L244,250 L312,240 L312,250 L380,240 L380,250 L448,240 L448,250 L516,240 L516,250 L584,240 L584,250 L652,240 L652,250 L720,240 L720,250 L40,250 z" fill="#e6d3ae" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="74" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="142" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="210" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="278" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="346" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="414" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="482" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="550" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="618" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="686" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<text x="380" y="318" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52697a">hair shaft (keratin)</text>
+<circle cx="115" cy="246" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="183" cy="246" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="251" cy="246" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="319" cy="246" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="387" cy="246" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="455" cy="246" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="70" cy="238.58823529411765" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="146" cy="237.41176470588235" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="214" cy="237.41176470588235" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="282" cy="237.41176470588235" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="350" cy="237.41176470588235" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="418" cy="237.41176470588235" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<path d=" M450,244 L514,234 M518,244 L582,234 M586,244 L650,234 M654,244 L718,234" fill="none" stroke="#94a3b8" stroke-width="9" stroke-opacity="0.8" stroke-linecap="round"/>
+<circle cx="523" cy="246" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="591" cy="246" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="659" cy="246" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<text x="30" y="110" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Metal ions (Ca²⁺, Mg²⁺)</text>
+<text x="30" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">bind to the negatively charged sites</text>
+<text x="30" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">on the keratin and collect in the</text>
+<text x="30" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">gaps between cuticle scales</text>
+<path class="ln" d="M150,190 L183,238" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hsc-t)"/>
+<text x="440" y="110" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Calcium-soap curd</text>
+<text x="440" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">shampoo surfactant + calcium makes</text>
+<text x="440" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">an insoluble film that rinsing</text>
+<text x="440" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">does not clear</text>
+<path class="ln" d="M560,190 L585,224" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hsc-t)"/>
+<text x="726" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">cuticle scales</text>
+<path class="ln" d="M700,214 L656,242" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="30" y="372" width="340" height="104" rx="10" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/>
+<text x="50" y="402" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Rougher surface</text>
+<text x="50" y="426" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">more friction between strands</text>
+<text x="50" y="448" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">→ tangling</text>
+<rect class="box" x="390" y="372" width="340" height="104" rx="10" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="410" y="402" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Light scattered, not reflected</text>
+<text x="410" y="426" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">a coated surface scatters light</text>
+<text x="410" y="448" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">→ dullness</text>
+<path class="ln" d="M640,450 L710,450" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M640,392 L668,446" fill="none" stroke="#ca8a04" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hsc-y)"/>
+<path class="ln" d="M676,446 L660,420" fill="none" stroke="#ca8a04" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hsc-y)"/>
+<path class="ln" d="M680,446 L690,414" fill="none" stroke="#ca8a04" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hsc-y)"/>
+<path class="ln" d="M684,446 L712,432" fill="none" stroke="#ca8a04" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#hsc-y)"/>
+<text x="30" y="500" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Whether hard water structurally damages the shaft is unresolved in the research, so none is shown.</text>
+<circle cx="38" cy="522" r="6" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/><text x="52" y="527" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Ca²⁺ / Mg²⁺ ion</text>
+<rect x="190" y="518" width="26" height="8" rx="3" fill="#94a3b8"/><text x="224" y="527" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">calcium-soap curd film</text>
+<text x="400" y="528" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text><text x="414" y="527" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">negatively charged site</text>
+</svg>

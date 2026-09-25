@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 484" width="760" height="484" role="img" aria-labelledby="ctr-title ctr-desc">
+<title id="ctr-title">Clack twin-rotor water softener bypass valve: service, bypass and shut-off handle positions</title>
+<desc id="ctr-desc">Schematic of the handle positions on a Clack WS1 twin-rotor water softener bypass valve. In normal service both handles point in the direction of flow, in bypass both point to the centre, and in shut-off the inlet handle points to the centre while the outlet handle points in the direction of flow.</desc>
+<defs><marker id="ctr-s52697a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="ctr-m0b2f4a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="484" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Twin-rotor bypass: three handle positions</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Schematic of the Clack WS1 bypass. Check the flow arrows moulded on your own valve.</text>
+<rect class="box" x="30" y="86" width="226" height="350" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="143" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">NORMAL SERVICE</text>
+<rect x="48" y="170" width="190" height="64" rx="14" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M143,176 L143,228" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="143" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">centre</text>
+<circle cx="94" cy="202" r="22" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M94,290 L94,270" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-s52697a)"/>
+<text x="94" y="312" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">inlet</text>
+<path class="ln" d="M94,216 L94,170" fill="none" stroke="#0b2f4a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-m0b2f4a)"/>
+<circle cx="94" cy="202" r="5" fill="#0b2f4a"/>
+<circle cx="192" cy="202" r="22" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M192,290 L192,270" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-s52697a)"/>
+<text x="192" y="312" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">outlet</text>
+<path class="ln" d="M192,216 L192,170" fill="none" stroke="#0b2f4a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-m0b2f4a)"/>
+<circle cx="192" cy="202" r="5" fill="#0b2f4a"/>
+<text x="143" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Both handles point in</text>
+<text x="143" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">the direction of flow.</text>
+<text x="143" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Water goes through</text>
+<text x="143" y="407" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">the softener.</text>
+<rect class="box" x="267" y="86" width="226" height="350" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="380" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#c2410c">BYPASS</text>
+<rect x="285" y="170" width="190" height="64" rx="14" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M380,176 L380,228" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="380" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">centre</text>
+<circle cx="331" cy="202" r="22" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M331,290 L331,270" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-s52697a)"/>
+<text x="331" y="312" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">inlet</text>
+<path class="ln" d="M317,202 L363,202" fill="none" stroke="#0b2f4a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-m0b2f4a)"/>
+<circle cx="331" cy="202" r="5" fill="#0b2f4a"/>
+<circle cx="429" cy="202" r="22" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M429,290 L429,270" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-s52697a)"/>
+<text x="429" y="312" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">outlet</text>
+<path class="ln" d="M443,202 L397,202" fill="none" stroke="#0b2f4a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-m0b2f4a)"/>
+<circle cx="429" cy="202" r="5" fill="#0b2f4a"/>
+<text x="380" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Both handles point to</text>
+<text x="380" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">the centre of the bypass.</text>
+<text x="380" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">The house gets</text>
+<text x="380" y="407" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">untreated water.</text>
+<rect class="box" x="504" y="86" width="226" height="350" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="617" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SHUT-OFF</text>
+<rect x="522" y="170" width="190" height="64" rx="14" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M617,176 L617,228" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="617" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">centre</text>
+<circle cx="568" cy="202" r="22" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M568,290 L568,270" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-s52697a)"/>
+<text x="568" y="312" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">inlet</text>
+<path class="ln" d="M554,202 L600,202" fill="none" stroke="#0b2f4a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-m0b2f4a)"/>
+<circle cx="568" cy="202" r="5" fill="#0b2f4a"/>
+<circle cx="666" cy="202" r="22" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M666,290 L666,270" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-s52697a)"/>
+<text x="666" y="312" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">outlet</text>
+<path class="ln" d="M666,216 L666,170" fill="none" stroke="#0b2f4a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-m0b2f4a)"/>
+<circle cx="666" cy="202" r="5" fill="#0b2f4a"/>
+<text x="617" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Inlet to the centre, outlet</text>
+<text x="617" y="369" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">in the direction of flow.</text>
+<text x="617" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Water is shut off to the</text>
+<text x="617" y="407" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">plumbing system.</text>
+<path class="ln" d="M34,458 L58,458" fill="none" stroke="#0b2f4a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-m0b2f4a)"/>
+<text x="84" y="463" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">handle (arrow-shaped)</text>
+<path class="ln" d="M270,466 L270,450" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ctr-s52697a)"/>
+<text x="284" y="463" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">direction of flow marked on the valve</text>
+</svg>

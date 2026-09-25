@@ -4,6 +4,7 @@ seoTitle: "Dissolved vs Oxidized Iron: A Free 30-Minute Glass Test"
 seoDescription: "Dissolved vs oxidized iron: clear water that rusts in a glass is dissolved, water rusty at the tap is oxidized. Test it free, then get a lab to confirm."
 excerpt: "One glass of cold water, a white sheet of paper and a phone camera will tell you which form of iron your well delivers, and that single fact decides whether a softener is even on the table. The lab result that is supposed to confirm it has a trap of its own: iron can oxidize inside the sample bottle on the way to the bench. Here is the glass test photographed at four time stamps, and the preservation steps that keep the lab number honest."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/8484008/pexels-photo-8484008.jpeg"
@@ -62,7 +63,7 @@ The photographs matter more than they seem to. A slow change is easy to misremem
 
 ## Reading the Glass at 0, 5, 15 and 30 Minutes
 
-![Clear hourglass with white sand on a wooden table, marking the half-hour a glass of well water needs before its iron shows its form](https://images.pexels.com/photos/9771338/pexels-photo-9771338.jpeg)
+![Timeline diagram of the iron glass test at 0, 5, 15 and 30 minutes showing dissolved ferrous, oxidized ferric and mixed iron in well water](/diagrams/iron-glass-test-timeline-ferrous-vs-ferric.svg "Clear then orange means dissolved iron; tinted at the tap means oxidized")
 
 Compare your photographs against this table:
 
@@ -83,7 +84,7 @@ Compare your photographs against this table:
 
 ## Where You Draw the Glass Changes the Answer
 
-![Orange iron-stained water running over rocks where groundwater surfaces, showing dissolved iron turning to rust once it meets air](https://images.pexels.com/photos/30231276/pexels-photo-30231276.jpeg)
+![Diagram of where to draw iron glass test samples in a well system, from pressure tank to kitchen tap, and what each comparison reveals](/diagrams/well-water-iron-glass-test-sampling-points.svg "Comparing glasses from different taps shows where iron oxidizes")
 
 One glass from the kitchen tap tells you what arrives at the kitchen. It does not tell you what leaves the well. Pouring glasses from three places will usually show where the problem starts.
 

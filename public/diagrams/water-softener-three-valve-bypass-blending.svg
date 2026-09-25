@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="tvb-title tvb-desc">
+<title id="tvb-title">Water softener three-valve bypass: service versus partly open</title>
+<desc id="tvb-desc">Diagram of a water softener three-valve bypass loop. In service the bypass valve is closed and every tap reads 0; when it is partly open or leaking, raw 18 gpg water blends in and every tap reads 4 gpg.</desc>
+<defs><marker id="tvb-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="tvb-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Three-valve bypass loop: service versus leaking</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">An in-between reading at every tap means raw water is blending in at the softener.</text>
+<rect class="box" x="30" y="96" width="700" height="196" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="46" y="122" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">In service</text>
+<text x="714" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0e7490">every tap: 0 gpg</text>
+<text x="46" y="160" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">raw 18 gpg</text>
+<path class="ln" d="M46,174 L194,174" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M200,180 L200,256 L296,256" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvb-h)"/>
+<rect class="box" x="304" y="232" width="112" height="48" rx="8" fill="#0b2f4a"/>
+<text x="360" y="261" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">SOFTENER</text>
+<path class="ln" d="M420,256 L520,256 L520,190" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvb-s)"/>
+<path d="M191,204 L209,228 L191,228 L209,204 z" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path d="M511,204 L529,228 L511,228 L529,204 z" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="186" y="221" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">inlet valve: open</text>
+<text x="534" y="221" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">outlet valve: open</text>
+<path class="ln" d="M206,174 L514,174" fill="none" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M348,165 L372,183 L372,165 L348,183 z" fill="#dc2626" stroke="#dc2626" stroke-width="2"/>
+<text x="360" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">bypass valve: fully closed</text>
+<path class="ln" d="M526,174 L706,174" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvb-s)"/>
+<text x="706" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">to every tap</text>
+<rect class="box" x="30" y="308" width="700" height="196" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="46" y="334" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">Bypass partly open or leaking</text>
+<text x="714" y="334" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#dc2626">every tap: 4 gpg</text>
+<text x="46" y="372" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">raw 18 gpg</text>
+<path class="ln" d="M46,386 L194,386" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M200,392 L200,468 L296,468" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvb-h)"/>
+<rect class="box" x="304" y="444" width="112" height="48" rx="8" fill="#0b2f4a"/>
+<text x="360" y="473" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">SOFTENER</text>
+<path class="ln" d="M420,468 L520,468 L520,402" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvb-s)"/>
+<path d="M191,416 L209,440 L191,440 L209,416 z" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path d="M511,416 L529,440 L511,440 L529,416 z" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="186" y="433" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">inlet valve: open</text>
+<text x="534" y="433" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">outlet valve: open</text>
+<path class="ln" d="M206,386 L512,386" fill="none" stroke="#c2410c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvb-h)"/>
+<path d="M348,377 L372,395 L372,377 L348,395 z" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+<text x="360" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">bypass valve: partly open or leaking</text>
+<path class="ln" d="M526,386 L706,386" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tvb-s)"/>
+<path d="M532,386 L690,386" stroke="#c2410c" stroke-width="6" stroke-dasharray="10 10"/>
+<text x="706" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">to every tap</text>
+<text x="30" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Blending, not branching. Other causes: worn bypass O-rings, or an open blend screw on the control valve.</text>
+<rect x="30" y="552" width="26" height="6" rx="3" fill="#c2410c"/><text x="64" y="560" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">raw water</text>
+<rect x="170" y="552" width="26" height="6" rx="3" fill="#0e7490"/><text x="204" y="560" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">softened water</text>
+<path d="M340,555 L366,555" stroke="#0e7490" stroke-width="6"/><path d="M340,555 L366,555" stroke="#c2410c" stroke-width="6" stroke-dasharray="6 6"/><text x="374" y="560" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">blended</text>
+</svg>

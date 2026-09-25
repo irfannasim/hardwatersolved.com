@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 556" width="760" height="556" role="img" aria-labelledby="g7wwh-title g7wwh-desc">
+<title id="g7wwh-title">Why well water is hard: rain to aquifer cross-section</title>
+<desc id="g7wwh-desc">Cross-section showing why well water is hard: rain picks up CO2 in the soil and becomes weak carbonic acid, which dissolves limestone and dolomite into calcium and bicarbonate, while water in granite or quartz sand stays soft but acidic.</desc>
+<defs><marker id="g7wwh-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g7wwh-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="g7wwh-steel" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><pattern id="g7wwh-lime" width="40" height="20" patternUnits="userSpaceOnUse"><rect width="40" height="20" fill="#efe6d2"/><path d="M0,0.5 H40 M0,10.5 H40 M10,0 V10 M30,10 V20" stroke="#cdbb97" stroke-width="1"/></pattern><pattern id="g7wwh-gran" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#e5e7eb"/><circle cx="4" cy="4" r="1.6" fill="#9ca3af"/><circle cx="12" cy="10" r="1.2" fill="#f9a8d4"/><circle cx="7" cy="13" r="1" fill="#6b7280"/></pattern><pattern id="g7wwh-screen" width="16" height="6" patternUnits="userSpaceOnUse"><rect width="16" height="6" fill="#ffffff"/><path d="M0,3 H16" stroke="#3a5a72" stroke-width="1.5"/></pattern></defs>
+<rect width="760" height="556" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why well water is hard, or soft</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Soil CO₂ makes rain acidic. The rock it then sits in decides the hardness.</text>
+<rect x="30" y="88" width="700" height="72" fill="#f0f9ff" stroke="none" stroke-width="2"/>
+<path d="M400,100 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M422,114 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M444,100 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M466,114 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M488,100 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M510,114 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M532,100 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M554,114 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M576,100 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M598,114 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M620,100 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M642,114 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<path d="M664,100 l-6,16" stroke="#0e7490" stroke-width="2" stroke-linecap="round"/>
+<text x="44" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">RAIN</text>
+<text x="44" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">picks up a little CO₂ from the air</text>
+<rect x="30" y="160" width="700" height="66" fill="#eadcc6" stroke="none" stroke-width="2"/>
+<path d="M30,160 L730,160" stroke="#8b6b4a" stroke-width="3"/>
+<text x="44" y="185" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">SOIL: roots and microbes hold CO₂</text>
+<text x="44" y="207" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">at many times the air’s level</text>
+<text x="404" y="185" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Rain becomes</text>
+<text x="404" y="207" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">weak carbonic acid</text>
+<rect x="30" y="226" width="350" height="250" fill="url(#g7wwh-lime)" stroke="none" stroke-width="2"/>
+<rect x="380" y="226" width="350" height="250" fill="url(#g7wwh-gran)" stroke="none" stroke-width="2"/>
+<path d="M380,226 L380,476" stroke="#3a5a72" stroke-width="2" stroke-dasharray="6 4"/>
+<path class="ln" d="M190,230 L190,252" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wwh-steel)"/>
+<path class="ln" d="M550,230 L550,252" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wwh-steel)"/>
+<rect class="box" x="42" y="266" width="290" height="126" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="56" y="292" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">LIMESTONE / DOLOMITE</text>
+<text x="56" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">The acid dissolves the rock:</text>
+<text x="56" y="342" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">CaCO₃ + H₂O + CO₂ → Ca²⁺ + 2HCO₃⁻</text>
+<text x="56" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Dolomite adds magnesium too</text>
+<rect class="box" x="402" y="266" width="290" height="126" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="416" y="292" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">GRANITE / QUARTZ SAND</text>
+<text x="416" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">No carbonate minerals, so</text>
+<text x="416" y="342" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">no significant hardness</text>
+<text x="416" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">and nothing to neutralise the acid</text>
+<rect x="344" y="128" width="24" height="12" rx="2" fill="#0b2f4a" stroke="none" stroke-width="2"/>
+<rect x="348" y="140" width="16" height="318" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="348" y="420" width="16" height="38" fill="url(#g7wwh-screen)" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M356,450 L356,156" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wwh-hard)"/>
+<rect x="700" y="128" width="24" height="12" rx="2" fill="#0b2f4a" stroke="none" stroke-width="2"/>
+<rect x="704" y="140" width="16" height="318" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="704" y="420" width="16" height="38" fill="url(#g7wwh-screen)" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M712,450 L712,156" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7wwh-soft)"/>
+<text x="344" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">well</text>
+<text x="700" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">well</text>
+<rect class="box" x="42" y="412" width="290" height="46" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="56" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Water moves feet per day or less:</text>
+<text x="56" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">years, sometimes centuries, in rock</text>
+<rect class="box" x="402" y="412" width="290" height="46" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="416" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Soft well water often comes with</text>
+<text x="416" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">low pH, iron or radon instead</text>
+<rect class="box" x="30" y="496" width="350" height="38" rx="19" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/><text x="205" y="520.4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#c2410c">Hard to very hard well water</text>
+<rect class="box" x="390" y="496" width="340" height="38" rx="19" fill="#e0f2f1" stroke="#0e7490" stroke-width="1.5"/><text x="560" y="520.4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">Soft, but often acidic (low pH)</text>
+</svg>

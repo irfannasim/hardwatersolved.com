@@ -4,6 +4,7 @@ seoTitle: "Water Softener Resin Fouling: Causes, Signs and Recovery"
 seoDescription: "Water softener resin fouling coats beads with iron, manganese, sediment or organics and blocks exchange sites. How to tell recoverable fouling from terminal."
 excerpt: "Resin does not usually fail all at once. It gets coated — by iron, by manganese, by silt working past a dead prefilter, or by organic matter that stains it brown and never lets go. Each of the four fouling agents leaves a different signature on the beads, and the honest question is not what caused it but whether a cleaner will bring the capacity back. For two of the four, it will. For the other two, money spent on cleaner is money wasted."
 date: "2026-09-21"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/20419740/pexels-photo-20419740.jpeg"
@@ -45,7 +46,7 @@ That last row is why a resin sample is worth more than any amount of speculation
 
 ## Water Softener Resin Fouling: The Four Agents and Their Signatures
 
-![Corroded sheet metal showing orange rust staining across its surface, the same iron oxide film that coats resin beads on untreated well water](https://images.pexels.com/photos/24238280/pexels-photo-24238280.jpeg)
+![Cross-section diagram of water softener resin fouling showing how iron, manganese, sediment and organics coat or block resin beads versus chlorine damage](/diagrams/resin-bead-fouling-agents-cross-section.svg "Each fouling agent leaves a different signature on the bead")
 
 **1. Iron.** The most common by a wide margin on well water. Dissolved ferrous iron enters the bed invisibly, meets oxygen or oxidised sites inside the tank, and precipitates as ferric oxide directly onto the beads. The tell is rust-orange resin and brown water in the minutes after a regeneration, as backwash lifts loose particles into the service line — the timing pattern is worked through in [why water turns brown after softener regeneration](/blog/brown-water-after-softener-regeneration/).
 
@@ -66,7 +67,7 @@ That last row is why a resin sample is worth more than any amount of speculation
 
 ## How to Pull a Resin Sample
 
-![Assorted translucent beads in pastel colours photographed close up, showing the size and uniformity a healthy resin sample should display](https://images.pexels.com/photos/1590159/pexels-photo-1590159.jpeg)
+![Diagram of a water softener resin tank with the valve removed, showing a clear-tube resin sample, the riser tube and bed depth against design fill](/diagrams/resin-tank-sample-and-bed-depth-check.svg "A clear tube sample shows the bed in cross-section; also check depth and screens")
 
 This is the step that converts guessing into knowing, and it takes about twenty minutes. If you are not comfortable removing a control valve, this is a reasonable thing to ask a technician to do during a service visit — but ask to see the beads.
 
@@ -87,8 +88,6 @@ This is the step that converts guessing into knowing, and it takes about twenty 
 - **The riser tube and screens.** Sediment fouling almost always leaves evidence here first.
 
 ## Telling Recoverable From Terminal
-
-![Researcher adjusting a laboratory microscope to examine a prepared slide, the level of inspection that separates surface coating from structural damage](https://images.pexels.com/photos/9574397/pexels-photo-9574397.jpeg)
 
 This is the honest part, and it is the part most sources avoid. Cleaner does not fix everything, and there is a real line between the two groups.
 
@@ -120,8 +119,6 @@ Fouling is gradual, which means it is detectable long before it is expensive —
 **What to measure, and how often.** Note the gallons-treated figure from the control head and the date each time you add salt. Two data points a month for a year gives you a capacity trend that no single water test can provide, and the verification routine in [how to check if your water softener is working](/blog/how-to-check-if-water-softener-is-working/) covers how to take the readings consistently.
 
 ## Preventing It, Which Is Cheaper Than Any of the Above
-
-![Sealed plastic container of household treatment liquid on a plain background, the resin cleaner that helps with iron but does nothing for organic or chlorine damage](https://images.pexels.com/photos/5217885/pexels-photo-5217885.jpeg)
 
 Every fouling agent has a corresponding upstream fix, and every one of them costs less than a re-bed.
 

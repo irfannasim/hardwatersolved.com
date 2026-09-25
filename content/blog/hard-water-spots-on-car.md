@@ -4,6 +4,7 @@ seoTitle: "Hard Water Spots on Car: 3 Proven Fixes Before They Etch"
 seoDescription: "Hard water spots on car paint wipe off when fresh but etch after hours in hot sun. Learn which stage you have and why a DI filter beats a softener."
 excerpt: "Fresh spots wipe off. Etched spots need polish. The difference is how long the minerals sat in the sun, and your water's hardness decides how fast that happens. Here is a test you can stage on one panel to find the line."
 date: "2026-09-11"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/32081745/pexels-photo-32081745.jpeg"
@@ -52,6 +53,8 @@ Every spot on your car is at one of three stages. The stage, not the product lab
 | **3. Etched** | Crisp ring outline, visible even when the paint is wet | Surface feels smooth, but a flashlight shows a dull ring or a shallow crater | Polish or compound, by machine or hand |
 
 The most useful diagnostic step is the flashlight check after an acid remover. If the paint feels smooth and the ring is gone, it was a deposit. If the paint feels smooth and you can still see a ring, you are looking at a dent in the clear coat, not something sitting on top of it. No chemical fixes that.
+
+![Cross-section diagram of hard water spots on car paint progressing from surface deposit to bonded deposit to an etch in the clear coat](/diagrams/hard-water-spots-on-car-paint-three-stages.svg "A deposit sits on the clear coat; an etch is a dip in it, and only polish fixes that")
 
 ## The 3×3 Panel Test: Where Deposit Becomes Etching
 
@@ -129,6 +132,8 @@ Here is how the options compare for this one job:
 | **RO system with storage** | Removes most dissolved solids | Near spot-free with most water | High upfront cost and slow flow; mostly used by commercial car washes |
 
 A deionization filter is a canister of mixed-bed resin that screws onto the hose. The resin swaps every dissolved ion for hydrogen or hydroxide, which recombine as water. What comes out is close to pure, and it evaporates without leaving anything behind. That is the distilled row of the 3×3 test, on tap.
+
+![Diagram comparing untreated, softened and deionized rinse water, showing why a DI filter prevents hard water spots on a car and a softener does not](/diagrams/car-rinse-water-softener-vs-deionization-filter.svg "Softening swaps minerals; deionization removes them")
 
 Three things to know before you buy one:
 

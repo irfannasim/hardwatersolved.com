@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 538" width="760" height="538" role="img" aria-labelledby="g7hes-title g7hes-desc">
+<title id="g7hes-title">Scale forming on a water heater element</title>
+<desc id="g7hes-desc">Cross-section of a water heater element: the thin boundary layer against the hot sheath loses CO2 first, calcium carbonate crystallises and bonds to the metal, and the insulating scale makes the element run hotter, which speeds up scaling.</desc>
+<defs><marker id="g7hes-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="g7hes-steel" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><pattern id="g7hes-scale" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#f5f5f4"/><path d="M1,6 L4,1 L7,6 z" fill="#d6d3d1"/></pattern></defs>
+<rect width="760" height="538" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why scale forms on the heating element first</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">The metal doing the heating is hotter than the water around it, so the reaction runs there.</text>
+<rect x="30" y="96" width="420" height="330" rx="12" fill="#dbeafe" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#3a5a72">Tank water at the thermostat setpoint</text>
+<rect x="62" y="262" width="356" height="92" rx="46" fill="#fed7aa" stroke="#c2410c" stroke-width="1.5" stroke-dasharray="6 4"/>
+<rect x="82" y="280" width="316" height="56" rx="28" fill="url(#g7hes-scale)" stroke="#a8a29e" stroke-width="1.5"/>
+<rect class="box" x="94" y="292" width="292" height="32" rx="16" fill="#3a5a72" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="240" y="313" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">ELEMENT SHEATH</text>
+<circle cx="120" cy="246" r="5" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="150" cy="222" r="4" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="134" cy="196" r="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="182" cy="238" r="4" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="205" cy="208" r="5" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="238" cy="244" r="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="262" cy="214" r="4" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="296" cy="236" r="5" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="318" cy="200" r="4" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="346" cy="242" r="5" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="372" cy="218" r="4" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="228" cy="180" r="4" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M96,250 L96,206" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7hes-steel)"/>
+<path class="ln" d="M410,250 L410,206" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7hes-steel)"/>
+<text x="46" y="152" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">CO₂ escapes here first</text>
+<text x="46" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(the tiny bubbles before a boil)</text>
+<path class="ln" d="M112,380 L112,354" fill="none" stroke="#c2410c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="46" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">Boundary layer: far hotter</text>
+<text x="46" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">than the tank average</text>
+<path class="ln" d="M400,380 L392,336" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="438" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#52697a">CaCO₃ crystallises and</text>
+<text x="438" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#52697a">bonds to the metal</text>
+<rect class="box" x="30" y="446" width="420" height="40" rx="20" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="240" y="471" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Ca²⁺ + 2 HCO₃⁻ → CaCO₃ (scale) + CO₂ + H₂O</text>
+<text x="486" y="122" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">The deposit builds</text>
+<text x="486" y="142" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">its own accelerator</text>
+<rect class="box" x="486" y="170" width="212" height="60" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="592" y="196" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Scale is a poor</text>
+<text x="592" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">conductor of heat</text>
+<path class="ln" d="M592,232 L592,268" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7hes-hard)"/>
+<rect class="box" x="486" y="280" width="212" height="60" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="592" y="306" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Element runs hotter to</text>
+<text x="592" y="325" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">deliver the same energy</text>
+<path class="ln" d="M592,342 L592,378" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7hes-hard)"/>
+<rect class="box" x="486" y="390" width="212" height="60" rx="10" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="592" y="416" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Hotter surface</text>
+<text x="592" y="435" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">precipitates scale faster</text>
+<path class="ln" d="M700,420 L722,420 L722,200 L710,200" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g7hes-hard)"/>
+<rect x="30" y="505" width="26" height="14" rx="3" fill="#fed7aa" stroke="#c2410c" stroke-dasharray="4 3"/>
+<text x="64" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hot boundary layer</text>
+<rect x="200" y="505" width="26" height="14" rx="3" fill="url(#g7hes-scale)" stroke="#a8a29e"/>
+<text x="234" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">CaCO₃ scale</text>
+<circle cx="383" cy="512" r="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="398" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">CO₂ gas</text>
+<rect x="510" y="505" width="26" height="14" rx="3" fill="#dbeafe" stroke="#3a5a72"/>
+<text x="544" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">tank water</text>
+</svg>

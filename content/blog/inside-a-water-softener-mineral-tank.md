@@ -4,6 +4,7 @@ seoTitle: "Inside a Water Softener Mineral Tank: 6 Essential Parts"
 seoDescription: "Inside a water softener mineral tank: distributor tube, bottom basket, top screen, resin bed, freeboard and sometimes gravel. What each does and how it fails."
 excerpt: "The tall tank next to the salt tank looks like a sealed cylinder of mystery, but inside there are only six things: the pressure vessel, a distributor tube, a slotted basket at the bottom, a screen at the top, the resin bed, and a space above the resin that is empty on purpose. Knowing what each does explains why resin ends up in faucets, why beds channel, why some tanks have gravel and most do not, and how full a healthy tank should be."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/26733910/pexels-photo-26733910.jpeg"
@@ -31,6 +32,8 @@ A tank you cannot see into is easy to misjudge. Owners open one, find it only pa
 
 Take the control valve off a typical downflow softener and look down. This is the order you meet things in.
 
+![Cutaway of a water softener mineral tank showing the control valve, top screen, freeboard, resin bed, distributor tube, bottom basket and optional gravel.](/diagrams/water-softener-mineral-tank-cutaway-anatomy.svg "Six parts, top to bottom. The empty space above the resin is meant to be there.")
+
 | Layer | What it is | What it does | What goes wrong |
 |---|---|---|---|
 | **Control valve** (not in the tank) | Screws onto the tank neck | Routes water in, out, to drain and from the brine tank | Leaks at the tank O-ring; cracks if frozen |
@@ -47,7 +50,7 @@ Take the control valve off a typical downflow softener and look down. This is th
 
 ## The Distributor Tube and Bottom Basket
 
-![Stack of grey plastic pipes at a construction site, the same kind of thin-wall plastic tube used as the distributor riser running down the centre of a water softener mineral tank](https://images.pexels.com/photos/29301874/pexels-photo-29301874.jpeg)
+![Three water softener mineral tank panels showing service flow, backwash bed expansion, and water bypassing the resin through a cracked distributor tube.](/diagrams/water-softener-distributor-tube-service-backwash-crack-flow.svg "The tube carries every drop, and a crack lets water skip the resin.")
 
 These two parts carry every drop of softened water. They are also the only thing between the resin bed and your plumbing.
 
@@ -71,8 +74,6 @@ The top screen is the smallest part and the easiest to forget. It sits in the ta
 
 ## The Resin Bed and How Full the Tank Should Be
 
-![Close-up of small white glass beads heaped together, similar in size and shape to the ion exchange resin beads that fill the lower part of a water softener mineral tank](https://images.pexels.com/photos/7605208/pexels-photo-7605208.jpeg)
-
 The resin is a bed of polystyrene beads with sulfonic acid exchange sites. Purolite's [C100E product data sheet](https://www.purolite.com/product-pdf/C100E.pdf) describes its softening resin as a gel polystyrene cation resin in sodium form, with a particle size of 300 to 1200 µm and a shipping weight of about 50 to 52.5 lb per cubic foot.
 
 **Correct resin fill by tank size.** Pentair's spec sheet pairs these:
@@ -92,7 +93,7 @@ A parts supplier, SoftenerParts, says much the same from the field: the resin le
 
 ## Freeboard: The Empty Space Is Supposed to Be There
 
-Everything above the resin is freeboard, and it has a job. During backwash the bed has to lift, loosen and re-sort, or it packs down and water cuts channels through it. Purolite's data sheet calls for up-flow backwash to expand the bed "between 50 and 70%", and warns that care is needed "to avoid loss of resin through the top of the vessel by over expansion of the bed".
+Everything above the resin is freeboard, and it has a job. During backwash the bed has to lift, loosen and re-sort, or it packs down and water cuts channels through it. Purolite's data sheet calls for up-flow backwash to expand the bed "between 50 and 70%", and warns that care is needed "to avoid loss of resin through the top of the vessel by over expansion of the bed". In a 10 x 54 inch tank with the bed at about 61% of the height, a 50% expansion already takes the resin to about nine tenths of the tank, which is why the fill level has so little margin.
 
 That gives two opposite faults:
 

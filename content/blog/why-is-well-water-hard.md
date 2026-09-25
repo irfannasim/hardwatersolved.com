@@ -4,6 +4,7 @@ seoTitle: "Why Is Well Water Hard? 5 Aquifer Types, 1 Costly Mistake"
 seoDescription: "Why is well water hard? Soil CO2 turns rain acidic and it dissolves limestone. Hardness rarely arrives alone, so a hardness-only test sizes the wrong system."
 excerpt: "Well water is hard because rain turns acidic in the soil and spends years dissolving rock. But the rock that makes it hard also decides what rides along with it — and that is what sizes your treatment."
 date: "2026-09-11"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/35791830/pexels-photo-35791830.jpeg"
@@ -36,6 +37,8 @@ The reaction is simple:
 **CaCO₃ (calcite) + H₂O + CO₂ → Ca²⁺ + 2HCO₃⁻**
 
 Dolomite does the same thing with magnesium. The calcium and magnesium stay dissolved, and that is your hardness. The bicarbonate is why hard well water scales so readily when heated: warming drives the CO₂ back out and the reaction runs in reverse, dropping calcite onto your water heater element.
+
+![Why well water is hard: soil CO2 makes rain acidic, it dissolves limestone into calcium and bicarbonate, while granite gives soft, acidic water](/diagrams/well-water-hardness-rain-to-aquifer-cross-section.svg "Soil CO₂ turns rain acidic. The rock it passes through decides the hardness")
 
 ![Limestone cave interior with stalactites and stalagmites formed by carbonic acid dissolving and redepositing calcite](https://images.pexels.com/photos/17494950/pexels-photo-17494950.jpeg)
 

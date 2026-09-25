@@ -4,6 +4,7 @@ seoTitle: "How to Clean a Water Softener Injector: 7 Costly Mistakes"
 seoDescription: "Clean a water softener injector in twenty minutes: bypass, depressurise, pull the screen, nozzle and throat, soak in vinegar, then refit it the right way round."
 excerpt: "A plugged injector is the quiet fault behind a lot of softeners that stop using salt. The part is small, the job needs no special tools, and it takes about twenty minutes. The two ways people get it wrong are cleaning the orifice with a pin, which ruins it, and putting the parts back the wrong way round, which brings the fault straight back. What you scrape out of it also tells you whether the real problem is your salt or your water."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/9475390/pexels-photo-9475390.jpeg"
@@ -55,7 +56,7 @@ A replacement O-ring set for your valve is worth having on hand. Old O-rings fla
 
 ## The Teardown by Valve Family
 
-![Precision screwdriver set laid out in a black case, the kind of small flat-blade tools used to lift out a water softener injector nozzle and throat](https://images.pexels.com/photos/4556501/pexels-photo-4556501.jpeg)
+![Exploded view of Clack and Fleck water softener injector parts: cap, O-rings, screen, nozzle, throat and the DN/UP injector ports.](/diagrams/water-softener-injector-exploded-view-clack-fleck.svg "Note where each part came from. The wrong port or a missing screen brings the fault back.")
 
 Every softener injector is two precision pieces, a **nozzle** and a **throat**, with a **screen** upstream to stop debris reaching them. Where they sit and how they come out depends on the valve. If you are not sure which valve you have, the model is usually printed on the cover or a label on the valve body.
 
@@ -95,7 +96,7 @@ Many all-in-one cabinet units sold at home stores put the nozzle and venturi in 
 
 ## Cleaning the Nozzle, Throat and Screen Without Ruining Them
 
-![Hand holding a magnifying glass up close, the kind of close inspection needed to check a softener injector orifice for scale, grit or a scored edge](https://images.pexels.com/photos/3074542/pexels-photo-3074542.jpeg)
+![End-on views of a water softener injector nozzle bore, showing a clean orifice, scale, iron film, sand, and a bore scored by a pin.](/diagrams/water-softener-injector-orifice-inspection.svg "Look through the nozzle and throat against a light. A clean round hole is the goal.")
 
 1. **Rinse everything under the tap first.** Loose sediment and salt fines wash out on their own.
 2. **Look through the nozzle and throat against a light.** You should see a clean round hole in each. A crescent of white scale, a brown film or a grain of sand sitting in the bore is your fault.

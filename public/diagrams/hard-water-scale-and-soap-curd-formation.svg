@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="g6sc-title g6sc-desc">
+<title id="g6sc-title">How hard water forms soap curd and heater scale</title>
+<desc id="g6sc-desc">Two-panel diagram of hard water: calcium and magnesium bind soap into an insoluble curd before it can foam, leaving bathtub soap scum, and when water is heated its temporary bicarbonate hardness deposits scale that insulates the element and settles on the tank floor.</desc>
+<defs><marker id="g6sc-k" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">What hard water does to soap and to heaters</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">The same two minerals, calcium and magnesium, cause both.</text>
+<rect class="box" x="30" y="92" width="340" height="380" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="120" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">Soap meets hard water</text>
+<text x="58" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">soap</text>
+<circle cx="66" cy="178" r="7" fill="#0e7490"/>
+<path d="M71,183 Q78,194 88,198" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="106" cy="172" r="7" fill="#0e7490"/>
+<path d="M111,177 Q118,188 128,192" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="82" cy="210" r="7" fill="#0e7490"/>
+<path d="M87,215 Q94,226 104,230" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="80" cy="270" r="14" fill="#c2410c"/>
+<text x="80" y="274" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">Ca</text>
+<circle cx="124" cy="288" r="14" fill="#c2410c"/>
+<text x="124" y="292" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">Mg</text>
+<text x="50" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">calcium and</text>
+<text x="50" y="344" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">magnesium</text>
+<path class="ln" d="M164,242 L220,242" fill="none" stroke="#0b2f4a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6sc-k)"/>
+<path d="M242,222 Q270,196 302,212 Q342,220 336,252 Q330,286 292,282 Q250,288 240,260 Q226,238 242,222 Z" fill="#d6d3d1" stroke="#a8a29e" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="266" cy="228" r="5" fill="#0e7490"/>
+<circle cx="292" cy="220" r="5" fill="#c2410c"/>
+<circle cx="314" cy="242" r="5" fill="#0e7490"/>
+<circle cx="280" cy="256" r="5" fill="#c2410c"/>
+<circle cx="258" cy="252" r="5" fill="#0e7490"/>
+<circle cx="306" cy="268" r="5" fill="#c2410c"/>
+<text x="288" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">insoluble curd</text>
+<text x="288" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">forms before the</text>
+<text x="288" y="348" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">soap can foam</text>
+<rect class="box" x="46" y="392" width="308" height="60" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="200" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">The grey bathtub ring is this</text>
+<text x="200" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">soap scum, not dirt</text>
+<rect class="box" x="390" y="92" width="340" height="380" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="406" y="120" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">Heat meets hard water</text>
+<rect x="410" y="140" width="150" height="312" rx="12" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="436" y="240" width="124" height="28" rx="10" fill="#e7e5e4" stroke="#a8a29e" stroke-width="1.5"/>
+<rect x="444" y="249" width="116" height="10" rx="3" fill="#57534e"/>
+<path d="M412,422 L434,416 L460,424 L486,414 L514,423 L540,415 L558,420 L558,440 Q558,450 548,450 L422,450 Q412,450 412,440 Z" fill="#d6d3d1" stroke="#a8a29e" stroke-width="1" stroke-linejoin="round"/>
+<text x="574" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">heated water:</text>
+<text x="574" y="179" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">temporary hardness</text>
+<text x="574" y="196" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">(bicarbonates)</text>
+<text x="574" y="213" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">comes out as scale</text>
+<path class="ln" d="M554,254 L568,262" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="574" y="266" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">scale on the element</text>
+<text x="574" y="284" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">insulates it: the heater</text>
+<text x="574" y="301" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">works harder and uses</text>
+<text x="574" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">more energy</text>
+<path class="ln" d="M550,422 L568,392" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="574" y="382" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">settled scale</text>
+<text x="574" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">a burner heating</text>
+<text x="574" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">through it pops</text>
+<text x="574" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">and rumbles</text>
+<text x="380" y="500" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Permanent hardness (mostly sulfates) does not precipitate when the water is heated.</text>
+</svg>

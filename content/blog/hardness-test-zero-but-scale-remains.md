@@ -4,6 +4,7 @@ seoTitle: "Hardness Test Zero but Still Scale? 3 Real Causes"
 seoDescription: "Hardness test zero but still scale on glass and fixtures? Silica, legacy scale shedding from old pipe and an unsoftened line each leave a different signature."
 excerpt: "Your kit reads zero and the white film keeps coming back. That is not a broken test — it is a deposit the test was never designed to see. Here is the residue identification key that separates silica from legacy scale from a line that was never connected, using vinegar, a torch and about twenty minutes."
 date: "2026-09-15"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Water Testing"
 featuredImage: "https://images.pexels.com/photos/4239102/pexels-photo-4239102.jpeg"
@@ -65,7 +66,7 @@ If silica is the answer, the honest treatment position is limited. A softener wi
 
 ## Cause 2: Legacy Scale Shedding Out of Old Pipe
 
-![Interior of a large steel pipe, the kind of surface that accumulates decades of scale before softened water begins to undermine it](https://images.pexels.com/photos/16922894/pexels-photo-16922894.jpeg)
+![Cross-section of old pipe where softened water undermines legacy scale, so flakes shed to aerator screens after a softener is installed](/diagrams/legacy-scale-shedding-from-pipe-after-softener.svg "Softened water loosens old deposits, which shed for weeks and then stop")
 
 This is the cause that goes unexplained, and it produces the most alarmed phone calls in the first month after a softener is commissioned.
 

@@ -4,6 +4,7 @@ seoTitle: "Only Some Faucets Have Soft Water: Find the Branch"
 seoDescription: "If only some faucets have soft water, a branch tees off upstream of the softener. Mapping hardness fixture by fixture locates the split without opening walls."
 excerpt: "A softener treats everything downstream of where it is plumbed in — and nothing upstream. When one bathroom is soft and another is not, a pipe left the main before the softener did. Testing every fixture and marking a floor plan turns that invisible pipe into a readable pattern, and some of the splits you find were put there on purpose."
 date: "2026-09-20"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/271667/pexels-photo-271667.jpeg"
@@ -26,6 +27,8 @@ faqs:
 If only some faucets have soft water, **a branch of your plumbing left the main line upstream of where the softener is connected.** A softener treats everything downstream of its tie-in point and nothing before it, so that branch was never going to soften — and never will until the pipework changes.
 
 You can locate that branch without opening a single wall. It takes a test kit, an hour, and a floor plan.
+
+![Plumbing schematic showing branches that tee off before the water softener staying hard while fixtures downstream get soft water](/diagrams/water-softener-tie-in-point-branch-upstream-hard-water.svg "A softener treats everything downstream of its tie-in and nothing upstream.")
 
 ## Before You Map Anything: Three Five-Second Checks
 
@@ -59,7 +62,7 @@ Drop kits are worth the extra minute here because they give a number rather than
 
 ## Reading the Pattern
 
-![Hands pointing at specific rooms on a detailed architectural blueprint, the step where the hardness pattern reveals the branch](https://images.pexels.com/photos/8469982/pexels-photo-8469982.jpeg)
+![Example floor plan with hardness test results at each fixture, a hard addition wing circled and traced back to where the branch leaves the main](/diagrams/soft-water-fixture-hardness-floor-plan-map.svg "The circled hard group, traced back toward the supply, points at the tee.")
 
 The pattern names the cause. This is the payoff for testing everything rather than just the fixture that annoys you.
 

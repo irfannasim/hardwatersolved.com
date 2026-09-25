@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 660" width="760" height="660" role="img" aria-labelledby="nlr-title nlr-desc">
+<title id="nlr-title">Water softener making noise: five-minute listening routine flowchart</title>
+<desc id="nlr-desc">Flowchart for a water softener making noise: note the time and display, locate the sound, close every tap, put the softener in bypass and unplug the control head. Each check that stops the sound points to flow, a source outside the softener, or the motor and gears; a hiss that remains is water leaking to drain or into the brine tank.</desc>
+<defs><marker id="nlr-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="660" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Finding the source of a softener noise</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Timing first, then location, then what makes it stop.</text>
+<rect class="box" x="30" y="88" width="370" height="44" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="215" y="114.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Is the display showing a regeneration step?</text>
+<path class="ln" d="M400,110 L442,110" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nlr-m3a5a72)"/>
+<text x="421" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="450" y="88" width="280" height="44" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="590" y="106.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Compare with the normal</text>
+<text x="590" y="123.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">regeneration sounds</text>
+<path class="ln" d="M215,132 L215,158" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nlr-m3a5a72)"/>
+<text x="225" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no: in service</text>
+<rect class="box" x="30" y="166" width="370" height="44" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="215" y="183.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Locate it: head, resin tank, brine</text>
+<text x="215" y="201.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">tank, drain line or pipes</text>
+<path class="ln" d="M215,210 L215,236" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nlr-m3a5a72)"/>
+<rect class="box" x="30" y="244" width="370" height="44" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="215" y="270.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Close every tap. Does the sound stop?</text>
+<path class="ln" d="M400,266 L442,266" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nlr-m3a5a72)"/>
+<text x="421" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="450" y="244" width="280" height="44" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="590" y="262.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Flow-related: pressure, restriction,</text>
+<text x="590" y="279.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">air or a loose pipe</text>
+<path class="ln" d="M215,288 L215,314" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nlr-m3a5a72)"/>
+<text x="225" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="322" width="370" height="44" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="215" y="348.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Put it in bypass. Does the sound stop?</text>
+<path class="ln" d="M400,344 L442,344" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nlr-m3a5a72)"/>
+<text x="421" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">no</text>
+<rect class="box" x="450" y="322" width="280" height="44" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="590" y="340.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Not the softener: look elsewhere,</text>
+<text x="590" y="357.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">e.g. a toilet fill valve</text>
+<path class="ln" d="M215,366 L215,392" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nlr-m3a5a72)"/>
+<text x="225" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">yes</text>
+<rect class="box" x="30" y="400" width="370" height="44" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="215" y="426.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Unplug it for 30 s. Does a hum or click stop?</text>
+<path class="ln" d="M400,422 L442,422" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nlr-m3a5a72)"/>
+<text x="421" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="450" y="400" width="280" height="44" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="590" y="418.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">In the head: stalled motor,</text>
+<text x="590" y="435.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">stripped gear or a switch</text>
+<path class="ln" d="M215,444 L215,470" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nlr-m3a5a72)"/>
+<text x="225" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no: a hiss or trickle</text>
+<rect class="box" x="30" y="478" width="700" height="112" rx="10" fill="#f8fafc" stroke="#0b2f4a" stroke-width="2"/>
+<text x="46" y="504" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water is leaving the softener. Find out where:</text>
+<text x="46" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hand on the drain line: cold and vibrating means a leak to drain past a worn piston seal.</text>
+<text x="46" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Tape-mark the brine tank water level: if the mark is under water in an hour, the refill is not shutting off.</text>
+<text x="46" y="574" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Either way it wastes water and often salt, so deal with it this week.</text>
+<text x="30" y="626" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Last step for any noise: start a manual regeneration and listen at each stage.</text>
+</svg>

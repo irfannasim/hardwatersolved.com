@@ -4,6 +4,7 @@ seoTitle: "9 Problems Mistaken for Hard Water and the Real Cause"
 seoDescription: "Nine problems mistaken for hard water — iron, silica, low pH, air, corrosion — each with the one test that settles it before you spend a dollar on treatment."
 excerpt: "Low pressure, cloudy water, orange stains and dry skin get blamed on hardness constantly, and a softener fixes almost none of them. Here is the symptom-to-cause matrix, with the single test that settles each case."
 date: "2026-09-08"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/9756161/pexels-photo-9756161.jpeg"
@@ -43,6 +44,8 @@ Find your symptom. The third column is the test that settles it — not a guess,
 | Chalky scale, no lather, spotted glass | **Genuine hardness** | Titration kit or utility report, in gpg | **Yes** |
 
 Only the last row is a softener's job. Everything above it needs different equipment, a plumber, or nothing at all.
+
+![Glass-of-water standing test comparing entrained air, ferrous and ferric iron, tannins and genuine hardness over 30 minutes](/diagrams/water-glass-standing-test-air-iron-tannins-hardness.svg "Letting a glass of water stand separates most problems mistaken for hard water.")
 
 ![Person pouring tap water into a clear drinking glass to check for cloudiness and sediment](https://images.pexels.com/photos/4108676/pexels-photo-4108676.jpeg)
 

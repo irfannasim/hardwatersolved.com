@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 504" width="760" height="504" role="img" aria-labelledby="g6mt-title g6mt-desc">
+<title id="g6mt-title">How a water softener meter turbine triggers regeneration</title>
+<desc id="g6mt-desc">Diagram of a metered water softener's outlet turbine, sensor and meter cable feeding the circuit board, which counts gallons remaining down to zero to trigger regeneration, and how a turbine jammed by debris leaves the count at zero so the softener never regenerates.</desc>
+<defs><marker id="g6mt-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="g6mt-k" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="g6mt-f" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="504" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">How the meter triggers regeneration</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">On a metered softener, a small turbine in the outlet counts every gallon.</text>
+<rect x="30" y="170" width="300" height="40" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M44,190 L150,190" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6mt-s)"/>
+<path class="ln" d="M212,190 L316,190" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6mt-s)"/>
+<circle cx="180" cy="190" r="14" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<path d="M168,190 L192,190 M180,178 L180,202 M172,182 L188,198 M172,198 L188,182" stroke="#0b2f4a" stroke-width="2"/>
+<rect x="168" y="150" width="24" height="20" rx="3" fill="#0b2f4a"/>
+<text x="160" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">sensor</text>
+<path class="ln" d="M180,150 L180,124 L378,124" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="280" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">meter cable</text>
+<text x="180" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">turbine spins in the outlet stream</text>
+<text x="180" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">softened water on its way to the house</text>
+<rect class="box" x="380" y="96" width="170" height="56" rx="8" fill="#0b2f4a"/>
+<text x="465" y="120" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">CIRCUIT BOARD</text>
+<text x="465" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dbeafe">counts the gallons</text>
+<rect class="box" x="380" y="180" width="170" height="60" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="465" y="205" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">gallons remaining</text>
+<text x="465" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">counts down to 0</text>
+<path class="ln" d="M465,154 L465,174" fill="none" stroke="#0b2f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6mt-k)"/>
+<rect class="box" x="590" y="96" width="140" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="660" y="120" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">day override</text>
+<text x="660" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">(if switched on)</text>
+<rect class="box" x="590" y="180" width="140" height="60" rx="8" fill="#0e7490"/>
+<text x="660" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">REGENERATE</text>
+<path class="ln" d="M552,210 L584,210" fill="none" stroke="#0b2f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6mt-k)"/>
+<path class="ln" d="M660,154 L660,174" fill="none" stroke="#0b2f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6mt-k)"/>
+<text x="30" y="300" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#dc2626">When the turbine jams</text>
+<rect x="30" y="324" width="300" height="40" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="180" cy="344" r="14" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<path d="M168,344 L192,344 M180,332 L180,356 M172,336 L188,352 M172,352 L188,336" stroke="#0b2f4a" stroke-width="2"/>
+<path d="M168,332 L192,356 M192,332 L168,356" stroke="#dc2626" stroke-width="4"/>
+<circle cx="150" cy="336" r="4" fill="#d6a86a" stroke="#57534e" stroke-width="1"/>
+<circle cx="160" cy="352" r="4" fill="#e7e5e4" stroke="#57534e" stroke-width="1"/>
+<circle cx="206" cy="338" r="4" fill="#e2b865" stroke="#57534e" stroke-width="1"/>
+<circle cx="214" cy="354" r="4" fill="#b45309" stroke="#57534e" stroke-width="1"/>
+<circle cx="140" cy="346" r="4" fill="#b45309" stroke="#57534e" stroke-width="1"/>
+<circle cx="222" cy="344" r="4" fill="#d6a86a" stroke="#57534e" stroke-width="1"/>
+<circle cx="198" cy="358" r="4" fill="#e2b865" stroke="#57534e" stroke-width="1"/>
+<circle cx="152" cy="358" r="4" fill="#a8a29e" stroke="#57534e" stroke-width="1"/>
+<text x="180" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">jammed by sand, pipe scale,</text>
+<text x="180" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">resin beads or iron deposits</text>
+<path class="ln" d="M334,344 L372,344" fill="none" stroke="#dc2626" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g6mt-f)"/>
+<rect class="box" x="380" y="316" width="350" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="396" y="340" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Count stays at zero: the control sees</text>
+<text x="396" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">no water used and never regenerates</text>
+<rect class="box" x="380" y="392" width="350" height="92" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="396" y="414" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">GE GXSH40V magnet test</text>
+<text x="396" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Pass a small magnet in front of the sensor.</text>
+<text x="396" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Reading: sensor works, turbine is jammed.</text>
+<text x="396" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">No reading: the sensor or the board.</text>
+</svg>

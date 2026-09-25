@@ -4,6 +4,7 @@ seoTitle: "Iron Water Softener Sizing: 3 Worked Well Examples"
 seoDescription: "Iron water softener sizing: add 3 to 4 grains per ppm of iron, then redo capacity, salt and regeneration days. Three worked well examples show what changes."
 excerpt: "Take one well at 15 grains of hardness and add iron at 0.5, 2 and 4 ppm. The resin bed stays the same, but the days between regenerations drop from five to two and a half, and yearly salt use roughly doubles. Skip the correction and the softener runs exhausted for half of every cycle. Here is the compensated-hardness arithmetic carried all the way through to capacity, salt dose and regeneration frequency, using a real manufacturer's capacity table."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Well Water"
 featuredImage: "https://images.pexels.com/photos/5921494/pexels-photo-5921494.jpeg"
@@ -26,8 +27,6 @@ faqs:
 This page carries that correction all the way through to capacity, salt use and regeneration frequency, with three worked examples. Whether your iron should reach the softener at all is a separate question, answered in [can a water softener remove iron](/blog/can-a-water-softener-remove-iron/). What to test for first is in [test iron and manganese before sizing a softener](/blog/test-iron-and-manganese-before-sizing/).
 
 ## The Compensated-Hardness Formula and Its Multiplier
-
-![Person tapping figures into a green-screen calculator over a laptop keyboard, the compensated-hardness step of sizing a softener for iron](https://images.pexels.com/photos/6958507/pexels-photo-6958507.jpeg)
 
 **Compensated hardness (gpg) = total hardness (gpg) + (multiplier × dissolved iron in ppm)**
 
@@ -60,8 +59,6 @@ Keeping everything else the same shows what iron alone changes:
 **Baseline with no iron:** 15 gpg × 300 gallons = 4,500 grains a day. 22,930 ÷ 4,500 = **5.1 days** between regenerations, or about 72 regenerations a year. At 6 lb each, that is **430 lb of salt a year**.
 
 ## Iron Water Softener Sizing: Three Worked Well Examples
-
-![Grey and dark metal pipes running in parallel bends along a wall, the kind of service pipework a well's iron passes through before reaching the softener](https://images.pexels.com/photos/14845870/pexels-photo-14845870.jpeg)
 
 ### Example 1: Light iron, 0.5 ppm
 
@@ -104,6 +101,8 @@ The arithmetic has an answer, but the specifications do not support it. Four ppm
 | 0.5 | 17 gpg | 5,100 | 4.5 | 487 lb | 12% |
 | 2.0 | 23 gpg | 6,900 | 3.3 | 659 lb | 35% |
 | 4.0 | 31 gpg | 9,300 | 2.5 | 888 lb | 52% |
+
+![Timeline showing how many days a water softener runs on exhausted resin when iron is ignored in sizing, at 0.5, 2 and 4 ppm iron.](/diagrams/iron-water-softener-exhausted-cycle-timeline.svg "Program raw hardness and the valve waits 5.1 days while the resin runs out much sooner.")
 
 ## Why Iron Needs More Frequent Regeneration Than the Math Says
 

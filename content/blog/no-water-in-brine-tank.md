@@ -4,6 +4,7 @@ seoTitle: "No Water in Brine Tank? 3 Normal Reasons and 6 Real Faults"
 seoDescription: "No water in brine tank? It can be normal: pre-fill tanks sit dry, and every tank is briefly empty mid-regeneration. Here is the timing check and the faults."
 excerpt: "You lift the lid, push the salt aside and find no water underneath. Before ordering parts, find out when your softener refills. Some are built to sit dry until a couple of hours before regenerating, every tank is nearly empty for a stretch in the middle of a regeneration, and in a lot of tanks the water is simply hidden under the salt. A few minutes with a flashlight and the regeneration clock tells you whether you have a design feature or a refill that has stopped working."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/11873897/pexels-photo-11873897.jpeg"
@@ -57,7 +58,7 @@ Put side by side over a regeneration, the two look like this:
 
 ## Look in the Right Place First
 
-![A metal flashlight switched on against a dark background, the tool for looking down a softener brine well to find the true water level](https://images.pexels.com/photos/985117/pexels-photo-985117.jpeg)
+![Brine tank cutaway showing water hidden under the salt, visible only by shining a flashlight down the brine well beside the float](/diagrams/water-softener-brine-tank-cutaway-brine-well-water-level.svg "Look down the brine well, not at the salt: the water sits underneath.")
 
 Most people who report no water in the tank are looking at the top of the salt. On a correctly filled tank, that is exactly what they should see.
 
@@ -77,8 +78,6 @@ Most people who report no water in the tank are looking at the top of the salt. 
 | Water far above the salt | Opposite fault — see [brine tank full of water or overflowing](/blog/brine-tank-full-of-water-or-overflowing/) |
 
 ## The Timing Check That Separates Normal From Broken
-
-![Hand holding a smartphone showing a stopwatch app, the simple timer used to check how long a softener runs its brine refill step](https://images.pexels.com/photos/21792124/pexels-photo-21792124.jpeg)
 
 If the brine well really is dry, find out whether it *should* be. This takes one of three routes, from quickest to most certain.
 

@@ -4,6 +4,7 @@ seoTitle: "Low Water Pressure After Water Softener? 7 Proven Fixes"
 seoDescription: "Low water pressure after a water softener is partly normal. Learn the expected psi drop by valve and flow, the gauge test, and the 7 faults that cause more."
 excerpt: "Every water softener costs some pressure. The question is not whether yours does, but whether it is costing two psi or twenty. A softener's valve and resin bed follow the same hydraulics as any other restriction, so the normal loss can be worked out in advance from the manufacturer's own flow rating — and once you know that number, one pair of gauge readings tells you whether you are looking at ordinary engineering or a real fault."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/10290630/pexels-photo-10290630.jpeg"
@@ -29,7 +30,7 @@ The useful question is not "does my softener reduce pressure?" It does. The ques
 
 ## How Much Pressure a Softener Is Supposed to Cost
 
-![Close-up of a pressure gauge dial reading about three bar in an industrial setting, the scale on which a normal softener pressure drop of a few psi is measured](https://images.pexels.com/photos/29864099/pexels-photo-29864099.jpeg)
+![Chart of water softener pressure drop rising with the square of flow, from about 1 psi at 3 gpm to 15 psi at a 12 gpm rating](/diagrams/water-softener-pressure-drop-vs-flow-rate-curve.svg "Pressure drop rises with the square of flow: invisible at one tap, noticeable at peak.")
 
 A softener is a restriction, and restrictions obey a simple rule: **pressure drop rises with the square of the flow.** Double the flow and the drop roughly quadruples. That is why the same softener is invisible at a bathroom tap and noticeable when two showers and the washing machine run together.
 
@@ -65,7 +66,7 @@ This comes up constantly, usually from someone whose shower feels stronger six m
 
 ## The Gauge Test: Before and After at Several Flows
 
-![Two gas pressure gauges connected by hoses against a white wall, the same principle as fitting test gauges on the inlet and outlet side of a water softener](https://images.pexels.com/photos/5506046/pexels-photo-5506046.jpeg)
+![Water softener gauge test setup with one pressure gauge before and one after the unit, measuring pressure drop at a timed flow](/diagrams/water-softener-gauge-test-before-after-setup.svg "Only the difference between the two gauges belongs to the softener.")
 
 Feel at the tap is unreliable. Two readings — one before the softener, one after — turn the question into a number.
 

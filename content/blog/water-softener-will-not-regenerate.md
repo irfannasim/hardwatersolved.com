@@ -4,6 +4,7 @@ seoTitle: "Water Softener Will Not Regenerate? 5 Easy Checks in Order"
 seoDescription: "Water softener will not regenerate? Check power, then programming, then the meter with a 5-gallon test, then the motor. Most faults end before the valve."
 excerpt: "The salt level has not moved in weeks, the water has turned hard, and the softener has not gone through a cycle since anyone can remember. Before assuming the valve is dead, work through the checks in order of cost and likelihood — power, programming, the water meter, then the motor. The meter test in the middle, a five-gallon bucket and a glance at the display, catches one of the most common and cheapest faults on metered softeners, and one that is routinely misdiagnosed as a failed control valve."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/14319099/pexels-photo-14319099.jpeg"
@@ -43,9 +44,9 @@ Every check below is placed where it is for a reason. The ones at the top cost n
 
 **Not the same as "regenerates but water stays hard".** If the unit does cycle but the salt never goes down, it is regenerating without brine. That is a different fault covered at the end of this article.
 
-## Check 1: Power, Which Fails More Often Than It Looks
+![Flowchart for a water softener that will not regenerate: power, programming, meter test, then a manual regeneration that splits trigger from drive faults](/diagrams/water-softener-will-not-regenerate-check-order-flowchart.svg "The manual regeneration splits trigger faults from drive faults")
 
-![White wall socket with a single plug connected, the first thing to confirm when a water softener control appears to be doing nothing](https://images.pexels.com/photos/8101107/pexels-photo-8101107.jpeg)
+## Check 1: Power, Which Fails More Often Than It Looks
 
 A softener without power keeps delivering soft water from its remaining capacity, sometimes for days, then quietly runs out. Nobody connects the hard water to the dark display they walked past last week.
 
@@ -69,8 +70,6 @@ Those behaviours come from each manufacturer's own manual. The practical point i
 
 ## Check 2: Clock, Programming and the Bypass
 
-![Digital alarm clock display showing the time on a white surface, a reminder that a softener's time-of-day and regeneration-time settings decide when it cycles](https://images.pexels.com/photos/9582658/pexels-photo-9582658.jpeg)
-
 A softener can be perfectly healthy and still never regenerate because it has been told not to, or told to at a time that never arrives.
 
 **Time of day.** If the clock reads 2:00 in the afternoon at 2:00 in the morning, a unit set to regenerate at 2:00 a.m. is cycling in the middle of the afternoon while the household is using water. Reset it.
@@ -92,6 +91,8 @@ A softener can be perfectly healthy and still never regenerate because it has be
 On a metered, demand-initiated softener, the control only regenerates when a small turbine in the outlet has counted enough gallons to use up the programmed capacity. If that turbine stops spinning, or its sensor stops reading it, the control sees zero water use forever. The valve, motor and board are all fine. The softener simply never thinks it needs to regenerate.
 
 This fault is common because the turbine sits in the water stream, where sand, pipe scale, resin beads from a failed distributor and iron deposits can jam it. It is misdiagnosed because the symptom — no regeneration — looks exactly like a dead valve.
+
+![Diagram of a metered water softener's outlet turbine, sensor and board, showing how a jammed meter stops the softener from ever regenerating](/diagrams/water-softener-meter-turbine-regeneration-trigger.svg "If the turbine stops spinning, the control thinks no water was used")
 
 **The test, step by step:**
 

@@ -4,6 +4,7 @@ seoTitle: "Water Softener Resin Channeling: Why Softening Fails"
 seoDescription: "Water softener resin channeling carves preferred paths through the bed so most of the resin is bypassed. Capacity collapses even though the resin is fine."
 excerpt: "Channeling is the fault that looks random. Hardness comes and goes with no pattern anyone can name, the resin tests healthy, and every obvious component checks out — because the problem is not what the bed is made of but where the water goes through it. Channeling and bed compaction present identically and are usually fixed by the same intervention, and that intervention starts with a bucket, a watch, and a measurement almost nobody takes."
 date: "2026-09-21"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/11370711/pexels-photo-11370711.jpeg"
@@ -48,9 +49,9 @@ That is why testing at a random moment gives contradictory answers, and why hous
 
 It is self-reinforcing. Left alone, it gets worse.
 
-## Compaction Is the Same Problem Wearing a Different Name
+![Water softener resin channeling diagram comparing an even flat flow front with fast channels that bypass exhausted resin](/diagrams/water-softener-resin-channeling-even-flow-vs-channels.svg "Channels let most of the water skip most of the resin")
 
-![Three industrial pressure gauges mounted on indoor pipework, the measurement that reveals whether a softener has enough pressure to backwash properly](https://images.pexels.com/photos/5532838/pexels-photo-5532838.jpeg)
+## Compaction Is the Same Problem Wearing a Different Name
 
 Bed compaction and channeling get listed separately, and for diagnosis that separation is not useful. Compaction is the bed packing down into a dense mass; channeling is water then forcing routes through it. They share a cause, share symptoms, and share a fix.
 
@@ -95,8 +96,6 @@ This is the measurement that converts a suspicion into a fact, and it needs a bu
 
 ## What a Compacted Bed Looks Like When You Open It
 
-![Textured crust of white mineral deposits forming a dense surface layer, the appearance of a resin bed that has cemented rather than remaining loose](https://images.pexels.com/photos/29290261/pexels-photo-29290261.jpeg)
-
 If the flow measurement is inconclusive, the bed itself answers the question. The sampling procedure is the same one used for fouling diagnosis, set out in [water softener resin fouling](/blog/water-softener-resin-fouling/).
 
 **What you are looking for, in order of how much it tells you:**
@@ -110,8 +109,6 @@ If the flow measurement is inconclusive, the bed itself answers the question. Th
 **The useful negative result:** clean, firm, well-coloured beads in a compacted bed is a good outcome. It means the fix is mechanical and the media can be saved.
 
 ## Fixing It
-
-![Worker using a spanner on pipework at close range, the drain line and flow control work that restores correct backwash to a softener](https://images.pexels.com/photos/16509869/pexels-photo-16509869.jpeg)
 
 The order matters, because the cheap fixes resolve most cases and the expensive one fixes nothing if the cause remains.
 

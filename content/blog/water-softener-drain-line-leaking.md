@@ -4,6 +4,7 @@ seoTitle: "Water Softener Drain Line Leaking? 5 Causes and Easy Fixes"
 seoDescription: "Water softener drain line leaking? Most leaks are a loose barb clamp or a sagging run that splits. Both are quick fixes if you keep the air gap intact."
 excerpt: "A softener drain line sits empty for days, then carries several gallons a minute for an hour in the middle of the night. That stop-start life is exactly what loosens clamps, kinks elbows, embrittles tubing and stretches unsupported runs into a sag that eventually splits. Most drain line leaks are a ten-minute repair. The part people get wrong is the last foot of the run, where a well-meant fix can quietly remove the air gap that keeps drain water out of your drinking water."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/3964796/pexels-photo-3964796.jpeg"
@@ -38,6 +39,8 @@ A drain line has four zones, and each one fails in its own way. Knowing which zo
 | **3. The run** | Tubing along the wall, floor or ceiling to the drain | Wet line along the floor, drip from a low point | Kink, sag and split, chafe, UV or heat embrittlement |
 | **4. The discharge end** | Air gap device, standpipe, floor drain or laundry tub | Water on the floor near the drain | Overflow, splash, blocked receptor, tubing pushed down into the drain |
 
+![Diagram of a water softener drain line leaking zones, from the valve outlet and first connection along the run to the discharge end](/diagrams/water-softener-drain-line-four-leak-zones.svg "Four zones, four failure modes: the first wet zone points to the cause")
+
 **How to find it quickly.** Run a manual regeneration during the day and walk the line during the backwash stage, which normally has the highest flow. Dry the line first and wrap any suspect joint in paper towel so you can see the first wet spot, not where the water ended up. If the wet spot is right at the control valve rather than on the tubing, it may be a head leak instead — the dry-and-mark method for that is in [why a water softener leaks at the control head](/blog/water-softener-leaking-at-control-head/).
 
 **One thing that is not a leak.** Water running to drain between regenerations, with the line cold and flowing at 3 in the afternoon, is a valve fault, not a drain line fault. That is covered in [why a water softener is constantly draining](/blog/water-softener-constantly-draining/).
@@ -70,8 +73,6 @@ The joint between the tubing and the barbed fitting on the valve is the single m
 **If the leak is at the elbow itself,** not the tube, the drain fitting on many valves is pushed into the valve body, sealed with an O-ring, and held with a clip. A new O-ring and a fully seated clip usually fix it.
 
 ## Failure Modes Specific to Drain Tubing
-
-![Coiled lengths of corrugated plastic tubing, the flexible kind of line that kinks at tight bends and flattens when a softener drain run is pulled around a corner](https://images.pexels.com/photos/36449552/pexels-photo-36449552.jpeg)
 
 Drain tubing lives a harder life than most household plumbing: long periods empty, short bursts of high flow, often loose on the floor, sometimes near a window or a water heater. It fails in ways a supply pipe does not.
 
@@ -136,7 +137,7 @@ The repair lasts as long as the route does. Most drain lines split because of ho
 
 ## Keep the Air Gap When You Repair It
 
-![Water pouring from a pipe outlet into a concrete basin below through open air, illustrating the visible gap a softener drain line needs between its end and the receiving drain](https://images.pexels.com/photos/37117678/pexels-photo-37117678.jpeg)
+![Water softener drain line air gap diagram showing the tube end above the standpipe flood rim versus pushed below it or taped in](/diagrams/water-softener-drain-line-air-gap-correct-vs-wrong.svg "The tube end stays above the flood rim, with open air in between")
 
 This is where a leak repair can create a bigger problem. The discharge end of a softener drain line is not just an exit; it is the barrier that stops drain water being drawn back into the softener and into your supply.
 
@@ -156,8 +157,6 @@ This is where a leak repair can create a bigger problem. The discharge end of a 
 **If the end splashes or overflows,** the fix is at the receptor, not by shoving the tube lower. Clip the tube in place above the rim, use a listed air gap fitting designed for softener drains, or make sure the receptor is large enough and clear enough for the backwash flow. A standpipe or laundry tub that overflows during backwash is a drain capacity problem; the leak you see on the floor is the receptor, not the tubing.
 
 ## Testing the Repair
-
-![Water droplets scattered across a metal drain surface, the kind of residual wetness to check for at the discharge end after a softener drain line repair](https://images.pexels.com/photos/29830349/pexels-photo-29830349.jpeg)
 
 1. **Dry the whole line and every joint.**
 2. **Run a manual regeneration** during the day.

@@ -4,6 +4,7 @@ seoTitle: "Water Softener Making Noise? 7 Sounds That Signal Trouble"
 seoDescription: "Water softener making noise? Regeneration is meant to be heard. Clicking, grinding or humming between cycles is not, and each sound points to one part."
 excerpt: "A softener that gurgles and whooshes at two in the morning is doing its job. The same softener humming at four in the afternoon, clicking every few seconds, or hissing quietly while every tap in the house is shut is telling you about a specific part. The most useful thing you can learn about softener noise is not what the sound is but when it happens, because that one fact separates normal regeneration from a failing motor, a stripped gear or an internal leak."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/7568427/pexels-photo-7568427.jpeg"
@@ -44,8 +45,6 @@ Every sound in this article sorts into one of two bins. The first bin is noise d
 
 ## What a Healthy Regeneration Sounds Like
 
-![Water pouring steadily out of the open end of a pipe, similar to the rush of backwash and rinse water a softener sends down its drain line during regeneration](https://images.pexels.com/photos/15242228/pexels-photo-15242228.jpeg)
-
 It helps to know the normal soundtrack well enough that anything off-script stands out. The stages below are the typical downflow sequence; exact durations depend on the valve and how it has been programmed.
 
 | Stage | Typical length | What you should hear | What it is doing |
@@ -82,8 +81,6 @@ This is the table to use when the display says the unit is in service and someth
 **Reading the table correctly.** A motor hum for thirty seconds at 2 a.m. is the valve moving between stages. The same hum at 4 p.m. with the display in service is a stalled motor. Timing beats description.
 
 ## Motor and Gear Sounds: Hum, Grind and Click
-
-![Close-up of a mechanical drive system with toothed gears and a timing belt, comparable to the reduction gears that transmit motor power to a softener valve piston](https://images.pexels.com/photos/31501021/pexels-photo-31501021.jpeg)
 
 The control head contains a small motor that moves the valve piston through each regeneration position. How it does that depends on the design, and the design changes what failure sounds like.
 
@@ -130,8 +127,6 @@ A continuously running drain is its own fault with its own repair order, and it 
 
 ## Gurgling, Spitting and Buzzing: Air and Pressure
 
-![Pair of analog pressure gauges mounted on pipework, the kind of reading that shows whether supply pressure is high enough to make a softener and its pipes hum](https://images.pexels.com/photos/16679541/pexels-photo-16679541.jpeg)
-
 **Gurgling and sputtering after work on the system.** Any time the softener is bypassed, serviced, re-bedded or newly installed, air gets into the resin tank and the pipes downstream. For the first hour or so you get gurgling from the tank, knocking in the pipes and taps that spit. This is normal and it clears by running cold taps one at a time, starting nearest the softener, until each flows smoothly. The full routine is in [air in faucets after softener service](/blog/air-in-faucets-after-softener-service/).
 
 **Gurgling that keeps coming back on a well.** A softener does not make air. If a well-supplied house gets repeated air noise at the softener and at the taps, the air is coming in upstream. Fleck's troubleshooting table lists "air in water system" as a cause of continuous drain flow and says to make sure the "well system has proper air eliminator control" and to "check for dry well condition". Common upstream causes are a waterlogged pressure tank, a failing check valve that lets the column drain back, or a pump drawing air when the well level drops.
@@ -147,6 +142,8 @@ A continuously running drain is its own fault with its own repair order, and it 
 ## A Five-Minute Listening Routine
 
 When you cannot tell which row of the table you are in, this sequence narrows it down without tools.
+
+![Flowchart for diagnosing a water softener making noise using the display, tap, bypass and unplug checks](/diagrams/water-softener-noise-listening-routine-flowchart.svg "Timing, location and what makes it stop narrow any softener noise to one part")
 
 1. **Note the time and the display.** Is the unit in service or mid-cycle? Write it down along with a short description of the sound in your own words.
 2. **Locate the sound.** Stand next to the unit. Is it the control head, the resin tank, the brine tank, the drain line, or the pipes? A phone held close to each part and recording works surprisingly well for comparing.
@@ -166,8 +163,6 @@ Sound is an excellent early warning and a poor final diagnosis. Be honest about 
 - **Some faults are silent until they are not.** A cracked distributor tube or fouled resin makes no noise at all.
 
 ## What to Do Next
-
-![Close-up of hands working on a small mechanical assembly, the kind of motor and gear replacement that fixes a softener control head that hums or grinds](https://images.pexels.com/photos/35072812/pexels-photo-35072812.jpeg)
 
 - **Normal regeneration sounds at the scheduled time:** nothing to fix. If the noise bothers you, move the regeneration time to when nobody is sleeping near the unit but water use is still low.
 - **Hissing or running water between cycles:** find out whether it is going to drain or the brine tank, then follow the matching repair.

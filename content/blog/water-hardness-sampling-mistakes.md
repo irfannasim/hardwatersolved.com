@@ -4,6 +4,7 @@ seoTitle: "7 Water Hardness Sampling Mistakes That Ruin Your Test"
 seoDescription: "Water hardness sampling mistakes like testing a softened tap, hot water or a stale glass skew the number. Where to draw the sample in 6 plumbing layouts."
 excerpt: "Most wrong hardness numbers are sampling errors, not kit errors. Here are the seven that matter, which way each one pushes the result, and exactly where to draw raw water in six common plumbing layouts, including a house where every tap is already softened."
 date: "2026-09-14"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Water Testing"
 featuredImage: "https://images.pexels.com/photos/8113569/pexels-photo-8113569.jpeg"
@@ -143,20 +144,11 @@ The correct sampling point depends on what's between the water main (or the well
 
 Layout 5 is where most well owners go wrong, so here it is drawn out:
 
-```
-WELL → PRESSURE TANK → (A) → sediment filter → iron filter → neutralizer → (B) → SOFTENER → (C) → house
-                        │                                                   │                  │
-             raw well water:                                    softener inlet:       softened water:
-             diagnose the well                                  size the softener     check it works
-```
+![Well water treatment train with hardness sampling points A (raw, after the pressure tank), B (softener inlet, for sizing) and C (softened water)](/diagrams/well-water-hardness-sampling-points-treatment-train.svg "On a treatment train, size the softener from sample B, not the raw well water")
 
 And for a municipal house with a softener (layouts 2 and 3):
 
-```
-WATER MAIN → shut-off → (A) hose bib, if split off here → SOFTENER → (C) every indoor tap
-                                                        ↑
-                                            bypass valve: close to get raw water at (C) taps
-```
+![Municipal house hardness sampling points: a hose bib split off before the softener, or indoor taps with the softener in bypass](/diagrams/municipal-softener-hardness-sampling-points.svg "Sample a hose bib split off before the softener, or bypass it and sample indoors")
 
 Sample **A** is your supply. Sample **B** only exists on a treatment train, and it's the one that sizes the softener. Sample **C** tells you whether the softener is doing its job, and comparing C against A or B is the fastest way to separate an equipment fault from a plumbing one.
 

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="wdt-title wdt-desc">
+<title id="wdt-title">Well water softener decision tree: routing test results to treatment stages</title>
+<desc id="wdt-desc">Decision tree for a water softener on well water. Work through bacteria, pH, hydrogen sulfide, iron, manganese and sediment results in order; each positive result adds a treatment stage ahead of the softener or stops the purchase, and the softener is sized last.</desc>
+<defs><marker id="wdt-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">From test results to treatment stages</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Answer in order and keep going: each yes adds a stage ahead of the softener.</text>
+<rect class="box" x="30" y="92" width="330" height="48" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="42" y="120.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">1 · Bacteria positive?</text>
+<path class="ln" d="M360,116 L424,116" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="392" y="108" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">yes</text>
+<rect class="box" x="432" y="92" width="298" height="48" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="581" y="112.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">STOP: find the source, disinfect the</text>
+<text x="581" y="129.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">well and retest before buying anything</text>
+<path class="ln" d="M150,140 L150,154" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="162" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">next</text>
+<rect class="box" x="30" y="162" width="330" height="48" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="42" y="190.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2 · pH below about 6.7?</text>
+<path class="ln" d="M360,186 L424,186" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="392" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="432" y="162" width="298" height="48" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="581" y="190.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Add a neutralizer</text>
+<path class="ln" d="M150,210 L150,224" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="162" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">next</text>
+<rect class="box" x="30" y="232" width="330" height="48" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="42" y="260.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3 · Rotten-egg smell or H₂S?</text>
+<path class="ln" d="M360,256 L424,256" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="392" y="248" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="432" y="232" width="298" height="48" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="581" y="252.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Add an oxidizing stage (aeration,</text>
+<text x="581" y="269.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">chlorination or an oxidizing filter)</text>
+<path class="ln" d="M150,280 L150,294" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="162" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">next</text>
+<rect class="box" x="30" y="302" width="330" height="48" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="42" y="330.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4 · Iron: how much, which form?</text>
+<path class="ln" d="M360,326 L424,326" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="392" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">check</text>
+<rect class="box" x="432" y="302" width="298" height="48" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="581" y="322.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Use the iron table: it decides whether</text>
+<text x="581" y="339.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">an iron stage goes ahead of the softener</text>
+<path class="ln" d="M150,350 L150,364" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="162" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">next</text>
+<rect class="box" x="30" y="372" width="330" height="48" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="42" y="400.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">5 · Manganese above 0.05 mg/L?</text>
+<path class="ln" d="M360,396 L424,396" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="392" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="432" y="372" width="298" height="48" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="581" y="392.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Treat it in the iron stage,</text>
+<text x="581" y="409.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">usually the oxidizing filter</text>
+<path class="ln" d="M150,420 L150,434" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="162" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">next</text>
+<rect class="box" x="30" y="442" width="330" height="48" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="42" y="470.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">6 · Sand, grit or silt?</text>
+<path class="ln" d="M360,466 L424,466" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="392" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="432" y="442" width="298" height="48" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="581" y="462.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Add a sediment prefilter</text>
+<text x="581" y="479.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">at the front of the train</text>
+<path class="ln" d="M150,490 L150,504" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wdt-m3a5a72)"/>
+<text x="162" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">next</text>
+<rect class="box" x="30" y="512" width="700" height="62" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="3"/>
+<text x="46" y="538" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">7 · Now size the softener</text>
+<text x="46" y="559" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Base it on the high end of seasonal hardness, plus compensation for any iron and manganese it will still see.</text>
+</svg>

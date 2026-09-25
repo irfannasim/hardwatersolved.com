@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 410" width="760" height="410" role="img" aria-labelledby="g6hs-title g6hs-desc">
+<title id="g6hs-title">Water hardness scale and the five thresholds that matter</title>
+<desc id="g6hs-desc">Water hardness scale in grains per gallon and mg/L showing the soft, slightly hard, moderately hard, hard and very hard bands, the Penn State softener range of about 3 to 20 gpg, and five thresholds at 1, 3.5, 7, 10.5 and 20 gpg.</desc>
+<defs></defs>
+<rect width="760" height="410" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water hardness: five thresholds that matter</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Bands and cut-offs from the article, on a linear scale in grains per gallon.</text>
+<path class="ln" d="M137.1,134 L137.1,122 L687.6,122 L687.6,134" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="412.35" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Penn State softener range: ~3 to 20 gpg (pH above 6.7, iron under 5 mg/L)</text>
+<rect x="40" y="188" width="32.400000000000006" height="36" fill="#ccfbf1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="56.2" y="158" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Soft</text>
+<rect x="72.4" y="188" width="80.9" height="36" fill="#e6f7f4" stroke="#ffffff" stroke-width="1.5"/>
+<text x="112.85000000000001" y="176" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Slightly hard</text>
+<rect x="153.3" y="188" width="113.39999999999998" height="36" fill="#fef3c7" stroke="#ffffff" stroke-width="1.5"/>
+<text x="210" y="158" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Moderately hard</text>
+<rect x="266.7" y="188" width="113.30000000000001" height="36" fill="#fed7aa" stroke="#ffffff" stroke-width="1.5"/>
+<text x="323.35" y="176" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Hard</text>
+<rect x="380" y="188" width="340" height="36" fill="#fecaca" stroke="#ffffff" stroke-width="1.5"/>
+<text x="550" y="158" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Very hard</text>
+<rect x="40" y="188" width="680" height="36" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">gpg</text>
+<text x="30" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">mg/L</text>
+<path d="M72.4,184 L72.4,232" stroke="#0b2f4a" stroke-width="2"/>
+<text x="72.4" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1</text>
+<text x="72.4" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">17</text>
+<path class="ln" d="M72.4,278 L96,306" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="30" y="310" width="132" height="78" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="96" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1 gpg</text>
+<text x="96" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">the floor:</text>
+<text x="96" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">nothing to do</text>
+<path d="M153.3,184 L153.3,232" stroke="#0b2f4a" stroke-width="2"/>
+<text x="153.3" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">3.5</text>
+<text x="153.3" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">60</text>
+<path class="ln" d="M153.3,278 L238,306" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="172" y="310" width="132" height="78" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="238" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">3.5 gpg</text>
+<text x="238" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">softening starts</text>
+<text x="238" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">being defensible</text>
+<path d="M266.7,184 L266.7,232" stroke="#0b2f4a" stroke-width="2"/>
+<text x="266.7" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">7</text>
+<text x="266.7" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">120</text>
+<path class="ln" d="M266.7,278 L380,306" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="314" y="310" width="132" height="78" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">7 gpg</text>
+<text x="380" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">practical</text>
+<text x="380" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">treatment threshold</text>
+<path d="M380,184 L380,232" stroke="#0b2f4a" stroke-width="2"/>
+<text x="380" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">10.5</text>
+<text x="380" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">180</text>
+<path class="ln" d="M380,278 L522,306" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="456" y="310" width="132" height="78" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="522" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">10.5 gpg</text>
+<text x="522" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">the very</text>
+<text x="522" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">hard line</text>
+<path d="M687.6,184 L687.6,232" stroke="#0b2f4a" stroke-width="2"/>
+<text x="687.6" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">20</text>
+<path class="ln" d="M687.6,278 L664,306" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="598" y="310" width="132" height="78" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="664" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">20 gpg</text>
+<text x="664" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">top of the</text>
+<text x="664" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">standard range</text>
+</svg>

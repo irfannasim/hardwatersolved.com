@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="edt-title edt-desc">
+<title id="edt-title">How an EDTA hardness drop test kit works</title>
+<desc id="edt-desc">Three-step diagram of an EDTA drop test kit titration: the indicator turns the sample red while calcium and magnesium are free, each EDTA drop binds a fixed amount of hardness, and the sample flips blue at the endpoint, so the drop count gives water hardness in gpg.</desc>
+<defs><marker id="edt-k" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">How a hardness drop test kit counts grains</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">EDTA titration: each drop takes a fixed amount of hardness out of play.</text>
+<path d="M104,140 L104,290 Q104,306 120,306 L160,306 Q176,306 176,290 L176,140" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<path d="M106,196 L106,290 Q106,304 120,304 L160,304 Q174,304 174,290 L174,196 z" fill="#e11d48"/>
+<circle cx="124" cy="216" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="152" cy="224" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="134" cy="244" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="158" cy="256" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="122" cy="272" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="146" cy="284" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="138" cy="264" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="116" cy="238" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<path d="M344,140 L344,290 Q344,306 360,306 L400,306 Q416,306 416,290 L416,140" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<path d="M346,196 L346,290 Q346,304 360,304 L400,304 Q414,304 414,290 L414,196 z" fill="#e11d48"/>
+<circle cx="364" cy="216" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="364" cy="216" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="392" cy="224" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="392" cy="224" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="374" cy="244" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="374" cy="244" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="398" cy="256" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="398" cy="256" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="362" cy="272" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="386" cy="284" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="378" cy="264" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="356" cy="238" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<rect x="372" y="92" width="16" height="34" rx="3" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="366" y="78" width="28" height="18" rx="8" fill="#3a5a72"/>
+<path d="M380,134 Q386,144 380,150 Q374,144 380,134 z" fill="#94a3b8"/>
+<text x="404" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">EDTA</text>
+<path d="M584,140 L584,290 Q584,306 600,306 L640,306 Q656,306 656,290 L656,140" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<path d="M586,196 L586,290 Q586,304 600,304 L640,304 Q654,304 654,290 L654,196 z" fill="#2563eb"/>
+<circle cx="604" cy="216" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="604" cy="216" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="632" cy="224" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="632" cy="224" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="614" cy="244" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="614" cy="244" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="638" cy="256" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="638" cy="256" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="602" cy="272" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="602" cy="272" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="626" cy="284" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="626" cy="284" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="618" cy="264" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="618" cy="264" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<circle cx="596" cy="238" r="8" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="596" cy="238" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<path class="ln" d="M194,226 L318,226" fill="none" stroke="#0b2f4a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#edt-k)"/>
+<path class="ln" d="M434,226 L558,226" fill="none" stroke="#0b2f4a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#edt-k)"/>
+<text x="140" y="336" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1. Indicator added</text>
+<text x="140" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">red or pink while calcium</text>
+<text x="140" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">and magnesium are free</text>
+<text x="380" y="336" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2. EDTA, one drop at a time</text>
+<text x="380" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">each drop binds a fixed</text>
+<text x="380" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">amount of hardness</text>
+<text x="620" y="336" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">3. Endpoint</text>
+<text x="620" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">last hardness bound:</text>
+<text x="620" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">sample flips to blue</text>
+<rect class="box" x="30" y="408" width="700" height="58" rx="10" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="380" y="432" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">The drop count is the measurement.</text>
+<text x="380" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Hach 5-B: 1 drop = 1 gpg, so 11 drops before the flip means 11 gpg.</text>
+<circle cx="38" cy="494" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<text x="50" y="499" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">free calcium or magnesium</text>
+<circle cx="250" cy="494" r="8" fill="#475569" stroke="#ffffff" stroke-width="2.5" stroke-dasharray="3 2"/>
+<circle cx="250" cy="494" r="5" fill="#c2410c" stroke="#7c2d12" stroke-width="1"/>
+<text x="266" y="499" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">bound by EDTA</text>
+</svg>

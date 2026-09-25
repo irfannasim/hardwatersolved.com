@@ -86,6 +86,35 @@ function readFeaturedImageDimensions(featuredImg: string | null): {
     return { img: featuredImg, width, height };
 }
 
+// Diagrams are hand-drawn SVGs in public/diagrams/, referenced from markdown as
+// ![alt](/diagrams/name.svg "caption"). Unlike photos they must never be cropped,
+// so they keep their own aspect ratio (read from the SVG's width/height/viewBox).
+const DIAGRAM_PATTERN = /!\[([^\]]*)\]\((\/diagrams\/[^\s)]+\.svg)(?:\s+"([^"]*)")?\)/g;
+
+function isDiagramSrc(src: string) {
+    return src.startsWith('/diagrams/') && src.endsWith('.svg');
+}
+
+function readDiagramDimensions(src: string): { width: number; height: number } | null {
+    const publicPath = path.join(process.cwd(), 'public', src);
+    if (!fs.existsSync(publicPath)) return null;
+    try {
+        const { width, height } = imageSize(fs.readFileSync(publicPath));
+        return width && height ? { width, height } : null;
+    } catch {
+        return null;
+    }
+}
+
+function extractDiagrams(content: string) {
+    return [...content.matchAll(DIAGRAM_PATTERN)].map(([, alt, src, caption]) => ({
+        alt,
+        src,
+        caption: caption || alt,
+        ...(readDiagramDimensions(src) || { width: 800, height: 450 }),
+    }));
+}
+
 export function blogPostStaticParams() {
     const blogDir = getBlogContentDir();
     const files = fs.existsSync(blogDir) ? getBlogMarkdownFiles(blogDir) : [];
@@ -192,6 +221,24 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
 
     const SITE_TITLE = process.env.NEXT_PUBLIC_SITE_TITLE || 'Hard Water Solved';
 
+    const diagramImages = extractDiagrams(content).map((d) => ({
+        '@type': 'ImageObject',
+        '@id': `${SITE_DOMAIN}${d.src}`,
+        url: `${SITE_DOMAIN}${d.src}`,
+        contentUrl: `${SITE_DOMAIN}${d.src}`,
+        encodingFormat: 'image/svg+xml',
+        width: d.width.toString(),
+        height: d.height.toString(),
+        name: d.caption,
+        caption: d.caption,
+        description: d.alt,
+        inLanguage: 'en-US',
+    }));
+    const articleImageRefs = [
+        ...(fullFeaturedImg ? [{ '@id': fullFeaturedImg }] : []),
+        ...diagramImages.map((d) => ({ '@id': d['@id'] })),
+    ];
+
     // Comprehensive Schema.org @graph
     const schemaGraph = [
         {
@@ -264,10 +311,11 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
             name: data.title,
             '@id': `${canonicalUrl}/#richSnippet`,
             isPartOf: { '@id': `${canonicalUrl}/#webpage` },
-            image: fullFeaturedImg ? { '@id': fullFeaturedImg } : undefined,
+            image: articleImageRefs.length > 0 ? articleImageRefs : undefined,
             inLanguage: 'en-US',
             mainEntityOfPage: { '@id': `${canonicalUrl}/#webpage` },
         },
+        ...diagramImages,
     ].filter(Boolean);
 
     const headingSlugger = new GithubSlugger();
@@ -327,6 +375,21 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
                 firstChild?.tagName === 'img';
 
             if (isImageOnlyParagraph) {
+                const imgSrc = String(firstChild.properties?.src || '');
+                const caption = firstChild.properties?.title;
+
+                if (isDiagramSrc(imgSrc)) {
+                    // Linked to the full-size SVG so phone readers can open and zoom it.
+                    return (
+                        <figure className="article-diagram">
+                            <a href={imgSrc} target="_blank" rel="noopener" aria-label="Open diagram full size">
+                                {children}
+                            </a>
+                            {caption && <figcaption>{String(caption)}</figcaption>}
+                        </figure>
+                    );
+                }
+
                 return <figure className={styles.markdownImage}>{children}</figure>;
             }
 
@@ -346,6 +409,21 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
         img: ({ src = '', alt = '', ...props }) => {
             const imageSrc = typeof src === 'string' ? src : '';
             const fullSrc = resolveImageUrl(imageSrc, '/');
+
+            if (isDiagramSrc(fullSrc)) {
+                const { width, height } = readDiagramDimensions(fullSrc) || { width: 800, height: 450 };
+                return (
+                    <img
+                        src={fullSrc}
+                        alt={alt}
+                        loading="lazy"
+                        decoding="async"
+                        width={width}
+                        height={height}
+                    />
+                );
+            }
+
             const optimizedSrc = getOptimizedPexelsUrl(fullSrc, 800);
 
             return (

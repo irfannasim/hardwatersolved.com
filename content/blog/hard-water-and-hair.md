@@ -4,6 +4,7 @@ seoTitle: "Hard Water Hair: Why It Feels Waxy and How to Fix It"
 seoDescription: "Hard water hair feels waxy because minerals and soap film coat the shaft. One chelating wash strips it and proves whether hardness is really the cause."
 excerpt: "If a single chelating wash brings your hair back, the coating was mineral and the diagnosis is settled in one shower. If it does not, the problem was never your water — and that saves you a shower filter you did not need."
 date: "2026-09-08"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/5240719/pexels-photo-5240719.jpeg"
@@ -59,6 +60,8 @@ Two distinct deposits, often described as one:
 **Metal ions binding to the shaft.** Hair keratin carries negatively charged sites that attract positively charged calcium and magnesium ions. They accumulate on the cuticle surface and in the gaps between cuticle scales, which roughens the surface, increases friction between strands, and scatters light instead of reflecting it — the mechanical basis of both tangling and dullness.
 
 **Calcium-soap curd.** The same reaction that stops soap lathering. Surfactant plus calcium produces an insoluble film that rinsing does not clear, and it settles on hair exactly as it settles on a shower screen.
+
+![Diagram of a hair shaft with hard water calcium and magnesium ions and a calcium-soap curd film coating the cuticle, causing tangling and dullness](/diagrams/hair-shaft-hard-water-mineral-and-soap-coating.svg "Both coatings sit on the cuticle, which is why one chelating wash can clear them")
 
 Worth being precise about the damage claim, because it is routinely overstated. A scanning electron microscopy study published in the *Indian Journal of Dermatology, Venereology and Leprology* washed hair from 20 healthy volunteers in hard water at 287 to 533 ppm calcium carbonate against softer water at 50 to 250 ppm. Magnesium deposition was significantly higher on the hard water samples, but calcium deposition was not, and [the researchers found no statistically significant difference in surface damage under the microscope](https://ijdvl.com/scanning-electron-microscopy-study-of-hair-shaft-changes-related-to-hardness-of-water/).
 

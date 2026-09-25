@@ -4,6 +4,7 @@ seoTitle: "Do You Need a Whole House Water Softener? 3 Honest Tests"
 seoDescription: "Do you need a whole house water softener? Only if hardness, your appliances and years left in the home add up. This payback worksheet can honestly say no."
 excerpt: "Hard water alone doesn't justify a softener. Run your own numbers through a payback worksheet — measured hardness, appliances, detergent, water heating and years left in the home — and accept the answer, even when it's no."
 date: "2026-09-14"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Fundamentals"
 featuredImage: "https://images.pexels.com/photos/12726229/pexels-photo-12726229.jpeg"
@@ -60,8 +61,6 @@ That last point is why the worksheet exists. On moderately hard water, the runni
 ## The Payback Worksheet
 
 Every figure in the "Example" column is an **illustrative assumption**. Replace each one with your own bills, prices and a real quote. The formulas are what matter.
-
-![Envelopes marked paid and due beside a calculator and reading glasses, representing the payback worksheet for a whole house water softener](https://images.pexels.com/photos/7111490/pexels-photo-7111490.jpeg)
 
 **Step 1: Hardness removed per year**
 
@@ -153,9 +152,9 @@ Sometimes the right answer is nothing. Water under 3.5 gpg, a symptom that turns
 
 What changed the verdict above wasn't only hardness. It was the "years left" row.
 
-![Packed cardboard moving boxes on the floor of an emptied room, a reminder that years left in the home decide whether a whole house water softener pays back](https://images.pexels.com/photos/4246110/pexels-photo-4246110.jpeg)
+![Illustrative water softener payback chart: a $2,000 install recovered at $230 a year, breaking even at 8.7 years](/diagrams/water-softener-payback-breakeven-chart.svg "Illustrative numbers: payback only counts if you stay past break-even")
 
-A softener's cost is paid on day one, and its savings arrive a year at a time. Household B needs almost nine years to break even. Move after five, and four years of savings go to the next owner. A rough rule: when payback is more than half the time you expect to stay, one bad salt year or early repair wipes out the margin.
+A softener's cost is paid on day one, and its savings arrive a year at a time. Household B needs almost nine years to break even. Move after five, and the nearly four years of savings it still needed to pay for itself go to the next owner. A rough rule: when payback is more than half the time you expect to stay, one bad salt year or early repair wipes out the margin.
 
 A few costs don't reduce neatly to dollars. Salt softening raises sodium at every softened tap, so many homes leave one cold kitchen tap hard. Some communities, particularly in parts of California, restrict salt-discharging softeners, so check with your wastewater utility first. And some people simply prefer how softened water feels. That's a fair reason to buy one, as long as you know you're paying for comfort, not a return.
 

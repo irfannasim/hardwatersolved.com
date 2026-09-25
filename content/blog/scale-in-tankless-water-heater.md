@@ -4,6 +4,7 @@ seoTitle: "Scale in Tankless Water Heater: 5 Signs Before It Fails"
 seoDescription: "Scale in tankless water heater systems shows up as temperature swings and error codes long before failure. Log delta-T and flush on your hardness number."
 excerpt: "A tankless unit tells you it is scaling months before it throws a code — if you are logging the right number. Here are the five signals in the order they appear, and the flush interval your measured hardness actually requires."
 date: "2026-09-10"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/8142983/pexels-photo-8142983.jpeg"
@@ -27,7 +28,7 @@ That gap is measurable with a thermometer and thirty seconds a month. This artic
 
 ## The Five Signs, in the Order They Appear
 
-Tankless units scale from the inside of a narrow copper or stainless heat exchanger outward. Because the passages are small by design, a deposit that would be invisible in a storage tank changes behaviour quickly. The symptoms arrive in a predictable sequence.
+Tankless units scale on the water side of a narrow copper or stainless heat exchanger, with the deposit building inward from the passage walls. Because the passages are small by design, a deposit that would be invisible in a storage tank changes behaviour quickly. The symptoms arrive in a predictable sequence.
 
 **1. Longer time-to-hot at the tap.** The first and least noticed. Scale is an insulator between the burner and the water, so the exchanger takes longer to bring the passing stream up to setpoint. You will notice it as an extra two or three seconds at the kitchen sink before anyone calls it a problem.
 
@@ -39,7 +40,7 @@ Tankless units scale from the inside of a narrow copper or stainless heat exchan
 
 **5. Error codes.** Overheat and flow-rate faults. On Rinnai equipment the LC or LC0 code is an explicit scale warning; other brands throw generic overheat and ignition faults. This is the last stage, not the first, and the exchanger is usually well coated by the time it appears.
 
-![Technician inspecting and servicing a wall-mounted heating unit in a workshop](https://images.pexels.com/photos/34938442/pexels-photo-34938442.jpeg)
+![Tankless water heater heat exchanger passage clean versus scaled, showing the insulating layer, narrowed channel and steam bubbles](/diagrams/tankless-water-heater-heat-exchanger-scale-clean-vs-scaled.svg "Scale insulates the exchanger and narrows its channels long before an error code appears.")
 
 ## Manufacturer Hardness Limits and What the Warranty Says
 
@@ -84,11 +85,9 @@ A drop of 4 to 5°F at low flow, sustained across two consecutive months, is wor
 
 Two things that will corrupt your readings: taking measurements at different flow rates and comparing them, and seasonal inlet temperature change. Winter groundwater can be 25°F colder than summer, which pushes the unit harder and changes the achievable rise. Always compare against the same month last year, or record the inlet temperature and compare deltas rather than outlet temperatures.
 
-![Close-up of a temperature gauge showing cold, normal and hot ranges](https://images.pexels.com/photos/35426366/pexels-photo-35426366.jpeg)
+![Illustrative delta-T log for a tankless water heater showing low-flow outlet temperature drifting down 4–5°F as scale builds](/diagrams/tankless-water-heater-delta-t-log-low-flow-drift.svg "A monthly low-flow reading catches scale 6 to 12 months before an error code.")
 
 ## Flush Interval by Measured Hardness
-
-![Hands adjusting a boiler system fitted with pressure instrumentation during a service flush](https://images.pexels.com/photos/7859953/pexels-photo-7859953.jpeg)
 
 The manufacturer baseline is annual. Your water decides whether that is generous or optimistic.
 

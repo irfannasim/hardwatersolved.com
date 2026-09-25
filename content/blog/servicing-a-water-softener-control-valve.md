@@ -4,6 +4,7 @@ seoTitle: "Clean a Water Softener Control Valve: 3 Proven Rebuilds"
 seoDescription: "Clean a water softener control valve with a seal kit, not a new valve. Rebuild steps for Fleck, Clack and Autotrol, and the one lubricant that won't wreck it."
 excerpt: "A seal and spacer kit costs a fraction of a new control valve and cures most internal leaks, hard-water bleed-through and a drain that never stops. The rebuild is well within reach on the common valves. What turns it into a replacement is almost always one of three things: the wrong grease, a part forced into its bore, or screws driven into new threads. This walkthrough covers Fleck, Clack and Autotrol valves in order, with the parts to ask for."
 date: "2026-09-24"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/11890980/pexels-photo-11890980.jpeg"
@@ -42,8 +43,6 @@ If you are not sure which part of the cycle is failing, [how a water softener co
 
 ## The Lubricant Rule: Silicone Only
 
-![Gloved hands pouring motor oil into an engine, a petroleum lubricant of the kind that must never touch water softener seals or O-rings](https://images.pexels.com/photos/13065693/pexels-photo-13065693.jpeg)
-
 This is the one thing to get right. It is also the most common way owners turn a fifty-dollar repair into a new valve.
 
 **What the manufacturers say:**
@@ -62,8 +61,6 @@ This is the one thing to get right. It is also the most common way owners turn a
 - **Never lubricate gears or the motor.** Clack says so directly, and warns that oil on the reflective drive gear can upset the optical position counting.
 
 ## Parts-Kit Reference by Valve Family
-
-![Flat lay of repair tools beside disassembled appliance parts on a workbench, the orderly layout that keeps a softener piston, seals and spacers in the right sequence](https://images.pexels.com/photos/32588547/pexels-photo-32588547.jpeg)
 
 Order by the valve's model, not the softener's brand name. Many different softener brands use the same Fleck, Clack or Autotrol valve. The numbers below are taken from each manufacturer's current service manual.
 
@@ -93,6 +90,8 @@ This sequence follows the Fleck 5600SXT service instructions.
 6. Remove the end plug retainer plate.
 7. Pull upward on the piston rod yoke until the piston assembly comes out of the valve.
 8. Remove the seals and spacers. They come out in alternating order. Work slowly with a tool that will not scratch the bore, and look into the bore with a flashlight when it is empty. Fleck's piston instructions say to make sure "there is no foreign matter that would interfere with the valve operation."
+
+![Exploded diagram of a Fleck 5600 control valve showing five seals and four spacers alternating in the bore, with the piston, end plug and yoke](/diagrams/fleck-5600-control-valve-seal-spacer-stack.svg "Fleck 5600 bore: five seals and four spacers alternate, then the piston and yoke")
 
 **Clean and inspect:**
 
@@ -141,8 +140,6 @@ Autotrol's 255 valve uses a different design. A camshaft pushes rubber valve dis
 Reassembly is where these valves get damaged. See the screw procedure in the next section.
 
 ## Seating and Tightening Cautions
-
-![Precision vernier caliper resting on a workshop surface, the kind of simple measurement that confirms a softener spacer stack is seated to the correct depth](https://images.pexels.com/photos/28231807/pexels-photo-28231807.jpeg)
 
 None of these three manuals gives a torque figure for the parts you touch in a rebuild. Instead, each gives a physical check that tells you when to stop. Use those checks, not a wrench.
 

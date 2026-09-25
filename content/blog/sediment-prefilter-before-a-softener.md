@@ -4,6 +4,7 @@ seoTitle: "Sediment Filter Before Water Softener: 3 Smart Change Rules"
 seoDescription: "A clogged sediment filter before a water softener starves backwash and causes channeling. Change it on pressure drop, not the calendar. Here's how."
 excerpt: "The sediment cartridge in front of a softener is the cheapest part of the whole system, and it's the one most likely to be swapped on a guess. Change it too late and the softener's backwash runs short of water, so the bed slowly channels. Pick the wrong micron rating and you either clog it in a fortnight or let silt straight through to the resin. Two pressure gauges and a notebook replace the guessing."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/29246285/pexels-photo-29246285.jpeg"
@@ -36,6 +37,8 @@ Most people think of the prefilter as protecting the resin from dirt. It does, b
 **The backwash problem.** Every regeneration begins with a backwash. Water flows up through the resin bed fast enough to lift and loosen it, and that flushes out fine debris before the brine stage. The rate is fixed by a small flow control in the drain line, and it is sized on the assumption that house pressure is available at the valve inlet. Put a half-blocked cartridge in front of the valve and the backwash flow drops. The bed no longer lifts properly, and fine particles and compacted zones stay where they are.
 
 **What happens next.** A bed that is not fully lifted, cycle after cycle, develops preferred paths. Water takes the easy route through those paths and bypasses large volumes of resin. The result is hardness leaking through well before the softener thinks it is exhausted. That fault is covered in [water softener resin channeling](/blog/water-softener-resin-channeling/). It is slow to develop and slow to undo, and a restrictive prefilter is one of its quieter causes.
+
+![Softener backwash comparison showing a clogged sediment prefilter reducing upflow so the resin bed never lifts and begins to channel](/diagrams/water-softener-backwash-starved-by-clogged-prefilter.svg "A restrictive prefilter starves backwash, and the bed slowly channels")
 
 **What sediment does when it gets through.**
 
@@ -82,6 +85,8 @@ A single gauge after the filter tells you house pressure. Two gauges, one each s
 - **Outlet gauge:** between the filter housing and the softener inlet.
 - Many filter heads have tapped 1/4-inch ports for gauges. Where they do not, a tee with a gauge fitted during the next plumbing job is inexpensive.
 
+![Diagram of a sediment filter before a water softener with inlet and outlet pressure gauges on each side of the housing to measure pressure drop](/diagrams/sediment-filter-before-water-softener-gauge-placement.svg "One gauge each side of the housing: the difference is what the filter costs you")
+
 **Take readings at a fixed flow.** Pressure drop across a filter is close to zero when nothing is running and rises sharply with flow. A reading taken with no water flowing tells you nothing. Pick a repeatable test flow, such as one bath tap fully open, or the outside hose bib. Use the same one every time.
 
 **On a well, read at the same point in the pump cycle.** Pressure swings between the pump's cut-in and cut-out settings. Read both gauges together, just after the pump shuts off, with your test flow running.
@@ -91,8 +96,6 @@ A single gauge after the filter tells you house pressure. Two gauges, one each s
 **Record the baseline with a brand-new cartridge.** That figure is your zero. Every later reading is compared against it, not against an absolute number.
 
 ## When to Change It: Reading the Differential
-
-![Close-up of industrial pressure gauges mounted on a metal grid, illustrating the inlet and outlet readings compared to decide when a sediment cartridge is due](https://images.pexels.com/photos/38166366/pexels-photo-38166366.jpeg)
 
 The change trigger is the *rise* in pressure drop above the new-cartridge baseline, measured at your standard test flow.
 
@@ -110,8 +113,6 @@ The change trigger is the *rise* in pressure drop above the new-cartridge baseli
 **Signs you missed the change point:** pressure that falls away when a second tap opens, a softener that seems to regenerate normally while hardness creeps back, or a cartridge that has collapsed or channeled so dirty water is going round it. General pressure loss after an install, and the other things that cause it, is covered in [low water pressure after a water softener](/blog/low-water-pressure-after-water-softener/).
 
 ## A Pressure-Drop Log You Can Copy
-
-![Checklist on a clipboard with a pen, the simple paper log that turns sediment filter changes from guesswork into a measured interval](https://images.pexels.com/photos/8293635/pexels-photo-8293635.jpeg)
 
 Print it, tape it to the filter housing, and fill a line in every two weeks for the first few months. Once you know your well's pattern, once a month is enough.
 

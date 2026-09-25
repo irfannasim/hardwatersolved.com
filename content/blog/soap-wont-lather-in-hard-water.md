@@ -4,6 +4,7 @@ seoTitle: "Soap Won't Lather in Hard Water? 4 Causes and Quick Fixes"
 seoDescription: "Soap won't lather in hard water because calcium binds it into curd before it can foam. Here's the 60-second shake test that estimates your hardness at home."
 excerpt: "Adding more soap is the natural instinct and the wrong move. Here's the reaction that's eating your lather, what it costs a year, and a bottle test that turns the symptom into a number."
 date: "2026-09-07"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Hard Water Symptoms"
 featuredImage: "https://images.pexels.com/photos/7814646/pexels-photo-7814646.jpeg"
@@ -30,6 +31,8 @@ The instinct is to add more. That works, in the sense that eventually you overwh
 True soap is a salt of a fatty acid — usually sodium or potassium. In soft water, those molecules stay dissolved, arrange themselves around air and dirt, and produce lather.
 
 Introduce calcium or magnesium and the reaction changes. Those ions have a stronger affinity for the fatty acid than sodium does, so they displace it and produce calcium stearate: a compound that will not dissolve in water at all. It has no cleaning power, it cannot foam, and it precipitates out as the grey film you see on tub walls, shower doors and the collar of a shirt.
+
+![Diagram of why soap won't lather in hard water: calcium ions displace sodium in soap to form insoluble calcium stearate curd instead of foam](/diagrams/soap-lather-hard-water-lime-soap-reaction.svg "Calcium swaps in for sodium, and the soap becomes scum instead of lather")
 
 The [CDC's guidance on home water treatment](https://www.cdc.gov/drinking-water/about/about-home-water-treatment-systems.html) lists exactly this alongside scale as the defining nuisance of hard water. It's not a cosmetic complaint — it's the visible half of a chemical reaction that's also happening on your skin, hair and laundry.
 

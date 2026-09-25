@@ -4,6 +4,7 @@ seoTitle: "Water Softener Leaking at Control Head? 4 Proven Culprits"
 seoDescription: "Water softener leaking at control head? It is a seal, the tank O-ring or a cracked valve body. A paper towel test shows which in one regeneration."
 excerpt: "Water around the top of a softener almost always traces back to one of four places, and three of them are cheap. The trouble is that water runs downhill and pools where it pleases, so the wet spot you find is rarely where the leak starts. A roll of paper towel and a marker pen will tell you the true origin in one regeneration, and that answer decides whether you need a few dollars of O-rings or a new valve."
 date: "2026-09-23"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/12265849/pexels-photo-12265849.jpeg"
@@ -29,23 +30,9 @@ The hard part is not the repair. It is finding which of the four you actually ha
 
 ## The Four Places a Control Head Leaks
 
-Picture the top of the softener from the side. Every external leak on the head comes from one of the zones labelled below.
+Picture the top of the softener from the side. Every external leak on the head comes from one of the four zones labelled in the diagram.
 
-```text
-              ┌─────────────────────────────┐
-              │   COVER / MOTOR / BOARD     │   (no water in here)
-      [C] ──► │  end cap · piston rod seal  │ ◄── [C] injector cap,
-              │       VALVE BODY            │         drain fitting
-   [A] ══►════╡  inlet / outlet / bypass    │
-              │                             │ ◄── [D] crack anywhere
-              └──────────┬──────────┬───────┘       in the body
-                   [B] ──►  tank    │
-                         │  neck +  │
-                         │  O-ring  │
-                         │          │
-                         │  RESIN   │
-                         │  TANK    │
-```
+![Map of where a water softener leaks at the control head: connections, tank O-ring, valve body caps and seals, and body cracks](/diagrams/water-softener-control-head-leak-points-map.svg "Four leak zones, A to D, from a few dollars of O-rings to a cracked valve body")
 
 | Label | Leak point | Why it fails | Typical fix | Rough cost tier |
 |---|---|---|---|---|
@@ -59,8 +46,6 @@ Picture the top of the softener from the side. Every external leak on the head c
 **One leak that never shows at the head.** The distributor tube — the pipe running down the middle of the resin tank — seals into the valve with its own O-ring. When that O-ring fails, water bypasses the resin internally. You get hard water and sometimes resin beads at the taps, but nothing on the floor. If that is your symptom, the evidence to look for is described in [resin beads in household plumbing](/blog/resin-beads-in-household-plumbing/).
 
 ## The Dry-and-Mark Method: Finding the First Wet Spot
-
-![Hand wiping a dark surface dry with a sheet of tissue paper, the same dry-first step that makes the true origin of a control head leak visible](https://images.pexels.com/photos/11091978/pexels-photo-11091978.jpeg)
 
 Water on a softener runs along the underside of the valve, drips off the lowest edge, and trickles down the tank. A leak at the back connection can drip from the front. A leak at an end cap can wet the tank neck. Looking at where the puddle is tells you almost nothing. Looking at where the water appears first tells you everything.
 
@@ -93,6 +78,8 @@ The seam between the control valve and the tank neck is the most common control 
 
 **The signature.** A slow weep that shows first on the "B" strip, often worse after the house water pressure has spiked, with a crust of white mineral around the full circumference of the neck. Water runs down the tank walls and pools at the base, which is why people often think the tank itself is leaking.
 
+![Cross-section of a water softener control valve on the tank neck, showing the tank O-ring and the distributor tube seal](/diagrams/water-softener-tank-neck-o-ring-distributor-tube-section.svg "The tank O-ring does the sealing, so the valve only needs to be hand-tight")
+
 **How to replace it:**
 
 1. **Bypass and unplug.** Put the softener in bypass and disconnect power.
@@ -109,8 +96,6 @@ The seam between the control valve and the tank neck is the most common control 
 
 ## Leaks From the Valve Body Openings: Seals, Spacers and Caps
 
-![Person holding a large adjustable plumbing wrench, a tool that should stay off plastic softener valve caps, which are designed to be tightened by hand](https://images.pexels.com/photos/8486928/pexels-photo-8486928.jpeg)
-
 The valve body has several openings closed by caps or fittings: the piston end cap or end plug, the injector cap, the drain fitting and the brine port. Each seals with its own O-ring.
 
 **External cap leaks.** If the strip around a cap goes wet in service, check that the cap is fully seated and not cracked. On Clack valves the manual says caps and nuts "only need to be firmly hand tightened because radial seals are used", and warns against pipe wrenches and against using a screwdriver in the slots to force them. A cap that leaks when hand-tight has a damaged O-ring or a crack, not a tightness problem.
@@ -122,8 +107,6 @@ The valve body has several openings closed by caps or fittings: the piston end c
 **Rebuilding a seal stack yourself.** On popular valves this is a well-documented DIY job with the valve in bypass and depressurised: remove the powerhead or motor assembly, pull the piston, pull the seal stack, fit the new kit lubricated only as the manual instructs, and reassemble. Two cautions. Some seal kits are designed to go in dry or with specific lubricant only, so follow the valve's own manual rather than a generic guide. And the stack must go in the right way round; directional lip seals installed backwards leak immediately.
 
 ## The Freeze-Crack Signature
-
-![Frost crystals covering a water valve in freezing weather, the condition that can split a plastic softener valve body and produce a leak no seal kit will fix](https://images.pexels.com/photos/36163764/pexels-photo-36163764.jpeg)
 
 A freeze crack is the one control head leak that looks cheap and is not. The [Fleck 5600SXT service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf) states the unit "cannot be subjected to freezing conditions", and Clack advises letting a valve that has been exposed to freezing "warm up to room temperature before running water through it". Softeners in garages, crawl spaces, unheated utility rooms and vacation homes are the usual casualties.
 
@@ -144,8 +127,6 @@ A freeze crack is the one control head leak that looks cheap and is not. The [Fl
 **If the unit may have frozen but is not leaking yet,** keep it in bypass, let the room warm fully, then return it to service slowly and run the paper towel test before trusting it again.
 
 ## Why Rebuilt Heads Leak Again
-
-![Pressure gauge mounted on an industrial pipe run, the reading that shows whether high house water pressure is wearing out softener control head O-rings](https://images.pexels.com/photos/39317578/pexels-photo-39317578.jpeg)
 
 A repeat leak within months of a good repair usually has an external cause the rebuild did not touch.
 

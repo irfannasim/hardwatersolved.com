@@ -4,6 +4,7 @@ seoTitle: "Water Still Hard After Installing a Softener? 9 Causes"
 seoDescription: "Water still hard after installing a softener? Nine causes ranked by how often they turn out to be the answer — most are settings or plumbing, not a bad unit."
 excerpt: "Work through the causes in the order that costs nothing before the order that costs money: where you took the sample, the bypass, the hardness setting, the salt, the brine draw, then the resin. Most of these cases are resolved in the first two steps, and a surprising number are resolved by testing a different tap."
 date: "2026-09-15"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/19980200/pexels-photo-19980200.jpeg"
@@ -29,7 +30,7 @@ What follows is a diagnostic order built on one principle: **everything that cos
 
 ## Step 0: Test at the Softener Outlet, Not the Kitchen Tap
 
-![Pressure gauge on a plumbing manifold, the type of fitting used to sample immediately downstream of a softener](https://images.pexels.com/photos/39353208/pexels-photo-39353208.jpeg)
+![Diagram of where to test after installing a water softener: the outlet test point versus house fixtures, with unsoftened branches and a crossover](/diagrams/water-softener-outlet-test-point-and-house-branches.svg "One sample at the outlet tells you which half of the problem you have")
 
 This is step zero because it changes which half of the article you need to read.
 
@@ -72,6 +73,8 @@ Check the type you have:
 - **Two-valve or three-valve arrangement**: the two inlet/outlet valves open, the bridging bypass valve closed. Any other combination blends or bypasses.
 - **Turn the valve fully both ways and back** if the unit is old. A bypass that has not moved in years can be stiff enough that it feels seated when it is not.
 
+![Water softener bypass valve diagram showing service, bypass and half-open positions for single-lever and three-valve setups](/diagrams/water-softener-bypass-valve-service-vs-bypass-positions.svg "Halfway is a real position, and it blends hard water in")
+
 If moving the bypass changes the outlet reading, you are finished. Reset any "days since regeneration" counter and let the unit run a cycle.
 
 ## Step 2: The Hardness Setting
@@ -103,8 +106,6 @@ Push a broom handle straight down through the salt until it hits the bottom of t
 **Salt type and mush.** Rock salt leaves insoluble sediment that accumulates as a sludge at the bottom of the tank and eventually blocks the brine pickup. If the tank has never been cleaned and is on rock salt, that is worth an hour with a shop vacuum.
 
 ## Step 4: Is It Actually Drawing Brine?
-
-![Coarse white salt crystals, the brine source that has to reach the resin bed for regeneration to work](https://images.pexels.com/photos/6104433/pexels-photo-6104433.jpeg)
 
 A softener can run a full regeneration cycle — noises, drain flow, the works — and never pull any brine. When that happens, capacity is never restored, and the water goes hard on a predictable schedule.
 
@@ -141,8 +142,6 @@ Before concluding "undersized", rule out the cheaper explanations above. A foule
 
 ## Step 7: The Resin
 
-![Large treatment vessels, the scaled-up equivalent of the resin tank where fouling and channelling occur](https://images.pexels.com/photos/36926327/pexels-photo-36926327.jpeg)
-
 Last in the sequence because it is the most expensive conclusion and the least often correct.
 
 **Iron fouling.** Iron oxide coats the beads and blocks exchange sites. The signature is capacity that falls month by month rather than staying constant, plus rusty water right after a regeneration. Resin cleaner used regularly prevents it; used as a rescue after two years it often does not recover the bed.
@@ -166,8 +165,6 @@ If the outlet reads zero but a fixture reads hard, the softener has been cleared
 The way to find any of these is to test every fixture and map the pattern, which is exactly the procedure in [why hardness test results differ between faucets](/blog/hardness-test-differs-between-faucets/).
 
 ## Step 9: It Was Never Hardness
-
-![Water being poured into a glass in a kitchen, the final check that the symptom matches the diagnosis](https://images.pexels.com/photos/6857798/pexels-photo-6857798.jpeg)
 
 If the outlet and the fixture both read zero and the complaint persists, the complaint is about something else. This is common and it is not a failure of the softener.
 

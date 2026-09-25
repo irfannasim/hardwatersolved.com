@@ -4,6 +4,7 @@ seoTitle: "Hot Water Hard, Cold Water Soft: Here Is Why"
 seoDescription: "Hot water hard and cold water soft has two causes: a heater plumbed ahead of the softener, or a tank still full of legacy hard water. One week tells you which."
 excerpt: "There are only two real explanations, and they need opposite responses. Either the water heater was piped upstream of the softener and never will produce soft water, or the tank is simply still full of the hard water and scale it held before installation. The difference shows up in seven days of normal use — and a turnover calculation tells you exactly how many."
 date: "2026-09-20"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/28479464/pexels-photo-28479464.jpeg"
@@ -59,11 +60,13 @@ A storage water heater holds 40 to 80 gallons. On the day the softener was commi
 |---|---|---|
 | 1 | ~37% | End of day 1 |
 | 2 | ~14% | End of day 2 |
-| 3 | ~5% | Day 2–3 |
-| 4 | ~2% | Day 3–4 |
-| 5 | Under 1% — undetectable on a strip | Day 4–5 |
+| 3 | ~5% | End of day 3 |
+| 4 | ~2% | End of day 4 |
+| 5 | Under 1% — undetectable on a strip | End of day 5 |
 
 A typical US family of four uses roughly 45–60 gallons of hot water a day, so a 50-gallon tank turns over about once daily. Five days gets you to undetectable. A retired couple in a house with an 80-gallon tank might take two or three weeks to reach the same point — and will be convinced something is wrong the whole time.
+
+![Diagram of legacy hard water diluting out of a storage water heater, with hardness falling to about 37, 14 and 5 percent per tank volume](/diagrams/water-heater-legacy-hardness-dilution-curve.svg "Each tank volume drawn removes about two thirds of the remaining hard water")
 
 **Two things extend it beyond the arithmetic:**
 
@@ -83,7 +86,7 @@ A typical US family of four uses roughly 45–60 gallons of hot water a day, so 
 
 ## Cause Two: The Heater Is Plumbed Ahead of the Softener
 
-![Two wall-mounted taps with red handles, representing the branch pipework that decides which fixtures receive softened water](https://images.pexels.com/photos/3616761/pexels-photo-3616761.jpeg)
+![Plumbing diagram of a water heater teed off before versus after the softener, the error that makes hot water hard and cold water soft](/diagrams/water-heater-plumbed-before-vs-after-softener.svg "If the heater's cold feed leaves the main before the softener, hot water stays hard")
 
 If the hot water never softens, the heater is taking its cold feed from the untreated side of the system.
 
@@ -104,8 +107,6 @@ If the hot water never softens, the heater is taking its cold feed from the untr
 **What correcting it involves.** Rerouting the heater's cold feed to the softened side is a small job for a plumber where the pipework is accessible, and a much bigger one where it is buried. Get the diagnosis right before you commit — confirm the softener outlet itself is producing zero hardness, so you are not paying to reroute a pipe feeding a unit that has stopped regenerating.
 
 ## Why Heat Makes Hardness Worse in the First Place
-
-![Industrial pressure gauge and steel pipework, illustrating the heated side of a system where calcium carbonate precipitates](https://images.pexels.com/photos/7937300/pexels-photo-7937300.jpeg)
 
 Understanding this explains why the hot side is where everything shows up first.
 
@@ -136,8 +137,6 @@ A few things produce the same complaint and need different answers:
 **Test method matters here more than usual.** Hot water can throw off some test chemistries and will degrade strips. Let the sample cool to room temperature in a clean glass before testing, and use the same method for hot and cold so the comparison is fair — the sampling traps are listed in [common water hardness sampling mistakes](/blog/water-hardness-sampling-mistakes/).
 
 ## Should the Heater Be on Softened Water at All?
-
-![Solar water heater on a rooftop against a clear sky, a reminder that heater type changes the scale calculus](https://images.pexels.com/photos/34593293/pexels-photo-34593293.jpeg)
 
 Yes, in almost every case, and it is worth being clear about why — because the "soften only the cold" arrangement is still occasionally sold.
 
