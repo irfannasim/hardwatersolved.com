@@ -95,7 +95,7 @@ That creates a two-sample problem:
 - **For diagnosing the well**, test the raw water before the neutralizer.
 - **For sizing or programming a softener that sits after the neutralizer**, test the water *leaving* the neutralizer. That's the water the softener actually treats.
 
-Size the softener from the raw sample and it will be too small by however many grains the neutralizer adds. That's often a few grains per gallon, and more on very acidic water or when the media bed is freshly topped up. The same logic applies to any stage that changes hardness.
+Size the softener from the raw sample and it will be too small by [however many grains the neutralizer adds](/blog/water-softener-vs-acid-neutralizer/). That's often a few grains per gallon, and more on very acidic water or when the media bed is freshly topped up. The same logic applies to any stage that changes hardness.
 
 ## Mistake 5: A Scaled Aerator or a Dirty Glass
 

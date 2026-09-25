@@ -71,7 +71,7 @@ Every community water system in the US must publish an annual water quality repo
 
 Two caveats worth knowing before you rely on it:
 
-**It's an annual average across a service area.** If your utility blends sources seasonally — common in systems that mix groundwater and surface water — your tap may sit well outside the published figure for months at a time. Program a softener to the annual average and it will run wrong for part of the year.
+**It's an annual average across a service area.** If [your utility blends sources seasonally](/blog/do-you-need-a-water-softener-on-city-water/) — common in systems that mix groundwater and surface water — your tap may sit well outside the published figure for months at a time. Program a softener to the annual average and it will run wrong for part of the year.
 
 **It won't be in grains per gallon.** Reports use mg/L as calcium carbonate. Divide by 17.1 to convert, so 171 mg/L becomes 10 gpg.
 

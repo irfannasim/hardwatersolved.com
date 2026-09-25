@@ -156,7 +156,7 @@ What changed the verdict above wasn't only hardness. It was the "years left" row
 
 A softener's cost is paid on day one, and its savings arrive a year at a time. Household B needs almost nine years to break even. Move after five, and the nearly four years of savings it still needed to pay for itself go to the next owner. A rough rule: when payback is more than half the time you expect to stay, one bad salt year or early repair wipes out the margin.
 
-A few costs don't reduce neatly to dollars. Salt softening raises sodium at every softened tap, so many homes leave one cold kitchen tap hard. Some communities, particularly in parts of California, restrict salt-discharging softeners, so check with your wastewater utility first. And some people simply prefer how softened water feels. That's a fair reason to buy one, as long as you know you're paying for comfort, not a return.
+A few costs don't reduce neatly to dollars. Salt softening raises sodium at every softened tap, so many homes leave one cold kitchen tap hard. Some communities, particularly in parts of California, [restrict salt-discharging softeners](/blog/water-softener-with-septic-system/), so check with your wastewater utility first. And some people simply prefer how softened water feels. That's a fair reason to buy one, as long as you know you're paying for comfort, not a return.
 
 ## The Bottom Line
 

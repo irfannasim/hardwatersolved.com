@@ -58,7 +58,7 @@ Manganese travels with iron in groundwater and behaves like iron's more troubles
 
 **Why it turns up specifically after a softener:**
 
-Softener resin removes dissolved manganese by exchange, the same way it removes calcium, and it does that quite happily at low concentrations. The trouble starts when the concentration exceeds what the bed can carry between regenerations. Manganese accumulates, oxidises inside the bed, and then sheds as particles — often heaviest in the first draw after a regeneration.
+Softener resin [removes dissolved manganese by exchange](/blog/can-a-water-softener-remove-manganese/), the same way it removes calcium, and it does that quite happily at low concentrations. The trouble starts when the concentration exceeds what the bed can carry between regenerations. Manganese accumulates, oxidises inside the bed, and then sheds as particles — often heaviest in the first draw after a regeneration.
 
 **The concentrations that matter:**
 
@@ -97,7 +97,7 @@ Healthy softener resin is a translucent amber bead, round, and roughly the size 
 | Mushy, flattened, breaks between fingers | Chlorine damage — replace |
 | Clumped into a solid black mass | Heavy manganese fouling — replace, and treat upstream |
 
-Where a softener sits on a chlorinated municipal supply, the resin's working life is genuinely finite, and Penn State Extension's overview of [water softening](https://extension.psu.edu/water-softening) is a good reference for what the process is and is not designed to tolerate. On city water, a carbon filter ahead of the softener is the standard way to protect the bed, and it is worth fitting before the bed shows the damage rather than after.
+Where a softener sits on a chlorinated municipal supply, the resin's working life is genuinely finite, and Penn State Extension's overview of [water softening](https://extension.psu.edu/water-softening) is a good reference for what the process is and is not designed to tolerate. On city water, [a carbon filter ahead of the softener](/blog/carbon-filter-before-water-softener/) is the standard way to protect the bed, and it is worth fitting before the bed shows the damage rather than after.
 
 ## Cause 3: Failing Valve Seals — The One Nobody Checks
 

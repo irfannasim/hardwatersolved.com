@@ -24,7 +24,7 @@ faqs:
     answer: "Community water systems must deliver a Consumer Confidence Report every year by July 1, covering the previous calendar year. Under EPA's revised rule, systems serving more than 10,000 people will have to distribute reports twice a year starting in 2027. Either way, the hardness figure is a summary of many samples across the whole system, not a reading from your tap."
 ---
 
-How to read a water hardness report starts with one question: which kind are you holding? A utility's Consumer Confidence Report (CCR) summarises a whole system across a year, so its hardness is a range or an average. A lab report measures one sample from one tap. Only the lab figure, or your own test, belongs in a softener sizing calculation.
+How to read a water hardness report starts with one question: which kind are you holding? A utility's Consumer Confidence Report (CCR) summarises a whole system across a year, so [its hardness is a range or an average](/blog/do-you-need-a-water-softener-on-city-water/). A lab report measures one sample from one tap. Only the lab figure, or your own test, belongs in a softener sizing calculation.
 
 The gap between those two can be large. In the real CCR worked through below, hardness in the distribution system ran from 10 to 17.6 grains per gallon in a single year. Size a softener from the wrong end of that range and you buy a unit that runs out of capacity days before it regenerates.
 

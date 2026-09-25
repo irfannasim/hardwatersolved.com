@@ -77,7 +77,7 @@ The softener doesn't only take water. During regeneration it sends water to drai
 
 - **Check the softener's requirements.** The Whirlpool manual requires at least **3 gallons per minute** at the inlet and allows no more than **125 psi**. The [Hellenbrand ProMate consumer manual](https://www.hellenbrand.com/wp-content/uploads/2015/10/hellenbrand-residential-water-softener-promate6-consumers-manual-800527-revE.pdf) requires at least **25 psi** for regeneration, also with a 125 psi maximum.
 - **Measure what your pump delivers.** With the pump running, open the drain valve on the tank tee or a nearby hose bib fully and time how long it takes to fill a 5-gallon bucket. Twenty seconds means 15 gpm. Sixty seconds means 5 gpm. Do it after the pressure has dropped enough to start the pump, so you're measuring the pump and not the tank.
-- **Add up everything that backwashes.** An iron filter backwashes at a much higher rate than a softener, and two units regenerating at the same time can ask for more than the pump makes. Staggering them is covered in [iron filter before water softener](/blog/iron-filter-before-water-softener/).
+- **Add up everything that backwashes.** An iron filter backwashes at a much higher rate than a softener, and two units regenerating at the same time can ask for [more than the pump makes](/blog/well-pump-flow-and-backwashing/). Staggering them is covered in [iron filter before water softener](/blog/iron-filter-before-water-softener/).
 
 If the pump can't keep up, the backwash is weak, grit and iron stay in the bed, and the unit slowly fouls even though it's in the right place.
 

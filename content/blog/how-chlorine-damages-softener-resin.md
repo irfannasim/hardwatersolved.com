@@ -106,7 +106,7 @@ How to take these readings consistently, and how to build the log if you do not 
 
 ## What Protects a Bed, and What Only Appears To
 
-**Activated carbon ahead of the softener.** The only intervention that addresses the cause. Free chlorine is removed readily by standard granular activated carbon at normal contact times. Chloramine is not — it needs catalytic carbon and roughly double the empty bed contact time, which in practice means a physically larger vessel. Undersizing here is the most common mistake, and it produces a filter that works for a few weeks and then breaks through. The sizing logic and placement are covered in detail in [chlorine taste after a water softener](/blog/chlorine-taste-after-water-softener/).
+**Activated carbon ahead of the softener.** The only intervention that addresses the cause. Free chlorine is removed readily by standard granular activated carbon at normal contact times. Chloramine is not — [it needs catalytic carbon](/blog/how-chloramine-affects-a-water-softener/) and roughly double the empty bed contact time, which in practice means a physically larger vessel. Undersizing here is the most common mistake, and it produces a filter that works for a few weeks and then breaks through. The sizing logic and placement are covered in detail in [chlorine taste after a water softener](/blog/chlorine-taste-after-water-softener/).
 
 **Higher cross-link resin.** Commonly 10 percent divinylbenzene instead of the standard 8 percent. More cross-links means more structure to lose before failure, which genuinely buys years. It costs more per cubic foot, and it slows the damage rather than preventing it — on a chloramine supply it belongs alongside carbon, not instead of it.
 
@@ -133,4 +133,4 @@ How to take these readings consistently, and how to build the log if you do not 
 9. **Size carbon for chloramine if you have chloramine** — catalytic media, and roughly double the contact time.
 10. **Fit the carbon before, not after, replacing the resin.** A new bed installed on unprotected chlorinated water starts the clock again immediately.
 
-The useful reframing is that chlorine damage is not a fault to be diagnosed after the fact. It is a known rate of consumption, and once you know your residual you can predict it, price it, and decide whether to pay for carbon or pay for resin.
+The useful reframing is that chlorine damage is not a fault to be diagnosed after the fact. It is a known rate of consumption, and once you know your residual you can predict it, price it, and decide [whether to pay for carbon or pay for resin](/blog/carbon-filter-before-water-softener/).

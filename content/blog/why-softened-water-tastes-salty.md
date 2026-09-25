@@ -50,7 +50,7 @@ Two things follow, and they matter more than the numbers:
 - **The sodium contribution is constant.** It does not vary by day, and it does not spike after a regeneration. A taste that comes and goes is not this.
 - **The sodium contribution does not appear suddenly.** If the water tasted fine for two years and now tastes salty, nothing about ion exchange changed. Something mechanical did.
 
-If you genuinely do have very hard water and want the sodium figure down, the answers are a blend valve set to leave a few grains of residual hardness, potassium chloride instead of sodium chloride, or a reverse osmosis tap for drinking water — not a softener repair.
+If you genuinely do have very hard water and want the sodium figure down, the answers are a blend valve set to leave a few grains of residual hardness, potassium chloride instead of sodium chloride, or [a reverse osmosis tap for drinking water](/blog/reverse-osmosis-and-water-softener-together/) — not a softener repair.
 
 ## Softened Water Tastes Salty: The Five Faults
 

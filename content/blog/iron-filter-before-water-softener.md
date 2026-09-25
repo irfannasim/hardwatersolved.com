@@ -136,8 +136,8 @@ Compare that number with the iron filter's backwash requirement. If the pump can
 ## What Pretreatment Cannot Do
 
 - **It doesn't make the water safe.** Sediment and iron filters are aesthetic and equipment-protection stages. Bacteria, nitrate and other health contaminants need their own tests and treatment.
-- **It doesn't fix iron bacteria.** Slimy, rust-coloured growth in toilet tanks means the well needs disinfection. A filter just becomes something else for the bacteria to coat.
+- **It doesn't fix iron bacteria.** [Slimy, rust-coloured growth in toilet tanks](/blog/iron-bacteria-in-well-water/) means the well needs disinfection. A filter just becomes something else for the bacteria to coat.
 - **It doesn't rescue resin that's already fouled.** If the softener ran for a year without pretreatment, fitting the iron filter stops things getting worse. Recovering the bed is a separate job. See [resin and iron cleaners](/blog/water-softener-resin-and-iron-cleaners/).
 - **It doesn't stay right forever.** Well iron levels change. Retest every year and check the table against the new numbers.
 
-To sum up: sediment screen first, pH correction if needed, iron filter, then the softener. Stagger their regeneration times so they never backwash together. That order, and a pump that can supply the backwash, is what keeps a softener on a well working for its full life. Hub guide for the full well-water series: [can a water softener be used on private well water?](/blog/water-softener-for-well-water/)
+To sum up: [sediment screen first, pH correction if needed, iron filter, then the softener](/blog/well-water-treatment-train-order/). Stagger their regeneration times so they never backwash together. That order, and a pump that can supply the backwash, is what keeps a softener on a well working for its full life. Hub guide for the full well-water series: [can a water softener be used on private well water?](/blog/water-softener-for-well-water/)

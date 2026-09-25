@@ -121,7 +121,7 @@ Do it at the same time every year, when the salt is low and you have an hour fre
 
 **The between-schedule checks.** Two events should trigger a quick look regardless of the calendar. After a power cut, check the time of day on the display. Timer units and some older demand units lose the clock, and then regenerate at 2 p.m. instead of 2 a.m., in the middle of the day's water use. After any plumbing work, or when you come home from a long absence, check that the bypass is in the service position. Then look for drips at the connections and run a manual regeneration before trusting the water. A bypass that a plumber left half-open is one of the most common reasons "the softener stopped working".
 
-**Every 3–5 years, add one more check.** Pull a small resin sample and look at the beads. On chlorinated water, also check the carbon prefilter if one is fitted, because that is what is protecting the bed.
+**Every 3–5 years, add one more check.** Pull a small resin sample and look at the beads. On chlorinated water, also [check the carbon prefilter](/blog/carbon-filter-and-water-softener-together/) if one is fitted, because that is what is protecting the bed.
 
 ## The Printable Maintenance Log
 
@@ -151,7 +151,7 @@ One sheet, taped to the brine tank lid. Monthly lines go at the top, the annual 
 
 ## What This Schedule Will Not Catch
 
-- **Health contaminants.** A softener is not a treatment for bacteria, nitrate, arsenic or lead, and a hardness test says nothing about them. Private well owners need separate periodic testing. The EPA's guidance for [private drinking water wells](https://www.epa.gov/privatewells) covers what to test and when.
+- **Health contaminants.** [A softener is not a treatment for bacteria, nitrate, arsenic or lead](/blog/what-a-water-softener-does-not-remove/), and a hardness test says nothing about them. Private well owners need separate periodic testing. The EPA's guidance for [private drinking water wells](https://www.epa.gov/privatewells) covers what to test and when.
 - **Internal valve wear.** Seals and spacers inside the control valve wear gradually. The log shows the symptoms, such as water running to drain or salt use drifting, but the fix is inside the valve.
 - **Failures with no warning.** A cracked tank neck after a hard freeze, or a burst connector, can happen between checks. The floor alarm is the answer to those, not the calendar.
 - **Wrong sizing.** No amount of maintenance fixes a softener that is too small for the household or the hardness.

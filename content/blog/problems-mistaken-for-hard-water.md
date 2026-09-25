@@ -59,7 +59,7 @@ Iron shows up in three forms, and they need three different answers:
 - **Ferric (red-water) iron** is already oxidised. Water is orange the moment it appears. A softener does essentially nothing here; this is a filtration job.
 - **Bacterial iron** produces slime in the toilet tank and a rainbow film on standing water. That needs shock chlorination, not ion exchange.
 
-Manganese behaves similarly but stains grey-black rather than orange, and it becomes visible at far lower concentrations. The [EPA's secondary drinking water standards](https://www.epa.gov/sdwa/secondary-drinking-water-standards-guidance-nuisance-chemicals) put the nuisance thresholds at 0.3 mg/L for iron and 0.05 mg/L for manganese — so a manganese level six times lower than the iron limit will still mark your laundry.
+[Manganese behaves similarly but stains grey-black](/blog/can-a-water-softener-remove-manganese/) rather than orange, and it becomes visible at far lower concentrations. The [EPA's secondary drinking water standards](https://www.epa.gov/sdwa/secondary-drinking-water-standards-guidance-nuisance-chemicals) put the nuisance thresholds at 0.3 mg/L for iron and 0.05 mg/L for manganese — so a manganese level six times lower than the iron limit will still mark your laundry.
 
 The practical rule in [Penn State Extension's guidance on iron and manganese in private water systems](https://extension.psu.edu/iron-and-manganese-in-private-water-systems) is that treatment *order* matters more than treatment choice: iron and manganese come out ahead of the softener, never by it. Anyone proposing a softener as your iron solution has told you something useful about the quality of their advice.
 

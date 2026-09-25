@@ -83,7 +83,7 @@ The countermeasures are all about air and time:
 
 That dissolved-versus-total pair is the most useful thing on a well water report, and most homeowners never request it. Without it you know how much iron you have but not which kind, and the treatment differs completely between the two. Penn State Extension's [guidance on iron and manganese in private water systems](https://extension.psu.edu/iron-and-manganese-in-private-water-systems) sets out how the forms differ and which treatments match which concentration band.
 
-One field check costs nothing. Draw a glass of cold water and set it on a white surface. If it is clear at first and goes orange with a settling haze over ten to thirty minutes, you have ferrous iron. If it is tinted or has visible specks immediately, some of it is already ferric. If it stays clear for an hour and still stains fixtures, look at tannins or at iron bacteria rather than at plain dissolved iron.
+One field check costs nothing. Draw a glass of cold water and set it on a white surface. If it is clear at first and goes orange with a settling haze over ten to thirty minutes, you have ferrous iron. If it is tinted or has visible specks immediately, some of it is already ferric. If it stays clear for an hour and still stains fixtures, look at [tannins](/blog/can-a-water-softener-remove-tannins/) or at [iron bacteria](/blog/iron-bacteria-in-well-water/) rather than at plain dissolved iron.
 
 ## Manganese Is Not a Rounding Error
 

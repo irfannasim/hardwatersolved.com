@@ -85,7 +85,7 @@ The CDC's guidance on [how to disinfect wells after an emergency](https://www.cd
 
 So the order is:
 
-1. **Well first.** Shock-chlorinate the well, ideally with a well contractor, since flooded wellheads and pits carry their own electrical and confined-space hazards. Keep the softener bypassed the whole time.
+1. **Well first.** [Shock-chlorinate the well](/blog/shock-chlorination-and-water-softener/), ideally with a well contractor, since flooded wellheads and pits carry their own electrical and confined-space hazards. Keep the softener bypassed the whole time.
 2. **Flush the well.** Run the chlorinated water out through an outside tap until the chlorine is gone. Don't send it through the softener.
 3. **Softener second.** Sanitize the softener at its own, much lower, dose (below).
 

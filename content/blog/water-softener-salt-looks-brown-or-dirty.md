@@ -149,7 +149,7 @@ The two cases diverge completely here.
 6. Add dedicated iron removal ahead of the softener if raw iron exceeds the unit's rating. No amount of salt fixes an iron load the softener was never specified for.
 7. Consider whether the bed has passed the point of recovery, which is worked through in [water softener resin life and when to replace it](/blog/water-softener-resin-life-and-replacement/).
 
-**A note on cleaners and salt additives.** Salt sold with rust-removal additives can help maintain a bed that is within its iron rating. It will not rescue a system running on water that is well over that rating, and the EPA's overview of [cation exchange water softeners](https://www.epa.gov/watersense/cation-exchange-water-softeners) is clear that a softener's job is hardness, with iron handled only within narrow limits.
+**A note on cleaners and salt additives.** [Salt sold with rust-removal additives](/blog/best-water-softener-salt-for-iron/) can help maintain a bed that is within its iron rating. It will not rescue a system running on water that is well over that rating, and the EPA's overview of [cation exchange water softeners](https://www.epa.gov/watersense/cation-exchange-water-softeners) is clear that a softener's job is hardness, with iron handled only within narrow limits.
 
 ## In Order
 

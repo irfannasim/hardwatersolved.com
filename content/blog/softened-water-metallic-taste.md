@@ -160,7 +160,7 @@ A filter at the kitchen tap certified to NSF/ANSI 53 for lead and copper reducti
 
 **4. Replace the plumbing — the last resort.**
 
-Worth it when the lab identifies a lead service line or failing galvanised pipe, and not worth it for a mild copper taste on water whose pH can be corrected instead.
+Worth it when the lab identifies [a lead service line](/blog/lead-service-line-work-and-water-softener/) or failing galvanised pipe, and not worth it for a mild copper taste on water whose pH can be corrected instead.
 
 ## What to Do, In Order
 

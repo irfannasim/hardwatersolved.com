@@ -114,7 +114,7 @@ The resin is a consumable. The tank is close to indestructible. The control valv
 
 All of these are upstream of the softener, which is the point.
 
-**Carbon pretreatment on chlorinated supplies.** The single highest-value intervention on municipal water. Ecolab's Purolite division sets out the oxidation mechanism in its note on [factors affecting softening resin performance and life](https://www.purolite.com/index/core-technologies/application/softening/factors-effect-softening-resin-performance-life), and the practical detection methods are in [how chlorine damages water softener resin](/blog/how-chlorine-damages-softener-resin/). Chloramine needs catalytic carbon and longer contact time than free chlorine.
+**Carbon pretreatment on chlorinated supplies.** The single highest-value intervention on municipal water. Ecolab's Purolite division sets out the oxidation mechanism in its note on [factors affecting softening resin performance and life](https://www.purolite.com/index/core-technologies/application/softening/factors-effect-softening-resin-performance-life), and the practical detection methods are in [how chlorine damages water softener resin](/blog/how-chlorine-damages-softener-resin/). [Chloramine needs catalytic carbon](/blog/how-chloramine-affects-a-water-softener/) and longer contact time than free chlorine.
 
 **Iron removal ahead of the softener on well water.** A softener is not an iron filter, and asking it to be one shortens its life by years. Penn State Extension's guidance on [iron and manganese in private water systems](https://extension.psu.edu/iron-and-manganese-in-private-water-systems) sets out where the limits sit.
 

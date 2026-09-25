@@ -102,7 +102,7 @@ A water softener is a **cation** exchanger. Its resin beads carry fixed negative
 
 Tannins are **anions**. They carry a negative charge, so the resin's negative sites repel them. There is no exchange to make. No salt setting, no extra regeneration, no hardness number typed into the valve changes this.
 
-Removing tannins takes **anion exchange resin** — chemically the opposite material, in its own tank, though conveniently it regenerates with the same sodium chloride brine a softener uses.
+[Removing tannins](/blog/can-a-water-softener-remove-tannins/) takes **anion exchange resin** — chemically the opposite material, in its own tank, though conveniently it regenerates with the same sodium chloride brine a softener uses.
 
 | | Softener (cation resin) | Tannin unit (anion resin) |
 |---|---|---|
@@ -187,7 +187,7 @@ Before committing to equipment, rule these out. All are free to check:
 4. **Get a certified lab test** covering tannins, iron, manganese, hardness, pH and bacteria — all six, because the treatment order depends on all of them. Seasonal wells should be sampled in spring, when colour peaks.
 5. **Do not buy a finer sediment filter.** Dissolved colour is not filterable.
 6. **Do not raise the salt dose** hoping to push colour out of the bed. Tannin is not exchanged, and brine does not release it.
-7. **Design the train around the numbers** — iron removal first, tannin resin last, carbon ahead of any resin on a chlorinated supply.
+7. **Design the train around the numbers** — [iron removal first, tannin resin last](/blog/well-water-treatment-train-order/), carbon ahead of any resin on a chlorinated supply.
 8. **Protect the softener you have** in the meantime with routine resin cleaning, and plan for a shorter service life than the brochure promised.
 
 The honest summary is that a yellow glass on a softened supply is usually not a softener fault at all. It is a softener being asked to do a job it has no chemical mechanism for — and proving that with a paper coffee filter takes ten minutes and saves the service call.

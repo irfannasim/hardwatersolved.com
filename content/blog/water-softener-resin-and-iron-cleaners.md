@@ -65,7 +65,7 @@ A cleaner is a chemical, and a chemical can only dissolve what its chemistry rea
 
 **Match it to the colour of the beads.** Rust-orange means iron, so use a reducing or acid cleaner. Grey to black means manganese, so use the same products and expect to repeat them. Tea-brown that will not shift means organics, and a household cleaner is unlikely to move it. Slime or a musty smell means biology, so use a sanitiser and not an iron product.
 
-**Iron-additive salt is not the same thing.** Salt sold with an iron-removal additive blends a cleaner into the pellets. GE Appliances advises against it in its note on [iron-removing salts and resin bed cleaners](https://products.geappliances.com/appliance/gea-support-search-content?contentId=18866), because the additives can release corrosive fumes that damage softener components. GE recommends a separate resin cleaner instead.
+**Iron-additive salt is not the same thing.** [Salt sold with an iron-removal additive](/blog/best-water-softener-salt-for-iron/) blends a cleaner into the pellets. GE Appliances advises against it in its note on [iron-removing salts and resin bed cleaners](https://products.geappliances.com/appliance/gea-support-search-content?contentId=18866), because the additives can release corrosive fumes that damage softener components. GE recommends a separate resin cleaner instead.
 
 **Iron is the case worth solving properly.** If the fouling is iron, the question of why it keeps arriving matters more than which bottle you buy. Test the raw water for iron and manganese first. The method is in [test iron and manganese before sizing a softener](/blog/test-iron-and-manganese-before-sizing/).
 

@@ -98,7 +98,7 @@ The nubs work because scale does not bond well to flexible silicone — flexing 
 
 The practical consequence: on a nub head, spray appearance is a useless indicator and the bucket test is the only reliable one. Households often report that their old metal-faced head clogged constantly while the new one "never does" — the new one is simply hiding it. Meanwhile the same water is depositing scale in a water heater at exactly the same rate.
 
-The same masking applies to handheld heads with a self-cleaning face and to heads with a built-in filter cartridge. A filter cartridge that removes chlorine does not remove hardness; those are different processes with different media, and the [EPA's outline of cation exchange](https://www.epa.gov/watersense/cation-exchange-water-softeners) describes what is actually required to take calcium and magnesium out of water.
+The same masking applies to handheld heads with a self-cleaning face and to heads with a built-in filter cartridge. [A filter cartridge that removes chlorine does not remove hardness](/blog/water-softener-vs-whole-house-water-filter/); those are different processes with different media, and the [EPA's outline of cation exchange](https://www.epa.gov/watersense/cation-exchange-water-softeners) describes what is actually required to take calcium and magnesium out of water.
 
 ![Chrome shower fixtures against clean white tiling in a modern bathroom](https://images.pexels.com/photos/4194867/pexels-photo-4194867.jpeg)
 

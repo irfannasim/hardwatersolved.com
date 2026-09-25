@@ -83,10 +83,10 @@ Work through the test results in this order. Each question either adds a stage a
 ![Decision tree for a water softener on well water, routing bacteria, pH, sulfide, iron, manganese and sediment results to treatment stages](/diagrams/well-water-softener-test-results-decision-tree.svg "Each positive result adds a stage ahead of the softener, which is sized last")
 
 **1. Bacteria positive?**
-→ Stop. Find the source, disinfect the well, and retest before buying any equipment. A softener put into contaminated water can harbour bacteria in the bed. If the problem is iron bacteria (slimy, rust-coloured growth in the toilet tank), no softener fixes it.
+→ Stop. Find the source, disinfect the well, and retest before buying any equipment. A softener put into contaminated water can harbour bacteria in the bed. If the problem is [iron bacteria](/blog/iron-bacteria-in-well-water/) (slimy, rust-coloured growth in the toilet tank), no softener fixes it.
 
 **2. pH below about 6.7?**
-→ Add a **neutralizer** ahead of the softener, straight after the sediment prefilter. Low pH also affects how iron behaves and corrodes copper plumbing. How pH and hardness readings interact is covered in [reading pH and hardness together](/blog/interpreting-ph-and-hardness-together/).
+→ Add a **neutralizer** ahead of the softener, straight after the sediment prefilter. [Low pH](/blog/low-ph-well-water-treatment/) also affects how iron behaves and corrodes copper plumbing. How pH and hardness readings interact is covered in [reading pH and hardness together](/blog/interpreting-ph-and-hardness-together/).
 
 **3. Rotten-egg smell or measurable hydrogen sulfide?**
 → Add an **oxidizing stage** (aeration, chlorination or an oxidizing filter) ahead of the softener. Why the smell survives softening is in [why a sulfur smell remains after softening](/blog/sulfur-smell-after-water-softener/).
@@ -118,7 +118,7 @@ Which form you have is the most important fact in this tree. How to tell them ap
 
 Once the decision tree has told you which stages you need, the order follows one rule: **anything that would damage the resin comes out before the softener, and anything that protects drinking water goes after it.**
 
-A typical full train on a well looks like this:
+[A typical full train on a well](/blog/well-water-treatment-train-order/) looks like this:
 
 1. Well and pump
 2. Pressure tank (every treatment stage goes after this)
@@ -135,10 +135,10 @@ Most wells need only some of these. A hard well with clean chemistry might need 
 
 The decision tree picks the stages. A few things about the softener also differ on a well supply:
 
-- **Pressure and flow come from your pump.** Manufacturers publish operating limits. One consumer manual we checked lists 25 to 125 psi, and another requires at least 3 gallons per minute at the inlet so the unit can regenerate. A healthy pressure-tank system normally works within these, but a weak pump or a low-yield well may not.
+- **Pressure and flow come from your pump.** Manufacturers publish operating limits. One consumer manual we checked lists 25 to 125 psi, and another requires at least 3 gallons per minute at the inlet so the unit can regenerate. A healthy pressure-tank system normally works within these, but a weak pump or [a low-yield well](/blog/sizing-a-softener-for-a-low-yield-well/) may not.
 - **Regenerate more often, not less.** If the softener is carrying some dissolved iron, shorter intervals between regenerations give the iron less time to oxidize on the beads. Stretching the interval to save salt is a false economy on a well.
 - **Budget for resin cleaning.** A softener that legitimately carries small amounts of iron should get a resin cleaner on a schedule, not as a rescue. [Resin and iron cleaners](/blog/water-softener-resin-and-iron-cleaners/) covers when this helps and when it doesn't.
-- **Retest yearly.** Well chemistry changes. Iron that wasn't there at purchase can appear, and a softener that was right in year one can be overloaded by year five. If brown water starts appearing after regeneration, [brown water after softener regeneration](/blog/brown-water-after-softener-regeneration/) is the diagnosis to start with.
+- **Retest yearly.** [Well chemistry changes](/blog/why-well-water-chemistry-changes/). Iron that wasn't there at purchase can appear, and a softener that was right in year one can be overloaded by year five. If brown water starts appearing after regeneration, [brown water after softener regeneration](/blog/brown-water-after-softener-regeneration/) is the diagnosis to start with.
 
 ## The Well Water Series: Where to Go Next
 

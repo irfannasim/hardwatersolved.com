@@ -142,7 +142,7 @@ For water in Zone 2 or Zone 3, the sequence runs like this, and each step exists
 
 **2. Neutralise, if pH is below roughly 6.8.** A calcite bed dissolves calcium carbonate into the water until the acid is consumed. Magnesia-blended media raise pH further where calcite alone is not enough. These are self-regulating in that they dissolve in proportion to the acidity present, but they need backwashing to prevent the bed cementing, and the media is consumed and has to be topped up.
 
-**3. Re-measure hardness after the neutraliser, before sizing the softener.** This is the step that gets skipped. The neutraliser has *added* hardness — commonly in the range of 1 to 5 gpg, depending on media, contact time and how acidic the raw water was. Size the softener against the post-neutraliser number, not the raw number, or it will be undersized from the day it is commissioned.
+**3. Re-measure hardness after the neutraliser, before sizing the softener.** This is the step that gets skipped. The neutraliser has *added* hardness — commonly in the range of 1 to 5 gpg, depending on media, contact time and how acidic the raw water was. [Size the softener against the post-neutraliser number](/blog/water-softener-vs-acid-neutralizer/), not the raw number, or it will be undersized from the day it is commissioned.
 
 **4. Soften.** Now the softener is removing both the original hardness and the hardness the neutraliser contributed, and it is doing so to water that is no longer aggressive.
 
@@ -158,6 +158,6 @@ Three limits worth stating plainly.
 
 **pH from a home strip is not accurate enough for this.** Strip pH resolves to about half a unit at best, and half a unit swings the LSI by half a point — enough to move water from "investigate" to "fine". Use a lab, or a calibrated meter, for any decision that involves buying equipment.
 
-**Hardness and pH both move on a well.** A single reading places you in a zone on one day. Seasonal recharge shifts both, and a well that sits at pH 6.9 in winter can read 6.5 after spring melt. Two samples in opposite seasons is the minimum before committing to a treatment train.
+**Hardness and pH both move on a well.** A single reading places you in a zone on one day. [Seasonal recharge shifts both](/blog/why-well-water-chemistry-changes/), and a well that sits at pH 6.9 in winter can read 6.5 after spring melt. Two samples in opposite seasons is the minimum before committing to a treatment train.
 
 Measure the pair, convert the units carefully using [the gpg, ppm and mg/L reference](/blog/water-hardness-units-gpg-ppm/), and install in the order the chemistry requires. The cost difference between doing this and not doing it is not the price of a neutraliser — it is the price of re-piping a house.

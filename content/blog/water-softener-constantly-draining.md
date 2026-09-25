@@ -47,7 +47,7 @@ The per-1,000-gallon rates are illustrative, not quoted from any utility. Many w
 
 **For context.** The EPA's WaterSense programme puts normal softener regeneration at [up to 10,000 gallons a year](https://www.epa.gov/watersense/cation-exchange-water-softeners), and estimates that an average family's household leaks waste around [9,400 gallons a year](https://www.epa.gov/watersense/statistics-and-facts). A softener stuck at 1.5 gpm passes both of those figures in under five days.
 
-**On a private well** there is no water bill, but the cost does not disappear. The pump runs far more than it was sized to, and a septic system receives thousands of extra gallons a day it was never designed to absorb. That hydraulic load is the more serious risk than the electricity.
+**On a private well** there is no water bill, but the cost does not disappear. The pump runs far more than it was sized to, and [a septic system](/blog/water-softener-with-septic-system/) receives thousands of extra gallons a day it was never designed to absorb. That hydraulic load is the more serious risk than the electricity.
 
 **Why the trickle row matters.** Most people only notice full backwash flow, the obvious rush of water. A worn seal leaking a tenth of a gallon a minute is nearly silent and easy to miss for months, and it still adds up to more than 50,000 gallons a year.
 

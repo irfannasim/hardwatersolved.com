@@ -142,7 +142,7 @@ This is the whole decision, and it is a plumbing question rather than a product 
 **Three things to check before buying a whole-house carbon unit:**
 
 1. **Flow rate versus contact time.** A filter rated for your peak flow on paper may give too little contact time for chloramine. Ask for the empty bed contact time at your actual peak demand, not the headline gallons per minute.
-2. **Pressure drop.** Carbon adds resistance, and it sits ahead of everything. If your static pressure is already marginal, read [why scale reduces water pressure](/blog/scale-reducing-water-pressure/) first — you may be stacking two restrictions.
+2. **Pressure drop.** [Carbon adds resistance](/blog/carbon-filter-and-water-softener-together/), and it sits ahead of everything. If your static pressure is already marginal, read [why scale reduces water pressure](/blog/scale-reducing-water-pressure/) first — you may be stacking two restrictions.
 3. **Certification, not marketing.** Chlorine reduction claims are tested under NSF/ANSI 42. Confirm the specific model is listed rather than trusting a family-level claim; [WQA's product listings](https://www.wqa.org/find-products) show what an individual unit has actually been certified to reduce.
 
 **Sediment first, then carbon, then softener.** Carbon media blinds quickly on turbid water, and a cheap sediment cartridge ahead of it is the difference between annual and quarterly replacement.
@@ -160,7 +160,7 @@ Not every chlorine complaint is a missing filter. Rule these out before spending
 
 ## What a Softener Cannot Do, Stated Plainly
 
-It is worth being blunt, because the industry often is not. A water softener does not remove chlorine, chloramine, disinfection byproducts, pesticides, volatile organic compounds, hydrogen sulfide, bacteria, nitrate, PFAS or most taste and odour compounds. It removes hardness, and small amounts of dissolved iron and manganese. That is the list.
+It is worth being blunt, because the industry often is not. [A water softener does not remove](/blog/what-a-water-softener-does-not-remove/) chlorine, chloramine, disinfection byproducts, pesticides, volatile organic compounds, hydrogen sulfide, bacteria, nitrate, PFAS or most taste and odour compounds. It removes hardness, and small amounts of dissolved iron and manganese. That is the list.
 
 Anyone selling a softener on the promise of "better tasting water" is selling you the *absence of mineral taste*, which is real but is not filtration. The CDC's overview of [home water treatment systems](https://www.cdc.gov/drinking-water/about/about-home-water-treatment-systems.html) is a useful reality check on which technology addresses which contaminant.
 

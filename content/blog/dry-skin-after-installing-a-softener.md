@@ -4,6 +4,7 @@ seoTitle: "Dry Skin After a Water Softener: Why It Can Persist"
 seoDescription: "Dry skin after a water softener is common and rarely a fault. Softening removes one irritant out of five. Here is how to isolate the four it never touched."
 excerpt: "Softening removes one contributor to skin dryness — the surfactant residue hard water leaves behind. It does not change water temperature, shower length, indoor humidity, soap chemistry or whatever your skin was already doing. This article isolates each confounder one at a time, and declines to promise a benefit the industry routinely oversells."
 date: "2026-09-20"
+updatedDate: "2026-09-25"
 author: "Irfan Nasim"
 category: "Softener Troubleshooting"
 featuredImage: "https://images.pexels.com/photos/7321545/pexels-photo-7321545.jpeg"
@@ -161,7 +162,7 @@ For what softening does genuinely deliver, [what happens to hair and skin on har
 5. **Switch to a fragrance-free synthetic cleanser** rather than bar soap. Give it three weeks.
 6. **Moisturise within three minutes of getting out**, on damp skin.
 7. **Check indoor humidity** in winter and raise it to 40–50% if it is below that.
-8. **Test for chlorine** if the water tastes of it, and consider carbon pretreatment — which protects your resin as well as your skin.
+8. **Test for chlorine** if the water tastes of it, and consider [carbon pretreatment](/blog/carbon-filter-before-water-softener/) — which protects your resin as well as your skin.
 9. **See a clinician** if the skin is cracked, itchy, inflamed or not responding. At that point it is not a water question.
 
 The softener removed one irritant. Four bigger ones are still under your control, and all four are free to change tonight.

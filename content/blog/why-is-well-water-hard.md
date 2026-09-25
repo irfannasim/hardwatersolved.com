@@ -80,7 +80,7 @@ The USGS national assessments put numbers on the right-hand column:
 
 Owners on granite and coastal sands often test their hardness, see a low number, and conclude the water is fine. That is exactly the wrong inference.
 
-Soft groundwater is soft because it moved through rock with nothing to neutralise its carbonic acid. That same unbuffered water is the reason it tends to be acidic — and acidic water dissolves copper and lead from plumbing, which is where blue-green stains in the tub and pinhole leaks in copper lines come from. Low hardness on a crystalline or coastal well is a flag to check pH, not a reason to stop testing.
+Soft groundwater is soft because it moved through rock with nothing to neutralise its carbonic acid. That same unbuffered water is the reason it tends to be acidic — and [acidic water dissolves copper and lead](/blog/low-ph-well-water-treatment/) from plumbing, which is where blue-green stains in the tub and pinhole leaks in copper lines come from. Low hardness on a crystalline or coastal well is a flag to check pH, not a reason to stop testing.
 
 ![Close-up of rugged granite bedrock, the crystalline rock that produces soft but often acidic well water](https://images.pexels.com/photos/7718565/pexels-photo-7718565.jpeg)
 
@@ -94,7 +94,7 @@ A hardness number on its own will give you a softener sized for water you don't 
 
 **Low pH has to be fixed first.** A softener doesn't raise pH, so acidic water leaves it just as corrosive as it went in. The usual fix is a neutralising filter, and the most common kind works by dissolving calcite — which adds hardness back by design. Put the neutraliser first, then size the softener for the hardness *after* neutralising, not before. Test only the raw water and the softener ends up too small.
 
-**Some things aren't a softener's job.** Ion exchange swaps calcium and magnesium for sodium or potassium. It does not remove hydrogen sulfide odour, tannins (which need a different resin), arsenic, radon, nitrate or bacteria. On a well, a softener is often one stage in a treatment train rather than the whole answer.
+**Some things aren't a softener's job.** Ion exchange swaps calcium and magnesium for sodium or potassium. It does not remove hydrogen sulfide odour, tannins (which need a different resin), arsenic, radon, nitrate or bacteria. On a well, a softener is often [one stage in a treatment train](/blog/well-water-treatment-train-order/) rather than the whole answer.
 
 ## What to Test on a Private Well
 

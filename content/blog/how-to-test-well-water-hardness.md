@@ -129,7 +129,7 @@ Elaborate protocols get abandoned. This one is four events a year, two of which 
 
 **Month 12 — repeat the lab panel, abbreviated.** Hardness, iron, manganese, nitrate and coliform. If the iron or manganese has moved materially since month 0, the well is not stable and you should keep sampling before committing to equipment.
 
-**Trigger tests, any time.** A new or deepened well, a pump replacement, a drought or flood, nearby drilling, blasting or quarrying, or a sudden change in staining, smell or soap behaviour. Each of those is a reason to re-test now rather than wait for the schedule.
+**Trigger tests, any time.** A new or deepened well, a pump replacement, [a drought or flood, nearby drilling](/blog/why-well-water-chemistry-changes/), blasting or quarrying, or a sudden change in staining, smell or soap behaviour. Each of those is a reason to re-test now rather than wait for the schedule.
 
 If you are mid-purchase and cannot wait a year, the compromise is two samples at least a month apart, ideally after a wet spell and after a dry one, and then sizing on the higher figure with the iron compensation applied. It is not as good as a year of data, but it is far better than the single sample most installers work from.
 
@@ -143,7 +143,7 @@ Once you have a range rather than a point, the decisions become straightforward:
 - **pH below about 6.8.** Treat the pH first. A neutraliser also raises hardness, which changes the softener sizing, so this has to be sequenced in the right order.
 - **Tannins present.** A softener alone will not clear the colour, and tannins foul resin. This needs its own stage.
 
-Note what happens to the treatment order in the last three cases: the softener is the *last* thing installed, not the first. That sequencing decision is why testing iron, manganese and pH at the same time as hardness is not optional on a well. Getting the order wrong is expensive to unwind, because it usually means replacing resin that was ruined by whatever should have been removed upstream.
+Note what happens to the treatment order in the last three cases: the softener is the *last* thing installed, not the first. That [sequencing decision](/blog/well-water-treatment-train-order/) is why testing iron, manganese and pH at the same time as hardness is not optional on a well. Getting the order wrong is expensive to unwind, because it usually means replacing resin that was ruined by whatever should have been removed upstream.
 
 ## What a Good Well Water Hardness Test Cannot Tell You
 

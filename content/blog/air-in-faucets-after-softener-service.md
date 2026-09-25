@@ -154,7 +154,7 @@ If you are not sure which persistent case you have, keep a simple log for seven 
 
 **Within reach:** purging air after service, cleaning or replacing an air check, tightening brine line fittings, correcting the brine tank water level, and checking a pressure tank's pre-charge with the pump off and the tank drained.
 
-**Better left to a professional:** replacing a pressure tank, anything inside the well, diagnosing a low-yield well, and investigating gas in well water. And if the air appeared right after a service visit and keeps returning, call the company that did the work — a pickup assembly or brine line disturbed during service is a reasonable thing to ask them to check under their own warranty.
+**Better left to a professional:** replacing a pressure tank, anything inside the well, diagnosing [a low-yield well](/blog/sizing-a-softener-for-a-low-yield-well/), and investigating gas in well water. And if the air appeared right after a service visit and keeps returning, call the company that did the work — a pickup assembly or brine line disturbed during service is a reasonable thing to ask them to check under their own warranty.
 
 **What a softener cannot do:** remove dissolved gases, fix a well's yield, or stop air that arrives from upstream. It can only avoid adding its own.
 

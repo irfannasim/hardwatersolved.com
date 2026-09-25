@@ -107,7 +107,7 @@ HomeGuide also gives a range for a typical multi-stage well setup: $3,000 to $7,
 - **Choosing on total iron alone.** 1.5 ppm of dissolved iron and 1.5 ppm of oxidized iron lead to different rows of the matrix. Do the glass test or get the dissolved and total iron figures before you buy.
 - **Buying a softener sold as an "iron removal" softener for oxidized iron.** No resin changes what happens to particles.
 - **Installing them in the wrong order.** The filter protects the softener, so it has to be upstream. The full reasoning, and the thresholds for adding a sediment stage, are in [should an iron filter go before a water softener](/blog/iron-filter-before-water-softener/).
-- **Scheduling two backwashes at the same time on one well.** Both units backwash, and some iron filters need a high flow rate to do it. If both are set for 2 a.m., the pump may not keep up with either. Stagger the times and check the well's output first. Placement relative to the pressure tank is covered in [where to install a softener on a well system](/blog/where-to-install-softener-on-well-system/).
+- **Scheduling two backwashes at the same time on one well.** Both units backwash, and some iron filters need a high flow rate to do it. If both are set for 2 a.m., the pump may not keep up with either. Stagger the times and [check the well's output first](/blog/well-pump-flow-and-backwashing/). Placement relative to the pressure tank is covered in [where to install a softener on a well system](/blog/where-to-install-softener-on-well-system/).
 - **Skipping the retest.** A new filter changes what the softener sees. Test after the filter once it is running, and set the softener's hardness from that result, not from the raw-water report.
 
 ## What to Do Next
