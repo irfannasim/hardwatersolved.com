@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="sno-title sno-desc">
+<title id="sno-title">Water softener vs acid neutralizer: four installation orders and the water each delivers</title>
+<desc id="sno-desc">Comparison of four setups on an acidic, hard well at pH 6.1 and 7 gpg: softener only leaves soft acidic corrosive water, neutralizer only leaves hard water, softener then neutralizer adds hardness back, and neutralizer then softener gives near-neutral soft water.</desc>
+<defs><marker id="sno-mc2410c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="sno-m0e7490" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="sno-m0b2f4a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="sno-mdc2626" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="sno-m15803d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="sno-m52697a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="sno-m78716c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="sno-mb45309" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="sno-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Softener vs acid neutralizer: what each setup sends to the tap</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Example well: pH 6.1, 7 gpg hardness. Only one order fixes both problems.</text>
+<text x="30" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">1. Softener only</text>
+<rect class="box" x="30" y="118" width="120" height="58" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="90" y="143" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Well</text>
+<text x="90" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">pH 6.1, 7 gpg</text>
+<path class="ln" d="M154,147 L180,147" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-mc2410c)"/>
+<rect class="box" x="190" y="118" width="124" height="58" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="252" y="143" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="252" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">removes hardness</text>
+<path class="ln" d="M318,147 L500,147" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-m0e7490)"/>
+<rect class="box" x="510" y="118" width="220" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2.5"/>
+<text x="522" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">pH 6.1, under 1 gpg</text>
+<text x="522" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Soft and acidic: most corrosive</text>
+<text x="30" y="216" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">2. Neutralizer only</text>
+<rect class="box" x="30" y="230" width="120" height="58" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="90" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Well</text>
+<text x="90" y="272" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">pH 6.1, 7 gpg</text>
+<path class="ln" d="M154,259 L180,259" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-mc2410c)"/>
+<rect class="box" x="190" y="230" width="124" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="252" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Neutralizer</text>
+<text x="252" y="272" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">raises pH, adds Ca</text>
+<path class="ln" d="M318,259 L500,259" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-mc2410c)"/>
+<rect class="box" x="510" y="230" width="220" height="58" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2.5"/>
+<text x="522" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">pH about 7, 9.5 to 11.2 gpg</text>
+<text x="522" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">Not corrosive, but scales</text>
+<text x="30" y="328" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">3. Softener, then neutralizer</text>
+<rect class="box" x="30" y="342" width="120" height="58" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="90" y="367" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Well</text>
+<text x="90" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">pH 6.1, 7 gpg</text>
+<path class="ln" d="M154,371 L180,371" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-mc2410c)"/>
+<rect class="box" x="190" y="342" width="124" height="58" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="252" y="367" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="252" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">removes hardness</text>
+<path class="ln" d="M318,371 L340,371" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-m0e7490)"/>
+<rect class="box" x="350" y="342" width="124" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="412" y="367" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Neutralizer</text>
+<text x="412" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">raises pH, adds Ca</text>
+<path class="ln" d="M478,371 L500,371" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-mc2410c)"/>
+<rect class="box" x="510" y="342" width="220" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2.5"/>
+<text x="522" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">pH about 7, 2.5 to 4.2 gpg</text>
+<text x="522" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Hardness added back: wrong</text>
+<text x="30" y="440" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">4. Neutralizer, then softener</text>
+<rect class="box" x="30" y="454" width="120" height="58" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="90" y="479" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Well</text>
+<text x="90" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">pH 6.1, 7 gpg</text>
+<path class="ln" d="M154,483 L180,483" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-mc2410c)"/>
+<rect class="box" x="190" y="454" width="124" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="252" y="479" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Neutralizer</text>
+<text x="252" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">raises pH, adds Ca</text>
+<path class="ln" d="M318,483 L340,483" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-mc2410c)"/>
+<rect class="box" x="350" y="454" width="124" height="58" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="412" y="479" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="412" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">removes hardness</text>
+<path class="ln" d="M478,483 L500,483" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sno-m0e7490)"/>
+<rect class="box" x="510" y="454" width="220" height="58" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2.5"/>
+<text x="522" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">pH about 7, under 1 gpg</text>
+<text x="522" y="498" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Correct order</text>
+<text x="30" y="546" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Hardness ranges come from the worked sizing example: the neutralizer adds an estimated 2.5 to 4.2 gpg.</text>
+</svg>

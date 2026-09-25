@@ -61,6 +61,9 @@ Every troubleshooting article ends by resolving the reader's problem — not by 
 5. **State what a softener cannot do.** Reader trust is built more by the limits than the benefits.
 6. **FAQs come from live PAA / People Also Ask and Reddit/forum language for that exact query** — never from a template.
 7. **Internal links are topical.** Use the `Links` field. A link must be useful at the point it appears, not decorative.
+8. **Draw a diagram wherever the reader needs one, as SVG.** Before drafting, list the article's flows, anatomy, sequences, levels, decision chains and scales. Each of those that prose or a table cannot show clearly becomes an SVG diagram in `public/diagrams/`, built and checked to `__content_+_seo/prompts/diagram-guidelines.md`. A `Unique angle` that names a "diagram", "layout", "decision tree", "timeline" or "chart" is always an SVG. Most articles need one or two diagrams; mechanism and layout articles may need more.
+9. **No text diagrams, no forced photos.** Never use ASCII/arrow diagrams in code blocks, and never convert diagrams to PNG or JPG. A stock photo must literally show the subject. If its alt text needs "the kind of…" or "similar to…" to justify it, delete it or replace it with a diagram.
+10. **Verify every diagram visually before publishing.** Run `npm run check:diagrams -- <scratch-dir> <files>` until every file prints `OK`, then open each rendered PNG and confirm three things: nothing overlaps, every arrow is correct, and every label matches the text.
 
 ---
 
@@ -1316,7 +1319,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A decision matrix across iron concentration, iron form and hardness that outputs one of four answers: softener alone, iron filter alone, both in sequence, or a different technology entirely. Include the honest cost comparison of each path.
 - **Links:** up H5, H7; across "Can a Water Softener Remove Iron From Well Water?", "Pretreatment Order: Sediment and Iron Filters Before a Softener", "Dissolved vs Oxidized Iron in Well Water"
 
-### 100. What Salt Works Best With Iron in Well Water?
+### 100. What Salt Works Best With Iron in Well Water? ✅ Published — 2026-09-25 — /blog/best-water-softener-salt-for-iron/
 - **Hub:** H5
 - **Funnel role:** Ongoing purchase decision for well owners; recurring revenue adjacency
 - **Search intent:** Choose a salt product that helps with iron
@@ -1328,7 +1331,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** State plainly where additive salts genuinely help and where they are marketing — with the concentration threshold above which no salt product will keep a bed clean. Compare additive salt against separate resin cleaner on cost per year, which usually favors the cleaner.
 - **Links:** up H5; across "Water Softener Salt Types Compared", "Resin and Iron Cleaners: When and How to Use Them", "What Is Water Softener Resin Fouling"
 
-### 101. Can a Water Softener Remove Manganese?
+### 101. Can a Water Softener Remove Manganese? ✅ Published — 2026-09-25 — /blog/can-a-water-softener-remove-manganese/
 - **Hub:** H5
 - **Funnel role:** Distinct contaminant with distinct staining; commonly misdiagnosed as iron
 - **Search intent:** Address black staining and manganese in well water
@@ -1340,7 +1343,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Treat the staining as the diagnostic: black or brown-black marks on fixtures and laundry indicate manganese rather than iron, and the two are constantly confused. Include EPA secondary standards, the pH dependence that makes manganese harder to remove than iron, and why greensand filtration is usually the real answer.
 - **Links:** up H5; across "What Causes a Hard Water Ring in the Toilet", "Pretreatment Order: Sediment and Iron Filters Before a Softener", "Test Iron and Manganese Before Sizing a Softener"
 
-### 102. Why Iron Bacteria Requires More Than a Softener
+### 102. Why Iron Bacteria Requires More Than a Softener ✅ Published — 2026-09-25 — /blog/iron-bacteria-in-well-water/
 - **Hub:** H5
 - **Funnel role:** Serious well problem that no softener solves; high trust value
 - **Search intent:** Identify and address iron bacteria
@@ -1352,7 +1355,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Visual identification of the characteristic slime versus mineral iron staining, then the actual remediation sequence — shock chlorination, dead-space elimination, and ongoing control — with the reason single-shock treatments usually fail. Include how iron bacteria colonize a resin bed and force replacement.
 - **Links:** up H5; across "How to Protect a Softener During Well Shock Chlorination", "Why a Sulfur Smell Remains After Softening", "How to Sanitize a Water Softener"
 
-### 103. Can a Water Softener Remove Tannins?
+### 103. Can a Water Softener Remove Tannins? ✅ Published — 2026-09-25 — /blog/can-a-water-softener-remove-tannins/
 - **Hub:** H5
 - **Funnel role:** Explains persistent color after treatment; drives a separate purchase
 - **Search intent:** Address yellow or tea-colored well water
@@ -1364,7 +1367,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain why tannins foul cation resin irreversibly and why the tannin unit must sit in a specific position relative to the softener. Include the filter-paper differentiation from iron and the pH interaction that makes tannin removal unreliable on some wells.
 - **Links:** up H5; across "Why Softened Water Looks Yellow", "Well Water Treatment Train Order", "What Is Water Softener Resin Fouling"
 
-### 104. Why Low-pH Well Water Needs Separate Treatment
+### 104. Why Low-pH Well Water Needs Separate Treatment ✅ Published — 2026-09-25 — /blog/low-ph-well-water-treatment/
 - **Hub:** H5
 - **Funnel role:** Prevents plumbing damage; a genuine safety article
 - **Search intent:** Understand acidic well water and its treatment
@@ -1376,7 +1379,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** State the uncomfortable mechanism directly: softening acidic water can make plumbing corrosion worse, so neutralization must come first. Include blue-green staining and pinhole leak identification, the correct order of neutralizer and softener, and the hardness the neutralizer itself adds back — which changes the softener sizing.
 - **Links:** up H5; across "Water Softener vs Acid Neutralizer", "How to Interpret pH and Hardness Together", "Why Softened Water Has a Metallic Taste"
 
-### 105. Water Softener vs Acid Neutralizer
+### 105. Water Softener vs Acid Neutralizer ✅ Published — 2026-09-25 — /blog/water-softener-vs-acid-neutralizer/
 - **Hub:** H5, H7
 - **Funnel role:** Purchase fork specific to acidic wells
 - **Search intent:** Choose between or sequence two treatment types
@@ -1388,7 +1391,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover the interaction most sellers omit: a calcite neutralizer *adds* hardness as it dissolves, so the softener downstream must be sized for the post-neutralizer number, not the raw well number. Include a worked two-stage sizing example.
 - **Links:** up H5, H7; across "Why Low-pH Well Water Needs Separate Treatment", "How to Calculate the Right Water Softener Size", "Well Water Treatment Train Order"
 
-### 106. Why Private Well Chemistry Changes Over Time
+### 106. Why Private Well Chemistry Changes Over Time ✅ Published — 2026-09-25 — /blog/why-well-water-chemistry-changes/
 - **Hub:** H5
 - **Funnel role:** Retention and retest driver; explains sudden performance loss
 - **Search intent:** Understand why a working system stopped working
@@ -1400,7 +1403,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A twelve-month dataset from a single well showing hardness, iron and pH drift, mapped against rainfall and seasonal drawdown. Then a retest trigger list — the events that should prompt a new panel rather than a fixed annual schedule.
 - **Links:** up H5; across "How to Test Hardness in Private Well Water", "How to Set Water Hardness on a Control Valve", "Test Iron and Manganese Before Sizing a Softener"
 
-### 107. Well Water Treatment Train Order
+### 107. Well Water Treatment Train Order ✅ Published — 2026-09-25 — /blog/well-water-treatment-train-order/
 - **Hub:** H5
 - **Funnel role:** The reference page that determines an entire multi-thousand-dollar system layout
 - **Search intent:** Sequence multiple treatment stages correctly
@@ -1412,7 +1415,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A single master ordering diagram covering every common stage, with a stated rule for each position and the specific failure that results from moving it. Cover the UV question definitively (always last, always after anything that clouds water) and the aeration and retention-tank placement that most well content skips. This is the plan's flagship link asset.
 - **Links:** up H5; across every H5 spoke; across "Where to Install a Softener on a Well Water System"
 
-### 108. How Well Pump Flow Limits Treatment Backwashing
+### 108. How Well Pump Flow Limits Treatment Backwashing ✅ Published — 2026-09-25 — /blog/well-pump-flow-and-backwashing/
 - **Hub:** H5
 - **Funnel role:** Feasibility constraint that invalidates many system designs
 - **Search intent:** Determine whether a well can support backwashing equipment
@@ -1424,7 +1427,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A well yield measurement procedure (drawdown test with a bucket and stopwatch) plus a table of required backwash flow by tank diameter, so a reader can determine feasibility before buying. Include the two workarounds — smaller diameter tanks and storage-tank buffering — and their tradeoffs.
 - **Links:** up H5; across "Sizing a Softener for a Low-Yield Well", "What Is Resin Channeling in a Water Softener", "Pretreatment Order: Sediment and Iron Filters Before a Softener"
 
-### 109. Sizing a Softener for a Low-Yield Well
+### 109. Sizing a Softener for a Low-Yield Well ✅ Published — 2026-09-25 — /blog/sizing-a-softener-for-a-low-yield-well/
 - **Hub:** H5, H6
 - **Funnel role:** Constrained-design problem with a real audience
 - **Search intent:** Size a system where flow is the limiting factor
@@ -1436,7 +1439,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Show the inverted sizing method: start from the maximum tank diameter the well can backwash, then work capacity from there, accepting more frequent regeneration. Include when a twin-tank or storage-buffered design becomes the only workable answer.
 - **Links:** up H5, H6; across "How Well Pump Flow Limits Treatment Backwashing", "How to Calculate the Right Water Softener Size", "Single-Tank vs Twin-Tank Water Softeners"
 
-### 110. How to Protect a Softener During Well Shock Chlorination
+### 110. How to Protect a Softener During Well Shock Chlorination ✅ Published — 2026-09-25 — /blog/shock-chlorination-and-water-softener/
 - **Hub:** H5
 - **Funnel role:** Prevents an expensive, entirely avoidable mistake
 - **Search intent:** Shock a well without destroying the resin
@@ -1448,7 +1451,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A step-by-step protection and recovery protocol with a timeline: bypass before dosing, flush thoroughly, verify residual has cleared with a chlorine test, then return to service. Include what to do if the softener was already exposed and how to assess the damage.
 - **Links:** up H5; across "How Chlorine Damages Water Softener Resin", "Why Iron Bacteria Requires More Than a Softener", "How to Sanitize a Water Softener"
 
-### 111. Water Softener Planning for a Home With Septic
+### 111. Water Softener Planning for a Home With Septic ✅ Published — 2026-09-25 — /blog/water-softener-with-septic-system/
 - **Hub:** H5
 - **Funnel role:** Frequent blocker question; resolves a common purchase objection
 - **Search intent:** Determine whether softener discharge harms a septic system
@@ -1460,7 +1463,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Present the actual research findings rather than the folklore, then separate the settled question (brine chemistry) from the real one (hydraulic loading from oversized regeneration volumes). Include how to check state and county rules, since several jurisdictions do restrict discharge regardless of the science.
 - **Links:** up H5; across "Where Can a Water Softener Drain", "How to Optimize Regeneration for Salt and Water Efficiency", "Softener Brine Restrictions and Drought Rules"
 
-### 112. Do You Need a Water Softener on City Water?
+### 112. Do You Need a Water Softener on City Water? ✅ Published — 2026-09-25 — /blog/do-you-need-a-water-softener-on-city-water/
 - **Hub:** H5
 - **Funnel role:** Municipal entry point; large audience, different problem set
 - **Search intent:** Decide whether treated municipal water needs softening
@@ -1472,7 +1475,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain what municipal treatment does and does not address, then the two city-specific considerations wells never face: disinfectant residual attacking resin, and hardness that varies as the utility switches source blends. Include how to find your utility's actual hardness range rather than a single annual average.
 - **Links:** up H5; across "How to Read Your Water Hardness Report", "When City Chlorine Requires Carbon Pretreatment", "Why Water Hardness Changes by Season and Location"
 
-### 113. When City Chlorine Requires Carbon Pretreatment
+### 113. When City Chlorine Requires Carbon Pretreatment ✅ Published — 2026-09-25 — /blog/carbon-filter-before-water-softener/
 - **Hub:** H5
 - **Funnel role:** Protects resin investment; drives a second-stage purchase
 - **Search intent:** Decide whether a carbon filter is needed ahead of the softener
@@ -1484,7 +1487,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give a residual-level threshold with the payback math — carbon media cost against resin life extension — so the decision is economic rather than vague. Cover carbon sizing for contact time and the bacterial growth risk in an oversized, under-flushed carbon bed.
 - **Links:** up H5; across "How Chlorine Damages Water Softener Resin", "How Chloramine Affects a Water Softener", "Standard vs Chlorine-Resistant Softener Resin"
 
-### 114. How Chloramine Affects a Water Softener
+### 114. How Chloramine Affects a Water Softener ✅ Published — 2026-09-25 — /blog/how-chloramine-affects-a-water-softener/
 - **Hub:** H5
 - **Funnel role:** Increasingly relevant as utilities switch disinfectants; low competition
 - **Search intent:** Understand chloramine damage and the correct filter response
@@ -1496,7 +1499,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain why standard granular carbon underperforms badly on chloramine and what catalytic carbon changes, with the sizing difference quantified. Include how to determine which disinfectant your utility actually uses and why a switch mid-year can shorten resin life without any visible warning.
 - **Links:** up H5; across "When City Chlorine Requires Carbon Pretreatment", "How Chlorine Damages Water Softener Resin", "Standard vs Chlorine-Resistant Softener Resin"
 
-### 115. What a Water Softener Does Not Remove
+### 115. What a Water Softener Does Not Remove ✅ Published — 2026-09-25 — /blog/what-a-water-softener-does-not-remove/
 - **Hub:** H5 (major reference page)
 - **Funnel role:** Consolidates a dozen thin contaminant queries into one authoritative reference; strong link magnet
 - **Search intent:** Determine whether a softener addresses a specific contaminant
@@ -1508,7 +1511,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** One contaminant-by-contaminant table stating, for each: whether ion exchange affects it, what the correct technology is, and the NSF/ANSI standard that certifies that technology. Sourced entirely to EPA and NSF primary references. Replaces thirteen thin pages with one page that genuinely deserves to rank, and directly answers the trust question of whether this site will overclaim.
 - **Links:** up H5; across "How Reverse Osmosis and a Water Softener Work Together", "How Lead Service Line Work Can Affect a Softener", "Water Softener vs Reverse Osmosis System"
 
-### 116. How Lead Service Line Work Can Affect a Softener
+### 116. How Lead Service Line Work Can Affect a Softener ✅ Published — 2026-09-25 — /blog/lead-service-line-work-and-water-softener/
 - **Hub:** H5
 - **Funnel role:** Timely regulatory topic; high trust value, low competition
 - **Search intent:** Understand softener implications of lead line replacement
@@ -1520,7 +1523,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Practical guidance around a real regulatory program: what happens to household water during and after replacement, why the softener should be bypassed during the disturbance period, and the sediment that otherwise reaches the resin bed. Include how to read lead-free plumbing certification marks correctly.
 - **Links:** up H5; across "What a Water Softener Does Not Remove", "Why Softened Water Has a Metallic Taste", "When to Replace a Sediment Prefilter Before a Softener"
 
-### 117. How a Whole-House Carbon Filter and Softener Work Together
+### 117. How a Whole-House Carbon Filter and Softener Work Together ✅ Published — 2026-09-25 — /blog/carbon-filter-and-water-softener-together/
 - **Hub:** H5
 - **Funnel role:** Multi-stage system design; drives a second purchase
 - **Search intent:** Combine carbon filtration and softening correctly
@@ -1532,7 +1535,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover the operational conflict rather than just the order: two backwashing units on one supply must be scheduled apart or they starve each other, and combined pressure drop can push a house below usable pressure. Include a combined pressure-drop worksheet.
 - **Links:** up H5; across "When City Chlorine Requires Carbon Pretreatment", "Minimum and Maximum Pressure for a Water Softener", "Well Water Treatment Train Order"
 
-### 118. How Reverse Osmosis and a Water Softener Work Together
+### 118. How Reverse Osmosis and a Water Softener Work Together ✅ Published — 2026-09-25 — /blog/reverse-osmosis-and-water-softener-together/
 - **Hub:** H5
 - **Funnel role:** Very common pairing; resolves the drinking-water question
 - **Search intent:** Understand how the two systems complement each other
@@ -1544,7 +1547,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Show the mutual benefit clearly — the softener protects the membrane from scaling, and the RO removes the sodium that worries people about softened drinking water — which resolves two objections at once. Include membrane life data with and without softening.
 - **Links:** up H5; across "What a Water Softener Does Not Remove", "How Much Sodium Does a Water Softener Add", "Should a Kitchen Drinking Tap Bypass the Softener"
 
-### 119. Water Softener vs Whole-House Water Filter
+### 119. Water Softener vs Whole-House Water Filter ✅ Published — 2026-09-25 — /blog/water-softener-vs-whole-house-water-filter/
 - **Hub:** H5, H7
 - **Funnel role:** Very high-volume confusion point; major purchase fork
 - **Search intent:** Distinguish two commonly conflated product categories

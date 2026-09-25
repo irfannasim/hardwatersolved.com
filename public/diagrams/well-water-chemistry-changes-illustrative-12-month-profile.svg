@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 668" width="760" height="668" role="img" aria-labelledby="wcp-title wcp-desc">
+<title id="wcp-title">Illustrative 12-month profile of well water chemistry changes against rainfall and water level</title>
+<desc id="wcp-desc">Illustrative, not measured: monthly rainfall, depth to water, hardness, iron and pH for one hypothetical private well. Well water chemistry changes with the water table: hardness falls to 13 gpg and pH to 6.6 in spring recharge, then hardness reaches 18 gpg and iron 1.4 ppm in September drawdown.</desc>
+<defs><marker id="wcp-mc2410c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="wcp-m0e7490" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="wcp-m0b2f4a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="wcp-mdc2626" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="wcp-m15803d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="wcp-m52697a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="wcp-m78716c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="wcp-mb45309" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="wcp-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="668" fill="#ffffff"/>
+<text x="30" y="36" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">How one well’s chemistry can drift through a year</text>
+<text x="30" y="58" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">ILLUSTRATIVE profile, not a measured well. Values are plausible, not data.</text>
+<rect x="211.66666666666669" y="100" width="152.5" height="496" fill="#eff6ff"/>
+<rect x="415" y="100" width="152.5" height="496" fill="#fff7ed"/>
+<text x="287.9166666666667" y="86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Spring recharge</text>
+<text x="491.25" y="86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#c2410c">Summer drawdown</text>
+<rect x="110" y="110" width="610" height="70" fill="none" stroke="#cbd5e1" stroke-width="1"/>
+<text x="110" y="102" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Rainfall, inches per month</text>
+<text x="102" y="122" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">6</text>
+<text x="102" y="180" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<rect x="121.41666666666666" y="147.33333333333334" width="28" height="32.66666666666666" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="172.25" y="150.83333333333334" width="28" height="29.166666666666657" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="223.08333333333331" y="138" width="28" height="42" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="273.91666666666663" y="131" width="28" height="49" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="324.75" y="133.33333333333334" width="28" height="46.66666666666666" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="375.58333333333337" y="142.66666666666666" width="28" height="37.33333333333334" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="426.41666666666663" y="153.16666666666666" width="28" height="26.833333333333343" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="477.25" y="162.5" width="28" height="17.5" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="528.0833333333334" y="159" width="28" height="21" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="578.9166666666666" y="119.33333333333333" width="28" height="60.66666666666667" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="629.75" y="140.33333333333334" width="28" height="39.66666666666666" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<rect x="680.5833333333334" y="145" width="28" height="35" fill="#dbeafe" stroke="#0e7490" stroke-width="1"/>
+<text x="610.9166666666666" y="131.33333333333331" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">storm</text>
+<rect x="110" y="214" width="610" height="70" fill="none" stroke="#cbd5e1" stroke-width="1"/>
+<text x="110" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Depth to water, ft (higher on the chart = water table higher)</text>
+<text x="102" y="226" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">20</text>
+<text x="102" y="284" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">45</text>
+<path class="ln" d="M135.4,247.6 L186.3,244.8 L237.1,233.6 L287.9,225.2 L338.8,228.0 L389.6,236.4 L440.4,250.4 L491.3,264.4 L542.1,272.8 L592.9,253.2 L643.8,250.4 L694.6,247.6" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="135.4" cy="247.6" r="3.5" fill="#3a5a72"/>
+<circle cx="186.3" cy="244.8" r="3.5" fill="#3a5a72"/>
+<circle cx="237.1" cy="233.6" r="3.5" fill="#3a5a72"/>
+<circle cx="287.9" cy="225.2" r="3.5" fill="#3a5a72"/>
+<circle cx="338.8" cy="228.0" r="3.5" fill="#3a5a72"/>
+<circle cx="389.6" cy="236.4" r="3.5" fill="#3a5a72"/>
+<circle cx="440.4" cy="250.4" r="3.5" fill="#3a5a72"/>
+<circle cx="491.3" cy="264.4" r="3.5" fill="#3a5a72"/>
+<circle cx="542.1" cy="272.8" r="3.5" fill="#3a5a72"/>
+<circle cx="592.9" cy="253.2" r="3.5" fill="#3a5a72"/>
+<circle cx="643.8" cy="250.4" r="3.5" fill="#3a5a72"/>
+<circle cx="694.6" cy="247.6" r="3.5" fill="#3a5a72"/>
+<text x="287.91666666666663" y="247.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#3a5a72">24 ft</text>
+<text x="542.0833333333334" y="262.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#3a5a72">41 ft</text>
+<rect x="110" y="318" width="610" height="70" fill="none" stroke="#cbd5e1" stroke-width="1"/>
+<text x="110" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hardness, gpg</text>
+<text x="102" y="330" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">20</text>
+<text x="102" y="388" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">10</text>
+<path class="ln" d="M135.4,353.0 L186.3,353.0 L237.1,360.0 L287.9,367.0 L338.8,363.5 L389.6,356.5 L440.4,346.0 L491.3,335.5 L542.1,332.0 L592.9,349.5 L643.8,353.0 L694.6,353.0" fill="none" stroke="#c2410c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="135.4" cy="353.0" r="3.5" fill="#c2410c"/>
+<circle cx="186.3" cy="353.0" r="3.5" fill="#c2410c"/>
+<circle cx="237.1" cy="360.0" r="3.5" fill="#c2410c"/>
+<circle cx="287.9" cy="367.0" r="3.5" fill="#c2410c"/>
+<circle cx="338.8" cy="363.5" r="3.5" fill="#c2410c"/>
+<circle cx="389.6" cy="356.5" r="3.5" fill="#c2410c"/>
+<circle cx="440.4" cy="346.0" r="3.5" fill="#c2410c"/>
+<circle cx="491.3" cy="335.5" r="3.5" fill="#c2410c"/>
+<circle cx="542.1" cy="332.0" r="3.5" fill="#c2410c"/>
+<circle cx="592.9" cy="349.5" r="3.5" fill="#c2410c"/>
+<circle cx="643.8" cy="353.0" r="3.5" fill="#c2410c"/>
+<circle cx="694.6" cy="353.0" r="3.5" fill="#c2410c"/>
+<text x="287.91666666666663" y="387" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#c2410c">13</text>
+<text x="564.0833333333334" y="336" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#c2410c">18</text>
+<rect x="110" y="422" width="610" height="70" fill="none" stroke="#cbd5e1" stroke-width="1"/>
+<text x="110" y="414" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Iron, ppm</text>
+<text x="102" y="434" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">1.6</text>
+<text x="102" y="492" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path class="ln" d="M135.4,465.8 L186.3,465.8 L237.1,470.1 L287.9,474.5 L338.8,470.1 L389.6,461.4 L440.4,452.6 L491.3,439.5 L542.1,430.8 L592.9,452.6 L643.8,457.0 L694.6,461.4" fill="none" stroke="#b45309" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="135.4" cy="465.8" r="3.5" fill="#b45309"/>
+<circle cx="186.3" cy="465.8" r="3.5" fill="#b45309"/>
+<circle cx="237.1" cy="470.1" r="3.5" fill="#b45309"/>
+<circle cx="287.9" cy="474.5" r="3.5" fill="#b45309"/>
+<circle cx="338.8" cy="470.1" r="3.5" fill="#b45309"/>
+<circle cx="389.6" cy="461.4" r="3.5" fill="#b45309"/>
+<circle cx="440.4" cy="452.6" r="3.5" fill="#b45309"/>
+<circle cx="491.3" cy="439.5" r="3.5" fill="#b45309"/>
+<circle cx="542.1" cy="430.8" r="3.5" fill="#b45309"/>
+<circle cx="592.9" cy="452.6" r="3.5" fill="#b45309"/>
+<circle cx="643.8" cy="457.0" r="3.5" fill="#b45309"/>
+<circle cx="694.6" cy="461.4" r="3.5" fill="#b45309"/>
+<text x="287.91666666666663" y="494.5" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#b45309">0.4</text>
+<text x="564.0833333333334" y="434.75" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#b45309">1.4</text>
+<rect x="110" y="526" width="610" height="70" fill="none" stroke="#cbd5e1" stroke-width="1"/>
+<text x="110" y="518" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">pH</text>
+<text x="102" y="538" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">7.2</text>
+<text x="102" y="596" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">6.4</text>
+<path class="ln" d="M135.4,543.5 L186.3,543.5 L237.1,561.0 L287.9,578.5 L338.8,569.8 L389.6,552.3 L440.4,543.5 L491.3,534.8 L542.1,534.8 L592.9,569.8 L643.8,561.0 L694.6,552.3" fill="none" stroke="#0b2f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="135.4" cy="543.5" r="3.5" fill="#0b2f4a"/>
+<circle cx="186.3" cy="543.5" r="3.5" fill="#0b2f4a"/>
+<circle cx="237.1" cy="561.0" r="3.5" fill="#0b2f4a"/>
+<circle cx="287.9" cy="578.5" r="3.5" fill="#0b2f4a"/>
+<circle cx="338.8" cy="569.8" r="3.5" fill="#0b2f4a"/>
+<circle cx="389.6" cy="552.3" r="3.5" fill="#0b2f4a"/>
+<circle cx="440.4" cy="543.5" r="3.5" fill="#0b2f4a"/>
+<circle cx="491.3" cy="534.8" r="3.5" fill="#0b2f4a"/>
+<circle cx="542.1" cy="534.8" r="3.5" fill="#0b2f4a"/>
+<circle cx="592.9" cy="569.8" r="3.5" fill="#0b2f4a"/>
+<circle cx="643.8" cy="561.0" r="3.5" fill="#0b2f4a"/>
+<circle cx="694.6" cy="552.3" r="3.5" fill="#0b2f4a"/>
+<text x="287.91666666666663" y="598.5" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#0b2f4a">6.6</text>
+<text x="592.9166666666666" y="589.75" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#0b2f4a">6.7</text>
+<text x="135.41666666666666" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Jan</text>
+<text x="186.25" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Feb</text>
+<text x="237.08333333333331" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Mar</text>
+<text x="287.91666666666663" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Apr</text>
+<text x="338.75" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">May</text>
+<text x="389.58333333333337" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Jun</text>
+<text x="440.41666666666663" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Jul</text>
+<text x="491.25" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Aug</text>
+<text x="542.0833333333334" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Sep</text>
+<text x="592.9166666666666" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Oct</text>
+<text x="643.75" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Nov</text>
+<text x="694.5833333333334" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Dec</text>
+<text x="30" y="648" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Chemistry follows the water table: diluted and more acidic after recharge, harder and higher in iron in drawdown.</text>
+</svg>

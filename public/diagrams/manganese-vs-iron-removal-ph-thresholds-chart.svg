@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="mnph-title mnph-desc">
+<title id="mnph-title">Manganese vs iron removal: pH each treatment needs</title>
+<desc id="mnph-desc">Chart of the pH at which a water softener, a greensand filter, a Birm filter and chlorine work for iron and for manganese, showing manganese needs the same or a higher pH than iron for every oxidizing method.</desc>
+<defs><marker id="mnph-steel" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="mnph-bad" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="mnph-ok" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="mnph-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="mnph-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="mnph-ink" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="mnph-iron" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="mnph-muted" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Manganese needs a higher pH than iron to oxidize</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Where each treatment starts to work for iron and for manganese, by pH</text>
+<rect x="30" y="90" width="34" height="10" rx="3" fill="#b45309"/>
+<text x="72" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#b45309">Iron</text>
+<rect x="130" y="90" width="34" height="10" rx="3" fill="#1f2937"/>
+<text x="172" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#1f2937">Manganese</text>
+<text x="300" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Bar = works from this pH upward</text>
+<path d="M250,124 L250,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<path d="M328.3333333333333,124 L328.3333333333333,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<path d="M406.66666666666663,124 L406.66666666666663,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<path d="M485,124 L485,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<path d="M563.3333333333333,124 L563.3333333333333,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<path d="M641.6666666666667,124 L641.6666666666667,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<path d="M720,124 L720,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<rect class="box" x="30" y="130" width="200" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="160" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Softener</text>
+<text x="44" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(ion exchange)</text>
+<rect x="359.6666666666667" y="138" width="360.3333333333333" height="12" rx="3" fill="#b45309"/>
+<rect x="359.6666666666667" y="158" width="360.3333333333333" height="12" rx="3" fill="#1f2937"/>
+<text x="254" y="196" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">Penn State: pH above 6.7</text>
+<rect class="box" x="30" y="222" width="200" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="252" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Greensand filter</text>
+<text x="44" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(permanganate)</text>
+<rect x="375.3333333333333" y="230" width="344.6666666666667" height="12" rx="3" fill="#b45309"/>
+<rect x="375.3333333333333" y="250" width="344.6666666666667" height="12" rx="3" fill="#1f2937"/>
+<text x="254" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">NDSU: poor below pH 6.8</text>
+<rect class="box" x="30" y="314" width="200" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="344" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Birm filter</text>
+<text x="44" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(catalytic)</text>
+<rect x="375.3333333333333" y="322" width="344.6666666666667" height="12" rx="3" fill="#b45309"/>
+<rect x="485" y="342" width="235" height="12" rx="3" fill="#1f2937"/>
+<text x="254" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">Penn State: 6.8 iron, 7.5 manganese</text>
+<rect class="box" x="30" y="406" width="200" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="436" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Chlorine</text>
+<text x="44" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(fastest oxidation)</text>
+<circle cx="563.3333333333333" cy="420" r="7" fill="#b45309"/>
+<circle cx="641.6666666666667" cy="440" r="7" fill="#1f2937"/>
+<text x="254" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">NDSU: about 8.0 iron, 8.5 manganese</text>
+<path class="ln" d="M250,498 L720,498" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M250,498 L250,504" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="250" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">6.0</text>
+<path class="ln" d="M328.3333333333333,498 L328.3333333333333,504" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="328.3333333333333" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">6.5</text>
+<path class="ln" d="M406.66666666666663,498 L406.66666666666663,504" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="406.66666666666663" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">7.0</text>
+<path class="ln" d="M485,498 L485,504" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="485" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">7.5</text>
+<path class="ln" d="M563.3333333333333,498 L563.3333333333333,504" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="563.3333333333333" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">8.0</text>
+<path class="ln" d="M641.6666666666667,498 L641.6666666666667,504" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="641.6666666666667" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">8.5</text>
+<path class="ln" d="M720,498 L720,504" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="720" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">9.0</text>
+<text x="485" y="546" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52697a">pH of the raw water</text>
+</svg>

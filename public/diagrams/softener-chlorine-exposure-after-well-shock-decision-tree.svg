@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 660" width="760" height="660" role="img" aria-labelledby="sxd-title sxd-desc">
+<title id="sxd-title">Water softener exposed to well shock chlorination: what to do</title>
+<desc id="sxd-desc">Decision tree for a water softener that may have been exposed to shock chlorination: if it was bypassed, sanitize and regenerate; if it was in service, bypass it, then flush, regenerate and track capacity according to how long it held shock-strength water, replacing the resin only if capacity stays down.</desc>
+<defs><marker id="sxd-ar" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="660" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Was the softener exposed to the shock?</text>
+<rect class="box" x="150" y="70" width="460" height="76" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="380" y="96" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Was the softener in service</text>
+<text x="380" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">while shock-strength water was in the pipes?</text>
+<path class="ln" d="M380,146 L380,170 L190,170 L190,200" fill="none" stroke="#52697a" stroke-width="4" stroke-linejoin="round" marker-end="url(#sxd-ar)"/>
+<path class="ln" d="M380,170 L570,170 L570,200" fill="none" stroke="#52697a" stroke-width="4" stroke-linejoin="round" marker-end="url(#sxd-ar)"/>
+<text x="202" y="192" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">No</text><text x="582" y="192" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Yes</text>
+<rect class="box" x="30" y="210" width="320" height="110" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="190" y="236" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Protected</text>
+<text x="190" y="256" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">Keep it bypassed until a free</text>
+<text x="190" y="276" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">chlorine test reads zero, then sanitize</text>
+<text x="190" y="296" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">per manual and regenerate.</text>
+<rect class="box" x="410" y="210" width="320" height="76" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="570" y="236" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Bypass it now</text>
+<text x="570" y="256" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">Do not regenerate until flushed.</text>
+<path class="ln" d="M570,286 L570,316" fill="none" stroke="#52697a" stroke-width="4" stroke-linejoin="round" marker-end="url(#sxd-ar)"/>
+<rect class="box" x="410" y="326" width="320" height="56" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="570" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">How long did it hold that water?</text>
+<path class="ln" d="M570,382 L570,400 L365,400 L365,426" fill="none" stroke="#52697a" stroke-width="4" stroke-linejoin="round" marker-end="url(#sxd-ar)"/>
+<path class="ln" d="M570,400 L615,400 L615,426" fill="none" stroke="#52697a" stroke-width="4" stroke-linejoin="round" marker-end="url(#sxd-ar)"/>
+<rect class="box" x="250" y="436" width="230" height="116" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="365" y="462" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Minutes</text>
+<text x="365" y="482" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">circulation step only:</text>
+<text x="365" y="502" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">flush, 2 manual regens,</text>
+<text x="365" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">check outlet hardness</text>
+<rect class="box" x="500" y="436" width="230" height="116" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="615" y="462" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Hours</text>
+<text x="615" y="482" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">through contact time:</text>
+<text x="615" y="502" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">flush, 2 regens, resin</text>
+<text x="615" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#0b2f4a">cleaner, track capacity</text>
+<path class="ln" d="M365,552 L365,576" fill="none" stroke="#52697a" stroke-width="4" stroke-linejoin="round" marker-end="url(#sxd-ar)"/>
+<path class="ln" d="M615,552 L615,576" fill="none" stroke="#52697a" stroke-width="4" stroke-linejoin="round" marker-end="url(#sxd-ar)"/>
+<rect class="box" x="250" y="586" width="480" height="56" rx="10" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<text x="490" y="612" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Capacity down and still down after cleaning? Replace resin.</text>
+<text x="30" y="600" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Check gallons between</text><text x="30" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">regens and a bead squeeze</text><text x="30" y="636" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">test at 1 and 3 months.</text>
+</svg>

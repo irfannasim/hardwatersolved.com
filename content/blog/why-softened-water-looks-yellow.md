@@ -118,12 +118,12 @@ Read the "fouled by" row twice. It explains both the slow capacity loss you may 
 
 This is the part most coverage leaves out. Tannins do not simply pass through the softener; a fraction of them **adsorb onto the cation resin and stay there**, because brine does not strip large organic molecules the way it strips calcium.
 
-The progression is slow and looks like something else at every stage:
+Sources disagree on how often this happens. Some resin suppliers report tannins passing through cation resin without harm, and the damage is most reported where tannins arrive together with iron. Where fouling does set in, the progression is slow and looks like something else at every stage (the years below are a typical pattern, not a measured timetable):
 
 1. **Months 1–12.** Nothing visible except the colour the softener never removed.
 2. **Year 1–3.** Resin darkens from amber towards brown. Capacity starts slipping. Hardness begins breaking through a day or two before the scheduled regeneration — the pattern diagnosed in [why hardness returns before the next regeneration](/blog/hardness-returns-before-regeneration/).
 3. **Year 3–6.** Salt use climbs as the valve regenerates more often to compensate. Soft water becomes intermittent. Owners at this stage usually suspect the valve.
-4. **Year 5–8.** Practical end of life, against the ten to fifteen years a clean, chlorine-free supply would give.
+4. **Around year 5–8.** Practical end of life can arrive years before the ten to fifteen years a clean, chlorine-free supply would give.
 
 **What slows it down:** a resin cleaner dosed routinely into the brine well, a higher salt dose per regeneration, and — the decisive one — removing the tannins upstream so the bed never sees them.
 

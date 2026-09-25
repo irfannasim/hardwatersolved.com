@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 960" width="760" height="960" role="img" aria-labelledby="wto-title wto-desc">
+<title id="wto-title">Well water treatment order: master diagram of twelve positions with rules and failures</title>
+<desc id="wto-desc">Master well water treatment order from well and pump, aeration, chemical feed and pressure tank through sediment screen, retention tank, acid neutralizer, iron filter, carbon filter and water softener to UV disinfection and kitchen RO, with the rule for each position and what fails if it is moved.</desc>
+<defs><marker id="wto-mc2410c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="wto-m0e7490" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="wto-m0b2f4a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="wto-mdc2626" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="wto-m15803d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="wto-m52697a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="wto-m78716c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="wto-mb45309" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="wto-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="960" fill="#ffffff"/>
+<text x="30" y="36" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Well water treatment order: every position, its rule, its failure</text>
+<text x="30" y="58" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Install only the stages your test calls for, but always in this order</text>
+<text x="62" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">Position and stage</text>
+<text x="262" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">Why it sits here</text>
+<text x="506" y="92" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">What fails if it is moved</text>
+<rect x="30" y="100" width="700" height="62" fill="#f8fafc"/>
+<circle cx="44" cy="126" r="11" fill="#0b2f4a"/>
+<text x="44" y="130.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<rect class="box" x="62" y="106" width="180" height="40" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="152" y="131" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Well and pump</text>
+<text x="262" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Source. Sample raw water here</text>
+<text x="262" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">before anything treats it</text>
+<text x="506" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">Cannot move. Tests taken later</text>
+<text x="506" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">describe treated water</text>
+<path class="ln" d="M152,148 L152,162" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-mc2410c)"/>
+<circle cx="44" cy="192" r="11" fill="#0b2f4a"/>
+<text x="44" y="196.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<rect class="box" x="62" y="172" width="180" height="40" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="152" y="189" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Aeration + booster</text>
+<text x="152" y="205" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">if used</text>
+<text x="262" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Vents to air, so it must come</text>
+<text x="262" y="205" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">before the house pressure tank</text>
+<text x="506" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">After the tank: house pressure</text>
+<text x="506" y="205" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">drops at the open tank</text>
+<path class="ln" d="M152,214 L152,228" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-mc2410c)"/>
+<rect x="30" y="232" width="700" height="62" fill="#f8fafc"/>
+<circle cx="44" cy="258" r="11" fill="#0b2f4a"/>
+<text x="44" y="262.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<rect class="box" x="62" y="238" width="180" height="40" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="152" y="255" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Chemical feed point</text>
+<text x="152" y="271" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">chlorine, peroxide, soda ash</text>
+<text x="262" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Inject before the pressure tank</text>
+<text x="262" y="271" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">so the tank adds contact time</text>
+<text x="506" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">Too late: little contact time,</text>
+<text x="506" y="271" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">iron passes unoxidized</text>
+<path class="ln" d="M152,280 L152,294" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-mc2410c)"/>
+<circle cx="44" cy="324" r="11" fill="#0b2f4a"/>
+<text x="44" y="328.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<rect class="box" x="62" y="304" width="180" height="40" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="152" y="329" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Pressure tank</text>
+<text x="262" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">First steady-pressure point;</text>
+<text x="262" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">stages below it see no surges</text>
+<text x="506" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">Stages ahead of it take every</text>
+<text x="506" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">surge; the pump short-cycles</text>
+<path class="ln" d="M152,346 L152,360" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-mc2410c)"/>
+<rect x="30" y="364" width="700" height="62" fill="#f8fafc"/>
+<circle cx="44" cy="390" r="11" fill="#0b2f4a"/>
+<text x="44" y="394.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<rect class="box" x="62" y="370" width="180" height="40" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="152" y="387" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sediment screen</text>
+<text x="152" y="403" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">coarse</text>
+<text x="262" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Grit out first, protecting every</text>
+<text x="262" y="403" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">valve and media bed below</text>
+<text x="506" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">Later: grit scores valve seals;</text>
+<text x="506" y="403" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">too fine here clogs with iron</text>
+<path class="ln" d="M152,412 L152,426" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-mc2410c)"/>
+<circle cx="44" cy="456" r="11" fill="#0b2f4a"/>
+<text x="44" y="460.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">6</text>
+<rect class="box" x="62" y="436" width="180" height="40" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="152" y="453" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Retention tank</text>
+<text x="152" y="469" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">if chlorinating</text>
+<text x="262" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Gives chlorine about 20 minutes</text>
+<text x="262" y="469" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">to form filterable particles</text>
+<text x="506" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">Skipped: oxidation finishes in</text>
+<text x="506" y="469" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">the softener and the pipes</text>
+<path class="ln" d="M152,478 L152,492" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-mc2410c)"/>
+<rect x="30" y="496" width="700" height="62" fill="#f8fafc"/>
+<circle cx="44" cy="522" r="11" fill="#0b2f4a"/>
+<text x="44" y="526.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">7</text>
+<rect class="box" x="62" y="502" width="180" height="40" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="152" y="519" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Acid neutralizer</text>
+<text x="152" y="535" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">if pH is low</text>
+<text x="262" y="518" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Raises pH ahead of iron media</text>
+<text x="262" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">that need near-neutral water</text>
+<text x="506" y="518" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">After iron filter: media fail;</text>
+<text x="506" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">after softener: hardness returns</text>
+<path class="ln" d="M152,544 L152,558" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-mc2410c)"/>
+<circle cx="44" cy="588" r="11" fill="#0b2f4a"/>
+<text x="44" y="592.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">8</text>
+<rect class="box" x="62" y="568" width="180" height="40" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="152" y="585" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Iron, Mn, H₂S filter</text>
+<text x="152" y="601" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">if present</text>
+<text x="262" y="584" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Takes out metals and particles</text>
+<text x="262" y="601" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">before the resin sees them</text>
+<text x="506" y="584" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">After the softener: resin fouls</text>
+<text x="506" y="601" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">with iron and manganese</text>
+<path class="ln" d="M152,610 L152,624" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-mc2410c)"/>
+<rect x="30" y="628" width="700" height="62" fill="#f8fafc"/>
+<circle cx="44" cy="654" r="11" fill="#0b2f4a"/>
+<text x="44" y="658.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">9</text>
+<rect class="box" x="62" y="634" width="180" height="40" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="152" y="651" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Carbon filter</text>
+<text x="152" y="667" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">if chlorine or organics</text>
+<text x="262" y="650" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Strips chlorine or peroxide</text>
+<text x="262" y="667" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">before they reach the resin</text>
+<text x="506" y="650" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">After the softener on chlorinated</text>
+<text x="506" y="667" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">water: the resin oxidizes</text>
+<path class="ln" d="M152,676 L152,690" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-mc2410c)"/>
+<circle cx="44" cy="720" r="11" fill="#0b2f4a"/>
+<text x="44" y="724.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">10</text>
+<rect class="box" x="62" y="700" width="180" height="40" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="3"/>
+<text x="152" y="725" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water softener</text>
+<text x="262" y="716" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Last chemistry change; protects</text>
+<text x="262" y="733" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">the UV sleeve and RO membrane</text>
+<text x="506" y="716" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">Ahead of iron or carbon: resin</text>
+<text x="506" y="733" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">fouls or is chlorine-damaged</text>
+<path class="ln" d="M152,742 L152,756" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-m0e7490)"/>
+<rect x="30" y="760" width="700" height="62" fill="#f8fafc"/>
+<circle cx="44" cy="786" r="11" fill="#0b2f4a"/>
+<text x="44" y="790.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">11</text>
+<rect class="box" x="62" y="766" width="180" height="40" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="152" y="783" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">UV disinfection</text>
+<text x="152" y="799" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">if bacteria risk</text>
+<text x="262" y="782" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Last whole-house stage, after</text>
+<text x="262" y="799" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">everything that clouds or coats</text>
+<text x="506" y="782" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">Earlier: iron, scale and cloud</text>
+<text x="506" y="799" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">shield microbes; beds regrow them</text>
+<path class="ln" d="M152,808 L152,822" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wto-m0e7490)"/>
+<circle cx="44" cy="852" r="11" fill="#0b2f4a"/>
+<text x="44" y="856.32" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">12</text>
+<rect class="box" x="62" y="832" width="180" height="40" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="152" y="849" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Kitchen RO</text>
+<text x="152" y="865" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">point of use</text>
+<text x="262" y="848" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Drinking water only, fed soft,</text>
+<text x="262" y="865" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">disinfected water</text>
+<text x="506" y="848" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">Fed hard water: membrane scales;</text>
+<text x="506" y="865" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b91c1c">fed chlorine: membrane damage</text>
+<rect x="30" y="910" width="24" height="16" rx="3" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/>
+<text x="62" y="923" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">before the softener</text>
+<rect x="210" y="910" width="24" height="16" rx="3" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="242" y="923" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">softener and after</text>
+<rect x="390" y="910" width="24" height="16" rx="3" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="422" y="923" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">only if the lab test calls for it</text>
+<text x="30" y="954" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">A hard well with otherwise clean chemistry may need only positions 1, 4, 5 and 10.</text>
+</svg>

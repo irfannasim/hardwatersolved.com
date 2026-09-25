@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="bwc-title bwc-desc">
+<title id="bwc-title">Water softener backwash flow needed by tank diameter</title>
+<desc id="bwc-desc">Bar chart of the backwash flow a softener resin bed needs for 8 to 14 inch tanks at 50°F and 68°F, worked from 4.2 and 5.5 gpm per square foot, with an illustrative line for a well that sustains 2.5 gpm.</desc>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Backwash flow needed, by softener tank diameter</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Design rate × bed area. The well must sustain this for the whole backwash.</text>
+<rect x="90" y="80" width="22" height="14" fill="#3a5a72"/><text x="120" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">50°F water</text>
+<rect x="210" y="80" width="22" height="14" fill="#9fb6c8"/><text x="240" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">68°F water</text>
+<line x1="330" y1="87" x2="366" y2="87" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="7 5"/><text x="374" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">example well sustaining 2.5 gpm (illustrative)</text>
+<text x="46" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">gpm</text>
+<line x1="90" y1="420.0" x2="710" y2="420.0" stroke="#e5e7eb" stroke-width="1"/><text x="80" y="425.0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">0</text>
+<line x1="90" y1="368.3" x2="710" y2="368.3" stroke="#e5e7eb" stroke-width="1"/><text x="80" y="373.3" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1</text>
+<line x1="90" y1="316.7" x2="710" y2="316.7" stroke="#e5e7eb" stroke-width="1"/><text x="80" y="321.7" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">2</text>
+<line x1="90" y1="265.0" x2="710" y2="265.0" stroke="#e5e7eb" stroke-width="1"/><text x="80" y="270.0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">3</text>
+<line x1="90" y1="213.3" x2="710" y2="213.3" stroke="#e5e7eb" stroke-width="1"/><text x="80" y="218.3" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">4</text>
+<line x1="90" y1="161.7" x2="710" y2="161.7" stroke="#e5e7eb" stroke-width="1"/><text x="80" y="166.7" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">5</text>
+<line x1="90" y1="110.0" x2="710" y2="110.0" stroke="#e5e7eb" stroke-width="1"/><text x="80" y="115.0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">6</text>
+<line x1="90" y1="420" x2="710" y2="420" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="116" y="344.3" width="30" height="75.7" fill="#3a5a72"/><text x="131" y="362.3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">1.5</text>
+<rect x="154" y="320.8" width="30" height="99.2" fill="#9fb6c8"/><text x="169" y="338.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1.9</text>
+<text x="150" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">8 in</text>
+<rect x="216" y="324.1" width="30" height="95.9" fill="#3a5a72"/><text x="231" y="342.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">1.9</text>
+<rect x="254" y="294.5" width="30" height="125.5" fill="#9fb6c8"/><text x="269" y="312.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2.4</text>
+<text x="250" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">9 in</text>
+<rect x="316" y="301.6" width="30" height="118.4" fill="#3a5a72"/><text x="331" y="319.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">2.3</text>
+<rect x="354" y="265.0" width="30" height="155.0" fill="#9fb6c8"/><text x="369" y="283.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">3.0</text>
+<text x="350" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">10 in</text>
+<rect x="416" y="249.6" width="30" height="170.4" fill="#3a5a72"/><text x="431" y="267.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3.3</text>
+<rect x="454" y="196.8" width="30" height="223.2" fill="#9fb6c8"/><text x="469" y="214.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">4.3</text>
+<text x="450" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">12 in</text>
+<rect x="516" y="220.0" width="30" height="200.0" fill="#3a5a72"/><text x="531" y="238.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3.9</text>
+<rect x="554" y="158.1" width="30" height="261.9" fill="#9fb6c8"/><text x="569" y="176.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">5.1</text>
+<text x="550" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">13 in</text>
+<rect x="616" y="188.0" width="30" height="232.0" fill="#3a5a72"/><text x="631" y="206.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">4.5</text>
+<rect x="654" y="116.2" width="30" height="303.8" fill="#9fb6c8"/><text x="669" y="134.2" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">5.9</text>
+<text x="650" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">14 in</text>
+<line x1="90" y1="290.8" x2="710" y2="290.8" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="7 5"/>
+<text x="400" y="470" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Softener tank diameter</text>
+<text x="30" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Rates from the WC&amp;P softener design guide: 4.2 gpm per sq ft at 50°F, 5.5 at 68°F.</text>
+<text x="30" y="522" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Anything taller than the dashed line needs more flow than this example well can hold.</text>
+</svg>

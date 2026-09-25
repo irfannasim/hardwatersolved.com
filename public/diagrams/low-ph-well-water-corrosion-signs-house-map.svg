@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" width="760" height="570" role="img" aria-labelledby="lpm-title lpm-desc">
+<title id="lpm-title">Signs of acidic low pH well water corrosion in a house: stains, joint crust, pinholes and leak test</title>
+<desc id="lpm-desc">House plumbing map for a private well showing where low pH well water damage appears: blue-green stains under fixtures, green crust at solder joints, pinholes on horizontal copper runs past elbows, ceiling stains below bathrooms, and a pressure tank gauge that falls with every tap closed.</desc>
+<defs><marker id="lpm-mc2410c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="lpm-m0e7490" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="lpm-m0b2f4a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="lpm-mdc2626" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="lpm-m15803d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="lpm-m52697a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="lpm-m78716c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="lpm-mb45309" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="lpm-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="570" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Where acidic well water shows itself in a house</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Copper plumbing on a private well: five places to look before any test</text>
+<path d="M50,160 L250,90 L450,160" fill="none" stroke="#3a5a72" stroke-width="2"/>
+<rect x="50" y="160" width="400" height="340" fill="none" stroke="#3a5a72" stroke-width="2"/>
+<line x1="50" y1="270" x2="450" y2="270" stroke="#3a5a72" stroke-width="2"/>
+<line x1="50" y1="380" x2="450" y2="380" stroke="#3a5a72" stroke-width="2"/>
+<line x1="30" y1="380" x2="50" y2="380" stroke="#78716c" stroke-width="2"/>
+<text x="62" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Bathroom</text>
+<text x="62" y="295" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Kitchen</text>
+<text x="170" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Basement</text>
+<rect x="78" y="420" width="44" height="66" rx="16" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="100" cy="410" r="9" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<line x1="100" y1="410" x2="105" y2="404" stroke="#dc2626" stroke-width="2"/>
+<path class="ln" d="M32,470 L72,470" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lpm-mc2410c)"/>
+<text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">from well</text>
+<path class="ln" d="M122,450 L150,450 L150,395 L380,395" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M240,395 L240,318" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M214,318 L266,318 L258,338 L222,338 Z" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M380,395 L380,212" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M340,212 L392,212 L384,234 L348,234 Z" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<ellipse cx="366" cy="226" rx="10" ry="4" fill="#2dd4bf" stroke="#0f766e" stroke-width="1"/>
+<path class="ln" d="M310,395 L310,425" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="290" y="425" width="44" height="62" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="280" y="470" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">Water heater</text>
+<circle cx="240" cy="395" r="7" fill="#5eead4" stroke="#0f766e" stroke-width="1.5"/>
+<circle cx="360" cy="402" r="2.5" fill="#0e7490"/><circle cx="356" cy="410" r="2" fill="#0e7490"/><circle cx="363" cy="414" r="2" fill="#0e7490"/>
+<ellipse cx="415" cy="276" rx="22" ry="5" fill="#d6c7a1" stroke="#b45309" stroke-width="1"/>
+<circle cx="318" cy="212" r="12" fill="#0b2f4a"/>
+<text x="318" y="216.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<circle cx="214" cy="364" r="12" fill="#0b2f4a"/>
+<text x="214" y="368.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<circle cx="378" cy="432" r="12" fill="#0b2f4a"/>
+<text x="378" y="436.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<circle cx="415" cy="300" r="12" fill="#0b2f4a"/>
+<text x="415" y="304.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<circle cx="135" cy="410" r="12" fill="#0b2f4a"/>
+<text x="135" y="414.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<circle cx="500" cy="105" r="12" fill="#0b2f4a"/>
+<text x="500" y="109.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="522" y="110" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Blue-green stain where</text>
+<text x="522" y="129" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">drips dry under spouts</text>
+<circle cx="500" cy="165" r="12" fill="#0b2f4a"/>
+<text x="500" y="169.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<text x="522" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Green crust at a joint: a</text>
+<text x="522" y="189" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">slow weep. Wipe, recheck</text>
+<circle cx="500" cy="225" r="12" fill="#0b2f4a"/>
+<text x="500" y="229.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<text x="522" y="230" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Pinhole: underside of</text>
+<text x="522" y="249" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">horizontal runs, past</text>
+<text x="522" y="268" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">elbows and tees</text>
+<circle cx="500" cy="304" r="12" fill="#0b2f4a"/>
+<text x="500" y="308.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<text x="522" y="309" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Ceiling stain below a</text>
+<text x="522" y="328" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">bathroom: a leak above</text>
+<circle cx="500" cy="364" r="12" fill="#0b2f4a"/>
+<text x="500" y="368.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<text x="522" y="369" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Tank gauge falls with</text>
+<text x="522" y="388" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">every tap off: water is</text>
+<text x="522" y="407" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">leaving the system</text>
+<text x="30" y="548" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Each sign has other causes too. Treat them as reasons to test pH, alkalinity and first-draw copper.</text>
+</svg>

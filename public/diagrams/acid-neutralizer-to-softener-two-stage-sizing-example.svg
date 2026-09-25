@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" width="760" height="610" role="img" aria-labelledby="nss-title nss-desc">
+<title id="nss-title">Acid neutralizer to water softener two-stage sizing worked example</title>
+<desc id="nss-desc">Worked example sizing a water softener after an acid neutralizer: raw well at pH 6.1 and 7 gpg, estimated 31.8 mg/L carbon dioxide, calcite adds 2.5 to 4.2 gpg, softener programmed at 11 gpg regenerates every 6.9 days, while one set to the raw 7 gpg lets 36% of the water through hard.</desc>
+<defs><marker id="nss-mc2410c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="nss-m0e7490" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="nss-m0b2f4a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="nss-mdc2626" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="nss-m15803d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="nss-m52697a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="nss-m78716c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="nss-mb45309" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="nss-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="610" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Two-stage sizing: neutralizer first, softener sized on its output</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Worked example, not a real test. 1 gpg = 17.1 mg/L as CaCO₃</text>
+<rect class="box" x="70" y="88" width="660" height="58" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="86" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Raw well test</text>
+<text x="86" y="133" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">pH 6.1, alkalinity 20 mg/L as CaCO₃, hardness 7 gpg, 300 gal/day</text>
+<path class="ln" d="M400,148 L400,164" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nss-mc2410c)"/>
+<circle cx="45" cy="201" r="12" fill="#0b2f4a"/>
+<text x="45" y="205.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<rect class="box" x="70" y="172" width="660" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="86" y="196" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Estimate free carbon dioxide</text>
+<text x="86" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">2.0 × 20 × 10^(6.0 − 6.1) = 31.8 mg/L CO₂</text>
+<path class="ln" d="M400,232 L400,248" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nss-mc2410c)"/>
+<circle cx="45" cy="285" r="12" fill="#0b2f4a"/>
+<text x="45" y="289.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<rect class="box" x="70" y="256" width="660" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="86" y="280" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Calcite adds 2.27 mg/L hardness per mg/L of CO₂ it neutralizes</text>
+<text x="86" y="301" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">to pH 7.0: +2.5 gpg  ·  to pH 7.5: +3.5 gpg  ·  all CO₂ used: +4.2 gpg</text>
+<path class="ln" d="M400,316 L400,332" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nss-mc2410c)"/>
+<circle cx="45" cy="369" r="12" fill="#0b2f4a"/>
+<text x="45" y="373.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<rect class="box" x="70" y="340" width="660" height="58" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="86" y="364" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water leaving the neutralizer: 9.5 to 11.2 gpg</text>
+<text x="86" y="385" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Design and program the softener at 11 gpg, then measure and reset</text>
+<path class="ln" d="M300,400 L300,420 L200,420 L200,442" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nss-mc2410c)"/>
+<path class="ln" d="M500,400 L500,420 L560,420 L560,442" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nss-mc2410c)"/>
+<rect class="box" x="30" y="452" width="340" height="116" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2.5"/>
+<text x="46" y="478" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#15803d">Softener programmed at 11 gpg</text>
+<text x="46" y="502" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">11 × 300 = 3,300 grains a day</text>
+<text x="46" y="523" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">1 cu ft (22,930 grains): every 6.9 days</text>
+<text x="46" y="544" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Soft water for the whole cycle</text>
+<rect class="box" x="390" y="452" width="340" height="116" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2.5"/>
+<text x="406" y="478" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#dc2626">Programmed at the raw 7 gpg</text>
+<text x="406" y="502" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Valve waits 10.9 days (3,276 gal)</text>
+<text x="406" y="523" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Resin is spent after 2,085 gal</text>
+<text x="406" y="544" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Last 1,191 gal of each cycle: hard (36%)</text>
+<text x="30" y="594" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Capacity: Hellenbrand 1 cu ft softener, 22,930 grains at 6 lb salt. Reserve left out for clarity.</text>
+</svg>

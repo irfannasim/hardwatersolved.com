@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" width="760" height="610" role="img" aria-labelledby="ibs-title ibs-desc">
+<title id="ibs-title">Iron bacteria in well water: single shock vs the full control sequence</title>
+<desc id="ibs-desc">Comparison of a single shock chlorination, where slime and odor return within weeks, with the full sequence of confirming, cleaning the well, shocking the whole system, purging dead ends and sanitizing the softener, watching for regrowth and moving to continuous control.</desc>
+<defs><marker id="ibs-steel" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="ibs-bad" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="ibs-ok" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="ibs-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="ibs-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="ibs-ink" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="ibs-iron" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="ibs-muted" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="610" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why one shock rarely ends an iron bacteria problem</text>
+<rect class="box" x="30" y="66" width="700" height="170" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="94" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#dc2626">Single shock only</text>
+<rect class="box" x="60" y="110" width="180" height="60" rx="8" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<text x="150" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Shock the</text>
+<text x="150" y="155" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">well once</text>
+<path class="ln" d="M244,140 L282,140" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ibs-bad)"/>
+<rect class="box" x="290" y="110" width="180" height="60" rx="8" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<text x="380" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Clear water</text>
+<text x="380" y="155" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">for a few weeks</text>
+<path class="ln" d="M474,140 L512,140" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ibs-bad)"/>
+<rect class="box" x="520" y="110" width="180" height="60" rx="8" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<text x="610" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Slime and</text>
+<text x="610" y="155" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">odor return</text>
+<path class="ln" d="M610,172 L610,196 L150,196 L150,176" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 6" marker-end="url(#ibs-bad)"/>
+<text x="380" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Bacteria in the rock, under slime and in dead ends survive and regrow.</text>
+<rect class="box" x="30" y="256" width="700" height="336" rx="8" fill="#f0fdfa" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="284" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0e7490">The full sequence</text>
+<rect class="box" x="50" y="300" width="200" height="96" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="64" y="328" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">1  Confirm</text>
+<text x="64" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">toilet tank check,</text>
+<text x="64" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">then a lab test</text>
+<path class="ln" d="M254,348 L274,348" fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ibs-soft)"/>
+<rect class="box" x="280" y="300" width="200" height="96" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="294" y="328" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">2  Clean the well</text>
+<text x="294" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">contractor pulls pump,</text>
+<text x="294" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">brushes and flushes</text>
+<path class="ln" d="M484,348 L504,348" fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ibs-soft)"/>
+<rect class="box" x="510" y="300" width="200" height="96" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="524" y="328" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">3  Shock everything</text>
+<text x="524" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">whole system, softener</text>
+<text x="524" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">bypassed, hold 24 h</text>
+<rect class="box" x="50" y="450" width="200" height="96" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="64" y="478" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">4  Purge and sanitize</text>
+<text x="64" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">open every dead end;</text>
+<text x="64" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">dose the softener</text>
+<path class="ln" d="M254,498 L274,498" fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ibs-soft)"/>
+<rect class="box" x="280" y="450" width="200" height="96" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="294" y="478" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">5  Watch and repeat</text>
+<text x="294" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">toilet tank weekly;</text>
+<text x="294" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">shock again if needed</text>
+<path class="ln" d="M484,498 L504,498" fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ibs-soft)"/>
+<rect class="box" x="510" y="450" width="200" height="96" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="524" y="478" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">6  Ongoing control</text>
+<text x="524" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">shocks over twice a year:</text>
+<text x="524" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">go continuous</text>
+<path class="ln" d="M610,398 L610,422 L150,422 L150,444" fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ibs-soft)"/>
+</svg>

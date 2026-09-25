@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="sio-title sio-desc">
+<title id="sio-title">Water softener sizing order: normal method vs low-yield well</title>
+<desc id="sio-desc">Two flowcharts. The normal softener sizing method runs from daily grains to capacity, resin, tank and finally backwash flow. For a low-yield well the order is inverted: sustained well flow, widest tank that fits, tallest tank of that width, capacity, then accept the regeneration interval or change the design.</desc>
+<defs><marker id="sio-ar" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Softener sizing: normal order vs low-yield well</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">The normal method checks backwash last. On a weak well it has to come first.</text>
+<text x="197" y="100" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#52697a">Normal order</text>
+<text x="562" y="100" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0e7490">Low-yield well: inverted</text>
+<rect class="box" x="30" y="118" width="335" height="70" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="146" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">1. Daily grains</text>
+<text x="46" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">people × gallons × hardness</text>
+<path class="ln" d="M197.5,192 L197.5,206" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#sio-ar)"/>
+<rect class="box" x="30" y="214" width="335" height="70" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="242" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">2. Capacity</text>
+<text x="46" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">daily grains × days wanted</text>
+<path class="ln" d="M197.5,288 L197.5,302" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#sio-ar)"/>
+<rect class="box" x="30" y="310" width="335" height="70" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="338" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">3. Resin volume</text>
+<text x="46" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">capacity ÷ grains per cu ft</text>
+<path class="ln" d="M197.5,384 L197.5,398" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#sio-ar)"/>
+<rect class="box" x="30" y="406" width="335" height="70" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="434" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">4. Tank</text>
+<text x="46" y="456" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">whatever holds that resin</text>
+<path class="ln" d="M197.5,480 L197.5,494" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#sio-ar)"/>
+<rect class="box" x="30" y="502" width="335" height="70" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="530" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">5. Backwash flow</text>
+<text x="46" y="552" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#dc2626">set by diameter: the well may fail</text>
+<rect class="box" x="395" y="118" width="335" height="70" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="411" y="146" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">1. Sustained well flow</text>
+<text x="411" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">measured over a full backwash, less headroom</text>
+<path class="ln" d="M562.5,192 L562.5,206" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#sio-ar)"/>
+<rect class="box" x="395" y="214" width="335" height="70" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="411" y="242" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">2. Widest tank that fits</text>
+<text x="411" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">backwash is set by diameter</text>
+<path class="ln" d="M562.5,288 L562.5,302" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#sio-ar)"/>
+<rect class="box" x="395" y="310" width="335" height="70" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="411" y="338" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">3. Tallest tank of that width</text>
+<text x="411" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">more resin, same backwash flow</text>
+<path class="ln" d="M562.5,384 L562.5,398" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#sio-ar)"/>
+<rect class="box" x="395" y="406" width="335" height="70" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="411" y="434" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">4. Capacity at your salt dose</text>
+<text x="411" y="456" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">gives days between regenerations</text>
+<path class="ln" d="M562.5,480 L562.5,494" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#sio-ar)"/>
+<rect class="box" x="395" y="502" width="335" height="70" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="411" y="530" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">5. Accept it, or change design</text>
+<text x="411" y="552" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#15803d">about 2 days or less: twin or storage</text>
+</svg>

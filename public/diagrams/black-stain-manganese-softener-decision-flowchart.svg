@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 672" width="760" height="672" role="img" aria-labelledby="mnfc-title mnfc-desc">
+<title id="mnfc-title">Black stains and manganese: can a water softener remove it? Decision flowchart</title>
+<desc id="mnfc-desc">Flowchart from a black or brown-black stain to a lab test, then checks on manganese level, oxidized particles, pH and health guidance levels, ending in either a softener that can carry the manganese or an oxidizing filter ahead of it.</desc>
+<defs><marker id="mnfc-steel" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="mnfc-bad" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="mnfc-ok" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="mnfc-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="mnfc-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="mnfc-ink" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="mnfc-iron" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="mnfc-muted" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="672" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">From a black stain to the right equipment</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Read down. Stop at the first yes.</text>
+<rect class="box" x="30" y="92" width="400" height="58" rx="8" fill="#f1f5f9" stroke="#1f2937" stroke-width="2"/>
+<text x="46" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Black or brown-black stain on fixtures,</text>
+<text x="46" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">laundry or inside the toilet tank</text>
+<path class="ln" d="M60,152 L60,170" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#mnfc-steel)"/>
+<rect class="box" x="30" y="174" width="400" height="58" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Lab test: manganese, total and dissolved</text>
+<text x="46" y="218" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">iron, pH and hardness</text>
+<path class="ln" d="M60,234 L60,258" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#mnfc-steel)"/>
+<rect class="box" x="30" y="262" width="400" height="70" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Manganese at or below 0.05 mg/L?</text>
+<text x="455" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M432,297 L472,297" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#mnfc-steel)"/>
+<rect class="box" x="480" y="262" width="250" height="70" rx="8" fill="#eef2f6" stroke="#3a5a72" stroke-width="2"/>
+<text x="492" y="284" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#3a5a72">Look elsewhere first</text>
+<text x="492" y="304" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">plumbing, resin or rubber</text>
+<text x="492" y="321" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">specks; see the black-specks guide</text>
+<path class="ln" d="M60,334 L60,362" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#mnfc-steel)"/>
+<text x="74" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="366" width="400" height="70" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="396" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Black particles already in the raw</text>
+<text x="46" y="416" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">water, or pH at 6.7 or lower?</text>
+<text x="455" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M432,401 L472,401" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#mnfc-steel)"/>
+<rect class="box" x="480" y="366" width="250" height="70" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="492" y="388" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Oxidizing filter first</text>
+<text x="492" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">greensand or catalytic media</text>
+<text x="492" y="425" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">ahead of the softener</text>
+<path class="ln" d="M60,438 L60,466" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#mnfc-steel)"/>
+<text x="74" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="470" width="400" height="70" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="500" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Above 0.3 mg/L, or above 0.1 mg/L</text>
+<text x="46" y="520" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">with a baby on formula?</text>
+<text x="455" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<path class="ln" d="M432,505 L472,505" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#mnfc-steel)"/>
+<rect class="box" x="480" y="470" width="250" height="70" rx="8" fill="#fff7ed" stroke="#b45309" stroke-width="2"/>
+<text x="492" y="492" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#b45309">Treat it, then prove it</text>
+<text x="492" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">test the treated tap water,</text>
+<text x="492" y="529" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">not just the well</text>
+<path class="ln" d="M60,542 L60,570" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#mnfc-steel)"/>
+<text x="74" y="564" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="574" width="700" height="76" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="602" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">A softener can carry it: dissolved manganese, pH above 6.7</text>
+<text x="46" y="626" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Regenerate often, clean the resin, and retest the softened water within a month.</text>
+</svg>

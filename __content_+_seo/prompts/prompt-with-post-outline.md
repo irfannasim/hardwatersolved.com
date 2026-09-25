@@ -36,6 +36,17 @@ Each plan entry already carries its focus keyword, meta title, slug, meta descri
 12. No generic or repetitive paragraphs. Every section must answer a real question, solve a problem, compare options, or give an actionable step.
 13. **Every image must be unique across the whole site**, including the featured image. Place inline images directly after the H2 they illustrate. Write a descriptive, SEO-useful alt text for each.
 
+### Diagrams
+
+Follow `diagram-guidelines.md` in this folder. It is authoritative for diagrams.
+
+1. **Before drafting,** list every flow path, piece of anatomy, sequence, set of levels, decision chain and scale the article explains. Anything prose or a table cannot show clearly becomes an SVG diagram.
+2. **Build each diagram** as a hand-written `.svg` in `public/diagrams/`, with a descriptive kebab-case filename that leads with the subject.
+3. **Take every label and number from the article text.** Mark illustrative charts as illustrative.
+4. **Insert each diagram** as its own paragraph: `![alt](/diagrams/<file>.svg "caption")`.
+5. **Check each diagram.** Run `npm run check:diagrams -- <scratch-dir> public/diagrams/<file>.svg` until it prints `OK`. Then open every rendered PNG and look at it. Nothing may overlap, and every arrow must be correct.
+6. **Never** use ASCII diagrams, PNG or JPG diagrams, or a metaphorical stock photo where a diagram belongs.
+
 ### Images
 
 Source from Pexels and verify each URL returns 200 before using it. `npm run prebuild` caches them into `public/images/pexels/`.
@@ -58,3 +69,4 @@ Beyond `seo-constraints.md`: **include a number in the SEO title where it fits n
 4. Show each SEO constraint as pass/fail with the measured value (character counts, keyword placements).
 5. Confirm external links were checked for 404s and internal links point at published articles.
 6. Confirm the plan file was updated with the published marker.
+7. List each diagram with its filename and checker result, and confirm you looked at every rendered PNG. If a diagram-worthy section was left without one, say why.

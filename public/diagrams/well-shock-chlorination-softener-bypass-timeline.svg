@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="scb-title scb-desc">
+<title id="scb-title">Well shock chlorination timeline with the water softener bypassed</title>
+<desc id="scb-desc">Timeline of a well shock chlorination showing the water softener kept in bypass from before the chlorine is added, through contact time, flushing and a zero free chlorine test, then returned to service, sanitized and regenerated before the coliform retest.</desc>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Shock chlorination: where the softener stands</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Timing follows Virginia Tech's procedure. Your state guide may differ; the order does not.</text>
+<line class="ln" x1="180" y1="120" x2="180" y2="540" stroke="#cbd5e1" stroke-width="3"/>
+<text x="30" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">Before dosing</text>
+<circle cx="180" cy="120" r="7" fill="#0b2f4a"/>
+<text x="202" y="118" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Bypass the softener</text>
+<text x="202" y="137" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Prove the bypass seals; stop the valve cycling</text>
+<text x="30" y="185" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">Hour 0</text>
+<circle cx="180" cy="180" r="7" fill="#0b2f4a"/>
+<text x="202" y="178" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Chlorine into the well</text>
+<text x="202" y="197" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Recirculate with a hose into the casing</text>
+<text x="30" y="245" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">Hours 0–2</text>
+<circle cx="180" cy="240" r="7" fill="#0b2f4a"/>
+<text x="202" y="238" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Draw it to every tap</text>
+<text x="202" y="257" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Run each tap until it smells of chlorine</text>
+<text x="30" y="305" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">Hours 2–24</text>
+<circle cx="180" cy="300" r="7" fill="#0b2f4a"/>
+<text x="202" y="298" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Contact time</text>
+<text x="202" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">No water use (Virginia Tech: 12 to 24 hours)</text>
+<text x="30" y="365" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">Flush</text>
+<circle cx="180" cy="360" r="7" fill="#0b2f4a"/>
+<text x="202" y="358" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Outdoor taps first, then indoor</text>
+<text x="202" y="377" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Keep it off plants and out of the septic</text>
+<text x="30" y="425" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">Test</text>
+<circle cx="180" cy="420" r="7" fill="#15803d"/>
+<text x="202" y="418" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Free chlorine zero, water clear</text>
+<text x="202" y="437" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">At the tap nearest the softener</text>
+<text x="30" y="485" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">Return</text>
+<circle cx="180" cy="480" r="7" fill="#0b2f4a"/>
+<text x="202" y="478" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Open slowly, sanitize, regenerate</text>
+<text x="202" y="497" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Manufacturer's dose, then a manual regen</text>
+<text x="30" y="545" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">1–2 weeks</text>
+<circle cx="180" cy="540" r="7" fill="#0b2f4a"/>
+<text x="202" y="538" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Coliform retest</text>
+<text x="202" y="557" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Drink the water only after a clean result</text>
+<rect class="box" x="600" y="98" width="130" height="346" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="665" y="262" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="665" y="284" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#dc2626">BYPASSED</text>
+<rect class="box" x="600" y="454" width="130" height="110" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="665" y="502" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="665" y="524" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#15803d">IN SERVICE</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" width="760" height="570" role="img" aria-labelledby="wcc-title wcc-desc">
+<title id="wcc-title">Causes of well water chemistry changes: recharge, drought, pumping, new wells, casing damage and land use</title>
+<desc id="wcc-desc">Cross-section of a private well showing six causes of well water chemistry change: heavy rain recharge, a drought-lowered water table, a pumping cone of depression, a new well nearby, a cracked casing letting surface water in, and road salt or septic seepage.</desc>
+<defs><marker id="wcc-mc2410c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="wcc-m0e7490" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="wcc-m0b2f4a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="wcc-mdc2626" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="wcc-m15803d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="wcc-m52697a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="wcc-m78716c" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="wcc-mb45309" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="wcc-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="570" fill="#ffffff"/>
+<text x="30" y="36" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Six reasons private well water chemistry changes</text>
+<text x="30" y="58" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Cross-section of a well and the ground around it (not to scale)</text>
+<rect x="30" y="180" width="450" height="330" fill="#f5efe3"/>
+<line x1="30" y1="180" x2="480" y2="180" stroke="#b45309" stroke-width="2"/>
+<rect x="50" y="140" width="66" height="40" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path d="M44,140 L83,112 L122,140 Z" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M370,100 L370,164" fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wcc-m0e7490)"/>
+<path class="ln" d="M392,100 L392,164" fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wcc-m0e7490)"/>
+<path class="ln" d="M414,100 L414,164" fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wcc-m0e7490)"/>
+<rect x="192" y="160" width="16" height="262" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<line x1="196" y1="422" x2="196" y2="500" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="4 4"/>
+<line x1="204" y1="422" x2="204" y2="500" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="193" y="470" width="14" height="20" fill="#0b2f4a"/>
+<text x="186" y="156" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">your well</text>
+<path d="M208,200 L216,205 L210,210 L218,215" fill="none" stroke="#dc2626" stroke-width="2.5"/>
+<path class="ln" d="M250,186 L224,206" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wcc-mdc2626)"/>
+<rect x="322" y="162" width="12" height="238" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="316" y="156" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">new well</text>
+<rect x="424" y="172" width="56" height="8" fill="#0b2f4a"/>
+<path class="ln" d="M446,190 L396,280" fill="none" stroke="#78716c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 5" marker-end="url(#wcc-m78716c)"/>
+<text x="452" y="164" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">road</text>
+<path class="ln" d="M30,250 L480,250" fill="none" stroke="#0e7490" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6"/>
+<text x="36" y="242" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#0e7490">normal water table</text>
+<path class="ln" d="M30,320 L130,320 C160,320 180,384 200,384 C220,384 240,320 270,320 L480,320" fill="none" stroke="#c2410c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6"/>
+<text x="478" y="312" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#c2410c">drought water table</text>
+<circle cx="440" cy="124" r="12" fill="#0b2f4a"/>
+<text x="440" y="128.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<circle cx="62" cy="346" r="12" fill="#0b2f4a"/>
+<text x="62" y="350.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<circle cx="240" cy="404" r="12" fill="#0b2f4a"/>
+<text x="240" y="408.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<circle cx="360" cy="206" r="12" fill="#0b2f4a"/>
+<text x="360" y="210.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<circle cx="270" cy="214" r="12" fill="#0b2f4a"/>
+<text x="270" y="218.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<circle cx="456" cy="212" r="12" fill="#0b2f4a"/>
+<text x="456" y="216.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">6</text>
+<circle cx="514" cy="99" r="12" fill="#0b2f4a"/>
+<text x="514" y="103.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="536" y="104" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Heavy rain and snowmelt:</text>
+<text x="536" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">dilutes, lowers pH, can</text>
+<text x="536" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">carry surface water in</text>
+<circle cx="514" cy="169" r="12" fill="#0b2f4a"/>
+<text x="514" y="173.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<text x="536" y="174" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Drought lowers the water</text>
+<text x="536" y="192" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">table: older, more mineral</text>
+<text x="536" y="210" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">water, higher arsenic risk</text>
+<circle cx="514" cy="239" r="12" fill="#0b2f4a"/>
+<text x="514" y="243.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<text x="536" y="244" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Heavy pumping draws a</text>
+<text x="536" y="262" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">cone from a wider zone</text>
+<circle cx="514" cy="291" r="12" fill="#0b2f4a"/>
+<text x="514" y="295.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<text x="536" y="296" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">A new well or drilling</text>
+<text x="536" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">nearby shifts flow paths</text>
+<circle cx="514" cy="343" r="12" fill="#0b2f4a"/>
+<text x="514" y="347.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<text x="536" y="348" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Cracked casing or cap lets</text>
+<text x="536" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">surface water skip the soil</text>
+<circle cx="514" cy="395" r="12" fill="#0b2f4a"/>
+<text x="514" y="399.68" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">6</text>
+<text x="536" y="400" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Road salt, septic, farms:</text>
+<text x="536" y="418" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">slow rise in sodium,</text>
+<text x="536" y="436" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">chloride and nitrate</text>
+<text x="30" y="546" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Causes 1 to 3 swing with the seasons. Causes 4 to 6 usually change the water for good.</text>
+</svg>

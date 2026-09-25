@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="tnl-title tnl-desc">
+<title id="tnl-title">Can a water softener remove tannins? Where the tannin unit goes relative to the softener</title>
+<desc id="tnl-desc">Three layouts for a softener and an anion tannin unit: softener first then tannin unit, which protects the anion resin; tannin unit first, where hardness and iron foul it; and a single mixed-bed tank, which works only inside tighter limits on iron, hardness and alkalinity.</desc>
+<defs><marker id="tnl-steel" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="tnl-bad" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="tnl-ok" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="tnl-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="tnl-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="tnl-ink" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="tnl-iron" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="tnl-muted" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Where the tannin unit goes, and why</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Same well water in each case: hard, with tannins and a little iron</text>
+<rect class="box" x="30" y="92" width="700" height="142" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="120" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#15803d">A  Softener, then tannin unit</text>
+<text x="46" y="176" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">Well</text>
+<text x="46" y="194" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">water</text>
+<path class="ln" d="M92,179 L130,179" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tnl-hard)"/>
+<rect class="box" x="138" y="144" width="96" height="70" rx="12" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<text x="186" y="174" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="186" y="194" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">cation resin</text>
+<path class="ln" d="M236,179 L264,179" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tnl-soft)"/>
+<rect class="box" x="272" y="144" width="96" height="70" rx="12" fill="#f3e8dc" stroke="#3a5a72" stroke-width="2"/>
+<text x="320" y="174" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Tannin unit</text>
+<text x="320" y="194" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">anion resin</text>
+<path class="ln" d="M370,179 L398,179" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tnl-soft)"/>
+<text x="412" y="184" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">House</text>
+<text x="484" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Recommended. Hardness and</text>
+<text x="484" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">iron are gone before water</text>
+<text x="484" y="202" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">reaches the anion resin.</text>
+<rect class="box" x="30" y="250" width="700" height="142" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="278" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#dc2626">B  Tannin unit, then softener</text>
+<text x="46" y="334" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">Well</text>
+<text x="46" y="352" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">water</text>
+<path class="ln" d="M92,337 L130,337" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tnl-hard)"/>
+<rect class="box" x="138" y="302" width="96" height="70" rx="12" fill="#f3e8dc" stroke="#3a5a72" stroke-width="2"/>
+<text x="186" y="332" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Tannin unit</text>
+<text x="186" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">anion resin</text>
+<path class="ln" d="M236,337 L264,337" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tnl-hard)"/>
+<rect class="box" x="272" y="302" width="96" height="70" rx="12" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<text x="320" y="332" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="320" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">cation resin</text>
+<path class="ln" d="M370,337 L398,337" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tnl-soft)"/>
+<text x="412" y="342" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">House</text>
+<text x="484" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hardness over about 10 gpg</text>
+<text x="484" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">can coat the anion resin with</text>
+<text x="484" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">scale; iron fouls it too.</text>
+<rect class="box" x="30" y="408" width="700" height="142" rx="8" fill="#fff7ed" stroke="#b45309" stroke-width="2"/>
+<text x="46" y="436" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#b45309">C  One mixed-bed tank</text>
+<text x="46" y="492" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">Well</text>
+<text x="46" y="510" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">water</text>
+<path class="ln" d="M92,495 L130,495" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tnl-hard)"/>
+<rect class="box" x="138" y="460" width="96" height="70" rx="12" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="186" y="490" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Mixed bed</text>
+<text x="186" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">both resins</text>
+<path class="ln" d="M236,495 L264,495" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#tnl-soft)"/>
+<text x="278" y="500" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">House</text>
+<text x="484" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Saves space. One supplier’s</text>
+<text x="484" y="498" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">limits: iron 3 ppm, hardness</text>
+<text x="484" y="518" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">15 gpg, alkalinity 250 ppm.</text>
+<text x="30" y="580" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Limits in C are from one anion resin supplier’s published guidance; check your own system’s manual.</text>
+</svg>
