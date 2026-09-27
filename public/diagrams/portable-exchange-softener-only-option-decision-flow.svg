@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="g7po-title g7po-desc">
+<title id="g7po-title">When a portable exchange water softener is the only option</title>
+<desc id="g7po-desc">Decision flow for choosing a portable exchange water softener or an installed softener: a lease that forbids plumbing changes, a local brine discharge ban, no reachable drain, or a stay shorter than the break-even point each lead to exchange service; otherwise an installed softener costs less.</desc>
+<defs>
+<marker id="g7po-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Is exchange service your only option?</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Work down the questions. The first "yes" decides it, whatever the cost.</text>
+<rect class="box" x="30" y="96" width="420" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="121" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Does the lease, HOA or condo board</text>
+<text x="46" y="142" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">forbid permanent plumbing changes?</text>
+<rect class="box" x="30" y="196" width="420" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="221" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Does a local rule ban softeners that</text>
+<text x="46" y="242" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">discharge brine to the sewer or septic?</text>
+<rect class="box" x="30" y="296" width="420" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="321" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Is every legal drain out of reach</text>
+<text x="46" y="342" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">of where the main line enters?</text>
+<rect class="box" x="30" y="396" width="420" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="421" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4. Will you move out before the</text>
+<text x="46" y="442" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">break-even year for your household?</text>
+<rect class="box" x="30" y="494" width="420" height="50" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="524" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Buy an installed softener: cheaper over time</text>
+<path class="ln" d="M456,125 L538,125" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7po-a)"/>
+<path class="ln" d="M456,225 L538,225" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7po-a)"/>
+<path class="ln" d="M456,325 L538,325" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7po-a)"/>
+<path class="ln" d="M456,425 L538,425" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7po-a)"/>
+<text x="480" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Yes</text>
+<text x="480" y="213" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Yes</text>
+<text x="480" y="313" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Yes</text>
+<text x="480" y="413" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Yes</text>
+<path class="ln" d="M240,158 L240,188" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7po-a)"/>
+<path class="ln" d="M240,258 L240,288" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7po-a)"/>
+<path class="ln" d="M240,358 L240,388" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7po-a)"/>
+<path class="ln" d="M240,458 L240,486" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7po-a)"/>
+<text x="256" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<text x="256" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<text x="256" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<text x="256" y="477" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="548" y="96" width="182" height="58" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="560" y="121" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Exchange service</text>
+<text x="560" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">reversible hookup</text>
+<rect class="box" x="548" y="196" width="182" height="58" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="560" y="221" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Exchange service</text>
+<text x="560" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">brine handled off-site</text>
+<rect class="box" x="548" y="296" width="182" height="58" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="560" y="321" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Exchange, or price</text>
+<text x="560" y="342" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">a drain pump first</text>
+<rect class="box" x="548" y="396" width="182" height="58" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="560" y="421" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Exchange service</text>
+<text x="560" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">short stay costs less</text>
+</svg>

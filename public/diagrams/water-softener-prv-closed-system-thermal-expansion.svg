@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="pte-title pte-desc">
+<title id="pte-title">Pressure-reducing valve, water softener and thermal expansion on a closed system</title>
+<desc id="pte-desc">A pressure-reducing valve ahead of a water softener closes the plumbing system, so water expanding in the water heater cannot push back to the main. An expansion tank on the cold supply downstream of the PRV absorbs the expansion; without it, pressure spikes reach the softener and the heater relief valve drips.</desc>
+<defs>
+<pattern id="pte-resin" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern>
+<marker id="pte-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="pte-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+</defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">A PRV fixes high pressure, then traps expansion</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Once water cannot flow back to the main, heated water has only one outlet: an expansion tank.</text>
+<text x="30" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Main</text>
+<path class="ln" d="M30,180 L80,180" fill="none" stroke="#c2410c" stroke-width="6"/>
+<rect class="box" x="80" y="162" width="62" height="36" rx="5" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="111" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Meter</text>
+<path class="ln" d="M142,180 L200,180" fill="none" stroke="#c2410c" stroke-width="6"/>
+<rect class="box" x="200" y="156" width="84" height="48" rx="6" fill="#0b2f4a"/>
+<text x="242" y="185" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">PRV</text>
+<path class="ln" d="M284,180 L354,180" fill="none" stroke="#c2410c" stroke-width="6" marker-end="url(#pte-h)"/>
+<rect x="358" y="160" width="64" height="40" rx="6" fill="#0b2f4a"/>
+<rect x="370" y="200" width="40" height="100" rx="10" fill="url(#pte-resin)" stroke="#3a5a72" stroke-width="2"/>
+<text x="390" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Softener</text>
+<path class="ln" d="M422,180 L580,180 L580,216" fill="none" stroke="#0e7490" stroke-width="6" stroke-linejoin="round" marker-end="url(#pte-s)"/>
+<path class="ln" d="M500,180 L500,136" fill="none" stroke="#0e7490" stroke-width="6"/>
+<rect x="478" y="90" width="44" height="46" rx="14" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<text x="534" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">Expansion tank</text>
+<text x="534" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">downstream of the PRV</text>
+<rect x="556" y="224" width="88" height="116" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="600" y="276" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water</text>
+<text x="600" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">heater</text>
+<path class="ln" d="M624,224 L624,196 L716,196" fill="none" stroke="#0e7490" stroke-width="6" stroke-linejoin="round" marker-end="url(#pte-s)"/>
+<text x="722" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">Hot to house</text>
+<path class="ln" d="M644,248 L664,248" fill="none" stroke="#3a5a72" stroke-width="4"/>
+<text x="672" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">T&amp;P valve</text>
+<text x="672" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">drips if no</text>
+<text x="672" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">tank or tank</text>
+<text x="672" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">has failed</text>
+<path class="ln" d="M242,204 L242,372" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M600,340 L600,372" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<rect class="box" x="30" y="372" width="340" height="104" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="46" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">The PRV closes the system</text>
+<text x="46" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Water cannot push back past it to the main. A</text>
+<text x="46" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">check valve or backflow device does the same.</text>
+<text x="46" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">IRC P2903.4 calls for expansion control here.</text>
+<rect class="box" x="390" y="372" width="340" height="104" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="406" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Heating expands the stored water</text>
+<text x="406" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">With no tank to take it, pressure climbs in the</text>
+<text x="406" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">whole closed system, softener included, until</text>
+<text x="406" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">a tap opens or the relief valve lifts.</text>
+<rect x="30" y="494" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="64" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">untreated</text>
+<rect x="160" y="494" width="26" height="6" rx="3" fill="#0e7490"/>
+<text x="194" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">softened</text>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 510" width="760" height="510" role="img" aria-labelledby="fp-title fp-desc">
+<title id="fp-title">Water softener floor footprints: side by side, cabinet and alcove layouts</title>
+<desc id="fp-desc">Top-down plan of three water softener layouts drawn to one scale: a two-tank softener side by side needing 30 by 24 inches, a cabinet softener needing 14 by 27 inches, and a two-tank softener in line in a 20 inch alcove, each with a 24 inch access zone in front.</desc>
+<defs>
+<marker id="fp-dim" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#52697a"/></marker>
+</defs>
+<rect width="760" height="510" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Floor plans: three ways to fit a water softener</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Top-down view, one scale (1 in = 4 px). The wall is at the top of each plan.</text>
+<line x1="60" y1="106" x2="220" y2="106" stroke="#0b2f4a" stroke-width="6"/>
+<rect x="80" y="110" width="120" height="24" fill="#e2e8f0"/>
+<circle cx="100" cy="154" r="20" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="164" cy="170" r="36" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="100" y="158" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#0b2f4a">media</text>
+<text x="164" y="175" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">brine</text>
+<rect class="box" x="80" y="212" width="120" height="96" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="140" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Access</text>
+<text x="140" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0e7490">24 in</text>
+<line class="ln" x1="84" y1="372" x2="196" y2="372" stroke="#52697a" stroke-width="1.5" marker-start="url(#fp-dim)" marker-end="url(#fp-dim)"/>
+<text x="140" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">30 in</text>
+<text x="140" y="424" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Side by side</text>
+<text x="140" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">30 x 24 in + 24 in front</text>
+<text x="140" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">easiest to service</text>
+<line x1="310" y1="106" x2="470" y2="106" stroke="#0b2f4a" stroke-width="6"/>
+<rect x="362" y="110" width="56" height="24" fill="#e2e8f0"/>
+<rect class="box" x="362" y="134" width="56" height="82" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<text x="390" y="180" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#0b2f4a">cabinet</text>
+<rect class="box" x="346" y="220" width="88" height="96" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="390" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Access</text>
+<text x="390" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0e7490">24 in</text>
+<line class="ln" x1="366" y1="372" x2="414" y2="372" stroke="#52697a" stroke-width="1.5" marker-start="url(#fp-dim)" marker-end="url(#fp-dim)"/>
+<text x="390" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">14 in</text>
+<text x="390" y="424" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Cabinet</text>
+<text x="390" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">14 x 27 in + 24 in front</text>
+<text x="390" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">smallest footprint</text>
+<line x1="584" y1="106" x2="676" y2="106" stroke="#0b2f4a" stroke-width="6"/>
+<line x1="587" y1="106" x2="587" y2="250" stroke="#0b2f4a" stroke-width="6"/>
+<line x1="673" y1="106" x2="673" y2="250" stroke="#0b2f4a" stroke-width="6"/>
+<rect x="592" y="110" width="76" height="24" fill="#e2e8f0"/>
+<circle cx="630" cy="154" r="20" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<circle cx="630" cy="212" r="36" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="630" y="158" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#0b2f4a">media</text>
+<text x="630" y="217" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">brine</text>
+<rect class="box" x="592" y="254" width="76" height="96" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="630" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Access</text>
+<text x="630" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0e7490">24 in</text>
+<line class="ln" x1="594" y1="372" x2="666" y2="372" stroke="#52697a" stroke-width="1.5" marker-start="url(#fp-dim)" marker-end="url(#fp-dim)"/>
+<text x="630" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">20 in</text>
+<text x="630" y="424" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">In a 20 in alcove</text>
+<text x="630" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">20 x 34.5 in + 24 in front</text>
+<text x="630" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626">valve reached from above</text>
+<rect x="30" y="482" width="26" height="12" fill="#e2e8f0"/>
+<text x="64" y="493" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">6 in behind for bypass and plumbing</text>
+<rect x="330" y="482" width="26" height="12" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="364" y="493" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">recommended access zone, can overlap a walkway</text>
+</svg>

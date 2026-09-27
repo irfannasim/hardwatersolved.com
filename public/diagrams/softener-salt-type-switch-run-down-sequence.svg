@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="sts-title sts-desc">
+<title id="sts-title">Switching water softener salt types: the run-down sequence</title>
+<desc id="sts-desc">Four brine tank panels for changing softener salt type: run the old salt down to a few inches above the water, check and clean floor residue, add the new type to no more than two thirds full, then change the valve setting and test the softened water. Pouring a new grade onto a full tank of the old one is shown as the thing to avoid.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Changing salt type: run down, never layer</text>
+<text x="30" y="60" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Same brine tank at each step. Only the salt changes.</text>
+<rect class="box" x="30" y="74" width="160" height="330" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.2"/>
+<text x="42" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Run it down</text>
+<rect x="65" y="140" width="90" height="180" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="67" y="284" width="86" height="34" fill="#d6d3d1"/>
+<path class="ln" d="M67,300 L153,300" stroke="#0e7490" stroke-width="2" stroke-dasharray="5 3" fill="none"/>
+<text x="42" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Use up the old salt</text>
+<text x="42" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">until only a few</text>
+<text x="42" y="382" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">inches remain</text>
+<rect class="box" x="210" y="74" width="160" height="330" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.2"/>
+<text x="222" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Check the floor</text>
+<rect x="245" y="140" width="90" height="180" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="247" y="288" width="86" height="22" fill="#d6d3d1"/>
+<rect x="247" y="310" width="86" height="8" fill="#78716c"/>
+<path class="ln" d="M247,300 L333,300" stroke="#0e7490" stroke-width="2" stroke-dasharray="5 3" fill="none"/>
+<text x="222" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Residue over an inch?</text>
+<text x="222" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Clean the tank now,</text>
+<text x="222" y="382" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">while it is nearly empty</text>
+<rect class="box" x="390" y="74" width="160" height="330" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.2"/>
+<text x="402" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Add the new type</text>
+<rect x="425" y="140" width="90" height="180" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="427" y="304" width="86" height="14" fill="#d6d3d1"/>
+<rect x="427" y="200" width="86" height="104" fill="#cffafe"/>
+<path class="ln" d="M427,300 L513,300" stroke="#0e7490" stroke-width="2" stroke-dasharray="5 3" fill="none"/>
+<path class="ln" d="M427,200 L513,200" stroke="#52697a" stroke-width="1.5" stroke-dasharray="3 3" fill="none"/>
+<text x="520" y="205" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">2/3</text>
+<text x="402" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Pour it onto the few</text>
+<text x="402" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">inches left, and stop</text>
+<text x="402" y="382" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">at two thirds full</text>
+<rect class="box" x="570" y="74" width="160" height="330" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.2"/>
+<text x="582" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4. Reset and test</text>
+<rect x="605" y="140" width="90" height="180" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="607" y="304" width="86" height="14" fill="#d6d3d1"/>
+<rect x="607" y="200" width="86" height="104" fill="#cffafe"/>
+<path class="ln" d="M607,300 L693,300" stroke="#0e7490" stroke-width="2" stroke-dasharray="5 3" fill="none"/>
+<text x="582" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Potassium: raise the</text>
+<text x="582" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">hardness 12 to 20%.</text>
+<text x="582" y="382" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Test after one cycle</text>
+<rect class="box" x="30" y="420" width="700" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="44" y="442" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Never layer a new grade onto a full tank of the old one.</text>
+<text x="44" y="461" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The layers dissolve and settle differently, which invites bridging and mushing.</text>
+<rect x="30" y="490" width="14" height="14" fill="#d6d3d1"/>
+<text x="52" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">old salt</text>
+<rect x="130" y="490" width="14" height="14" fill="#cffafe" stroke="#0e7490" stroke-width="1"/>
+<text x="152" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">new salt</text>
+<rect x="232" y="490" width="14" height="14" fill="#78716c"/>
+<text x="254" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">floor residue</text>
+<path class="ln" d="M362,497 L392,497" stroke="#0e7490" stroke-width="2" stroke-dasharray="5 3" fill="none"/>
+<text x="400" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">water line</text>
+</svg>

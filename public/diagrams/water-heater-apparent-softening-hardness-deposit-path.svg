@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 510" width="760" height="510" role="img" aria-labelledby="whs-title whs-desc">
+<title id="whs-title">Why a water heater seems to soften water: the hardness stays inside as scale</title>
+<desc id="whs-desc">Cross-section of a storage water heater. Cold water enters at 17.5 gpg and hot water leaves at 14 gpg. The missing 3.5 grains per gallon stay behind as scale on the heating element and flakes on the tank bottom, about half a pound per 1,000 gallons.</desc>
+<defs><marker id="whs-ah" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker></defs>
+<rect width="760" height="510" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">The water heater does not soften water. It keeps the scale.</text>
+<text x="30" y="76" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">Cold in: 17.5 gpg</text>
+<text x="730" y="76" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">Hot out: 14 gpg</text>
+<rect x="300" y="120" width="160" height="300" rx="14" fill="#dbeafe" stroke="#3a5a72" stroke-width="3"/>
+<rect x="303" y="394" width="154" height="23" fill="#f3d2c1"/>
+<g fill="#c2410c"><ellipse cx="330" cy="391" rx="8" ry="3"/><ellipse cx="372" cy="390" rx="6" ry="3"/><ellipse cx="420" cy="391" rx="9" ry="3"/></g>
+<rect x="356" y="296" width="104" height="20" rx="4" fill="#f3d2c1" stroke="#c2410c" stroke-width="1.5"/>
+<rect x="362" y="301" width="98" height="10" fill="#3a5a72"/>
+<polyline class="ln" points="60,100 330,100 330,352" fill="none" stroke="#c2410c" stroke-width="6" marker-end="url(#whs-ah)"/>
+<polyline class="ln" points="420,150 420,100 690,100" fill="none" stroke="#c2410c" stroke-width="6" marker-end="url(#whs-ah)"/>
+<line class="ln" x1="468" y1="306" x2="512" y2="306" stroke="#52697a" stroke-width="1.5"/>
+<text x="520" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Scale coats the</text>
+<text x="520" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">heating element</text>
+<line class="ln" x1="468" y1="405" x2="512" y2="405" stroke="#52697a" stroke-width="1.5"/>
+<text x="520" y="401" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Flakes settle on</text>
+<text x="520" y="419" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">the tank bottom</text>
+<rect class="box" x="30" y="170" width="230" height="100" rx="6" fill="#fdeee6" stroke="#c2410c" stroke-width="1.5"/>
+<text x="145" y="198" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Cold tap: 17.5 gpg</text>
+<text x="145" y="220" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Hot tap: 14 gpg</text>
+<text x="145" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">Gap = scale, not softening</text>
+<rect class="box" x="500" y="150" width="230" height="100" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="615" y="178" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3.5 gpg stays behind</text>
+<text x="615" y="202" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">3,500 grains per 1,000 gal</text>
+<text x="615" y="226" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">= 0.5 lb of scale</text>
+<text x="30" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative example from the article. 7,000 grains = 1 lb.</text>
+<text x="30" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">At 22,000–25,000 gal of hot water a year, that is about 11–12 lb of scale in the heater.</text>
+</svg>

@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="rfs-title rfs-desc">
+<title id="rfs-title">How water softener regeneration works: the five stages and their flow paths</title>
+<desc id="rfs-desc">The same water softener drawn five times, once for each regeneration stage: backwash up through the resin to drain, brine draw down through the resin, slow rinse, fast rinse, and brine tank refill, with what an owner can hear and see at each stage.</desc>
+<defs>
+<pattern id="rfs-resin" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern>
+<marker id="rfs-ink" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+<marker id="rfs-br" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker>
+<marker id="rfs-dr" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+</defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Five stages, one softener: where the water goes</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Downflow order shown. Many valves refill last; some pre-fill the salt tank before the cycle starts.</text>
+<rect class="box" x="30" y="84" width="132" height="360" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<circle cx="48" cy="108" r="12" fill="#0b2f4a"/><text x="48" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="66" y="113" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Backwash</text>
+<rect x="72" y="160" width="36" height="140" rx="10" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="74" y="184" width="32" height="114" rx="8" fill="url(#rfs-resin)"/>
+<rect x="126" y="246" width="30" height="54" fill="#dbeafe"/>
+<rect x="126" y="220" width="30" height="80" rx="3" fill="none" stroke="#3a5a72" stroke-width="2"/>
+<path d="M36,196 L56,196 L50,206 L42,206 z" fill="#78716c"/>
+<path class="ln" d="M66,150 L46,150 L46,186" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round" marker-end="url(#rfs-dr)"/>
+<path class="ln" d="M114,150 L141,150 L141,236" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-linejoin="round"/>
+<rect x="66" y="138" width="48" height="22" rx="4" fill="#0b2f4a"/>
+<path class="ln" d="M90,290 L90,196" fill="none" stroke="#0b2f4a" stroke-width="5" marker-end="url(#rfs-ink)"/>
+<text x="40" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Up through the</text>
+<text x="40" y="351" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">bed to drain.</text>
+<text x="40" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hear: strong</text>
+<text x="40" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">rush at drain.</text>
+<text x="40" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">See: cloudy,</text>
+<text x="40" y="427" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">then clearing.</text>
+<rect class="box" x="172" y="84" width="132" height="360" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<circle cx="190" cy="108" r="12" fill="#0b2f4a"/><text x="190" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<text x="208" y="113" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Brine draw</text>
+<rect x="214" y="160" width="36" height="140" rx="10" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="216" y="184" width="32" height="114" rx="8" fill="url(#rfs-resin)"/>
+<rect x="268" y="282" width="30" height="18" fill="#dbeafe"/>
+<rect x="268" y="220" width="30" height="80" rx="3" fill="none" stroke="#3a5a72" stroke-width="2"/>
+<path d="M178,196 L198,196 L192,206 L184,206 z" fill="#78716c"/>
+<path class="ln" d="M208,150 L188,150 L188,186" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round" marker-end="url(#rfs-dr)"/>
+<path class="ln" d="M283,236 L283,150 L262,150" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linejoin="round" marker-end="url(#rfs-br)"/>
+<rect x="208" y="138" width="48" height="22" rx="4" fill="#0b2f4a"/>
+<path class="ln" d="M232,190 L232,284" fill="none" stroke="#7c3aed" stroke-width="5" marker-end="url(#rfs-br)"/>
+<text x="182" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Brine pulled</text>
+<text x="182" y="351" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">down through</text>
+<text x="182" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the resin.</text>
+<text x="182" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hear: quiet</text>
+<text x="182" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">hiss or hum.</text>
+<text x="182" y="427" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">See: level falls.</text>
+<rect class="box" x="314" y="84" width="132" height="360" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<circle cx="332" cy="108" r="12" fill="#0b2f4a"/><text x="332" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<text x="350" y="113" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Slow rinse</text>
+<rect x="356" y="160" width="36" height="140" rx="10" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="358" y="184" width="32" height="114" rx="8" fill="url(#rfs-resin)"/>
+<rect x="410" y="282" width="30" height="18" fill="#dbeafe"/>
+<rect x="410" y="220" width="30" height="80" rx="3" fill="none" stroke="#3a5a72" stroke-width="2"/>
+<path d="M320,196 L340,196 L334,206 L326,206 z" fill="#78716c"/>
+<path class="ln" d="M350,150 L330,150 L330,186" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round" marker-end="url(#rfs-dr)"/>
+<path class="ln" d="M398,150 L425,150 L425,236" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-linejoin="round"/>
+<rect x="350" y="138" width="48" height="22" rx="4" fill="#0b2f4a"/>
+<path class="ln" d="M374,190 L374,284" fill="none" stroke="#0b2f4a" stroke-width="5" marker-end="url(#rfs-ink)"/>
+<text x="324" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Same path, no</text>
+<text x="324" y="351" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">brine. Pushes</text>
+<text x="324" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">it through.</text>
+<text x="324" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hear: faint</text>
+<text x="324" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">trickle.</text>
+<text x="324" y="427" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">See: level still.</text>
+<rect class="box" x="456" y="84" width="132" height="360" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<circle cx="474" cy="108" r="12" fill="#0b2f4a"/><text x="474" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<text x="492" y="113" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Fast rinse</text>
+<rect x="498" y="160" width="36" height="140" rx="10" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="500" y="184" width="32" height="114" rx="8" fill="url(#rfs-resin)"/>
+<rect x="552" y="282" width="30" height="18" fill="#dbeafe"/>
+<rect x="552" y="220" width="30" height="80" rx="3" fill="none" stroke="#3a5a72" stroke-width="2"/>
+<path d="M462,196 L482,196 L476,206 L468,206 z" fill="#78716c"/>
+<path class="ln" d="M492,150 L472,150 L472,186" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round" marker-end="url(#rfs-dr)"/>
+<path class="ln" d="M540,150 L567,150 L567,236" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-linejoin="round"/>
+<rect x="492" y="138" width="48" height="22" rx="4" fill="#0b2f4a"/>
+<path class="ln" d="M516,190 L516,284" fill="none" stroke="#0b2f4a" stroke-width="8" marker-end="url(#rfs-ink)"/>
+<text x="466" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Fast flow down</text>
+<text x="466" y="351" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">packs the bed.</text>
+<text x="466" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hear: rush</text>
+<text x="466" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">returns.</text>
+<text x="466" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">See: drain runs</text>
+<text x="466" y="427" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">clear.</text>
+<rect class="box" x="598" y="84" width="132" height="360" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<circle cx="616" cy="108" r="12" fill="#0b2f4a"/><text x="616" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<text x="634" y="113" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Refill</text>
+<rect x="640" y="160" width="36" height="140" rx="10" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="642" y="184" width="32" height="114" rx="8" fill="url(#rfs-resin)"/>
+<rect x="694" y="258" width="30" height="42" fill="#dbeafe"/>
+<rect x="694" y="220" width="30" height="80" rx="3" fill="none" stroke="#3a5a72" stroke-width="2"/>
+<path d="M604,196 L624,196 L618,206 L610,206 z" fill="#78716c"/>
+<path class="ln" d="M634,150 L614,150 L614,190" fill="none" stroke="#cbd5e1" stroke-width="5" stroke-linejoin="round"/>
+<path class="ln" d="M682,150 L709,150 L709,232" fill="none" stroke="#0b2f4a" stroke-width="5" stroke-linejoin="round" marker-end="url(#rfs-ink)"/>
+<rect x="634" y="138" width="48" height="22" rx="4" fill="#0b2f4a"/>
+<text x="608" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Soft water into</text>
+<text x="608" y="351" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the salt tank.</text>
+<text x="608" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hear: gentle</text>
+<text x="608" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">flow in the</text>
+<text x="608" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">salt tank.</text>
+<text x="608" y="427" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">See: level rises.</text>
+<rect x="30" y="470" width="26" height="6" rx="3" fill="#0b2f4a"/><text x="64" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">water flow</text>
+<rect x="180" y="470" width="26" height="6" rx="3" fill="#7c3aed"/><text x="214" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">brine</text>
+<rect x="330" y="470" width="26" height="6" rx="3" fill="#78716c"/><text x="364" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">to drain</text>
+<rect x="480" y="470" width="26" height="6" rx="3" fill="#cbd5e1"/><text x="514" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">idle line</text>
+<text x="30" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Left funnel = drain. Right tank = salt (brine) tank. Beaded column = resin bed in the mineral tank.</text>
+</svg>

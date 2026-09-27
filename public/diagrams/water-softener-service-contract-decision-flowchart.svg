@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="g17fc-title g17fc-desc">
+<title id="g17fc-title">Decision flowchart: is a water softener service contract worth it</title>
+<desc id="g17fc-desc">Four questions decide whether a water softener service contract is worth it: a warranty that requires professional service, a multi-stage well treatment system, an owner unable to do the monthly and annual tasks, and a contract that genuinely covers valve and resin repairs. Otherwise it is not worth it.</desc>
+<defs><marker id="g17fc-a" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Is a water softener service contract worth it for you?</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Work down the questions; the first one that sends you right decides</text>
+<rect class="box" x="30" y="96" width="380" height="66" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Does your warranty require</text>
+<text x="46" y="144" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">documented professional service?</text>
+<path class="ln" d="M410,129 L474,129" fill="none" stroke="#0b2f4a" stroke-width="3" marker-end="url(#g17fc-a)"/>
+<text x="445" y="119" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<rect class="box" x="480" y="90" width="250" height="78" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="494" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">Read the clause first</text>
+<text x="494" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">A required brand of service must</text>
+<text x="494" y="154" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">be free, or it is a tie-in</text>
+<path class="ln" d="M90,162 L90,200" fill="none" stroke="#0b2f4a" stroke-width="3" marker-end="url(#g17fc-a)"/>
+<text x="102" y="189" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+<rect class="box" x="30" y="206" width="380" height="66" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="234" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Is there more than a softener: iron</text>
+<text x="46" y="254" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">filter, neutralizer, chlorinator or UV?</text>
+<path class="ln" d="M410,239 L474,239" fill="none" stroke="#0b2f4a" stroke-width="3" marker-end="url(#g17fc-a)"/>
+<text x="445" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<rect class="box" x="480" y="200" width="250" height="78" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="494" y="224" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#15803d">Often worth it</text>
+<text x="494" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">More stages, media and lamps</text>
+<text x="494" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">than most owners track</text>
+<path class="ln" d="M90,272 L90,310" fill="none" stroke="#0b2f4a" stroke-width="3" marker-end="url(#g17fc-a)"/>
+<text x="102" y="299" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+<rect class="box" x="30" y="316" width="380" height="66" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="344" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Can you manage 5 minutes a month</text>
+<text x="46" y="364" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">and about 1 hour a year yourself?</text>
+<path class="ln" d="M410,349 L474,349" fill="none" stroke="#0b2f4a" stroke-width="3" marker-end="url(#g17fc-a)"/>
+<text x="445" y="339" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">No</text>
+<rect class="box" x="480" y="310" width="250" height="78" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="494" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#15803d">Worth it</text>
+<text x="494" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">You are paying for labour</text>
+<text x="494" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">you cannot do yourself</text>
+<path class="ln" d="M90,382 L90,420" fill="none" stroke="#0b2f4a" stroke-width="3" marker-end="url(#g17fc-a)"/>
+<text x="102" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Yes</text>
+<rect class="box" x="30" y="426" width="380" height="66" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="454" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Does it cover valve and resin parts</text>
+<text x="46" y="474" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">and labour, with no iron or chlorine exclusions?</text>
+<path class="ln" d="M410,459 L474,459" fill="none" stroke="#0b2f4a" stroke-width="3" marker-end="url(#g17fc-a)"/>
+<text x="445" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<rect class="box" x="480" y="420" width="250" height="78" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="494" y="444" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">Possibly worth it</text>
+<text x="494" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Compare the yearly price with</text>
+<text x="494" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the repairs it would cover</text>
+<path class="ln" d="M90,492 L90,534" fill="none" stroke="#0b2f4a" stroke-width="3" marker-end="url(#g17fc-a)"/>
+<text x="102" y="519" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+<rect class="box" x="30" y="540" width="700" height="66" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="566" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Not worth it for most households</text>
+<text x="46" y="588" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">It pays someone for tasks you can do yourself. Follow a DIY schedule and keep a log instead.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="nd-title nd-desc">
+<title id="nd-title">Water softener with no drain or outlet nearby: decision matrix</title>
+<desc id="nd-desc">Two-by-two matrix for a water softener with no drain nearby or no outlet: with drain and power use a standard install or longer drain line, with a drain but no outlet use a non-electric valve or add an outlet, with an outlet but no drain use a drain pump with a basin, and with neither use portable exchange tanks.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">No drain or no outlet: which fix fits</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Answer two questions. Each cell is the first fix to try, with its rank from the table.</text>
+<text x="320" y="110" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Outlet within reach</text>
+<text x="590" y="110" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">No outlet</text>
+<text x="36" y="200" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Drain within</text>
+<text x="36" y="220" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">maker's limits</text>
+<text x="36" y="350" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">No usable</text>
+<text x="36" y="370" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">drain</text>
+<rect class="box" x="190" y="130" width="260" height="140" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="206" y="162" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#15803d">Standard install</text>
+<text x="206" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Ranks 1 and 2: a longer or higher</text>
+<text x="206" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">drain line, or the laundry</text>
+<text x="206" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">standpipe or sink</text>
+<text x="206" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">no moving parts</text>
+<rect class="box" x="460" y="130" width="260" height="140" rx="10" fill="#f0f9ff" stroke="#0e7490" stroke-width="2"/>
+<text x="476" y="162" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0e7490">Non-electric valve</text>
+<text x="476" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Rank 4: water flow drives the</text>
+<text x="476" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">meter; or add a new outlet</text>
+<text x="476" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">for a standard valve</text>
+<text x="476" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">still needs the drain</text>
+<rect class="box" x="190" y="280" width="260" height="140" rx="10" fill="#f0f9ff" stroke="#0e7490" stroke-width="2"/>
+<text x="206" y="312" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0e7490">Drain pump with basin</text>
+<text x="206" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Rank 3: rated above the</text>
+<text x="206" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">softener's drain flow at your</text>
+<text x="206" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">lift height, with an alarm</text>
+<text x="206" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">not a condensate pump</text>
+<rect class="box" x="460" y="280" width="260" height="140" rx="10" fill="#f0f9ff" stroke="#0e7490" stroke-width="2"/>
+<text x="476" y="312" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0e7490">Portable exchange tanks</text>
+<text x="476" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Rank 5: regenerated off site,</text>
+<text x="476" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">no drain and no power needed;</text>
+<text x="476" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">or add an outlet plus a pump</text>
+<text x="476" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">ongoing monthly fee</text>
+<rect class="box" x="30" y="440" width="690" height="40" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="465" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Every option except exchange tanks still ends at a drain, and every drain connection needs an air gap.</text>
+</svg>

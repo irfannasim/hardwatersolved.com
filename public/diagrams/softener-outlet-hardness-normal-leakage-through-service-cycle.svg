@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" width="760" height="450" role="img" aria-labelledby="olc-title olc-desc">
+<title id="olc-title">Should softened water test zero? Outlet hardness through one service cycle</title>
+<desc id="olc-desc">Illustrative chart of hardness at a water softener outlet from just after regeneration to the next regeneration. Normal leakage stays at a few tenths of a grain, under the 1 gpg NSF/ANSI 44 limit. A blend setting reads flat at about 2 gpg all cycle. A bed that runs out early starts near zero and climbs past 1 gpg before the next regeneration.</desc>
+<rect width="760" height="450" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Softener outlet hardness over one cycle</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative. Hardness in grains per gallon (gpg) at the softener outlet</text>
+<path class="ln" d="M100,140 L100,380 L560,380" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="90" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">0</text>
+<text x="90" y="324" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1</text>
+<text x="90" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">2</text>
+<text x="90" y="204" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">3</text>
+<text x="90" y="144" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">4</text>
+<path class="ln" d="M130,112 L130,380" stroke="#52697a" stroke-width="1.5" stroke-dasharray="3 4" fill="none"/>
+<path class="ln" d="M530,112 L530,380" stroke="#52697a" stroke-width="1.5" stroke-dasharray="3 4" fill="none"/>
+<text x="130" y="102" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sample 1</text>
+<text x="530" y="102" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sample 2</text>
+<path class="ln" d="M100,320 L560,320" stroke="#dc2626" stroke-width="2" stroke-dasharray="8 5" fill="none"/>
+<path class="ln" d="M100,260 L560,260" stroke="#3a5a72" stroke-width="5" stroke-dasharray="14 8" fill="none"/>
+<path class="ln" d="M100,366 C300,366 380,364 420,350 C470,322 520,240 560,200" stroke="#c2410c" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path class="ln" d="M100,368 C220,368 420,367 480,364 C520,362 545,359 560,356" stroke="#0e7490" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="572" y="196" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">Bed runs out</text>
+<text x="572" y="213" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#c2410c">before regenerating</text>
+<text x="572" y="256" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#3a5a72">Blend setting</text>
+<text x="572" y="273" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#3a5a72">flat all cycle</text>
+<text x="572" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">1 gpg limit</text>
+<text x="572" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">NSF/ANSI 44</text>
+<text x="572" y="362" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Normal leakage</text>
+<text x="572" y="379" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0e7490">drop kit reads 0</text>
+<text x="100" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#52697a">Just after regeneration</text>
+<text x="560" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">Next regeneration</text>
+<text x="330" y="428" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#52697a">Through the service cycle</text>
+</svg>

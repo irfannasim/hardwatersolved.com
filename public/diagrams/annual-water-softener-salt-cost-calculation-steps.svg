@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="asc-title asc-desc">
+<title id="asc-title">Annual water softener salt cost worked out in five steps</title>
+<desc id="asc-desc">Five-step calculation of annual water softener salt cost for a family of four on 15 gpg water at a 10 lb salt dose: 102,200 gallons, 1,533,000 grains, 546 lb of salt, 13.7 bags of 40 lb and about 96 dollars a year at an illustrative 7 dollar bag price.</desc>
+<defs>
+<marker id="asc-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Annual salt cost in five steps</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Left: the rule. Right: a family of four on 15 gpg water at a 10 lb/cu ft salt dose.</text>
+<text x="30" y="88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">STEP</text>
+<text x="400" y="88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">WORKED EXAMPLE</text>
+<rect class="box" x="30" y="100" width="330" height="66" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="127" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">1. Water softened a year</text>
+<text x="44" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">people × 70 gal a day × 365</text>
+<rect class="box" x="400" y="100" width="330" height="66" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="414" y="127" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4 × 70 × 365 = 102,200 gal</text>
+<text x="414" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">outdoor taps bypass the softener</text>
+<path class="ln" d="M362,133 L394,133" stroke="#3a5a72" stroke-width="2" fill="none" marker-end="url(#asc-ah)"/>
+<path class="ln" d="M195,168 L195,186" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#asc-ah)"/>
+<rect class="box" x="30" y="190" width="330" height="66" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="217" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">2. Hardness removed</text>
+<text x="44" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">gallons × hardness in gpg (plus any iron)</text>
+<rect class="box" x="400" y="190" width="330" height="66" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="414" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">102,200 × 15 = 1,533,000 grains</text>
+<text x="414" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">15 gpg, no iron</text>
+<path class="ln" d="M362,223 L394,223" stroke="#3a5a72" stroke-width="2" fill="none" marker-end="url(#asc-ah)"/>
+<path class="ln" d="M195,258 L195,276" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#asc-ah)"/>
+<rect class="box" x="30" y="280" width="330" height="66" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="307" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">3. Salt needed</text>
+<text x="44" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">grains ÷ grains per lb at your salt dose</text>
+<rect class="box" x="400" y="280" width="330" height="66" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="414" y="307" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1,533,000 ÷ 2,806 = 546 lb</text>
+<text x="414" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">10 lb dose, from Hellenbrand's table</text>
+<path class="ln" d="M362,313 L394,313" stroke="#3a5a72" stroke-width="2" fill="none" marker-end="url(#asc-ah)"/>
+<path class="ln" d="M195,348 L195,366" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#asc-ah)"/>
+<rect class="box" x="30" y="370" width="330" height="66" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="397" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">4. Bags a year</text>
+<text x="44" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">pounds ÷ bag size</text>
+<rect class="box" x="400" y="370" width="330" height="66" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="414" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">546 ÷ 40 = 13.7 bags</text>
+<text x="414" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">40 lb bags of sodium chloride</text>
+<path class="ln" d="M362,403 L394,403" stroke="#3a5a72" stroke-width="2" fill="none" marker-end="url(#asc-ah)"/>
+<path class="ln" d="M195,438 L195,456" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#asc-ah)"/>
+<rect class="box" x="30" y="460" width="330" height="66" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="487" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">5. Cost a year</text>
+<text x="44" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">bags × price per bag</text>
+<rect class="box" x="400" y="460" width="330" height="66" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="414" y="487" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">13.7 × $7 = about $96 a year</text>
+<text x="414" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">$7 a bag is an illustrative price</text>
+<path class="ln" d="M362,493 L394,493" stroke="#3a5a72" stroke-width="2" fill="none" marker-end="url(#asc-ah)"/>
+<text x="30" y="548" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Add about 10 percent for reserve. Timer valves: regenerations a year × pounds per regeneration.</text>
+</svg>

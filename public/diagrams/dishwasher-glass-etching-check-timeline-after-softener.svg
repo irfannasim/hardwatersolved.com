@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 490" width="760" height="490" role="img" aria-labelledby="dge-title dge-desc">
+<title id="dge-title">Glass etching risk after a water softener: when to check and what you see</title>
+<desc id="dge-desc">Timeline of glass checks after installing a water softener, from install day to week four, with the three states a check glass can show: clear, an early-warning rainbow sheen, or permanent etching that will not wipe off.</desc>
+<rect width="760" height="490" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#0b2f4a">The etching risk window: check early, check often</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Use one everyday glass as a gauge. Wash it every load and inspect it on this schedule.</text>
+<path class="ln" d="M60,140 L700,140" stroke="#3a5a72" stroke-width="3" fill="none"/>
+<circle cx="80" cy="140" r="8" fill="#0e7490"/>
+<circle cx="230" cy="140" r="8" fill="#0e7490"/>
+<circle cx="380" cy="140" r="8" fill="#0e7490"/>
+<circle cx="530" cy="140" r="8" fill="#0e7490"/>
+<circle cx="680" cy="140" r="8" fill="#0e7490"/>
+<text x="80" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Install day</text>
+<text x="230" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">First load</text>
+<text x="380" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Week 1</text>
+<text x="530" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Week 2</text>
+<text x="680" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Week 4</text>
+<text x="80" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Change settings</text>
+<text x="80" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">before any load</text>
+<text x="230" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Photograph the</text>
+<text x="230" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">glass as a baseline</text>
+<text x="380" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Window check</text>
+<text x="530" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Window check</text>
+<text x="680" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Then monthly</text>
+<text x="30" y="236" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0b2f4a">What the check glass tells you</text>
+<rect class="box" x="30" y="252" width="220" height="190" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<path d="M118,268 L162,268 L156,322 L124,322 Z" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="48" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#15803d">Clear</text>
+<text x="48" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Settings are right.</text>
+<text x="48" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Keep checking monthly.</text>
+<rect class="box" x="270" y="252" width="220" height="190" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="7 5"/>
+<path d="M358,268 L402,268 L396,322 L364,322 Z" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path d="M366,282 Q380,274 394,282" fill="none" stroke="#7c3aed" stroke-width="3"/>
+<path d="M366,294 Q380,286 394,294" fill="none" stroke="#0e7490" stroke-width="3"/>
+<path d="M367,306 Q380,298 393,306" fill="none" stroke="#b45309" stroke-width="3"/>
+<text x="288" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Rainbow sheen</text>
+<text x="288" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Early warning: act now.</text>
+<text x="288" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Halve the detergent again</text>
+<text x="288" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">and use a cooler program.</text>
+<rect class="box" x="510" y="252" width="220" height="190" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<path d="M598,268 L642,268 L636,322 L604,322 Z" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<text x="528" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Cloud that won't wipe off</text>
+<text x="528" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Etched. Permanent.</text>
+<text x="528" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Replace the glass and fix</text>
+<text x="528" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the dose for the next set.</text>
+<text x="30" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Timing varies with detergent dose, wash temperature and the glass itself. No manual gives a day count.</text>
+</svg>

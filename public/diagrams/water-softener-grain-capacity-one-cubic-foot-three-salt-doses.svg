@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="gc3-title gc3-desc">
+<title id="gc3-title">Water softener grain capacity: one cubic foot of resin at three salt doses</title>
+<desc id="gc3-desc">Three identical one cubic foot resin tanks regenerated with 6, 10 and 15 lb of salt restore 22,930, 28,060 and 32,310 grains of capacity, out of a total exchange capacity of about 41,500 to 43,700 grains. Salt efficiency falls from 3,822 to 2,806 to 2,154 grains per pound, and the grain rating on the box is the 15 lb figure.</desc>
+<defs><pattern id="gc3-r" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#e2b865"/><circle cx="5" cy="5" r="2.2" fill="#d4a24c"/></pattern></defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Same resin, three salt doses, three grain capacities</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">1 cu ft of resin per tank. Capacities from Hellenbrand's published table</text>
+<text x="380" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Dashed line: resin's total capacity, about 41,500 to 43,700 grains</text>
+<text x="380" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">No practical salt dose restores all of it</text>
+<rect x="110" y="180" width="120" height="260" rx="18" fill="#f6ead2" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="113" y="314.7" width="114" height="122.3" fill="url(#gc3-r)"/>
+<rect x="320" y="180" width="120" height="260" rx="18" fill="#f6ead2" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="323" y="287.4" width="114" height="149.6" fill="url(#gc3-r)"/>
+<rect x="530" y="180" width="120" height="260" rx="18" fill="#f6ead2" stroke="#dc2626" stroke-width="2.5"/>
+<rect x="533" y="264.7" width="114" height="172.3" fill="url(#gc3-r)"/>
+<path class="ln" d="M90,210 L670,210" stroke="#0b2f4a" stroke-width="1.5" stroke-dasharray="6 5" fill="none"/>
+<rect x="124" y="386" width="92" height="26" rx="4" fill="#ffffff"/>
+<text x="170" y="404" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">22,930</text>
+<rect x="334" y="386" width="92" height="26" rx="4" fill="#ffffff"/>
+<text x="380" y="404" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">28,060</text>
+<rect x="544" y="386" width="92" height="26" rx="4" fill="#ffffff"/>
+<text x="590" y="404" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">32,310</text>
+<text x="170" y="466" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Low: 6 lb salt</text>
+<text x="170" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">3,822 grains per lb</text>
+<text x="170" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">factory default</text>
+<text x="380" y="466" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Medium: 10 lb salt</text>
+<text x="380" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2,806 grains per lb</text>
+<text x="590" y="466" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">High: 15 lb salt</text>
+<text x="590" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2,154 grains per lb</text>
+<text x="590" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">the grain rating on the box</text>
+<rect x="30" y="540" width="14" height="14" fill="url(#gc3-r)"/>
+<text x="52" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">capacity restored by the salt dose</text>
+<rect x="300" y="540" width="14" height="14" fill="#f6ead2" stroke="#3a5a72" stroke-width="1"/>
+<text x="322" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">resin sites left holding hardness</text>
+</svg>

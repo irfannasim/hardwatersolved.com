@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-labelledby="g26cv-title g26cv-desc">
+<title id="g26cv-title">NSF/ANSI 44 water softener certification coverage map</title>
+<desc id="g26cv-desc">A full NSF/ANSI 44 water softener listing covers material safety, structural integrity, verified capacity and optional efficiency, barium and radium claims. A component or Standard 61 or 372 listing covers only materials and lead content. No softener certification covers iron, bacteria, chlorine, lead or PFAS reduction, or your own water and setup.</desc>
+<rect width="760" height="420" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What a softener certification does and does not prove</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Based on the claim codes in NSF's public Standard 44 listing</text>
+<rect class="box" x="30" y="92" width="220" height="296" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="122" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">Full NSF/ANSI 44</text>
+<text x="46" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">system listing, exact model</text>
+<rect class="box" x="270" y="92" width="220" height="296" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="286" y="122" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#3a5a72">Component or 61/372</text>
+<text x="286" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">materials only</text>
+<rect class="box" x="510" y="92" width="220" height="296" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="526" y="122" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">No certification covers</text>
+<text x="526" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">for any softener</text>
+<g fill="none" stroke="#15803d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M46,190 L51,195 L60,184"/><path d="M46,230 L51,235 L60,224"/><path d="M46,270 L51,275 L60,264"/><path d="M46,310 L51,315 L60,304"/><path d="M46,350 L51,355 L60,344"/>
+<path d="M286,190 L291,195 L300,184"/><path d="M286,230 L291,235 L300,224"/>
+</g>
+<g fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round">
+<path d="M287,265 L298,276 M298,265 L287,276"/><path d="M287,305 L298,316 M298,305 L287,316"/><path d="M287,345 L298,356 M298,345 L287,356"/>
+<path d="M527,185 L538,196 M538,185 L527,196"/><path d="M527,225 L538,236 M538,225 L527,236"/><path d="M527,265 L538,276 M538,265 L527,276"/><path d="M527,305 L538,316 M538,305 L527,316"/><path d="M527,345 L538,356 M538,345 L527,356"/>
+</g>
+<text x="72" y="195" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Material safety (61)</text>
+<text x="72" y="235" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Structural integrity</text>
+<text x="72" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Capacity verified [HR]</text>
+<text x="72" y="315" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Efficiency [ER], optional</text>
+<text x="72" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Barium, radium, optional</text>
+<text x="312" y="195" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Material safety (61)</text>
+<text x="312" y="235" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Lead content (372)</text>
+<text x="312" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Capacity not verified</text>
+<text x="312" y="315" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Efficiency not verified</text>
+<text x="312" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">System not tested</text>
+<text x="552" y="195" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Iron and manganese</text>
+<text x="552" y="235" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Bacteria and viruses</text>
+<text x="552" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Chlorine, taste, odor</text>
+<text x="552" y="315" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Lead, PFAS, nitrate</text>
+<text x="552" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Your water and setup</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" role="img" aria-labelledby="tdsm-title tdsm-desc">
+<title id="tdsm-title">Same TDS, different water: why a TDS meter cannot measure hardness</title>
+<desc id="tdsm-desc">Two example waters, each with 500 mg/L of dissolved solids. Water X is mostly calcium, magnesium and bicarbonate and has 18.7 grains per gallon of hardness. Water Y is mostly sodium, bicarbonate and chloride and has 1.4 grains per gallon. A TDS meter gives no way to tell them apart.</desc>
+<defs></defs>
+<rect width="760" height="470" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Same TDS, different water: what a TDS pen cannot see</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Two example waters, each 500 mg/L of dissolved ions. Bar length is to scale.</text>
+<text x="30" y="106" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water X: limestone-type</text>
+<text x="730" y="106" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#c2410c">Hardness 18.7 gpg</text>
+<rect x="30" y="120" width="161" height="46" rx="0" fill="#c2410c" stroke="#ffffff" stroke-width="2"/>
+<text x="110.5" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Ca + Mg</text>
+<text x="110.5" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#ffffff">115 mg/L</text>
+<rect x="191" y="120" width="461.99999999999994" height="46" rx="0" fill="#94a3b8" stroke="#ffffff" stroke-width="2"/>
+<text x="422" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Bicarbonate</text>
+<text x="422" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">330 mg/L</text>
+<rect x="653" y="120" width="77" height="46" rx="0" fill="#cbd5e1" stroke="#ffffff" stroke-width="2"/>
+<text x="691.5" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Other</text>
+<text x="691.5" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">55 mg/L</text>
+<text x="30" y="236" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water Y: sodium-type</text>
+<text x="730" y="236" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#0e7490">Hardness 1.4 gpg</text>
+<rect x="30" y="250" width="210" height="46" rx="0" fill="#3a5a72" stroke="#ffffff" stroke-width="2"/>
+<text x="135" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Sodium</text>
+<text x="135" y="287" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#ffffff">150 mg/L</text>
+<rect x="240" y="250" width="350" height="46" rx="0" fill="#94a3b8" stroke="#ffffff" stroke-width="2"/>
+<text x="415" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Bicarbonate</text>
+<text x="415" y="287" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">250 mg/L</text>
+<rect x="590" y="250" width="118.99999999999999" height="46" rx="0" fill="#cbd5e1" stroke="#ffffff" stroke-width="2"/>
+<text x="649.5" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Chloride</text>
+<text x="649.5" y="287" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">85 mg/L</text>
+<rect x="709" y="250" width="9.799999999999999" height="46" rx="0" fill="#cbd5e1" stroke="#ffffff" stroke-width="2"/>
+<rect x="718.8" y="250" width="11.2" height="46" rx="0" fill="#c2410c" stroke="#ffffff" stroke-width="2"/>
+<text x="730" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">Last slivers: 7 mg/L sulfate, then 8 mg/L Ca + Mg</text>
+<rect class="box" x="30" y="350" width="700" height="92" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="50" y="380" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">TDS pen, both glasses: same dissolved total</text>
+<text x="50" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">A pen measures electrical conductivity and converts it to ppm. It cannot say which ions</text>
+<text x="50" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">are present, so it cannot separate calcium from sodium. Only a hardness test can.</text>
+</svg>

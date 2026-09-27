@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 632" width="760" height="632" role="img" aria-labelledby="g18dv-title g18dv-desc">
+<title id="g18dv-title">Signs a water softener needs replacing: decline versus failure decision chain</title>
+<desc id="g18dv-desc">Decision chain for the signs a water softener needs replacing: a failed tank means replace, a sudden stop is usually a repairable fault, a steady fall in the capacity log is resin decline, and a spend gate of 50 percent of a new unit decides whether to keep repairing.</desc>
+<defs><marker id="g18dfa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="632" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">Decline, failure, or the end of the line?</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Work down the questions in order. The first "yes" tells you what kind of problem you have.</text>
+<rect class="box" x="30" y="92" width="390" height="58" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="44" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Is the mineral tank cracked, bulging</text>
+<text x="44" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">or weeping at its base?</text>
+<rect class="box" x="480" y="92" width="250" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="494" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Replace the softener</text>
+<text x="494" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">A failed tank is not repairable</text>
+<path class="ln" d="M424,121 L474,121" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g18dfa)"/>
+<text x="450" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Yes</text>
+<rect class="box" x="30" y="178" width="390" height="58" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="44" y="202" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Did it stop suddenly after</text>
+<text x="44" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">running normally last month?</text>
+<rect class="box" x="480" y="178" width="250" height="58" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="494" y="202" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Failure: find the fault</text>
+<text x="494" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Usually one part. Repair it</text>
+<path class="ln" d="M424,207 L474,207" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g18dfa)"/>
+<text x="450" y="199" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Yes</text>
+<rect class="box" x="30" y="264" width="390" height="58" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="44" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Has the gallons-per-regeneration</text>
+<text x="44" y="308" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">log fallen steadily for 6+ months?</text>
+<rect class="box" x="480" y="264" width="250" height="58" rx="8" fill="#fff7ed" stroke="#b45309" stroke-width="1.5"/>
+<text x="494" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#b45309">Decline: resin or pretreatment</text>
+<text x="494" y="308" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Clean, re-bed, fix the cause</text>
+<path class="ln" d="M424,293 L474,293" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g18dfa)"/>
+<text x="450" y="285" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Yes</text>
+<path class="ln" d="M120,152 L120,176" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g18dfa)"/>
+<text x="132" y="171" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">No</text>
+<path class="ln" d="M120,238 L120,262" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g18dfa)"/>
+<text x="132" y="257" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">No</text>
+<path class="ln" d="M120,324 L120,348" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#g18dfa)"/>
+<text x="132" y="343" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="30" y="350" width="700" height="44" rx="8" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="44" y="377" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">No to all three: check the hardness setting, sizing and household use before spending anything.</text>
+<rect class="box" x="30" y="414" width="700" height="196" rx="12" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="442" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Then, before paying for any repair: the spend gate (rule of thumb)</text>
+<text x="46" y="468" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">(repairs already paid in the last 5 years + this quote)  ÷  installed price of a new unit</text>
+<rect class="box" x="46" y="486" width="320" height="104" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="62" y="514" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#dc2626">50% or more</text>
+<text x="62" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Stop investing. Replace, and put</text>
+<text x="62" y="558" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">the money into a correctly sized,</text>
+<text x="62" y="578" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">demand-initiated unit.</text>
+<rect class="box" x="394" y="486" width="320" height="104" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="410" y="514" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#15803d">Under 50%</text>
+<text x="410" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Repair, and keep logging gallons</text>
+<text x="410" y="558" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">per regeneration so the next</text>
+<text x="410" y="578" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">decision is made on evidence.</text>
+</svg>

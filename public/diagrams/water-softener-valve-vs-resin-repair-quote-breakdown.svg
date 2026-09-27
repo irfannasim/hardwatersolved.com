@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img" aria-labelledby="g17qb-title g17qb-desc">
+<title id="g17qb-title">Breakdown of an illustrative water softener control valve and resin replacement quote</title>
+<desc id="g17qb-desc">Illustrative stacked bars splitting a $730 control valve replacement and a $685 resin replacement into part price, fittings or gravel, service call and labour, showing the part is under half of the installed water softener repair cost.</desc>
+<rect width="760" height="400" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What makes up a valve or resin repair quote</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Illustrative mid-range figures; the part is under half of the installed price</text>
+<path d="M200,92 L200,268" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+<text x="200" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<path d="M325,92 L325,268" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+<text x="325" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$200</text>
+<path d="M450,92 L450,268" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+<text x="450" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$400</text>
+<path d="M575,92 L575,268" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+<text x="575" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$600</text>
+<path d="M700,92 L700,268" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+<text x="700" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$800</text>
+<text x="186" y="132" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#0b2f4a">Control valve</text>
+<text x="186" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">replace the whole head</text>
+<rect x="200.0" y="108" width="206.3" height="52" fill="#0b2f4a"/>
+<text x="303.1" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">$330</text>
+<rect x="406.3" y="108" width="31.3" height="52" fill="#52697a"/>
+<rect x="437.5" y="108" width="78.1" height="52" fill="#0e7490"/>
+<text x="476.6" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">$125</text>
+<rect x="515.6" y="108" width="140.6" height="52" fill="#a5d8e2"/>
+<text x="585.9" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">$225</text>
+<text x="664.3" y="140" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$730</text>
+<text x="186" y="216" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#0b2f4a">Resin</text>
+<text x="186" y="235" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">rebed about 1.25 cu ft</text>
+<rect x="200.0" y="192" width="175.0" height="52" fill="#0b2f4a"/>
+<text x="287.5" y="223" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">$280</text>
+<rect x="375.0" y="192" width="18.8" height="52" fill="#52697a"/>
+<rect x="393.8" y="192" width="78.1" height="52" fill="#0e7490"/>
+<text x="432.8" y="223" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">$125</text>
+<rect x="471.9" y="192" width="156.3" height="52" fill="#a5d8e2"/>
+<text x="550.0" y="223" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">$250</text>
+<text x="636.1" y="224" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$685</text>
+<rect x="30" y="315" width="16" height="12" rx="2" fill="#0b2f4a"/>
+<text x="52" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Part at online retail</text>
+<rect x="230" y="315" width="16" height="12" rx="2" fill="#52697a"/>
+<text x="252" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Fittings or gravel</text>
+<rect x="410" y="315" width="16" height="12" rx="2" fill="#0e7490"/>
+<text x="432" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Service call</text>
+<rect x="560" y="315" width="16" height="12" rx="2" fill="#a5d8e2"/>
+<text x="582" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Labour</text>
+<text x="30" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Service call $125 and labour at $100 an hour are placeholders; ask for them itemised.</text>
+</svg>

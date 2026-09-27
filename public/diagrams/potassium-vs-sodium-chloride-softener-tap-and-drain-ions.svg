@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="pvs-title pvs-desc">
+<title id="pvs-title">Potassium chloride vs sodium chloride in a softener: what reaches the tap and the drain</title>
+<desc id="pvs-desc">In service, hard water passes through the resin and leaves carrying sodium, or potassium if potassium chloride is used. In regeneration, brine of either salt pushes calcium, magnesium, chloride and excess sodium or potassium to the drain. Potassium chloride replaces the sodium in both streams; the chloride sent to the drain stays roughly the same.</desc>
+<defs>
+<marker id="pvs-o" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="pvs-t" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<marker id="pvs-p" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker>
+<marker id="pvs-g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+</defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What switching to potassium changes, and what it does not</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Same softener, same hardness removed; only the regenerant differs</text>
+<text x="40" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">In service</text>
+<rect class="box" x="40" y="112" width="190" height="64" rx="6" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+<text x="54" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">Hard water</text>
+<text x="54" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">calcium, magnesium</text>
+<path class="ln" d="M230,144 L279,144" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#pvs-o)"/>
+<rect class="box" x="285" y="112" width="190" height="64" rx="6" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<text x="299" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Resin bed</text>
+<text x="299" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">takes hardness, gives ions</text>
+<path class="ln" d="M475,144 L524,144" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#pvs-t)"/>
+<rect class="box" x="530" y="112" width="190" height="64" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="544" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Softened water</text>
+<text x="544" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">carries Na or K</text>
+<text x="530" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Per gpg removed, per quart:</text>
+<text x="530" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">NaCl: 7.5 mg sodium</text>
+<text x="530" y="236" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">KCl: about 12.8 mg potassium</text>
+<text x="40" y="282" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">In regeneration</text>
+<rect class="box" x="40" y="294" width="190" height="64" rx="6" fill="#ffffff" stroke="#7c3aed" stroke-width="2"/>
+<text x="54" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#7c3aed">Brine</text>
+<text x="54" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">NaCl or KCl dissolved</text>
+<path class="ln" d="M230,326 L279,326" stroke="#7c3aed" stroke-width="5" fill="none" marker-end="url(#pvs-p)"/>
+<rect class="box" x="285" y="294" width="190" height="64" rx="6" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<text x="299" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Resin bed</text>
+<text x="299" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">releases the hardness</text>
+<path class="ln" d="M475,326 L524,326" stroke="#78716c" stroke-width="5" fill="none" marker-end="url(#pvs-g)"/>
+<rect class="box" x="530" y="294" width="190" height="84" rx="6" fill="#ffffff" stroke="#78716c" stroke-width="2"/>
+<text x="544" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#78716c">To drain or septic</text>
+<text x="544" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">calcium, magnesium,</text>
+<text x="544" y="358" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">chloride, spare Na or K</text>
+<rect class="box" x="40" y="410" width="330" height="76" rx="6" fill="#ffffff" stroke="#15803d" stroke-width="2.5"/>
+<text x="54" y="436" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Changes with potassium</text>
+<text x="54" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Almost no sodium added at the tap or</text>
+<text x="54" y="474" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">sent to the drain, septic or soil</text>
+<rect class="box" x="390" y="410" width="330" height="76" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="2.5"/>
+<text x="404" y="436" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Does not change</text>
+<text x="404" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Chloride to the drain stays roughly</text>
+<text x="404" y="474" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the same; hardness removed is equal</text>
+<text x="30" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Sodium figure: Penn State Extension. Potassium figure calculated from atomic weights (39.1 vs 23.0).</text>
+</svg>

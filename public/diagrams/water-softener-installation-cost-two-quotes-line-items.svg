@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" width="760" height="460" role="img" aria-labelledby="wiq-title wiq-desc">
+<title id="wiq-title">Water softener installation cost: the same softener quoted for two houses</title>
+<desc id="wiq-desc">Illustrative stacked bars. Quote A, a basement with a softener loop, drain and outlet already in place, totals 1,250 dollars: 900 equipment and 350 labor and fittings. Quote B, a garage with nothing in place, totals 2,200 dollars: the same 900 and 350, plus 400 for a new loop, 200 for a drain run, 250 for an outlet and 100 for a permit.</desc>
+<rect width="760" height="460" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Same softener, two houses, two quotes</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative line items, not a price survey</text>
+<text x="30" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Quote A</text>
+<text x="30" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">basement, loop in place</text>
+<rect x="200" y="108" width="180" height="40" fill="#0e7490"/>
+<rect x="380" y="108" width="70" height="40" fill="#0b2f4a"/>
+<text x="458" y="133" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$1,250</text>
+<text x="200" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Equipment is 72% of the total</text>
+<text x="30" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Quote B</text>
+<text x="30" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">garage, nothing in place</text>
+<rect x="200" y="208" width="180" height="40" fill="#0e7490"/>
+<rect x="380" y="208" width="70" height="40" fill="#0b2f4a"/>
+<rect x="450" y="208" width="80" height="40" fill="#3a5a72"/>
+<rect x="530" y="208" width="40" height="40" fill="#78716c"/>
+<rect x="570" y="208" width="50" height="40" fill="#52697a"/>
+<rect x="620" y="208" width="20" height="40" fill="#cbd5e1"/>
+<text x="648" y="233" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">$2,200</text>
+<text x="200" y="272" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Equipment is 41% of the total</text>
+<path class="ln" d="M200,294 L700,294" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M200,294 L200,301" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M300,294 L300,301" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M400,294 L400,301" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M500,294 L500,301" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M600,294 L600,301" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M700,294 L700,301" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="200" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<text x="300" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$500</text>
+<text x="400" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$1,000</text>
+<text x="500" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$1,500</text>
+<text x="600" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$2,000</text>
+<text x="700" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$2,500</text>
+<rect x="30" y="350" width="14" height="14" fill="#0e7490"/>
+<text x="52" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">softener $900</text>
+<rect x="270" y="350" width="14" height="14" fill="#0b2f4a"/>
+<text x="292" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">labor and fittings $350</text>
+<rect x="510" y="350" width="14" height="14" fill="#3a5a72"/>
+<text x="532" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">new loop $400</text>
+<rect x="30" y="378" width="14" height="14" fill="#78716c"/>
+<text x="52" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">drain run $200</text>
+<rect x="270" y="378" width="14" height="14" fill="#52697a"/>
+<text x="292" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">new outlet $250</text>
+<rect x="510" y="378" width="14" height="14" fill="#cbd5e1"/>
+<text x="532" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">permit $100</text>
+<text x="30" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The $950 gap is all site work. Ask each installer to price these lines separately.</text>
+</svg>

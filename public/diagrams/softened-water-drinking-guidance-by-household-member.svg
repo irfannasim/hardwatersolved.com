@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="sdg-title sdg-desc">
+<title id="sdg-title">Is softened water safe to drink? Guidance by household member</title>
+<desc id="sdg-desc">Decision chart. Healthy adults and children can drink softened water. People on a very low sodium diet, people treated for sodium-sensitive high blood pressure, and babies on formula are the documented exceptions: use an unsoftened or reverse osmosis tap and follow a doctor or pediatrician.</desc>
+<defs><marker id="sdg-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Who in the house should drink softened water?</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Salt-regenerated softener. Sources: EPA sodium advisory, Minnesota Dept. of Health, NHS.</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect class="box" x="30" y="90" width="250" height="84" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="122" font-size="15" font-weight="bold" fill="#0b2f4a">Healthy adults and</text>
+<text x="46" y="143" font-size="15" font-weight="bold" fill="#0b2f4a">older children</text>
+<rect class="box" x="340" y="90" width="390" height="84" rx="6" fill="#ecfdf3" stroke="#15803d" stroke-width="2"/>
+<text x="356" y="120" font-size="15" font-weight="bold" fill="#15803d">Safe to drink</text>
+<text x="356" y="142" font-size="13" fill="#0b2f4a">EPA: drinking water is not a significant</text>
+<text x="356" y="160" font-size="13" fill="#0b2f4a">sodium source for most people</text>
+<rect class="box" x="30" y="196" width="250" height="84" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="228" font-size="15" font-weight="bold" fill="#0b2f4a">Very low sodium diet</text>
+<text x="46" y="249" font-size="13" fill="#0b2f4a">about 500 mg a day</text>
+<rect class="box" x="340" y="196" width="390" height="84" rx="6" fill="#e6f4f7" stroke="#0e7490" stroke-width="2"/>
+<text x="356" y="226" font-size="15" font-weight="bold" fill="#0e7490">Unsoftened or RO tap</text>
+<text x="356" y="248" font-size="13" fill="#0b2f4a">EPA guidance: drinking water sodium</text>
+<text x="356" y="266" font-size="13" fill="#0b2f4a">at or below 20 mg/L for this diet</text>
+<rect class="box" x="30" y="302" width="250" height="84" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="334" font-size="15" font-weight="bold" fill="#0b2f4a">Treated for high blood</text>
+<text x="46" y="355" font-size="15" font-weight="bold" fill="#0b2f4a">pressure</text>
+<rect class="box" x="340" y="302" width="390" height="84" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="356" y="332" font-size="15" font-weight="bold" fill="#dc2626">Ask your doctor first</text>
+<text x="356" y="354" font-size="13" fill="#0b2f4a">EPA and Minnesota Dept. of Health both</text>
+<text x="356" y="372" font-size="13" fill="#0b2f4a">refer this decision to a clinician</text>
+<rect class="box" x="30" y="408" width="250" height="84" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="440" font-size="15" font-weight="bold" fill="#0b2f4a">Babies on formula</text>
+<text x="46" y="461" font-size="13" fill="#0b2f4a">water mixed into feeds</text>
+<rect class="box" x="340" y="408" width="390" height="84" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="356" y="438" font-size="15" font-weight="bold" fill="#dc2626">Unsoftened cold water</text>
+<text x="356" y="460" font-size="13" fill="#0b2f4a">NHS: do not use artificially softened</text>
+<text x="356" y="478" font-size="13" fill="#0b2f4a">water. Follow your pediatrician</text>
+</g>
+<g stroke="#3a5a72" stroke-width="2.5" fill="none" marker-end="url(#sdg-ah)">
+<line class="ln" x1="280" y1="132" x2="334" y2="132"/>
+<line class="ln" x1="280" y1="238" x2="334" y2="238"/>
+<line class="ln" x1="280" y1="344" x2="334" y2="344"/>
+<line class="ln" x1="280" y1="450" x2="334" y2="450"/>
+</g>
+<text x="30" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Softening does not remove bacteria, viruses or parasites (CDC). It is only as safe as the supply.</text>
+<text x="30" y="545" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Potassium chloride regenerant: people with kidney disease should ask a doctor before drinking.</text>
+</svg>

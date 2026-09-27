@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-labelledby="bhl-title bhl-desc">
+<title id="bhl-title">Hardness reaching a boiler: sealed heating loop vs combi hot water side</title>
+<desc id="bhl-desc">Illustrative comparison at 15 grains per gallon: one 20-gallon fill of a sealed heating loop carries 300 grains of hardness once, while a combi boiler's hot water side passing 60 gallons a day carries about 328,500 grains in a year. Each square is 300 grains.</desc>
+<defs><pattern id="bhl-p" width="6" height="6" patternUnits="userSpaceOnUse" x="300" y="130"><rect width="5" height="5" fill="#c2410c"/></pattern></defs>
+<rect width="760" height="420" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#0b2f4a">Why the hot water side needs softening more</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Hardness carried into each circuit over one year. Each square is 300 grains.</text>
+<text x="30" y="150" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Sealed heating loop</text>
+<text x="30" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">One 20-gallon fill</text>
+<circle cx="102" cy="206" r="15" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<rect x="100" y="204" width="5" height="5" fill="#c2410c"/>
+<text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">300 grains, once</text>
+<text x="30" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">about 0.04 lb</text>
+<rect x="300" y="130" width="198" height="198" fill="url(#bhl-p)"/>
+<rect x="300" y="328" width="36" height="6" fill="url(#bhl-p)"/>
+<text x="520" y="150" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Hot water side</text>
+<text x="520" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">60 gallons a day,</text>
+<text x="520" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">every day for a year</text>
+<text x="520" y="224" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">328,500 grains</text>
+<text x="520" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">about 47 lb passing</text>
+<text x="520" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">the heat exchanger</text>
+<text x="30" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative: water at 15 grains per gallon. Not all of it deposits, but the hot water supply never stops.</text>
+<text x="30" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">A sealed loop only takes on more when it is topped up.</text>
+</svg>

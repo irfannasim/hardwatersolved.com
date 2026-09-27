@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" width="760" height="450" role="img" aria-labelledby="g7ws-title g7ws-desc">
+<title id="g7ws-title">Scale reduction by electronic descalers and TAC in the WateReuse study</title>
+<desc id="g7ws-desc">Bar chart of the WateReuse-funded Arizona State University study: template-assisted crystallization reduced scale by more than 88 percent, while electromagnetic treatment and electrically induced precipitation each reduced it by about 50 percent. None of the three removed hardness.</desc>
+<rect width="760" height="450" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Scale reduction measured in one independent study</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">WateReuse project 08-06 (Arizona State University, 2014), DVGW W 512 heated test</text>
+<g stroke="#e2e8f0" stroke-width="1">
+<path d="M250,105 L250,318"/><path d="M360,105 L360,318"/><path d="M470,105 L470,318"/><path d="M580,105 L580,318"/><path d="M690,105 L690,318"/>
+</g>
+<text x="30" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Template-assisted</text>
+<text x="30" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">crystallization (TAC)</text>
+<rect x="250" y="124" width="387" height="34" fill="#3a5a72"/>
+<text x="647" y="147" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">&gt;88%</text>
+<text x="30" y="204" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Electromagnetic</text>
+<text x="30" y="223" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">treatment</text>
+<rect x="250" y="194" width="220" height="34" fill="#3a5a72"/>
+<text x="480" y="217" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">about 50%</text>
+<text x="30" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Electrically induced</text>
+<text x="30" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">precipitation</text>
+<rect x="250" y="264" width="220" height="34" fill="#3a5a72"/>
+<text x="480" y="287" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">about 50%</text>
+<path d="M250,318 L690,318" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0%</text>
+<text x="360" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">25%</text>
+<text x="470" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">50%</text>
+<text x="580" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">75%</text>
+<text x="690" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">100%</text>
+<text x="470" y="358" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">reduction in scale formed, compared with untreated water</text>
+<rect class="box" x="30" y="376" width="700" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="399" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Scale left by the two electrical devices was soft and brushed off; untreated scale was hard calcite.</text>
+<text x="44" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">None of the three removes hardness, so a hardness test reads the same before and after all of them.</text>
+</svg>

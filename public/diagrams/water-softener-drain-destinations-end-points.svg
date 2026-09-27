@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="dde-title dde-desc">
+<title id="dde-title">Where can a water softener drain: seven destinations and where each one sends the water</title>
+<desc id="dde-desc">Seven water softener drain destinations traced to their end points. Laundry tub, standpipe, sewer-connected floor drain and a sewer line via a receptor end in the sanitary sewer or septic and are generally accepted. A dry well and outdoor discharge end in the ground and are restricted. A sump pit usually sends water to the yard or storm sewer and is frequently prohibited.</desc>
+<defs><marker id="dde-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Follow the water, not the tube</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Each receptor is ranked by where it finally sends the softener discharge.</text>
+<rect class="box" x="30" y="96" width="230" height="40" rx="8" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1  Laundry tub</text>
+<path class="ln" d="M262,116 L492,126" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#dde-a)"/>
+<rect class="box" x="30" y="148" width="230" height="40" rx="8" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="174" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2  Standpipe</text>
+<path class="ln" d="M262,168 L492,148" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#dde-a)"/>
+<rect class="box" x="30" y="200" width="230" height="40" rx="8" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="226" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3  Floor drain to sewer</text>
+<path class="ln" d="M262,220 L492,170" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#dde-a)"/>
+<rect class="box" x="30" y="252" width="230" height="40" rx="8" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="278" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4  Sewer line via receptor</text>
+<path class="ln" d="M262,272 L492,192" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#dde-a)"/>
+<rect class="box" x="30" y="304" width="230" height="40" rx="8" fill="#ffffff" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="46" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">5  Dry well</text>
+<path class="ln" d="M262,324 L492,296" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#dde-a)"/>
+<rect class="box" x="30" y="356" width="230" height="40" rx="8" fill="#ffffff" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="46" y="382" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">6  Outdoors on the ground</text>
+<path class="ln" d="M262,376 L492,314" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#dde-a)"/>
+<rect class="box" x="30" y="408" width="230" height="40" rx="8" fill="#ffffff" stroke="#dc2626" stroke-width="3"/>
+<text x="46" y="434" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">7  Sump pit</text>
+<path class="ln" d="M262,428 L492,414" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#dde-a)"/>
+<rect class="box" x="500" y="110" width="230" height="100" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="516" y="157" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Sanitary sewer or septic</text>
+<text x="516" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">generally accepted</text>
+<rect class="box" x="500" y="270" width="230" height="70" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="516" y="302" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Ground and groundwater</text>
+<text x="516" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">restricted: ask first</text>
+<rect class="box" x="500" y="384" width="230" height="70" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="3"/>
+<text x="516" y="416" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Yard, storm sewer, streams</text>
+<text x="516" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">frequently prohibited</text>
+<rect x="30" y="474" width="34" height="18" rx="4" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+<text x="72" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">generally accepted</text>
+<rect x="230" y="474" width="34" height="18" rx="4" fill="#ffffff" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="272" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">restricted in many places</text>
+<rect x="460" y="474" width="34" height="18" rx="4" fill="#ffffff" stroke="#dc2626" stroke-width="3"/>
+<text x="502" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">frequently prohibited</text>
+<text x="30" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Local code decides. Every accepted route still needs an air gap above the receptor rim.</text>
+</svg>

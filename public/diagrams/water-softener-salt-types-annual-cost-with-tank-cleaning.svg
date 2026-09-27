@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="wstc-title wstc-desc">
+<title id="wstc-title">Water softener salt types: cost a year including brine tank cleaning time</title>
+<desc id="wstc-desc">Illustrative bar chart for a household using 480 lb of salt a year. Evaporated pellets cost 96 dollars plus 20 dollars of cleaning time, 116 in all. Solar crystals cost 84 plus 40, 124. Rock salt costs 75 plus 80 of cleaning, 155. Potassium chloride pellets cost 414 plus 20, 434.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Cost a year by salt type, with tank cleaning counted</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative example: 480 lb of sodium chloride a year. Swap in your own prices.</text>
+<text x="30" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Evaporated pellets</text>
+<text x="30" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">12 bags at $8, clean every 2 yrs</text>
+<rect x="260" y="116" width="85" height="28" fill="#7c3aed"/>
+<rect x="345" y="116" width="18" height="28" fill="#78716c"/>
+<text x="371" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$116</text>
+<text x="30" y="194" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Solar crystals</text>
+<text x="30" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">12 bags at $7, clean yearly</text>
+<rect x="260" y="186" width="75" height="28" fill="#7c3aed"/>
+<rect x="335" y="186" width="36" height="28" fill="#78716c"/>
+<text x="379" y="205" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$124</text>
+<text x="30" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Rock salt</text>
+<text x="30" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">12.5 bags at $6, clean twice a year</text>
+<rect x="260" y="256" width="67" height="28" fill="#7c3aed"/>
+<rect x="327" y="256" width="71" height="28" fill="#78716c"/>
+<text x="406" y="275" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">$155</text>
+<text x="30" y="334" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Potassium chloride</text>
+<text x="30" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">13.8 bags at $30, clean every 2 yrs</text>
+<rect x="260" y="326" width="368" height="28" fill="#7c3aed"/>
+<rect x="628" y="326" width="18" height="28" fill="#78716c"/>
+<text x="654" y="345" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$434</text>
+<path class="ln" d="M260,378 L660,378" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M260,378 L260,385" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M349,378 L349,385" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M438,378 L438,385" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M527,378 L527,385" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M616,378 L616,385" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="260" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<text x="349" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$100</text>
+<text x="438" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$200</text>
+<text x="527" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$300</text>
+<text x="616" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$400</text>
+<rect x="30" y="424" width="14" height="14" fill="#7c3aed"/>
+<text x="52" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">salt bought</text>
+<rect x="170" y="424" width="14" height="14" fill="#78716c"/>
+<text x="192" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">cleanouts, valued at $40 for each hour-long job</text>
+<text x="30" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Rock salt: lower purity, so about 4% more by weight. Potassium chloride: about 15% more.</text>
+<text x="30" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Cleaning intervals follow the residue each grade leaves; your tank and water may differ.</text>
+</svg>

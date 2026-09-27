@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" width="760" height="610" role="img" aria-labelledby="g22f-title g22f-desc">
+<title id="g22f-title">Water bill spike: meter test to find out whether the water softener is to blame</title>
+<desc id="g22f-desc">Flowchart: with all taps off, read the water meter over an hour. If it moves, put the water softener in bypass and read it again. If the meter stops, the softener is sending water to drain; if it keeps moving, the leak is elsewhere.</desc>
+<defs>
+<marker id="g22f-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+</defs>
+<rect width="760" height="610" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Bill jumped? Two meter readings find the cause</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Needs only the house water meter and the softener's bypass valve</text>
+
+<rect class="box" x="30" y="88" width="370" height="50" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="215" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Bill up sharply, household use unchanged</text>
+
+<rect class="box" x="30" y="166" width="370" height="64" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="215" y="192" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">1. Turn off every tap and appliance.</text>
+<text x="215" y="214" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Read the meter, wait one hour, read again</text>
+
+<rect class="box" x="30" y="258" width="370" height="44" rx="22" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="215" y="285" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Did the meter move?</text>
+
+<rect class="box" x="470" y="244" width="260" height="72" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="600" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">No water running now.</text>
+<text x="600" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Check billing days, irrigation</text>
+<text x="600" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">and estimated meter reads</text>
+
+<rect class="box" x="30" y="340" width="370" height="64" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="215" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">2. Put the softener in bypass.</text>
+<text x="215" y="388" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Read the meter again over one hour</text>
+
+<rect class="box" x="30" y="432" width="370" height="44" rx="22" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="215" y="459" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Did the meter stop?</text>
+
+<rect class="box" x="470" y="410" width="260" height="88" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="600" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">The softener is the leak.</text>
+<text x="600" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Water is running to drain:</text>
+<text x="600" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">stuck regeneration or</text>
+<text x="600" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">worn valve seals</text>
+
+<rect class="box" x="30" y="512" width="370" height="64" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="215" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Leak elsewhere in the house</text>
+<text x="215" y="560" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Dye-test toilets, check relief valve and hose taps</text>
+
+<path class="ln" d="M215,138 L215,160" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#g22f-ah)"/>
+<path class="ln" d="M215,230 L215,252" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#g22f-ah)"/>
+<path class="ln" d="M400,280 L464,280" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#g22f-ah)"/>
+<path class="ln" d="M215,302 L215,334" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#g22f-ah)"/>
+<path class="ln" d="M215,404 L215,426" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#g22f-ah)"/>
+<path class="ln" d="M400,454 L464,454" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#g22f-ah)"/>
+<path class="ln" d="M215,476 L215,506" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#g22f-ah)"/>
+<text x="424" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+<text x="227" y="323" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Yes</text>
+<text x="424" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Yes</text>
+<text x="227" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+<text x="30" y="598" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Test outside the softener's regeneration window, usually around 2 a.m., or a normal cycle will move the meter.</text>
+</svg>

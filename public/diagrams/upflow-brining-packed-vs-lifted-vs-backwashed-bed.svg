@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="ubb-title ubb-desc">
+<title id="ubb-title">Upflow brining tradeoff: packed bed, lifted bed and backwashed bed</title>
+<desc id="ubb-desc">Three softener tanks compare the bed-disturbance tradeoff of upflow counter-current brining: a packed bed keeps its layers but has no room to backwash out iron and silt, a bed lifted by fast upflow brine mixes its layers and loses the salt advantage, and a conventional bed with free space backwashes clean but is brined co-current.</desc>
+<defs>
+<pattern id="ubb-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern>
+<marker id="ubb-ab" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker>
+<marker id="ubb-ah" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+</defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">The catch: upflow brine must not move the bed</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Counter-current only saves salt while the bed stays layered. Keeping it still has a cost.</text>
+<text x="130" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1. Packed bed</text>
+<text x="380" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2. Bed lifted by brine</text>
+<text x="630" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">3. Free space, backwash</text>
+<rect x="70" y="124" width="120" height="280" rx="22" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="76" y="142" width="108" height="254" rx="14" fill="url(#ubb-beads)"/>
+<rect x="76" y="142" width="108" height="60" fill="#c2410c" fill-opacity="0.28"/>
+<path class="ln" d="M130,390 L130,160" fill="none" stroke="#7c3aed" stroke-width="6" stroke-linecap="round" marker-end="url(#ubb-ab)"/>
+<rect x="320" y="124" width="120" height="280" rx="22" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="326" y="252" width="108" height="144" rx="10" fill="url(#ubb-beads)"/>
+<rect x="326" y="252" width="108" height="144" fill="#c2410c" fill-opacity="0.14"/>
+<g fill="#e2b865"><circle cx="340" cy="160" r="3.5"/><circle cx="366" cy="176" r="3.5"/><circle cx="352" cy="200" r="3.5"/><circle cx="410" cy="166" r="3.5"/><circle cx="420" cy="196" r="3.5"/><circle cx="396" cy="222" r="3.5"/><circle cx="338" cy="232" r="3.5"/><circle cx="416" cy="238" r="3.5"/><circle cx="360" cy="146" r="3.5"/><circle cx="400" cy="144" r="3.5"/></g>
+<path class="ln" d="M380,390 L380,150" fill="none" stroke="#7c3aed" stroke-width="6" stroke-linecap="round" marker-end="url(#ubb-ab)"/>
+<rect x="570" y="124" width="120" height="280" rx="22" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="576" y="252" width="108" height="144" rx="10" fill="url(#ubb-beads)"/>
+<rect x="576" y="252" width="108" height="36" fill="#c2410c" fill-opacity="0.28"/>
+<path class="ln" d="M630,390 L630,150" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" marker-end="url(#ubb-ah)"/>
+<text x="130" y="430" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Layers stay in place</text>
+<text x="130" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">little or no free space</text>
+<text x="380" y="430" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Brine flow too fast</text>
+<text x="380" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">beads rise and mix</text>
+<text x="630" y="430" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Bed lifts and rinses</text>
+<text x="630" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">then brine flows down</text>
+<rect class="box" x="30" y="468" width="200" height="62" rx="8" fill="#fffbeb" stroke="#b45309" stroke-width="1.5"/>
+<text x="130" y="493" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Saves salt</text>
+<text x="130" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">but keeps iron and silt</text>
+<rect class="box" x="280" y="468" width="200" height="62" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="380" y="493" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Advantage lost</text>
+<text x="380" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">can do worse than downflow</text>
+<rect class="box" x="530" y="468" width="200" height="62" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="630" y="493" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Clean bed</text>
+<text x="630" y="513" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">but brined co-current</text>
+<rect x="30" y="554" width="26" height="6" rx="3" fill="#7c3aed"/>
+<text x="64" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">upflow brine</text>
+<rect x="180" y="554" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="214" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">backwash water</text>
+<rect x="344" y="550" width="26" height="14" fill="#dbeafe" stroke="#3a5a72"/>
+<text x="378" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">free space (water)</text>
+<rect x="520" y="550" width="26" height="14" fill="#c2410c" fill-opacity="0.28"/>
+<text x="554" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">hardness-loaded resin</text>
+</svg>

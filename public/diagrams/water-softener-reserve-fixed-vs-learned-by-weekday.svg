@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 568" width="760" height="568" role="img" aria-labelledby="rwk-title rwk-desc">
+<title id="rwk-title">Water softener reserve capacity: fixed percentage vs heaviest day</title>
+<desc id="rwk-desc">Illustrative weekly chart of daily water use against water softener reserve capacity: a fixed 15 percent reserve of 390 gallons covers every day except a 450-gallon Saturday, while a reserve set to the heaviest day covers all seven.</desc>
+<defs></defs>
+<rect width="760" height="568" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Daily water use vs a fixed reserve</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative week, family of four: 2,600 gallons between regenerations</text>
+<text x="30" y="116" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Gallons used that day</text>
+<text x="100" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M110,348.0 L700,348.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="353" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">100</text>
+<path d="M110,296.0 L700,296.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="301" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">200</text>
+<path d="M110,244.0 L700,244.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="249" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">300</text>
+<path d="M110,192.0 L700,192.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="197" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">400</text>
+<path d="M110,140.0 L700,140.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="145" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">500</text>
+<rect x="140" y="254.4" width="56" height="145.6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="168" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Mon</text>
+<text x="168" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">280 gal</text>
+<rect x="220" y="259.6" width="56" height="140.4" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="248" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Tue</text>
+<text x="248" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">270 gal</text>
+<rect x="300" y="249.2" width="56" height="150.8" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="328" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Wed</text>
+<text x="328" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">290 gal</text>
+<rect x="380" y="254.4" width="56" height="145.6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="408" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Thu</text>
+<text x="408" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">280 gal</text>
+<rect x="460" y="244" width="56" height="156" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="488" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Fri</text>
+<text x="488" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">300 gal</text>
+<rect x="540" y="166" width="56" height="234" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="568" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sat</text>
+<text x="568" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">450 gal</text>
+<rect x="620" y="218" width="56" height="182" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="648" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sun</text>
+<text x="648" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">350 gal</text>
+<path class="ln" d="M110,166 L700,166" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 5"/>
+<path class="ln" d="M110,197.2 L700,197.2" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 5"/>
+<path class="ln" d="M110,120 L110,400 L700,400" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M30,478 L70,478" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 5"/>
+<text x="80" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Fixed 15% reserve = 390 gal. Saturday uses more than that.</text>
+<path class="ln" d="M30,504 L70,504" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 5"/>
+<text x="80" y="509" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Reserve = heaviest day, 450 gal (measured over 14 days, or learned by the valve)</text>
+<text x="30" y="544" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">If Saturday follows a night with 391 to 449 gallons left, the fixed reserve runs out.</text>
+</svg>

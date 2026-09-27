@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 530" width="760" height="530" role="img" aria-labelledby="sfm-title sfm-desc">
+<title id="sfm-title">Softened water and fixtures: what changes at each one</title>
+<desc id="sfm-desc">Bathroom map of softened water and fixtures: the showerhead, faucet cartridge and aerator stop scaling, while a glass shower door loses its limescale but can still show soap film and water marks.</desc>
+<rect width="760" height="530" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#0b2f4a">What softened water changes at each fixture</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Scale stops forming everywhere. Only the glass keeps a second, non-scale problem.</text>
+<path d="M60,100 L60,440" stroke="#cbd5e1" stroke-width="3" fill="none"/>
+<path d="M60,120 L120,120 L120,136" stroke="#3a5a72" stroke-width="5" fill="none"/>
+<path d="M100,136 L150,136 L142,150 L108,150 Z" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<rect x="80" y="166" width="160" height="266" fill="#f0f9ff" stroke="#3a5a72" stroke-width="2.5"/>
+<path d="M226,290 L226,320" stroke="#3a5a72" stroke-width="4" fill="none"/>
+<path d="M40,440 L270,440" stroke="#3a5a72" stroke-width="3" fill="none"/>
+<rect x="290" y="330" width="150" height="110" rx="4" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<path d="M300,330 Q365,362 430,330" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<path d="M362,330 L362,286 L398,286 L398,300" stroke="#3a5a72" stroke-width="7" fill="none"/>
+<rect x="392" y="300" width="12" height="8" fill="#0b2f4a"/>
+<path d="M350,286 L374,272" stroke="#3a5a72" stroke-width="5" fill="none"/>
+<path class="ln" d="M150,142 L472,140" stroke="#52697a" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M240,300 L472,236" stroke="#52697a" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M366,322 L472,428" stroke="#52697a" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M404,304 L472,334" stroke="#52697a" stroke-width="1.5" fill="none"/>
+<rect class="box" x="476" y="100" width="254" height="80" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="492" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Showerhead</text>
+<text x="492" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">New scale stops forming.</text>
+<text x="492" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Old scale stays until you descale it.</text>
+<rect class="box" x="476" y="196" width="254" height="80" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="492" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Glass shower door</text>
+<text x="492" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">No limescale crust. Soap film and</text>
+<text x="492" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">dried water marks can still show.</text>
+<rect class="box" x="476" y="292" width="254" height="80" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="492" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Aerator screen</text>
+<text x="492" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Stays free of scale. Still catches</text>
+<text x="492" y="358" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">grit, so clean it once a year.</text>
+<rect class="box" x="476" y="388" width="254" height="80" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="492" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Faucet cartridge and handle</text>
+<text x="492" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">No new scale on the moving parts,</text>
+<text x="492" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">so handles stay smooth.</text>
+<rect x="30" y="494" width="22" height="14" rx="3" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="60" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Softening solves the scale problem</text>
+<rect x="300" y="494" width="22" height="14" rx="3" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="330" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Scale solved, another residue can remain</text>
+</svg>

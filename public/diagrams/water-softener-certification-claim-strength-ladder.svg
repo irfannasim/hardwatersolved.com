@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="g26ld-title g26ld-desc">
+<title id="g26ld-title">Water softener certification claim strength ladder</title>
+<desc id="g26ld-desc">Five rungs of water softener certification claims from weakest to strongest: marketing words with no listing, a certified component, material safety only under NSF/ANSI 61 or 372, a full NSF/ANSI 44 listing with hardness reduction, and a Standard 44 listing with an efficiency rating for the exact model.</desc>
+<defs>
+<marker id="g26ld-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What a certification claim on a softener is worth</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Performance is only proven from rung 4 up, and only for the model listed</text>
+<text x="30" y="94" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Stronger</text>
+<path class="ln" d="M55,452 L55,112" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g26ld-a)"/>
+<text x="30" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">Weaker</text>
+<rect class="box" x="90" y="104" width="640" height="62" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="106" y="130" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">5. Standard 44 with Efficiency Rated</text>
+<text x="106" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">proves capacity, safety and salt efficiency, for this model</text>
+<rect class="box" x="90" y="178" width="570" height="62" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="106" y="204" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4. Standard 44 with Hardness Reduction</text>
+<text x="106" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">proves the system delivers its published capacity</text>
+<rect class="box" x="90" y="252" width="500" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="106" y="278" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Standard 61 or 372 only</text>
+<text x="106" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">proves safe, low-lead materials; not performance</text>
+<rect class="box" x="90" y="326" width="430" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="106" y="352" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. A certified component</text>
+<text x="106" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">one part is certified; the system is not</text>
+<rect class="box" x="90" y="400" width="360" height="62" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="106" y="426" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Marketing words, no listing</text>
+<text x="106" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">proves nothing until you find a listing</text>
+</svg>

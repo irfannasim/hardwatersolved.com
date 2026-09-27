@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="cec-title cec-desc">
+<title id="cec-title">Water softener capacity entry error: gallon countdown versus resin actually left</title>
+<desc id="cec-desc">Illustrative chart: with capacity set for the real salt dose, the softener regenerates on night 8 before the resin runs out. With the 48,000-grain box rating entered, the valve counts 3,200 gallons and waits until night 10, delivering hard water from day 8.7.</desc>
+<defs></defs>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Soft water left in the resin, day by day</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative: 300 gallons a day, resin good for 2,600 gallons at the chosen salt dose, 280-gallon reserve</text>
+<path d="M110,380 L710,380" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="100" y="385" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M110,312.5 L710,312.5" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="100" y="317.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">800</text>
+<path d="M110,245 L710,245" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="100" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1,600</text>
+<path d="M110,177.5 L710,177.5" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="100" y="182.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">2,400</text>
+<path d="M110,110 L710,110" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="100" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">3,200</text>
+<text x="110" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<text x="164.54545454545456" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">1</text>
+<text x="219.0909090909091" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">2</text>
+<text x="273.6363636363636" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">3</text>
+<text x="328.1818181818182" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">4</text>
+<text x="382.72727272727275" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<text x="437.27272727272725" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6</text>
+<text x="491.8181818181818" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">7</text>
+<text x="546.3636363636364" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">8</text>
+<text x="600.909090909091" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">9</text>
+<text x="655.4545454545455" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10</text>
+<text x="710" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">11</text>
+<text x="410" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Days since last regeneration</text>
+<text x="40" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a" transform="rotate(-90 40 245)">Gallons</text>
+<rect x="582.9" y="110" width="72.5" height="270" fill="#fee2e2"/>
+<text x="619.2" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">Hard</text>
+<text x="619.2" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">water</text>
+<path class="ln" d="M110,356.4 L710,356.4" stroke="#7c3aed" stroke-width="2" fill="none" stroke-dasharray="6 4"/>
+<text x="118" y="348.375" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#7c3aed">Reserve 280 gal</text>
+<path class="ln" d="M110,160.6 L582.9,380" stroke="#0e7490" stroke-width="4" fill="none"/>
+<path class="ln" d="M582.9,380 L655.5,380" stroke="#dc2626" stroke-width="5" fill="none"/>
+<path class="ln" d="M110,110 L655.5,363.1" stroke="#c2410c" stroke-width="2.5" fill="none" stroke-dasharray="8 5"/>
+<path class="ln" d="M546.4,363.1 L546.4,150" stroke="#15803d" stroke-width="2" fill="none"/>
+<text x="540.3636363636364" y="144" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#15803d">Correct entry regenerates night 8</text>
+<path class="ln" d="M655.5,363.1 L655.5,170" stroke="#dc2626" stroke-width="2" fill="none"/>
+<path class="ln" d="M110,436 L150,436" stroke="#0e7490" stroke-width="4" fill="none"/>
+<text x="158" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Resin actually left (2,600 at start)</text>
+<path class="ln" d="M430,436 L470,436" stroke="#c2410c" stroke-width="2.5" fill="none" stroke-dasharray="8 5"/>
+<text x="478" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Valve count with 48,000 entered</text>
+<text x="110" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">With the box rating entered, the valve waits until night 10; the resin ran dry on day 8.7.</text>
+</svg>

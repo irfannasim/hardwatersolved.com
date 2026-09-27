@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" width="760" height="610" role="img" aria-labelledby="fbq-title fbq-desc">
+<title id="fbq-title">Three questions that place any filter before or after a water softener</title>
+<desc id="fbq-desc">Flowchart. Question 1: does the filter remove something that damages or fouls softener resin? Yes means before the softener. Question 2: does it add hardness? Yes means before. Question 3: is it harmed by hardness or does it only treat drinking water? Yes means after. No to all three means a polishing stage after the softener.</desc>
+<defs><marker id="fbq-m15803d" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="fbq-m52697a" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="fbq-m0e7490" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="610" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Placing any filter: three questions, in order</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">The first yes decides the position.</text>
+<rect class="box" x="30" y="92" width="420" height="92" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="48" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">1. Does it remove something that</text>
+<text x="48" y="140" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">damages or fouls softener resin?</text>
+<text x="48" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">e.g. sediment, chlorine, chloramine, iron, Mn, H2S</text>
+<path class="ln" d="M454,138 L532,138" fill="none" stroke="#15803d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbq-m15803d)"/>
+<text x="494" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#15803d">yes</text>
+<rect class="box" x="540" y="106" width="190" height="64" rx="8" fill="#fdf0e8" stroke="#c2410c" stroke-width="2"/>
+<text x="635" y="133.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">BEFORE the softener</text>
+<text x="635" y="152.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">protects the resin</text>
+<path class="ln" d="M150,188 L150,212" fill="none" stroke="#52697a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbq-m52697a)"/>
+<text x="166" y="210" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="220" width="420" height="92" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="48" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">2. Does it add hardness</text>
+<text x="48" y="268" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">to the water?</text>
+<text x="48" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">e.g. calcite or calcite-magnesia neutralizer</text>
+<path class="ln" d="M454,266 L532,266" fill="none" stroke="#15803d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbq-m15803d)"/>
+<text x="494" y="254" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#15803d">yes</text>
+<rect class="box" x="540" y="234" width="190" height="64" rx="8" fill="#fdf0e8" stroke="#c2410c" stroke-width="2"/>
+<text x="635" y="261.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">BEFORE the softener</text>
+<text x="635" y="280.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">softener removes it</text>
+<path class="ln" d="M150,316 L150,340" fill="none" stroke="#52697a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbq-m52697a)"/>
+<text x="166" y="338" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="348" width="420" height="92" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="48" y="376" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">3. Is it harmed by hardness, or does</text>
+<text x="48" y="396" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">it only treat drinking water?</text>
+<text x="48" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">e.g. UV sleeve, tannin resin, RO, cartridges</text>
+<path class="ln" d="M454,394 L532,394" fill="none" stroke="#15803d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbq-m15803d)"/>
+<text x="494" y="382" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#15803d">yes</text>
+<rect class="box" x="540" y="362" width="190" height="64" rx="8" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="635" y="389.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">AFTER the softener</text>
+<text x="635" y="408.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">lasts longer on soft water</text>
+<path class="ln" d="M150,444 L150,468" fill="none" stroke="#52697a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbq-m52697a)"/>
+<text x="166" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">no</text>
+<rect class="box" x="30" y="476" width="420" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="48" y="506" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">No to all three: a polishing stage</text>
+<text x="48" y="528" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">e.g. taste-and-odor carbon on a well with no chlorine</text>
+<path class="ln" d="M454,511 L532,511" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbq-m0e7490)"/>
+<rect class="box" x="540" y="482" width="190" height="58" rx="8" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="635" y="506.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">AFTER the softener</text>
+<text x="635" y="525.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">easiest to service</text>
+<text x="30" y="582" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Orange result: before the softener. Teal result: after it.</text>
+</svg>

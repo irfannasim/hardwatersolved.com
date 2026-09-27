@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="g11lp-title g11lp-desc">
+<title id="g11lp-title">Softener loop isolation test: close one leg valve, open the jumper drain</title>
+<desc id="g11lp-desc">Shutoff isolation test for water softener loop flow direction. With leg A's valve closed and the jumper drain open, a steady flow that does not stop means leg B is the inlet on main pressure. A short gush that fades and stops means leg B is the outlet, draining back from house piping.</desc>
+<defs>
+<marker id="g11lp-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="g11lp-g" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+</defs>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">The isolation test: close leg A, open the drain</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Needs a valve on each leg and a drain on the jumper. Keep every other tap closed.</text>
+
+<rect class="box" x="30" y="86" width="340" height="370" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="200" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Result 1: flow keeps going</text>
+<path class="ln" d="M130,140 L130,330 Q130,360 160,360 L190,360" stroke="#cbd5e1" stroke-width="6" fill="none"/>
+<path class="ln" d="M270,140 L270,330 Q270,360 240,360 L214,360" stroke="#c2410c" stroke-width="6" fill="none" stroke-linejoin="round"/>
+<path d="M120,230 L140,230 L130,246 Z M120,262 L140,262 L130,246 Z" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<path d="M260,230 L280,230 L270,246 Z M260,262 L280,262 L270,246 Z" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="114" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#dc2626">A closed</text>
+<text x="286" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">B open</text>
+<rect x="192" y="352" width="20" height="16" fill="#52697a"/>
+<path class="ln" d="M202,372 L202,408" stroke="#c2410c" stroke-width="6" fill="none" marker-end="url(#g11lp-h)"/>
+<text x="258" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#c2410c">main pressure</text>
+<text x="46" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">Steady flow: leg B is the inlet</text>
+
+<rect class="box" x="390" y="86" width="340" height="370" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="560" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Result 2: gush, then it stops</text>
+<path class="ln" d="M490,140 L490,330 Q490,360 520,360 L550,360" stroke="#cbd5e1" stroke-width="6" fill="none"/>
+<path class="ln" d="M630,140 L630,330 Q630,360 600,360 L574,360" stroke="#78716c" stroke-width="4" stroke-dasharray="8 5" fill="none"/>
+<path d="M480,230 L500,230 L490,246 Z M480,262 L500,262 L490,246 Z" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<path d="M620,230 L640,230 L630,246 Z M620,262 L640,262 L630,246 Z" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="474" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#dc2626">A closed</text>
+<text x="646" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">B open</text>
+<rect x="552" y="352" width="20" height="16" fill="#52697a"/>
+<path class="ln" d="M562,372 L562,398" stroke="#78716c" stroke-width="3" stroke-dasharray="5 4" fill="none" marker-end="url(#g11lp-g)"/>
+<text x="618" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">house pipes</text>
+<text x="406" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Fades to nothing: leg B is the outlet</text>
+
+<text x="30" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Then swap: open A, close B, and expect the opposite result. If the outlet side never stops,</text>
+<text x="30" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">something else feeds the house piping, such as a second connection that bypasses the loop.</text>
+<text x="30" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Close the drain before reopening both leg valves.</text>
+</svg>

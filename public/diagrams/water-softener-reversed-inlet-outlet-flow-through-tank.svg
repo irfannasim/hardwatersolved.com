@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="g11rv-title g11rv-desc">
+<title id="g11rv-title">Water softener installed backwards: correct versus reversed flow through the mineral tank</title>
+<desc id="g11rv-desc">Correct softener loop flow direction sends hard water into the valve inlet, down through the resin bed and up the riser tube to the outlet. Reversed, supply enters the outlet port, goes down the riser, rises up through the resin bed and leaves through the top, where it can lift the bed, soften unevenly and carry resin beads into the house.</desc>
+<defs>
+<marker id="g11rv-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="g11rv-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<pattern id="g11rv-res" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#f6ead2"/><circle cx="6" cy="6" r="3.5" fill="#e2b865"/></pattern>
+</defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Plumbed backwards, the water goes the wrong way</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Same downflow softener, same valve. Only the pipe connections are swapped.</text>
+
+<rect class="box" x="30" y="86" width="340" height="400" rx="10" fill="#ffffff" stroke="#15803d" stroke-width="1.5"/>
+<text x="200" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Correct</text>
+<rect x="150" y="206" width="100" height="250" rx="30" fill="url(#g11rv-res)" stroke="#3a5a72" stroke-width="2"/>
+<rect x="152" y="208" width="96" height="46" rx="28" fill="#dbeafe"/>
+<path class="ln" d="M60,170 L140,170" stroke="#c2410c" stroke-width="6" fill="none" marker-end="url(#g11rv-h)"/>
+<path class="ln" d="M262,170 L338,170" stroke="#0e7490" stroke-width="6" fill="none" marker-end="url(#g11rv-s)"/>
+<rect class="box" x="140" y="150" width="120" height="44" rx="6" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="200" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">valve</text>
+<text x="60" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#c2410c">IN</text>
+<text x="310" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">OUT</text>
+<path class="ln" d="M200,196 L200,440" stroke="#0e7490" stroke-width="5" fill="none"/>
+<path class="ln" d="M172,260 L172,410" stroke="#c2410c" stroke-width="4" fill="none" marker-end="url(#g11rv-h)"/>
+<path class="ln" d="M228,260 L228,410" stroke="#c2410c" stroke-width="4" fill="none" marker-end="url(#g11rv-h)"/>
+<text x="46" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Down through the packed bed, up the riser</text>
+<text x="46" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">tube and out: every drop meets the resin.</text>
+
+<rect class="box" x="390" y="86" width="340" height="400" rx="10" fill="#ffffff" stroke="#dc2626" stroke-width="1.5"/>
+<text x="560" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Reversed</text>
+<rect x="510" y="206" width="100" height="250" rx="30" fill="url(#g11rv-res)" stroke="#3a5a72" stroke-width="2"/>
+<rect x="512" y="208" width="96" height="30" rx="20" fill="#dbeafe"/>
+<path class="ln" d="M700,170 L624,170" stroke="#c2410c" stroke-width="6" fill="none" marker-end="url(#g11rv-h)"/>
+<path class="ln" d="M498,170 L422,170" stroke="#0e7490" stroke-width="5" stroke-dasharray="9 6" fill="none" marker-end="url(#g11rv-s)"/>
+<rect class="box" x="500" y="150" width="120" height="44" rx="6" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="560" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">valve</text>
+<text x="420" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">IN port</text>
+<text x="700" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#52697a">OUT port</text>
+<path class="ln" d="M560,196 L560,440" stroke="#c2410c" stroke-width="5" fill="none"/>
+<path class="ln" d="M532,420 L532,262" stroke="#c2410c" stroke-width="4" fill="none" marker-end="url(#g11rv-h)"/>
+<path class="ln" d="M588,420 L588,262" stroke="#c2410c" stroke-width="4" fill="none" marker-end="url(#g11rv-h)"/>
+<circle cx="450" cy="190" r="4" fill="#e2b865" stroke="#b45309" stroke-width="1"/>
+<circle cx="466" cy="196" r="4" fill="#e2b865" stroke="#b45309" stroke-width="1"/>
+<circle cx="440" cy="204" r="4" fill="#e2b865" stroke="#b45309" stroke-width="1"/>
+<text x="406" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">beads</text>
+<text x="406" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">can escape</text>
+<text x="626" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">upflow can</text>
+<text x="626" y="348" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">lift the bed</text>
+<text x="406" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Down the riser, up through the bed and out</text>
+<text x="406" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the top: softening is uneven at high flow.</text>
+</svg>

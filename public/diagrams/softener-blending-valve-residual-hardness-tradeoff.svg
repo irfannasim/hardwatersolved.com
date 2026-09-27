@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img" aria-labelledby="bvr-title bvr-desc">
+<title id="bvr-title">Water softener blending valve: residual hardness vs scale protection lost</title>
+<desc id="bvr-desc">Illustrative scale from 0 to 6 gpg residual hardness on 20 gpg raw water, with Penn State hardness classes. A 1 gpg blend lets in 5% raw water and 0.14 lb of scale potential per 1,000 gallons; 2 gpg is 10% and 0.29 lb; 3 gpg is 15% and 0.43 lb; 5 gpg is 25% and 0.71 lb.</desc>
+<rect width="760" height="400" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What a blending valve gives back</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Illustrative: 20 gpg raw water. 0 gpg means full protection.</text>
+<text x="180" y="98" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Penn State hardness classes</text>
+<rect class="box" x="180" y="110" width="85" height="40" fill="#0e7490"/>
+<text x="222" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Soft</text>
+<rect class="box" x="265" y="110" width="212" height="40" fill="#f3d2c1"/>
+<text x="371" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Slightly hard</text>
+<rect class="box" x="477" y="110" width="213" height="40" fill="#c2410c"/>
+<text x="583" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Moderately hard</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="middle">
+<text x="180" y="170">0</text><text x="265" y="170">1</text><text x="350" y="170">2</text><text x="435" y="170">3</text><text x="520" y="170">4</text><text x="605" y="170">5</text><text x="690" y="170">6 gpg</text>
+</g>
+<g stroke="#52697a" stroke-width="1.5">
+<line class="ln" x1="265" y1="182" x2="265" y2="214"/>
+<line class="ln" x1="350" y1="182" x2="350" y2="214"/>
+<line class="ln" x1="435" y1="182" x2="435" y2="214"/>
+<line class="ln" x1="605" y1="182" x2="605" y2="214"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">
+<text x="30" y="240" font-weight="bold">Blend setting</text>
+<text x="30" y="263">Raw water in</text>
+<text x="30" y="286">Scale potential</text>
+<text x="30" y="302" fill="#52697a">per 1,000 gal</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">
+<rect class="box" x="227" y="218" width="76" height="80" rx="5" fill="#fdeee6" stroke="#c2410c" stroke-width="1.5"/>
+<text x="265" y="240" font-weight="bold">1 gpg</text><text x="265" y="263">5%</text><text x="265" y="286">0.14 lb</text>
+<rect class="box" x="312" y="218" width="76" height="80" rx="5" fill="#fdeee6" stroke="#c2410c" stroke-width="1.5"/>
+<text x="350" y="240" font-weight="bold">2 gpg</text><text x="350" y="263">10%</text><text x="350" y="286">0.29 lb</text>
+<rect class="box" x="397" y="218" width="76" height="80" rx="5" fill="#fdeee6" stroke="#c2410c" stroke-width="1.5"/>
+<text x="435" y="240" font-weight="bold">3 gpg</text><text x="435" y="263">15%</text><text x="435" y="286">0.43 lb</text>
+<rect class="box" x="567" y="218" width="76" height="80" rx="5" fill="#fdeee6" stroke="#c2410c" stroke-width="1.5"/>
+<text x="605" y="240" font-weight="bold">5 gpg</text><text x="605" y="263">25%</text><text x="605" y="286">0.71 lb</text>
+</g>
+<text x="30" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Common blend target: 1–3 gpg. Above 3.5 gpg the water is no longer really soft.</text>
+<text x="30" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">7,000 grains = 1 lb. Scale potential: not all of it deposits in the water heater.</text>
+<text x="30" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Blending also lets through any iron or manganese in the raw water.</text>
+</svg>

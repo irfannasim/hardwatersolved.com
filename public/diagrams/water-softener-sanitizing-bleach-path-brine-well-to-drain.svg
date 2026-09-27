@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 760" width="760" height="760" role="img" aria-labelledby="wssb-title wssb-desc">
+<title id="wssb-title">How sanitizing bleach travels through a water softener</title>
+<desc id="wssb-desc">Cutaway of a downflow water softener being sanitized. Bleach poured into the brine well is drawn through the brine line and injector during the brine draw, passes down through the resin bed, rises through the distributor tube and leaves through the drain line. Rinses flush the rest out before the chlorine check at a tap.</desc>
+<defs><marker id="wssb-m7c3aed" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="wssb-m78716c" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><pattern id="wssb-resin" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#f6ead2"/><circle cx="4" cy="4" r="3" fill="#e2b865"/><circle cx="10" cy="10" r="3" fill="#e2b865"/></pattern><pattern id="wssb-salt" width="16" height="12" patternUnits="userSpaceOnUse"><rect width="16" height="12" fill="#f8fafc"/><rect x="2" y="2" width="9" height="6" rx="2" fill="#e2e8f0"/></pattern></defs>
+<rect width="760" height="760" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Sanitizing a water softener: where the bleach goes</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Downflow softener shown. The regeneration itself carries the dose through the resin and out.</text>
+<rect x="200" y="180" width="150" height="380" rx="40" fill="#ffffff" stroke="#3a5a72" stroke-width="3"/>
+<rect x="206" y="250" width="138" height="304" rx="30" fill="url(#wssb-resin)"/>
+<rect x="268" y="150" width="14" height="395" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="190" y="108" width="170" height="44" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="275" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Control valve</text>
+<rect x="480" y="250" width="230" height="310" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="3"/>
+<rect x="550" y="360" width="154" height="194" fill="url(#wssb-salt)"/>
+<rect x="486" y="470" width="218" height="84" fill="#dbeafe" opacity="0.7"/>
+<rect x="498" y="230" width="40" height="324" fill="#f1ebfe" stroke="#3a5a72" stroke-width="2"/>
+<text x="630" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">salt</text>
+<text x="630" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#7c3aed">brine</text>
+<rect class="box" x="570" y="150" width="140" height="50" rx="8" fill="#f1ebfe" stroke="#7c3aed" stroke-width="2"/>
+<text x="640" y="170.5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Bleach</text>
+<text x="640" y="189.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">measured dose</text>
+<path class="ln" d="M570,190 L538,216" fill="none" stroke="#7c3aed" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wssb-m7c3aed)"/>
+<path class="ln" d="M510,530 L510,130 L370,130" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wssb-m7c3aed)"/>
+<path class="ln" d="M238,270 L238,520" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wssb-m7c3aed)"/>
+<path class="ln" d="M312,270 L312,520" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wssb-m7c3aed)"/>
+<path class="ln" d="M275,540 L275,170" fill="none" stroke="#78716c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wssb-m78716c)"/>
+<path class="ln" d="M186,130 L90,130 L90,596" fill="none" stroke="#78716c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wssb-m78716c)"/>
+<rect class="box" x="40" y="604" width="100" height="40" rx="8" fill="#f5f5f4" stroke="#78716c" stroke-width="2"/>
+<text x="90" y="629" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Drain</text>
+<circle cx="542" cy="160" r="13" fill="#7c3aed"/>
+<text x="542" y="165" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<circle cx="430" cy="108" r="13" fill="#7c3aed"/>
+<text x="430" y="113" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<circle cx="380" cy="400" r="13" fill="#7c3aed"/>
+<text x="380" y="405" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<circle cx="176" cy="530" r="13" fill="#78716c"/>
+<text x="176" y="535" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<circle cx="60" cy="108" r="13" fill="#78716c"/>
+<text x="60" y="113" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<circle cx="186" cy="604" r="13" fill="#7c3aed"/>
+<text x="186" y="609" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="208" y="609" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Measured bleach goes into the brine well, which must have water in it</text>
+<circle cx="186" cy="630" r="13" fill="#7c3aed"/>
+<text x="186" y="635" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<text x="208" y="635" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Brine draw: the injector pulls brine and bleach through the brine line</text>
+<circle cx="186" cy="656" r="13" fill="#7c3aed"/>
+<text x="186" y="661" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<text x="208" y="661" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Chlorinated brine flows down through the resin bed</text>
+<circle cx="186" cy="682" r="13" fill="#78716c"/>
+<text x="186" y="687" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<text x="208" y="687" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">It enters the distributor tube at the bottom and rises to the valve</text>
+<circle cx="186" cy="708" r="13" fill="#78716c"/>
+<text x="186" y="713" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<text x="208" y="713" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Slow and rapid rinse flush the rest to drain. Then check a tap.</text>
+</svg>

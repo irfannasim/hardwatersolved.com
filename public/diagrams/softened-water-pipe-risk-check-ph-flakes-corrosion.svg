@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="spr-title spr-desc">
+<title id="spr-title">Does soft water damage pipes? Three checks in order</title>
+<desc id="spr-desc">Decision chart for softened water and household pipes. First check whether the raw water pH is below 7, which means the water is already aggressive and needs a neutralizer ahead of the softener. Then check for white or tan grit in the first weeks, which is old scale shedding, and for blue-green stains or pinholes, which point to corrosion from another cause. If none apply, softening is neutral for the pipes and stops new scale.</desc>
+<defs><marker id="spr-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Softened water and your pipes: check in this order</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">A softener leaves pH and alkalinity as they were, so start with the raw water</text>
+<rect class="box" x="30" y="92" width="300" height="48" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="180" y="122" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener installed or planned</text>
+<path class="ln" d="M180,140 L180,168" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#spr-a)"/>
+<rect class="box" x="30" y="174" width="300" height="64" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="180" y="202" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1. Raw water pH below 7?</text>
+<text x="180" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Sample before the softener</text>
+<path class="ln" d="M330,206 L404,206" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#spr-a)"/>
+<text x="367" y="194" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<rect class="box" x="410" y="174" width="320" height="64" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="570" y="202" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Water is already aggressive</text>
+<text x="570" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Put a neutralizer ahead of the softener</text>
+<path class="ln" d="M180,238 L180,290" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#spr-a)"/>
+<text x="192" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+<rect class="box" x="30" y="296" width="300" height="64" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="180" y="324" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2. White or tan grit at aerators</text>
+<text x="180" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">in the first weeks after installation?</text>
+<path class="ln" d="M330,328 L404,328" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#spr-a)"/>
+<text x="367" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<rect class="box" x="410" y="296" width="320" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="570" y="324" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Old scale shedding: temporary</text>
+<text x="570" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Clean screens, flush the water heater</text>
+<path class="ln" d="M180,360 L180,412" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#spr-a)"/>
+<text x="192" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+<rect class="box" x="30" y="418" width="300" height="64" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="180" y="446" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">3. Blue-green stains, pinholes</text>
+<text x="180" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">or a metallic first-draw taste?</text>
+<path class="ln" d="M330,450 L404,450" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#spr-a)"/>
+<text x="367" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<rect class="box" x="410" y="418" width="320" height="64" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="570" y="446" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Corrosion from another cause</text>
+<text x="570" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Test pH, alkalinity, copper and lead</text>
+<path class="ln" d="M180,482 L180,528" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#spr-a)"/>
+<text x="192" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+<rect class="box" x="30" y="534" width="700" height="52" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="380" y="566" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Softening is neutral for the pipes and stops new hot-side scale</text>
+<rect x="30" y="606" width="14" height="14" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="52" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">needs treatment or testing</text>
+<rect x="250" y="606" width="14" height="14" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="272" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">temporary, no treatment</text>
+<rect x="460" y="606" width="14" height="14" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="482" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">no action needed</text>
+</svg>

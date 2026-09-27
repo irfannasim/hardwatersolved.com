@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 530" width="760" height="530" role="img" aria-labelledby="pbv-title pbv-desc">
+<title id="pbv-title">How to check whether a softener valve really does proportional brining</title>
+<desc id="pbv-desc">Three-step check for proportional brining on a water softener control valve: find a brine fill setting that scales with gallons used, confirm it is switched on in the valve programming, then time the brine refill after a light-use and a heavy-use regeneration. Only a refill time that changes confirms genuine proportional brining.</desc>
+<defs>
+<marker id="pbv-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="530" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Is it really proportional brining? Three checks</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">The label on the box proves nothing. The refill step is where the salt is measured.</text>
+<rect class="box" x="30" y="94" width="410" height="68" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Does the manual describe a brine fill that</text>
+<text x="46" y="143" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">scales with the gallons used since the last regen?</text>
+<rect class="box" x="510" y="88" width="220" height="80" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="524" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Marketing term only</text>
+<text x="524" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Usually metered regeneration</text>
+<text x="524" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">with a fixed salt dose</text>
+<path class="ln" d="M440,128 L500,128" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#pbv-a)"/>
+<text x="470" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<path class="ln" d="M235,162 L235,202" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#pbv-a)"/>
+<text x="248" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="210" width="410" height="68" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Is it switched on in the valve's programming?</text>
+<text x="46" y="259" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Some valves only offer it in a prefill or upflow setup</text>
+<rect class="box" x="510" y="204" width="220" height="80" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="524" y="228" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Present but inactive</text>
+<text x="524" y="248" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">The valve still refills the</text>
+<text x="524" y="266" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">full dose every time</text>
+<path class="ln" d="M440,244 L500,244" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#pbv-a)"/>
+<text x="470" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<path class="ln" d="M235,278 L235,318" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#pbv-a)"/>
+<text x="248" y="304" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="326" width="410" height="68" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="354" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Time the brine refill after a light-use and</text>
+<text x="46" y="375" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">a heavy-use regeneration. Are the times different?</text>
+<rect class="box" x="510" y="320" width="220" height="80" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="524" y="344" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Not proportioning</text>
+<text x="524" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Recheck the programming</text>
+<text x="524" y="382" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">or ask the installer</text>
+<path class="ln" d="M440,360 L500,360" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#pbv-a)"/>
+<text x="470" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<path class="ln" d="M235,394 L235,434" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#pbv-a)"/>
+<text x="248" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="442" width="410" height="58" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="46" y="467" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Genuine proportional brining</text>
+<text x="46" y="487" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Salt used now tracks the water you actually softened</text>
+</svg>

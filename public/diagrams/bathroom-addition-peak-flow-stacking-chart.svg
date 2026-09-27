@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 532" width="760" height="532" role="img" aria-labelledby="bpf-title bpf-desc">
+<title id="bpf-title">Peak flow after adding a bathroom compared with a water softener service flow rating</title>
+<desc id="bpf-desc">Illustrative stacked bar chart of simultaneous fixture flow. Two bathrooms and a kitchen total 9.4 gpm; adding a third shower at 2.5 gpm raises the peak to 11.9 gpm, above an example 10 gpm softener rating, while WaterSense showerheads and bathroom faucet bring it back to 9.7 gpm.</desc>
+<defs></defs>
+<rect width="760" height="532" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Morning peak flow before and after a third bathroom</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative: fixtures running at the same time, at federal maximum or WaterSense flow rates</text>
+<text x="90" y="415" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M100,368.6 L560,368.6" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="373.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">2</text>
+<path d="M100,327.1 L560,327.1" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="332.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">4</text>
+<path d="M100,285.7 L560,285.7" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="290.7" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">6</text>
+<path d="M100,244.3 L560,244.3" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="249.3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">8</text>
+<path d="M100,202.9 L560,202.9" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="207.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">10</text>
+<path d="M100,161.4 L560,161.4" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="166.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">12</text>
+<path d="M100,120 L560,120" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">14</text>
+<text x="40" y="265" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a" transform="rotate(-90 40 265)">Gallons per minute at the same time</text>
+<rect x="125" y="358.2" width="110" height="51.8" fill="#0e7490" stroke="#ffffff" stroke-width="2"/>
+<text x="180" y="389.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Shower 2.5</text>
+<rect x="125" y="306.4" width="110" height="51.8" fill="#0e7490" stroke="#ffffff" stroke-width="2"/>
+<text x="180" y="337.29999999999995" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Shower 2.5</text>
+<rect x="125" y="260.9" width="110" height="45.5" fill="#8ecfd9" stroke="#ffffff" stroke-width="2"/>
+<text x="180" y="288.65" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Bath tap 2.2</text>
+<rect x="125" y="215.3" width="110" height="45.6" fill="#52697a" stroke="#ffffff" stroke-width="2"/>
+<text x="180" y="243.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Kitchen 2.2</text>
+<text x="180" y="470" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Total 9.4 gpm</text>
+<text x="180" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Before:</text>
+<text x="180" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2 bathrooms</text>
+<rect x="275" y="358.2" width="110" height="51.8" fill="#0e7490" stroke="#ffffff" stroke-width="2"/>
+<text x="330" y="389.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Shower 2.5</text>
+<rect x="275" y="306.4" width="110" height="51.8" fill="#0e7490" stroke="#ffffff" stroke-width="2"/>
+<text x="330" y="337.29999999999995" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Shower 2.5</text>
+<rect x="275" y="254.6" width="110" height="51.8" fill="#0e7490" stroke="#ffffff" stroke-width="2"/>
+<text x="330" y="285.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Shower 2.5</text>
+<rect x="275" y="209.1" width="110" height="45.5" fill="#8ecfd9" stroke="#ffffff" stroke-width="2"/>
+<text x="330" y="236.85" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Bath tap 2.2</text>
+<rect x="275" y="163.5" width="110" height="45.6" fill="#52697a" stroke="#ffffff" stroke-width="2"/>
+<text x="330" y="191.3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Kitchen 2.2</text>
+<text x="330" y="470" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Total 11.9 gpm</text>
+<text x="330" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">After, standard</text>
+<text x="330" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">fixtures</text>
+<rect x="425" y="368.6" width="110" height="41.4" fill="#0e7490" stroke="#ffffff" stroke-width="2"/>
+<text x="480" y="394.3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Shower 2.0</text>
+<rect x="425" y="327.1" width="110" height="41.5" fill="#0e7490" stroke="#ffffff" stroke-width="2"/>
+<text x="480" y="352.85" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Shower 2.0</text>
+<rect x="425" y="285.7" width="110" height="41.4" fill="#0e7490" stroke="#ffffff" stroke-width="2"/>
+<text x="480" y="311.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Shower 2.0</text>
+<rect x="425" y="254.6" width="110" height="31.1" fill="#8ecfd9" stroke="#ffffff" stroke-width="2"/>
+<text x="480" y="275.15" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Bath tap 1.5</text>
+<rect x="425" y="209.1" width="110" height="45.5" fill="#52697a" stroke="#ffffff" stroke-width="2"/>
+<text x="480" y="236.85" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Kitchen 2.2</text>
+<text x="480" y="470" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Total 9.7 gpm</text>
+<text x="480" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">After, WaterSense</text>
+<text x="480" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">shower and tap</text>
+<path d="M100,410 L560,410" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<path d="M100,202.9 L560,202.9" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="8 5" fill="none"/>
+<text x="574" y="180.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Example softener</text>
+<text x="574" y="197.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">service rating:</text>
+<text x="574" y="214.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">10 gpm</text>
+<text x="574" y="248.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Read yours from</text>
+<text x="574" y="265.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">the spec sheet.</text>
+<text x="574" y="282.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Above the line,</text>
+<text x="574" y="299.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">pressure drops and</text>
+<text x="574" y="316.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hardness can slip</text>
+<text x="574" y="333.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">through.</text>
+<rect x="100" y="496" width="16" height="16" fill="#0e7490"/>
+<text x="124" y="509" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Shower</text>
+<rect x="210" y="496" width="16" height="16" fill="#8ecfd9"/>
+<text x="234" y="509" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Bathroom faucet</text>
+<rect x="370" y="496" width="16" height="16" fill="#52697a"/>
+<text x="394" y="509" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Kitchen faucet</text>
+</svg>

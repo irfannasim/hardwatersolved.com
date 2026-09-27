@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="ped-title ped-desc">
+<title id="ped-title">Point of entry vs point of use decision: what are you protecting?</title>
+<desc id="ped-desc">Decision flowchart. Protecting the water heater, pipes, appliances, skin, laundry or fixtures leads to point-of-entry softening. Drinking and cooking water leads to point-of-use reverse osmosis or a certified filter. A single appliance with no whole-house option leads to an appliance cartridge. Most homes wanting both use a softener plus kitchen RO.</desc>
+<defs><marker id="ped-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Decide by what you are protecting</text>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<rect class="box" x="230" y="62" width="300" height="44" rx="6" fill="#0b2f4a"/>
+<text x="380" y="89" font-size="15" font-weight="bold" fill="#ffffff">What are you protecting?</text>
+<rect class="box" x="30" y="170" width="165" height="60" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="112" y="195" font-size="14" fill="#0b2f4a">Water heater,</text>
+<text x="112" y="214" font-size="14" fill="#0b2f4a">pipes, appliances</text>
+<rect class="box" x="205" y="170" width="165" height="60" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="287" y="195" font-size="14" fill="#0b2f4a">Skin, hair,</text>
+<text x="287" y="214" font-size="14" fill="#0b2f4a">laundry, fixtures</text>
+<rect class="box" x="380" y="170" width="165" height="60" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="462" y="195" font-size="14" fill="#0b2f4a">Drinking and</text>
+<text x="462" y="214" font-size="14" fill="#0b2f4a">cooking water</text>
+<rect class="box" x="555" y="170" width="165" height="60" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="637" y="195" font-size="14" fill="#0b2f4a">One appliance, no</text>
+<text x="637" y="214" font-size="14" fill="#0b2f4a">whole-house option</text>
+<rect class="box" x="30" y="270" width="340" height="70" rx="6" fill="#e6f4f7" stroke="#0e7490" stroke-width="2.5"/>
+<text x="200" y="296" font-size="15" font-weight="bold" fill="#0e7490">POINT OF ENTRY</text>
+<text x="200" y="320" font-size="13" fill="#0b2f4a">Whole-house softener, ahead of the heater</text>
+<rect class="box" x="380" y="270" width="165" height="70" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2.5"/>
+<text x="462" y="296" font-size="15" font-weight="bold" fill="#0b2f4a">POINT OF USE</text>
+<text x="462" y="320" font-size="13" fill="#0b2f4a">RO or certified filter</text>
+<rect class="box" x="555" y="270" width="165" height="70" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2.5"/>
+<text x="637" y="296" font-size="15" font-weight="bold" fill="#0b2f4a">POINT OF USE</text>
+<text x="637" y="320" font-size="13" fill="#0b2f4a">Appliance cartridge</text>
+<rect class="box" x="30" y="385" width="515" height="56" rx="6" fill="#e6f4f7" stroke="#0e7490" stroke-width="1.5"/>
+<text x="287" y="409" font-size="14" font-weight="bold" fill="#0b2f4a">Both? Most hard-water homes end up here:</text>
+<text x="287" y="429" font-size="13" fill="#0b2f4a">softener at the entry + reverse osmosis at the kitchen tap</text>
+</g>
+<g stroke="#3a5a72" stroke-width="2.5" fill="none">
+<line class="ln" x1="380" y1="106" x2="380" y2="140"/>
+<line class="ln" x1="112" y1="140" x2="637" y2="140"/>
+</g>
+<g stroke="#3a5a72" stroke-width="2.5" fill="none" marker-end="url(#ped-ah)">
+<line class="ln" x1="112" y1="140" x2="112" y2="166"/>
+<line class="ln" x1="287" y1="140" x2="287" y2="166"/>
+<line class="ln" x1="462" y1="140" x2="462" y2="166"/>
+<line class="ln" x1="637" y1="140" x2="637" y2="166"/>
+<line class="ln" x1="112" y1="230" x2="112" y2="266"/>
+<line class="ln" x1="287" y1="230" x2="287" y2="266"/>
+<line class="ln" x1="462" y1="230" x2="462" y2="266"/>
+<line class="ln" x1="637" y1="230" x2="637" y2="266"/>
+<line class="ln" x1="200" y1="340" x2="200" y2="381"/>
+<line class="ln" x1="462" y1="340" x2="462" y2="381"/>
+</g>
+<text x="30" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">A point-of-use unit never protects the water heater. A softener is not a drinking-water treatment.</text>
+</svg>

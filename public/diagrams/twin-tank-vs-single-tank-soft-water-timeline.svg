@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 566" width="760" height="566" role="img" aria-labelledby="tst-title tst-desc">
+<title id="tst-title">Single tank vs twin tank water softener: soft water supply over two days</title>
+<desc id="tst-desc">Illustrative timeline. A single tank water softener sends hard bypass water to the house during each overnight regeneration. A twin tank softener switches to its standby tank the moment one tank is exhausted, regenerates the used tank straight away, and supplies soft water around the clock.</desc>
+<defs></defs>
+<rect width="760" height="566" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Where the soft water comes from, hour by hour</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative two-day timeline. Regeneration windows drawn wider for clarity.</text>
+<text x="30" y="108" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">SINGLE TANK</text>
+<text x="30" y="144" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Mineral tank</text>
+<rect x="160" y="126" width="23.3" height="28" fill="#0e7490" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="183.3" y="126" width="46.7" height="28" fill="#7c3aed" stroke="#ffffff" stroke-width="1.5"/>
+<text x="206.65" y="145" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">regen</text>
+<rect x="230" y="126" width="233.3" height="28" fill="#0e7490" stroke="#ffffff" stroke-width="1.5"/>
+<text x="346.65" y="145" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">in service</text>
+<rect x="463.3" y="126" width="46.7" height="28" fill="#7c3aed" stroke="#ffffff" stroke-width="1.5"/>
+<text x="486.65" y="145" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">regen</text>
+<rect x="510" y="126" width="210.0" height="28" fill="#0e7490" stroke="#ffffff" stroke-width="1.5"/>
+<text x="615" y="145" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">in service</text>
+<text x="30" y="184" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">To the house</text>
+<rect x="160" y="166" width="23.3" height="28" fill="#0e7490" stroke="#ffffff" stroke-width="1.5"/>
+<rect x="183.3" y="166" width="46.7" height="28" fill="#c2410c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="206.65" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">hard</text>
+<rect x="230" y="166" width="233.3" height="28" fill="#0e7490" stroke="#ffffff" stroke-width="1.5"/>
+<text x="346.65" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">soft</text>
+<rect x="463.3" y="166" width="46.7" height="28" fill="#c2410c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="486.65" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">hard</text>
+<rect x="510" y="166" width="210.0" height="28" fill="#0e7490" stroke="#ffffff" stroke-width="1.5"/>
+<text x="615" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">soft</text>
+<text x="240" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#c2410c">During regeneration the valve bypasses raw water to the house</text>
+<text x="30" y="272" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">TWIN TANK, ALTERNATING</text>
+<text x="30" y="308" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Tank A</text>
+<rect x="160" y="290" width="210.0" height="28" fill="#0e7490" stroke="#ffffff" stroke-width="1.5"/>
+<text x="265" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">in service</text>
+<rect x="370" y="290" width="46.7" height="28" fill="#7c3aed" stroke="#ffffff" stroke-width="1.5"/>
+<text x="393.35" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">regen</text>
+<rect x="416.7" y="290" width="303.3" height="28" fill="#cbd5e1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="568.35" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">standby, fully regenerated</text>
+<text x="30" y="348" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Tank B</text>
+<rect x="160" y="330" width="210.0" height="28" fill="#cbd5e1" stroke="#ffffff" stroke-width="1.5"/>
+<text x="265" y="349" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">standby</text>
+<rect x="370" y="330" width="350.0" height="28" fill="#0e7490" stroke="#ffffff" stroke-width="1.5"/>
+<text x="545" y="349" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">in service</text>
+<text x="30" y="388" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">To the house</text>
+<rect x="160" y="370" width="560.0" height="28" fill="#0e7490" stroke="#ffffff" stroke-width="1.5"/>
+<text x="440" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">soft, around the clock</text>
+<text x="380" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Tank A runs out at 6 pm: the valve</text>
+<text x="380" y="443" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">switches to Tank B at once and</text>
+<text x="380" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">regenerates Tank A straight away</text>
+<path class="ln" d="M370,418 L370,400" fill="none" stroke="#52697a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160,484 L720,484" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<path d="M160,479 L160,489" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<text x="160" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">midnight</text>
+<path d="M300,479 L300,489" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<text x="300" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">noon</text>
+<path d="M440,479 L440,489" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<text x="440" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">midnight</text>
+<path d="M580,479 L580,489" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<text x="580" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">noon</text>
+<path d="M720,479 L720,489" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<text x="720" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">midnight</text>
+<rect x="30" y="532" width="16" height="16" fill="#0e7490"/>
+<text x="54" y="545" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">soft water / in service</text>
+<rect x="210" y="532" width="16" height="16" fill="#7c3aed"/>
+<text x="234" y="545" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">regenerating</text>
+<rect x="390" y="532" width="16" height="16" fill="#c2410c"/>
+<text x="414" y="545" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hard water to house</text>
+<rect x="570" y="532" width="16" height="16" fill="#cbd5e1"/>
+<text x="594" y="545" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">standby</text>
+</svg>

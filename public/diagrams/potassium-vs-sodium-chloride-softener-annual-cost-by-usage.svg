@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" role="img" aria-labelledby="pvc-title pvc-desc">
+<title id="pvc-title">Potassium chloride vs sodium chloride softener: annual regenerant cost at three usage levels</title>
+<desc id="pvc-desc">Illustrative bar chart. A household using 240 lb of sodium chloride a year spends about 45 dollars, against 202 to 216 dollars for potassium chloride. At 480 lb it is 90 dollars against 403 to 432. At 720 lb it is 135 dollars against 605 to 648. The potassium range reflects 12 to 20 percent more product.</desc>
+<rect width="760" height="470" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What potassium chloride costs a year, by household</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative prices: $7.50 per 40 lb bag of salt, $30 per 40 lb bag of potassium chloride</text>
+<text x="30" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Light use</text>
+<text x="30" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">240 lb of salt a year</text>
+<rect x="250" y="104" width="27" height="22" fill="#7c3aed"/>
+<text x="285" y="120" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">$45</text>
+<rect x="250" y="132" width="121" height="22" fill="#3a5a72"/>
+<rect x="371" y="132" width="8" height="22" fill="#cbd5e1"/>
+<text x="387" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">$202 to $216</text>
+<text x="30" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Typical use</text>
+<text x="30" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">480 lb of salt a year</text>
+<rect x="250" y="194" width="54" height="22" fill="#7c3aed"/>
+<text x="312" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">$90</text>
+<rect x="250" y="222" width="242" height="22" fill="#3a5a72"/>
+<rect x="492" y="222" width="17" height="22" fill="#cbd5e1"/>
+<text x="517" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">$403 to $432</text>
+<text x="30" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Heavy use</text>
+<text x="30" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">720 lb of salt a year</text>
+<rect x="250" y="284" width="81" height="22" fill="#7c3aed"/>
+<text x="339" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">$135</text>
+<rect x="250" y="312" width="363" height="22" fill="#3a5a72"/>
+<rect x="613" y="312" width="26" height="22" fill="#cbd5e1"/>
+<text x="647" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">$605 to $648</text>
+<path class="ln" d="M250,356 L670,356" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M250,356 L250,363" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M370,356 L370,363" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M490,356 L490,363" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M610,356 L610,363" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<text x="370" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$200</text>
+<text x="490" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$400</text>
+<text x="610" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$600</text>
+<rect x="30" y="404" width="14" height="14" fill="#7c3aed"/>
+<text x="52" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">sodium chloride</text>
+<rect x="190" y="404" width="14" height="14" fill="#3a5a72"/>
+<text x="212" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">potassium chloride, 12% more product</text>
+<rect x="470" y="404" width="14" height="14" fill="#cbd5e1"/>
+<text x="492" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">extra if 20% more is needed</text>
+<text x="30" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">12% is the WaterBoss adjustment, 20% the GE one. Check your own manual and local prices.</text>
+</svg>

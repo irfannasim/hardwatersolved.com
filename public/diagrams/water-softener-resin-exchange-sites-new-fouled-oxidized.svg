@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" width="760" height="450" role="img" aria-labelledby="rs-title rs-desc">
+<title id="rs-title">Water softener resin exchange sites in new, iron-fouled and chlorine-oxidized beds</title>
+<desc id="rs-desc">Illustrative bars showing what happens to water softener resin exchange sites. In new resin a 6 lb salt dose restores 55 percent and 45 percent stay loaded with hardness. In iron-fouled resin a quarter of the sites are blocked by iron, which a cleaner can often recover. In chlorine-oxidized resin a third of the site capacity per litre is gone for good.</desc>
+<rect width="760" height="450" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Blocked sites can come back. Destroyed sites cannot.</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Each bar is 100% of a new bed's exchange sites per litre, just after a 6 lb/cu ft regeneration.</text>
+<text x="30" y="80" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The new-resin split is from published capacity data. The fouled and oxidized splits are illustrative.</text>
+<text x="30" y="126" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">New resin</text>
+<text x="30" y="145" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">6 lb/cu ft salt dose</text>
+<rect x="250" y="110" width="204" height="36" fill="#0e7490"/>
+<text x="352" y="133" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">55% restored</text>
+<rect x="454" y="110" width="166" height="36" fill="#fed7aa"/>
+<text x="537" y="133" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">45% hold hardness</text>
+<text x="632" y="133" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Normal</text>
+<text x="250" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">An efficient dose leaves some sites loaded on purpose.</text>
+<text x="30" y="226" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Iron-fouled</text>
+<text x="30" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">illustrative</text>
+<rect x="250" y="210" width="130" height="36" fill="#0e7490"/>
+<text x="315" y="233" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">35%</text>
+<rect x="380" y="210" width="92" height="36" fill="#b45309"/>
+<text x="426" y="233" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">25% iron</text>
+<rect x="472" y="210" width="148" height="36" fill="#fed7aa"/>
+<text x="546" y="233" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">40%</text>
+<text x="632" y="233" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Recoverable</text>
+<text x="250" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Brine cannot lift the iron off. A resin cleaner often can, if it is caught early.</text>
+<text x="30" y="326" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Chlorine-oxidized</text>
+<text x="30" y="345" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">illustrative</text>
+<rect x="250" y="310" width="130" height="36" fill="#0e7490"/>
+<text x="315" y="333" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">35%</text>
+<rect x="380" y="310" width="111" height="36" fill="#fed7aa"/>
+<text x="435" y="333" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">30%</text>
+<rect x="491" y="310" width="129" height="36" fill="#fecaca" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 3"/>
+<text x="555" y="333" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">35% gone</text>
+<text x="632" y="333" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Permanent</text>
+<text x="250" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Broken cross-links: beads swell, so fewer sites fit in each litre of bed.</text>
+<rect x="30" y="404" width="14" height="14" fill="#0e7490"/>
+<text x="52" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">restored to sodium</text>
+<rect x="200" y="404" width="14" height="14" fill="#fed7aa"/>
+<text x="222" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">still holding hardness</text>
+<rect x="390" y="404" width="14" height="14" fill="#b45309"/>
+<text x="412" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">blocked by iron</text>
+<rect x="540" y="404" width="14" height="14" fill="#fecaca" stroke="#dc2626" stroke-width="1.5"/>
+<text x="562" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">destroyed</text>
+</svg>

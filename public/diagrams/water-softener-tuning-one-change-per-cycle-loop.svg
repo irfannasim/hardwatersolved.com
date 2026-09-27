@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 630" width="760" height="630" role="img" aria-labelledby="wtl-title wtl-desc">
+<title id="wtl-title">Water softener efficiency tuning loop: one change per cycle, then test</title>
+<desc id="wtl-desc">Flowchart for tuning water softener efficiency settings. Measure a two-week baseline, change one setting, run a full cycle, then test softened water on the last day before regeneration. If it is under 1 gpg and the softener regenerates every 3 to 14 days, keep the change and try the next one; if not, undo it, because that setting is the boundary.</desc>
+<defs>
+<marker id="wtl-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+</defs>
+<rect width="760" height="630" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">The tuning loop: one change, one cycle, one test</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Changing two settings at once hides which one cost you soft water</text>
+<rect class="box" x="40" y="90" width="360" height="56" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="56" y="114" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Measure a baseline for two weeks</text>
+<text x="56" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">salt added, regenerations, meter gallons</text>
+<path class="ln" d="M220,146 L220,170" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#wtl-ah)"/>
+<rect class="box" x="40" y="176" width="360" height="56" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="56" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Change one setting only</text>
+<text x="56" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">hardness, dose, backwash or day override</text>
+<path class="ln" d="M220,232 L220,256" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#wtl-ah)"/>
+<rect class="box" x="40" y="262" width="360" height="56" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="56" y="286" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Let it run one full cycle</text>
+<text x="56" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">at your normal water use</text>
+<path class="ln" d="M220,318 L220,342" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#wtl-ah)"/>
+<rect class="box" x="40" y="348" width="360" height="56" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="56" y="372" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4. Test the softened water</text>
+<text x="56" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">on the last day before regeneration</text>
+<path class="ln" d="M220,404 L220,428" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#wtl-ah)"/>
+<rect class="box" x="40" y="434" width="360" height="56" rx="6" fill="#f1f5f9" stroke="#0b2f4a" stroke-width="2"/>
+<text x="56" y="458" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Under 1 gpg, and 3 to 14 days</text>
+<text x="56" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">between regenerations?</text>
+<path class="ln" d="M400,462 L444,462" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#wtl-ah)"/>
+<rect class="box" x="450" y="434" width="280" height="56" rx="6" fill="#ffffff" stroke="#15803d" stroke-width="2.5"/>
+<text x="466" y="458" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Yes: keep the change</text>
+<text x="466" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">log salt and water, go to step 2</text>
+<path class="ln" d="M590,434 L590,204 L406,204" stroke="#15803d" stroke-width="3" fill="none" marker-end="url(#wtl-ah)"/>
+<text x="604" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#15803d">next change</text>
+<path class="ln" d="M220,490 L220,534" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#wtl-ah)"/>
+<rect class="box" x="40" y="540" width="360" height="56" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="2.5"/>
+<text x="56" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">No: undo the last change</text>
+<text x="56" y="584" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">that setting is your efficiency boundary</text>
+</svg>

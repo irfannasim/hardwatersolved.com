@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="wrs-title wrs-desc">
+<title id="wrs-title">Water softener protection during a remodel: bypass, flush and slow return to service</title>
+<desc id="wrs-desc">Four states of a water softener during plumbing work: bypassed while work goes on, flushed through a cold tap while still in bypass, returned slowly to service with air purged, then manually regenerated and tested for hardness.</desc>
+<defs><marker id="wrs-h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="wrs-s" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="wrs-d" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker></defs>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Protecting the resin: bypass, flush, then return slowly</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Same softener in four states. Debris and air go out a tap, not into the resin bed.</text>
+<rect x="30" y="86" width="335" height="244" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">1. During the work</text>
+<line class="ln" x1="44" y1="158" x2="114" y2="158" stroke="#c2410c" stroke-width="6" marker-end="url(#wrs-h)"/>
+<rect class="box" x="120" y="136" width="100" height="44" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="170" y="163" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Bypass valve</text>
+<line class="ln" x1="220" y1="158" x2="278" y2="158" stroke="#c2410c" stroke-width="6" marker-end="url(#wrs-h)"/>
+<rect class="box" x="282" y="138" width="74" height="40" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="319" y="163" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Tap</text>
+<line class="ln" x1="148" y1="180" x2="148" y2="208" stroke="#cbd5e1" stroke-width="5"/>
+<line class="ln" x1="192" y1="180" x2="192" y2="208" stroke="#cbd5e1" stroke-width="5"/>
+<rect class="box" x="130" y="208" width="80" height="60" rx="6" fill="#f6ead2" stroke="#cbd5e1" stroke-width="2"/>
+<text x="170" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="44" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Valve in bypass. The house has</text>
+<text x="44" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">water; the softener sees none.</text>
+<rect x="395" y="86" width="335" height="244" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="409" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">2. Before returning it</text>
+<line class="ln" x1="409" y1="158" x2="479" y2="158" stroke="#c2410c" stroke-width="6" marker-end="url(#wrs-h)"/>
+<rect class="box" x="485" y="136" width="100" height="44" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="535" y="163" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Bypass valve</text>
+<line class="ln" x1="585" y1="158" x2="643" y2="158" stroke="#c2410c" stroke-width="6" marker-end="url(#wrs-h)"/>
+<rect class="box" x="647" y="138" width="74" height="40" rx="6" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+<text x="684" y="163" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Tap open</text>
+<line class="ln" x1="513" y1="180" x2="513" y2="208" stroke="#cbd5e1" stroke-width="5"/>
+<line class="ln" x1="557" y1="180" x2="557" y2="208" stroke="#cbd5e1" stroke-width="5"/>
+<rect class="box" x="495" y="208" width="80" height="60" rx="6" fill="#f6ead2" stroke="#cbd5e1" stroke-width="2"/>
+<text x="535" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="409" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Still in bypass, run a cold tap until</text>
+<text x="409" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">solder, grit and air are gone.</text>
+<rect x="30" y="344" width="335" height="244" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="370" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">3. Back to service, slowly</text>
+<line class="ln" x1="44" y1="416" x2="114" y2="416" stroke="#c2410c" stroke-width="6" marker-end="url(#wrs-h)"/>
+<rect class="box" x="120" y="394" width="100" height="44" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="170" y="421" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Bypass valve</text>
+<line class="ln" x1="220" y1="416" x2="278" y2="416" stroke="#0e7490" stroke-width="6" marker-end="url(#wrs-s)"/>
+<rect class="box" x="282" y="396" width="74" height="40" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="319" y="421" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Tap</text>
+<line class="ln" x1="148" y1="438" x2="148" y2="466" stroke="#c2410c" stroke-width="5"/>
+<line class="ln" x1="192" y1="438" x2="192" y2="466" stroke="#0e7490" stroke-width="5"/>
+<rect class="box" x="130" y="466" width="80" height="60" rx="6" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<text x="170" y="501" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="44" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Open to service a little at a time,</text>
+<text x="44" y="570" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">then purge air at a tap.</text>
+<rect x="395" y="344" width="335" height="244" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="409" y="370" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">4. Regenerate and test</text>
+<line class="ln" x1="409" y1="416" x2="479" y2="416" stroke="#c2410c" stroke-width="6" marker-end="url(#wrs-h)"/>
+<rect class="box" x="485" y="394" width="100" height="44" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="535" y="421" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Bypass valve</text>
+<line class="ln" x1="585" y1="416" x2="643" y2="416" stroke="#c2410c" stroke-width="6" marker-end="url(#wrs-h)"/>
+<rect class="box" x="647" y="396" width="74" height="40" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="684" y="421" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Tap</text>
+<line class="ln" x1="513" y1="438" x2="513" y2="466" stroke="#c2410c" stroke-width="5"/>
+<line class="ln" x1="557" y1="438" x2="557" y2="466" stroke="#cbd5e1" stroke-width="5"/>
+<rect class="box" x="495" y="466" width="80" height="60" rx="6" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<text x="535" y="501" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<path class="ln" d="M575 504 L627 504" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#wrs-d)"/>
+<text x="635" y="509" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Drain</text>
+<text x="409" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">One manual regeneration, then</text>
+<text x="409" y="570" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">test hardness at a cold tap.</text>
+<line class="ln" x1="40" y1="618" x2="76" y2="618" stroke="#c2410c" stroke-width="6"/>
+<text x="84" y="622" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hard water</text>
+<line class="ln" x1="190" y1="618" x2="226" y2="618" stroke="#0e7490" stroke-width="6"/>
+<text x="234" y="622" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Softened water</text>
+<line class="ln" x1="360" y1="618" x2="396" y2="618" stroke="#cbd5e1" stroke-width="6"/>
+<text x="404" y="622" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">No flow</text>
+<line class="ln" x1="500" y1="618" x2="536" y2="618" stroke="#78716c" stroke-width="4"/>
+<text x="544" y="622" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">To drain</text>
+</svg>

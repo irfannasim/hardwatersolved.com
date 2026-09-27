@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="udr-title udr-desc">
+<title id="udr-title">Upflow vs downflow water softener regeneration: brine path through the resin bed</title>
+<desc id="udr-desc">Two identical softener tanks in service-downflow orientation. In downflow (co-current) brining, fresh brine enters at the top, is weakened by the exhausted inlet layer and reaches the bottom polishing layer spent. In upflow (counter-current) brining, fresh brine enters at the bottom so the polishing layer that treats water last is regenerated with the strongest brine.</desc>
+<defs>
+<pattern id="udr-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern>
+<marker id="udr-ab" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker>
+<marker id="udr-ad" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+</defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Same bed, opposite brine direction</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Service water flows down through both tanks. Only the direction of the brine differs.</text>
+<text x="30" y="102" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">DOWNFLOW = co-current</text>
+<text x="410" y="102" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">UPFLOW = counter-current</text>
+<text x="130" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#7c3aed">fresh brine in at top</text>
+<rect x="60" y="142" width="140" height="290" rx="24" fill="#f4f9fb" stroke="#3a5a72" stroke-width="2"/>
+<rect x="66" y="170" width="128" height="254" rx="16" fill="url(#udr-beads)"/>
+<rect x="66" y="170" width="128" height="72" fill="#c2410c" fill-opacity="0.28"/>
+<path class="ln" d="M130,150 L130,292" fill="none" stroke="#7c3aed" stroke-width="6" stroke-linecap="round"/>
+<path class="ln" d="M130,292 L130,414" fill="none" stroke="#78716c" stroke-width="6" stroke-linecap="round" marker-end="url(#udr-ad)"/>
+<text x="130" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">spent brine out at bottom</text>
+<text x="214" y="192" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Exhausted inlet layer</text>
+<text x="214" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">takes the strongest brine</text>
+<text x="214" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Brine weakens</text>
+<text x="214" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">loaded with hardness</text>
+<text x="214" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Polishing layer</text>
+<text x="214" y="410" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">gets the weakest brine</text>
+<text x="490" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">spent brine out at top</text>
+<rect x="420" y="142" width="140" height="290" rx="24" fill="#f4f9fb" stroke="#3a5a72" stroke-width="2"/>
+<rect x="426" y="170" width="128" height="254" rx="16" fill="url(#udr-beads)"/>
+<rect x="426" y="170" width="128" height="72" fill="#c2410c" fill-opacity="0.28"/>
+<path class="ln" d="M490,424 L490,292" fill="none" stroke="#7c3aed" stroke-width="6" stroke-linecap="round"/>
+<path class="ln" d="M490,292 L490,160" fill="none" stroke="#78716c" stroke-width="6" stroke-linecap="round" marker-end="url(#udr-ad)"/>
+<text x="490" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#7c3aed">fresh brine in at bottom</text>
+<text x="574" y="192" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Exhausted inlet</text>
+<text x="574" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">gets what is left</text>
+<text x="574" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Brine weakens</text>
+<text x="574" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">on its way up</text>
+<text x="574" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Polishing layer</text>
+<text x="574" y="410" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">gets the freshest brine</text>
+<rect class="box" x="30" y="474" width="340" height="62" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="46" y="499" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Last resin the water meets is only</text>
+<text x="46" y="520" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">partly recharged: <tspan font-weight="bold">more leakage</tspan></text>
+<rect class="box" x="400" y="474" width="330" height="62" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="416" y="499" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Last resin the water meets is fully</text>
+<text x="416" y="520" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">recharged: <tspan font-weight="bold">less salt, lower leakage</tspan></text>
+<rect x="30" y="560" width="26" height="6" rx="3" fill="#7c3aed"/>
+<text x="64" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">fresh brine</text>
+<rect x="170" y="560" width="26" height="6" rx="3" fill="#78716c"/>
+<text x="204" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">spent brine to drain</text>
+<rect x="360" y="556" width="26" height="14" fill="#c2410c" fill-opacity="0.28"/>
+<text x="394" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">hardness-loaded resin</text>
+<rect x="560" y="556" width="26" height="14" fill="url(#udr-beads)"/>
+<text x="594" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">resin bed</text>
+</svg>

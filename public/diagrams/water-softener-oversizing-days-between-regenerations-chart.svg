@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 524" width="760" height="524" role="img" aria-labelledby="ovd-title ovd-desc">
+<title id="ovd-title">Oversized water softener: days between regenerations by grain rating</title>
+<desc id="ovd-desc">Illustrative bar chart of days between regenerations for 24,000 to 80,000 grain softeners serving a four-person and a two-person household on 10 gpg water. The larger units exceed the 7 to 14 day range where a day override forces regeneration, showing when an oversized water softener sits idle.</desc>
+<defs></defs>
+<rect width="760" height="524" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Days between regenerations, by softener size</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative: 10 gpg water, 75 gal per person per day, 6 lb salt per cu ft, one day of reserve</text>
+<rect x="90" y="110" width="530" height="174" fill="#fef2f2"/>
+<text x="100" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Beyond 14 days: the bed sits idle longer</text>
+<text x="100" y="147" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">than a typical day override allows</text>
+<text x="80" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M90,342 L620,342" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4" fill="none"/>
+<text x="80" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">7</text>
+<path d="M90,284 L620,284" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4" fill="none"/>
+<text x="80" y="289" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">14</text>
+<path d="M90,226 L620,226" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="80" y="231" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">21</text>
+<path d="M90,168 L620,168" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="80" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">28</text>
+<path d="M90,110 L620,110" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="80" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">35</text>
+<text x="630" y="289" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">14 days</text>
+<text x="630" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">7 days</text>
+<text x="630" y="318" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">common day</text>
+<text x="630" y="333" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">override range</text>
+<path d="M90,400 L620,400" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<path d="M90,110 L90,400" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<text x="38" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a" transform="rotate(-90 38 255)">Days between regenerations</text>
+<rect x="106" y="366.9" width="34" height="33.1" fill="#0e7490"/>
+<rect x="146" y="325.4" width="34" height="74.6" fill="#8ecfd9"/>
+<text x="123" y="360.9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">4.0</text>
+<text x="163" y="319.4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">9.0</text>
+<text x="143" y="422" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">24,000</text>
+<text x="143" y="440" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">(15,000 usable)</text>
+<rect x="212" y="352.8" width="34" height="47.2" fill="#0e7490"/>
+<rect x="252" y="298.1" width="34" height="101.9" fill="#8ecfd9"/>
+<text x="229" y="369.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">5.7</text>
+<text x="269" y="315.1" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">12.3</text>
+<text x="249" y="422" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">32,000</text>
+<text x="249" y="440" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">(20,000 usable)</text>
+<rect x="318" y="325.4" width="34" height="74.6" fill="#0e7490"/>
+<rect x="358" y="242.6" width="34" height="157.4" fill="#8ecfd9"/>
+<text x="335" y="319.4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">9.0</text>
+<text x="375" y="236.6" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">19.0</text>
+<text x="355" y="422" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">48,000</text>
+<text x="355" y="440" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">(30,000 usable)</text>
+<rect x="424" y="298.1" width="34" height="101.9" fill="#0e7490"/>
+<rect x="464" y="187.1" width="34" height="212.9" fill="#8ecfd9"/>
+<text x="441" y="315.1" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">12.3</text>
+<text x="481" y="181.1" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">25.7</text>
+<text x="461" y="422" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">64,000</text>
+<text x="461" y="440" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">(40,000 usable)</text>
+<rect x="530" y="269.9" width="34" height="130.1" fill="#0e7490"/>
+<rect x="570" y="132.4" width="34" height="267.6" fill="#8ecfd9"/>
+<text x="547" y="263.9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">15.7</text>
+<text x="587" y="126.4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">32.3</text>
+<text x="567" y="422" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">80,000</text>
+<text x="567" y="440" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">(50,000 usable)</text>
+<text x="355" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Nominal grain rating (usable grains at 6 lb salt per cu ft)</text>
+<rect x="90" y="486" width="16" height="16" fill="#0e7490"/>
+<text x="114" y="499" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">4 people: 3,000 grains per day</text>
+<rect x="360" y="486" width="16" height="16" fill="#8ecfd9"/>
+<text x="384" y="499" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">2 people: 1,500 grains per day</text>
+</svg>

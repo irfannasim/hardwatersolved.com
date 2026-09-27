@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="bwc-title bwc-desc">
+<title id="bwc-title">Does boiling water remove hardness? Calculated best case for two waters</title>
+<desc id="bwc-desc">Before and after bars for two waters at 300 mg/L hardness. Water A, alkalinity 250, can drop to a best case of 80 mg/L, leaving 220 mg/L as scale in the pot. Water B, alkalinity 80, can only drop to 220 mg/L. Calculated ceilings, not lab measurements.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What boiling can remove, at best</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Limit = the smaller of calcium hardness and alkalinity (both as CaCO₃)</text>
+<text x="30" y="98" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Water A: alkalinity 250 mg/L</text>
+<text x="30" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Before</text>
+<rect class="box" x="220" y="110" width="420" height="30" fill="#c2410c"/>
+<text x="430" y="130" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">300 mg/L (17.5 gpg)</text>
+<text x="30" y="171" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">After boiling</text>
+<rect class="box" x="220" y="150" width="112" height="30" fill="#c2410c"/>
+<text x="276" y="170" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">80 left</text>
+<rect class="box" x="332" y="150" width="308" height="30" fill="#f1f5f9" stroke="#78716c" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="486" y="170" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">220 mg/L left in the pot as scale</text>
+<text x="30" y="228" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Water B: alkalinity 80 mg/L</text>
+<text x="30" y="261" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Before</text>
+<rect class="box" x="220" y="240" width="420" height="30" fill="#c2410c"/>
+<text x="430" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">300 mg/L (17.5 gpg)</text>
+<text x="30" y="301" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">After boiling</text>
+<rect class="box" x="220" y="280" width="308" height="30" fill="#c2410c"/>
+<text x="374" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">220 mg/L (12.9 gpg) still hard</text>
+<rect class="box" x="528" y="280" width="112" height="30" fill="#f1f5f9" stroke="#78716c" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="584" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">80 as scale</text>
+<line class="ln" x1="220" y1="340" x2="640" y2="340" stroke="#3a5a72" stroke-width="1.5"/>
+<g stroke="#3a5a72" stroke-width="1.5">
+<line class="ln" x1="220" y1="340" x2="220" y2="346"/><line class="ln" x1="360" y1="340" x2="360" y2="346"/><line class="ln" x1="500" y1="340" x2="500" y2="346"/><line class="ln" x1="640" y1="340" x2="640" y2="346"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="middle">
+<text x="220" y="364">0</text><text x="360" y="364">100</text><text x="500" y="364">200</text><text x="640" y="364">300</text>
+</g>
+<text x="430" y="386" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hardness, mg/L as CaCO₃</text>
+<text x="30" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Both waters: 220 mg/L calcium hardness + 80 mg/L magnesium hardness. Calculated best case, not lab data.</text>
+<text x="30" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Real results come out higher: some CaCO₃ stays dissolved and evaporation concentrates the rest.</text>
+<rect x="30" y="460" width="22" height="16" fill="#c2410c"/>
+<text x="60" y="473" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hardness in the water</text>
+<rect x="240" y="460" width="22" height="16" fill="#f1f5f9" stroke="#78716c" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="270" y="473" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Dropped out as scale in the pot</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 506" width="760" height="506" role="img" aria-labelledby="scf-title scf-desc">
+<title id="scf-title">Water softener cabinet vs two-piece vs twin tank footprint, plan view</title>
+<desc id="scf-desc">Plan view comparing three water softener layouts. A cabinet unit puts the resin tank inside the salt bin in one box. A two-piece unit has a resin tank beside a separate brine tank. A twin tank softener has two resin tanks and one brine tank, taking the most floor space.</desc>
+<defs></defs>
+<rect width="760" height="506" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Three layouts, seen from above</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Not to scale. Form factor is a space decision, not a performance one.</text>
+<rect class="box" x="30" y="88" width="210" height="190" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="135" y="310" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Cabinet</text>
+<text x="135" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Resin tank sits inside the</text>
+<text x="135" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">salt bin in one box.</text>
+<text x="135" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Neat, compact, fits under</text>
+<text x="135" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">a counter or in a closet.</text>
+<text x="135" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Holds less salt; tank size</text>
+<text x="135" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">limited by the cabinet.</text>
+<rect class="box" x="275" y="88" width="210" height="190" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="380" y="310" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Two-piece</text>
+<text x="380" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Resin tank beside a</text>
+<text x="380" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">separate brine tank.</text>
+<text x="380" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">The two can be arranged</text>
+<text x="380" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">around pipes and walls.</text>
+<text x="380" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">More salt storage; wider</text>
+<text x="380" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">choice of tank sizes.</text>
+<rect class="box" x="520" y="88" width="210" height="190" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="625" y="310" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Twin tank</text>
+<text x="625" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Two resin tanks and one</text>
+<text x="625" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">brine tank, one valve.</text>
+<text x="625" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Needs the most floor</text>
+<text x="625" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">space and three tanks</text>
+<text x="625" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">to reach for service.</text>
+<rect x="70" y="128" width="130" height="110" rx="10" fill="#ede9fe" stroke="#0b2f4a" stroke-width="2.5"/>
+<circle cx="112" cy="183" r="28" fill="#f6ead2" stroke="#3a5a72" stroke-width="2.5"/>
+<text x="170" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#7c3aed">salt</text>
+<circle cx="325" cy="183" r="30" fill="#f6ead2" stroke="#3a5a72" stroke-width="2.5"/>
+<circle cx="410" cy="183" r="46" fill="#ede9fe" stroke="#7c3aed" stroke-width="2.5"/>
+<circle cx="560" cy="150" r="28" fill="#f6ead2" stroke="#3a5a72" stroke-width="2.5"/>
+<circle cx="560" cy="222" r="28" fill="#f6ead2" stroke="#3a5a72" stroke-width="2.5"/>
+<circle cx="655" cy="186" r="46" fill="#ede9fe" stroke="#7c3aed" stroke-width="2.5"/>
+<rect x="30" y="470" width="16" height="16" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<text x="54" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">resin (mineral) tank</text>
+<rect x="230" y="470" width="16" height="16" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="254" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">salt / brine storage</text>
+<rect x="420" y="470" width="16" height="16" fill="#ffffff" stroke="#0b2f4a" stroke-width="2.5"/>
+<text x="444" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">cabinet shell</text>
+</svg>

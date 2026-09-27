@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-labelledby="wsfb-title wsfb-desc">
+<title id="wsfb-title">How much salt a water softener uses: actual versus expected, read as a fault detector</title>
+<desc id="wsfb-desc">Scale of actual monthly salt use divided by the expected figure. Under 0.6 times points to a salt bridge, mushing or a blocked brine line if the water is hard, or lower water use than assumed if it is soft. From 0.6 to 1.5 times is normal. From 1.5 to 2 times means check the settings. Over 2 times points to a fault such as ppm entered as gpg, a refill that runs on, a leak or a timer.</desc>
+<rect width="760" height="420" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Your salt use as a fault detector</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Divide a month of logged salt by the expected figure from the calculator</text>
+<text x="40" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Actual salt &#247; expected salt</text>
+<rect x="40" y="120" width="136" height="40" fill="#dc2626" fill-opacity="0.2"/>
+<rect x="176" y="120" width="204" height="40" fill="#15803d" fill-opacity="0.22"/>
+<rect x="380" y="120" width="113" height="40" fill="#cbd5e1"/>
+<rect x="493" y="120" width="227" height="40" fill="#dc2626" fill-opacity="0.2"/>
+<path class="ln" d="M40,160 L40,168" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M176,160 L176,168" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M267,160 L267,168" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M380,160 L380,168" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M493,160 L493,168" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M720,160 L720,168" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="40" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="176" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0.6&#215;</text>
+<text x="267" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">1&#215; expected</text>
+<text x="380" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">1.5&#215;</text>
+<text x="493" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2&#215;</text>
+<text x="712" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">3&#215; and up</text>
+<rect class="box" x="40" y="214" width="158" height="140" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<text x="52" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Under 0.6&#215;</text>
+<text x="52" y="260" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Water hard: salt</text>
+<text x="52" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">bridge, mush or a</text>
+<text x="52" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">blocked brine line.</text>
+<text x="52" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Water soft: you use</text>
+<text x="52" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">less than assumed.</text>
+<rect class="box" x="214" y="214" width="158" height="140" rx="6" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+<text x="226" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">0.6&#215; to 1.5&#215;</text>
+<text x="226" y="260" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Normal. Reserve,</text>
+<text x="226" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">iron and busy weeks</text>
+<text x="226" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">explain the spread.</text>
+<rect class="box" x="388" y="214" width="158" height="140" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="400" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#3a5a72">1.5&#215; to 2&#215;</text>
+<text x="400" y="260" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Check settings:</text>
+<text x="400" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">hardness, dose,</text>
+<text x="400" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">day override, more</text>
+<text x="400" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">people at home.</text>
+<rect class="box" x="562" y="214" width="158" height="140" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<text x="574" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Over 2&#215;</text>
+<text x="574" y="260" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Fault: ppm entered</text>
+<text x="574" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">as gpg, a refill that</text>
+<text x="574" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">runs on, a leak the</text>
+<text x="574" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">meter counts, or a</text>
+<text x="574" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">timer valve.</text>
+<text x="30" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Band edges are working rules of thumb, not manufacturer limits. Log at least a month before judging.</text>
+</svg>

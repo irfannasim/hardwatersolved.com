@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="bot-title bot-desc">
+<title id="bot-title">Brine tank overflow line teed into the softener drain line: why it fails</title>
+<desc id="bot-desc">Brine tank overflow line joined to the pressurised softener drain line with a tee. During backwash, drain water is pushed up the overflow line into the brine tank. When the shared line below the tee is blocked, the brine tank overfills and the overflow has nowhere to go.</desc>
+<defs><pattern id="bot-b" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><pattern id="bot-s" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#f8fafc"/><rect x="2" y="2" width="7" height="6" rx="1.5" fill="#cbd5e1"/></pattern><marker id="bot-g" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="bot-r" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">The tee that defeats both lines</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Overflow line joined to the valve drain line: the most common overflow mistake.</text>
+<rect x="30" y="440" width="700" height="3" fill="#cbd5e1"/>
+<rect x="50" y="230" width="70" height="210" rx="16" fill="url(#bot-b)" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="36" y="190" width="98" height="40" rx="7" fill="#0b2f4a"/>
+<text x="85" y="215" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">VALVE</text>
+<text x="85" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">softener</text>
+<rect x="250" y="270" width="120" height="170" rx="6" fill="url(#bot-s)" stroke="#3a5a72" stroke-width="2"/>
+<rect x="252" y="300" width="116" height="138" fill="#dbeafe" fill-opacity="0.85"/>
+<rect x="242" y="258" width="136" height="12" rx="3" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<text x="310" y="246" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">BRINE TANK</text>
+<rect x="370" y="300" width="12" height="10" rx="2" fill="#0b2f4a"/>
+<path class="ln" d="M134,205 L200,205 L200,120 L560,120 L560,368" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round"/>
+<text x="380" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#78716c">valve drain line: pressurised</text>
+<path class="ln" d="M382,305 L470,305 L470,370 L556,370" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linejoin="round"/>
+<text x="392" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#7c3aed">overflow: gravity only</text>
+<rect x="552" y="362" width="16" height="16" rx="2" fill="#0b2f4a"/>
+<text x="548" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">tee</text>
+<path class="ln" d="M560,378 L560,400 L650,400 L650,418" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round"/>
+<rect x="620" y="436" width="70" height="6" fill="#3a5a72"/>
+<text x="655" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">floor drain</text>
+<path d="M594,392 L610,408 M610,392 L594,408" fill="none" stroke="#dc2626" stroke-width="4"/>
+<path class="ln" d="M540,356 L492,356" fill="none" stroke="#dc2626" stroke-width="4" marker-end="url(#bot-r)"/>
+<path class="ln" d="M456,362 L456,324" fill="none" stroke="#dc2626" stroke-width="4" marker-end="url(#bot-r)"/>
+<circle cx="508" cy="330" r="12" fill="#dc2626"/>
+<text x="508" y="335" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">A</text>
+<circle cx="636" cy="372" r="12" fill="#dc2626"/>
+<text x="636" y="377" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">B</text>
+<rect class="box" x="30" y="484" width="345" height="60" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="46" y="508" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">A  Every backwash</text>
+<text x="46" y="528" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">pushes used drain water up into the salt</text>
+<rect class="box" x="385" y="484" width="345" height="60" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="401" y="508" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">B  One blockage stops both</text>
+<text x="401" y="528" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the tank overfills and the overflow cannot drain</text>
+</svg>

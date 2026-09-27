@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" role="img" aria-labelledby="hcp-title hcp-desc">
+<title id="hcp-title">Hard water drawn during water softener regeneration: cold taps versus the water heater</title>
+<desc id="hcp-desc">Illustrative plumbing diagram: during regeneration the softener bypasses 15 gpg hard water to the house. Cold taps clear once the cycle ends, but 20 gallons drawn into a 50-gallon water heater leaves the hot supply at about 6 gpg until later use dilutes it.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker></defs>
+<rect width="760" height="470" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why hot water stays hard longer after a mid-cycle draw</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative: 15 gpg supply, 20 gallons of hot water used during regeneration, 50-gallon tank</text>
+<text x="30" y="150" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Supply</text>
+<text x="30" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">15 gpg</text>
+<path class="ln" d="M90,190 L170,190" stroke="#c2410c" stroke-width="6" fill="none" marker-end="url(#ah)"/>
+<rect class="box" x="182" y="140" width="150" height="100" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="257" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener in</text>
+<text x="257" y="188" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">regeneration</text>
+<text x="257" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">bypass passes</text>
+<text x="257" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">hard water on</text>
+<path class="ln" d="M332,190 L380,190" stroke="#c2410c" stroke-width="6" fill="none"/>
+<path class="ln" d="M380,190 L380,120 L470,120" stroke="#c2410c" stroke-width="6" fill="none" marker-end="url(#ah)"/>
+<path class="ln" d="M380,190 L380,300 L470,300" stroke="#c2410c" stroke-width="6" fill="none" marker-end="url(#ah)"/>
+<rect class="box" x="482" y="80" width="248" height="100" rx="6" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/>
+<text x="496" y="104" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Cold taps</text>
+<text x="496" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hard only while it flows. Pipe</text>
+<text x="496" y="145" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">volume clears in seconds after</text>
+<text x="496" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">the cycle ends.</text>
+<rect class="box" x="482" y="250" width="130" height="150" rx="10" fill="#fff7ed" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="492" y="330" width="110" height="60" fill="#fed7aa"/>
+<text x="547" y="276" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water heater</text>
+<text x="547" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">50 gallons</text>
+<text x="547" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">mixes to</text>
+<text x="547" y="358" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#9a3412">20 gal hard</text>
+<text x="547" y="377" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#9a3412">+ 30 gal soft</text>
+<path class="ln" d="M612,300 L690,300" stroke="#c2410c" stroke-width="6" fill="none" marker-end="url(#ah)"/>
+<text x="625" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hot taps</text>
+<text x="625" y="348" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">about 6 gpg</text>
+<text x="625" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">until diluted</text>
+<text x="30" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Cold water clears as soon as soft water is back. Hot water carries the hard slug until roughly</text>
+<text x="30" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">a full tank of later use has diluted it. Real tanks stratify, so treat 6 gpg as a rough average.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" width="760" height="570" role="img" aria-labelledby="g7vi-title g7vi-desc">
+<title id="g7vi-title">Where to find the real maker of a rebranded water softener control valve</title>
+<desc id="g7vi-desc">Diagram of a water softener control head and tank marking six places to identify the actual valve manufacturer when you compare water softener specifications: faceplate, bypass valve shape, tank label, display model code, serial sticker and the maker's mark moulded into the valve body.</desc>
+<rect width="760" height="570" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Six places that reveal who really made the valve</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">The cover carries the seller's brand. These spots usually carry the maker's.</text>
+<rect x="325" y="280" width="110" height="210" rx="34" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<rect x="350" y="330" width="60" height="40" rx="3" fill="#ffffff" stroke="#52697a" stroke-width="1.5"/>
+<path d="M358,342 L402,342 M358,352 L396,352 M358,361 L388,361" stroke="#cbd5e1" stroke-width="2"/>
+<rect x="315" y="220" width="130" height="62" rx="6" fill="#cbd5e1" stroke="#3a5a72" stroke-width="2"/>
+<rect x="395" y="240" width="40" height="16" rx="2" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="300" y="110" width="160" height="112" rx="20" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<rect x="330" y="122" width="100" height="18" rx="3" fill="#cbd5e1"/>
+<rect x="340" y="150" width="80" height="38" rx="4" fill="#dbeafe" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="440" y="196" width="14" height="16" rx="2" fill="#ffffff" stroke="#52697a" stroke-width="1.5"/>
+<rect x="240" y="232" width="75" height="38" rx="5" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<path d="M170,243 L240,243" stroke="#c2410c" stroke-width="6"/>
+<path d="M170,259 L240,259" stroke="#0e7490" stroke-width="6"/>
+<text x="30" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1  Cover and faceplate</text>
+<text x="30" y="143" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">the seller's brand only</text>
+<path class="ln" d="M222,130 L326,130" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<text x="30" y="306" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2  Bypass valve</text>
+<text x="30" y="325" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">shape identifies the family</text>
+<path class="ln" d="M168,300 L262,274" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<text x="30" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3  Tank label</text>
+<text x="30" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">size, e.g. 10 x 54 inches</text>
+<path class="ln" d="M204,400 L346,356" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<text x="510" y="164" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4  Display or timer</text>
+<text x="510" y="183" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">model code, e.g. 5600SXT, WS1</text>
+<path class="ln" d="M424,168 L500,168" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<text x="510" y="226" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">5  Serial or model sticker</text>
+<text x="510" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">back of head, under the cover</text>
+<path class="ln" d="M458,205 L500,222" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<text x="510" y="296" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">6  Valve body casting</text>
+<text x="510" y="315" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">maker's mark moulded in</text>
+<path class="ln" d="M438,254 L500,292" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<text x="150" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#c2410c">in</text>
+<text x="150" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0e7490">out</text>
+<rect class="box" x="30" y="510" width="700" height="44" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="537" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Match any two of these to the valve maker's own manual before trusting a parts or service claim.</text>
+</svg>

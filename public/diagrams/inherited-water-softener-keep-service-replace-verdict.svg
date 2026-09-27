@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="iwv-title iwv-desc">
+<title id="iwv-title">Inherited water softener verdict: keep, service or replace</title>
+<desc id="iwv-desc">Decision chain for an inherited water softener: check for leaks, confirm a manual regeneration cycles, confirm softened water tests near zero, and confirm the programmed hardness matches a current test. Each failure points to a repair, service, diagnosis or reprogram.</desc>
+<defs><marker id="iwv-g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="iwv-r" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">From four checks to a verdict: keep, service or replace</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Work left to right. The first check that fails tells you what to fix.</text>
+<rect class="box" x="30" y="90" width="145" height="100" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="42" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">1. Dry?</text>
+<text x="42" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">No leaks at tank,</text>
+<text x="42" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">valve, bypass or</text>
+<text x="42" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">brine tank</text>
+<line class="ln" x1="175" y1="140" x2="209" y2="140" stroke="#15803d" stroke-width="3" marker-end="url(#iwv-g)"/>
+<line class="ln" x1="70" y1="190" x2="70" y2="244" stroke="#dc2626" stroke-width="3" marker-end="url(#iwv-r)"/>
+<text x="80" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Fails</text>
+<rect class="box" x="30" y="250" width="145" height="120" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="42" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Fix the leak</text>
+<text x="42" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Seals and fittings</text>
+<text x="42" y="313" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">are repairs. A</text>
+<text x="42" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">cracked tank means</text>
+<text x="42" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">replacement.</text>
+<rect class="box" x="215" y="90" width="145" height="100" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="227" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">2. Cycles?</text>
+<text x="227" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Regeneration</text>
+<text x="227" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">backwashes, draws</text>
+<text x="227" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">brine and refills</text>
+<line class="ln" x1="360" y1="140" x2="394" y2="140" stroke="#15803d" stroke-width="3" marker-end="url(#iwv-g)"/>
+<line class="ln" x1="255" y1="190" x2="255" y2="244" stroke="#dc2626" stroke-width="3" marker-end="url(#iwv-r)"/>
+<text x="265" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Fails</text>
+<rect class="box" x="215" y="250" width="145" height="120" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="227" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Service the valve</text>
+<text x="227" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Injector, seals,</text>
+<text x="227" y="313" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">drain flow control</text>
+<text x="227" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">or motor. Check</text>
+<text x="227" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">the salt first.</text>
+<rect class="box" x="400" y="90" width="145" height="100" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="412" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">3. Softens?</text>
+<text x="412" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Softened tap near</text>
+<text x="412" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">0 gpg after the</text>
+<text x="412" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">regeneration</text>
+<line class="ln" x1="545" y1="140" x2="579" y2="140" stroke="#15803d" stroke-width="3" marker-end="url(#iwv-g)"/>
+<line class="ln" x1="440" y1="190" x2="440" y2="244" stroke="#dc2626" stroke-width="3" marker-end="url(#iwv-r)"/>
+<text x="450" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Fails</text>
+<rect class="box" x="400" y="250" width="145" height="120" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="412" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Find the cause</text>
+<text x="412" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Bypass position,</text>
+<text x="412" y="313" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">settings, then</text>
+<text x="412" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">resin fouling or</text>
+<text x="412" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">resin age.</text>
+<rect class="box" x="585" y="90" width="145" height="100" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="597" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">4. Set right?</text>
+<text x="597" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Programmed</text>
+<text x="597" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">hardness matches</text>
+<text x="597" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">a current test</text>
+<line class="ln" x1="625" y1="190" x2="625" y2="244" stroke="#dc2626" stroke-width="3" marker-end="url(#iwv-r)"/>
+<text x="635" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Fails</text>
+<rect class="box" x="585" y="250" width="145" height="120" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="597" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Reprogram</text>
+<text x="597" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Enter the tested</text>
+<text x="597" y="313" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">hardness plus any</text>
+<text x="597" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">iron allowance,</text>
+<text x="597" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">then keep it.</text>
+<rect class="box" x="30" y="394" width="700" height="100" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="420" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#15803d">All four pass: keep it</text>
+<text x="46" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Log salt use and retest softened water in a month. If an old unit fails two or more</text>
+<text x="46" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">checks, price a replacement before paying for the repairs.</text>
+</svg>

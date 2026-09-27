@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="g11dr-title g11dr-desc">
+<title id="g11dr-title">Routing water softener drain tubing: bends, supports, fall, height and the air gap</title>
+<desc id="g11dr-desc">Side view of a water softener drain tubing run from the valve up and across to a standpipe: a gentle first bend, full size tubing, supports along the run, a steady fall with no low points, the last foot clipped, and the tube end held above the standpipe with an air gap. Manufacturer limits for size, length, height and air gap are listed.</desc>
+<defs>
+<marker id="g11dr-g" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+</defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Routing the run: from the valve to the air gap</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Side view of an overhead run to a standpipe.</text>
+
+<rect class="box" x="70" y="300" width="60" height="160" rx="24" fill="#f6ead2" stroke="#3a5a72" stroke-width="1.5"/>
+<rect class="box" x="56" y="260" width="88" height="40" rx="5" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="100" y="285" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">valve</text>
+
+<path class="ln" d="M144,280 L172,280 Q200,280 200,252 L200,132 Q200,110 222,110 L578,122 Q600,123 600,145 L600,326" stroke="#78716c" stroke-width="6" fill="none" stroke-linejoin="round" marker-end="url(#g11dr-g)"/>
+<rect x="193" y="176" width="14" height="16" fill="#0b2f4a"/>
+<rect x="273" y="104" width="14" height="16" fill="#0b2f4a"/>
+<rect x="353" y="107" width="14" height="16" fill="#0b2f4a"/>
+<rect x="433" y="110" width="14" height="16" fill="#0b2f4a"/>
+<rect x="513" y="112" width="14" height="16" fill="#0b2f4a"/>
+<rect x="593" y="290" width="14" height="16" fill="#0b2f4a"/>
+
+<text x="216" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">gentle first bend, no kink</text>
+<text x="216" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">full size, no step-down</text>
+<text x="400" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">supports every 2 to 3 ft (rule of thumb)</text>
+<text x="400" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">steady fall toward the drain, no low points</text>
+<text x="588" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">clip the last foot</text>
+
+<rect x="585" y="352" width="30" height="108" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="624" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">air gap</text>
+<text x="624" y="410" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">standpipe</text>
+<rect x="30" y="460" width="660" height="3" fill="#cbd5e1"/>
+
+<path class="ln" d="M712,110 L712,460 M704,110 L720,110 M704,460 L720,460" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="722" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">H</text>
+
+<text x="30" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Size: Fleck and Clack call for 1/2 in minimum, and 3/4 in above 7 gpm backwash or 20 ft of run.</text>
+<text x="30" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">H, height and length: follow your manual. Morton says avoid more than 8 ft above the floor or 30 ft of hose.</text>
+<text x="30" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Air gap: Fleck asks for twice the line diameter, 1 in minimum; Morton asks for 1-1/2 in.</text>
+<text x="30" y="560" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Support spacing for flexible tubing is a practical rule, not a code figure. Rigid pipe follows your code's hanger table.</text>
+</svg>

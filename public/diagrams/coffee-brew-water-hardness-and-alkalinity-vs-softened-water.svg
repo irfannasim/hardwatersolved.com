@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="cbw-title cbw-desc">
+<title id="cbw-title">Softened water coffee taste: brew water hardness and alkalinity vs the SCA range</title>
+<desc id="cbw-desc">Two scales. SCA-102 accepts calcium hardness of 50 to 175 ppm and alkalinity at or near 40 to 70 ppm. Fully softened water sits near zero hardness, below the range, while a hard supply at 15 gpg sits above it. Softening leaves alkalinity unchanged, so an alkaline supply stays alkaline.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Where softened water lands on the coffee water spec</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Ranges from SCA-102 (2024), ppm as CaCO3. Raw water values are examples.</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="30" y="112" font-size="15" font-weight="bold" fill="#0b2f4a">Calcium hardness</text>
+<g font-size="12" fill="#52697a" text-anchor="middle">
+<text x="100" y="146">0</text><text x="300" y="146">100</text><text x="500" y="146">200</text><text x="700" y="146">300</text>
+</g>
+<rect x="100" y="158" width="600" height="26" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="200" y="158" width="250" height="26" fill="#0e7490"/>
+<text x="370" y="176" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">Acceptable: 50 to 175</text>
+<rect x="100" y="158" width="10" height="26" fill="#7c3aed"/>
+<rect x="608" y="158" width="10" height="26" fill="#c2410c"/>
+<rect x="268" y="158" width="8" height="26" fill="#0b2f4a"/>
+<path class="ln" d="M105,184 L105,196" stroke="#7c3aed" stroke-width="1.5"/>
+<path class="ln" d="M272,184 L272,220" stroke="#0b2f4a" stroke-width="1.5"/>
+<path class="ln" d="M613,184 L613,196" stroke="#c2410c" stroke-width="1.5"/>
+<text x="100" y="212" font-size="13" font-weight="bold" fill="#7c3aed">Softened: near 0</text>
+<text x="272" y="236" font-size="13" font-weight="bold" fill="#0b2f4a" text-anchor="middle">Blended to 5 gpg: 86</text>
+<text x="613" y="212" font-size="13" font-weight="bold" fill="#c2410c" text-anchor="middle">Raw 15 gpg: 257</text>
+<text x="30" y="290" font-size="15" font-weight="bold" fill="#0b2f4a">Alkalinity</text>
+<text x="210" y="318" font-size="13" font-weight="bold" fill="#0e7490" text-anchor="middle">At or near 40 to 70</text>
+<rect x="100" y="328" width="600" height="26" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="180" y="328" width="60" height="26" fill="#0e7490"/>
+<rect x="496" y="328" width="10" height="26" fill="#7c3aed"/>
+<g font-size="12" fill="#52697a" text-anchor="middle">
+<text x="100" y="372">0</text><text x="300" y="372">100</text><text x="500" y="372">200</text><text x="700" y="372">300</text>
+</g>
+<text x="501" y="396" font-size="13" font-weight="bold" fill="#7c3aed" text-anchor="middle">Raw and softened: the same, e.g. 200</text>
+</g>
+<rect class="box" x="30" y="424" width="700" height="72" rx="6" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+<text x="46" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">A softener fixes the wrong number for coffee.</text>
+<text x="46" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">It takes hardness below the range but leaves alkalinity, which flattens acidity, where it was.</text>
+</svg>

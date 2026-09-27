@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 614" width="760" height="614" role="img" aria-labelledby="auw-title auw-desc">
+<title id="auw-title">Advertised vs usable softener capacity waterfall for a 48,000-grain unit</title>
+<desc id="auw-desc">Waterfall chart of advertised vs usable softener capacity: a 48,000-grain softener gives 46,500 grains at maximum salt, 31,500 at an efficient 6 lb dose and 27,000 usable grains after a one-day reserve, cutting 10.7 days between regenerations to 6.</desc>
+<defs></defs>
+<rect width="760" height="614" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Advertised vs usable capacity: a 48,000-grain softener</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">1.5 cu ft of resin, family of four at 15 gpg using 4,500 grains of hardness a day</text>
+<text x="30" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Grains per regeneration</text>
+<text x="90" y="445" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M100,376.0 L700,376.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="381" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">10,000</text>
+<path d="M100,312.0 L700,312.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">20,000</text>
+<path d="M100,248.0 L700,248.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="253" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">30,000</text>
+<path d="M100,184.0 L700,184.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="189" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">40,000</text>
+<path d="M100,120.0 L700,120.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">50,000</text>
+<rect class="box" x="120" y="132.8" width="90" height="307.2" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="165" y="158.8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">48,000</text>
+<text x="165" y="462" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Box rating</text>
+<text x="165" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">label only</text>
+<text x="165" y="538" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">10.7 days</text>
+<rect class="box" x="265" y="142.4" width="90" height="297.6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="310" y="168.4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">46,500</text>
+<text x="310" y="462" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">At 15 lb/cu ft</text>
+<text x="310" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">maximum salt</text>
+<text x="310" y="538" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">10.3 days</text>
+<rect class="box" x="410" y="238.4" width="90" height="201.6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="455" y="264.4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">31,500</text>
+<text x="455" y="462" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">At 6 lb/cu ft</text>
+<text x="455" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">efficient salt</text>
+<text x="455" y="538" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">7.0 days</text>
+<rect class="box" x="555" y="267.2" width="90" height="172.8" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<text x="600" y="293.2" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#ffffff">27,000</text>
+<text x="600" y="462" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Usable</text>
+<text x="600" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">after 1-day reserve</text>
+<text x="600" y="538" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">6.0 days</text>
+<path class="ln" d="M100,100 L100,440 L700,440" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="265" y="132.8" width="90" height="9.6" fill="#fee2e2" stroke="#dc2626" stroke-width="1"/>
+<text x="359" y="142.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">−1,500</text>
+<rect class="box" x="410" y="142.4" width="90" height="96" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="455" y="187.4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">−15,000</text>
+<text x="455" y="205.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">less salt</text>
+<rect class="box" x="555" y="238.4" width="90" height="28.8" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="600" y="257.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">−4,500</text>
+<text x="655" y="257.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#3a5a72">reserve</text>
+<text x="30" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Days between regenerations at 4,500 grains a day:</text>
+<text x="30" y="572" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Sized from the box, the unit looks like it lasts 10.7 days. Sized from what it delivers, it lasts 6.</text>
+<text x="30" y="594" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Capacities from WC&amp;P per-cubic-foot guidance scaled to 1.5 cu ft; reserve = one day of the household load.</text>
+</svg>

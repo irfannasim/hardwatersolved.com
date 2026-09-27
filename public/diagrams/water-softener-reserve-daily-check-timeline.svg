@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 564" width="760" height="564" role="img" aria-labelledby="rdt-title rdt-desc">
+<title id="rdt-title">Water softener reserve capacity: the nightly regeneration check</title>
+<desc id="rdt-desc">Illustrative timeline of water softener reserve capacity: with a 25 percent reserve of 390 gallons the valve skips regeneration with 420 gallons left, and a 600-gallon laundry day runs out, leaving 180 gallons hard.</desc>
+<defs></defs>
+<rect width="760" height="564" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why the reserve must cover the heaviest day</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative: 1,560 gallons between regenerations, 25% reserve (390 gal), heaviest day 600 gal</text>
+<text x="30" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Soft water left (gallons)</text>
+<text x="100" y="425" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M110,345.0 L690,345.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">400</text>
+<path d="M110,270.0 L690,270.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">800</text>
+<path d="M110,195.0 L690,195.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1,200</text>
+<path d="M110,120.0 L690,120.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1,600</text>
+<path class="ln" d="M110,307.5 L690,307.5" fill="none" stroke="#0e7490" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 5"/>
+<text x="116" y="298.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">Reserve = heaviest day: 600 gal</text>
+<path class="ln" d="M110,346.9 L690,346.9" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 5"/>
+<text x="116" y="366.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">25% reserve: 390 gal</text>
+<rect class="box" x="628" y="380" width="42" height="40" fill="#fee2e2" stroke="#dc2626" stroke-width="1"/>
+<text x="647" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">hard</text>
+<path class="ln" d="M110,127.5 L250,198.8 L390,270 L530,341.3 L628,420 L670,420" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M670,420 L670,127.5" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<path class="ln" d="M110,110 L110,420 L690,420" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="110" cy="127.5" r="6" fill="#ffffff" stroke="#0e7490" stroke-width="2.5"/>
+<circle cx="250" cy="198.8" r="6" fill="#ffffff" stroke="#0e7490" stroke-width="2.5"/>
+<circle cx="390" cy="270" r="6" fill="#ffffff" stroke="#0e7490" stroke-width="2.5"/>
+<circle cx="530" cy="341.3" r="6" fill="#dc2626" stroke="#ffffff" stroke-width="2.5"/>
+<text x="260" y="188.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">1,180</text>
+<text x="400" y="260" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">800</text>
+<circle cx="670" cy="420" r="6" fill="#0e7490" stroke="#ffffff" stroke-width="2"/>
+<text x="662" y="117.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">Night 4: regenerates</text>
+<text x="120" y="117.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">Regenerated: 1,560</text>
+<path class="ln" d="M534,331.3 L544,234" fill="none" stroke="#52697a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="500" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Night 3: 420 gal left.</text>
+<text x="500" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">Above 390, so it skips.</text>
+<path class="ln" d="M110,420 L110,426" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="110" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Night 0</text>
+<path class="ln" d="M250,420 L250,426" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="250" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Night 1</text>
+<path class="ln" d="M390,420 L390,426" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="390" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Night 2</text>
+<path class="ln" d="M530,420 L530,426" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="530" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Night 3</text>
+<path class="ln" d="M670,420 L670,426" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="670" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Night 4</text>
+<text x="180" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Day 1: 380 gal</text>
+<text x="320" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Day 2: 380 gal</text>
+<text x="460" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Day 3: 380 gal</text>
+<text x="600" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">Day 4: 600 gal</text>
+<text x="600" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">last 180 gal hard</text>
+<text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">With the reserve set to 600 gallons, night 3 triggers a regeneration (420 is below 600)</text>
+<text x="30" y="540" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">and day 4 stays soft.</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="wre-title wre-desc">
+<title id="wre-title">Water softener rebate eligibility: five checks before you are paid</title>
+<desc id="wre-desc">Decision chain for a water softener rebate: a local program must exist, you apply before buying, the new unit meets the rule such as demand-initiated regeneration, the old unit is documented before removal, and the invoice and inspection are in order.</desc>
+<defs><marker id="wre-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="wre-r" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="wre-g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Five checks between you and a water softener rebate</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">A "no" at any step usually means no payment. Settle each one before the old unit goes.</text>
+<rect class="box" x="30" y="90" width="380" height="60" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="115" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">1. Does your water, sewer or city</text>
+<text x="44" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">utility run a softener program?</text>
+<line class="ln" x1="410" y1="120" x2="468" y2="120" stroke="#dc2626" stroke-width="3" marker-end="url(#wre-r)"/>
+<text x="439" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<rect class="box" x="476" y="90" width="254" height="70" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="488" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">No program means no rebate.</text>
+<text x="488" y="128" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Also ask the wastewater plant</text>
+<text x="488" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">and any watershed district.</text>
+<line class="ln" x1="120" y1="150" x2="120" y2="172" stroke="#15803d" stroke-width="3" marker-end="url(#wre-g)"/>
+<text x="130" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="176" width="380" height="60" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="201" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2. Did you apply or reserve</text>
+<text x="44" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">before buying?</text>
+<line class="ln" x1="410" y1="206" x2="468" y2="206" stroke="#dc2626" stroke-width="3" marker-end="url(#wre-r)"/>
+<text x="439" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<rect class="box" x="476" y="176" width="254" height="70" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="488" y="196" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Many programs will not pay</text>
+<text x="488" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">for work done before you</text>
+<text x="488" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">applied. Apply first.</text>
+<line class="ln" x1="120" y1="236" x2="120" y2="258" stroke="#15803d" stroke-width="3" marker-end="url(#wre-g)"/>
+<text x="130" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="262" width="380" height="60" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="287" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3. Does the new unit meet the</text>
+<text x="44" y="306" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">program rule?</text>
+<line class="ln" x1="410" y1="292" x2="468" y2="292" stroke="#dc2626" stroke-width="3" marker-end="url(#wre-r)"/>
+<text x="439" y="284" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<rect class="box" x="476" y="262" width="254" height="70" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="488" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Timer softeners cannot be</text>
+<text x="488" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">efficiency rated. Check DIR,</text>
+<text x="488" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">rating and approved models.</text>
+<line class="ln" x1="120" y1="322" x2="120" y2="344" stroke="#15803d" stroke-width="3" marker-end="url(#wre-g)"/>
+<text x="130" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="348" width="380" height="60" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="373" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4. Is the old unit documented</text>
+<text x="44" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">before removal?</text>
+<line class="ln" x1="410" y1="378" x2="468" y2="378" stroke="#dc2626" stroke-width="3" marker-end="url(#wre-r)"/>
+<text x="439" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<rect class="box" x="476" y="348" width="254" height="70" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="488" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Photograph it and record make,</text>
+<text x="488" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">model and serial. It cannot be</text>
+<text x="488" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">photographed once hauled away.</text>
+<line class="ln" x1="120" y1="408" x2="120" y2="430" stroke="#15803d" stroke-width="3" marker-end="url(#wre-g)"/>
+<text x="130" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="434" width="380" height="60" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="459" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">5. Invoice, installer and any</text>
+<text x="44" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">inspection in order?</text>
+<line class="ln" x1="410" y1="464" x2="468" y2="464" stroke="#dc2626" stroke-width="3" marker-end="url(#wre-r)"/>
+<text x="439" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<rect class="box" x="476" y="434" width="254" height="70" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="488" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Some programs send an</text>
+<text x="488" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">inspector or require an</text>
+<text x="488" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">approved installer.</text>
+<line class="ln" x1="120" y1="494" x2="120" y2="526" stroke="#15803d" stroke-width="3" marker-end="url(#wre-g)"/>
+<text x="130" y="514" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="532" width="380" height="46" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="44" y="561" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#15803d">Rebate paid: a check or a water bill credit</text>
+</svg>

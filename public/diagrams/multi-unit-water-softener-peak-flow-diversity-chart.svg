@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="mud-title mud-desc">
+<title id="mud-title">Multi-unit water softener sizing: peak flow diversity chart</title>
+<desc id="mud-desc">Bar chart comparing the sum of each unit's peak flow with the plumbing code probable demand for 1 to 8 identical dwelling units sharing one water softener. Eight units add to 100.8 gpm but the probable peak is 32.7 gpm.</desc>
+<defs></defs>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Peak flow does not add up unit by unit</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Each unit: 1 bathroom group, kitchen sink, dishwasher and washer = 7.8 fixture units.</text>
+<line class="ln" x1="90" y1="430" x2="730" y2="430" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="80" y="435" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<line class="ln" x1="86" y1="373.6363636363636" x2="94" y2="373.6363636363636" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="80" y="378.6363636363636" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">20</text>
+<line class="ln" x1="86" y1="317.27272727272725" x2="94" y2="317.27272727272725" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="80" y="322.27272727272725" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">40</text>
+<line class="ln" x1="86" y1="260.90909090909093" x2="94" y2="260.90909090909093" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="80" y="265.90909090909093" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">60</text>
+<line class="ln" x1="86" y1="204.54545454545453" x2="94" y2="204.54545454545453" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="80" y="209.54545454545453" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">80</text>
+<line class="ln" x1="86" y1="148.1818181818182" x2="94" y2="148.1818181818182" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="80" y="153.1818181818182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">100</text>
+<text x="30" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">gpm</text>
+<rect x="108.33333333333334" y="394.4909090909091" width="32" height="35.5090909090909" fill="#cbd5e1"/>
+<rect x="146.33333333333334" y="394.4909090909091" width="32" height="35.5090909090909" fill="#0e7490"/>
+<text x="124.33333333333334" y="386.4909090909091" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">12.6</text>
+<text x="162.33333333333334" y="386.4909090909091" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">12.6</text>
+<text x="143.33333333333334" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1 unit</text>
+<rect x="215.00000000000003" y="358.9818181818182" width="32" height="71.0181818181818" fill="#cbd5e1"/>
+<rect x="253.00000000000003" y="379.8363636363636" width="32" height="50.163636363636385" fill="#0e7490"/>
+<text x="231.00000000000003" y="350.9818181818182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">25.2</text>
+<text x="269" y="371.8363636363636" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">17.8</text>
+<text x="250.00000000000003" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2 units</text>
+<rect x="321.6666666666667" y="323.4727272727273" width="32" height="106.5272727272727" fill="#cbd5e1"/>
+<rect x="359.6666666666667" y="371.1" width="32" height="58.89999999999998" fill="#0e7490"/>
+<text x="337.6666666666667" y="315.4727272727273" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">37.8</text>
+<text x="375.6666666666667" y="363.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">20.9</text>
+<text x="356.6666666666667" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">3 units</text>
+<rect x="428.3333333333333" y="287.9636363636364" width="32" height="142.0363636363636" fill="#cbd5e1"/>
+<rect x="466.3333333333333" y="363.2090909090909" width="32" height="66.79090909090911" fill="#0e7490"/>
+<text x="444.3333333333333" y="279.9636363636364" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">50.4</text>
+<text x="482.3333333333333" y="355.2090909090909" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">23.7</text>
+<text x="463.3333333333333" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">4 units</text>
+<rect x="535.0000000000001" y="216.94545454545454" width="32" height="213.05454545454546" fill="#cbd5e1"/>
+<rect x="573.0000000000001" y="350.5272727272727" width="32" height="79.4727272727273" fill="#0e7490"/>
+<text x="551.0000000000001" y="208.94545454545454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">75.6</text>
+<text x="589.0000000000001" y="342.5272727272727" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">28.2</text>
+<text x="570.0000000000001" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">6 units</text>
+<rect x="641.6666666666667" y="145.92727272727274" width="32" height="284.07272727272726" fill="#cbd5e1"/>
+<rect x="679.6666666666667" y="337.8454545454546" width="32" height="92.15454545454543" fill="#0e7490"/>
+<text x="657.6666666666667" y="137.92727272727274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">100.8</text>
+<text x="695.6666666666667" y="329.8454545454546" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">32.7</text>
+<text x="676.6666666666667" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">8 units</text>
+<rect x="100" y="126" width="16" height="16" fill="#cbd5e1"/>
+<line class="ln" x1="90" y1="114" x2="90" y2="430" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="124" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">If every unit peaked at once (units x 12.6 gpm)</text>
+<rect x="100" y="152" width="16" height="16" fill="#0e7490"/>
+<text x="124" y="165" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Probable peak from IPC Table E103.3(3), flush tanks</text>
+<text x="30" y="490" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Grain capacity still scales with people. Flow scales far more slowly, so four units need</text>
+<text x="30" y="512" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">about twice the peak flow of one unit, not four times.</text>
+</svg>

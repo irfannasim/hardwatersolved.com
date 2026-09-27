@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 700" width="760" height="700" role="img" aria-labelledby="fbas-title fbas-desc">
+<title id="fbas-title">Filter before or after a water softener: position map</title>
+<desc id="fbas-desc">Treatment line from the supply through sediment filter, acid neutralizer, iron filter and carbon filter before the water softener, then tannin unit and UV light after it, with drinking-water filters at the kitchen tap. Each position has the reason it sits there.</desc>
+<defs><marker id="fbas-mc2410c" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="fbas-m0e7490" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="700" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Filter before or after a water softener: where each one sits</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Skip any stage your water test does not call for. The order of the rest does not change.</text>
+<rect class="box" x="22" y="146" width="716" height="244" rx="10" fill="#fffaf5" stroke="#c2410c" stroke-width="1.5"/>
+<text x="34" y="172" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#c2410c">BEFORE</text>
+<text x="34" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">protect</text>
+<text x="34" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">the resin</text>
+<rect class="box" x="22" y="456" width="716" height="120" rx="10" fill="#f3fafb" stroke="#0e7490" stroke-width="1.5"/>
+<text x="34" y="482" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">AFTER</text>
+<text x="34" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">need soft</text>
+<text x="34" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">water</text>
+<rect class="box" x="190" y="92" width="210" height="42" rx="8" fill="#fdf0e8" stroke="#c2410c" stroke-width="2"/>
+<text x="295" y="109.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Supply</text>
+<text x="295" y="126.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">well or city meter</text>
+<path class="ln" d="M295,137 L295,147" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbas-mc2410c)"/>
+<rect class="box" x="190" y="154" width="210" height="42" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="295" y="180" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sediment filter</text>
+<text x="424" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Catches grit that clogs the valve and injector</text>
+<path class="ln" d="M295,199 L295,209" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbas-mc2410c)"/>
+<rect class="box" x="190" y="216" width="210" height="42" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="295" y="233.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Acid neutralizer</text>
+<text x="295" y="250.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">if pH is low</text>
+<text x="424" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Adds hardness, so the softener must follow it</text>
+<path class="ln" d="M295,261 L295,271" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbas-mc2410c)"/>
+<rect class="box" x="190" y="278" width="210" height="42" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="295" y="295.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Iron / Mn filter</text>
+<text x="295" y="312.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">if iron is high</text>
+<text x="424" y="304" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Oxidized iron and manganese foul resin</text>
+<path class="ln" d="M295,323 L295,333" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbas-mc2410c)"/>
+<rect class="box" x="190" y="340" width="210" height="42" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="295" y="357.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Carbon filter</text>
+<text x="295" y="374.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">if chlorinated</text>
+<text x="424" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Removes chlorine before it reaches resin</text>
+<path class="ln" d="M295,385 L295,395" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbas-mc2410c)"/>
+<rect class="box" x="190" y="402" width="210" height="42" rx="8" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="295" y="419.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water softener</text>
+<text x="295" y="436.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">removes hardness</text>
+<text x="424" y="428" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Everything above protects this resin bed</text>
+<path class="ln" d="M295,447 L295,457" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbas-m0e7490)"/>
+<rect class="box" x="190" y="464" width="210" height="42" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="295" y="481.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Tannin unit</text>
+<text x="295" y="498.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">if tannins</text>
+<text x="424" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Anion resin is fouled by hardness and iron</text>
+<path class="ln" d="M295,509 L295,519" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbas-m0e7490)"/>
+<rect class="box" x="190" y="526" width="210" height="42" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="295" y="543.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">UV light</text>
+<text x="295" y="560.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">if bacteria risk</text>
+<text x="424" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Last: needs soft, clear water, nothing after it</text>
+<path class="ln" d="M295,571 L295,581" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbas-m0e7490)"/>
+<rect class="box" x="190" y="588" width="210" height="42" rx="8" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="295" y="605.5" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">House</text>
+<text x="295" y="622.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">every outlet</text>
+<path class="ln" d="M404,609 L444,609" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#fbas-m0e7490)"/>
+<rect class="box" x="452" y="586" width="280" height="46" rx="8" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="592" y="605" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Drinking-water filters</text>
+<text x="592" y="623" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">under-sink RO, fridge: at the tap</text>
+<text x="30" y="678" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Arrows show the direction of flow. Orange: hard water. Teal: softened water.</text>
+</svg>

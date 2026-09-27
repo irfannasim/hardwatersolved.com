@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 530" width="760" height="530" role="img" aria-labelledby="g7cl-title g7cl-desc">
+<title id="g7cl-title">Water softener certification claim vs what the listing must show</title>
+<desc id="g7cl-desc">When you compare water softener specifications, match each brochure claim to the public NSF or WQA listing: the exact model number, NSF/ANSI 44 for that model, rated capacity at a stated salt dose, and an efficiency rating of at least 3,350 grains per pound of salt.</desc>
+<defs>
+<marker id="g7cl-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="530" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Turn every badge into a line you can look up</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Search the NSF or WQA database by maker, then match each claim to the listing.</text>
+<text x="30" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">THE BOX OR BROCHURE SAYS</text>
+<text x="330" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">THE PUBLIC LISTING MUST SHOW</text>
+<rect class="box" x="30" y="112" width="240" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="149" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">"NSF certified" logo</text>
+<path class="ln" d="M276,144 L318,144" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7cl-a)"/>
+<rect class="box" x="330" y="112" width="400" height="64" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="346" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">The company name and exact model number</text>
+<text x="346" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">match every character, including suffixes</text>
+<rect class="box" x="30" y="196" width="240" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="233" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">"Meets NSF/ANSI 44"</text>
+<path class="ln" d="M276,228 L318,228" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7cl-a)"/>
+<rect class="box" x="330" y="196" width="400" height="64" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="346" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Standard 44 listed against this model</text>
+<text x="346" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">not a component, a series or a sister model</text>
+<rect class="box" x="30" y="280" width="240" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="317" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">"48,000 grain softener"</text>
+<path class="ln" d="M276,312 L318,312" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7cl-a)"/>
+<rect class="box" x="330" y="280" width="400" height="64" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="346" y="306" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Rated capacity at a stated salt dose</text>
+<text x="346" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">the headline number usually needs the top dose</text>
+<rect class="box" x="30" y="364" width="240" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="401" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">"High efficiency"</text>
+<path class="ln" d="M276,396 L318,396" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" marker-end="url(#g7cl-a)"/>
+<rect class="box" x="330" y="364" width="400" height="64" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="346" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Efficiency rated: 3,350+ grains per lb of salt</text>
+<text x="346" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">and the salt dose that rating applies to</text>
+<rect class="box" x="30" y="454" width="700" height="52" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="46" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">No listing under that exact model?</text>
+<text x="46" y="497" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Treat the badge as marketing and compare the unit on its measurable specs alone.</text>
+</svg>

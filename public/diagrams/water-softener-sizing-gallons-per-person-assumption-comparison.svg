@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-labelledby="gpa-title gpa-desc">
+<title id="gpa-title">Water softener sizing: how the gallons-per-person assumption changes the answer</title>
+<desc id="gpa-desc">Bar chart of daily grain load for four people on 15 gpg water. The 75 gallon sizing-chart default gives 4,500 grains a day and needs 1.18 cubic feet of resin for six days at 6 lb salt. Measured use of 69.3 gallons in 1999 gives 4,158 grains, 58.6 gallons in 2016 gives 3,516 grains and 0.92 cubic feet, and 36.7 gallons in high-efficiency homes gives 2,202 grains and 0.58 cubic feet.</desc>
+<rect width="760" height="420" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">The gallons assumption changes the softener size</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Four people on 15 gpg water. Resin for 6 days of capacity at 6 lb salt (22,930 grains per cu ft)</text>
+<text x="250" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Grains removed per day</text>
+<text x="730" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#52697a">Resin needed</text>
+<text x="30" y="130" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Sizing-chart default</text>
+<text x="30" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">75 gal per person</text>
+<rect x="250" y="120" width="260" height="30" fill="#52697a"/>
+<text x="520" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4,500</text>
+<text x="730" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">1.18 cu ft</text>
+<text x="30" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Measured, 1999</text>
+<text x="30" y="208" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">69.3 gal per person</text>
+<rect x="250" y="180" width="240" height="30" fill="#52697a"/>
+<text x="500" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4,158</text>
+<text x="730" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">1.09 cu ft</text>
+<text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Measured, 2016</text>
+<text x="30" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">58.6 gal per person</text>
+<rect x="250" y="240" width="203" height="30" fill="#0e7490"/>
+<text x="463" y="260" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3,516</text>
+<text x="730" y="260" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0e7490">0.92 cu ft</text>
+<text x="30" y="310" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">High-efficiency home</text>
+<text x="30" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">36.7 gal per person</text>
+<rect x="250" y="300" width="127" height="30" fill="#52697a"/>
+<text x="387" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2,202</text>
+<text x="730" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">0.58 cu ft</text>
+<rect x="30" y="358" width="14" height="14" fill="#0e7490"/>
+<text x="52" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">best starting point without a meter reading</text>
+<text x="30" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Per-person figures: Water Research Foundation, Residential End Uses of Water, 1999 and 2016</text>
+</svg>

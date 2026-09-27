@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" width="760" height="570" role="img" aria-labelledby="bor-title bor-desc">
+<title id="bor-title">Brine tank overflow line requirements: correct fall, height and termination</title>
+<desc id="bor-desc">Correct brine tank overflow line route. The overflow tube falls continuously from the overflow fitting to a floor drain and ends at least 3 inches below the bottom of the fitting, with its own air gap. The valve drain line runs separately to the same drain with its own air gap.</desc>
+<defs><pattern id="bor-b" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><pattern id="bor-s" width="12" height="10" patternUnits="userSpaceOnUse"><rect width="12" height="10" fill="#f8fafc"/><rect x="2" y="2" width="7" height="6" rx="1.5" fill="#cbd5e1"/></pattern><marker id="bor-d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="570" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Downhill, lower, separate</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">A correct brine tank overflow route, per the WaterBoss and Water-Right manuals.</text>
+<rect x="30" y="440" width="700" height="3" fill="#cbd5e1"/>
+<rect x="44" y="214" width="60" height="226" rx="14" fill="url(#bor-b)" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="30" y="180" width="88" height="34" rx="6" fill="#0b2f4a"/>
+<text x="74" y="202" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">VALVE</text>
+<text x="74" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">softener</text>
+<rect x="180" y="260" width="120" height="180" rx="6" fill="url(#bor-s)" stroke="#3a5a72" stroke-width="2"/>
+<rect x="182" y="390" width="116" height="48" fill="#dbeafe" fill-opacity="0.85"/>
+<rect x="172" y="248" width="136" height="12" rx="3" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<text x="240" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">BRINE TANK</text>
+<rect x="300" y="296" width="12" height="10" rx="2" fill="#0b2f4a"/>
+<text x="318" y="284" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">overflow fitting</text>
+<path class="ln" d="M118,197 L140,197 L140,110 L600,110 L600,380" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round"/>
+<text x="370" y="98" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#78716c">valve drain line: its own route</text>
+<path class="ln" d="M312,301 L520,388 L520,398" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linejoin="round"/>
+<text x="326" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#7c3aed">falls all the way,</text>
+<text x="326" y="410" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#7c3aed">no rise anywhere</text>
+<path class="ln" d="M316,306 L590,306" fill="none" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="5 4"/>
+<path class="ln" d="M528,398 L590,398" fill="none" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="5 4"/>
+<path class="ln" d="M568,312 L568,392" fill="none" stroke="#0e7490" stroke-width="2" marker-end="url(#bor-d)" marker-start="url(#bor-d)"/>
+<text x="556" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">at least</text>
+<text x="556" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">3 in lower</text>
+<rect x="490" y="436" width="150" height="6" fill="#3a5a72"/>
+<text x="565" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">floor drain</text>
+<text x="508" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">air gap</text>
+<text x="612" y="414" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">air gap</text>
+<rect class="box" x="30" y="488" width="226" height="62" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="44" y="512" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Falls continuously</text>
+<text x="44" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">gravity only, never overhead</text>
+<rect class="box" x="268" y="488" width="226" height="62" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="282" y="512" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Ends 3 in or more lower</text>
+<text x="282" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">than the fitting bottom</text>
+<rect class="box" x="506" y="488" width="226" height="62" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="520" y="512" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Own line, own air gap</text>
+<text x="520" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">never teed into the drain</text>
+</svg>

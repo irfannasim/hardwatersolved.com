@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="smc-title smc-desc">
+<title id="smc-title">Water softener salt dose: capacity gained per extra pound of salt</title>
+<desc id="smc-desc">Calculated chart per cubic foot of resin: each of the first 6 pounds of salt adds about 3,500 grains, pounds 6 to 9 about 1,667 each, 9 to 12 about 1,000 and 12 to 15 about 667, while average efficiency falls from 3,500 to 2,067 grains per pound.</desc>
+<defs></defs>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">What each extra pound of salt buys</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Calculated per cubic foot of standard resin from published capacities: 21,000 grains at 6 lb,</text>
+<text x="30" y="82" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">26,000 at 9 lb, 29,000 at 12 lb and 31,000 at 15 lb</text>
+<path d="M120,380 L700,380" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="110" y="385" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M120,312.5 L700,312.5" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="110" y="317.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1,000</text>
+<path d="M120,245 L700,245" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="110" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">2,000</text>
+<path d="M120,177.5 L700,177.5" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="110" y="182.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">3,000</text>
+<path d="M120,110 L700,110" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="110" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">4,000</text>
+<text x="42" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a" transform="rotate(-90 42 245)">Grains per pound of salt</text>
+<path class="ln" d="M120,153.875 L700,153.875" stroke="#15803d" stroke-width="2" fill="none" stroke-dasharray="6 4"/>
+<rect x="157.5" y="143.8" width="70" height="236.3" fill="#0e7490"/>
+<text x="192.5" y="135.75" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">3,500</text>
+<text x="192.5" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">0 to 6 lb</text>
+<rect x="302.5" y="267.5" width="70" height="112.5" fill="#0e7490"/>
+<text x="337.5" y="259.4775" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">1,667</text>
+<text x="337.5" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">6 to 9 lb</text>
+<rect x="447.5" y="312.5" width="70" height="67.5" fill="#0e7490"/>
+<text x="482.5" y="304.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">1,000</text>
+<text x="482.5" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">9 to 12 lb</text>
+<rect x="592.5" y="335.0" width="70" height="45.0" fill="#0e7490"/>
+<text x="627.5" y="326.9775" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">667</text>
+<text x="627.5" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">12 to 15 lb</text>
+<circle cx="249.5" cy="143.8" r="6" fill="#c2410c"/>
+<text x="259.5" y="148.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">3,500</text>
+<circle cx="394.5" cy="185.0" r="6" fill="#c2410c"/>
+<text x="404.5" y="190.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">2,889</text>
+<circle cx="539.5" cy="216.9" r="6" fill="#c2410c"/>
+<text x="549.5" y="221.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">2,417</text>
+<circle cx="684.5" cy="240.5" r="6" fill="#c2410c"/>
+<text x="694.5" y="245.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">2,067</text>
+<text x="700" y="145.875" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#15803d">NSF/ANSI 44 efficiency line: 3,350</text>
+<text x="410" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Salt dose band, per cubic foot of resin</text>
+<rect x="30" y="448" width="16" height="16" fill="#0e7490"/>
+<text x="54" y="461" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Extra grains from each added pound in that band</text>
+<circle cx="438" cy="456" r="6" fill="#c2410c"/>
+<text x="452" y="461" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Average for the whole dose, top of band</text>
+<text x="30" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Each of the last three pounds buys about a fifth of what each of the first six buys.</text>
+</svg>

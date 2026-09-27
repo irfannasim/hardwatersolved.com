@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 680" width="760" height="680" role="img" aria-labelledby="g11il-title g11il-desc">
+<title id="g11il-title">Whole-house water softener installation layout with the three flood points</title>
+<desc id="g11il-desc">How to install a water softener: the main line is cut after the outdoor tap branch, hard water runs to the bypass and control valve inlet, soft water returns to the water heater and house, a bonding jumper spans the cut, the drain line ends above a standpipe with an air gap, and the brine overflow runs separately to a floor drain. Three flood points are marked.</desc>
+<defs>
+<marker id="g11il-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="g11il-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+</defs>
+<rect width="760" height="680" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Softener installation layout and the three flood points</text>
+<rect x="30" y="68" width="22" height="6" fill="#c2410c"/>
+<text x="58" y="75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">hard water</text>
+<rect x="150" y="68" width="22" height="6" fill="#0e7490"/>
+<text x="178" y="75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">soft water</text>
+<rect x="266" y="68" width="22" height="6" fill="#7c3aed"/>
+<text x="294" y="75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">brine</text>
+<rect x="352" y="68" width="22" height="6" fill="#78716c"/>
+<text x="380" y="75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">drain and overflow</text>
+
+<path class="ln" d="M40,160 L300,160 L300,291" stroke="#c2410c" stroke-width="6" fill="none" stroke-linejoin="round" marker-end="url(#g11il-h)"/>
+<path class="ln" d="M170,160 L170,112" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#g11il-h)"/>
+<text x="160" y="116" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">outdoor taps (hard)</text>
+<path d="M68,150 L68,170 L88,160 Z M108,150 L108,170 L88,160 Z" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="88" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">main shutoff</text>
+<text x="40" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">from meter</text>
+
+<path class="ln" d="M306,160 L394,160" stroke="#cbd5e1" stroke-width="4" stroke-dasharray="6 5" fill="none"/>
+<path class="ln" d="M300,154 C300,118 400,118 400,154" stroke="#0b2f4a" stroke-width="1.5" fill="none"/>
+<text x="350" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">bonding jumper</text>
+<text x="350" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">cut out</text>
+
+<path class="ln" d="M400,293 L400,160 L705,160" stroke="#0e7490" stroke-width="6" fill="none" stroke-linejoin="round" marker-end="url(#g11il-s)"/>
+<text x="560" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0e7490">to water heater and house</text>
+<text x="288" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#c2410c">inlet</text>
+<text x="412" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0e7490">outlet</text>
+
+<rect class="box" x="285" y="295" width="130" height="30" rx="4" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="350" y="315" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">bypass valve</text>
+<rect class="box" x="300" y="325" width="100" height="40" rx="4" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="350" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">control valve</text>
+<rect class="box" x="315" y="365" width="70" height="185" rx="28" fill="#f6ead2" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="350" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">mineral</text>
+<text x="350" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">tank</text>
+
+<path class="ln" d="M400,356 L470,356 L470,410" stroke="#7c3aed" stroke-width="3" fill="none"/>
+<rect class="box" x="450" y="410" width="110" height="140" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="505" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">brine tank</text>
+
+<path class="ln" d="M400,336 L640,336 L640,424" stroke="#78716c" stroke-width="4" fill="none" stroke-linejoin="round"/>
+<text x="540" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">drain line, clamped and secured</text>
+<rect x="625" y="440" width="30" height="120" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="664" y="437" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">air gap</text>
+<text x="664" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">standpipe</text>
+
+<path class="ln" d="M560,440 L592,440 L592,548" stroke="#78716c" stroke-width="3" stroke-dasharray="7 4" fill="none"/>
+<rect x="580" y="552" width="24" height="6" fill="#52697a"/>
+<text x="592" y="584" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">overflow to floor drain, separate</text>
+<rect x="30" y="560" width="700" height="3" fill="#cbd5e1"/>
+
+<circle cx="350" cy="206" r="12" fill="#dc2626"/>
+<text x="350" y="211" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<circle cx="700" cy="392" r="12" fill="#dc2626"/>
+<text x="700" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<circle cx="262" cy="310" r="12" fill="#dc2626"/>
+<text x="262" y="315" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+
+<circle cx="42" cy="611" r="10" fill="#dc2626"/>
+<text x="42" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="60" y="616" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Opening the main: prove the shutoff holds before you cut.</text>
+<circle cx="42" cy="635" r="10" fill="#dc2626"/>
+<text x="42" y="640" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<text x="60" y="640" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Drain line: clamp and secure it, with the air gap, before the first regeneration.</text>
+<circle cx="42" cy="659" r="10" fill="#dc2626"/>
+<text x="42" y="664" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<text x="60" y="664" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">First pressurization: bypass first, then ease the valve to service while you watch every joint.</text>
+</svg>

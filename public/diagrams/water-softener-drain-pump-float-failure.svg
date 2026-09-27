@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="dpf-title dpf-desc">
+<title id="dpf-title">Water softener drain pump basin: working float switch versus stuck float and overflow</title>
+<desc id="dpf-desc">Water softener drain pump basin compared in two states. With a working float the pump starts as the level rises and lifts the discharge to the sewer through a check valve. With a stuck float the pump never starts, the softener keeps sending backwash through its air gap, and the basin overflows onto the floor unless a separate high-water alarm warns first.</desc>
+<defs><marker id="dpf-g" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="dpf-r" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">The softener cannot tell if the pump is running</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Same basin, same backwash. Only the float switch differs.</text>
+<rect class="box" x="30" y="86" width="335" height="412" rx="10" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#15803d">Float works</text>
+<rect x="42" y="440" width="311" height="3" fill="#cbd5e1"/>
+<path class="ln" d="M46,156 L180,156 L180,236" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round" marker-end="url(#dpf-g)"/>
+<text x="46" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">softener drain tube</text>
+<text x="168" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">air gap</text>
+<rect x="140" y="262" width="120" height="178" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<rect x="142" y="336" width="116" height="102" fill="#dbeafe"/>
+<path class="ln" d="M225,392 L225,172" fill="none" stroke="#78716c" stroke-width="5" marker-end="url(#dpf-g)"/>
+<rect x="217" y="196" width="16" height="20" rx="2" fill="#3a5a72"/>
+<text x="242" y="211" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">check valve</text>
+<text x="236" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">to sewer</text>
+<rect class="box" x="202" y="392" width="46" height="44" rx="4" fill="#0b2f4a"/>
+<text x="225" y="419" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">pump</text>
+<path class="ln" d="M187,334 L202,404" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="180" cy="330" r="9" fill="#15803d"/>
+<text x="132" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">float</text>
+<circle cx="152" cy="290" r="6" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="132" y="295" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">alarm float</text>
+<text x="46" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">The pump starts as the level rises and</text>
+<text x="46" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">empties the basin faster than it fills.</text>
+<rect class="box" x="395" y="86" width="335" height="412" rx="10" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<text x="411" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Float stuck</text>
+<rect x="407" y="440" width="311" height="3" fill="#cbd5e1"/>
+<path class="ln" d="M411,156 L545,156 L545,236" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round" marker-end="url(#dpf-g)"/>
+<text x="411" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">softener drain tube</text>
+<text x="533" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">air gap</text>
+<rect x="505" y="262" width="120" height="178" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<rect x="507" y="262" width="116" height="176" fill="#dbeafe"/>
+<path class="ln" d="M590,392 L590,150" fill="none" stroke="#cbd5e1" stroke-width="5"/>
+<rect x="582" y="196" width="16" height="20" rx="2" fill="#3a5a72"/>
+<text x="607" y="211" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">check valve</text>
+<text x="601" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">to sewer</text>
+<rect class="box" x="567" y="392" width="46" height="44" rx="4" fill="#0b2f4a"/>
+<text x="590" y="419" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">pump</text>
+<path class="ln" d="M552,424 L567,404" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="545" cy="420" r="9" fill="#dc2626"/>
+<text x="497" y="425" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">float stuck</text>
+<circle cx="517" cy="290" r="6" fill="#dc2626" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="497" y="295" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">ALARM</text>
+<path class="ln" d="M627,266 L657,266 L657,426" fill="none" stroke="#dc2626" stroke-width="4" marker-end="url(#dpf-r)"/>
+<text x="667" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">over</text>
+<text x="667" y="348" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">the rim</text>
+<text x="411" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">The softener keeps sending backwash;</text>
+<text x="411" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">the basin overflows within minutes.</text>
+<text x="30" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Fit a separate high-water alarm. Cutting softener power mid-cycle can leave water running to drain.</text>
+</svg>

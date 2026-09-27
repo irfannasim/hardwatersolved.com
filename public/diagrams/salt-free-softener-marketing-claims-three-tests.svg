@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="g26ct-title g26ct-desc">
+<title id="g26ct-title">Salt-free and water softener marketing claims matched to three tests</title>
+<desc id="g26ct-desc">Salt free water softener claims and salt-based softener claims each map to one of three checks: softening or hardness removal claims to a hardness test at a tap, scale prevention claims to a scale test over two to three months, and certification, efficiency, maintenance-free and cost claims to a paper-trail test of listings, reports and written costs.</desc>
+<defs>
+<marker id="g26ct-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Every claim ends in one of three tests</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">The same checks apply to salt-free and salt-based marketing</text>
+<text x="30" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">THE CLAIM</text>
+<text x="470" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">THE TEST</text>
+<rect class="box" x="30" y="104" width="270" height="50" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="46" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Softens, removes hardness</text>
+<rect class="box" x="30" y="174" width="270" height="50" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="46" y="204" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Prevents scale, X% reduction</text>
+<rect class="box" x="30" y="244" width="270" height="50" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="46" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Certified, high efficiency</text>
+<rect class="box" x="30" y="314" width="270" height="50" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="46" y="344" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Maintenance-free, lasts X years</text>
+<rect class="box" x="30" y="384" width="270" height="50" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="46" y="414" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Pays for itself, less salt</text>
+<path class="ln" d="M306,129 L462,139" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26ct-a)"/>
+<path class="ln" d="M306,199 L462,235" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26ct-a)"/>
+<path class="ln" d="M306,269 L462,335" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26ct-a)"/>
+<path class="ln" d="M306,339 L462,360" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26ct-a)"/>
+<path class="ln" d="M306,409 L462,385" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26ct-a)"/>
+<rect class="box" x="470" y="104" width="260" height="72" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="486" y="128" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">1. Hardness test</text>
+<text x="486" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">raw vs treated cold tap</text>
+<text x="486" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">softener: under 1 gpg</text>
+<rect class="box" x="470" y="200" width="260" height="72" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="486" y="224" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">2. Scale test</text>
+<text x="486" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">descale, then look again</text>
+<text x="486" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">after 2 to 3 months</text>
+<rect class="box" x="470" y="296" width="260" height="138" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="486" y="320" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">3. Paper-trail test</text>
+<text x="486" y="342" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">listing link for the model</text>
+<text x="486" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">full test report</text>
+<text x="486" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">media or resin cost, in writing</text>
+<text x="486" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">warranty by component</text>
+<rect class="box" x="30" y="452" width="700" height="36" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="475" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">A salt-free unit that shows the same hardness is working as designed. It is simply not a softener.</text>
+</svg>

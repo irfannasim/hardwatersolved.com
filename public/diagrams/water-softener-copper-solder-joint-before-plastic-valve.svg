@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 490" width="760" height="490" role="img" aria-labelledby="g11sh-title g11sh-desc">
+<title id="g11sh-title">Connecting a water softener to copper: solder the joint before the plastic valve goes on</title>
+<desc id="g11sh-desc">Wrong: soldering copper while the adapter is attached to the plastic softener valve lets heat run into the nut, split ring and O-ring. Right: solder the adapter onto the copper pipe first, let it cool, then fit the nut, split ring and O-ring and hand-tighten onto the valve.</desc>
+<defs>
+<marker id="g11sh-r" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+</defs>
+<rect width="760" height="490" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Copper to a softener: heat first, plastic last</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">The order of the joints protects the valve, the nut and the O-ring.</text>
+
+<rect class="box" x="30" y="86" width="340" height="310" rx="10" fill="#ffffff" stroke="#dc2626" stroke-width="1.5"/>
+<text x="200" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">WRONG: soldering on the valve</text>
+<rect x="50" y="222" width="200" height="16" fill="#f1c6a0" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="186" y="214" width="30" height="32" fill="#d99a6c" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="250" y="208" width="24" height="44" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.2"/>
+<rect class="box" x="274" y="176" width="80" height="108" rx="6" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="314" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">plastic</text>
+<text x="314" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">valve</text>
+<path d="M201,252 L189,296 L213,296 Z" fill="#f59e0b"/>
+<text x="180" y="290" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">torch</text>
+<path class="ln" d="M214,208 Q234,180 256,200" stroke="#dc2626" stroke-width="2" stroke-dasharray="5 4" fill="none" marker-end="url(#g11sh-r)"/>
+<text x="214" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">heat</text>
+<text x="48" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Heat runs along the copper into the nut,</text>
+<text x="48" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">split ring and O-ring, and can distort the</text>
+<text x="48" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">valve body. The result is a leak at the valve.</text>
+
+<rect class="box" x="390" y="86" width="340" height="310" rx="10" fill="#ffffff" stroke="#15803d" stroke-width="1.5"/>
+<text x="560" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">RIGHT: joint first, valve last</text>
+<text x="406" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">1. Solder the adapter onto the pipe</text>
+<rect x="410" y="176" width="220" height="16" fill="#f1c6a0" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="560" y="168" width="30" height="32" fill="#d99a6c" stroke="#3a5a72" stroke-width="1.2"/>
+<path d="M575,206 L563,246 L587,246 Z" fill="#f59e0b"/>
+<rect x="656" y="160" width="58" height="48" rx="6" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="685" y="189" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">valve</text>
+<text x="406" y="236" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">valve not fitted;</text>
+<text x="406" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">let the joint cool</text>
+
+<text x="406" y="284" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">2. Fit nut, split ring and O-ring</text>
+<rect x="410" y="322" width="190" height="16" fill="#f1c6a0" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="520" y="314" width="30" height="32" fill="#d99a6c" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="600" y="308" width="24" height="44" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.2"/>
+<rect class="box" x="624" y="298" width="90" height="64" rx="6" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="669" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">valve</text>
+<text x="669" y="344" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">hand-tight</text>
+<path d="M419,375 L425,382 L438,367" fill="none" stroke="#15803d" stroke-width="3"/>
+<text x="446" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">no heat reaches the plastic</text>
+
+<text x="30" y="428" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Morton: do not solder with plumbing attached to the plastic bypass. Clack: fit the nut, split ring</text>
+<text x="30" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">and O-ring only after solder joints are cool. Fleck and Clack: keep solder joints at least 6 inches</text>
+<text x="30" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">from the drain line flow control fitting.</text>
+</svg>

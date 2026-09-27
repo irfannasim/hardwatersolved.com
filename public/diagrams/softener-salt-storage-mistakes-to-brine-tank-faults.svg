@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="ssf-title ssf-desc">
+<title id="ssf-title">How water softener salt storage and refill mistakes lead to brine tank faults</title>
+<desc id="ssf-desc">Three chains from storing water softener salt wrongly to a brine tank fault: damp storage cakes the salt and leads to a salt bridge, pouring a new grade onto the old one leads to salt mushing, and open bags on a wet floor carry grit into the brine well and injector.</desc>
+<defs>
+<marker id="ssf-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">From the storage shelf to the brine tank fault</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The fault shows up in the tank weeks later. The cause started where the bags were kept or how they were poured.</text>
+<text x="30" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">STORAGE OR REFILL MISTAKE</text>
+<text x="275" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">WHAT IT DOES TO THE SALT</text>
+<text x="520" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">BRINE TANK FAULT</text>
+<rect class="box" x="30" y="110" width="210" height="86" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="138" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Bags kept in damp air</text>
+<text x="44" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">basement, garage or</text>
+<text x="44" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">laundry room</text>
+<rect class="box" x="275" y="110" width="210" height="86" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="289" y="138" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Salt cakes into lumps</text>
+<text x="289" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">it pulls in water above</text>
+<text x="289" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">about 70–75% humidity</text>
+<rect class="box" x="520" y="110" width="210" height="86" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="534" y="138" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Salt bridge</text>
+<text x="534" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">lumps fuse into a crust</text>
+<text x="534" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">over an empty void</text>
+<path class="ln" d="M242,153 L270,153" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#ssf-ah)"/>
+<path class="ln" d="M487,153 L515,153" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#ssf-ah)"/>
+<rect class="box" x="30" y="220" width="210" height="86" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">New grade poured on</text>
+<text x="44" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">a tank still full of the</text>
+<text x="44" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">old type of salt</text>
+<rect class="box" x="275" y="220" width="210" height="86" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="289" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Layers behave apart</text>
+<text x="289" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">they dissolve and settle</text>
+<text x="289" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">unevenly; fines pack down</text>
+<rect class="box" x="520" y="220" width="210" height="86" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="534" y="248" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Salt mushing</text>
+<text x="534" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">sludge on the floor</text>
+<text x="534" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">buries the brine well</text>
+<path class="ln" d="M242,263 L270,263" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#ssf-ah)"/>
+<path class="ln" d="M487,263 L515,263" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#ssf-ah)"/>
+<rect class="box" x="30" y="330" width="210" height="86" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="358" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Open or torn bags</text>
+<text x="44" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">left on a wet concrete</text>
+<text x="44" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">floor</text>
+<rect class="box" x="275" y="330" width="210" height="86" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="289" y="358" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Grit and debris get in</text>
+<text x="289" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">floor dirt, bag scraps,</text>
+<text x="289" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">wet caked bottoms</text>
+<rect class="box" x="520" y="330" width="210" height="86" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="534" y="358" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Blocked brine draw</text>
+<text x="534" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">grit in the brine well,</text>
+<text x="534" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">line or injector</text>
+<path class="ln" d="M242,373 L270,373" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#ssf-ah)"/>
+<path class="ln" d="M487,373 L515,373" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#ssf-ah)"/>
+<rect class="box" x="30" y="436" width="700" height="44" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="44" y="463" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Prevent all three: sealed bags, off the floor, in dry air. Run the tank down before changing grade.</text>
+</svg>

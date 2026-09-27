@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="rtw-title rtw-desc">
+<title id="rtw-title">Using water during water softener regeneration: what reaches the tap in each stage</title>
+<desc id="rtw-desc">Timeline of a 2:00 a.m. single-tank water softener regeneration. Taps receive untreated hard water through the bypass during backwash, brine draw, slow rinse and rinse, then treated water during refill. Heavy use during the brine draw is the highest-risk moment.</desc>
+<defs></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">What reaches your taps during a 2:00 a.m. regeneration</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Single-tank softener, Clack WS1 downflow timing at a standard salt dose (80 minutes plus refill)</text>
+<text x="30" y="150" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Valve</text>
+<text x="30" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Your taps</text>
+<text x="30" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Heavy use</text>
+<rect x="120.0" y="128" width="52.8" height="36" fill="#78716c" stroke="#ffffff" stroke-width="1"/>
+<rect x="172.8" y="128" width="396.0" height="36" fill="#7c3aed" stroke="#ffffff" stroke-width="1"/>
+<rect x="568.8" y="128" width="52.8" height="36" fill="#78716c" stroke="#ffffff" stroke-width="1"/>
+<rect x="621.6" y="128" width="26.4" height="36" fill="#a8a29e" stroke="#ffffff" stroke-width="1"/>
+<rect x="648.0" y="128" width="59.4" height="36" fill="#60a5fa" stroke="#ffffff" stroke-width="1"/>
+<text x="370.8" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Brine draw + slow rinse, 60 min</text>
+<path class="ln" d="M146.4,100 L146.4,126" stroke="#52697a" stroke-width="1" fill="none"/>
+<text x="150.4" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Backwash 8 min</text>
+<path class="ln" d="M595.2,116 L595.2,126" stroke="#52697a" stroke-width="1" fill="none"/>
+<text x="591.2" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#0b2f4a">Backwash 8</text>
+<path class="ln" d="M634.8,100 L634.8,126" stroke="#52697a" stroke-width="1" fill="none"/>
+<text x="630.8" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#0b2f4a">Rinse 4</text>
+<path class="ln" d="M677.7,116 L677.7,126" stroke="#52697a" stroke-width="1" fill="none"/>
+<text x="681.7" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Refill ~9</text>
+<rect x="120" y="210" width="528.0" height="36" fill="#c2410c"/>
+<text x="384.0" y="233" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Untreated hard water through the internal bypass</text>
+<rect x="648.0" y="210" width="59.4" height="36" fill="#0e7490"/>
+<text x="713.4" y="233" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">Soft</text>
+<rect x="120" y="292" width="52.8" height="36" fill="#fde68a"/>
+<rect x="172.8" y="292" width="396.0" height="36" fill="#dc2626"/>
+<text x="370.8" y="315" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Pressure drop starves the injector</text>
+<rect x="568.8" y="292" width="79.2" height="36" fill="#fde68a"/>
+<rect x="648.0" y="292" width="59.4" height="36" fill="#bbf7d0"/>
+<path class="ln" d="M120.0,340 L120.0,348" stroke="#52697a" stroke-width="1" fill="none"/>
+<text x="120.0" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">2:00</text>
+<path class="ln" d="M318.0,340 L318.0,348" stroke="#52697a" stroke-width="1" fill="none"/>
+<text x="318.0" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">2:30</text>
+<path class="ln" d="M516.0,340 L516.0,348" stroke="#52697a" stroke-width="1" fill="none"/>
+<text x="516.0" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">3:00</text>
+<path class="ln" d="M707.4,340 L707.4,348" stroke="#52697a" stroke-width="1" fill="none"/>
+<text x="707.4" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">3:29</text>
+<path class="ln" d="M120,340 L707.4,340" stroke="#52697a" stroke-width="1" fill="none"/>
+<rect x="30" y="383" width="16" height="16" fill="#c2410c"/>
+<text x="54" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hard water: fine for a toilet flush, but it goes into the water heater if you run hot water.</text>
+<rect x="30" y="411" width="16" height="16" fill="#dc2626"/>
+<text x="54" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Brine draw: a long draw lowers the pressure the injector needs, so brine can be left for rinse to miss.</text>
+<rect x="30" y="439" width="16" height="16" fill="#fde68a"/>
+<text x="54" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Backwash and rinse: pressure and flow drop at the tap, and the water is hard.</text>
+<rect x="30" y="467" width="16" height="16" fill="#bbf7d0"/>
+<text x="54" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Refill on this valve runs with treated water back in service.</text>
+<text x="30" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Other valves differ in order and length. Check the cycle table in your manual.</text>
+</svg>

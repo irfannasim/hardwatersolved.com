@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="whro-title whro-desc">
+<title id="whro-title">Whole-house reverse osmosis daily water balance for a family of four</title>
+<desc id="whro-desc">Worked daily water balance for 328 gallons a day of household use. Whole-house reverse osmosis at 25 percent recovery needs 1,312 gallons of feed and sends 984 gallons to drain; at 50 percent it sends 328 gallons to drain. A softener plus an under-sink RO sends about 35 gallons to drain. Below, the chain of equipment a whole-house RO system needs.</desc>
+<defs><marker id="whro-m0e7490" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Whole-house RO: the daily water balance</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Worked example: family of four at EPA's 82 gallons per person per day = 328 gallons used</text>
+<text x="30" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Whole-house RO</text>
+<text x="30" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">25% recovery</text>
+<rect class="box" x="250" y="100" width="118.08" height="40" rx="4" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="309.04" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">328 used</text>
+<rect class="box" x="368.08" y="100" width="354.24" height="40" rx="4" fill="#f5f5f4" stroke="#78716c" stroke-width="2"/>
+<text x="545.2" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#78716c">984 to drain</text>
+<text x="30" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Whole-house RO</text>
+<text x="30" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">50% recovery</text>
+<rect class="box" x="250" y="162" width="118.08" height="40" rx="4" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="309.04" y="187" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">328 used</text>
+<rect class="box" x="368.08" y="162" width="118.08" height="40" rx="4" fill="#f5f5f4" stroke="#78716c" stroke-width="2"/>
+<text x="427.12" y="187" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#78716c">328 to drain</text>
+<text x="30" y="242" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Softener + sink RO</text>
+<text x="30" y="260" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">about 25 + 10 gal</text>
+<rect class="box" x="250" y="224" width="118.08" height="40" rx="4" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="309.04" y="249" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">328 used</text>
+<rect x="368.08" y="224" width="12.6" height="40" rx="4" fill="#f5f5f4" stroke="#78716c" stroke-width="2"/>
+<text x="390.68" y="249" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">35 to drain</text>
+<text x="30" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Gallons per day. Bar length is to scale. Feed = used + drain.</text>
+<text x="30" y="340" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">What a whole-house RO system has to include</text>
+<rect class="box" x="30" y="358" width="148" height="56" rx="8" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="104" y="381.5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="104" y="400.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">hardness scales RO</text>
+<path class="ln" d="M182,386 L206,386" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whro-m0e7490)"/>
+<rect class="box" x="212" y="358" width="148" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="286" y="381.5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Carbon</text>
+<text x="286" y="400.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">chlorine off</text>
+<path class="ln" d="M364,386 L388,386" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whro-m0e7490)"/>
+<rect class="box" x="394" y="358" width="148" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="468" y="381.5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">RO membranes</text>
+<text x="468" y="400.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">slow output</text>
+<path class="ln" d="M546,386 L570,386" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whro-m0e7490)"/>
+<rect class="box" x="576" y="358" width="148" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="650" y="381.5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Storage tank</text>
+<text x="650" y="400.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">no chlorine left</text>
+<rect class="box" x="576" y="452" width="148" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="650" y="475.5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Booster pump</text>
+<text x="650" y="494.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">house pressure</text>
+<path class="ln" d="M572,480 L548,480" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whro-m0e7490)"/>
+<rect class="box" x="394" y="452" width="148" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="468" y="475.5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Remineralizer</text>
+<text x="468" y="494.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">RO water corrodes</text>
+<path class="ln" d="M390,480 L366,480" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whro-m0e7490)"/>
+<rect class="box" x="212" y="452" width="148" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="286" y="475.5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">UV</text>
+<text x="286" y="494.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">often added</text>
+<path class="ln" d="M208,480 L184,480" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whro-m0e7490)"/>
+<rect class="box" x="30" y="452" width="148" height="56" rx="8" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="104" y="475.5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">House</text>
+<text x="104" y="494.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">every outlet</text>
+<path class="ln" d="M650,414 L650,446" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#whro-m0e7490)"/>
+<text x="30" y="536" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Recovery figures: Nebraska Extension gives 20 to 30% for household RO. 50% is shown as a best case.</text>
+</svg>

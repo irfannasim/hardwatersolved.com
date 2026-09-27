@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="g11gd-title g11gd-desc">
+<title id="g11gd-title">Galvanized pipe and a water softener: repipe first or install with a flushing plan</title>
+<desc id="g11gd-desc">Decision tree for installing a water softener on galvanized pipe. Active leaks or badly restricted flow mean repipe first. Rusty first draws or visible pitting mean install with caution and a repipe budget. Otherwise install with the flushing protocol and recheck joints.</desc>
+<defs>
+<marker id="g11gd-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Galvanized pipe: repipe first, or soften now?</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Work down the left column. The first Yes decides the answer.</text>
+
+<rect class="box" x="30" y="86" width="370" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">1. Any active leak, or rust weeping at</text>
+<text x="46" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">threaded joints you can see?</text>
+<rect class="box" x="460" y="86" width="270" height="64" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="476" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Repipe first</text>
+<text x="476" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Fix the leaks before softening</text>
+<path class="ln" d="M404,118 L452,118" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#g11gd-a)"/>
+<text x="428" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<path class="ln" d="M215,150 L215,182" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#g11gd-a)"/>
+<text x="228" y="171" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+
+<rect class="box" x="30" y="190" width="370" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">2. Main-floor tub spout delivers less than</text>
+<text x="46" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">about 3 gallons a minute (bucket test)?</text>
+<rect class="box" x="460" y="190" width="270" height="64" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="476" y="216" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Repipe first</text>
+<text x="476" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">The bore is choked with rust</text>
+<path class="ln" d="M404,222 L452,222" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#g11gd-a)"/>
+<text x="428" y="208" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<path class="ln" d="M215,254 L215,286" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#g11gd-a)"/>
+<text x="228" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+
+<rect class="box" x="30" y="294" width="370" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">3. Rusty first draw in the morning, or pits</text>
+<text x="46" y="342" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">inside the section you cut out?</text>
+<rect class="box" x="460" y="294" width="270" height="64" rx="8" fill="#fffbeb" stroke="#b45309" stroke-width="1.5"/>
+<text x="476" y="320" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#b45309">Install with caution</text>
+<text x="476" y="342" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Flush plan plus a repipe budget</text>
+<path class="ln" d="M404,326 L452,326" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#g11gd-a)"/>
+<text x="428" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<path class="ln" d="M215,358 L215,390" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#g11gd-a)"/>
+<text x="228" y="379" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+
+<rect class="box" x="30" y="398" width="370" height="64" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="46" y="424" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#15803d">Install with the flushing protocol</text>
+<text x="46" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Recheck joints at 1, 4 and 12 weeks</text>
+
+<text x="30" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Step 2 is a rule of thumb: test the lowest tub with nothing else running.</text>
+<text x="30" y="528" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Galvanized service line that was ever downstream of a lead line? Ask the utility first:</text>
+<text x="30" y="550" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">EPA's 2024 rule classes it as "galvanized requiring replacement".</text>
+</svg>

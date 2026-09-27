@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="g26vf-title g26vf-desc">
+<title id="g26vf-title">How to verify water softener certification: search flow</title>
+<desc id="g26vf-desc">Six steps to verify water softener certification: copy the exact model number, open the full NSF/ANSI 44 listing, find the model on the page, check it matches exactly, read the HR and ER claims, and match capacity to your salt dose. If the model is not found, try the manufacturer name, WQA and IAPMO; if it is listed nowhere, treat it as unverified.</desc>
+<defs>
+<marker id="g26vf-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+<marker id="g26vf-r" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+</defs>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Verify a softener certification by model, not brand</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Works the same way in the NSF, WQA and IAPMO databases</text>
+<rect class="box" x="100" y="96" width="320" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="116" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Copy the exact model number</text>
+<text x="116" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">data plate, spec sheet or invoice</text>
+<path class="ln" d="M260,150 L260,170" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26vf-a)"/>
+<rect class="box" x="100" y="176" width="320" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="116" y="197" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Open the full Standard 44 listing</text>
+<text x="116" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">info.nsf.org, every certified softener</text>
+<path class="ln" d="M260,230 L260,250" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26vf-a)"/>
+<rect class="box" x="100" y="256" width="320" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="116" y="277" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Find the model on the page</text>
+<text x="116" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Ctrl+F the model number, not the brand</text>
+<path class="ln" d="M424,281 L484,281" fill="none" stroke="#dc2626" stroke-width="5" marker-end="url(#g26vf-r)"/>
+<text x="454" y="266" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626" text-anchor="middle">not found</text>
+<path class="ln" d="M260,310 L260,330" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26vf-a)"/>
+<text x="272" y="325" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">found</text>
+<rect class="box" x="100" y="336" width="320" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="116" y="357" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4. Check it matches exactly</text>
+<text x="116" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">every character, suffix included</text>
+<path class="ln" d="M260,390 L260,410" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26vf-a)"/>
+<rect class="box" x="100" y="416" width="320" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="116" y="437" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">5. Read the claims on that line</text>
+<text x="116" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">[HR] capacity; [ER] if efficiency is claimed</text>
+<path class="ln" d="M260,470 L260,490" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#g26vf-a)"/>
+<rect class="box" x="100" y="496" width="320" height="50" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="116" y="517" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">6. Match capacity to your salt dose</text>
+<text x="116" y="536" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">the seller's grain figure at your setting</text>
+<path class="ln" d="M260,550 L260,570" fill="none" stroke="#0e7490" stroke-width="5" marker-end="url(#g26vf-a)"/>
+<rect class="box" x="100" y="576" width="320" height="44" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="116" y="603" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Verified, for this exact model only</text>
+<rect class="box" x="490" y="246" width="240" height="84" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="506" y="270" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Search again</text>
+<text x="506" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">manufacturer name, then the</text>
+<text x="506" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">WQA and IAPMO databases</text>
+<path class="ln" d="M610,334 L610,404" fill="none" stroke="#dc2626" stroke-width="5" marker-end="url(#g26vf-r)"/>
+<text x="622" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">listed nowhere</text>
+<rect class="box" x="490" y="410" width="240" height="84" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="506" y="434" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Unverified</text>
+<text x="506" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">treat the logo as marketing;</text>
+<text x="506" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">judge it on specs alone</text>
+</svg>

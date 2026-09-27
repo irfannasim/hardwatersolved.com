@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="g7hm-title g7hm-desc">
+<title id="g7hm-title">Where a salt-free system shows results in a house, and where it does not</title>
+<desc id="g7hm-desc">Map of a home's cold and hot supply after a salt free system: less scale is likely in the water heater and kettle, where water is heated, while spots at taps, lather in the shower and film on dishwasher glasses do not change because hardness is still in the water.</desc>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Where a salt-free system shows up, and where it will not</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">The benefit appears where water is heated. Anything that depends on dissolved hardness stays the same.</text>
+<text x="235" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">COLD SUPPLY</text>
+<text x="235" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">HOT SUPPLY</text>
+<path class="ln" d="M170,252 L205,252 M205,153 L205,365 M205,153 L235,153 M385,153 L405,153 M555,153 L575,153 M205,365 L235,365 M385,365 L405,365 M555,365 L575,365" fill="none" stroke="#c2410c" stroke-width="6" stroke-linejoin="round"/>
+<rect class="box" x="30" y="220" width="140" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="246" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">TAC unit</text>
+<text x="44" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">on the main line</text>
+<rect class="box" x="235" y="120" width="150" height="66" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2.5"/>
+<text x="248" y="146" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Kitchen tap</text>
+<text x="248" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">spots: no change</text>
+<rect class="box" x="405" y="120" width="150" height="66" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2.5"/>
+<text x="418" y="146" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Shower, soap</text>
+<text x="418" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">lather: no change</text>
+<rect class="box" x="575" y="120" width="150" height="66" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2.5"/>
+<text x="588" y="146" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Kettle</text>
+<text x="588" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#15803d">scale: may drop</text>
+<rect class="box" x="235" y="332" width="150" height="66" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2.5"/>
+<text x="248" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Water heater</text>
+<text x="248" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#15803d">scale: reduced</text>
+<rect class="box" x="405" y="332" width="150" height="66" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2.5"/>
+<text x="418" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Hot taps</text>
+<text x="418" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">spots: no change</text>
+<rect class="box" x="575" y="332" width="150" height="66" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2.5"/>
+<text x="588" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Dishwasher</text>
+<text x="588" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">glass film: same</text>
+<rect x="30" y="436" width="22" height="16" rx="3" fill="#f0fdf4" stroke="#15803d" stroke-width="2.5"/>
+<text x="60" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">change likely (heated)</text>
+<rect x="240" y="436" width="22" height="16" rx="3" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2.5"/>
+<text x="270" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">no change expected</text>
+<rect x="430" y="440" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="464" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">still hard water, all the way through</text>
+</svg>

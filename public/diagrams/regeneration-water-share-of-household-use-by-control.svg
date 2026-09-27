@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" width="760" height="430" role="img" aria-labelledby="rwh-title rwh-desc">
+<title id="rwh-title">Water softener regeneration water as a share of household water use</title>
+<desc id="rwh-desc">Calculated bar chart for a household using 300 gallons a day: a metered softener sends about 3 to 4 percent of household water to the drain for regeneration, a timer set every three days about 9.5 percent and a nightly timer about 28 percent.</desc>
+<defs></defs>
+<rect width="760" height="430" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Regeneration water as a share of household use</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Calculated: 300 gallons a day at home (109,500 a year), 15 gpg water, 1.5 cu ft softener</text>
+<path d="M250,92 L250,330" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="250" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0%</text>
+<path d="M400,92 L400,330" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="400" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10%</text>
+<path d="M550,92 L550,330" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="550" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">20%</text>
+<path d="M700,92 L700,330" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="700" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">30%</text>
+<text x="30" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Metered, economy salt</text>
+<text x="30" y="135" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">about every 6 days, 56 gal</text>
+<rect x="250" y="104" width="46.5" height="32" fill="#0e7490"/>
+<text x="304.5" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">3.1%  (3,410 gal/yr)</text>
+<text x="30" y="175" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Metered, standard salt</text>
+<text x="30" y="193" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">about every 8 days, 85 gal</text>
+<rect x="250" y="162" width="52.5" height="32" fill="#0e7490"/>
+<text x="310.5" y="183" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">3.5%  (3,880 gal/yr)</text>
+<text x="30" y="233" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Timer, every 3 days</text>
+<text x="30" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">122 cycles, 85 gal</text>
+<rect x="250" y="220" width="142.5" height="32" fill="#c2410c"/>
+<text x="400.5" y="241" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">9.5%  (10,370 gal/yr)</text>
+<text x="30" y="291" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Timer, every night</text>
+<text x="30" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">365 cycles, 85 gal</text>
+<rect x="250" y="278" width="424.5" height="32" fill="#dc2626"/>
+<text x="666.5" y="299" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">28.3%  (31,025 gal/yr)</text>
+<text x="475" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Share of total household water use</text>
+<text x="30" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">The control method moves the share far more than the salt setting does.</text>
+</svg>

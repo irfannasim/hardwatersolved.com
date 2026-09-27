@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="htds-title htds-desc">
+<title id="htds-title">Hard water vs TDS vs alkalinity in four example water samples</title>
+<desc id="htds-desc">Grouped bar chart of total dissolved solids, hardness and alkalinity in mg/L for four example waters: a limestone well at 532, 328 and 291; the same well softened at 568, 0 and 291; a sodium bicarbonate well at 683, 28 and 344; and a gypsum well at 803, 539 and 98. The three numbers move independently.</desc>
+<defs></defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hard water vs TDS vs alkalinity: four example waters</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Worked from each water’s ion makeup (example compositions, mg/L). The three numbers move independently.</text>
+<path class="grid" d="M90,430 L730,430" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path class="grid" d="M90,366 L730,366" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">200</text>
+<path class="grid" d="M90,302 L730,302" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">400</text>
+<path class="grid" d="M90,238 L730,238" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">600</text>
+<path class="grid" d="M90,174 L730,174" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="80" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">800</text>
+<text x="30" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">mg/L</text>
+<rect x="100" y="259.76" width="38" height="170.24" rx="2" fill="#0b2f4a" stroke="#0b2f4a" stroke-width="1"/>
+<text x="119" y="252.76" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">532</text>
+<rect x="144" y="325.03999999999996" width="38" height="104.96000000000001" rx="2" fill="#c2410c" stroke="#c2410c" stroke-width="1"/>
+<text x="163" y="318.03999999999996" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#c2410c">328</text>
+<rect x="188" y="336.88" width="38" height="93.12" rx="2" fill="#7c93a8" stroke="#7c93a8" stroke-width="1"/>
+<text x="207" y="329.88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">291</text>
+<text x="163" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">A. Limestone</text>
+<text x="163" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">well</text>
+<text x="163" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">hard: 19.2 gpg</text>
+<rect x="260" y="248.24" width="38" height="181.76" rx="2" fill="#0b2f4a" stroke="#0b2f4a" stroke-width="1"/>
+<text x="279" y="241.24" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">568</text>
+<rect x="304" y="428" width="38" height="2" rx="2" fill="#c2410c" stroke="#c2410c" stroke-width="1"/>
+<text x="323" y="421" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#c2410c">0</text>
+<rect x="348" y="336.88" width="38" height="93.12" rx="2" fill="#7c93a8" stroke="#7c93a8" stroke-width="1"/>
+<text x="367" y="329.88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">291</text>
+<text x="323" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">B. Same well,</text>
+<text x="323" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">softened</text>
+<text x="323" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">hard: about 0 gpg</text>
+<rect x="420" y="211.44" width="38" height="218.56" rx="2" fill="#0b2f4a" stroke="#0b2f4a" stroke-width="1"/>
+<text x="439" y="204.44" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">683</text>
+<rect x="464" y="421.04" width="38" height="8.96" rx="2" fill="#c2410c" stroke="#c2410c" stroke-width="1"/>
+<text x="483" y="414.04" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#c2410c">28</text>
+<rect x="508" y="319.92" width="38" height="110.08" rx="2" fill="#7c93a8" stroke="#7c93a8" stroke-width="1"/>
+<text x="527" y="312.92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">344</text>
+<text x="483" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">C. Sodium</text>
+<text x="483" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">bicarbonate well</text>
+<text x="483" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">hard: 1.6 gpg</text>
+<rect x="580" y="173.04000000000002" width="38" height="256.96" rx="2" fill="#0b2f4a" stroke="#0b2f4a" stroke-width="1"/>
+<text x="599" y="166.04000000000002" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">803</text>
+<rect x="624" y="257.52" width="38" height="172.48" rx="2" fill="#c2410c" stroke="#c2410c" stroke-width="1"/>
+<text x="643" y="250.51999999999998" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#c2410c">539</text>
+<rect x="668" y="398.64" width="38" height="31.36" rx="2" fill="#7c93a8" stroke="#7c93a8" stroke-width="1"/>
+<text x="687" y="391.64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">98</text>
+<text x="643" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">D. Gypsum</text>
+<text x="643" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">well</text>
+<text x="643" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">hard: 31.5 gpg</text>
+<rect x="30" y="528" width="14" height="14" rx="2" fill="#0b2f4a" stroke="#0b2f4a" stroke-width="1"/>
+<text x="52" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">TDS</text>
+<rect x="112.2" y="528" width="14" height="14" rx="2" fill="#c2410c" stroke="#c2410c" stroke-width="1"/>
+<text x="134.2" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hardness as CaCO3</text>
+<rect x="298" y="528" width="14" height="14" rx="2" fill="#7c93a8" stroke="#7c93a8" stroke-width="1"/>
+<text x="320" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Alkalinity as CaCO3</text>
+<text x="30" y="572" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">TDS shown as the sum of dissolved ions. A lab evaporation result reads lower on bicarbonate-rich water.</text>
+</svg>

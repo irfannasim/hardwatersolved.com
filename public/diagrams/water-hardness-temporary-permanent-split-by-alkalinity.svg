@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="tps-title tps-desc">
+<title id="tps-title">Temporary vs permanent hardness split by alkalinity in two waters of equal hardness</title>
+<desc id="tps-desc">Two bars, each 300 mg/L total hardness. Water A has 250 mg/L alkalinity, so 250 mg/L is temporary hardness and 50 mg/L permanent. Water B has 80 mg/L alkalinity, so 80 mg/L is temporary and 220 mg/L permanent. Both need the same softener capacity.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Same hardness, different split</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Temporary hardness = the smaller of total hardness and alkalinity (both as CaCO₃)</text>
+<text x="30" y="143" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Water A</text>
+<text x="30" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">limestone well</text>
+<text x="600" y="100" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Alkalinity 250</text>
+<rect class="box" x="200" y="125" width="400" height="44" fill="#c2410c"/>
+<text x="400" y="152" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Temporary 250 mg/L (83%)</text>
+<rect x="600" y="125" width="80" height="44" fill="#f3d2c1"/>
+<line class="ln" x1="600" y1="110" x2="600" y2="178" stroke="#0b2f4a" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="640" y="198" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Permanent 50</text>
+<text x="200" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Kettle and water heater scale fast</text>
+<text x="30" y="283" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Water B</text>
+<text x="30" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">gypsum-influenced</text>
+<text x="328" y="240" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Alkalinity 80</text>
+<rect x="200" y="265" width="128" height="44" fill="#c2410c"/>
+<text x="264" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Temp. 80</text>
+<rect class="box" x="328" y="265" width="352" height="44" fill="#f3d2c1"/>
+<text x="504" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Permanent 220 mg/L (73%)</text>
+<line class="ln" x1="328" y1="250" x2="328" y2="318" stroke="#0b2f4a" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="200" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Slow kettle scale; heavy spotting on glass and cold fixtures</text>
+<line class="ln" x1="200" y1="366" x2="680" y2="366" stroke="#3a5a72" stroke-width="1.5"/>
+<line class="ln" x1="200" y1="366" x2="200" y2="372" stroke="#3a5a72" stroke-width="1.5"/>
+<line class="ln" x1="360" y1="366" x2="360" y2="372" stroke="#3a5a72" stroke-width="1.5"/>
+<line class="ln" x1="520" y1="366" x2="520" y2="372" stroke="#3a5a72" stroke-width="1.5"/>
+<line class="ln" x1="680" y1="366" x2="680" y2="372" stroke="#3a5a72" stroke-width="1.5"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="middle">
+<text x="200" y="390">0</text><text x="360" y="390">100</text><text x="520" y="390">200</text><text x="680" y="390">300</text>
+</g>
+<text x="440" y="414" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Total hardness, mg/L as CaCO₃ (both waters 300 mg/L = 17.5 gpg)</text>
+<rect x="30" y="444" width="22" height="16" fill="#c2410c"/>
+<text x="60" y="457" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Temporary: heat turns it into scale</text>
+<rect x="300" y="444" width="22" height="16" fill="#f3d2c1"/>
+<text x="330" y="457" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Permanent: stays dissolved when heated</text>
+<text x="30" y="485" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Worked examples from the article. A softener is sized on the full 17.5 gpg in both houses.</text>
+</svg>

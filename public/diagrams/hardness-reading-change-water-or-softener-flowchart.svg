@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="hwc-title hwc-desc">
+<title id="hwc-title">Hardness reading changed: is it the water or the softener?</title>
+<desc id="hwc-desc">Flowchart. When hard water spots return, test the raw water first. If raw hardness is above the softener setting, the water changed: reprogram to the new seasonal high. If not, test treated water the day after regeneration. Hard straight after regeneration means a softener fault; soft then hard later points to the capacity setting or reserve.</desc>
+<defs><marker id="hwc-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Hard water is back: did the water change?</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Test the raw water before touching the settings</text>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<rect class="box" x="60" y="85" width="380" height="44" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="112" font-size="14" font-weight="bold" fill="#0b2f4a">Hard-water spots or scale returned</text>
+<rect class="box" x="60" y="159" width="380" height="54" rx="6" fill="#fdeee6" stroke="#c2410c" stroke-width="1.5"/>
+<text x="250" y="182" font-size="14" font-weight="bold" fill="#0b2f4a">Test the raw water</text>
+<text x="250" y="201" font-size="13" fill="#52697a">softener in bypass, or a tap ahead of it</text>
+<rect class="box" x="60" y="243" width="380" height="50" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="250" y="274" font-size="14" font-weight="bold" fill="#0b2f4a">Raw hardness above your setting?</text>
+<rect class="box" x="500" y="236" width="230" height="64" rx="6" fill="#e6f4f7" stroke="#0e7490" stroke-width="2"/>
+<text x="615" y="262" font-size="14" font-weight="bold" fill="#0e7490">The water changed</text>
+<text x="615" y="282" font-size="13" fill="#0b2f4a">Reprogram to the new high</text>
+<rect class="box" x="60" y="323" width="380" height="54" rx="6" fill="#e6f4f7" stroke="#0e7490" stroke-width="1.5"/>
+<text x="250" y="346" font-size="14" font-weight="bold" fill="#0b2f4a">Test treated water at a cold tap</text>
+<text x="250" y="365" font-size="13" fill="#52697a">the day after a regeneration</text>
+<rect class="box" x="60" y="407" width="380" height="50" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="250" y="438" font-size="14" font-weight="bold" fill="#0b2f4a">Hard even right after regeneration?</text>
+<rect class="box" x="500" y="400" width="230" height="64" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="615" y="426" font-size="14" font-weight="bold" fill="#dc2626">Softener fault</text>
+<text x="615" y="446" font-size="13" fill="#0b2f4a">bypass, brine draw, resin</text>
+<rect class="box" x="60" y="487" width="380" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="513" font-size="14" font-weight="bold" fill="#0b2f4a">Soft at first, hard late in the cycle</text>
+<text x="250" y="533" font-size="13" fill="#52697a">recheck the setting, reserve and water use</text>
+</g>
+<g stroke="#3a5a72" stroke-width="2.5" fill="none" marker-end="url(#hwc-ah)">
+<line class="ln" x1="250" y1="129" x2="250" y2="155"/>
+<line class="ln" x1="250" y1="213" x2="250" y2="239"/>
+<line class="ln" x1="250" y1="293" x2="250" y2="319"/>
+<line class="ln" x1="250" y1="377" x2="250" y2="403"/>
+<line class="ln" x1="250" y1="457" x2="250" y2="483"/>
+<line class="ln" x1="440" y1="268" x2="496" y2="268"/>
+<line class="ln" x1="440" y1="432" x2="496" y2="432"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">
+<text x="468" y="258" text-anchor="middle">Yes</text>
+<text x="468" y="422" text-anchor="middle">Yes</text>
+<text x="264" y="312">No</text>
+<text x="264" y="476">No</text>
+</g>
+<text x="30" y="578" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Add iron compensation to any new hardness setting, per your valve manual.</text>
+</svg>

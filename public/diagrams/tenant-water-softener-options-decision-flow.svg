@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="rtd-title rtd-desc">
+<title id="rtd-title">Tenant water softener options: landlord-owned, consented install or portable</title>
+<desc id="rtd-desc">Decision flow for a tenant who wants softened water in a rental property: ask the landlord to install and own a softener, or get written consent to a tenant installation with agreed removal terms, or use a non-permanent portable softener.</desc>
+<defs><marker id="rtd-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">A tenant who wants soft water: three routes</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Ask in writing at each step. Never cut into the plumbing without consent.</text>
+<rect class="box" x="30" y="90" width="250" height="50" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="155" y="121" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Tenant wants softened water</text>
+<line class="ln" x1="155" y1="140" x2="155" y2="170" stroke="#0b2f4a" stroke-width="3" marker-end="url(#rtd-a)"/>
+<rect class="box" x="30" y="176" width="250" height="64" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="155" y="202" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Will the landlord install</text>
+<text x="155" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">and own a softener?</text>
+<line class="ln" x1="280" y1="208" x2="462" y2="208" stroke="#15803d" stroke-width="3" marker-end="url(#rtd-a)"/>
+<text x="370" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<rect class="box" x="470" y="170" width="260" height="76" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="484" y="196" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Landlord-owned unit. The lease</text>
+<text x="484" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">sets who buys salt and who</text>
+<text x="484" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">calls for repairs.</text>
+<line class="ln" x1="155" y1="240" x2="155" y2="282" stroke="#dc2626" stroke-width="3" marker-end="url(#rtd-a)"/>
+<text x="165" y="266" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">No</text>
+<rect class="box" x="30" y="288" width="250" height="64" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="155" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Will the landlord consent in</text>
+<text x="155" y="332" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">writing to a tenant install?</text>
+<line class="ln" x1="280" y1="320" x2="462" y2="320" stroke="#15803d" stroke-width="3" marker-end="url(#rtd-a)"/>
+<text x="370" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<rect class="box" x="470" y="272" width="260" height="96" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="484" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Written agreement first: who owns</text>
+<text x="484" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">it, who installs it, and whether</text>
+<text x="484" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">it stays or is removed and the</text>
+<text x="484" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">pipes restored at move-out.</text>
+<line class="ln" x1="155" y1="352" x2="155" y2="394" stroke="#dc2626" stroke-width="3" marker-end="url(#rtd-a)"/>
+<text x="165" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">No</text>
+<rect class="box" x="30" y="400" width="700" height="92" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="426" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Non-permanent options only</text>
+<text x="46" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">A portable softener on hose connections, for example at the washer supply valves, softens that</text>
+<text x="46" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">one outlet and leaves with you. Shower filters do not remove hardness.</text>
+</svg>

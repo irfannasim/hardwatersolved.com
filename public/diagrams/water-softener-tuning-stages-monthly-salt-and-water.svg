@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="wtsm-title wtsm-desc">
+<title id="wtsm-title">Water softener efficiency settings: salt and water a month at each tuning stage</title>
+<desc id="wtsm-desc">Calculated worked example for a 1 cubic foot softener serving 3 people at 14 gpg. Salt falls from 64 lb a month as installed to 45 after correcting the hardness entry and 26 after lowering the dose to 6 lb. Regeneration water goes 178, 125, 165 and 151 gallons after trimming the backwash. Dropping to a 3.3 lb dose saves only 1 lb more salt while water jumps to 257 gallons.</desc>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">One softener, four tuning stages: salt and water a month</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Worked example, calculated from the manufacturer's table, not measured</text>
+<text x="260" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#7c3aed">Salt, lb a month</text>
+<text x="520" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#78716c">Regeneration water, gal a month</text>
+<text x="30" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Start: as installed</text>
+<text x="30" y="144" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">20 gpg entered, 15 lb dose</text>
+<rect x="260" y="117" width="202" height="26" fill="#7c3aed"/>
+<text x="468" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">64</text>
+<rect x="520" y="117" width="101" height="26" fill="#78716c"/>
+<text x="627" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">178</text>
+<text x="30" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Correct the hardness</text>
+<text x="30" y="208" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">14 gpg entered, 15 lb dose</text>
+<rect x="260" y="181" width="141" height="26" fill="#7c3aed"/>
+<text x="407" y="199" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">45</text>
+<rect x="520" y="181" width="71" height="26" fill="#78716c"/>
+<text x="597" y="199" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">125</text>
+<text x="30" y="254" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Lower the salt dose</text>
+<text x="30" y="272" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">6 lb per regeneration</text>
+<rect x="260" y="245" width="81" height="26" fill="#7c3aed"/>
+<text x="347" y="263" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">26</text>
+<rect x="520" y="245" width="94" height="26" fill="#78716c"/>
+<text x="620" y="263" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">165</text>
+<text x="30" y="318" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Trim the backwash</text>
+<text x="30" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">8 to 6 minutes, clean water</text>
+<rect x="260" y="309" width="81" height="26" fill="#7c3aed"/>
+<text x="347" y="327" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">26</text>
+<rect x="520" y="309" width="86" height="26" fill="#78716c"/>
+<text x="612" y="327" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">151</text>
+<path class="ln" d="M30,358 L730,358" stroke="#dc2626" stroke-width="2" stroke-dasharray="8 6" fill="none"/>
+<text x="30" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Too far: 3.3 lb dose</text>
+<text x="30" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">regenerates every 4 days</text>
+<rect x="260" y="381" width="78" height="26" fill="#7c3aed"/>
+<text x="344" y="399" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">25</text>
+<rect x="520" y="381" width="146" height="26" fill="#78716c"/>
+<text x="672" y="399" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">257</text>
+<path class="ln" d="M260,430 L480,430" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M520,430 L730,430" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="260" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="323" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">20</text>
+<text x="386" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">40</text>
+<text x="448" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">60</text>
+<text x="520" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="577" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">100</text>
+<text x="633" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">200</text>
+<text x="690" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">300</text>
+<text x="30" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">1 cu ft bed (Hellenbrand PM6-32 table), 3 people, 210 gal a day, 14 gpg, 1-day reserve.</text>
+<text x="30" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Below the red line, salt barely falls while water use jumps and hardness leakage risk rises.</text>
+<text x="30" y="522" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Water per regeneration: backwash 13.6 gal (10.2 trimmed), brine and rinse 16.2, final rinse 6.8, refill.</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" role="img" aria-labelledby="fth-title fth-desc">
+<title id="fth-title">Whole-house flow-through humidifier pad on hard vs softened water</title>
+<desc id="fth-desc">Side-by-side diagram of softened water in a whole-house flow-through humidifier: on hard water, calcium scale crusts the evaporator pad and blocks airflow; on softened water, minerals stay dissolved and rinse to the drain.</desc>
+<defs>
+<marker id="fth-w" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="fth-s" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<marker id="fth-a" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker>
+<marker id="fth-d" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+</defs>
+<rect width="760" height="470" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#0b2f4a">Flow-through humidifier pad: where the minerals go</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Water trickles down the pad, air picks up moisture, and the excess runs to the drain.</text>
+<path d="M380,90 L380,440" stroke="#e2e8f0" stroke-width="1.5"/>
+<text x="30" y="106" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#c2410c">Hard water</text>
+<path class="ln" d="M195,116 L195,146" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#fth-w)"/>
+<rect x="130" y="150" width="130" height="14" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<rect x="140" y="170" width="110" height="160" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="140" y="180" width="22" height="140" fill="#e2e8f0" stroke="#52697a" stroke-width="1.5"/>
+<rect x="166" y="230" width="18" height="90" fill="#e2e8f0" stroke="#52697a" stroke-width="1.5"/>
+<text x="30" y="204" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Warm air</text>
+<path class="ln" d="M40,222 L130,222" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#fth-a)"/>
+<path class="ln" d="M40,282 L130,282" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#fth-a)"/>
+<text x="266" y="204" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Less airflow</text>
+<path class="ln" d="M260,240 L300,240" stroke="#52697a" stroke-width="2" fill="none" marker-end="url(#fth-a)"/>
+<path class="ln" d="M195,330 L195,368" stroke="#78716c" stroke-width="5" fill="none" marker-end="url(#fth-d)"/>
+<text x="208" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#78716c">To drain</text>
+<text x="30" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Calcium scale crusts the air-inlet face of the</text>
+<text x="30" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">pad and chokes airflow. Pads need replacing sooner.</text>
+<text x="410" y="106" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0e7490">Softened water</text>
+<path class="ln" d="M575,116 L575,146" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#fth-s)"/>
+<rect x="510" y="150" width="130" height="14" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<rect x="520" y="170" width="110" height="160" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<text x="410" y="204" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Warm air</text>
+<path class="ln" d="M420,222 L510,222" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#fth-a)"/>
+<path class="ln" d="M420,282 L510,282" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#fth-a)"/>
+<text x="646" y="204" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Moist air</text>
+<path class="ln" d="M640,222 L720,222" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#fth-a)"/>
+<path class="ln" d="M640,282 L720,282" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#fth-a)"/>
+<path class="ln" d="M575,330 L575,368" stroke="#78716c" stroke-width="5" fill="none" marker-end="url(#fth-d)"/>
+<text x="588" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#78716c">Dissolved salts</text>
+<text x="588" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#78716c">rinse to drain</text>
+<text x="410" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">No scale crust forms. Dust still loads the pad,</text>
+<text x="410" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">so replace it on the maker's schedule.</text>
+</svg>

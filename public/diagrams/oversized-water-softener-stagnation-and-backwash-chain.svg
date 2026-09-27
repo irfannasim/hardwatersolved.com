@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 510" width="760" height="510" role="img" aria-labelledby="ovc-title ovc-desc">
+<title id="ovc-title">Oversized water softener problems: stagnation and backwash chains</title>
+<desc id="ovc-desc">Cause and effect diagram for an oversized water softener. Rare regeneration leaves resin in still water where bacterial counts can climb; a wider tank needs more backwash flow than a weak supply gives, causing compaction and channeling. A 7 to 14 day override plus a lower salt dose fixes the first chain.</desc>
+<defs><marker id="ovc-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="510" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Why a bed that is too big causes problems</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Two problem chains, and the setting that breaks the first one</text>
+<rect class="box" x="30" y="84" width="700" height="46" rx="6" fill="#f1f5f9" stroke="#0b2f4a" stroke-width="2"/>
+<text x="380" y="113" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Oversized softener: capacity far above the daily hardness load</text>
+<path class="ln" d="M48,130 L48,410" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M48,202 L66,202" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ovc-a)"/>
+<rect class="box" x="76" y="164" width="170" height="76" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="161" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Regenerates only</text>
+<text x="161" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">every few weeks</text>
+<path class="ln" d="M252,202 L288,202" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ovc-a)"/>
+<rect class="box" x="300" y="164" width="186" height="76" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="393" y="189" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Resin sits in</text>
+<text x="393" y="207" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">still water between</text>
+<text x="393" y="225" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">cycles</text>
+<path class="ln" d="M492,202 L518,202" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ovc-a)"/>
+<rect class="box" x="530" y="164" width="200" height="76" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="3"/>
+<text x="630" y="189" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Bacterial counts can</text>
+<text x="630" y="207" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">climb in the idle bed</text>
+<text x="630" y="225" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">and flush out at first use</text>
+<path class="ln" d="M48,306 L66,306" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ovc-a)"/>
+<rect class="box" x="76" y="268" width="170" height="76" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="161" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Wider tank than</text>
+<text x="161" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">the job needs</text>
+<path class="ln" d="M252,306 L288,306" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ovc-a)"/>
+<rect class="box" x="300" y="268" width="186" height="76" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="393" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Needs more</text>
+<text x="393" y="311" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">backwash flow from</text>
+<text x="393" y="329" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">the supply</text>
+<path class="ln" d="M492,306 L518,306" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ovc-a)"/>
+<rect class="box" x="530" y="268" width="200" height="76" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="3"/>
+<text x="630" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Weak supply under-lifts</text>
+<text x="630" y="311" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">the bed: compaction</text>
+<text x="630" y="329" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">and channeling</text>
+<path class="ln" d="M48,410 L66,410" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ovc-a)"/>
+<rect class="box" x="76" y="372" width="170" height="76" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="161" y="406" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Day override set</text>
+<text x="161" y="424" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">to 7 to 14 days</text>
+<path class="ln" d="M252,410 L288,410" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ovc-a)"/>
+<rect class="box" x="300" y="372" width="186" height="76" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="393" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Forces regeneration</text>
+<text x="393" y="415" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">before the resin sits</text>
+<text x="393" y="433" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">too long</text>
+<path class="ln" d="M492,410 L518,410" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ovc-a)"/>
+<rect class="box" x="530" y="372" width="200" height="76" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="3"/>
+<text x="630" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">Cut the salt dose so</text>
+<text x="630" y="415" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">capacity runs out in</text>
+<text x="630" y="433" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">about a week</text>
+<rect x="30" y="474" width="16" height="16" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="54" y="487" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Problem</text>
+<rect x="150" y="474" width="16" height="16" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="174" y="487" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Fix</text>
+<text x="730" y="487" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">Backwash flow is set by tank diameter, not by a setting</text>
+</svg>

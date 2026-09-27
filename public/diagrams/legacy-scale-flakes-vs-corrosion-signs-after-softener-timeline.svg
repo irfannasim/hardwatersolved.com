@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="lsf-title lsf-desc">
+<title id="lsf-title">Legacy scale flakes vs corrosion signs after a water softener is installed</title>
+<desc id="lsf-desc">Illustrative timeline over the twelve weeks after a softener goes in. Loose old scale peaks in the first weeks and fades as the deposits run out, while corrosion signs, if present, continue at the same level. Scale is white or tan grit that fizzes in vinegar. Corrosion is blue-green or rust-coloured and does not fizz.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">After installation: old scale fades, corrosion does not</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative: shows the shape of each trend, not measured values</text>
+<path class="ln" d="M100,110 L100,330 L700,330" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="90" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">more</text>
+<text x="90" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">none</text>
+<path class="ln" d="M100,316 C130,316 150,150 180,150 C240,150 330,300 500,318 L700,320" stroke="#c2410c" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path class="ln" d="M100,250 L700,236" stroke="#dc2626" stroke-width="5" fill="none" stroke-dasharray="14 8" stroke-linecap="round"/>
+<text x="206" y="130" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">Old scale flakes: peak early, then fade</text>
+<text x="470" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Corrosion signs, if present: persist</text>
+<path class="ln" d="M100,330 L100,337" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M200,330 L200,337" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M300,330 L300,337" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M400,330 L400,337" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M500,330 L500,337" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M600,330 L600,337" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M700,330 L700,337" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="100" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="200" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2</text>
+<text x="300" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">4</text>
+<text x="400" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6</text>
+<text x="500" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">8</text>
+<text x="600" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10</text>
+<text x="700" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">12</text>
+<text x="400" y="378" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#52697a">Weeks after the softener goes in</text>
+<rect class="box" x="30" y="400" width="340" height="76" rx="6" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="46" y="426" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#c2410c">Legacy scale</text>
+<text x="46" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">White or tan grit at aerators and toilet tanks</text>
+<text x="46" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Fizzes in white vinegar</text>
+<rect class="box" x="390" y="400" width="340" height="76" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="406" y="426" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Corrosion</text>
+<text x="406" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Blue-green stains, rust, pinhole leaks</text>
+<text x="406" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Does not fizz in vinegar</text>
+</svg>

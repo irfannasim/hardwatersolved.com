@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" width="760" height="460" role="img" aria-labelledby="esh-title esh-desc">
+<title id="esh-title">Electrode steam humidifier canister on hard vs softened water</title>
+<desc id="esh-desc">Diagram of an electrode steam humidifier canister: hard water scales the electrodes so the canister wears out sooner, while softened water keeps the electrodes cleaner but its dissolved salts build up, so the canister drains and refills more often.</desc>
+<defs>
+<marker id="esh-d" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+<pattern id="esh-ions" width="16" height="14" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="2" fill="#0e7490"/><circle cx="12" cy="10" r="2" fill="#0e7490"/></pattern>
+</defs>
+<rect width="760" height="460" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#0b2f4a">Electrode steam canister: the hard vs soft trade-off</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Current passes between two electrodes through the water and boils it. Minerals stay behind.</text>
+<path d="M380,90 L380,430" stroke="#e2e8f0" stroke-width="1.5"/>
+<text x="30" y="106" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#c2410c">Hard water</text>
+<rect x="120" y="126" width="140" height="210" rx="18" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="123" y="186" width="134" height="146" rx="14" fill="#dbeafe"/>
+<rect x="160" y="140" width="10" height="186" fill="#3a5a72"/>
+<rect x="210" y="140" width="10" height="186" fill="#3a5a72"/>
+<rect x="155" y="250" width="20" height="76" rx="4" fill="#c2410c"/>
+<rect x="205" y="250" width="20" height="76" rx="4" fill="#c2410c"/>
+<path class="ln" d="M190,336 L190,366" stroke="#78716c" stroke-width="4" fill="none" marker-end="url(#esh-d)"/>
+<text x="204" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#78716c">Drains less often</text>
+<text x="30" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Scale coats the electrodes and the water level</text>
+<text x="30" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">rises to reach clean metal. Canisters wear out</text>
+<text x="30" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">sooner, but steam output stays steadier.</text>
+<text x="410" y="106" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#0e7490">Softened water</text>
+<rect x="500" y="126" width="140" height="210" rx="18" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="503" y="206" width="134" height="126" rx="14" fill="#dbeafe"/>
+<rect x="503" y="206" width="134" height="126" rx="14" fill="url(#esh-ions)"/>
+<rect x="540" y="140" width="10" height="186" fill="#3a5a72"/>
+<rect x="590" y="140" width="10" height="186" fill="#3a5a72"/>
+<path class="ln" d="M570,336 L570,366" stroke="#78716c" stroke-width="5" fill="none" marker-end="url(#esh-d)"/>
+<text x="584" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#78716c">Drains and refills</text>
+<text x="584" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#78716c">more often</text>
+<text x="410" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Electrodes stay cleaner, so canisters last</text>
+<text x="410" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">longer. Salts build up in the water, so it drains</text>
+<text x="410" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">more, using more water and energy.</text>
+</svg>

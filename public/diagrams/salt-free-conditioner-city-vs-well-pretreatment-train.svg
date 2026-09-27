@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="cwt-title cwt-desc">
+<title id="cwt-title">Salt-free conditioner pretreatment train on city water vs well water</title>
+<desc id="cwt-desc">On city water a salt-free conditioner usually needs only a sediment filter and, where chlorine exceeds the media limit, a carbon filter before it. On a private well it needs sediment, iron, manganese and hydrogen sulfide removal and sometimes pH correction first, and the conditioner is always the last stage.</desc>
+<defs>
+<marker id="cwt-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="cwt-at" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+</defs>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What has to sit in front of the conditioner</text>
+<text x="30" y="80" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">City water</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">
+<rect class="box" x="30" y="94" width="100" height="70" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="80" y="126">Utility</text><text x="80" y="144">meter</text>
+<rect class="box" x="150" y="94" width="100" height="70" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="200" y="118">Sediment</text><text x="200" y="136">filter</text><text x="200" y="154" fill="#52697a">grit and rust</text>
+<rect class="box" x="390" y="94" width="100" height="70" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="440" y="118">Carbon</text><text x="440" y="136" fill="#52697a">if chlorine is</text><text x="440" y="154" fill="#52697a">over the limit</text>
+<rect class="box" x="510" y="94" width="100" height="70" rx="6" fill="#e0f2f7" stroke="#0e7490" stroke-width="2"/>
+<text x="560" y="126" font-weight="bold" fill="#0e7490">Salt-free</text><text x="560" y="144" font-weight="bold" fill="#0e7490">conditioner</text>
+<rect class="box" x="630" y="94" width="100" height="70" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="680" y="126">House</text><text x="680" y="144">and heater</text>
+</g>
+<path class="ln" d="M130,129 L144,129" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cwt-ah)"/>
+<path class="ln" d="M250,129 L384,129" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cwt-ah)"/>
+<path class="ln" d="M490,129 L504,129" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cwt-ah)"/>
+<path class="ln" d="M610,129 L624,129" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#cwt-at)"/>
+<text x="30" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#15803d">Usually workable: the utility already treats for iron, manganese and sediment.</text>
+<text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Private well</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">
+<rect class="box" x="30" y="264" width="100" height="70" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="80" y="296">Well and</text><text x="80" y="314">pressure tank</text>
+<rect class="box" x="150" y="264" width="100" height="70" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="200" y="288">Sediment</text><text x="200" y="306">filter</text><text x="200" y="324" fill="#52697a">sand and silt</text>
+<rect class="box" x="270" y="264" width="100" height="70" rx="6" fill="#fdf4e7" stroke="#b45309" stroke-width="2"/>
+<text x="320" y="288">Iron, Mn</text><text x="320" y="306">and H2S</text><text x="320" y="324">filter</text>
+<rect class="box" x="390" y="264" width="100" height="70" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="440" y="288">pH</text><text x="440" y="306" fill="#52697a">if below 6.5</text><text x="440" y="324" fill="#52697a">neutraliser</text>
+<rect class="box" x="510" y="264" width="100" height="70" rx="6" fill="#e0f2f7" stroke="#0e7490" stroke-width="2"/>
+<text x="560" y="296" font-weight="bold" fill="#0e7490">Salt-free</text><text x="560" y="314" font-weight="bold" fill="#0e7490">conditioner</text>
+<rect class="box" x="630" y="264" width="100" height="70" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="680" y="296">House</text><text x="680" y="314">and heater</text>
+</g>
+<path class="ln" d="M130,299 L144,299" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cwt-ah)"/>
+<path class="ln" d="M250,299 L264,299" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cwt-ah)"/>
+<path class="ln" d="M370,299 L384,299" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cwt-ah)"/>
+<path class="ln" d="M490,299 L504,299" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cwt-ah)"/>
+<path class="ln" d="M610,299 L624,299" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#cwt-at)"/>
+<text x="30" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">Workable only after pretreatment brings iron under 0.3 mg/L and manganese under 0.05 mg/L.</text>
+<rect class="box" x="30" y="386" width="700" height="94" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">The conditioner is always the last stage.</text>
+<text x="46" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">No filters after it, and no phosphate feeder before or after it (Watts and Next manuals).</text>
+<text x="46" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">On a well, add up every stage ahead of the conditioner. If that costs more than a softener</text>
+<text x="46" y="474" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">setup that also handles the iron, the softener is the cheaper answer.</text>
+</svg>

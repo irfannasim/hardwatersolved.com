@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="riw-title riw-desc">
+<title id="riw-title">Worksheet: how often should a water softener regenerate for your household</title>
+<desc id="riw-desc">Three-line calculation for water softener regeneration frequency: rated capacity minus reserve gives usable grains, people times gallons per person times hardness gives grains used per day, and usable grains divided by daily grains gives days between regenerations, with a worked example of 20,000 grains, 4 people, 75 gallons and 10 grains per gallon.</desc>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Work out your own regeneration interval</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">The figure under each label is one worked example. Swap in your own numbers.</text>
+<text x="30" y="86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">LINE 1  What one cycle can hold</text>
+<rect class="box" x="30" y="96" width="200" height="84" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="130" y="120" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Rated capacity at</text>
+<text x="130" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">your salt setting</text>
+<text x="130" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">20,000 grains</text>
+<text x="255" y="146" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0b2f4a">−</text>
+<rect class="box" x="280" y="96" width="200" height="84" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="120" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Reserve</text>
+<text x="380" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">(about a day of use)</text>
+<text x="380" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">3,000 grains</text>
+<text x="505" y="146" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0b2f4a">=</text>
+<rect class="box" x="530" y="96" width="200" height="84" rx="10" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="630" y="120" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Usable grains</text>
+<text x="630" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">per cycle</text>
+<text x="630" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">17,000 grains</text>
+<text x="30" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">LINE 2  What the house uses each day</text>
+<rect class="box" x="30" y="216" width="140" height="84" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="100" y="240" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">People</text>
+<text x="100" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">in the house</text>
+<text x="100" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">4</text>
+<text x="190" y="266" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0b2f4a">×</text>
+<rect class="box" x="210" y="216" width="160" height="84" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="290" y="240" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Gallons per</text>
+<text x="290" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">person per day</text>
+<text x="290" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">75</text>
+<text x="390" y="266" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0b2f4a">×</text>
+<rect class="box" x="410" y="216" width="140" height="84" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="480" y="240" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Hardness</text>
+<text x="480" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">in gpg</text>
+<text x="480" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10</text>
+<text x="570" y="266" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0b2f4a">=</text>
+<rect class="box" x="590" y="216" width="140" height="84" rx="10" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="660" y="240" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Grains used</text>
+<text x="660" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">per day</text>
+<text x="660" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">3,000</text>
+<text x="30" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">LINE 3  The interval</text>
+<rect class="box" x="30" y="336" width="200" height="84" rx="10" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="130" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Usable grains</text>
+<text x="130" y="378" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">from line 1</text>
+<text x="130" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">17,000</text>
+<text x="255" y="386" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0b2f4a">÷</text>
+<rect class="box" x="280" y="336" width="200" height="84" rx="10" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="380" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Grains per day</text>
+<text x="380" y="378" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">from line 2</text>
+<text x="380" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">3,000</text>
+<text x="505" y="386" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#0b2f4a">=</text>
+<rect class="box" x="530" y="336" width="200" height="84" rx="10" fill="#0e7490" stroke="#0e7490" stroke-width="2"/>
+<text x="630" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Days between</text>
+<text x="630" y="378" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">regenerations</text>
+<text x="630" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">5.7, so every 6th night</text>
+<text x="30" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Hardness, gallons and 20,000 grains follow Penn State Extension's sample; the reserve is added here.</text>
+<text x="30" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">With iron present, raise the hardness figure the way your valve manual says before you calculate.</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="g7pe-title g7pe-desc">
+<title id="g7pe-title">Portable exchange water softener vs owned softener: cumulative cost over 10 years</title>
+<desc id="g7pe-desc">Illustrative chart of cumulative cost for portable exchange water softener service versus an installed softener. For two people on 10 gpg water the exchange service overtakes ownership at 2.7 years; for one person on 5 gpg water it takes 8.1 years.</desc>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">When exchange service overtakes owning a softener</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Cumulative cost, two example households (illustrative, assumptions in the article)</text>
+<g stroke="#e2e8f0" stroke-width="1" fill="none">
+<path d="M90,342.5 L700,342.5"/><path d="M90,265 L700,265"/><path d="M90,187.5 L700,187.5"/><path d="M90,110 L700,110"/>
+</g>
+<path d="M90,105 L90,420 L700,420" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="80" y="425" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$0</text>
+<text x="80" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$2k</text>
+<text x="80" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$4k</text>
+<text x="80" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$6k</text>
+<text x="80" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$8k</text>
+<text x="90" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="212" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2</text>
+<text x="334" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">4</text>
+<text x="456" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6</text>
+<text x="578" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">8</text>
+<text x="700" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10</text>
+<text x="395" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">years</text>
+<path class="ln" d="M90,350.3 L700,317.7" fill="none" stroke="#0e7490" stroke-width="3.5"/>
+<path class="ln" d="M90,350.3 L700,327.4" fill="none" stroke="#0e7490" stroke-width="3.5" stroke-dasharray="9 6"/>
+<path class="ln" d="M90,420 L700,125.9" fill="none" stroke="#3a5a72" stroke-width="3.5"/>
+<path class="ln" d="M90,420 L700,311.5" fill="none" stroke="#3a5a72" stroke-width="3.5" stroke-dasharray="9 6"/>
+<circle cx="254.7" cy="340.6" r="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2.5"/>
+<circle cx="584.1" cy="332.1" r="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2.5"/>
+<path class="ln" d="M205,297 L248,334" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<text x="130" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Break-even 2.7 years</text>
+<path class="ln" d="M584,372 L584,342" fill="none" stroke="#52697a" stroke-width="1.5"/>
+<text x="584" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Break-even 8.1 years</text>
+<path d="M30,490 L66,490" stroke="#3a5a72" stroke-width="3.5"/>
+<text x="76" y="495" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Exchange service, 2 people, 10 gpg</text>
+<path d="M400,490 L436,490" stroke="#0e7490" stroke-width="3.5"/>
+<text x="446" y="495" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Owned softener, 2 people, 10 gpg</text>
+<path d="M30,516 L66,516" stroke="#3a5a72" stroke-width="3.5" stroke-dasharray="9 6"/>
+<text x="76" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Exchange service, 1 person, 5 gpg</text>
+<path d="M400,516 L436,516" stroke="#0e7490" stroke-width="3.5" stroke-dasharray="9 6"/>
+<text x="446" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Owned softener, 1 person, 5 gpg</text>
+<text x="30" y="547" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Owned: $1,800 installed plus salt and upkeep. Exchange: $30 per tank swap plus $10 a month.</text>
+</svg>

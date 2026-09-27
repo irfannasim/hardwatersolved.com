@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="asd-title asd-desc">
+<title id="asd-title">Annual water softener salt cost at three salt doses, salt versus potassium chloride</title>
+<desc id="asd-desc">Illustrative bar chart for a family of four on 15 gpg water. Sodium chloride at 7 dollars a bag costs about 70, 96 and 125 dollars a year at the 6, 10 and 15 lb doses. Potassium chloride at 30 dollars a bag, with 12 percent more product, costs about 337, 459 and 598 dollars.</desc>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What the salt dose is worth in cash</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Family of four, 70 gal per person per day, 15 gpg. Illustrative prices per 40 lb bag:</text>
+<text x="30" y="80" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">$7 for salt, $30 for potassium chloride (used at 12 percent more by weight).</text>
+<text x="30" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">6 lb/cu ft dose</text>
+<text x="30" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">3,822 grains per lb</text>
+<rect x="250" y="106" width="47" height="24" fill="#0e7490"/>
+<text x="307" y="123" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$70</text>
+<rect x="250" y="138" width="225" height="24" fill="#3a5a72"/>
+<text x="485" y="155" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$337</text>
+<text x="30" y="226" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">10 lb/cu ft dose</text>
+<text x="30" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">2,806 grains per lb</text>
+<rect x="250" y="206" width="64" height="24" fill="#0e7490"/>
+<text x="324" y="223" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$96</text>
+<rect x="250" y="238" width="306" height="24" fill="#3a5a72"/>
+<text x="566" y="255" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$459</text>
+<text x="30" y="326" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">15 lb/cu ft dose</text>
+<text x="30" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">2,154 grains per lb</text>
+<rect x="250" y="306" width="83" height="24" fill="#0e7490"/>
+<text x="343" y="323" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$125</text>
+<rect x="250" y="338" width="399" height="24" fill="#3a5a72"/>
+<text x="659" y="355" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$598</text>
+<path class="ln" d="M250,392 L650,392" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M250,392 L250,399" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M383,392 L383,399" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M517,392 L517,399" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M650,392 L650,399" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<text x="383" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$200</text>
+<text x="517" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$400</text>
+<text x="650" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$600</text>
+<text x="450" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#52697a">Dollars a year</text>
+<text x="30" y="476" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Moving from the 15 lb to the 6 lb dose saves about $55 a year on salt, $261 on potassium.</text>
+<rect x="30" y="500" width="14" height="14" fill="#0e7490"/>
+<text x="52" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">sodium chloride salt</text>
+<rect x="220" y="500" width="14" height="14" fill="#3a5a72"/>
+<text x="242" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">potassium chloride</text>
+</svg>

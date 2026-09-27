@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="cr-title cr-desc">
+<title id="cr-title">Condo water softener placement: shared riser vs unit branch</title>
+<desc id="cr-desc">Section through a three-story condo building. A shared supply riser, a common element, feeds each unit through its own shutoff valve. A water softener for a condo or apartment goes on one unit's branch after its valve and before its water heater, never on the shared riser.</desc>
+<defs>
+<marker id="cr-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="cr-soft" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<pattern id="cr-beads" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#f6ead2"/><circle cx="4" cy="4" r="2.4" fill="#e2b865"/></pattern>
+</defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Where a condo softener can and cannot go</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Section through a three-story building. Each unit branches off one shared riser.</text>
+<rect x="30" y="100" width="540" height="400" fill="none" stroke="#3a5a72" stroke-width="2"/>
+<line x1="30" y1="230" x2="570" y2="230" stroke="#3a5a72" stroke-width="2"/>
+<line x1="30" y1="365" x2="570" y2="365" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M80,540 L80,190" fill="none" stroke="#c2410c" stroke-width="6"/>
+<path class="ln" d="M80,190 L520,190" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#cr-hard)"/>
+<path d="M122,182 L122,198 L138,182 L138,198 z" fill="#0b2f4a"/>
+<text x="160" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Unit 3: own shutoff, no softener</text>
+<path class="ln" d="M80,320 L194,320" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#cr-hard)"/>
+<path d="M122,312 L122,328 L138,312 L138,328 z" fill="#0b2f4a"/>
+<rect x="198" y="270" width="40" height="16" rx="3" fill="#0b2f4a"/>
+<rect x="204" y="286" width="28" height="66" rx="10" fill="url(#cr-beads)" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M238,320 L322,320" fill="none" stroke="#0e7490" stroke-width="5" marker-end="url(#cr-soft)"/>
+<rect x="330" y="272" width="40" height="80" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M370,320 L520,320" fill="none" stroke="#0e7490" stroke-width="5" marker-end="url(#cr-soft)"/>
+<text x="218" y="258" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="350" y="258" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Water heater</text>
+<text x="392" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Unit 2: after its own valve</text>
+<rect x="60" y="378" width="40" height="44" fill="none" stroke="#dc2626" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="116" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Not on the riser: it would soften</text>
+<text x="116" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">and shut off every unit above</text>
+<path class="ln" d="M80,470 L520,470" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#cr-hard)"/>
+<path d="M122,462 L122,478 L138,462 L138,478 z" fill="#0b2f4a"/>
+<text x="160" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Unit 1: own shutoff, no softener</text>
+<text x="96" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Shared riser from the main: a common element</text>
+<text x="590" y="130" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Key</text>
+<rect x="590" y="150" width="30" height="6" rx="3" fill="#c2410c"/>
+<text x="630" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">hard water</text>
+<rect x="590" y="180" width="30" height="6" rx="3" fill="#0e7490"/>
+<text x="630" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">softened</text>
+<path d="M597,204 L597,220 L613,204 L613,220 z" fill="#0b2f4a"/>
+<text x="630" y="217" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">unit shutoff</text>
+<rect x="592" y="236" width="26" height="20" fill="none" stroke="#dc2626" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="630" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">wrong place</text>
+</svg>

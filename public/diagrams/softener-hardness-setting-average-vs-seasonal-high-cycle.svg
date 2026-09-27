@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="shs-title shs-desc">
+<title id="shs-title">Water softener hardness setting: annual average vs seasonal high over one cycle</title>
+<desc id="shs-desc">Illustrative bars for a 24,000-grain softener when the water is really 18 gpg. Set to the 12 gpg average, the controller waits for 2,000 gallons but the resin is exhausted at 1,333, so 667 gallons of hard water pass each cycle. Set to 18 gpg, it regenerates at 1,333 gallons and every gallon is soft.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Why hardness changes break a softener setting</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Illustrative: 24,000-grain softener, water now 18 gpg, household uses 300 gal a day</text>
+<text x="533" y="100" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">Resin exhausted: 24,000 ÷ 18 = 1,333 gal</text>
+<text x="30" y="150" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Set to 12 gpg</text>
+<text x="30" y="169" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">the annual average</text>
+<rect class="box" x="200" y="130" width="333" height="46" fill="#0e7490"/>
+<text x="366" y="158" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Soft: 1,333 gal</text>
+<rect class="box" x="533" y="130" width="167" height="46" fill="#c2410c"/>
+<text x="616" y="158" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Hard: 667 gal</text>
+<text x="700" y="198" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Regenerates: 2,000 gal</text>
+<text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Set to 18 gpg</text>
+<text x="30" y="269" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">the seasonal high</text>
+<rect class="box" x="200" y="230" width="333" height="46" fill="#0e7490"/>
+<text x="366" y="258" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Soft: 1,333 gal</text>
+<text x="520" y="298" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Regenerates: 1,333 gal</text>
+<text x="548" y="258" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#15803d">No hard water</text>
+<line class="ln" x1="533" y1="110" x2="533" y2="330" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+<line class="ln" x1="200" y1="350" x2="700" y2="350" stroke="#3a5a72" stroke-width="1.5"/>
+<g stroke="#3a5a72" stroke-width="1.5">
+<line class="ln" x1="200" y1="350" x2="200" y2="356"/><line class="ln" x1="325" y1="350" x2="325" y2="356"/><line class="ln" x1="450" y1="350" x2="450" y2="356"/><line class="ln" x1="575" y1="350" x2="575" y2="356"/><line class="ln" x1="700" y1="350" x2="700" y2="356"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="middle">
+<text x="200" y="374">0</text><text x="325" y="374">500</text><text x="450" y="374">1,000</text><text x="575" y="374">1,500</text><text x="700" y="374">2,000</text>
+</g>
+<text x="450" y="396" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Gallons since the last regeneration</text>
+<text x="30" y="428" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">At 300 gal a day, 667 hard gallons is about 2.2 days of every cycle, more than a typical one-day reserve.</text>
+<text x="30" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Setting high costs extra regenerations only when the water is softer again. Setting low lets hard water in.</text>
+<rect x="30" y="468" width="22" height="16" fill="#0e7490"/>
+<text x="60" y="481" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Soft water delivered</text>
+<rect x="230" y="468" width="22" height="16" fill="#c2410c"/>
+<text x="260" y="481" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hard water delivered</text>
+</svg>

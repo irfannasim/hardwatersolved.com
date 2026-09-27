@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="evn-title evn-desc">
+<title id="evn-title">Electric vs non-electric water softener: where the valve gets its energy</title>
+<desc id="evn-desc">Comparison of an electric softener control valve, driven by a wall outlet, transformer, circuit board and motor, with a non-electric water softener valve driven by water pressure through a turbine meter and gear train. It notes each type's power or pressure requirement and what happens in a power outage, including that a well pump stops too.</desc>
+<defs>
+<marker id="evn-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+<marker id="evn-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+</defs>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Where each valve gets the energy to regenerate</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Both valves do the same job. They differ in what drives the moving parts.</text>
+<text x="30" y="102" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">ELECTRIC VALVE</text>
+<rect class="box" x="30" y="116" width="136" height="70" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="98" y="146" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Wall outlet</text>
+<text x="98" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">and transformer</text>
+<rect class="box" x="218" y="116" width="136" height="70" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="286" y="146" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Circuit board</text>
+<text x="286" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">clock, meter count</text>
+<rect class="box" x="406" y="116" width="136" height="70" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="474" y="146" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Small motor</text>
+<text x="474" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">moves the piston</text>
+<rect class="box" x="594" y="116" width="136" height="70" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="662" y="146" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Valve steps</text>
+<text x="662" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">through regeneration</text>
+<path class="ln" d="M166,151 L210,151" fill="none" stroke="#0b2f4a" stroke-width="4" marker-end="url(#evn-a)"/>
+<path class="ln" d="M354,151 L398,151" fill="none" stroke="#0b2f4a" stroke-width="4" marker-end="url(#evn-a)"/>
+<path class="ln" d="M542,151 L586,151" fill="none" stroke="#0b2f4a" stroke-width="4" marker-end="url(#evn-a)"/>
+<text x="30" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a"><tspan font-weight="bold">Needs:</tspan> constant power, plus line pressure (Fleck 5600SXT: 24 V transformer, 20 psi minimum)</text>
+<text x="30" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a"><tspan font-weight="bold">Outage:</tspan> no regeneration until power returns. Settings are held in memory on most modern valves.</text>
+<text x="30" y="286" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">NON-ELECTRIC (WATER-POWERED) VALVE</text>
+<rect class="box" x="30" y="300" width="136" height="70" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/>
+<text x="98" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Line pressure</text>
+<text x="98" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">water flowing in</text>
+<rect class="box" x="218" y="300" width="136" height="70" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="286" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Turbine meter</text>
+<text x="286" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">counts gallons</text>
+<rect class="box" x="406" y="300" width="136" height="70" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="474" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Gear train</text>
+<text x="474" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">trips at set volume</text>
+<rect class="box" x="594" y="300" width="136" height="70" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="662" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water pressure</text>
+<text x="662" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">drives the valve</text>
+<path class="ln" d="M166,335 L210,335" fill="none" stroke="#c2410c" stroke-width="4" marker-end="url(#evn-h)"/>
+<path class="ln" d="M354,335 L398,335" fill="none" stroke="#0b2f4a" stroke-width="4" marker-end="url(#evn-a)"/>
+<path class="ln" d="M542,335 L586,335" fill="none" stroke="#0b2f4a" stroke-width="4" marker-end="url(#evn-a)"/>
+<text x="30" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a"><tspan font-weight="bold">Needs:</tspan> dynamic pressure at the valve (Kinetico 2030s: 15 psi minimum, 9 gpm at 15 psi)</text>
+<text x="30" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a"><tspan font-weight="bold">Outage:</tspan> keeps working for as long as water pressure holds.</text>
+<rect class="box" x="30" y="444" width="700" height="66" rx="8" fill="#fffbeb" stroke="#b45309" stroke-width="1.5"/>
+<text x="48" y="470" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">On a private well, a power cut stops the pump too.</text>
+<text x="48" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">The water-powered valve's outage advantage mostly matters on city water, or with a generator.</text>
+</svg>

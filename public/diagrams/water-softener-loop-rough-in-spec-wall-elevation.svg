@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="lr-title lr-desc">
+<title id="lr-title">Water softener loop rough-in for new construction: wall elevation</title>
+<desc id="lr-desc">Wall elevation of a water softener loop in new construction: the main rises through a shutoff, the outdoor tap branch and an optional kitchen cold line tee off first, the inlet and outlet stubs are joined by a removable jumper, the line runs at least 10 feet to the water heater, with an unswitched 120 V outlet, a floor drain and floor space for the future softener.</desc>
+<defs>
+<marker id="lr-hard" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+</defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Softener loop rough-in: one wall, eight items</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Numbers match the specification table. Nothing is softened until a softener replaces the jumper.</text>
+<rect x="30" y="84" width="700" height="386" fill="#f8fafc"/>
+<path class="ln" d="M70,500 L70,170 L250,170 L250,300" fill="none" stroke="#c2410c" stroke-width="5" stroke-linejoin="round"/>
+<path class="ln" d="M130,170 L130,124 L48,124" fill="none" stroke="#c2410c" stroke-width="5" stroke-linejoin="round" marker-end="url(#lr-hard)"/>
+<text x="48" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">to outdoor taps (2)</text>
+<path class="ln" d="M190,170 L190,132" fill="none" stroke="#c2410c" stroke-width="4" stroke-dasharray="7 5" marker-end="url(#lr-hard)"/>
+<text x="200" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">kitchen cold, optional (8)</text>
+<path class="ln" d="M250,300 L250,332 L320,332 L320,300" fill="none" stroke="#c2410c" stroke-width="5" stroke-dasharray="8 5" stroke-linejoin="round"/>
+<path class="ln" d="M320,300 L320,170 L655,170 L655,252" fill="none" stroke="#c2410c" stroke-width="5" stroke-linejoin="round" marker-end="url(#lr-hard)"/>
+<path d="M62,392 L78,392 L62,408 L78,408 z" fill="#0b2f4a"/>
+<path d="M122,137 L138,137 L122,153 L138,153 z" fill="#0b2f4a"/>
+<path d="M242,222 L258,222 L242,238 L258,238 z" fill="#0b2f4a"/>
+<path d="M312,222 L328,222 L312,238 L328,238 z" fill="#0b2f4a"/>
+<text x="84" y="404" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">main shutoff</text>
+<text x="84" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">(1) inside, near entry</text>
+<text x="236" y="276" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">IN</text>
+<text x="334" y="276" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">OUT</text>
+<text x="285" y="358" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">removable jumper (3)</text>
+<text x="485" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">at least 10 ft of pipe to the water heater (4)</text>
+<rect x="238" y="384" width="30" height="86" rx="10" fill="none" stroke="#52697a" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="280" y="404" width="60" height="66" rx="5" fill="none" stroke="#52697a" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="386" y="298" width="24" height="34" rx="3" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="394" y="306" width="3" height="8" fill="#3a5a72"/>
+<rect x="399" y="306" width="3" height="8" fill="#3a5a72"/>
+<rect x="394" y="318" width="3" height="8" fill="#3a5a72"/>
+<rect x="399" y="318" width="3" height="8" fill="#3a5a72"/>
+<text x="420" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">120 V outlet, not</text>
+<text x="420" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">on a switch (6)</text>
+<rect class="box" x="620" y="260" width="70" height="210" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="655" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Water</text>
+<text x="655" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">heater</text>
+<line x1="30" y1="470" x2="730" y2="470" stroke="#52697a" stroke-width="2"/>
+<rect x="470" y="466" width="30" height="8" fill="#78716c"/>
+<text x="290" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">future softener space (7)</text>
+<text x="485" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">floor drain, air gap (5)</text>
+<rect x="30" y="522" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="64" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">cold main, not yet softened</text>
+<line x1="270" y1="525" x2="300" y2="525" stroke="#c2410c" stroke-width="5" stroke-dasharray="8 5"/>
+<text x="308" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">jumper or optional line</text>
+<rect x="490" y="516" width="26" height="18" rx="4" fill="none" stroke="#52697a" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="524" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">future tanks</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="iexl-title iexl-desc">
+<title id="iexl-title">Ion exchange ledger: two sodium ions for every calcium ion</title>
+<desc id="iexl-desc">A resin bead releases two sodium ions for each calcium or magnesium ion it captures. For one gallon of 10 grain per gallon water, the resin keeps about 13 milliequivalents of hardness, up to about 260 mg as calcium, and adds about 298 mg of sodium. Anions such as bicarbonate, chloride and sulfate pass through unchanged, so dissolved solids do not fall.</desc>
+<defs><marker id="iexl-mc2410c" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="iexl-m0b2f4a" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="iexl-m0e7490" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Softening is an exchange, not a removal</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">One charge-for-charge swap at the bead, then the ledger for one gallon of 10 gpg water</text>
+<circle cx="180" cy="190" r="58" fill="#f6ead2" stroke="#e2b865" stroke-width="4"/>
+<text x="180" y="195" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">resin bead</text>
+<rect class="box" x="152" y="100" width="56" height="28" rx="14" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="180" y="119" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Na+</text>
+<rect class="box" x="152" y="246" width="56" height="28" rx="14" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="180" y="265" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Na+</text>
+<rect class="box" x="28" y="174" width="56" height="28" rx="14" fill="#fdf0e8" stroke="#c2410c" stroke-width="2"/>
+<text x="56" y="193" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c2410c">Ca2+</text>
+<path class="ln" d="M88,190 L112,190" fill="none" stroke="#c2410c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#iexl-mc2410c)"/>
+<path class="ln" d="M268,190 L352,190" fill="none" stroke="#0b2f4a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#iexl-m0b2f4a)"/>
+<text x="310" y="176" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">swap</text>
+<circle cx="450" cy="190" r="58" fill="#f6ead2" stroke="#e2b865" stroke-width="4"/>
+<text x="450" y="195" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">resin bead</text>
+<rect class="box" x="422" y="100" width="56" height="28" rx="14" fill="#fdf0e8" stroke="#c2410c" stroke-width="2"/>
+<text x="450" y="119" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c2410c">Ca2+</text>
+<rect class="box" x="612" y="124" width="56" height="28" rx="14" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="640" y="143" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Na+</text>
+<rect class="box" x="612" y="224" width="56" height="28" rx="14" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="640" y="243" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Na+</text>
+<path class="ln" d="M512,168 L598,146" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#iexl-m0e7490)"/>
+<path class="ln" d="M512,212 L598,234" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#iexl-m0e7490)"/>
+<text x="640" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0e7490">into the water</text>
+<rect class="box" x="30" y="310" width="220" height="190" rx="8" fill="#fdf0e8" stroke="#c2410c" stroke-width="2"/>
+<text x="44" y="338" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#c2410c">IN: one hard gallon</text>
+<text x="44" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hardness: 10 grains</text>
+<text x="44" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">= 648 mg as CaCO3</text>
+<text x="44" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">= about 13 meq</text>
+<text x="44" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Bicarbonate, chloride,</text>
+<text x="44" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">sulfate: present</text>
+<rect class="box" x="270" y="310" width="220" height="190" rx="8" fill="#f6ead2" stroke="#0b2f4a" stroke-width="2"/>
+<text x="284" y="338" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">RESIN KEEPS</text>
+<text x="284" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">About 13 meq of</text>
+<text x="284" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">calcium and magnesium</text>
+<text x="284" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Up to about 260 mg</text>
+<text x="284" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">if it is all calcium</text>
+<rect class="box" x="510" y="310" width="220" height="190" rx="8" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="524" y="338" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">OUT: one soft gallon</text>
+<text x="524" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hardness: close to 0</text>
+<text x="524" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Sodium: + about 298 mg</text>
+<text x="524" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">(about 79 mg/L)</text>
+<text x="524" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Bicarbonate, chloride,</text>
+<text x="524" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">sulfate: unchanged</text>
+<text x="30" y="532" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Dissolved solids do not fall: about 260 mg of calcium out, about 298 mg of sodium in.</text>
+<text x="30" y="556" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Worked from equivalent weights; magnesium-rich water swaps less mass out for the same sodium.</text>
+</svg>

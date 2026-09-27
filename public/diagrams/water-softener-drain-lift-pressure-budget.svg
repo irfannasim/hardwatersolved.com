@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="dlp-title dlp-desc">
+<title id="dlp-title">Water softener drain lift height worked example: 9 foot lift and the pressure left at 40 psi</title>
+<desc id="dlp-desc">Worked example of water softener drain lift height. A basement softener lifts its drain 9 feet through 25 feet of tube to a trap above an overhead sewer, with an air gap. At 40 psi the lift costs 3.9 psi either way; friction costs 6.1 psi in 1/2 inch tube and 0.8 psi in 3/4 inch, leaving about 30 or 35 psi against a 25 psi valve minimum.</desc>
+<defs><marker id="dlp-d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">A 9 ft lift on a 40 psi well</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Worked example from the article: lift and friction come out of the same pressure.</text>
+<rect x="30" y="470" width="380" height="3" fill="#cbd5e1"/>
+<rect x="58" y="428" width="64" height="42" rx="6" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="40" y="392" width="100" height="36" rx="6" fill="#0b2f4a"/>
+<text x="90" y="415" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">VALVE</text>
+<rect x="300" y="229" width="110" height="14" fill="#78716c"/>
+<rect x="344" y="216" width="12" height="14" fill="#78716c"/>
+<rect x="330" y="176" width="40" height="40" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="355" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">overhead sewer</text>
+<text x="322" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">trap</text>
+<path class="ln" d="M140,410 L190,410 L190,140 L350,140 L350,160" fill="none" stroke="#78716c" stroke-width="5" stroke-linejoin="round"/>
+<text x="270" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">25 ft of tube</text>
+<text x="318" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">air gap</text>
+<path class="ln" d="M214,152 L214,398" fill="none" stroke="#0b2f4a" stroke-width="2" marker-end="url(#dlp-d)" marker-start="url(#dlp-d)"/>
+<text x="226" y="300" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">9 ft lift</text>
+<text x="226" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">= 3.9 psi</text>
+<text x="455" y="110" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Pressure budget at 40 psi</text>
+<text x="455" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">5 gpm backwash, before fittings</text>
+<text x="505" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1/2 in tube</text>
+<rect x="470" y="170" width="70" height="29.25" fill="#3a5a72"/>
+<text x="505" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3.9</text>
+<rect x="470" y="199.25" width="70" height="45.75" fill="#78716c"/>
+<text x="505" y="227.125" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">6.1</text>
+<rect x="470" y="245" width="70" height="225" fill="#0e7490"/>
+<text x="505" y="390" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">30</text>
+<text x="505" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">psi left</text>
+<text x="635" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">3/4 in tube</text>
+<rect x="600" y="170" width="70" height="29.25" fill="#3a5a72"/>
+<text x="635" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3.9</text>
+<rect x="600" y="199.25" width="70" height="6" fill="#78716c"/>
+<text x="678" y="208.25" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#78716c">0.8</text>
+<rect x="600" y="205.25" width="70" height="264.75" fill="#0e7490"/>
+<text x="635" y="390" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">35</text>
+<text x="635" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">psi left</text>
+<path class="ln" d="M458,282.5 L700,282.5" fill="none" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="454" y="286.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">25 psi</text>
+<rect x="30" y="496" width="16" height="14" fill="#3a5a72"/>
+<text x="54" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">lift</text>
+<rect x="120" y="496" width="16" height="14" fill="#78716c"/>
+<text x="144" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">tube friction</text>
+<rect x="260" y="496" width="16" height="14" fill="#0e7490"/>
+<text x="284" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">left for backwash and brine draw</text>
+<path class="ln" d="M540,503 L570,503" fill="none" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="578" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Clack minimum</text>
+<text x="30" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Estimate: Hazen-Williams, smooth tube, 0.433 psi per foot of lift. Elbows and barbs add more.</text>
+</svg>

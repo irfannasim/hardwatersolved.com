@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" width="760" height="460" role="img" aria-labelledby="rbx-title rbx-desc">
+<title id="rbx-title">Resin bead during water softener regeneration: exhausted, brined, regenerated</title>
+<desc id="rbx-desc">One softener resin bead in three states. Exhausted, its exchange sites hold calcium and magnesium. During brine draw a large excess of sodium displaces them. After rinsing, the sites hold sodium again and the calcium and magnesium have gone to the drain.</desc>
+<defs><marker id="rbx-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="460" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What brine does to a single resin bead</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Illustrative: a real bead has vast numbers of sites. Eight stand in for all of them.</text>
+<circle cx="130" cy="205" r="60" fill="#f6ead2" stroke="#e2b865" stroke-width="4"/>
+<circle cx="130.0" cy="145.0" r="16" fill="#c2410c"/><text x="130.0" y="149.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Ca</text>
+<circle cx="172.4" cy="162.6" r="16" fill="#c2410c"/><text x="172.4" y="167.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Mg</text>
+<circle cx="190.0" cy="205.0" r="16" fill="#c2410c"/><text x="190.0" y="209.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Ca</text>
+<circle cx="172.4" cy="247.4" r="16" fill="#c2410c"/><text x="172.4" y="251.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Ca</text>
+<circle cx="130.0" cy="265.0" r="16" fill="#c2410c"/><text x="130.0" y="269.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Mg</text>
+<circle cx="87.6" cy="247.4" r="16" fill="#c2410c"/><text x="87.6" y="251.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Ca</text>
+<circle cx="70.0" cy="205.0" r="16" fill="#c2410c"/><text x="70.0" y="209.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Mg</text>
+<circle cx="87.6" cy="162.6" r="16" fill="#c2410c"/><text x="87.6" y="167.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Ca</text>
+<circle cx="380" cy="205" r="60" fill="#f6ead2" stroke="#e2b865" stroke-width="4"/>
+<circle cx="380.0" cy="145.0" r="16" fill="#7c3aed"/><text x="380.0" y="149.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="422.4" cy="162.6" r="16" fill="#c2410c"/><text x="422.4" y="167.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Ca</text>
+<circle cx="440.0" cy="205.0" r="16" fill="#7c3aed"/><text x="440.0" y="209.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="422.4" cy="247.4" r="16" fill="#c2410c"/><text x="422.4" y="251.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Mg</text>
+<circle cx="380.0" cy="265.0" r="16" fill="#7c3aed"/><text x="380.0" y="269.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="337.6" cy="247.4" r="16" fill="#c2410c"/><text x="337.6" y="251.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Ca</text>
+<circle cx="320.0" cy="205.0" r="16" fill="#7c3aed"/><text x="320.0" y="209.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="337.6" cy="162.6" r="16" fill="#c2410c"/><text x="337.6" y="167.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Mg</text>
+<circle cx="289.9" cy="153.0" r="16" fill="#7c3aed"/><text x="289.9" y="157.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="470.1" cy="153.0" r="16" fill="#7c3aed"/><text x="470.1" y="157.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="470.1" cy="257.0" r="16" fill="#7c3aed"/><text x="470.1" y="261.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="289.9" cy="257.0" r="16" fill="#7c3aed"/><text x="289.9" y="261.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="630" cy="205" r="60" fill="#f6ead2" stroke="#e2b865" stroke-width="4"/>
+<circle cx="630.0" cy="145.0" r="16" fill="#7c3aed"/><text x="630.0" y="149.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="672.4" cy="162.6" r="16" fill="#7c3aed"/><text x="672.4" y="167.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="690.0" cy="205.0" r="16" fill="#7c3aed"/><text x="690.0" y="209.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="672.4" cy="247.4" r="16" fill="#7c3aed"/><text x="672.4" y="251.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="630.0" cy="265.0" r="16" fill="#7c3aed"/><text x="630.0" y="269.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="587.6" cy="247.4" r="16" fill="#7c3aed"/><text x="587.6" y="251.9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="570.0" cy="205.0" r="16" fill="#7c3aed"/><text x="570.0" y="209.5" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<circle cx="587.6" cy="162.6" r="16" fill="#7c3aed"/><text x="587.6" y="167.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Na</text>
+<path class="ln" d="M226,205 L268,205" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#rbx-a)"/>
+<text x="247" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#7c3aed">brine</text>
+<path class="ln" d="M492,205 L534,205" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#rbx-a)"/>
+<text x="513" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">rinse</text>
+<text x="130" y="350" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Exhausted</text>
+<text x="130" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Every site holds</text>
+<text x="130" y="393" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">calcium or</text>
+<text x="130" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">magnesium. Hard</text>
+<text x="130" y="431" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">water now passes.</text>
+<text x="380" y="350" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Brine floods the bed</text>
+<text x="380" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Sodium in huge excess</text>
+<text x="380" y="393" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">pushes the hardness</text>
+<text x="380" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">off the sites and</text>
+<text x="380" y="431" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">into the flowing water.</text>
+<text x="630" y="350" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Regenerated</text>
+<text x="630" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Sites hold sodium</text>
+<text x="630" y="393" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">again. Calcium and</text>
+<text x="630" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">magnesium left in</text>
+<text x="630" y="431" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">the rinse to drain.</text>
+</svg>

@@ -1559,7 +1559,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Address the marketing problem head-on: many products sold as "whole house filtration systems" are softeners, and vice versa. Give a spec-sheet reading guide that identifies what a unit actually is regardless of its name, plus a problem-to-technology table.
 - **Links:** up H5, H7; across "What a Water Softener Does Not Remove", "How to Compare Water Softener Spec Sheets", "Should a Water Filter Go Before or After a Softener"
 
-### 120. Water Softener vs Reverse Osmosis System
+### 120. Water Softener vs Reverse Osmosis System ✅ Published — 2026-09-26 — /blog/water-softener-vs-reverse-osmosis/
 - **Hub:** H5, H7
 - **Funnel role:** Common alternative-consideration query
 - **Search intent:** Choose between whole-house softening and point-of-use RO
@@ -1571,7 +1571,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Frame as scope rather than quality: whole-house scale protection versus point-of-use purity. Include the wastewater ratio and the reason whole-house RO is almost never appropriate for a residence — a question readers ask and few pages answer honestly.
 - **Links:** up H5, H7; across "How Reverse Osmosis and a Water Softener Work Together", "Point-of-Entry vs Point-of-Use Water Softening", "What a Water Softener Does Not Remove"
 
-### 121. Should a Water Filter Go Before or After a Softener?
+### 121. Should a Water Filter Go Before or After a Softener? ✅ Published — 2026-09-26 — /blog/filter-before-or-after-water-softener/
 - **Hub:** H5, H8
 - **Funnel role:** Very high-volume ordering question; consolidates a cannibalizing pair from the old plan
 - **Search intent:** Sequence a filter and softener correctly
@@ -1583,7 +1583,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Replace the generic answer with a filter-type decision table covering sediment, carbon, KDF, iron, tannin, UV and point-of-use, each with its correct position and the reason. The old plan split this into two competing articles; one table serves both queries better.
 - **Links:** up H5, H8; across "Well Water Treatment Train Order", "When to Replace a Sediment Prefilter Before a Softener", "How a Whole-House Carbon Filter and Softener Work Together"
 
-### 122. How to Sanitize a Water Softener
+### 122. How to Sanitize a Water Softener ✅ Published — 2026-09-26 — /blog/how-to-sanitize-a-water-softener/
 - **Hub:** H4, H5
 - **Funnel role:** Required after several faults and every installation; supports many articles
 - **Search intent:** Disinfect a softener safely
@@ -1603,7 +1603,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 
 ---
 
-### 123. How Does a Whole-House Water Softener Work?
+### 123. How Does a Whole-House Water Softener Work? ✅ Published — 2026-09-26 — /blog/how-does-a-whole-house-water-softener-work/
 - **Hub:** H6, H7
 - **Funnel role:** Foundational explainer; the page most other articles assume knowledge of
 - **Search intent:** Understand the mechanism before evaluating options
@@ -1615,7 +1615,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Follow one gallon of water through the entire system in sequence, then follow the regeneration cycle back the other way, with a single continuous diagram. Emphasize that softening is an exchange rather than a removal — the fact that explains sodium content, white dust, and why softened water still leaves some residues.
 - **Links:** up H6, H7; across "How Water Softener Regeneration Works", "What a Water Softener Does Not Remove", "Inside a Water Softener Mineral Tank"
 
-### 124. Hard Water vs TDS, Alkalinity and Mineral Water
+### 124. Hard Water vs TDS, Alkalinity and Mineral Water ✅ Published — 2026-09-26 — /blog/hard-water-vs-tds-and-alkalinity/
 - **Hub:** H2
 - **Funnel role:** Prevents misreading a test report and buying the wrong system
 - **Search intent:** Distinguish hardness from related but different measurements
@@ -1627,7 +1627,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Address the single most common consumer testing error directly: using a cheap TDS pen and concluding the water is hard. Show the same four water samples measured for TDS, hardness and alkalinity to prove the numbers move independently, and give the treatment implication of each.
 - **Links:** up H2; across "Water Hardness Units: GPG, PPM and mg/L", "Hard Water vs TDS, Alkalinity and Mineral Water", "How to Interpret pH and Hardness Together"
 
-### 125. Types of Hardness: Temporary, Permanent, Calcium and Magnesium
+### 125. Types of Hardness: Temporary, Permanent, Calcium and Magnesium ✅ Published — 2026-09-26 — /blog/types-of-water-hardness-explained/
 - **Hub:** H2
 - **Funnel role:** Technical grounding that supports scale and treatment articles
 - **Search intent:** Understand hardness composition and whether it changes treatment
@@ -1639,7 +1639,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Connect the chemistry to observable household behavior: temporary (bicarbonate) hardness explains why heaters and kettles scale first, while permanent (sulfate) hardness explains why cold-line spotting persists. Include why the calcium-to-magnesium ratio barely affects softener sizing despite frequent claims otherwise.
 - **Links:** up H2; across "Why Hot Water Shows More Scale Than Cold Water", "Water Hardness Units: GPG, PPM and mg/L", "How Does a Whole-House Water Softener Work"
 
-### 126. Why Water Hardness Changes by Season and Location
+### 126. Why Water Hardness Changes by Season and Location ✅ Published — 2026-09-26 — /blog/why-water-hardness-changes/
 - **Hub:** H2
 - **Funnel role:** Explains inconsistent readings; supports resizing and reprogramming
 - **Search intent:** Understand hardness variation over time and between areas
@@ -1651,7 +1651,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Show real seasonal hardness data from both a municipal system that switches source blends and a private well, then give the practical response: program to the seasonal high, not the average, and the reprogramming trigger points. Explains a surprising amount of intermittent hard-water complaints.
 - **Links:** up H2; across "How to Read Your Water Hardness Report", "How to Set Water Hardness on a Control Valve", "Why Private Well Chemistry Changes Over Time"
 
-### 127. Do Boiling, Filters or Water Heaters Soften Water?
+### 127. Do Boiling, Filters or Water Heaters Soften Water? ✅ Published — 2026-09-26 — /blog/does-boiling-or-filtering-soften-water/
 - **Hub:** H2
 - **Funnel role:** Intercepts readers looking for a free alternative; honest answer builds trust
 - **Search intent:** Find out whether a cheaper method works
@@ -1663,7 +1663,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Test all three claims and publish measured before-and-after hardness numbers rather than asserting the answer. Include the partial truth in the boiling claim, and the reason a water heater appears to soften water while actually just depositing the hardness inside itself.
 - **Links:** up H2; across "Types of Hardness: Temporary, Permanent, Calcium and Magnesium", "Hard Water Sediment in a Storage Water Heater", "Do You Actually Need a Whole-House Water Softener"
 
-### 128. Point-of-Entry vs Point-of-Use Water Softening
+### 128. Point-of-Entry vs Point-of-Use Water Softening ✅ Published — 2026-09-26 — /blog/point-of-entry-vs-point-of-use-water-softening/
 - **Hub:** H6
 - **Funnel role:** Scope decision that precedes all sizing
 - **Search intent:** Decide whether to treat the whole house or one location
@@ -1675,7 +1675,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the rule that resolves most of these questions: treat at the point of entry for anything protecting plumbing and appliances, at the point of use for anything you drink. Include the cases where a partial-house design is legitimate and how to plan the plumbing for it.
 - **Links:** up H6; across "Should a Kitchen Drinking Tap Bypass the Softener", "Water Softener vs Reverse Osmosis System", "Where Should a Whole-House Water Softener Be Installed"
 
-### 129. Can Household Water Be Too Soft?
+### 129. Can Household Water Be Too Soft? ✅ Published — 2026-09-26 — /blog/can-water-be-too-soft/
 - **Hub:** H7
 - **Funnel role:** Addresses a genuine concern honestly; prevents over-treatment
 - **Search intent:** Determine whether excessive softening causes harm
@@ -1687,7 +1687,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Separate the legitimate concern from the myth: fully softened water is not inherently corrosive, but softening *acidic* water without neutralizing is. Explain the blending valve as a real option, what it costs in scale protection, and why most installers set it wrong.
 - **Links:** up H7; across "Should Softened Water Always Test at Zero Hardness", "Why Low-pH Well Water Needs Separate Treatment", "Why Soft Water Feels Slippery"
 
-### 130. Can a Water Softener Protect Household Pipes?
+### 130. Can a Water Softener Protect Household Pipes? ✅ Published — 2026-09-26 — /blog/does-soft-water-damage-or-protect-pipes/
 - **Hub:** H7
 - **Funnel role:** Core benefit claim; must be stated accurately to remain credible
 - **Search intent:** Understand what softening does for plumbing longevity
@@ -1699,7 +1699,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Answer both directions of the question in one page, since readers arrive with opposite fears. Use the Langelier index to show when softened water is aggressive and when it is not, and address the legacy scale that sheds from old pipes after installation — real, temporary, and constantly misread as corrosion.
 - **Links:** up H7; across "How to Interpret pH and Hardness Together", "Why a Hardness Test Reads Zero but Scale Remains", "Why Softened Water Has a Metallic Taste"
 
-### 131. Should Softened Water Always Test at Zero Hardness?
+### 131. Should Softened Water Always Test at Zero Hardness? ✅ Published — 2026-09-26 — /blog/should-softened-water-test-at-zero/
 - **Hub:** H3, H7
 - **Funnel role:** Verification standard; bridges buying and troubleshooting
 - **Search intent:** Know what a correct post-softener test should read
@@ -1711,7 +1711,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Set the actual performance standard readers can hold their system to, including how much leakage is normal at the end of a cycle versus the start. Distinguishes an intentional blend setting from a genuine fault — a distinction that resolves a large share of "my softener is broken" conclusions.
 - **Links:** up H3, H7; across "How to Verify a Softener Is Producing Soft Water", "Can Household Water Be Too Soft?", "Why Hardness Returns Before the Next Regeneration"
 
-### 132. Is a Higher Grain Rating Always Better?
+### 132. Is a Higher Grain Rating Always Better? ✅ Published — 2026-09-26 — /blog/is-a-higher-grain-rating-always-better/
 - **Hub:** H6
 - **Funnel role:** Corrects the single most exploited spec in softener marketing
 - **Search intent:** Decide whether to buy more capacity than calculated
@@ -1723,7 +1723,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain how advertised grain ratings are achieved — at maximum salt dose, where efficiency is worst — so a 48,000-grain rating is a number the unit only reaches in its least economical mode. Show the efficiency curve and the stagnation problem in a bed that regenerates once a fortnight.
 - **Links:** up H6; across "Advertised vs Usable Water Softener Capacity", "Can a Water Softener Be Too Large", "How to Calculate the Right Water Softener Size"
 
-### 133. How to Calculate the Right Water Softener Size
+### 133. How to Calculate the Right Water Softener Size ✅ Published — 2026-09-26 — /blog/how-to-size-a-water-softener/
 - **Hub:** H6 (this is the hub page)
 - **Funnel role:** The central mid-funnel page; determines the purchase spec
 - **Search intent:** Produce a correct capacity figure for a specific household
@@ -1735,7 +1735,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** An interactive calculator plus the full worked arithmetic shown longhand, so readers can verify rather than trust it. Critically, it uses *measured* per-person water use rather than the industry default of 75 gallons per day, which oversizes most modern low-flow households, and it applies the iron compensation from the well cluster.
 - **Links:** down to all H6 spokes; across "How Iron Changes Water Softener Sizing", "Grain Capacity vs Peak Flow Rate", "Do You Actually Need a Whole-House Water Softener"
 
-### 134. What Does Grain Capacity Mean on a Water Softener?
+### 134. What Does Grain Capacity Mean on a Water Softener? ✅ Published — 2026-09-26 — /blog/what-does-grain-capacity-mean/
 - **Hub:** H6
 - **Funnel role:** Spec literacy; prerequisite for comparing units
 - **Search intent:** Understand the primary capacity specification
@@ -1747,7 +1747,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Show the same resin volume rated at three salt doses to demonstrate that capacity is a curve, not a fixed number. Include the resin-volume-to-capacity relationship so readers can compare units whose marketing numbers are not comparable.
 - **Links:** up H6; across "Advertised vs Usable Water Softener Capacity", "Is a Higher Grain Rating Always Better", "How to Set the Salt Dose on a Water Softener"
 
-### 135. Advertised vs Usable Water Softener Capacity
+### 135. Advertised vs Usable Water Softener Capacity ✅ Published — 2026-09-26 — /blog/advertised-vs-usable-softener-capacity/
 - **Hub:** H6
 - **Funnel role:** The honesty article that differentiates this site from manufacturer content
 - **Search intent:** Understand real-world capacity versus the number on the box
@@ -1759,7 +1759,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Publish the capacity-versus-salt-dose curve for standard resin volumes and show what the same unit delivers at economy, standard and maximum settings. This single table reframes every product comparison a reader will make afterwards, and it is the kind of asset that earns citations.
 - **Links:** up H6; across "What Does Grain Capacity Mean on a Water Softener?", "How to Calculate the Right Water Softener Size", "What Is Water Softener Salt Efficiency"
 
-### 136. How Much Reserve Capacity Does a Softener Need?
+### 136. How Much Reserve Capacity Does a Softener Need? ✅ Published — 2026-09-26 — /blog/water-softener-reserve-capacity/
 - **Hub:** H6
 - **Funnel role:** Sizing refinement that prevents end-of-cycle hard water
 - **Search intent:** Set an appropriate reserve
@@ -1771,7 +1771,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Calculate reserve from actual overnight and morning usage rather than the flat 20 to 30 percent rule everyone repeats, and show how variable-reserve controls learn this automatically. Include the household patterns where a fixed reserve reliably fails.
 - **Links:** up H6; across "How to Set Capacity and Reserve on a Softener", "What Time Should a Water Softener Regenerate", "How to Calculate the Right Water Softener Size"
 
-### 137. Grain Capacity vs Peak Flow Rate
+### 137. Grain Capacity vs Peak Flow Rate ✅ Published — 2026-09-26 — /blog/grain-capacity-vs-peak-flow-rate/
 - **Hub:** H6
 - **Funnel role:** The sizing dimension buyers forget; causes pressure complaints later
 - **Search intent:** Size for simultaneous demand, not just daily volume
@@ -1783,7 +1783,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A fixture-unit worksheet that produces a realistic peak flow figure, then maps it to required valve and tank sizing, including the one-inch plumbing and high-flow fixture cases. Explain how to read a flow rate spec critically — most are quoted at a pressure drop no one would accept in practice.
 - **Links:** up H6; across "How Pressure Drop Affects Softener Sizing", "Why Water Pressure Drops After a Softener", "How to Compare Water Softener Spec Sheets"
 
-### 138. How Pressure Drop Affects Softener Sizing
+### 138. How Pressure Drop Affects Softener Sizing ✅ Published — 2026-09-26 — /blog/water-softener-pressure-drop/
 - **Hub:** H6
 - **Funnel role:** Prevents the most common post-install disappointment
 - **Search intent:** Understand and limit pressure loss through the system
@@ -1795,7 +1795,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Publish pressure-drop curves rather than single figures, and show how to find the loss at *your* peak flow rather than the manufacturer's chosen test point. Include the cumulative-loss calculation for multi-stage systems, which is where houses end up with unusable pressure.
 - **Links:** up H6; across "Grain Capacity vs Peak Flow Rate", "Minimum and Maximum Pressure for a Water Softener", "How a Whole-House Carbon Filter and Softener Work Together"
 
-### 139. Signs a Water Softener Is Undersized
+### 139. Signs a Water Softener Is Undersized ✅ Published — 2026-09-26 — /blog/signs-a-water-softener-is-undersized/
 - **Hub:** H6, H3
 - **Funnel role:** Bridges troubleshooting into a replacement or upgrade decision
 - **Search intent:** Confirm that capacity, not a fault, is the problem
@@ -1807,7 +1807,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give a clear differential between undersizing and resin failure, since both present as early hardness breakthrough and the fix differs by a thousand dollars. The distinguishing test is regeneration frequency against calculated load — include the worksheet.
 - **Links:** up H6, H3; across "Why Hardness Returns Before the Next Regeneration", "What Is Water Softener Resin Fouling", "How to Resize a Softener After Adding a Bathroom"
 
-### 140. Can a Water Softener Be Too Large?
+### 140. Can a Water Softener Be Too Large? ✅ Published — 2026-09-26 — /blog/can-a-water-softener-be-too-large/
 - **Hub:** H6
 - **Funnel role:** Counters upselling; a genuinely useful contrarian page
 - **Search intent:** Understand the downside of oversizing
@@ -1819,7 +1819,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Document the stagnation problem properly, including the minimum regeneration frequency needed to keep a bed healthy regardless of capacity, and the forced-regeneration setting that exists precisely to solve it. Almost no consumer content covers this, and it directly contradicts standard sales advice.
 - **Links:** up H6; across "Is a Higher Grain Rating Always Better", "How Often Should a Water Softener Regenerate", "What Is Resin Channeling in a Water Softener"
 
-### 141. How to Resize a Softener After Adding a Bathroom
+### 141. How to Resize a Softener After Adding a Bathroom ✅ Published — 2026-09-26 — /blog/resizing-a-softener-after-adding-a-bathroom/
 - **Hub:** H6
 - **Funnel role:** Renovation-triggered upgrade; well-qualified buying intent
 - **Search intent:** Determine whether an existing system still fits the household
@@ -1831,7 +1831,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Separate the two variables that a remodel changes independently — peak flow versus total daily load — and show that a bathroom addition without more occupants often needs a valve upgrade rather than more capacity. Include the occupancy-change case (children growing up, family moving out) that changes load without changing plumbing.
 - **Links:** up H6; across "Grain Capacity vs Peak Flow Rate", "How to Calculate the Right Water Softener Size", "Water Softener Planning During a Remodel"
 
-### 142. Salt-Based vs Salt-Free Water Treatment
+### 142. Salt-Based vs Salt-Free Water Treatment ✅ Published — 2026-09-26 — /blog/salt-based-vs-salt-free-water-treatment/
 - **Hub:** H7 (this is the hub page)
 - **Funnel role:** The largest category fork in the niche; hub for all comparison pages
 - **Search intent:** Choose between two fundamentally different technologies
@@ -1843,7 +1843,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Refuse the framing both industries use. Salt-free systems are not softeners and salt-based systems are not filters; state what each measurably does, then give a needs-based decision table. The page's value is that it recommends salt-free where salt-free genuinely wins, which almost no salt-based-affiliated site will do.
 - **Links:** down to all H7 spokes; across "Does a Salt-Free System Actually Soften Water", "When a Salt-Free Conditioner Is the Wrong Choice", "Do You Actually Need a Whole-House Water Softener"
 
-### 143. Single-Tank vs Twin-Tank Water Softeners
+### 143. Single-Tank vs Twin-Tank Water Softeners ✅ Published — 2026-09-26 — /blog/single-tank-vs-twin-tank-water-softeners/
 - **Hub:** H7
 - **Funnel role:** Configuration decision with real cost implications
 - **Search intent:** Decide whether continuous soft water justifies the cost
@@ -1855,7 +1855,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Identify the specific households where twin-tank genuinely pays — irregular schedules, very high hardness, well systems with limited backwash flow, home businesses — rather than presenting it as a general upgrade. Include the cabinet versus two-piece form factor decision, which is about space rather than performance.
 - **Links:** up H7; across "How Much Space Does a Water Softener Need", "Sizing a Softener for a Low-Yield Well", "How to Calculate the Right Water Softener Size"
 
-### 144. Metered vs Timer-Based Water Softeners
+### 144. Metered vs Timer-Based Water Softeners ✅ Published — 2026-09-26 — /blog/metered-vs-timer-based-water-softeners/
 - **Hub:** H7
 - **Funnel role:** Efficiency decision that affects lifetime operating cost
 - **Search intent:** Choose a regeneration control type
@@ -1867,7 +1867,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Quantify the difference in salt and water per year for the same household on both control types, with the payback period on the price difference. Cover demand-initiated regeneration properly, including why it is the basis of most efficiency certifications and rebate eligibility.
 - **Links:** up H7; across "How to Optimize Regeneration for Salt and Water Efficiency", "What Is Water Softener Salt Efficiency", "Are Water Softener Rebates or Tax Credits Available"
 
-### 145. Upflow vs Downflow Regeneration
+### 145. Upflow vs Downflow Regeneration ✅ Published — 2026-09-26 — /blog/upflow-vs-downflow-regeneration/
 - **Hub:** H7
 - **Funnel role:** Technical comparison that affects efficiency; consolidates a true duplicate from the old plan
 - **Search intent:** Understand regeneration direction and its efficiency effect
@@ -1879,7 +1879,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Note explicitly that "upflow versus downflow" and "counter-current versus co-current" are the same distinction under two names — the old plan had them as two separate articles competing for one query. Include a flow diagram and the salt-efficiency difference with the tradeoff in bed disturbance.
 - **Links:** up H7; across "How Water Softener Regeneration Works", "Proportional Brining vs Fixed Salt Dosing", "What Is Water Softener Salt Efficiency"
 
-### 146. Proportional Brining vs Fixed Salt Dosing
+### 146. Proportional Brining vs Fixed Salt Dosing ✅ Published — 2026-09-26 — /blog/proportional-brining-vs-fixed-salt-dosing/
 - **Hub:** H7
 - **Funnel role:** Efficiency feature worth paying for; supports spec comparison
 - **Search intent:** Understand a control feature and its value
@@ -1891,7 +1891,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Show the salt-per-year difference across three household usage patterns — steady, variable, and seasonal — because proportional brining is worth very different amounts in each. Include how to check whether a given valve actually supports it, since the term is used loosely in marketing.
 - **Links:** up H7; across "How to Set the Salt Dose on a Water Softener", "Metered vs Timer-Based Water Softeners", "What Is Water Softener Salt Efficiency"
 
-### 147. Electric vs Non-Electric Water Softeners
+### 147. Electric vs Non-Electric Water Softeners ✅ Published — 2026-09-26 — /blog/electric-vs-non-electric-water-softeners/
 - **Hub:** H7
 - **Funnel role:** Feasibility and reliability decision; relevant to remote installs
 - **Search intent:** Decide whether a non-electric system suits the site
@@ -1903,7 +1903,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the minimum pressure requirement that makes non-electric viable, since that constraint disqualifies more sites than any other factor, and cover the outlet-not-available installation case honestly, including whether adding a receptacle is cheaper than the premium.
 - **Links:** up H7; across "Minimum and Maximum Pressure for a Water Softener", "Installing a Softener Without a Drain or Outlet Nearby", "Common Water Softener Repair Costs Explained"
 
-### 148. Standard vs Fine-Mesh Resin
+### 148. Standard vs Fine-Mesh Resin ✅ Published — 2026-09-26 — /blog/standard-vs-fine-mesh-resin/
 - **Hub:** H7
 - **Funnel role:** Media selection for iron-bearing water; well-cluster crossover
 - **Search intent:** Choose a resin type for specific water conditions
@@ -1915,7 +1915,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** State the specific water conditions where fine mesh is worth its drawbacks, and the backwash flow requirement it imposes — which can disqualify it on the low-yield wells where iron makes it attractive in the first place. That tension is the useful part.
 - **Links:** up H7; across "Can a Water Softener Remove Iron From Well Water?", "How Well Pump Flow Limits Treatment Backwashing", "How Pressure Drop Affects Softener Sizing"
 
-### 149. Standard vs Chlorine-Resistant Softener Resin
+### 149. Standard vs Chlorine-Resistant Softener Resin ✅ Published — 2026-09-26 — /blog/standard-vs-chlorine-resistant-softener-resin/
 - **Hub:** H7
 - **Funnel role:** Media selection for municipal water; protects the investment
 - **Search intent:** Decide whether higher-crosslink resin is worth the premium
@@ -1927,7 +1927,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Turn a spec argument into an economic one: compare expected life at measured chlorine levels against the price premium, and show the residual level above which carbon pretreatment beats upgraded resin. Covers the crosslink percentage question and the chlorine-resistance question together, since they are the same purchasing decision.
 - **Links:** up H7; across "How Chlorine Damages Water Softener Resin", "When City Chlorine Requires Carbon Pretreatment", "Water Softener Resin Life and When to Replace It"
 
-### 150. Water Softener vs Electronic and Magnetic Descalers
+### 150. Water Softener vs Electronic and Magnetic Descalers ✅ Published — 2026-09-26 — /blog/water-softener-vs-electronic-descaler/
 - **Hub:** H7
 - **Funnel role:** Intercepts a large low-cost alternative search; requires careful, evidence-led handling
 - **Search intent:** Evaluate whether descalers work
@@ -1939,7 +1939,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Handle this the way a lab would: state what the independent literature actually supports, what it does not, and why a hardness test cannot validate or invalidate these devices. Explain the marketing trap of "reduces hardness test results" claims. Neutral, sourced, and non-dismissive — which is what makes it authoritative.
 - **Links:** up H7; across "Salt-Based vs Salt-Free Water Treatment", "How Does a Salt-Free Water Conditioner Work?", "How to Verify a Softener Certification and Performance Claim"
 
-### 151. Portable Exchange Tank vs Installed Softener
+### 151. Portable Exchange Tank vs Installed Softener ✅ Published — 2026-09-26 — /blog/portable-exchange-tank-vs-installed-softener/
 - **Hub:** H7
 - **Funnel role:** Serves renters and restricted properties; low competition
 - **Search intent:** Evaluate a service-based alternative to ownership
@@ -1951,7 +1951,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A break-even analysis across hardness levels and household sizes showing exactly when exchange service stops making sense, plus the situations where it remains the only option regardless of cost. Genuinely useful to a group most softener content ignores entirely.
 - **Links:** up H7; across "Water Softeners in Rentals: Landlord and Tenant", "Installing a Softener Without a Drain or Outlet Nearby", "Renting vs Owning a Water Softener"
 
-### 152. How to Compare Water Softener Spec Sheets
+### 152. How to Compare Water Softener Spec Sheets ✅ Published — 2026-09-26 — /blog/how-to-compare-water-softener-spec-sheets/
 - **Hub:** H7
 - **Funnel role:** The practical skill page that makes every comparison actionable
 - **Search intent:** Evaluate two products on paper
@@ -1963,7 +1963,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A comparison worksheet naming the six specifications that genuinely differentiate systems, plus how to verify a certification listing in the NSF and WQA public databases rather than trusting a logo. Includes how to identify the actual valve manufacturer behind a rebranded unit — the single most useful thing a buyer can learn.
 - **Links:** up H7; across "Advertised vs Usable Water Softener Capacity", "Grain Capacity vs Peak Flow Rate", "How to Read a Water Softener Warranty"
 
-### 153. How Does a Salt-Free Water Conditioner Work?
+### 153. How Does a Salt-Free Water Conditioner Work? ✅ Published — 2026-09-26 — /blog/how-does-a-salt-free-water-conditioner-work/
 - **Hub:** H7
 - **Funnel role:** Category explainer; entry to the salt-free cluster
 - **Search intent:** Understand the mechanism behind salt-free systems
@@ -1975,7 +1975,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain TAC accurately without either the industry's overclaiming or the reflexive dismissal common in salt-based content. Cover why these units need no drain, no electricity and no backwash — the genuine practical advantages — and what that means for installation feasibility.
 - **Links:** up H7; across "Does a Salt-Free System Actually Soften Water", "Salt-Based vs Salt-Free Water Treatment", "Installing a Softener Without a Drain or Outlet Nearby"
 
-### 154. Does a Salt-Free System Actually Soften Water?
+### 154. Does a Salt-Free System Actually Soften Water? ✅ Published — 2026-09-26 — /blog/does-a-salt-free-system-actually-soften-water/
 - **Hub:** H7
 - **Funnel role:** The critical expectation-setting article in the category
 - **Search intent:** Determine whether salt-free delivers softening
@@ -1987,7 +1987,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Set expectations precisely: no change in hardness test, no slippery feel, no soap savings, no spotting improvement — but potentially real scale reduction in heated equipment. Explaining that a hardness test *should* read high after salt-free treatment prevents a support complaint and demonstrates genuine expertise.
 - **Links:** up H7; across "How Does a Salt-Free Water Conditioner Work", "Scale Prevention vs Hardness Removal", "When a Salt-Free Conditioner Is the Wrong Choice"
 
-### 155. How Hard Can Water Be for Salt-Free Conditioning?
+### 155. How Hard Can Water Be for Salt-Free Conditioning? ✅ Published — 2026-09-26 — /blog/hardness-limits-for-salt-free-conditioners/
 - **Hub:** H7
 - **Funnel role:** Suitability gate; prevents a failed purchase
 - **Search intent:** Check whether salt-free suits a measured hardness level
@@ -1999,7 +1999,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Collect published hardness ceilings from major TAC media manufacturers into one table with the interfering contaminants each specifies, so a reader can check their own test panel against real limits rather than a sales claim.
 - **Links:** up H7; across "Salt-Free Conditioners on City vs Well Water", "When a Salt-Free Conditioner Is the Wrong Choice", "What Water Hardness Level Is Considered Too Hard?"
 
-### 156. Salt-Free Conditioners on City vs Well Water
+### 156. Salt-Free Conditioners on City vs Well Water ✅ Published — 2026-09-26 — /blog/salt-free-conditioners-city-vs-well-water/
 - **Hub:** H7
 - **Funnel role:** Suitability by source; steers well owners away from a common mistake
 - **Search intent:** Determine suitability for a specific water source
@@ -2011,7 +2011,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain the fouling mechanism that makes untreated well water a poor match, with the specific contaminant thresholds. Then give the pretreatment that makes it workable, and the point at which that pretreatment costs more than simply installing a softener.
 - **Links:** up H7; across "How Hard Can Water Be for Salt-Free Conditioning?", "Can a Water Softener Remove Iron From Well Water?", "What Maintenance Does a Salt-Free System Need"
 
-### 157. What Maintenance Does a Salt-Free System Need?
+### 157. What Maintenance Does a Salt-Free System Need? ✅ Published — 2026-09-26 — /blog/salt-free-water-conditioner-maintenance/
 - **Hub:** H7
 - **Funnel role:** Corrects the maintenance-free marketing claim; ownership reality
 - **Search intent:** Understand ongoing cost and upkeep
@@ -2023,7 +2023,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give real annual cost including media replacement amortized over its rated life and prefilter cartridges, then compare it against salt cost for an equivalent softener. The result is closer than either industry admits, and publishing it honestly is the differentiator.
 - **Links:** up H7; across "Does a Salt-Free System Actually Soften Water", "How to Evaluate Maintenance-Free and Salt-Free Marketing Claims", "Salt-Free Conditioners on City vs Well Water"
 
-### 158. Can a Salt-Free Conditioner Remove Existing Scale?
+### 158. Can a Salt-Free Conditioner Remove Existing Scale? ✅ Published — 2026-09-26 — /blog/salt-free-conditioner-existing-scale/
 - **Hub:** H7
 - **Funnel role:** Common expectation gap; affects purchase timing
 - **Search intent:** Find out whether existing buildup will clear
@@ -2035,7 +2035,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give a realistic timescale for the gradual descaling effect that manufacturers cite, and be direct that badly scaled equipment needs mechanical or chemical descaling first. Include what to descale before installation so the system starts from a clean baseline.
 - **Links:** up H7; across "How Does a Salt-Free Water Conditioner Work", "Signs of Scale Inside a Tankless Water Heater", "Hard Water Sediment in a Storage Water Heater"
 
-### 159. Salt-Free Conditioning for Tankless Heaters and Boilers
+### 159. Salt-Free Conditioning for Tankless Heaters and Boilers ✅ Published — 2026-09-26 — /blog/salt-free-conditioning-for-tankless-and-boilers/
 - **Hub:** H7
 - **Funnel role:** The strongest genuine use case for salt-free; high-value equipment
 - **Search intent:** Protect heating equipment without a softener
@@ -2047,7 +2047,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cross-reference tankless and boiler manufacturer warranty language on water treatment, because several require *softened* water specifically and a salt-free system will not satisfy the clause. That warranty check is the decisive factor and almost nobody raises it.
 - **Links:** up H7; across "Signs of Scale Inside a Tankless Water Heater", "How Softened Water Affects a Tankless Water Heater", "How to Read a Water Softener Warranty"
 
-### 160. When a Salt-Free Conditioner Is the Wrong Choice
+### 160. When a Salt-Free Conditioner Is the Wrong Choice ✅ Published — 2026-09-26 — /blog/when-a-salt-free-conditioner-is-wrong/
 - **Hub:** H7
 - **Funnel role:** Decision closure for the category; routes readers to the right product
 - **Search intent:** Rule salt-free in or out definitively
@@ -2067,7 +2067,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 
 ---
 
-### 161. Where Should a Whole-House Water Softener Be Installed?
+### 161. Where Should a Whole-House Water Softener Be Installed? ✅ Published — 2026-09-26 — /blog/where-to-install-a-water-softener/
 - **Hub:** H8 (this is the hub page)
 - **Funnel role:** Installation planning entry point; determines feasibility before purchase
 - **Search intent:** Choose a location that satisfies plumbing, drainage and access needs
@@ -2079,7 +2079,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A five-requirement location checklist (supply position, drain access, power, temperature, service clearance) applied to real house layouts, with the compromises that are acceptable and the ones that will cause problems later. Include the outdoor-tap branch decision, which must be made at this stage or not at all.
 - **Links:** down to all H8 spokes; across "Should a Softener Go Before or After the Water Heater", "Where Can a Water Softener Drain", "How Much Space Does a Water Softener Need"
 
-### 162. Should a Softener Go Before or After the Water Heater?
+### 162. Should a Softener Go Before or After the Water Heater? ✅ Published — 2026-09-26 — /blog/water-softener-before-or-after-water-heater/
 - **Hub:** H8
 - **Funnel role:** Very high-volume ordering question with one correct answer
 - **Search intent:** Sequence the softener relative to the heater
@@ -2091,7 +2091,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the unambiguous answer immediately, then handle the real question underneath it: which cold lines should branch off ahead of the softener, and why the heater must never be one of them. Include the diagnostic tie-in for houses that already have it wrong.
 - **Links:** up H8; across "Why Hot Water Is Hard but Cold Water Is Soft", "Where Should a Whole-House Water Softener Be Installed", "Should Outdoor Faucets Bypass a Water Softener"
 
-### 163. Installing a Softener in a Basement, Garage, Crawl Space or Closet
+### 163. Installing a Softener in a Basement, Garage, Crawl Space or Closet ✅ Published — 2026-09-26 — /blog/softener-in-basement-garage-crawl-space-or-closet/
 - **Hub:** H8
 - **Funnel role:** Consolidates four location queries into one comparison; feasibility gate
 - **Search intent:** Evaluate a specific indoor location
@@ -2103,7 +2103,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A four-way comparison table scoring each location against the five installation requirements, with the specific mitigation for each weakness (garage freeze protection, crawl space service access, closet drainage and noise). One table answers what were four thin pages.
 - **Links:** up H8; across "Where Should a Whole-House Water Softener Be Installed", "How to Winterize a Water Softener", "How Much Space Does a Water Softener Need"
 
-### 164. Outdoor Water Softener Installation: Freeze and Heat Protection
+### 164. Outdoor Water Softener Installation: Freeze and Heat Protection ✅ Published — 2026-09-26 — /blog/outdoor-water-softener-installation/
 - **Hub:** H8
 - **Funnel role:** Regional feasibility (Sun Belt); prevents equipment loss
 - **Search intent:** Install outdoors safely in a given climate
@@ -2115,7 +2115,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover both climate extremes in one page because outdoor installs face them in sequence across a year. Include manufacturer temperature ratings, UV degradation timelines for brine tanks and tubing, and enclosure designs that solve both problems at once.
 - **Links:** up H8; across "How to Winterize a Water Softener", "What to Do if a Water Softener Freezes", "Water Softener Care for Seasonal Homes and Cabins"
 
-### 165. How Much Space Does a Water Softener Need?
+### 165. How Much Space Does a Water Softener Need? ✅ Published — 2026-09-26 — /blog/how-much-space-does-a-water-softener-need/
 - **Hub:** H8
 - **Funnel role:** Practical constraint checked before purchase
 - **Search intent:** Confirm a space will fit the equipment and allow servicing
@@ -2127,7 +2127,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Publish dimensioned clearance diagrams including the overhead height needed to remove the control head for service — the measurement that gets missed and turns every future repair into a plumbing job. Cover cabinet versus two-piece footprints and tight-space configurations.
 - **Links:** up H8; across "Single-Tank vs Twin-Tank Water Softeners", "Installing a Softener in a Basement, Garage, Crawl Space or Closet", "Where Should a Whole-House Water Softener Be Installed"
 
-### 166. Installing a Softener Without a Drain or Outlet Nearby
+### 166. Installing a Softener Without a Drain or Outlet Nearby ✅ Published — 2026-09-26 — /blog/water-softener-with-no-drain-or-outlet/
 - **Hub:** H8
 - **Funnel role:** Removes the two most common hard blockers to a purchase
 - **Search intent:** Solve a missing drain or missing power problem
@@ -2139,7 +2139,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Rank the workarounds by cost and reliability, with the specific limits on each: how far a drain line can run before backpressure disrupts backwash, what a drain pump requires, and when a non-electric valve or a portable exchange service is the sensible answer instead.
 - **Links:** up H8; across "How High Can a Softener Pump Its Drain Water", "Electric vs Non-Electric Water Softeners", "Portable Exchange Tank vs Installed Softener"
 
-### 167. Water Softeners in Condos, Apartments and HOA Properties
+### 167. Water Softeners in Condos, Apartments and HOA Properties ✅ Published — 2026-09-26 — /blog/water-softener-for-condo-or-apartment/
 - **Hub:** H8
 - **Funnel role:** Serves a large audience that most softener content ignores entirely
 - **Search intent:** Determine what is possible in a shared or governed building
@@ -2151,7 +2151,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Practical navigation rather than a flat "check with your HOA": what to look for in governing documents, which questions to ask the building, and a ranked list of alternatives that work within those constraints. Include the single-unit installation cases that genuinely are permitted.
 - **Links:** up H8; across "Water Softeners in Rentals: Landlord and Tenant", "Portable Exchange Tank vs Installed Softener", "Point-of-Entry vs Point-of-Use Water Softening"
 
-### 168. Water Softeners in Mobile, Manufactured and Tiny Homes
+### 168. Water Softeners in Mobile, Manufactured and Tiny Homes ✅ Published — 2026-09-26 — /blog/water-softener-for-mobile-and-manufactured-homes/
 - **Hub:** H8
 - **Funnel role:** Distinct plumbing constraints; consolidates a genuine duplicate pair from the old plan
 - **Search intent:** Install in a home with non-standard plumbing and limited space
@@ -2163,7 +2163,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Address the constraints that are specific and real: floor loading of a full brine tank, smaller-diameter supply plumbing, drain options where no floor drain exists, and skirting freeze exposure. The old plan had mobile and manufactured homes as two separate articles for the same query.
 - **Links:** up H8; across "How Much Space Does a Water Softener Need", "Installing a Softener Without a Drain or Outlet Nearby", "Where Can a Water Softener Drain"
 
-### 169. Water Softener Planning for New Construction
+### 169. Water Softener Planning for New Construction ✅ Published — 2026-09-26 — /blog/water-softener-loop-new-construction/
 - **Hub:** H8
 - **Funnel role:** Highest-leverage planning moment; decisions here are cheap now and expensive later
 - **Search intent:** Rough in for a softener during a build
@@ -2175,7 +2175,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A specification sheet a homeowner can hand directly to a builder, listing exactly what to rough in and why, including the outdoor-tap branch and the drain air gap. Also covers how to identify and use a loop that a builder already installed, since most owners cannot recognize one.
 - **Links:** up H8; across "How to Confirm Water Flow Direction at a Softener Loop", "Where Should a Whole-House Water Softener Be Installed", "Water Softener Planning During a Remodel"
 
-### 170. Installing a Softener in an Older Home With Galvanized Pipe
+### 170. Installing a Softener in an Older Home With Galvanized Pipe ✅ Published — 2026-09-26 — /blog/water-softener-with-galvanized-pipe/
 - **Hub:** H8
 - **Funnel role:** Prevents a genuinely damaging outcome; strong trust article
 - **Search intent:** Determine whether softening is safe on old galvanized plumbing
@@ -2187,7 +2187,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** State the risk honestly rather than burying it: in badly corroded galvanized systems, removing scale can expose weakened pipe walls and reveal leaks. Give the pipe assessment procedure, the flushing protocol, and the case for repiping first. Advice that may delay a sale, which is exactly why it earns trust.
 - **Links:** up H8; across "Why a Hardness Test Reads Zero but Scale Remains", "Can Scale Buildup Reduce Household Water Pressure?", "Can a Water Softener Protect Household Pipes?"
 
-### 171. How to Install a Whole-House Water Softener
+### 171. How to Install a Whole-House Water Softener ✅ Published — 2026-09-26 — /blog/how-to-install-a-whole-house-water-softener/
 - **Hub:** H8
 - **Funnel role:** Core DIY procedure; large audience, high engagement
 - **Search intent:** Complete an installation
@@ -2199,7 +2199,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A sequenced walkthrough with the tool and materials list built into the steps that need them, rather than as a separate page. Flag the three points where a mistake causes water damage, and give a realistic assessment of which parts a competent DIYer should hand to a plumber.
 - **Links:** up H8; across "Connecting a Softener to Copper, PEX, CPVC and Push-Fit", "Water Softener Startup Procedure After Installation", "Common Water Softener Installation Mistakes"
 
-### 172. Connecting a Softener to Copper, PEX, CPVC and Push-Fit
+### 172. Connecting a Softener to Copper, PEX, CPVC and Push-Fit ✅ Published — 2026-09-26 — /blog/connecting-a-softener-to-copper-pex-cpvc/
 - **Hub:** H8
 - **Funnel role:** Consolidates four pipe-material queries; practical execution detail
 - **Search intent:** Make the connection in a specific pipe material
@@ -2211,7 +2211,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** One page per material was four thin articles; one page covering all four with a shared decision on transition fittings is more useful, since most installs involve a transition anyway. Include the dielectric union question and the heat-shielding distance when soldering near a plastic valve body.
 - **Links:** up H8; across "How to Install a Whole-House Water Softener", "How a Softener Affects Plumbing Bonding and Grounding", "Common Water Softener Installation Mistakes"
 
-### 173. How to Confirm Water Flow Direction at a Softener Loop
+### 173. How to Confirm Water Flow Direction at a Softener Loop ✅ Published — 2026-09-26 — /blog/water-softener-loop-flow-direction/
 - **Hub:** H8
 - **Funnel role:** Prevents the most common and most invisible installation error
 - **Search intent:** Identify inlet and outlet on an existing loop
@@ -2223,7 +2223,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Three methods for identifying flow direction without cutting anything — the shutoff isolation test, the temperature trace, and the pressure-side check — plus the symptom pattern of a reversed installation, which reads exactly like a defective unit and is why it goes undiagnosed for months.
 - **Links:** up H8; across "Common Water Softener Installation Mistakes", "Why Water Is Still Hard After Installing a Softener", "Water Softener Planning for New Construction"
 
-### 174. How to Connect Water Softener Drain Tubing
+### 174. How to Connect Water Softener Drain Tubing ✅ Published — 2026-09-26 — /blog/how-to-connect-water-softener-drain-tubing/
 - **Hub:** H8, H9
 - **Funnel role:** Execution detail with code and flood implications
 - **Search intent:** Route and secure the drain line correctly
@@ -2235,7 +2235,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Photograph the four connections that commonly fail and the correct version of each, including clamp selection and support spacing. Tie directly to the air gap requirement so the reader does not solve a routing problem by creating a cross-connection.
 - **Links:** up H8, H9; across "Water Softener Drain Line Requirements", "Why a Water Softener Drain Needs an Air Gap", "Why a Water Softener Drain Line Leaks"
 
-### 175. Water Softener Startup Procedure After Installation
+### 175. Water Softener Startup Procedure After Installation ✅ Published — 2026-09-26 — /blog/water-softener-startup-procedure/
 - **Hub:** H8
 - **Funnel role:** Commissioning; determines whether the install actually succeeded
 - **Search intent:** Bring a new system safely into service
@@ -2247,7 +2247,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A single commissioning sequence combining slow fill, air purge, fines flush, leak test and initial regeneration, with the reason each step precedes the next. Rapid pressurization damaging a new bed is a real and common first-day failure that a separated set of articles never conveys as one process.
 - **Links:** up H8; across "How to Install a Whole-House Water Softener", "How to Set Water Hardness on a Control Valve", "How to Verify a Softener Is Producing Soft Water"
 
-### 176. How to Set Water Hardness on a Control Valve
+### 176. How to Set Water Hardness on a Control Valve ✅ Published — 2026-09-26 — /blog/how-to-set-hardness-on-a-water-softener/
 - **Hub:** H8
 - **Funnel role:** The single most consequential setting; wrong here means the system never performs
 - **Search intent:** Program the hardness value correctly
@@ -2259,7 +2259,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Lead with the units error that inflates or collapses salt use by a factor of seventeen, then cover the iron compensation, the clock setting that determines when regeneration actually happens, and the reprogramming triggers when source water changes. Include entry sequences for the common valve families.
 - **Links:** up H8; across "Why a Water Softener Uses Too Much Salt", "How Iron Changes Water Softener Sizing", "Why Water Hardness Changes by Season and Location"
 
-### 177. Common Water Softener Installation Mistakes
+### 177. Common Water Softener Installation Mistakes ✅ Published — 2026-09-26 — /blog/common-water-softener-installation-mistakes/
 - **Hub:** H8
 - **Funnel role:** High-engagement checklist; prevents callbacks and links across the batch
 - **Search intent:** Avoid or identify installation errors
@@ -2271,7 +2271,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Each mistake paired with the symptom it produces later, turning the article into a reverse diagnostic: a reader with a mysterious problem can work backwards to the installation error causing it. Photograph the wrong and right version of each.
 - **Links:** up H8; across "How to Confirm Water Flow Direction at a Softener Loop", "Why Water Is Still Hard After Installing a Softener", "Water Softener Drain Line Requirements"
 
-### 178. Do You Need a Permit to Install a Water Softener?
+### 178. Do You Need a Permit to Install a Water Softener? ✅ Published — 2026-09-26 — /blog/do-you-need-a-permit-for-a-water-softener/
 - **Hub:** H9
 - **Funnel role:** Compliance blocker; must be answered without giving false certainty
 - **Search intent:** Determine permit requirements before installing
@@ -2283,7 +2283,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Rather than guessing at national rules, teach the reader how to get a definitive answer for their own jurisdiction in one phone call, with the exact questions to ask. Cover the resale consequence of unpermitted work, which is the practical reason this matters.
 - **Links:** up H9; across "How a Softener Affects Plumbing Bonding and Grounding", "How to Inspect an Existing Softener After Moving In", "Water Softener Drain Line Requirements"
 
-### 179. How a Softener Affects Plumbing Bonding and Grounding
+### 179. How a Softener Affects Plumbing Bonding and Grounding ✅ Published — 2026-09-26 — /blog/water-softener-plumbing-bonding-and-grounding/
 - **Hub:** H9
 - **Funnel role:** Genuine electrical safety issue that almost no softener content covers
 - **Search intent:** Maintain electrical continuity after cutting into metal pipe
@@ -2295,7 +2295,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A real safety topic treated seriously: why metallic water pipe often carries a bonding path, how installing a plastic-bodied softener interrupts it, and how a bonding jumper is installed. Cite the NEC provisions and be explicit that this is an electrician's call where there is any doubt.
 - **Links:** up H9; across "Connecting a Softener to Copper, PEX, CPVC and Push-Fit", "Do You Need a Permit to Install a Water Softener", "Common Water Softener Installation Mistakes"
 
-### 180. Water Softener Drain Line Requirements
+### 180. Water Softener Drain Line Requirements ✅ Published — 2026-09-26 — /blog/water-softener-drain-line-requirements/
 - **Hub:** H9 (this is the hub page)
 - **Funnel role:** Code and function hub; determines several installation decisions
 - **Search intent:** Size, route and terminate a drain line correctly
@@ -2307,7 +2307,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Combine size, length and lift into a single constraint table, because they interact and the old plan treated them as three unrelated articles. Include the backpressure calculation and the observable symptom of an inadequate drain — a bed that channels for reasons nobody traces back to the drain line.
 - **Links:** down to all H9 spokes; across "How to Connect Water Softener Drain Tubing", "What Is Resin Channeling in a Water Softener", "Where Can a Water Softener Drain"
 
-### 181. Why a Water Softener Drain Needs an Air Gap
+### 181. Why a Water Softener Drain Needs an Air Gap ✅ Published — 2026-09-26 — /blog/water-softener-drain-air-gap/
 - **Hub:** H9
 - **Funnel role:** Non-negotiable code and health requirement
 - **Search intent:** Understand and build a compliant air gap
@@ -2319,7 +2319,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain the backflow scenario concretely so the requirement stops sounding bureaucratic, then show compliant and non-compliant terminations side by side with the required vertical separation. Include the fittings that make a compliant gap easy.
 - **Links:** up H9; across "Water Softener Drain Line Requirements", "Where Can a Water Softener Drain", "Does a Water Softener Need Backflow Protection"
 
-### 182. Where Can a Water Softener Drain?
+### 182. Where Can a Water Softener Drain? ✅ Published — 2026-09-26 — /blog/where-can-a-water-softener-drain/
 - **Hub:** H9
 - **Funnel role:** Consolidates seven near-duplicate destination queries into one authoritative comparison
 - **Search intent:** Find an acceptable drain destination
@@ -2331,7 +2331,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** One ranked table covering all seven destinations with the code position, the practical caveat and the failure mode of each — replacing seven thin pages that competed with each other in the old plan. Flag the sump pit case, which is frequently done and frequently prohibited, and the dry well and outdoor cases, which are restricted in many states.
 - **Links:** up H9; across "Water Softener Drain Line Requirements", "Water Softener Planning for a Home With Septic", "Softener Brine Restrictions and Drought Rules"
 
-### 183. How High Can a Softener Pump Its Drain Water?
+### 183. How High Can a Softener Pump Its Drain Water? ✅ Published — 2026-09-26 — /blog/water-softener-drain-lift-height/
 - **Hub:** H9
 - **Funnel role:** Feasibility constraint for basement and below-grade installs
 - **Search intent:** Determine whether an elevated drain will work
@@ -2343,7 +2343,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the lift limits by valve type against available line pressure, with the pressure-loss arithmetic, so a reader can check their own situation rather than guess. Cover drain pump selection and the float-switch failure mode that floods a basement.
 - **Links:** up H9; across "Water Softener Drain Line Requirements", "Installing a Softener Without a Drain or Outlet Nearby", "Minimum and Maximum Pressure for a Water Softener"
 
-### 184. Brine Tank Overflow Line Requirements
+### 184. Brine Tank Overflow Line Requirements ✅ Published — 2026-09-26 — /blog/brine-tank-overflow-line-requirements/
 - **Hub:** H9
 - **Funnel role:** Flood prevention; commonly omitted entirely during installation
 - **Search intent:** Install an overflow line correctly
@@ -2355,7 +2355,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain why joining the overflow to the drain line defeats both — a blocked drain then backs up through the overflow — which is the most common installation error here and the reason the two must terminate separately. Include correct height and termination.
 - **Links:** up H9; across "Why the Brine Tank Is Full of Water or Overflowing", "Brine Tank Internals: Float, Safety Float and Brine Well", "Water Softener Drain Line Requirements"
 
-### 185. Does a Water Softener Need Backflow Protection?
+### 185. Does a Water Softener Need Backflow Protection? ✅ Published — 2026-09-26 — /blog/water-softener-backflow-protection/
 - **Hub:** H9
 - **Funnel role:** Code compliance; relevant to permits and inspections
 - **Search intent:** Determine backflow requirements for a softener installation
@@ -2367,7 +2367,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Separate the two distinct protections that get conflated — the drain-side air gap and any supply-side device — and explain when each applies. Include how to verify local requirements and what an inspector will actually look for.
 - **Links:** up H9; across "Why a Water Softener Drain Needs an Air Gap", "Do You Need a Permit to Install a Water Softener", "Water Softener Drain Line Requirements"
 
-### 186. Minimum and Maximum Pressure for a Water Softener
+### 186. Minimum and Maximum Pressure for a Water Softener ✅ Published — 2026-09-26 — /blog/water-softener-pressure-requirements/
 - **Hub:** H9
 - **Funnel role:** Operating requirement that invalidates many installations; supports several fault articles
 - **Search intent:** Confirm supply pressure suits the equipment
@@ -2379,7 +2379,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Connect pressure directly to the faults it causes — no brine draw at the low end, component damage at the high end — so this reads as a diagnostic page rather than a spec sheet. Include pressure-reducing valve interaction and the thermal expansion issue a PRV creates on a closed system.
 - **Links:** up H9; across "What Does a Softener Injector or Venturi Do?", "Why Water Pressure Drops After a Softener", "Water Hammer and Pressure Surges After a Softener"
 
-### 187. How Water Softener Regeneration Works
+### 187. How Water Softener Regeneration Works ✅ Published — 2026-09-26 — /blog/how-water-softener-regeneration-works/
 - **Hub:** H8 (regeneration reference)
 - **Funnel role:** Foundational explainer supporting every settings and fault article
 - **Search intent:** Understand the regeneration cycle
@@ -2391,7 +2391,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Walk all five stages with duration, water use and purpose for each, then annotate the symptom that appears when each stage fails. Include what a homeowner can hear and see at each point, making the article usable while standing next to a running unit.
 - **Links:** up H8; across "Water Softener Control Valve: How It Works", "How to Start a Manual Regeneration Safely", "How Much Water Does Regeneration Use"
 
-### 188. How Often Should a Water Softener Regenerate?
+### 188. How Often Should a Water Softener Regenerate? ✅ Published — 2026-09-26 — /blog/how-often-should-a-water-softener-regenerate/
 - **Hub:** H8
 - **Funnel role:** Very high-volume operating question; ties to efficiency and capacity
 - **Search intent:** Judge whether regeneration frequency is correct
@@ -2403,7 +2403,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the expected frequency as a calculated result from capacity and household load rather than a flat rule, with a worksheet, then state the outer bounds that indicate a problem in either direction. Include the forced-regeneration interval that keeps an oversized bed healthy.
 - **Links:** up H8; across "Signs a Water Softener Is Undersized", "Can a Water Softener Be Too Large", "How to Set Capacity and Reserve on a Softener"
 
-### 189. How Long Does Water Softener Regeneration Take?
+### 189. How Long Does Water Softener Regeneration Take? ✅ Published — 2026-09-26 — /blog/how-long-does-water-softener-regeneration-take/
 - **Hub:** H8
 - **Funnel role:** Simple operating question; supports scheduling decisions
 - **Search intent:** Know the cycle duration and plan around it
@@ -2415,7 +2415,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Break the total into per-stage durations and explain which stages are adjustable and which are fixed by the valve, since owners trying to shorten a cycle usually adjust the wrong one. Include how a longer cycle can indicate a fault rather than a setting.
 - **Links:** up H8; across "How Water Softener Regeneration Works", "What Time Should a Water Softener Regenerate", "Can You Use Water While a Softener Regenerates"
 
-### 190. How Much Water Does Regeneration Use?
+### 190. How Much Water Does Regeneration Use? ✅ Published — 2026-09-26 — /blog/how-much-water-does-regeneration-use/
 - **Hub:** H8
 - **Funnel role:** Environmental and cost concern; a common objection to purchase
 - **Search intent:** Quantify and reduce regeneration water use
@@ -2427,7 +2427,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Put the number in context against total household consumption, since the objection is usually based on an inflated impression. Then give the concrete levers that reduce it — backwash duration, metered control, upflow brining — with the savings each delivers.
 - **Links:** up H8; across "How to Optimize Regeneration for Salt and Water Efficiency", "Metered vs Timer-Based Water Softeners", "How Much Water Does a Water Softener Use Each Year?"
 
-### 191. Can You Use Water While a Softener Regenerates?
+### 191. Can You Use Water While a Softener Regenerates? ✅ Published — 2026-09-26 — /blog/can-you-use-water-during-regeneration/
 - **Hub:** H8
 - **Funnel role:** Very common practical question; simple, high-volume
 - **Search intent:** Know whether to avoid water use during a cycle
@@ -2439,7 +2439,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the practical consequence rather than just permission: what actually reaches the tap during each stage, why hot water is affected for longer than cold, and the specific risk of drawing heavily during the brine draw stage. Include twin-tank behavior as the contrast.
 - **Links:** up H8; across "How Water Softener Regeneration Works", "Why Softened Water Tastes Salty", "Single-Tank vs Twin-Tank Water Softeners"
 
-### 192. What Time Should a Water Softener Regenerate?
+### 192. What Time Should a Water Softener Regenerate? ✅ Published — 2026-09-26 — /blog/what-time-should-a-water-softener-regenerate/
 - **Hub:** H8
 - **Funnel role:** Settings question with real performance consequences
 - **Search intent:** Choose a regeneration start time
@@ -2451,7 +2451,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover the clock-accuracy problem that makes this setting fail silently, and give the households where the default is wrong — night-shift workers, short-term rentals, multi-family. Include the immediate versus delayed regeneration choice and when immediate is genuinely better.
 - **Links:** up H8; across "How to Set Water Hardness on a Control Valve", "Why a Water Softener Keeps Losing Its Settings", "How Much Reserve Capacity Does a Softener Need"
 
-### 193. How to Set Capacity and Reserve on a Softener
+### 193. How to Set Capacity and Reserve on a Softener ✅ Published — 2026-09-26 — /blog/how-to-set-softener-capacity-and-reserve/
 - **Hub:** H8
 - **Funnel role:** Programming that determines efficiency and performance; consolidates a duplicate pair
 - **Search intent:** Enter capacity and reserve values correctly
@@ -2463,7 +2463,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** These were two competing articles in the old plan for what is one programming session. Cover both values together with the relationship between them, and the very common error of entering the advertised capacity rather than the capacity at the chosen salt dose.
 - **Links:** up H8; across "Advertised vs Usable Water Softener Capacity", "How Much Reserve Capacity Does a Softener Need", "How to Set the Salt Dose on a Water Softener"
 
-### 194. How to Set the Salt Dose on a Water Softener
+### 194. How to Set the Salt Dose on a Water Softener ✅ Published — 2026-09-26 — /blog/how-to-set-the-salt-dose-on-a-water-softener/
 - **Hub:** H8
 - **Funnel role:** The main efficiency lever; directly controls operating cost
 - **Search intent:** Choose and enter a salt setting
@@ -2475,7 +2475,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Publish the capacity-per-pound curve so readers can see the efficiency sweet spot, then show how to adjust dose on both electronic valves and float-height mechanical systems. Include the recalculation of capacity that must follow any dose change.
 - **Links:** up H8; across "How to Set Capacity and Reserve on a Softener", "What Is Water Softener Salt Efficiency", "Brine Tank Internals: Float, Safety Float and Brine Well"
 
-### 195. How to Optimize Regeneration for Salt and Water Efficiency
+### 195. How to Optimize Regeneration for Salt and Water Efficiency ✅ Published — 2026-09-26 — /blog/optimize-softener-for-salt-and-water-efficiency/
 - **Hub:** H8
 - **Funnel role:** Ongoing cost reduction; retention and authority article
 - **Search intent:** Tune a working system for lower running cost
@@ -2487,7 +2487,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A full tuning protocol with a measured before-and-after on one real system, documenting salt and water use per month at each stage of optimization. Include the point where further efficiency starts costing soft water, which is the boundary nobody publishes.
 - **Links:** up H8; across "How to Set the Salt Dose on a Water Softener", "What Is Water Softener Salt Efficiency", "How Much Water Does Regeneration Use"
 
-### 196. How Much Salt Does a Water Softener Use?
+### 196. How Much Salt Does a Water Softener Use? ✅ Published — 2026-09-26 — /blog/how-much-salt-does-a-water-softener-use/
 - **Hub:** H8
 - **Funnel role:** Top ownership-cost question; supports budgeting and fault detection
 - **Search intent:** Establish normal salt consumption
@@ -2499,7 +2499,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A calculator producing an expected monthly and annual figure from the reader's own numbers, which then doubles as a fault detector — consumption well above the expected figure points straight at the settings and valve faults covered elsewhere. Includes a refill scheduling table.
 - **Links:** up H8; across "Why a Water Softener Uses Too Much Salt", "How to Estimate Annual Water Softener Salt Cost", "How to Set the Salt Dose on a Water Softener"
 
-### 197. Water Softener Salt Types Compared
+### 197. Water Softener Salt Types Compared ✅ Published — 2026-09-26 — /blog/water-softener-salt-types-compared/
 - **Hub:** H8
 - **Funnel role:** Recurring purchase decision; consolidates five thin salt articles
 - **Search intent:** Choose a salt product
@@ -2511,7 +2511,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Dissolve equal weights of each salt grade and photograph the insoluble residue left behind, then convert that into a brine tank cleaning frequency and a cost-per-year comparison that accounts for the cleaning labor. Turns five competing pages into one evidence-based buying guide.
 - **Links:** up H8; across "What Salt Works Best With Iron in Well Water?", "What Causes Salt Mushing in a Brine Tank?", "Potassium Chloride vs Sodium Chloride in a Softener"
 
-### 198. Potassium Chloride vs Sodium Chloride in a Softener
+### 198. Potassium Chloride vs Sodium Chloride in a Softener ✅ Published — 2026-09-26 — /blog/potassium-chloride-vs-sodium-chloride-softener/
 - **Hub:** H8
 - **Funnel role:** Health and environmental decision with a significant cost difference
 - **Search intent:** Decide between two regenerant chemistries
@@ -2531,7 +2531,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 
 ---
 
-### 199. How Much Does Water Softener Installation Cost?
+### 199. How Much Does Water Softener Installation Cost? ✅ Published — 2026-09-26 — /blog/water-softener-installation-cost/
 - **Hub:** H10 (this is the hub page)
 - **Funnel role:** Primary budgeting query; hub for all cost content
 - **Search intent:** Establish a realistic installed price
@@ -2543,7 +2543,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Break cost into the components that actually vary between quotes, so a reader can understand why two bids differ rather than just seeing a national average. Include the resale-value question honestly — a softener rarely appraises as added value but does remove an objection in hard-water markets.
 - **Links:** down to all H10 spokes; across "Total Cost of Owning a Water Softener", "Renting vs Owning a Water Softener", "Are Water Softener Rebates or Tax Credits Available"
 
-### 200. Total Cost of Owning a Water Softener
+### 200. Total Cost of Owning a Water Softener ✅ Published — 2026-09-26 — /blog/total-cost-of-owning-a-water-softener/
 - **Hub:** H10
 - **Funnel role:** Full lifecycle economics; supports the buy decision and the salt-free comparison
 - **Search intent:** Understand ten-year cost, not just purchase price
@@ -2555,7 +2555,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A complete ten-year model with every line item, run at three hardness levels so readers can locate themselves on it. Then the offsetting side — detergent, appliance life, heating efficiency — presented with honest uncertainty ranges rather than the inflated savings claims common in the industry.
 - **Links:** up H10; across "How Much Does Water Softener Installation Cost", "How to Estimate Annual Water Softener Salt Cost", "Do You Actually Need a Whole-House Water Softener"
 
-### 201. Common Water Softener Repair Costs Explained
+### 201. Common Water Softener Repair Costs Explained ✅ Published — 2026-09-26 — /blog/water-softener-repair-costs/
 - **Hub:** H10
 - **Funnel role:** Directly precedes the repair-or-replace decision; high commercial intent
 - **Search intent:** Price a specific repair before authorizing it
@@ -2567,7 +2567,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A parts-cost table listing the actual price of common components alongside typical installed pricing, so a reader can evaluate a quote rather than accept it blind. Include the resin replacement and control valve replacement cases specifically, since those are the two that trigger the replacement conversation.
 - **Links:** up H10; across "Should You Repair or Replace an Old Water Softener", "How to Clean and Service a Water Softener Control Valve", "Water Softener Resin Life and When to Replace It"
 
-### 202. Renting vs Owning a Water Softener
+### 202. Renting vs Owning a Water Softener ✅ Published — 2026-09-26 — /blog/renting-vs-buying-a-water-softener/
 - **Hub:** H10
 - **Funnel role:** Major purchase-model fork; rental contracts are a common regret
 - **Search intent:** Compare rental and purchase economics
@@ -2579,7 +2579,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A break-even calculation across typical rental rates and purchase prices, plus a contract-terms checklist covering the clauses that cause problems: minimum terms, removal fees, transfer on home sale, and who owns the equipment at the end. Practical consumer protection.
 - **Links:** up H10; across "How Much Does Water Softener Installation Cost", "Is a Water Softener Service Contract Worth It", "Portable Exchange Tank vs Installed Softener"
 
-### 203. Is a Water Softener Service Contract Worth It?
+### 203. Is a Water Softener Service Contract Worth It? ✅ Published — 2026-09-26 — /blog/water-softener-service-contract-worth-it/
 - **Hub:** H10
 - **Funnel role:** Recurring-cost decision; frequently mis-sold
 - **Search intent:** Evaluate a maintenance agreement
@@ -2591,7 +2591,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Compare what a typical contract covers against the DIY maintenance schedule elsewhere in this plan, item by item, and identify the genuine exceptions — multi-stage well treatment, and warranties that require documented professional service. Include the questions that expose a thin contract.
 - **Links:** up H10; across "Water Softener Maintenance Schedule: Monthly and Annual", "Signs a Water Softener Needs Professional Service", "How to Read a Water Softener Warranty"
 
-### 204. Should You Repair or Replace an Old Water Softener?
+### 204. Should You Repair or Replace an Old Water Softener? ✅ Published — 2026-09-26 — /blog/repair-or-replace-an-old-water-softener/
 - **Hub:** H10
 - **Funnel role:** The highest-value decision page in this batch; direct commercial handoff
 - **Search intent:** Decide between fixing and replacing
@@ -2603,7 +2603,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A decision matrix crossing system age against the failed component, with a repair-cost threshold expressed as a percentage of replacement. Include the efficiency argument — a fifteen-year-old timer unit can cost more in salt each year than the amortized price of a new metered one — which changes the answer for many readers.
 - **Links:** up H10; across "Common Water Softener Repair Costs Explained", "Signs a Water Softener Is Near the End of Its Life", "Metered vs Timer-Based Water Softeners"
 
-### 205. How Long Does a Whole-House Water Softener Last?
+### 205. How Long Does a Whole-House Water Softener Last? ✅ Published — 2026-09-26 — /blog/how-long-does-a-water-softener-last/
 - **Hub:** H10
 - **Funnel role:** Expectation setting; supports both purchase and replacement decisions
 - **Search intent:** Estimate service life
@@ -2615,7 +2615,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give separate expected lifespans for the three major components rather than one figure for the system, since that is what determines whether a failure is repairable. Include the water conditions that shorten each, so readers on chlorinated or iron-bearing supplies can adjust the estimate to their own situation.
 - **Links:** up H10; across "Signs a Water Softener Is Near the End of Its Life", "Water Softener Resin Life and When to Replace It", "Should You Repair or Replace an Old Water Softener"
 
-### 206. Signs a Water Softener Is Near the End of Its Life
+### 206. Signs a Water Softener Is Near the End of Its Life ✅ Published — 2026-09-26 — /blog/signs-a-water-softener-needs-replacing/
 - **Hub:** H10, H4
 - **Funnel role:** Bridges troubleshooting into replacement; well-qualified intent
 - **Search intent:** Recognize terminal decline versus a fixable fault
@@ -2627,7 +2627,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Distinguish decline from failure using the capacity trend log introduced in the maintenance article — a system losing capacity steadily over two years is a different situation from one that failed last week. Include the cumulative-repair-spend threshold that should stop further investment.
 - **Links:** up H10, H4; across "Should You Repair or Replace an Old Water Softener", "Water Softener Maintenance Schedule: Monthly and Annual", "Water Softener Resin Life and When to Replace It"
 
-### 207. Can a Water Softener Be Moved to a New House?
+### 207. Can a Water Softener Be Moved to a New House? ✅ Published — 2026-09-26 — /blog/moving-a-water-softener-to-a-new-house/
 - **Hub:** H10
 - **Funnel role:** Relocation decision; also a resale consideration
 - **Search intent:** Decide whether to take an existing system when moving
@@ -2639,7 +2639,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Frame it as a sizing question rather than a logistics one: a unit correctly sized for 12 grain water is wrong for 30 grain water, and moving it just relocates a problem. Include the removal, transport and reinstallation procedure, plus resin preservation during storage.
 - **Links:** up H10; across "How to Calculate the Right Water Softener Size", "How to Inspect an Existing Softener After Moving In", "Water Softener Startup Procedure After Installation"
 
-### 208. How to Read a Water Softener Warranty
+### 208. How to Read a Water Softener Warranty ✅ Published — 2026-09-26 — /blog/how-to-read-a-water-softener-warranty/
 - **Hub:** H10
 - **Funnel role:** Purchase-protection literacy; consolidates three claim-reading articles
 - **Search intent:** Understand what a warranty actually covers
@@ -2651,7 +2651,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Compare actual warranty documents from several manufacturers side by side, highlighting the exclusion clauses that matter most: self-installation, untested well water, freeze damage, and required documented maintenance. Include the pre-purchase questions that reveal a weak warranty.
 - **Links:** up H10; across "How to Compare Water Softener Spec Sheets", "Is a Water Softener Service Contract Worth It", "Salt-Free Conditioning for Tankless Heaters and Boilers"
 
-### 209. Does Homeowners Insurance Cover Softener Leaks?
+### 209. Does Homeowners Insurance Cover Softener Leaks? ✅ Published — 2026-09-26 — /blog/homeowners-insurance-water-softener-leak/
 - **Hub:** H10
 - **Funnel role:** Risk topic with genuine financial stakes; very low competition
 - **Search intent:** Understand coverage for water damage from a softener
@@ -2663,7 +2663,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain the sudden-versus-gradual distinction that determines most claim outcomes, and connect it directly to the maintenance log elsewhere in this plan — that log is the evidence that turns a denied gradual-damage claim into a covered sudden one. Include prevention measures insurers credit.
 - **Links:** up H10; across "Water Softener Maintenance Schedule: Monthly and Annual", "Why the Brine Tank Is Full of Water or Overflowing", "What to Do With a Softener After Basement Flooding"
 
-### 210. Are Water Softener Rebates or Tax Credits Available?
+### 210. Are Water Softener Rebates or Tax Credits Available? ✅ Published — 2026-09-26 — /blog/water-softener-rebates-and-incentives/
 - **Hub:** H10
 - **Funnel role:** Reduces effective purchase price; drives efficiency-rated purchases
 - **Search intent:** Find financial incentives
@@ -2675,7 +2675,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Correct a widespread false claim — softeners are generally not eligible for federal energy tax credits — while pointing to the incentives that are real, mostly water-utility efficiency programs tied to demand-initiated regeneration. Include how to search for local programs and the certification usually required.
 - **Links:** up H10; across "Metered vs Timer-Based Water Softeners", "What Is Water Softener Salt Efficiency", "How Much Does Water Softener Installation Cost"
 
-### 211. One Softener for Multiple Units: Duplex and Apartments
+### 211. One Softener for Multiple Units: Duplex and Apartments ✅ Published — 2026-09-26 — /blog/one-water-softener-for-multiple-units/
 - **Hub:** H8, H10
 - **Funnel role:** Multi-family sizing and metering; underserved audience
 - **Search intent:** Determine whether one system can serve several units
@@ -2687,7 +2687,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Handle the diversity factor properly — simultaneous demand across units does not scale linearly with occupancy — and give a sizing method for multi-family peak flow. Then the non-technical problems that actually derail these installs: who pays for salt, who has access, and what happens between tenants.
 - **Links:** up H8, H10; across "Grain Capacity vs Peak Flow Rate", "Water Softeners in Rentals: Landlord and Tenant", "How to Calculate the Right Water Softener Size"
 
-### 212. Water Softeners in Rentals: Landlord and Tenant
+### 212. Water Softeners in Rentals: Landlord and Tenant ✅ Published — 2026-09-26 — /blog/water-softeners-in-rental-properties/
 - **Hub:** H8, H10
 - **Funnel role:** Serves a large ignored audience; consolidates a duplicate pair
 - **Search intent:** Determine responsibility and what a tenant may install
@@ -2699,7 +2699,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover both sides of the same relationship in one page rather than two competing ones, including the fixture question — a permanently plumbed softener may legally become part of the property — and the non-permanent alternatives a tenant can install and take with them.
 - **Links:** up H8, H10; across "Portable Exchange Tank vs Installed Softener", "Water Softeners in Condos, Apartments and HOA Properties", "One Softener for Multiple Units: Duplex and Apartments"
 
-### 213. Water Softener Planning During a Remodel
+### 213. Water Softener Planning During a Remodel ✅ Published — 2026-09-26 — /blog/water-softener-planning-during-a-remodel/
 - **Hub:** H8
 - **Funnel role:** Renovation trigger; well-timed intent
 - **Search intent:** Add or relocate a softener during renovation work
@@ -2711,7 +2711,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A remodel-stage timeline showing what to decide and install at each phase, plus the safe shutdown and protection procedure for an existing unit during construction — including protecting the resin from the debris and pressure surges that follow any plumbing work.
 - **Links:** up H8; across "Water Softener Planning for New Construction", "How to Resize a Softener After Adding a Bathroom", "Why Air Appears in Faucets After Softener Service"
 
-### 214. How to Inspect an Existing Softener After Moving In
+### 214. How to Inspect an Existing Softener After Moving In ✅ Published — 2026-09-26 — /blog/inspecting-a-water-softener-after-moving-in/
 - **Hub:** H10
 - **Funnel role:** New-homeowner entry point; excellent acquisition timing
 - **Search intent:** Assess an inherited system of unknown history
@@ -2723,7 +2723,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A complete inherited-system assessment: decoding the date from the serial number by manufacturer, checking whether programmed hardness matches the actual supply (it usually does not after a source change), and running one manual regeneration as a functional test. Doubles as a home-inspection guide for buyers.
 - **Links:** up H10; across "How to Verify a Softener Is Producing Soft Water", "How to Set Water Hardness on a Control Valve", "Should You Repair or Replace an Old Water Softener"
 
-### 215. Should Outdoor Faucets Bypass a Water Softener?
+### 215. Should Outdoor Faucets Bypass a Water Softener? ✅ Published — 2026-09-26 — /blog/should-outdoor-faucets-bypass-a-water-softener/
 - **Hub:** H8
 - **Funnel role:** Design decision that saves salt and protects plants
 - **Search intent:** Decide whether to soften outdoor water
@@ -2735,7 +2735,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Quantify the wasted capacity from irrigation, then cover the soil chemistry properly — sodium accumulation degrades soil structure, which is a real agronomic effect rather than a marketing claim. Include how to add a bypass branch to an existing installation.
 - **Links:** up H8; across "Softened Water for Pets, Plants, Gardens and Aquariums", "Where Should a Whole-House Water Softener Be Installed", "How to Calculate the Right Water Softener Size"
 
-### 216. Should a Kitchen Drinking Tap Bypass the Softener?
+### 216. Should a Kitchen Drinking Tap Bypass the Softener? ✅ Published — 2026-09-26 — /blog/should-a-kitchen-tap-bypass-the-softener/
 - **Hub:** H8, H11
 - **Funnel role:** Resolves the sodium objection; common design question
 - **Search intent:** Decide whether to leave one tap unsoftened
@@ -2747,7 +2747,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Present the three options — bypass tap, softened throughout, or softened plus point-of-use RO — with the tradeoff of each stated plainly. Point out the flaw in the bypass approach that most installers never mention: it delivers raw water, including whatever contaminants prompted treatment in the first place.
 - **Links:** up H8, H11; across "How Much Sodium Does a Water Softener Add", "How Reverse Osmosis and a Water Softener Work Together", "Point-of-Entry vs Point-of-Use Water Softening"
 
-### 217. Water Softener Care for Seasonal Homes and Cabins
+### 217. Water Softener Care for Seasonal Homes and Cabins ✅ Published — 2026-09-26 — /blog/water-softener-care-for-seasonal-homes/
 - **Hub:** H10
 - **Funnel role:** Underserved niche with genuine, specific problems
 - **Search intent:** Maintain a system used intermittently
@@ -2759,7 +2759,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover the two failure modes specific to intermittent use — bed stagnation and brine tank bridging — with a proper shutdown protocol and a restart-and-sanitize procedure. Include low-use permanent households, which face the same stagnation problem without ever closing the property.
 - **Links:** up H10; across "How to Winterize a Water Softener", "How to Sanitize a Water Softener", "How to Put a Water Softener in Vacation Mode"
 
-### 218. How to Dispose of Old Softener Resin and Components
+### 218. How to Dispose of Old Softener Resin and Components ✅ Published — 2026-09-26 — /blog/disposing-of-old-softener-resin-and-components/
 - **Hub:** H10
 - **Funnel role:** End-of-life practicality; low competition, genuine need
 - **Search intent:** Dispose of equipment responsibly
@@ -2771,7 +2771,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give practical disposal routes for each component — resin, fiberglass tank, brine tank, control valve — including scrap value where it exists and the rinse step that matters before disposal. Cover the iron-fouled resin case, which some jurisdictions treat differently.
 - **Links:** up H10; across "Water Softener Resin Life and When to Replace It", "Should You Repair or Replace an Old Water Softener", "Where Water Softener Regeneration Waste Goes"
 
-### 219. How to Put a Water Softener in Vacation Mode
+### 219. How to Put a Water Softener in Vacation Mode ✅ Published — 2026-09-26 — /blog/water-softener-vacation-mode/
 - **Hub:** H10
 - **Funnel role:** Seasonal, recurring search; simple and useful
 - **Search intent:** Prepare a system for an absence and restart it after
@@ -2783,7 +2783,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give a duration-based decision — different actions for a week, a month, and a season — rather than one blanket procedure, plus the restart sequence including whether a sanitize is warranted. Covers the whole departure-and-return cycle that the old plan split across four articles.
 - **Links:** up H10; across "Water Softener Care for Seasonal Homes and Cabins", "How to Sanitize a Water Softener", "How to Winterize a Water Softener"
 
-### 220. Water Main Breaks and Supply Outages: Protecting Your Softener
+### 220. Water Main Breaks and Supply Outages: Protecting Your Softener ✅ Published — 2026-09-26 — /blog/water-main-break-and-your-water-softener/
 - **Hub:** H10
 - **Funnel role:** Emergency guidance; consolidates several event-based articles
 - **Search intent:** Protect a softener during a supply disruption
@@ -2795,7 +2795,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** One protocol covering every supply-disruption event — main break, outage, storm, wildfire-related disruption — because the softener response is identical in all of them: bypass, wait, flush, reconnect. Include the pressure-surge risk on restoration and how to know when the supply has cleared.
 - **Links:** up H10; across "When to Replace a Sediment Prefilter Before a Softener", "Why Air Appears in Faucets After Softener Service", "What to Do With a Softener During a Boil-Water Notice"
 
-### 221. What to Do With a Softener During a Boil-Water Notice
+### 221. What to Do With a Softener During a Boil-Water Notice ✅ Published — 2026-09-26 — /blog/boil-water-notice-and-your-water-softener/
 - **Hub:** H10
 - **Funnel role:** Public-health event guidance; must be accurate and cautious
 - **Search intent:** Handle a softener safely during a contamination advisory
@@ -2807,7 +2807,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Be unambiguous that softening provides no microbiological protection, then give the during-and-after protocol including the sanitization step most utilities' guidance omits for treatment equipment. Cite CDC and EPA guidance directly, since this is a health-adjacent topic where accuracy is non-negotiable.
 - **Links:** up H10; across "How to Sanitize a Water Softener", "What a Water Softener Does Not Remove", "Water Main Breaks and Supply Outages: Protecting Your Softener"
 
-### 222. Where Water Softener Regeneration Waste Goes
+### 222. Where Water Softener Regeneration Waste Goes ✅ Published — 2026-09-26 — /blog/where-water-softener-regeneration-waste-goes/
 - **Hub:** H10
 - **Funnel role:** Environmental transparency; supports the discharge and septic decisions
 - **Search intent:** Understand what leaves the system and where it ends up
@@ -2819,7 +2819,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the actual discharge composition and volume per cycle, then follow it through both a municipal plant and a septic field. Explaining that chloride passes through conventional treatment unchanged is the fact behind every local brine restriction, and it makes the regulation comprehensible rather than arbitrary.
 - **Links:** up H10; across "Softener Brine Restrictions and Drought Rules", "Water Softener Planning for a Home With Septic", "How Softener Brine Affects Municipal Wastewater Treatment"
 
-### 223. Softener Brine Restrictions and Drought Rules
+### 223. Softener Brine Restrictions and Drought Rules ✅ Published — 2026-09-26 — /blog/water-softener-brine-restrictions/
 - **Hub:** H10
 - **Funnel role:** Regional compliance; can determine whether a purchase is legal
 - **Search intent:** Check local restrictions before buying
@@ -2831,7 +2831,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Map the jurisdictions with known restrictions and explain the chloride-loading reason behind them, then give the compliant alternatives in restricted areas — portable exchange service, high-efficiency certified units, salt-free conditioning. Include how to verify current local rules, since these change.
 - **Links:** up H10; across "Where Water Softener Regeneration Waste Goes", "Portable Exchange Tank vs Installed Softener", "Salt-Based vs Salt-Free Water Treatment"
 
-### 224. What Is Water Softener Salt Efficiency?
+### 224. What Is Water Softener Salt Efficiency? ✅ Published — 2026-09-26 — /blog/water-softener-salt-efficiency/
 - **Hub:** H10
 - **Funnel role:** The efficiency metric behind certification, rebates and running cost
 - **Search intent:** Understand and compare efficiency ratings
@@ -2843,7 +2843,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain why efficiency and capacity move in opposite directions, which is the fact that makes "high capacity" and "high efficiency" marketing claims mutually contradictory on the same unit at the same setting. Include the certification threshold and how to read an efficiency claim critically.
 - **Links:** up H10; across "How to Set the Salt Dose on a Water Softener", "Advertised vs Usable Water Softener Capacity", "Are Water Softener Rebates or Tax Credits Available"
 
-### 225. How Much Water Does a Water Softener Use Each Year?
+### 225. How Much Water Does a Water Softener Use Each Year? ✅ Published — 2026-09-26 — /blog/how-much-water-does-a-softener-use-per-year/
 - **Hub:** H10
 - **Funnel role:** Answers a common environmental objection with real numbers
 - **Search intent:** Quantify annual water consumption
@@ -2855,7 +2855,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Put regeneration water use in proportion against total household consumption and against a single leaking toilet, since the objection is usually based on an inflated impression. Then show the timer-versus-metered difference, which is the change that actually moves the number.
 - **Links:** up H10; across "How Much Water Does Regeneration Use", "Metered vs Timer-Based Water Softeners", "How to Optimize Regeneration for Salt and Water Efficiency"
 
-### 226. How a Water Softener Can Affect the Water Bill
+### 226. How a Water Softener Can Affect the Water Bill ✅ Published — 2026-09-26 — /blog/does-a-water-softener-increase-your-water-bill/
 - **Hub:** H10
 - **Funnel role:** Direct cost concern; also a fault-detection signal
 - **Search intent:** Understand the bill impact of adding a softener
@@ -2867,7 +2867,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Include the sewer-charge effect most articles miss — many utilities bill sewer on metered water, so regeneration water can be charged twice. Then turn the bill into a diagnostic: a sharp unexplained increase points at a continuously draining valve, one of the costliest faults in the plan.
 - **Links:** up H10; across "Why a Water Softener Keeps Draining", "How Much Water Does a Water Softener Use Each Year?", "Total Cost of Owning a Water Softener"
 
-### 227. How Much Electricity Does a Water Softener Use?
+### 227. How Much Electricity Does a Water Softener Use? ✅ Published — 2026-09-26 — /blog/how-much-electricity-does-a-water-softener-use/
 - **Hub:** H10
 - **Funnel role:** Small but frequently asked cost component
 - **Search intent:** Quantify power consumption
@@ -2879,7 +2879,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Answer the direct question quickly with measured figures, then redirect to the energy effect that genuinely matters: scale on a heating element measurably raises water heating cost, which dwarfs the valve's own consumption. Include that calculation with sourced scale-conductivity data.
 - **Links:** up H10; across "Total Cost of Owning a Water Softener", "Hard Water Sediment in a Storage Water Heater", "Electric vs Non-Electric Water Softeners"
 
-### 228. Annual Water Softener Maintenance Cost
+### 228. Annual Water Softener Maintenance Cost ✅ Published — 2026-09-26 — /blog/annual-water-softener-maintenance-cost/
 - **Hub:** H10
 - **Funnel role:** Budgeting line item; supports the service contract decision
 - **Search intent:** Budget for yearly upkeep
@@ -2899,7 +2899,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 
 ---
 
-### 229. How Much Sodium Does a Water Softener Add?
+### 229. How Much Sodium Does a Water Softener Add? ✅ Published — 2026-09-26 — /blog/sodium-in-softened-water/
 - **Hub:** H11 (this is the hub page)
 - **Funnel role:** The most common health objection to softening; must be answered with real numbers
 - **Search intent:** Quantify added sodium and judge whether it matters
@@ -2911,7 +2911,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Publish the calculation so readers can work out their own figure from their own hardness, then place the result against everyday food comparisons and FDA sodium labelling thresholds. Include the potassium chloride figure for the same water, which answers the follow-up question in the same page.
 - **Links:** down to all H11 spokes; across "Is Softened Water Suitable for Drinking", "Potassium Chloride vs Sodium Chloride in a Softener", "Is Softened Water Suitable for Drinking?"
 
-### 230. Is Softened Water Suitable for Drinking?
+### 230. Is Softened Water Suitable for Drinking? ✅ Published — 2026-09-26 — /blog/is-softened-water-safe-to-drink/
 - **Hub:** H11
 - **Funnel role:** High-volume health question; carries real trust weight
 - **Search intent:** Decide whether to drink softened water
@@ -2923,7 +2923,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Distinguish the general population answer from the specific exceptions, citing published guidance rather than opinion, and cover the low-sodium diet case with the actual contribution calculated as a percentage of daily intake. Be explicit about where a reader should ask a clinician rather than a water site.
 - **Links:** up H11; across "How Much Sodium Does a Water Softener Add", "Should Softened Water Be Used for Baby Formula", "Should a Kitchen Drinking Tap Bypass the Softener?"
 
-### 231. Should Softened Water Be Used for Baby Formula?
+### 231. Should Softened Water Be Used for Baby Formula? ✅ Published — 2026-09-26 — /blog/softened-water-for-baby-formula/
 - **Hub:** H11
 - **Funnel role:** High-concern query requiring careful, sourced handling
 - **Search intent:** Determine safety for infant feeding
@@ -2935,7 +2935,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the conservative answer clearly and explain the reasoning (infant sodium tolerance relative to body mass), citing published infant-feeding guidance. Then the practical solution: which tap to use, and why a bypassed cold tap is worth planning at installation for households with young children.
 - **Links:** up H11; across "How Much Sodium Does a Water Softener Add", "Should a Kitchen Drinking Tap Bypass the Softener?", "Is Softened Water Suitable for Drinking?"
 
-### 232. Softened Water for Pets, Plants, Gardens and Aquariums
+### 232. Softened Water for Pets, Plants, Gardens and Aquariums ✅ Published — 2026-09-26 — /blog/softened-water-for-pets-plants-and-aquariums/
 - **Hub:** H11
 - **Funnel role:** Consolidates four related concerns; each genuinely different underneath
 - **Search intent:** Determine suitability for animals and plants
@@ -2947,7 +2947,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** One page but four honest answers, because the correct response genuinely differs: pets are generally fine, houseplants tolerate it poorly, garden soil accumulates sodium, and aquarium fish depend on hardness for osmoregulation. Include the small-pet and reptile exceptions where sodium load matters more.
 - **Links:** up H11; across "Should Outdoor Faucets Bypass a Water Softener", "How Much Sodium Does a Water Softener Add", "Is Softened Water Suitable for Drinking?"
 
-### 233. How Softened Water Changes Coffee, Tea and Cooking
+### 233. How Softened Water Changes Coffee, Tea and Cooking ✅ Published — 2026-09-26 — /blog/softened-water-coffee-tea-and-cooking/
 - **Hub:** H11
 - **Funnel role:** Lifestyle topic with an engaged specialist audience
 - **Search intent:** Understand taste and extraction effects
@@ -2959,7 +2959,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Bring in the SCA water standard, which specifies a hardness range rather than zero, and explain why espresso machines want softened water for scale protection while the brew itself wants some mineral content. That tension is real, under-covered, and this audience shares good content.
 - **Links:** up H11; across "Scale in Kettles, Coffee Makers and Steam Irons", "Should a Kitchen Drinking Tap Bypass the Softener?", "Can Household Water Be Too Soft?"
 
-### 234. Can Softened Water Be Used in Pools and Hot Tubs?
+### 234. Can Softened Water Be Used in Pools and Hot Tubs? ✅ Published — 2026-09-26 — /blog/softened-water-in-pools-and-hot-tubs/
 - **Hub:** H11
 - **Funnel role:** Distinct audience; genuine technical answer
 - **Search intent:** Decide whether to fill from a softened supply
@@ -2971,7 +2971,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain calcium hardness as a required pool water parameter, not a contaminant, and why filling soft then adding calcium chloride is a costly way to undo your own treatment. Include the fill strategy for households where the only outdoor supply is softened, and the vinyl-liner exception.
 - **Links:** up H11; across "Should Outdoor Faucets Bypass a Water Softener", "Can Household Water Be Too Soft?", "How to Interpret pH and Hardness Together"
 
-### 235. How Soft Water Changes Hair and Skin Washing
+### 235. How Soft Water Changes Hair and Skin Washing ✅ Published — 2026-09-26 — /blog/washing-hair-and-skin-with-soft-water/
 - **Hub:** H11
 - **Funnel role:** Adaptation guidance for new owners; retention content
 - **Search intent:** Adjust washing routine after installation
@@ -2983,7 +2983,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give concrete starting dose reductions rather than telling people to "use less", and address the adjustment period honestly — hair often feels different for a week or two while residual mineral buildup clears. Managing that expectation prevents the complaint that the softener made things worse.
 - **Links:** up H11; across "Why Soft Water Feels Slippery", "How Much Soap and Detergent to Use With Soft Water", "Why Dry Skin Can Continue After Installing a Softener"
 
-### 236. How Much Soap and Detergent to Use With Soft Water
+### 236. How Much Soap and Detergent to Use With Soft Water ✅ Published — 2026-09-26 — /blog/how-much-detergent-to-use-with-soft-water/
 - **Hub:** H11
 - **Funnel role:** Where the promised savings are actually realized; practical and shareable
 - **Search intent:** Adjust product dosing after softening
@@ -2995,7 +2995,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A product-by-product dosing table with measured starting points, plus the annual saving calculated at real prices. Critically, it explains that most complaints about soft water performance — dull laundry, filmy dishes, etched glass — are overdosing symptoms, which resolves several support issues in one page.
 - **Links:** up H11; across "Why Laundry Feels Stiff After Washing", "Why White Spots and Soap Scum Remain After Softening", "How to Adjust a Dishwasher After Installing a Softener"
 
-### 237. How Softened Water Affects a Washing Machine
+### 237. How Softened Water Affects a Washing Machine ✅ Published — 2026-09-26 — /blog/softened-water-and-washing-machines/
 - **Hub:** H11
 - **Funnel role:** Appliance benefit article; supports the payback case
 - **Search intent:** Understand laundry results and machine longevity
@@ -3007,7 +3007,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover the transition period specifically: the first several loads on newly softened water often perform worse because of accumulated detergent residue in fabrics, and a strip wash resolves it. That is a real, confusing, widely experienced effect that almost no content explains.
 - **Links:** up H11; across "How Much Soap and Detergent to Use With Soft Water", "Why Laundry Feels Stiff After Washing", "Total Cost of Owning a Water Softener"
 
-### 238. How a Water Softener Affects a Storage Water Heater
+### 238. How a Water Softener Affects a Storage Water Heater ✅ Published — 2026-09-26 — /blog/water-softener-and-storage-water-heater/
 - **Hub:** H11
 - **Funnel role:** The main equipment-protection benefit; central to the payback argument
 - **Search intent:** Understand the effect on heater life and efficiency
@@ -3019,7 +3019,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover the anode rod effect properly — softened water increases anode consumption, so a tank on soft water needs the rod checked sooner, not later. That is a real maintenance implication the industry rarely mentions because it complicates the benefit story, and covering it is exactly what builds authority.
 - **Links:** up H11; across "Hard Water Sediment in a Storage Water Heater", "How Much Electricity Does a Water Softener Use", "Can a Water Softener Protect Household Pipes?"
 
-### 239. How Softened Water Affects a Tankless Water Heater
+### 239. How Softened Water Affects a Tankless Water Heater ✅ Published — 2026-09-26 — /blog/softened-water-and-tankless-water-heaters/
 - **Hub:** H11
 - **Funnel role:** High-value equipment protection; warranty implications
 - **Search intent:** Protect a tankless unit and satisfy its warranty
@@ -3031,7 +3031,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Quote actual manufacturer water-quality requirements and show how softening changes both the required flush interval and warranty standing. Include the whole-home design case where a tankless heater is the entire justification for the softener, with the payback calculated against heat exchanger replacement cost.
 - **Links:** up H11; across "Signs of Scale Inside a Tankless Water Heater", "Salt-Free Conditioning for Tankless Heaters and Boilers", "How to Read a Water Softener Warranty"
 
-### 240. How to Adjust a Dishwasher After Installing a Softener
+### 240. How to Adjust a Dishwasher After Installing a Softener ✅ Published — 2026-09-26 — /blog/adjusting-a-dishwasher-after-a-water-softener/
 - **Hub:** H11
 - **Funnel role:** Immediate post-install action; prevents a common complaint
 - **Search intent:** Reconfigure a dishwasher for soft water
@@ -3043,7 +3043,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Cover the built-in water softener setting found on European-brand machines, which must be turned down when a whole-house unit is installed and which almost no US content mentions. Include the etching risk timeline, since permanent glass damage from unchanged dosing happens faster than most people expect.
 - **Links:** up H11; across "Cloudy Glasses After Dishwashing: Etching or Hard Water?", "Why a Dishwasher Leaves a White Film on Dishes", "How Much Soap and Detergent to Use With Soft Water"
 
-### 241. Softened Water in Boilers and Hydronic Heating Systems
+### 241. Softened Water in Boilers and Hydronic Heating Systems ✅ Published — 2026-09-26 — /blog/softened-water-in-boilers-and-hydronic-systems/
 - **Hub:** H11
 - **Funnel role:** Specialist equipment; consolidates three thin articles into a genuine technical page
 - **Search intent:** Determine suitability for closed and combi heating systems
@@ -3055,7 +3055,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Distinguish combi boilers (which continuously draw fresh water and benefit clearly) from closed hydronic loops (which are filled once and where softening alone is insufficient without inhibitor). Conflating the two is a real and expensive error, and separating them properly is what makes this page worth citing.
 - **Links:** up H11; across "Salt-Free Conditioning for Tankless Heaters and Boilers", "Can a Water Softener Protect Household Pipes?", "How to Interpret pH and Hardness Together"
 
-### 242. Softened Water and Fixtures: Faucets, Showerheads and Glass
+### 242. Softened Water and Fixtures: Faucets, Showerheads and Glass ✅ Published — 2026-09-26 — /blog/softened-water-and-household-fixtures/
 - **Hub:** H11
 - **Funnel role:** Visible everyday benefit; supports the value case
 - **Search intent:** Understand the effect on fixtures and cleaning
@@ -3067,7 +3067,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Document a genuine before-and-after over several months on the same fixtures, with photographs, rather than asserting the benefit. Include the cleaning-product change soft water allows — acidic descalers become unnecessary — which is a small saving and a real quality-of-life difference.
 - **Links:** up H11; across "Why Hard Water Clogs Showerheads", "White Spots on Faucets: Hard Water or Something Else?", "Why White Spots and Soap Scum Remain After Softening"
 
-### 243. Should a Humidifier Use Softened Water?
+### 243. Should a Humidifier Use Softened Water? ✅ Published — 2026-09-26 — /blog/should-a-humidifier-use-softened-water/
 - **Hub:** H11
 - **Funnel role:** Consolidates a genuine duplicate trio from the old plan; corrects a common assumption
 - **Search intent:** Decide what water to put in a humidifier
@@ -3079,7 +3079,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Correct the assumption directly and cover the three humidifier types separately, since evaporative, ultrasonic and whole-house flow-through units respond differently. The whole-house case is the interesting one: softened water genuinely helps a flow-through pad, while it does nothing for an ultrasonic tabletop unit.
 - **Links:** up H11; across "Why a Humidifier Leaves White Dust", "What a Water Softener Does Not Remove", "Softened Water in Small Appliances: Steam Ovens, Irons and Coolers"
 
-### 244. Softened Water in Small Appliances: Steam Ovens, Irons and Coolers
+### 244. Softened Water in Small Appliances: Steam Ovens, Irons and Coolers ✅ Published — 2026-09-26 — /blog/softened-water-in-small-appliances/
 - **Hub:** H11
 - **Funnel role:** Long-tail appliance coverage in one substantive page
 - **Search intent:** Determine what water a specific small appliance needs
@@ -3091,7 +3091,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Collect actual manufacturer water requirements for steam ovens, steam irons and evaporative coolers into one reference table, since these appliances have specific and contradictory requirements that owners discover only after a warranty denial. Explain why sodium content matters for steam generators specifically.
 - **Links:** up H11; across "Scale in Kettles, Coffee Makers and Steam Irons", "Should a Humidifier Use Softened Water", "How Much Sodium Does a Water Softener Add"
 
-### 245. Is Hard Water Unhealthy to Drink?
+### 245. Is Hard Water Unhealthy to Drink? ✅ Published — 2026-09-26 — /blog/is-hard-water-bad-for-you/
 - **Hub:** H11
 - **Funnel role:** Very high-volume health query; the honest answer differentiates this site
 - **Search intent:** Determine whether hard water poses a health risk
@@ -3103,7 +3103,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the answer the industry avoids: hard water is a nuisance parameter, not a health hazard, and the evidence leans mildly positive rather than negative. Cite WHO and EPA positions directly. A site selling softeners that says this plainly earns credibility that no amount of benefit-claiming can buy.
 - **Links:** up H11; across "What Water Hardness Level Is Considered Too Hard?", "Can Hard Water Make Skin Feel Dry After Showering?", "Do You Actually Need a Whole-House Water Softener"
 
-### 246. Does a Water Softener Raise or Lower pH?
+### 246. Does a Water Softener Raise or Lower pH? ✅ Published — 2026-09-26 — /blog/does-a-water-softener-change-ph/
 - **Hub:** H11
 - **Funnel role:** Technical myth correction; supports the corrosion articles
 - **Search intent:** Understand the pH effect of softening
@@ -3115,7 +3115,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Correct a very common misconception with measured before-and-after pH data across several water types, then explain the effect that is real — the change in saturation index and therefore in corrosivity — which is what drives the observations people misattribute to pH.
 - **Links:** up H11; across "How to Interpret pH and Hardness Together", "Why Low-pH Well Water Needs Separate Treatment", "Can a Water Softener Protect Household Pipes?"
 
-### 247. What Does NSF/ANSI 44 Mean for Water Softeners?
+### 247. What Does NSF/ANSI 44 Mean for Water Softeners? ✅ Published — 2026-09-26 — /blog/what-nsf-ansi-44-means/
 - **Hub:** H7, H11
 - **Funnel role:** Certification literacy; supports every purchase comparison
 - **Search intent:** Understand what a certification mark guarantees
@@ -3127,7 +3127,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain what each standard actually certifies and, more usefully, what none of them certify, plus the difference between material-safety-only certification and full performance certification — a distinction manufacturers exploit constantly. Cover NSF, WQA Gold Seal and IAPMO in one comparison so readers can tell what a given mark is worth.
 - **Links:** up H7, H11; across "How to Verify a Softener Certification and Performance Claim", "How to Compare Water Softener Spec Sheets", "What a Water Softener Does Not Remove"
 
-### 248. How to Verify a Softener Certification and Performance Claim
+### 248. How to Verify a Softener Certification and Performance Claim ✅ Published — 2026-09-26 — /blog/how-to-verify-a-softener-certification/
 - **Hub:** H7, H11
 - **Funnel role:** Practical consumer protection; a genuinely useful skill page
 - **Search intent:** Check whether a marketing claim is real
@@ -3139,7 +3139,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A walkthrough of the actual NSF and WQA public search tools with screenshots, including the common trap where one model in a range is certified and the marketing implies the whole line is. Add how to read a manufacturer's own lab test report critically — sample size, conditions, and who ran it.
 - **Links:** up H7, H11; across "What Does NSF/ANSI 44 Mean for Water Softeners?", "How to Compare Water Softener Spec Sheets", "How to Evaluate Maintenance-Free and Salt-Free Marketing Claims"
 
-### 249. How to Evaluate Maintenance-Free and Salt-Free Marketing Claims
+### 249. How to Evaluate Maintenance-Free and Salt-Free Marketing Claims ✅ Published — 2026-09-26 — /blog/evaluating-salt-free-and-maintenance-free-claims/
 - **Hub:** H7, H11
 - **Funnel role:** Myth correction targeting the category's most misleading language
 - **Search intent:** Assess claims made by conditioner and no-salt products
@@ -3151,7 +3151,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A claim-decoding guide translating common marketing phrases into what they measurably mean, with the test a reader can run to check each. Applies equal scrutiny to salt-based marketing, which keeps the page credible rather than reading as an attack on one category.
 - **Links:** up H7, H11; across "Does a Salt-Free System Actually Soften Water", "What Maintenance Does a Salt-Free System Need?", "How to Verify a Softener Certification and Performance Claim"
 
-### 250. Scale Prevention vs Hardness Removal
+### 250. Scale Prevention vs Hardness Removal ✅ Published — 2026-09-26 — /blog/scale-prevention-vs-hardness-removal/
 - **Hub:** H7, H11
 - **Funnel role:** The conceptual distinction underpinning the entire salt-free category
 - **Search intent:** Understand two different treatment goals
@@ -3163,7 +3163,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Frame the entire treatment market around this one distinction, with a benefit table showing which outcomes each approach delivers. It is the clearest way to make the salt-free debate comprehensible, and it lets readers self-select rather than be sold.
 - **Links:** up H7, H11; across "Salt-Based vs Salt-Free Water Treatment", "Does a Salt-Free System Actually Soften Water", "Do You Actually Need a Whole-House Water Softener"
 
-### 251. The Lifecycle Environmental Impact of a Water Softener
+### 251. The Lifecycle Environmental Impact of a Water Softener ✅ Published — 2026-09-26 — /blog/water-softener-environmental-impact/
 - **Hub:** H10, H11
 - **Funnel role:** Sustainability question asked increasingly often; low competition
 - **Search intent:** Assess the full environmental cost
@@ -3175,7 +3175,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** An honest two-sided accounting rather than either greenwashing or condemnation: the chloride and water costs on one side, extended appliance lifespan, reduced detergent manufacturing and improved heating efficiency on the other. State clearly where the balance is genuinely unfavourable — very hard water areas with strained wastewater systems.
 - **Links:** up H10, H11; across "Where Water Softener Regeneration Waste Goes", "Softener Brine Restrictions and Drought Rules", "Total Cost of Owning a Water Softener"
 
-### 252. Can Water Softener Discharge Be Reused Safely?
+### 252. Can Water Softener Discharge Be Reused Safely? ✅ Published — 2026-09-26 — /blog/can-you-reuse-water-softener-discharge/
 - **Hub:** H10, H11
 - **Funnel role:** Sustainability-minded query with a firm technical answer
 - **Search intent:** Determine whether brine discharge can be repurposed
@@ -3187,7 +3187,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Give the actual salinity numbers against irrigation water quality standards, which settles the question with evidence rather than opinion. Then cover the few legitimate reuse cases and the greywater regulations that apply, since readers arriving here are well-intentioned and deserve a real answer rather than a flat no.
 - **Links:** up H10, H11; across "Where Water Softener Regeneration Waste Goes", "Should Outdoor Faucets Bypass a Water Softener", "Water Softener Planning for a Home With Septic"
 
-### 253. How Softener Brine Affects Municipal Wastewater Treatment
+### 253. How Softener Brine Affects Municipal Wastewater Treatment ✅ Published — 2026-09-26 — /blog/softener-brine-and-wastewater-treatment/
 - **Hub:** H10, H11
 - **Funnel role:** Explains the policy behind local restrictions; authority content
 - **Search intent:** Understand the municipal-scale impact
@@ -3199,7 +3199,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain the treatment-plant chemistry that makes chloride the problem, and connect it to the water-reuse pressure driving new restrictions in arid regions. Gives readers the reasoning behind rules they may resent, which is more persuasive than the rules alone and makes the site a reference rather than a retailer.
 - **Links:** up H10, H11; across "Softener Brine Restrictions and Drought Rules", "Where Water Softener Regeneration Waste Goes", "The Lifecycle Environmental Impact of a Water Softener"
 
-### 254. Water Softener Myths, Corrected
+### 254. Water Softener Myths, Corrected ✅ Published — 2026-09-26 — /blog/water-softener-myths-corrected/
 - **Hub:** H11 (myth hub)
 - **Funnel role:** Correction hub; strong internal-link anchor and a natural link magnet
 - **Search intent:** Check a claim heard from a salesperson or online
@@ -3211,7 +3211,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** A single referenced correction page with one short entry per myth, each linking to the full article that treats it properly. Includes myths that favour the industry as well as ones against it, which is what separates a credibility asset from marketing. Built to be the page people cite in forum arguments.
 - **Links:** up H11; down to every correction article across the plan
 
-### 255. Water Softener Glossary
+### 255. Water Softener Glossary ✅ Published — 2026-09-26 — /blog/water-softener-glossary/
 - **Hub:** H11
 - **Funnel role:** Reference asset; supports every technical page and attracts long-tail definition queries
 - **Search intent:** Look up a term encountered on a spec sheet or quote
@@ -3246,7 +3246,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Answer the definition in one sentence, then spend the article on the question people actually have underneath it: does this matter in my house? Use a US hardness map, the cost-per-year framing, and a clear statement that hardness is an aesthetic and economic issue rather than a safety one. Everything else links out.
 - **Links:** up H1; across "Household Problems Commonly Mistaken for Hard Water", "What Water Hardness Level Is Considered Too Hard?", "Do You Actually Need a Whole-House Water Softener?", "Water Hardness Units: GPG, PPM and mg/L"
 
-### 257. What Does Water Softener Resin Actually Do?
+### 257. What Does Water Softener Resin Actually Do? ✅ Published — 2026-09-26 — /blog/what-does-water-softener-resin-do/
 - **Publish in:** Batch 2
 - **Hub:** H4
 - **Funnel role:** Component explainer underpinning every resin fault and replacement article
@@ -3259,7 +3259,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Explain exchange capacity at the bead level with a magnified photograph, then connect it directly to the two failure modes covered elsewhere — sites blocked by fouling (recoverable) versus sites destroyed by oxidation (not recoverable). That single distinction is what determines whether cleaner or replacement is the right response.
 - **Links:** up H4; across "What Is Water Softener Resin Fouling?", "Water Softener Resin Life and When to Replace It", "How Chlorine Damages Water Softener Resin", "Inside a Water Softener Mineral Tank"
 
-### 258. How to Build a Water Test Panel Before Treatment
+### 258. How to Build a Water Test Panel Before Treatment ✅ Published — 2026-09-26 — /blog/water-test-panel-before-treatment/
 - **Publish in:** Batch 1
 - **Hub:** H2
 - **Funnel role:** Converts a vague "get my water tested" intent into a specific, correct test order
@@ -3272,7 +3272,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Two ready-made test panels — one for municipal supplies, one for private wells — listing each parameter, what it costs, and precisely which purchasing decision it changes. Include chlorine (which determines resin grade) and turbidity (which determines prefiltration), the two most commonly skipped tests, and the equipment error each omission causes.
 - **Links:** up H2; across "Home Water Test Kit vs Certified Laboratory Test", "Test Iron and Manganese Before Sizing a Softener", "Standard vs Chlorine-Resistant Softener Resin", "How to Interpret pH and Hardness Together"
 
-### 259. Storing, Changing and Disposing of Softener Salt
+### 259. Storing, Changing and Disposing of Softener Salt ✅ Published — 2026-09-26 — /blog/storing-changing-and-disposing-of-softener-salt/
 - **Publish in:** Batch 6
 - **Hub:** H8
 - **Funnel role:** Practical ownership guidance; prevents the conditions that cause bridging and mushing
@@ -3285,7 +3285,7 @@ Eleven hub pages anchor the site. Every spoke links up to its hub; hubs link dow
 - **Unique angle:** Connect storage conditions directly to the two brine tank faults in Batch 2 — humid storage causes bridging, mixed grades cause mushing — so this reads as prevention rather than housekeeping. Include the correct procedure for switching salt types (run the tank down first, never layer) and disposal routes for contaminated salt.
 - **Links:** up H8; across "How to Identify and Break a Salt Bridge", "What Causes Salt Mushing in a Brine Tank?", "Water Softener Salt Types Compared", "How to Clean a Water Softener Brine Tank"
 
-### 260. How to Estimate Annual Water Softener Salt Cost
+### 260. How to Estimate Annual Water Softener Salt Cost ✅ Published — 2026-09-26 — /blog/annual-water-softener-salt-cost/
 - **Publish in:** Batch 7
 - **Hub:** H10
 - **Funnel role:** Budgeting line item; the recurring cost readers most want quantified before buying

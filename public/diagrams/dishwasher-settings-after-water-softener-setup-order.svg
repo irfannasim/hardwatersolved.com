@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" width="760" height="610" role="img" aria-labelledby="dws-title dws-desc">
+<title id="dws-title">Dishwasher settings for soft water: the order to change them</title>
+<desc id="dws-desc">Five-step order for changing dishwasher settings after a water softener is installed: confirm the water is soft, set any built-in softener to its lowest level, halve the detergent, start rinse aid low, then check glasses weekly for a month.</desc>
+<defs><marker id="dws-a" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="dws-r" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="610" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#0b2f4a">Dishwasher settings after a softener: in this order</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Each step assumes the one above it is done. Skipping step 1 makes the rest guesswork.</text>
+<rect class="box" x="30" y="96" width="440" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="48" y="124" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">1. Confirm the water is soft</text>
+<text x="48" y="148" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Test the kitchen hot tap. Aim for 0 to 1 grain per</text>
+<text x="48" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">gallon before you touch any dishwasher setting.</text>
+<rect class="box" x="30" y="206" width="440" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="48" y="234" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">2. Turn down the built-in softener</text>
+<text x="48" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Salt cap in the tub floor? Program the lowest hardness</text>
+<text x="48" y="276" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">level (Bosch: Off; Miele: below 4 gr/gal).</text>
+<rect class="box" x="30" y="316" width="440" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="48" y="344" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">3. Halve the detergent</text>
+<text x="48" y="368" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Switch from pods to powder or gel so you can measure,</text>
+<text x="48" y="386" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">then cut further if dishes still come out clean.</text>
+<rect class="box" x="30" y="426" width="440" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="48" y="454" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">4. Start rinse aid low</text>
+<text x="48" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Drop the dial one or two steps. Adjust from what</text>
+<text x="48" y="496" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">the glasses show, not from the factory setting.</text>
+<rect class="box" x="30" y="536" width="440" height="60" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="48" y="562" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">5. Check one glass every week for a month</text>
+<text x="48" y="584" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Hold it up to a window and look for a sheen.</text>
+<path class="ln" d="M250,176 L250,200" stroke="#0b2f4a" stroke-width="5" fill="none" marker-end="url(#dws-a)"/>
+<path class="ln" d="M250,286 L250,310" stroke="#0b2f4a" stroke-width="5" fill="none" marker-end="url(#dws-a)"/>
+<path class="ln" d="M250,396 L250,420" stroke="#0b2f4a" stroke-width="5" fill="none" marker-end="url(#dws-a)"/>
+<path class="ln" d="M250,506 L250,530" stroke="#0b2f4a" stroke-width="5" fill="none" marker-end="url(#dws-a)"/>
+<path class="ln" d="M470,136 L512,136" stroke="#52697a" stroke-width="1.5" fill="none" marker-end="url(#dws-r)"/>
+<rect class="box" x="516" y="96" width="214" height="80" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="530" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Still hard?</text>
+<text x="530" y="144" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Fix the softener first. The</text>
+<text x="530" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">dishwasher is not the problem.</text>
+<path class="ln" d="M470,246 L512,246" stroke="#52697a" stroke-width="1.5" fill="none" marker-end="url(#dws-r)"/>
+<rect class="box" x="516" y="206" width="214" height="80" rx="8" fill="#f8fafc" stroke="#52697a" stroke-width="1.5"/>
+<text x="530" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No salt cap?</text>
+<text x="530" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">No built-in softener to set.</text>
+<text x="530" y="272" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Go straight to step 3.</text>
+<path class="ln" d="M470,466 L512,466" stroke="#52697a" stroke-width="1.5" fill="none" marker-end="url(#dws-r)"/>
+<rect class="box" x="516" y="416" width="214" height="100" rx="8" fill="#f8fafc" stroke="#52697a" stroke-width="1.5"/>
+<text x="530" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Bluish film that wipes off:</text>
+<text x="530" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">less rinse aid.</text>
+<text x="530" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Water spots on dry glasses:</text>
+<text x="530" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">more rinse aid.</text>
+<path class="ln" d="M470,566 L512,566" stroke="#52697a" stroke-width="1.5" fill="none" marker-end="url(#dws-r)"/>
+<rect class="box" x="516" y="536" width="214" height="60" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="530" y="560" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Rainbow sheen: cut the</text>
+<text x="530" y="580" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">detergent again, now.</text>
+</svg>

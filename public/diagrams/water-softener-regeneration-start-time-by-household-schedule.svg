@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="rst-title rst-desc">
+<title id="rst-title">What time should a water softener regenerate, by household schedule</title>
+<desc id="rst-desc">Illustrative 24-hour water-use strips for four households: a typical family regenerates at 2:00, an early riser at 1:00 and a late-shift worker at 4:00, while a rental or multi-unit building with no quiet hours needs the hybrid setting or a twin-tank softener.</desc>
+<defs></defs>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Pick the start time from your quietest two hours</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative daily water-use patterns; each regeneration block is 90 minutes</text>
+<path d="M250,92 L250,420" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="250" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">00:00</text>
+<path d="M370,92 L370,420" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="370" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">06:00</text>
+<path d="M490,92 L490,420" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="490" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">12:00</text>
+<path d="M610,92 L610,420" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="610" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">18:00</text>
+<path d="M730,92 L730,420" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="730" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">24:00</text>
+<text x="30" y="120" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Typical family</text>
+<text x="30" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">up 6:00, in bed 23:00</text>
+<rect x="250" y="104" width="480" height="30" fill="#f1f5f9"/>
+<rect x="370" y="104" width="60" height="30" fill="#c2410c"/>
+<rect x="590" y="104" width="120" height="30" fill="#c2410c"/>
+<rect x="290" y="104" width="30" height="30" fill="#7c3aed"/>
+<text x="290" y="154" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#7c3aed">Start 2:00</text>
+<text x="30" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Early riser</text>
+<text x="30" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">shower at 4:30</text>
+<rect x="250" y="184" width="480" height="30" fill="#f1f5f9"/>
+<rect x="340" y="184" width="50" height="30" fill="#c2410c"/>
+<rect x="590" y="184" width="100" height="30" fill="#c2410c"/>
+<rect x="270" y="184" width="30" height="30" fill="#7c3aed"/>
+<text x="270" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#7c3aed">Start 1:00</text>
+<text x="30" y="280" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Late-shift worker</text>
+<text x="30" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">home and showering 1:00</text>
+<rect x="250" y="264" width="480" height="30" fill="#f1f5f9"/>
+<rect x="270" y="264" width="20" height="30" fill="#c2410c"/>
+<rect x="450" y="264" width="40" height="30" fill="#c2410c"/>
+<rect x="570" y="264" width="100" height="30" fill="#c2410c"/>
+<rect x="330" y="264" width="30" height="30" fill="#7c3aed"/>
+<text x="330" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#7c3aed">Start 4:00</text>
+<text x="30" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Rental or multi-unit</text>
+<text x="30" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no reliable quiet hours</text>
+<rect x="250" y="344" width="480" height="30" fill="#f1f5f9"/>
+<rect x="250" y="344" width="60" height="30" fill="#c2410c"/>
+<rect x="330" y="344" width="120" height="30" fill="#c2410c"/>
+<rect x="470" y="344" width="80" height="30" fill="#c2410c"/>
+<rect x="570" y="344" width="160" height="30" fill="#c2410c"/>
+<text x="250" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">No safe window: use the hybrid setting or a twin tank</text>
+<rect x="30" y="470" width="16" height="16" fill="#c2410c" stroke="#cbd5e1" stroke-width="1"/>
+<text x="52" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Water in use</text>
+<rect x="170" y="470" width="16" height="16" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="192" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Quiet</text>
+<rect x="261" y="470" width="16" height="16" fill="#7c3aed" stroke="#cbd5e1" stroke-width="1"/>
+<text x="283" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Regeneration (hard water at taps)</text>
+<text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Finish at least an hour before the first shower, not just start after the last one.</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="rz-title rz-desc">
+<title id="rz-title">What water softener resin does, from the bed to one bead to one exchange site</title>
+<desc id="rz-desc">Three zoom levels of water softener resin: one cubic foot holds about 155 million beads, each bead 0.3 to 1.2 mm across carries about 200 quadrillion exchange sites, and each sulfonate site holds one sodium ion while calcium or magnesium takes two. Total capacity is 1.9 equivalents per litre, about 41,500 grains per cubic foot.</desc>
+<defs>
+<pattern id="rz-beads" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#f6ead2"/><circle cx="6" cy="6" r="4.5" fill="#e2b865"/></pattern>
+<marker id="rz-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Resin at three scales: bed, bead, exchange site</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Softening happens at the last scale. Capacity is simply how many of those sites there are.</text>
+<rect class="box" x="30" y="84" width="200" height="270" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="70" y="106" width="120" height="160" rx="10" fill="url(#rz-beads)" stroke="#3a5a72" stroke-width="2"/>
+<rect x="150" y="160" width="22" height="22" fill="none" stroke="#0b2f4a" stroke-width="2.5"/>
+<text x="46" y="300" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">The bed</text>
+<text x="46" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">1 cu ft of resin</text>
+<text x="46" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">≈ 155 million beads</text>
+<path class="ln" d="M236,186 L272,186" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#rz-ah)"/>
+<rect class="box" x="280" y="84" width="200" height="270" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.2"/>
+<circle cx="380" cy="180" r="70" fill="#f6ead2" stroke="#e2b865" stroke-width="3"/>
+<g fill="#0b2f4a">
+<circle cx="345" cy="140" r="2.5"/><circle cx="370" cy="130" r="2.5"/><circle cx="395" cy="128" r="2.5"/><circle cx="330" cy="165" r="2.5"/><circle cx="355" cy="160" r="2.5"/><circle cx="380" cy="152" r="2.5"/><circle cx="405" cy="150" r="2.5"/><circle cx="325" cy="190" r="2.5"/><circle cx="350" cy="185" r="2.5"/><circle cx="375" cy="178" r="2.5"/><circle cx="400" cy="175" r="2.5"/><circle cx="425" cy="172" r="2.5"/><circle cx="335" cy="212" r="2.5"/><circle cx="360" cy="208" r="2.5"/><circle cx="385" cy="203" r="2.5"/><circle cx="410" cy="198" r="2.5"/><circle cx="435" cy="195" r="2.5"/><circle cx="350" cy="232" r="2.5"/><circle cx="375" cy="228" r="2.5"/><circle cx="400" cy="224" r="2.5"/><circle cx="422" cy="220" r="2.5"/><circle cx="385" cy="245" r="2.5"/>
+</g>
+<rect x="414" y="138" width="20" height="20" fill="none" stroke="#0b2f4a" stroke-width="2.5"/>
+<text x="296" y="300" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">One bead</text>
+<text x="296" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">0.3 to 1.2 mm across</text>
+<text x="296" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">≈ 200 quadrillion sites</text>
+<path class="ln" d="M486,186 L522,186" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#rz-ah)"/>
+<rect class="box" x="530" y="84" width="200" height="270" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.2"/>
+<rect x="545" y="200" width="170" height="34" fill="#f6ead2" stroke="#e2b865" stroke-width="2"/>
+<text x="567" y="222" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#0b2f4a">SO3−</text>
+<text x="609" y="222" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#0b2f4a">SO3−</text>
+<text x="651" y="222" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#0b2f4a">SO3−</text>
+<text x="693" y="222" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#0b2f4a">SO3−</text>
+<path class="ln" d="M567,154 L567,198" stroke="#52697a" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M609,154 L609,198" stroke="#52697a" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M660,152 L651,198" stroke="#52697a" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M684,152 L693,198" stroke="#52697a" stroke-width="1.5" fill="none"/>
+<circle cx="567" cy="138" r="17" fill="#cffafe" stroke="#0e7490" stroke-width="2"/>
+<text x="567" y="143" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Na+</text>
+<circle cx="609" cy="138" r="17" fill="#cffafe" stroke="#0e7490" stroke-width="2"/>
+<text x="609" y="143" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Na+</text>
+<ellipse cx="672" cy="134" rx="30" ry="18" fill="#ffedd5" stroke="#c2410c" stroke-width="2"/>
+<text x="672" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Ca2+</text>
+<text x="546" y="270" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">One exchange site</text>
+<text x="546" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">holds one sodium ion.</text>
+<text x="546" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Calcium or magnesium</text>
+<text x="546" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">takes two sites at once.</text>
+<rect class="box" x="30" y="372" width="700" height="90" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.2"/>
+<text x="44" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Total capacity: 1.9 equivalents per litre = about 41,500 grains per cu ft</text>
+<text x="44" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">A 6 lb/cu ft salt dose restores about 22,930 grains of it (55%). The rest stays loaded with hardness.</text>
+<text x="44" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Bead and site counts are calculated for a typical 0.6 mm bead, not measured.</text>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="g17rr-title g17rr-desc">
+<title id="g17rr-title">Repair or replace water softener decision matrix by age and failed component</title>
+<desc id="g17rr-desc">Illustrative decision matrix crossing water softener age with the failed component. Seal, motor and brine tank repairs stay worthwhile into old age, a whole valve or resin change becomes replace after about ten years, and a failed mineral tank means replace at any age.</desc>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Repair or replace a water softener: age against the failed part</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Illustrative: repair cost as a share of a $1,500 installed replacement</text>
+<text x="30" y="104" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">Failed part</text>
+<text x="30" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">(typical repair share)</text>
+<text x="288" y="104" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Under 5 years</text>
+<text x="288" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">repair if under 60%</text>
+<text x="414" y="104" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">5 to 10 years</text>
+<text x="414" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">repair if under 40%</text>
+<text x="540" y="104" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">10 to 15 years</text>
+<text x="540" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">repair if under 25%</text>
+<text x="666" y="104" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Over 15 years</text>
+<text x="666" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">repair if under 15%</text>
+<text x="30" y="174" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Seals, piston or</text>
+<text x="30" y="192" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">brine valve (20%)</text>
+<rect class="box" x="228" y="153" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="288" y="184" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="354" y="153" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="414" y="184" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="480" y="153" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="540" y="184" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="606" y="153" width="120" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="666" y="184" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">Borderline</text>
+<text x="30" y="230" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Motor, meter or</text>
+<text x="30" y="248" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">control board (27%)</text>
+<rect class="box" x="228" y="209" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="288" y="240" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="354" y="209" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="414" y="240" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="480" y="209" width="120" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="540" y="240" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">Borderline</text>
+<rect class="box" x="606" y="209" width="120" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="666" y="240" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Replace</text>
+<text x="30" y="286" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Whole control</text>
+<text x="30" y="304" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">valve (49%)</text>
+<rect class="box" x="228" y="265" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="288" y="296" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="354" y="265" width="120" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="414" y="296" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">Borderline</text>
+<rect class="box" x="480" y="265" width="120" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="540" y="296" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Replace</text>
+<rect class="box" x="606" y="265" width="120" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="666" y="296" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Replace</text>
+<text x="30" y="351" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Resin (47%)</text>
+<rect class="box" x="228" y="321" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="288" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="354" y="321" width="120" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="414" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">Borderline</text>
+<rect class="box" x="480" y="321" width="120" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="540" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Replace</text>
+<rect class="box" x="606" y="321" width="120" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="666" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Replace</text>
+<text x="30" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Brine tank or</text>
+<text x="30" y="416" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">float (17%)</text>
+<rect class="box" x="228" y="377" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="288" y="408" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="354" y="377" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="414" y="408" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="480" y="377" width="120" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="540" y="408" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Repair</text>
+<rect class="box" x="606" y="377" width="120" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="666" y="408" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">Borderline</text>
+<text x="30" y="454" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Mineral tank cracked,</text>
+<text x="30" y="472" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">bulging or leaking</text>
+<rect class="box" x="228" y="433" width="120" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="288" y="464" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Replace</text>
+<rect class="box" x="354" y="433" width="120" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="414" y="464" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Replace</text>
+<rect class="box" x="480" y="433" width="120" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="540" y="464" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Replace</text>
+<rect class="box" x="606" y="433" width="120" height="50" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="666" y="464" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Replace</text>
+<rect x="30" y="509" width="16" height="12" rx="2" fill="#15803d"/>
+<text x="52" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Repair</text>
+<rect x="150" y="509" width="16" height="12" rx="2" fill="#0e7490"/>
+<text x="172" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Borderline: check salt use and parts supply</text>
+<rect x="530" y="509" width="16" height="12" rx="2" fill="#dc2626"/>
+<text x="552" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Replace</text>
+<text x="30" y="554" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">A young tank that fails is usually a warranty claim. Thresholds are a rule of thumb: the share of</text>
+<text x="30" y="574" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">a new unit’s life the repaired softener can still deliver. Use your own quotes for the percentages.</text>
+</svg>

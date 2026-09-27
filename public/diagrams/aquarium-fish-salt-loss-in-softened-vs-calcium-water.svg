@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="afs-title afs-desc">
+<title id="afs-title">Why softened water is a problem for aquarium fish: salt loss without calcium</title>
+<desc id="afs-desc">Two tanks compared. In water with calcium, a fish loses little sodium and potassium from its blood. In fully softened water, with almost no calcium, the fish leaks more sodium and potassium into the water and spends energy re-absorbing them.</desc>
+<defs>
+<marker id="afs-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+</defs>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Calcium helps a fish hold on to its salts</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Based on SRAC Publication 464 (Wurts and Durborow). Arrow size is illustrative.</text>
+<rect class="box" x="30" y="90" width="330" height="250" rx="8" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="400" y="90" width="330" height="250" rx="8" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<text x="195" y="118" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490" text-anchor="middle">Water with calcium</text>
+<text x="565" y="118" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626" text-anchor="middle">Fully softened water</text>
+<g stroke="#0b2f4a" stroke-width="2" fill="#f6ead2">
+<ellipse cx="185" cy="215" rx="70" ry="32"/>
+<polygon points="255,215 295,190 295,240"/>
+<ellipse cx="555" cy="215" rx="70" ry="32"/>
+<polygon points="625,215 665,190 665,240"/>
+</g>
+<circle cx="140" cy="207" r="5" fill="#0b2f4a"/>
+<circle cx="510" cy="207" r="5" fill="#0b2f4a"/>
+<g fill="none" stroke="#dc2626">
+<path class="ln" d="M185,248 L185,280" stroke-width="2.5" marker-end="url(#afs-ah)"/>
+<path class="ln" d="M530,250 L500,294" stroke-width="6" marker-end="url(#afs-ah)"/>
+<path class="ln" d="M565,250 L565,300" stroke-width="6" marker-end="url(#afs-ah)"/>
+<path class="ln" d="M600,248 L632,292" stroke-width="6" marker-end="url(#afs-ah)"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a" text-anchor="middle">
+<text x="195" y="310">Little sodium and potassium lost</text>
+<text x="565" y="326">Sodium and potassium leak out</text>
+<text x="110" y="160" fill="#0e7490" font-weight="bold">Ca present</text>
+<text x="480" y="160" fill="#dc2626" font-weight="bold">Ca near zero</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">
+<text x="30" y="376" font-size="14" font-weight="bold">What SRAC 464 says</text>
+<text x="30" y="400">Calcium and magnesium are essential for bone and scale formation and blood clotting.</text>
+<text x="30" y="422">In low calcium water, fish lose sodium and potassium and use energy to re-absorb them.</text>
+<text x="30" y="444">Recommended free calcium for fish culture: 25 to 100 mg/L (63 to 250 mg/L as CaCO3).</text>
+<text x="30" y="474" fill="#52697a">A softener takes calcium to near zero and adds sodium. It does not make naturally soft water.</text>
+</g>
+</svg>

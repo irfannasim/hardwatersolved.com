@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="bfd-title bfd-desc">
+<title id="bfd-title">Decision tree: does a water softener need a supply-side backflow device?</title>
+<desc id="bfd-desc">Four questions in order that decide whether a water softener installation needs a supply-side backflow prevention device in addition to the drain air gap: utility cross-connection rules, shared supply, well or public water, and local code amendments.</desc>
+<defs>
+<marker id="bfd-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Do you need a supply-side device as well?</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">The drain air gap is needed in every case. These questions decide the rest.</text>
+<rect class="box" x="30" y="92" width="360" height="72" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Does your water utility have a</text>
+<text x="46" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">cross-connection rule covering</text>
+<text x="46" y="156" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">treatment equipment?</text>
+<rect class="box" x="470" y="92" width="260" height="72" rx="10" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="486" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Follow the utility's rule</text>
+<text x="486" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">It names the device, where it</text>
+<text x="486" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">goes and who tests it</text>
+<path class="ln" d="M390,128 L462,128" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#bfd-a)"/>
+<text x="426" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M210,164 L210,200" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#bfd-a)"/>
+<text x="222" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No or not sure</text>
+<rect class="box" x="30" y="208" width="360" height="72" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="234" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Does the softener serve more</text>
+<text x="46" y="254" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">than one dwelling (duplex, condo,</text>
+<text x="46" y="272" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">shared well)?</text>
+<rect class="box" x="470" y="208" width="260" height="72" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="486" y="234" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Expect a device</text>
+<text x="486" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Ask the inspector before you</text>
+<text x="486" y="272" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">buy parts</text>
+<path class="ln" d="M390,244 L462,244" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#bfd-a)"/>
+<text x="426" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M210,280 L210,316" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#bfd-a)"/>
+<text x="222" y="304" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="30" y="324" width="360" height="72" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="350" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Is the house on a private well</text>
+<text x="46" y="370" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">with no connection to a public</text>
+<text x="46" y="388" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">main?</text>
+<rect class="box" x="470" y="324" width="260" height="72" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="486" y="350" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Air gap is the key job</text>
+<text x="486" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">No public main to protect;</text>
+<text x="486" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">your own well still needs it</text>
+<path class="ln" d="M390,360 L462,360" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#bfd-a)"/>
+<text x="426" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M210,396 L210,432" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#bfd-a)"/>
+<text x="222" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No, public water</text>
+<rect class="box" x="30" y="440" width="360" height="72" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4. Has your city or state amended</text>
+<text x="46" y="486" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">its plumbing code to require one</text>
+<text x="46" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">for softeners?</text>
+<rect class="box" x="470" y="440" width="260" height="72" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="486" y="466" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Fit the named device</text>
+<text x="486" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Then add thermal expansion</text>
+<text x="486" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">control at the water heater</text>
+<path class="ln" d="M390,476 L462,476" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#bfd-a)"/>
+<text x="426" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M210,512 L210,536" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#bfd-a)"/>
+<text x="222" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="30" y="544" width="700" height="40" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="569" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">No supply device: the inspection centres on the drain air gap and its termination.</text>
+</svg>

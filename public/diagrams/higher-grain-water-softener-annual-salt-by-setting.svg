@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 490" width="760" height="490" role="img" aria-labelledby="has-title has-desc">
+<title id="has-title">Higher grain water softener: salt a year for one household at five settings</title>
+<desc id="has-desc">Bar chart for a four-person household using 240 gallons a day at 15 gpg. A 1 cubic foot softener uses 344 lb of salt a year at the low dose and 610 lb at the high dose. A 2 cubic foot, 64,000 grain softener uses 782 lb at its high rating with a 14 day override, 344 lb at the low dose and 311 lb at the efficient dose.</desc>
+<rect width="760" height="490" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Salt a year: same household, five softener setups</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">4 people, 240 gal/day, 15 gpg = 3,600 grains/day. Capacities from Hellenbrand's table, no reserve</text>
+<text x="30" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">A. 1 cu ft "32" at low</text>
+<text x="30" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">6 lb/cu ft, every 6.4 days</text>
+<rect x="260" y="102" width="172" height="30" fill="#0e7490"/>
+<text x="442" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">344 lb</text>
+<text x="30" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">B. 1 cu ft "32" at high</text>
+<text x="30" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">15 lb/cu ft, every 9.0 days</text>
+<rect x="260" y="162" width="305" height="30" fill="#52697a"/>
+<text x="575" y="182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">610 lb</text>
+<text x="30" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">C. 2 cu ft "64" at high</text>
+<text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">15 lb/cu ft, forced every 14 days</text>
+<rect x="260" y="222" width="391" height="30" fill="#dc2626"/>
+<text x="661" y="242" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">782 lb</text>
+<text x="30" y="292" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">D. 2 cu ft "64" at low</text>
+<text x="30" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">6 lb/cu ft, every 12.7 days</text>
+<rect x="260" y="282" width="172" height="30" fill="#0e7490"/>
+<text x="442" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">344 lb</text>
+<text x="30" y="352" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">E. 2 cu ft "64" at efficient</text>
+<text x="30" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">3.3 lb/cu ft, every 7.8 days</text>
+<rect x="260" y="342" width="156" height="30" fill="#0e7490"/>
+<text x="426" y="362" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">311 lb</text>
+<path class="ln" d="M260,392 L660,392" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M260,392 L260,399" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M360,392 L360,399" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M460,392 L460,399" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M560,392 L560,399" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M660,392 L660,399" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="260" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="360" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">200</text>
+<text x="460" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">400</text>
+<text x="560" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">600</text>
+<text x="660" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">800</text>
+<text x="460" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#52697a">Pounds of salt a year</text>
+<rect x="30" y="460" width="14" height="14" fill="#0e7490"/>
+<text x="52" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">low or efficient dose</text>
+<rect x="220" y="460" width="14" height="14" fill="#52697a"/>
+<text x="242" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">maximum dose</text>
+<rect x="380" y="460" width="14" height="14" fill="#dc2626"/>
+<text x="402" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">maximum dose, capacity wasted by the override</text>
+</svg>

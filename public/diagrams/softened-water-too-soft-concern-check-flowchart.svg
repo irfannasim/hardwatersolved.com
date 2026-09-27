@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="tsc-title tsc-desc">
+<title id="tsc-title">Can water be too soft? Checking the concern</title>
+<desc id="tsc-desc">Flowchart. When softened water seems too soft, test the raw water pH. Below 7, the softened water may be corrosive, so neutralize before softening. Otherwise match the symptom: a slippery feel is normal and fixed by using less soap, a salty or flat taste is fixed with RO or an unsoftened kitchen tap, and blue-green stains or pinholes call for a pH, copper and LSI check.</desc>
+<defs><marker id="tsc-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Softened water seems too soft: what to check</text>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<rect class="box" x="60" y="62" width="380" height="44" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="89" font-size="14" font-weight="bold" fill="#0b2f4a">Test the raw water's pH</text>
+<rect class="box" x="60" y="136" width="380" height="48" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="250" y="165" font-size="14" font-weight="bold" fill="#0b2f4a">pH below 7 (acidic)?</text>
+<rect class="box" x="500" y="126" width="230" height="68" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="615" y="152" font-size="14" font-weight="bold" fill="#dc2626">Real risk: corrosive</text>
+<text x="615" y="173" font-size="13" fill="#0b2f4a">Neutralize before softening</text>
+<rect class="box" x="60" y="214" width="380" height="44" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="241" font-size="14" font-weight="bold" fill="#0b2f4a">What is the symptom?</text>
+<rect class="box" x="30" y="300" width="225" height="84" rx="6" fill="#e6f4f7" stroke="#0e7490" stroke-width="1.5"/>
+<text x="142" y="326" font-size="14" font-weight="bold" fill="#0b2f4a">Slippery feel</text>
+<text x="142" y="348" font-size="13" fill="#0b2f4a">Normal. Cut the soap</text>
+<text x="142" y="367" font-size="13" fill="#0b2f4a">and shampoo dose</text>
+<rect class="box" x="267" y="300" width="225" height="84" rx="6" fill="#e6f4f7" stroke="#0e7490" stroke-width="1.5"/>
+<text x="379" y="326" font-size="14" font-weight="bold" fill="#0b2f4a">Salty or flat taste</text>
+<text x="379" y="348" font-size="13" fill="#0b2f4a">RO or an unsoftened</text>
+<text x="379" y="367" font-size="13" fill="#0b2f4a">kitchen tap</text>
+<rect class="box" x="504" y="300" width="226" height="84" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="617" y="326" font-size="14" font-weight="bold" fill="#0b2f4a">Blue-green stains, pinholes</text>
+<text x="617" y="348" font-size="13" fill="#0b2f4a">Test pH, copper and LSI;</text>
+<text x="617" y="367" font-size="13" fill="#0b2f4a">get the pipes checked</text>
+</g>
+<g stroke="#3a5a72" stroke-width="2.5" fill="none">
+<line class="ln" x1="250" y1="258" x2="250" y2="278"/>
+<line class="ln" x1="142" y1="278" x2="617" y2="278"/>
+</g>
+<g stroke="#3a5a72" stroke-width="2.5" fill="none" marker-end="url(#tsc-ah)">
+<line class="ln" x1="250" y1="106" x2="250" y2="132"/>
+<line class="ln" x1="250" y1="184" x2="250" y2="210"/>
+<line class="ln" x1="440" y1="160" x2="496" y2="160"/>
+<line class="ln" x1="142" y1="278" x2="142" y2="296"/>
+<line class="ln" x1="379" y1="278" x2="379" y2="296"/>
+<line class="ln" x1="617" y1="278" x2="617" y2="296"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">
+<text x="468" y="150" text-anchor="middle">Yes</text>
+<text x="264" y="203">No</text>
+</g>
+<text x="30" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Zero hardness on its own is normal for a working softener. It is not a fault.</text>
+<text x="30" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Turning up the blending valve fixes none of these well, and it gives back scale protection.</text>
+<text x="30" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Acidic water: Penn State Extension notes soft, acidic water (pH below 7) tends to be more corrosive.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 612" width="760" height="612" role="img" aria-labelledby="scc-title scc-desc">
+<title id="scc-title">How to size a water softener: six-step calculation, worked example</title>
+<desc id="scc-desc">Worked water softener sizing for four people on 15 gpg city water. Measured use of 230 gallons a day gives a daily load of 3,450 grains. Five days plus one day of reserve needs 20,700 grains, which at 22,930 grains per cubic foot at a 6 lb salt dose rounds up to 1 cubic foot of resin. A peak of about 9 gpm is under the 13.0 gpm rated flow.</desc>
+<defs><marker id="scc-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="612" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Sizing a softener, one step at a time</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Worked example: four people, 15 gpg city water, no iron</text>
+<rect class="box" x="30" y="92" width="700" height="56" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="116" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">1. Hardness</text>
+<text x="48" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Lab report 256 mg/L ÷ 17.1, no iron to add</text>
+<text x="712" y="126" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end" fill="#0e7490">15 gpg</text>
+<path class="ln" d="M380,148 L380,168" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#scc-a)"/>
+<rect class="box" x="30" y="172" width="700" height="56" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="196" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">2. Daily water use, measured</text>
+<text x="48" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Meter: 1,610 gal over 7 days, indoor only</text>
+<text x="712" y="206" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end" fill="#0e7490">230 gal/day</text>
+<path class="ln" d="M380,228 L380,248" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#scc-a)"/>
+<rect class="box" x="30" y="252" width="700" height="56" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="276" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">3. Daily load</text>
+<text x="48" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">15 gpg × 230 gal</text>
+<text x="712" y="286" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end" fill="#0e7490">3,450 grains/day</text>
+<path class="ln" d="M380,308 L380,328" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#scc-a)"/>
+<rect class="box" x="30" y="332" width="700" height="56" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="356" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">4. Required capacity</text>
+<text x="48" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">3,450 × (5 days + 1 day of reserve)</text>
+<text x="712" y="366" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end" fill="#0e7490">20,700 grains</text>
+<path class="ln" d="M380,388 L380,408" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#scc-a)"/>
+<rect class="box" x="30" y="412" width="700" height="56" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="436" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">5. Resin volume at an efficient salt dose</text>
+<text x="48" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">20,700 ÷ 22,930 grains per cu ft at 6 lb = 0.90, round up</text>
+<text x="712" y="446" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end" fill="#0e7490">1 cu ft</text>
+<path class="ln" d="M380,468 L380,488" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#scc-a)"/>
+<rect class="box" x="30" y="492" width="700" height="56" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="48" y="516" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">6. Peak flow check</text>
+<text x="48" y="536" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">About 9 gpm at peak vs 13.0 gpm rated for 1 cu ft</text>
+<text x="712" y="526" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end" fill="#15803d">Passes</text>
+<text x="30" y="580" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Result: 1 cu ft at 6 lb per cu ft</text>
+<text x="30" y="600" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">About 5.6 days per cycle with reserve, about 330 lb of salt a year. Capacities: Hellenbrand table</text>
+</svg>

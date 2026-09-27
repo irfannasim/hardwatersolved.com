@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="ivd-title ivd-desc">
+<title id="ivd-title">Water softener immediate versus delayed regeneration decision chart</title>
+<desc id="ivd-desc">Decision chart: twin-tank softeners use immediate regeneration; single-tank homes with no nightly quiet window, or with frequent days that exceed the reserve, use the hybrid delayed-plus-zero-capacity mode; everyone else uses delayed regeneration at a quiet time.</desc>
+<defs><marker id="m1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="m2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="m3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker></defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Delayed, immediate or both: choosing the regeneration mode</text>
+<rect class="box" x="30" y="70" width="300" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="180" y="94" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Twin-tank softener?</text>
+<text x="180" y="113" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">One tank is always in service</text>
+<rect class="box" x="430" y="70" width="300" height="96" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2.5"/>
+<text x="444" y="94" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Immediate</text>
+<text x="444" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Regenerate the moment a tank</text>
+<text x="444" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">is used up. Set reserve to the</text>
+<text x="444" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">water used during regeneration.</text>
+<path class="ln" d="M330,102 L420,102" stroke="#0e7490" stroke-width="3" fill="none" marker-end="url(#m1)"/>
+<text x="375" y="94" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<path class="ln" d="M180,134 L180,188" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#m2)"/>
+<text x="190" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#3a5a72">No</text>
+<rect class="box" x="30" y="200" width="300" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="180" y="224" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">A 2-hour window with no use</text>
+<text x="180" y="243" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">on almost every night?</text>
+<rect class="box" x="430" y="200" width="300" height="96" rx="6" fill="#ffffff" stroke="#7c3aed" stroke-width="2.5"/>
+<text x="444" y="224" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#7c3aed">Hybrid</text>
+<text x="444" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Delayed as normal, plus start</text>
+<text x="444" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">after 10 idle minutes if the</text>
+<text x="444" y="281" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">capacity hits zero first.</text>
+<path class="ln" d="M330,232 L420,232" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#m3)"/>
+<text x="375" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#7c3aed">No</text>
+<path class="ln" d="M180,264 L180,318" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#m2)"/>
+<text x="190" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#3a5a72">Yes</text>
+<rect class="box" x="30" y="330" width="300" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="180" y="354" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Days that use more than</text>
+<text x="180" y="373" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">the reserve (guests, laundry)?</text>
+<path class="ln" d="M330,362 L375,362 L375,280 L420,280" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#m3)"/>
+<text x="338" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#7c3aed">Often</text>
+<path class="ln" d="M180,394 L180,448" stroke="#3a5a72" stroke-width="3" fill="none" marker-end="url(#m2)"/>
+<text x="190" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#3a5a72">Rarely</text>
+<rect class="box" x="30" y="460" width="440" height="96" rx="6" fill="#ffffff" stroke="#15803d" stroke-width="2.5"/>
+<text x="44" y="484" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#15803d">Delayed at your quiet time</text>
+<text x="44" y="503" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Regenerate at the set time on the night the</text>
+<text x="44" y="522" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">remaining capacity falls below the reserve.</text>
+<text x="44" y="541" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Right for most single-tank homes.</text>
+</svg>

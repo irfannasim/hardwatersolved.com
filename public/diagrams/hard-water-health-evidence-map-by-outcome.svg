@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="g26hm-title g26hm-desc">
+<title id="g26hm-title">Is hard water bad for you? Evidence map by health outcome</title>
+<desc id="g26hm-desc">Evidence on whether hard water is bad for you, placed on a scale from possible harm to possible benefit: magnesium and heart deaths leans to benefit, calcium or total hardness, kidney stones overall and hair strength show no clear effect, and infant eczema shows a small association that a softener trial did not confirm. WHO sets no guideline value and EPA has no standard for hardness.</desc>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What the research says about hard water and health</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Position shows the direction of the best evidence. None of it shows proven harm.</text>
+<text x="30" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">OUTCOME AND EVIDENCE</text>
+<text x="330" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626" text-anchor="middle">Possible harm</text>
+<text x="500" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a" text-anchor="middle">No clear effect</text>
+<text x="670" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d" text-anchor="middle">Possible benefit</text>
+<rect x="30" y="140" width="700" height="62" fill="#f8fafc"/>
+<rect x="30" y="264" width="700" height="62" fill="#f8fafc"/>
+<rect x="30" y="388" width="700" height="62" fill="#f8fafc"/>
+<path class="ln" d="M500,140 L500,450" fill="none" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="6 5"/>
+<path class="ln" d="M290,450 L710,450" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="42" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Heart deaths: magnesium</text>
+<text x="42" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">meta-analyses, observational</text>
+<path class="ln" d="M550,171 L640,171" fill="none" stroke="#15803d" stroke-width="5" stroke-linecap="round"/>
+<circle cx="595" cy="171" r="10" fill="#15803d"/>
+<text x="42" y="228" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Heart deaths: calcium, total</text>
+<text x="42" y="248" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">no clear link in cohort studies</text>
+<circle cx="500" cy="233" r="10" fill="#52697a"/>
+<text x="42" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Kidney stones, overall</text>
+<text x="42" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">cohort of 288,041 adults</text>
+<circle cx="500" cy="295" r="10" fill="#52697a"/>
+<text x="42" y="352" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Eczema in infants</text>
+<text x="42" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">association; trial found no benefit</text>
+<path class="ln" d="M410,357 L480,357" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round"/>
+<circle cx="445" cy="357" r="10" fill="#c2410c"/>
+<text x="42" y="414" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Hair strength</text>
+<text x="42" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">small lab study, no difference</text>
+<circle cx="500" cy="419" r="10" fill="#52697a"/>
+<rect class="box" x="30" y="476" width="700" height="62" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="501" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Regulators: WHO proposes no guideline value for hardness.</text>
+<text x="46" y="523" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">EPA has no primary or secondary drinking water standard for it.</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="sdm-title sdm-desc">
+<title id="sdm-title">How to set the salt dose on a water softener: pounds entry, refill minutes and float height</title>
+<desc id="sdm-desc">Three panels: electronic valves take pounds of salt and time the refill, Fleck-style valves take refill minutes at a fixed brine line flow of 0.25 gpm or 0.75 lb a minute, and float-controlled valves set the refill level with the float. All three set refill gallons, at about 3 lb of salt per gallon.</desc>
+<defs><marker id="mp" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Three ways a softener sets its salt dose</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Every method controls one thing: how much water refills the brine tank</text>
+<rect class="box" x="30" y="88" width="220" height="250" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Pounds entry</text>
+<text x="44" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">e.g. Clack WS1</text>
+<text x="44" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">You enter lb of salt per</text>
+<text x="44" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">regeneration. The valve</text>
+<text x="44" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">times the refill through</text>
+<text x="44" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">its refill flow control to</text>
+<text x="44" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">deliver that much water.</text>
+<rect class="box" x="42" y="276" width="196" height="50" rx="6" fill="#ede9fe"/>
+<text x="140" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#5b21b6">Enter 9 lb</text>
+<text x="140" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#5b21b6">valve sets the refill time</text>
+<rect class="box" x="270" y="88" width="220" height="250" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="284" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Refill minutes</text>
+<text x="284" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">e.g. Fleck 5600SXT</text>
+<text x="284" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">You set brine refill</text>
+<text x="284" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">minutes. The brine line</text>
+<text x="284" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">flow control fixes the</text>
+<text x="284" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">rate: 0.25 gpm refills</text>
+<text x="284" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">0.75 lb of salt a minute.</text>
+<rect class="box" x="282" y="276" width="196" height="50" rx="6" fill="#ede9fe"/>
+<text x="380" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#5b21b6">12 min at 0.25 gpm</text>
+<text x="380" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#5b21b6">= 3 gal = 9 lb</text>
+<rect class="box" x="510" y="88" width="220" height="250" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="524" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Float height</text>
+<text x="524" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">float-controlled valves</text>
+<text x="524" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">The float on the brine</text>
+<text x="524" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">valve closes the refill at</text>
+<text x="524" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">a set water level. A</text>
+<text x="524" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">higher float means more</text>
+<text x="524" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">water and more salt.</text>
+<rect class="box" x="522" y="276" width="196" height="50" rx="6" fill="#ede9fe"/>
+<text x="620" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#5b21b6">Raise the float</text>
+<text x="620" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#5b21b6">bigger dose</text>
+<path class="ln" d="M140,338 L140,374" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#mp)"/>
+<path class="ln" d="M380,338 L380,374" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#mp)"/>
+<path class="ln" d="M620,338 L620,374" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#mp)"/>
+<rect class="box" x="30" y="386" width="700" height="64" rx="6" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2"/>
+<text x="380" y="412" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#5b21b6">Refill water becomes brine at about 3 lb of salt per gallon</text>
+<text x="380" y="434" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Salt dose (lb) = refill gallons × 3</text>
+<text x="30" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">After any dose change, re-enter the capacity for the new dose, or the valve keeps counting</text>
+<text x="30" y="500" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">gallons for the old one.</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="crc-title crc-desc">
+<title id="crc-title">Chlorine resistant softener resin: annual cost by chlorine residual</title>
+<desc id="crc-desc">Illustrative line chart of yearly cost against chlorine residual from 0 to 4 mg/L for standard 8 percent resin, chlorine resistant 10 percent resin and a carbon filter protecting 8 percent resin. The 10 percent resin is cheapest from about 0.2 to about 3 mg/L; carbon pretreatment becomes cheaper than 8 percent resin at about 2.2 mg/L and than 10 percent resin at about 3 mg/L.</desc>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Cost per year to keep a softener bed working</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Illustrative, 1.5 cubic foot bed. Where the lines cross is what matters, not the dollar values.</text>
+<g stroke="#e2e8f0" stroke-width="1"><line x1="110" y1="335" x2="710" y2="335"/><line x1="110" y1="260" x2="710" y2="260"/><line x1="110" y1="185" x2="710" y2="185"/><line x1="110" y1="110" x2="710" y2="110"/></g>
+<line x1="110" y1="410" x2="710" y2="410" stroke="#3a5a72" stroke-width="1.5"/>
+<line x1="110" y1="110" x2="110" y2="410" stroke="#3a5a72" stroke-width="1.5"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="end"><text x="100" y="414">$0</text><text x="100" y="339">$100</text><text x="100" y="264">$200</text><text x="100" y="189">$300</text><text x="100" y="114">$400</text></g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="middle"><text x="110" y="430">0</text><text x="260" y="430">1</text><text x="410" y="430">2</text><text x="560" y="430">3</text><text x="710" y="430">4</text></g>
+<text x="410" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Free chlorine residual at the tap, mg/L (EPA maximum: 4)</text>
+<path class="ln" d="M110,275 L710,275" fill="none" stroke="#0b2f4a" stroke-width="3" stroke-dasharray="9 6"/>
+<polyline class="ln" points="110,380 147.5,374.3 185,367.5 222.5,359.5 260,350 297.5,338.7 335,325.2 372.5,309.1 410,290 447.5,267.3 485,240.3 522.5,208.2 560,170 597.5,124.6 608,110" fill="none" stroke="#52697a" stroke-width="3.5" stroke-linejoin="round"/>
+<polyline class="ln" points="110,375.3 260,375.3 297.5,368.8 335,360.9 372.5,351.7 410,340.6 447.5,327.5 485,311.9 522.5,293.3 560,271.3 597.5,245 635,213.8 672.5,176.7 710,132.5" fill="none" stroke="#0e7490" stroke-width="3.5" stroke-linejoin="round"/>
+<text x="616" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">off the scale</text>
+<circle cx="141.5" cy="375.3" r="5" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<circle cx="435.5" cy="275" r="5" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<circle cx="554" cy="275" r="5" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="150" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">10% resin pays back</text>
+<text x="150" y="321" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">above about 0.2 mg/L</text>
+<path class="ln" d="M156,327 L143,368" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="250" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Carbon beats 8% resin</text>
+<text x="250" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">above about 2.2 mg/L</text>
+<path class="ln" d="M408,238 L431,269" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="566" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Carbon beats 10% resin</text>
+<text x="566" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">above about 3 mg/L</text>
+<path class="ln" d="M566,290 L558,281" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<line x1="30" y1="480" x2="58" y2="480" stroke="#52697a" stroke-width="3.5"/>
+<text x="66" y="485" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">8% resin, no carbon</text>
+<line x1="230" y1="480" x2="258" y2="480" stroke="#0e7490" stroke-width="3.5"/>
+<text x="266" y="485" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">10% resin, no carbon</text>
+<line x1="440" y1="480" x2="468" y2="480" stroke="#0b2f4a" stroke-width="3" stroke-dasharray="9 6"/>
+<text x="476" y="485" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">carbon filter protecting 8% resin</text>
+<text x="30" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Assumes re-bed $480 (8%) or $555 (10%); 12-year life with no chlorine; life halves per 1 mg/L;</text>
+<text x="30" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">10% lasts twice as long under chlorine; carbon $140 a year all in. Swap in your own quotes.</text>
+</svg>

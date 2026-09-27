@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="wfu-title wfu-desc">
+<title id="wfu-title">Water supply fixture units to peak flow for water softener sizing</title>
+<desc id="wfu-desc">Curve for water softener flow rate sizing converting water supply fixture units to peak demand: a one-bathroom house at 7.8 WSFU needs about 12.6 gpm, a 2.5-bathroom house at 14.3 WSFU about 17.1 gpm, and four bathrooms at 20 WSFU about 19.6 gpm.</desc>
+<defs></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fixture units to peak flow</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">IPC Table E103.3(3), systems with flush-tank toilets. Count only fixtures the softener feeds.</text>
+<text x="30" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Peak demand (gpm)</text>
+<text x="90" y="435" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<text x="90" y="371" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">5</text>
+<text x="90" y="307" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">10</text>
+<text x="90" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">15</text>
+<text x="90" y="179" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">20</text>
+<text x="90" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">25</text>
+<path class="ln" d="M100,430 L100,436" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="100" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<path class="ln" d="M195,430 L195,436" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="195" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<path class="ln" d="M290,430 L290,436" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="290" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10</text>
+<path class="ln" d="M385,430 L385,436" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="385" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">15</text>
+<path class="ln" d="M480,430 L480,436" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="480" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">20</text>
+<path class="ln" d="M575,430 L575,436" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="575" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">25</text>
+<path class="ln" d="M670,430 L670,436" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="670" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">30</text>
+<text x="385" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Total water supply fixture units (WSFU)</text>
+<path class="ln" d="M100,110 L100,430 L675,430" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M119,391.6 L138,366 L157,346.8 L176,327.6 L195,309.7 L214,293 L233,279 L252,266.2 L271,254.6 L290,243.1 L309,232.9 L328,225.2 L347,218.8 L366,212.4 L385,206 L404,199.6 L423,194.5 L442,189.4 L461,184.2 L480,179.1 L575,154.8 L670,131.8" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M248.2,276.7 L248.2,424" fill="none" stroke="#c2410c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<circle cx="248.2" cy="268.7" r="7" fill="#c2410c" stroke="#ffffff" stroke-width="2"/>
+<text x="234.2" y="204.7" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#c2410c">1 bathroom</text>
+<text x="234.2" y="222.7" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#0b2f4a">7.8 WSFU: 12.6 gpm</text>
+<path class="ln" d="M371.7,219.1 L371.7,424" fill="none" stroke="#c2410c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<circle cx="371.7" cy="211.1" r="7" fill="#c2410c" stroke="#ffffff" stroke-width="2"/>
+<text x="355.7" y="171.1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#c2410c">2.5 bathrooms</text>
+<text x="355.7" y="189.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#0b2f4a">14.3 WSFU: 17.1 gpm</text>
+<path class="ln" d="M480,187.1 L480,424" fill="none" stroke="#c2410c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<circle cx="480" cy="179.1" r="7" fill="#c2410c" stroke="#ffffff" stroke-width="2"/>
+<text x="480" y="121.1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c2410c">4 bathrooms + bar sink</text>
+<text x="480" y="139.1" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">20.0 WSFU: 19.6 gpm</text>
+<text x="30" y="516" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Four bathrooms need about 1.6 times the peak flow of one bathroom, not four times, because</text>
+<text x="30" y="536" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">fewer of the fixtures are likely to run at once. Conservative for modern low-flow fixtures.</text>
+</svg>

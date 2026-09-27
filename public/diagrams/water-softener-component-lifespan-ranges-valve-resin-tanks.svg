@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 626" width="760" height="626" role="img" aria-labelledby="g18ls-title g18ls-desc">
+<title id="g18ls-title">Water softener lifespan by component: valve, resin and tanks</title>
+<desc id="g18ls-desc">Bar chart of how long a water softener lasts, component by component: valve seals 8 to 15 years, resin 10 to 15 years on clean water but 1 to 8 years on chlorinated or iron water, and tanks that usually outlast both.</desc>
+<defs></defs>
+<rect width="760" height="626" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start" fill="#0b2f4a">How long each part of a water softener lasts</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Planning ranges in years. The water you feed it decides where in the range you land.</text>
+<path d="M270,96 L270,468" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="270" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<path d="M345,96 L345,468" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="345" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<path d="M420,96 L420,468" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="420" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10</text>
+<path d="M495,96 L495,468" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="495" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">15</text>
+<path d="M570,96 L570,468" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="570" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">20</text>
+<path d="M645,96 L645,468" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="645" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">25</text>
+<path d="M720,96 L720,468" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="720" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">30</text>
+<text x="495" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Years in service</text>
+<text x="30" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Control valve seals/spacers</text>
+<rect x="390" y="109" width="105" height="22" rx="5" fill="#3a5a72"/>
+<text x="505" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">8–15 yr, then a seal kit</text>
+<text x="30" y="177" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Resin, clean water</text>
+<rect x="420" y="161" width="75" height="22" rx="5" fill="#0e7490"/>
+<text x="505" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">10–15 yr, often longer</text>
+<text x="30" y="229" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Resin, ~1 mg/L chlorine</text>
+<rect x="345" y="213" width="45" height="22" rx="5" fill="#dc2626"/>
+<text x="400" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">5–8 yr</text>
+<text x="30" y="281" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Resin, chloramine/2 mg/L</text>
+<rect x="315" y="265" width="30" height="22" rx="5" fill="#dc2626"/>
+<text x="355" y="281" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">3–5 yr</text>
+<text x="30" y="333" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Resin, iron, no iron filter</text>
+<rect x="285" y="317" width="60" height="22" rx="5" fill="#b45309"/>
+<text x="355" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">1–5 yr to fouling</text>
+<text x="30" y="385" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Mineral tank (fibreglass)</text>
+<rect class="box" x="270" y="369" width="150" height="22" rx="5" fill="#8193a3" stroke="#8193a3" stroke-width="1.5"/>
+<rect x="270" y="369" width="150" height="22" rx="5" fill="#52697a"/>
+<text x="278" y="385" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#ffffff">warranted 10 yr</text>
+<text x="30" y="437" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Brine tank / cabinet</text>
+<rect class="box" x="270" y="421" width="150" height="22" rx="5" fill="#8193a3" stroke="#8193a3" stroke-width="1.5"/>
+<rect x="270" y="421" width="75" height="22" rx="5" fill="#52697a"/>
+<text x="278" y="437" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#ffffff">warranted 5–10 yr</text>
+<path class="ln" d="M426,380 L712.5,380" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 6"/>
+<path class="ln" d="M426,432 L712.5,432" fill="none" stroke="#52697a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 6"/>
+<rect class="box" x="30" y="528" width="700" height="76" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="1.5"/>
+<text x="46" y="556" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Dashed: tanks have no wear-out part. They fail from freezing, over-pressure, vacuum or impact.</text>
+<text x="46" y="584" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">The valve and resin are what wear out, which is why most failures are repairs.</text>
+</svg>

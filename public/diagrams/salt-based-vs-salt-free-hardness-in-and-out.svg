@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" width="760" height="620" role="img" aria-labelledby="sbf-title sbf-desc">
+<title id="sbf-title">Salt based vs salt free water softener: hardness in and hardness out</title>
+<desc id="sbf-desc">Side-by-side diagram. A salt-based softener holds calcium and magnesium on resin, so 15 gpg water leaves at 0 to 1 gpg and the hardness goes to drain during regeneration. A salt-free TAC conditioner has no brine or drain; 15 gpg goes in and 15 gpg comes out as tiny crystals, so a hardness test is unchanged.</desc>
+<defs><marker id="sbf-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="sbf-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="sbf-d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><pattern id="sbf-resin" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern><pattern id="sbf-tac" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#f1f5f9"/><circle cx="6" cy="6" r="2.5" fill="#94a3b8"/></pattern></defs>
+<rect width="760" height="620" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Same hard water in, very different water out</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">What a hardness test shows after each type of treatment</text>
+<path d="M380,90 L380,520" stroke="#cbd5e1" stroke-width="2" fill="none"/>
+<text x="200" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SALT-BASED SOFTENER</text>
+<text x="200" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">ion exchange</text>
+<rect x="130" y="150" width="96" height="220" rx="22" fill="url(#sbf-resin)" stroke="#3a5a72" stroke-width="2"/>
+<text x="178" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">resin tank</text>
+<path class="ln" d="M40,190 L122,190" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sbf-h)"/>
+<text x="40" y="176" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">15 gpg in</text>
+<path class="ln" d="M232,190 L352,190" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sbf-s)"/>
+<text x="236" y="176" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">0 to 1 gpg out</text>
+<rect x="272" y="250" width="80" height="120" rx="8" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="312" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#7c3aed">brine</text>
+<path class="ln" d="M272,290 L232,290" fill="none" stroke="#7c3aed" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="312" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">salt tank</text>
+<path class="ln" d="M124,330 L60,330 L60,410" fill="none" stroke="#78716c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sbf-d)"/>
+<text x="76" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">to drain during regeneration:</text>
+<text x="76" y="457" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hardness and spent brine leave</text>
+<text x="40" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Calcium and magnesium are held on the</text>
+<text x="40" y="505" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">resin, swapped for sodium, then flushed out.</text>
+<text x="560" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SALT-FREE CONDITIONER</text>
+<text x="560" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">template assisted crystallization</text>
+<rect x="512" y="150" width="96" height="220" rx="22" fill="url(#sbf-tac)" stroke="#3a5a72" stroke-width="2"/>
+<text x="560" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">media tank</text>
+<path class="ln" d="M400,190 L504,190" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sbf-h)"/>
+<text x="400" y="176" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">15 gpg in</text>
+<path class="ln" d="M614,190 L718,190" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 10" marker-end="url(#sbf-h)"/>
+<text x="620" y="176" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">15 gpg out</text>
+<text x="622" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">as tiny crystals</text>
+<text x="622" y="235" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">carried in the</text>
+<text x="622" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">water</text>
+<text x="400" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">No salt tank, no drain line,</text>
+<text x="400" y="457" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no regeneration</text>
+<text x="400" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hardness stays in the water, in a form</text>
+<text x="400" y="505" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">less likely to stick as scale when heated.</text>
+<rect class="box" x="30" y="526" width="330" height="40" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="195" y="551" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">Hardness test after: near zero</text>
+<rect class="box" x="400" y="526" width="330" height="40" rx="6" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="565" y="551" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c2410c">Hardness test after: unchanged</text>
+<rect x="30" y="590" width="26" height="6" rx="3" fill="#c2410c"/>
+<text x="64" y="598" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hard water</text>
+<rect x="155" y="590" width="26" height="6" rx="3" fill="#0e7490"/>
+<text x="189" y="598" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">soft water</text>
+<rect x="280" y="590" width="26" height="6" rx="3" fill="#7c3aed"/>
+<text x="314" y="598" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">brine</text>
+<rect x="405" y="590" width="26" height="6" rx="3" fill="#78716c"/>
+<text x="439" y="598" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">to drain</text>
+<text x="730" y="598" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">Illustrative 15 gpg supply</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="g7ht-title g7ht-desc">
+<title id="g7ht-title">Why a hardness test reads the same after a salt-free system</title>
+<desc id="g7ht-desc">Three water samples: untreated water with dissolved calcium tests at 12 gpg; after a salt free system the same calcium is present, some as microcrystals, so it still tests at 12 gpg; after an ion-exchange softener the calcium is replaced by sodium and tests near zero.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Same calcium, different form: why the test reads high</text>
+<text x="30" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Illustrative 12 gpg example. The test counts calcium whatever form it is in.</text>
+<text x="140" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Untreated</text>
+<text x="380" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">After a salt-free (TAC) unit</text>
+<text x="620" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">After a softener</text>
+<g fill="#dbeafe"><rect x="72" y="150" width="136" height="148"/><rect x="312" y="150" width="136" height="148"/><rect x="552" y="150" width="136" height="148"/></g>
+<g fill="none" stroke="#3a5a72" stroke-width="2.5"><path d="M70,122 L70,300 L210,300 L210,122"/><path d="M310,122 L310,300 L450,300 L450,122"/><path d="M550,122 L550,300 L690,300 L690,122"/></g>
+<g fill="#c2410c">
+<circle cx="95" cy="175" r="6"/><circle cx="140" cy="168" r="6"/><circle cx="185" cy="180" r="6"/><circle cx="110" cy="210" r="6"/><circle cx="165" cy="215" r="6"/><circle cx="90" cy="250" r="6"/><circle cx="135" cy="245" r="6"/><circle cx="185" cy="255" r="6"/><circle cx="115" cy="282" r="6"/><circle cx="165" cy="280" r="6"/>
+<circle cx="335" cy="175" r="6"/><circle cx="425" cy="180" r="6"/><circle cx="350" cy="250" r="6"/><circle cx="425" cy="255" r="6"/><circle cx="405" cy="282" r="6"/>
+</g>
+<g fill="#fde7d6" stroke="#c2410c" stroke-width="2">
+<path d="M380,158 L389,170 L380,182 L371,170 z"/><path d="M350,200 L359,212 L350,224 L341,212 z"/><path d="M410,205 L419,217 L410,229 L401,217 z"/><path d="M375,265 L384,277 L375,289 L366,277 z"/>
+</g>
+<g fill="#0e7490">
+<circle cx="575" cy="172" r="5"/><circle cx="605" cy="176" r="5"/><circle cx="640" cy="168" r="5"/><circle cx="668" cy="182" r="5"/><circle cx="585" cy="212" r="5"/><circle cx="620" cy="206" r="5"/><circle cx="660" cy="218" r="5"/><circle cx="575" cy="250" r="5"/><circle cx="612" cy="244" r="5"/><circle cx="648" cy="252" r="5"/><circle cx="672" cy="240" r="5"/><circle cx="590" cy="284" r="5"/><circle cx="625" cy="280" r="5"/><circle cx="660" cy="286" r="5"/>
+</g>
+<rect class="box" x="60" y="322" width="160" height="62" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="140" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">hardness test</text>
+<text x="140" y="372" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#c2410c">12 gpg</text>
+<rect class="box" x="300" y="322" width="160" height="62" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="380" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">hardness test</text>
+<text x="380" y="372" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#c2410c">12 gpg</text>
+<rect class="box" x="540" y="322" width="160" height="62" rx="8" fill="#e0f2f1" stroke="#0e7490" stroke-width="2"/>
+<text x="620" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">hardness test</text>
+<text x="620" y="372" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="middle" fill="#0e7490">0–1 gpg</text>
+<text x="140" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">calcium fully dissolved</text>
+<text x="380" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">same calcium; some of it</text>
+<text x="380" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">now in microcrystals</text>
+<text x="620" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">calcium held on the resin,</text>
+<text x="620" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">sodium released instead</text>
+<circle cx="36" cy="484" r="6" fill="#c2410c"/><text x="50" y="489" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">calcium (hardness)</text>
+<path d="M220,474 L228,484 L220,494 L212,484 z" fill="#fde7d6" stroke="#c2410c" stroke-width="2"/><text x="238" y="489" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">calcium carbonate microcrystal</text>
+<circle cx="480" cy="484" r="5" fill="#0e7490"/><text x="494" y="489" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">sodium (not hardness)</text>
+</svg>

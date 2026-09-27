@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 545" width="760" height="545" role="img" aria-labelledby="cbl-title cbl-desc">
+<title id="cbl-title">Softened water in a combi boiler: hot water side vs sealed heating loop</title>
+<desc id="cbl-desc">Plumbing diagram of softened water in a boiler system. Softened cold water feeds the combi boiler's domestic hot water heat exchanger once through, while the sealed heating loop is filled from an untreated branch taken before the softener and recirculates the same water.</desc>
+<defs>
+<marker id="cbl-h" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="cbl-s" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<marker id="cbl-k" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+</defs>
+<rect width="760" height="545" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#0b2f4a">One boiler, two water circuits</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Softened water suits the hot water side. The sealed loop is filled once, from before the softener.</text>
+<text x="30" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">Hard cold main</text>
+<path class="ln" d="M30,155 L146,155" stroke="#c2410c" stroke-width="6" fill="none" marker-end="url(#cbl-h)"/>
+<rect class="box" x="150" y="122" width="80" height="66" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="190" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water</text>
+<text x="190" y="169" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">softener</text>
+<text x="240" y="141" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Softened</text>
+<rect class="box" x="360" y="96" width="220" height="238" rx="10" fill="#ffffff" stroke="#0b2f4a" stroke-width="2.5"/>
+<text x="470" y="120" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Combi boiler</text>
+<path class="ln" d="M230,160 L376,160" stroke="#0e7490" stroke-width="6" fill="none" marker-end="url(#cbl-s)"/>
+<rect class="box" x="380" y="134" width="180" height="62" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="470" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Hot water heat exchanger</text>
+<text x="470" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">fresh water every draw</text>
+<rect class="box" x="380" y="238" width="180" height="76" rx="6" fill="#f1f5f9" stroke="#0b2f4a" stroke-width="2"/>
+<text x="470" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Primary heat exchanger</text>
+<text x="470" y="284" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">same loop water,</text>
+<text x="470" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">round and round</text>
+<path class="ln" d="M560,165 L636,165" stroke="#0e7490" stroke-width="6" fill="none" marker-end="url(#cbl-s)"/>
+<rect class="box" x="640" y="140" width="90" height="52" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="685" y="171" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Hot taps</text>
+<path class="ln" d="M560,270 L620,270 L620,440 L160,440 L160,300 L376,300" stroke="#0b2f4a" stroke-width="5" fill="none" marker-end="url(#cbl-k)"/>
+<path class="ln" d="M620,350 L620,356" stroke="#0b2f4a" stroke-width="5" fill="none" marker-end="url(#cbl-k)"/>
+<rect x="250" y="422" width="80" height="36" rx="4" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<rect x="450" y="422" width="80" height="36" rx="4" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="290" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Radiator</text>
+<text x="490" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Radiator</text>
+<text x="190" y="346" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Sealed heating loop</text>
+<text x="190" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Filled once, then recirculated.</text>
+<text x="190" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Needs corrosion inhibitor either way.</text>
+<path class="ln" d="M70,155 L70,360 L156,360" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cbl-h)"/>
+<path d="M100,350 L120,370 L120,350 L100,370 Z" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="30" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Fill point, taken</text>
+<text x="30" y="414" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">before the softener</text>
+<path class="ln" d="M30,515 L60,515" stroke="#c2410c" stroke-width="6" fill="none"/>
+<text x="68" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Untreated (hard)</text>
+<path class="ln" d="M220,515 L250,515" stroke="#0e7490" stroke-width="6" fill="none"/>
+<text x="258" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Softened</text>
+<path class="ln" d="M360,515 L390,515" stroke="#0b2f4a" stroke-width="5" fill="none"/>
+<text x="398" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Heating loop water</text>
+</svg>

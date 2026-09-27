@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470" role="img" aria-labelledby="g22b-title g22b-desc">
+<title id="g22b-title">Why water softener regeneration water is billed twice on one water meter</title>
+<desc id="g22b-desc">Flow diagram: city water passes one meter before the softener, so the gallons a softener sends to the floor drain during regeneration are charged once as water and again as sewer. Illustrative example: 2,900 gallons a year costs 14.50 dollars in water and 20.30 dollars in sewer charges.</desc>
+<defs>
+<marker id="g22b-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+<marker id="g22b-ahh" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="g22b-ahs" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<marker id="g22b-ahd" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+</defs>
+<rect width="760" height="470" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">One meter, two charges for the same drain water</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative rates: water $5 and sewer $7 per 1,000 gallons, metered softener, 2,900 gal a year</text>
+
+<rect x="380" y="92" width="18" height="12" fill="#c2410c"/>
+<text x="404" y="103" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hard supply</text>
+<rect x="500" y="92" width="18" height="12" fill="#0e7490"/>
+<text x="524" y="103" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Softened</text>
+<rect x="608" y="92" width="18" height="12" fill="#78716c"/>
+<text x="632" y="103" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">To drain</text>
+
+<rect class="box" x="30" y="170" width="110" height="60" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="85" y="197" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water main</text>
+<text x="85" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">street</text>
+
+<rect class="box" x="180" y="170" width="140" height="60" rx="6" fill="#fff7ed" stroke="#0b2f4a" stroke-width="2"/>
+<text x="250" y="197" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water meter</text>
+<text x="250" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">counts every gallon</text>
+
+<rect class="box" x="370" y="170" width="140" height="60" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="440" y="197" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="440" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">regenerates</text>
+
+<rect class="box" x="580" y="170" width="150" height="60" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="655" y="197" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">House taps</text>
+<text x="655" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">soft water</text>
+
+<rect class="box" x="370" y="330" width="140" height="60" rx="6" fill="#f5f5f4" stroke="#78716c" stroke-width="2"/>
+<text x="440" y="357" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Floor drain</text>
+<text x="440" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2,900 gal a year</text>
+
+<rect class="box" x="580" y="330" width="150" height="60" rx="6" fill="#f5f5f4" stroke="#78716c" stroke-width="2"/>
+<text x="655" y="357" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sewer</text>
+<text x="655" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">billed on meter</text>
+
+<path class="ln" d="M140,200 L174,200" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#g22b-ahh)"/>
+<path class="ln" d="M320,200 L364,200" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#g22b-ahh)"/>
+<path class="ln" d="M510,200 L574,200" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#g22b-ahs)"/>
+<path class="ln" d="M440,230 L440,324" stroke="#78716c" stroke-width="5" fill="none" marker-end="url(#g22b-ahd)"/>
+<path class="ln" d="M510,360 L574,360" stroke="#78716c" stroke-width="5" fill="none" marker-end="url(#g22b-ahd)"/>
+<path class="ln" d="M250,230 L250,284" stroke="#52697a" stroke-width="1.5" stroke-dasharray="5 4" fill="none" marker-end="url(#g22b-ah)"/>
+
+<rect class="box" x="30" y="290" width="310" height="156" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">The bill counts the drain water twice</text>
+<text x="46" y="344" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Water: 2,900 gal x $5 = $14.50</text>
+<text x="46" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Sewer: 2,900 gal x $7 = $20.30</text>
+<text x="46" y="396" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Total: $34.80 a year</text>
+<text x="46" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Use both rates from your own bill</text>
+</svg>

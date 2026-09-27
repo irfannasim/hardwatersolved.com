@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 566" width="760" height="566" role="img" aria-labelledby="mtw-title mtw-desc">
+<title id="mtw-title">Metered vs timer water softener: capacity remaining over three weeks</title>
+<desc id="mtw-desc">Illustrative sawtooth charts. A timer softener set every 3 days regenerates 7 times in 21 days, each time with about half its capacity unused and even while the household is away. A metered softener with one day of reserve regenerates twice, only when capacity falls below the reserve.</desc>
+<defs></defs>
+<rect width="760" height="566" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Capacity left in the bed over three weeks</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative: 20,000-grain bed, 3,375 grains used per day at home, household away days 14 to 21</text>
+<text x="30" y="118" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">TIMER, EVERY 3 DAYS</text>
+<rect x="510" y="140" width="200" height="130" fill="#f1f5f9"/>
+<text x="610" y="260" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">away: no water used</text>
+<text x="102" y="275" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M110,205 L710,205" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="102" y="210" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">10,000</text>
+<path d="M110,140 L710,140" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="102" y="145" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">20,000</text>
+<path d="M110,270 L710,270" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<path d="M110,140 L195.7,205.8 L195.7,140 L281.4,205.8 L281.4,140 L367.1,205.8 L367.1,140 L452.9,205.8 L452.9,140 L510,183.9 L538.6,183.9 L538.6,140 L710,140" fill="none" stroke="#0e7490" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M188.7,126 L202.7,126 L195.7,137 z" fill="#7c3aed"/>
+<path d="M274.4,126 L288.4,126 L281.4,137 z" fill="#7c3aed"/>
+<path d="M360.1,126 L374.1,126 L367.1,137 z" fill="#7c3aed"/>
+<path d="M445.9,126 L459.9,126 L452.9,137 z" fill="#7c3aed"/>
+<path d="M531.6,126 L545.6,126 L538.6,137 z" fill="#7c3aed"/>
+<path d="M617.3,126 L631.3,126 L624.3,137 z" fill="#7c3aed"/>
+<path d="M703,126 L717,126 L710,137 z" fill="#7c3aed"/>
+<text x="710" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#7c3aed">7 regenerations</text>
+<text x="30" y="336" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">METERED, ONE DAY OF RESERVE</text>
+<rect x="510" y="358" width="200" height="130" fill="#f1f5f9"/>
+<text x="610" y="478" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">away: no water used</text>
+<text x="102" y="493" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M110,423 L710,423" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="102" y="428" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">10,000</text>
+<path d="M110,358 L710,358" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="102" y="363" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">20,000</text>
+<path d="M110,466.1 L510,466.1" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6 4" fill="none"/>
+<path d="M110,488 L710,488" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<path d="M110,358 L252.9,467.7 L252.9,358 L395.7,467.7 L395.7,358 L510,445.8 L710,445.8" fill="none" stroke="#0e7490" stroke-width="3.5" stroke-linejoin="round"/>
+<path d="M245.9,344 L259.9,344 L252.9,355 z" fill="#7c3aed"/>
+<path d="M388.7,344 L402.7,344 L395.7,355 z" fill="#7c3aed"/>
+<text x="710" y="336" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#7c3aed">2 regenerations</text>
+<text x="110" y="510" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">day 0</text>
+<text x="310" y="510" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">day 7</text>
+<text x="510" y="510" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">day 14</text>
+<text x="710" y="510" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">day 21</text>
+<text x="255.7" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">Timer regenerates with half the bed unused, and</text>
+<text x="255.7" y="311" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">keeps regenerating a full bed while nobody is home</text>
+<path d="M560,538 L576,538 L568,549 z" fill="#7c3aed"/>
+<path d="M290,544 L316,544" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4" fill="none"/>
+<text x="324" y="548" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">reserve (one day of use)</text>
+<text x="584" y="548" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">regeneration</text>
+<rect x="30" y="541" width="26" height="6" rx="3" fill="#0e7490"/>
+<text x="64" y="548" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">grains of capacity remaining</text>
+</svg>

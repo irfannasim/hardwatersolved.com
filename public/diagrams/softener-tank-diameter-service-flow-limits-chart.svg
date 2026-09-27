@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 562" width="760" height="562" role="img" aria-labelledby="tdf-title tdf-desc">
+<title id="tdf-title">Softener resin bed flow limits by tank diameter</title>
+<desc id="tdf-desc">Chart for water softener flow rate sizing: 9 to 14 inch tanks handle 4.4 to 10.7 gpm continuous and 6.6 to 16.1 gpm peak at design surface loading, compared with 12.6 and 17.1 gpm house peaks and a 20 gpm valve-only rating.</desc>
+<defs></defs>
+<rect width="760" height="562" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Resin bed flow limits by tank diameter</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Design guideline flow for the bed, compared with house peaks and one valve rating</text>
+<path class="ln" d="M220,384 L220,390" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="220" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<path d="M310,136 L310,384" stroke="#e2e8f0" stroke-width="1"/>
+<path class="ln" d="M310,384 L310,390" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="310" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<path d="M400,136 L400,384" stroke="#e2e8f0" stroke-width="1"/>
+<path class="ln" d="M400,384 L400,390" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="400" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10</text>
+<path d="M490,136 L490,384" stroke="#e2e8f0" stroke-width="1"/>
+<path class="ln" d="M490,384 L490,390" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="490" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">15</text>
+<path d="M580,136 L580,384" stroke="#e2e8f0" stroke-width="1"/>
+<path class="ln" d="M580,384 L580,390" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="580" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">20</text>
+<path d="M670,136 L670,384" stroke="#e2e8f0" stroke-width="1"/>
+<path class="ln" d="M670,384 L670,390" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="670" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">25</text>
+<text x="445" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Flow through the softener (gpm)</text>
+<text x="30" y="159" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">9 in tank</text>
+<text x="30" y="176" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">1.0 cu ft resin</text>
+<rect x="220" y="148" width="118.8" height="26" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="220" y="148" width="79.2" height="26" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<text x="30" y="209" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">10 in tank</text>
+<text x="30" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">1.0 to 1.5 cu ft</text>
+<rect x="220" y="198" width="147.6" height="26" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="220" y="198" width="99" height="26" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<text x="30" y="259" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">12 in tank</text>
+<text x="30" y="276" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">2.0 cu ft resin</text>
+<rect x="220" y="248" width="212.4" height="26" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="220" y="248" width="142.2" height="26" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<text x="30" y="309" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">13 in tank</text>
+<text x="30" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">2.5 cu ft resin</text>
+<rect x="220" y="298" width="250.2" height="26" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="220" y="298" width="165.6" height="26" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<text x="30" y="359" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">14 in tank</text>
+<text x="30" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">3.0 cu ft resin</text>
+<rect x="220" y="348" width="289.8" height="26" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="220" y="348" width="192.6" height="26" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<path class="ln" d="M220,136 L220,384 L674,384" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M446.8,134 L446.8,384" fill="none" stroke="#c2410c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<text x="440.8" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#c2410c">1 bath: 12.6 gpm</text>
+<path class="ln" d="M527.8,134 L527.8,384" fill="none" stroke="#c2410c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<text x="533.8" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">2.5 baths: 17.1 gpm</text>
+<path class="ln" d="M580,134 L580,384" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 5"/>
+<text x="574" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#3a5a72">Fleck 5600SXT valve alone, 15 psi drop: 20 gpm</text>
+<rect x="30" y="455" width="26" height="14" fill="#0e7490"/>
+<text x="64" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Continuous flow guideline: 10 gpm per sq ft of bed</text>
+<rect x="30" y="479" width="26" height="14" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="64" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Intermittent peak guideline: 15 gpm per sq ft of bed</text>
+<text x="30" y="522" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Bed area = diameter in inches squared, divided by 183 (WC&amp;P). Residential units are often rated higher</text>
+<text x="30" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">than these guidelines at a 15 psi drop, trading contact time and pressure for flow.</text>
+</svg>

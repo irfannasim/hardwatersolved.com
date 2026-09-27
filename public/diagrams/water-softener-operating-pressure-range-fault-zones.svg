@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="wpz-title wpz-desc">
+<title id="wpz-title">Water softener pressure requirements: operating range and the fault each zone causes</title>
+<desc id="wpz-desc">A 0 to 150 psi scale split into five zones for water softener pressure requirements: below 20 psi, 20 to 25 psi where brine draw can fail, 25 to 80 psi normal, 80 to 125 psi where code requires a pressure-reducing valve, and above the 125 psi valve rating.</desc>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Supply pressure and the fault each zone produces</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Static pressure at the softener inlet, in psi. Limits from the Fleck 5600SXT and Clack WS1 manuals.</text>
+<rect x="60" y="100" width="85.3" height="42" fill="#dc2626"/>
+<rect x="145.3" y="100" width="21.4" height="42" fill="#f87171"/>
+<rect x="166.7" y="100" width="234.6" height="42" fill="#0e7490"/>
+<rect x="401.3" y="100" width="192" height="42" fill="#fecaca"/>
+<rect x="593.3" y="100" width="106.7" height="42" fill="#dc2626"/>
+<rect x="60" y="100" width="640" height="42" fill="none" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="102.7" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Too low</text>
+<text x="284" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Normal operating range</text>
+<text x="497.3" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Needs a PRV</text>
+<text x="646.7" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Over rating</text>
+<text x="60" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">0</text>
+<text x="145.3" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">20</text>
+<text x="166.7" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">25</text>
+<text x="401.3" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">80</text>
+<text x="593.3" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">125</text>
+<text x="700" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">150</text>
+<path class="ln" d="M102.7,186 L94,236" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M156,186 L234,236" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M284,150 L374,236" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M497.3,172 L514,236" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M646.7,172 L654,236" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<rect class="box" x="30" y="236" width="128" height="170" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="40" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Below 20</text>
+<text x="40" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Under both</text>
+<text x="40" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">manuals' stated</text>
+<text x="40" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">minimum. The</text>
+<text x="40" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">valve may not</text>
+<text x="40" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">cycle properly.</text>
+<text x="40" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Shows as: weak</text>
+<text x="40" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">drain flow, stalls</text>
+<rect class="box" x="170" y="236" width="128" height="170" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="180" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">20 to 25</text>
+<text x="180" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Valve runs, but</text>
+<text x="180" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the injector can</text>
+<text x="180" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">fail to draw</text>
+<text x="180" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">brine. Clack: keep</text>
+<text x="180" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">25 psi minimum.</text>
+<text x="180" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Shows as: salt</text>
+<text x="180" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">unused, hard water</text>
+<rect class="box" x="310" y="236" width="128" height="170" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="320" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">25 to 80</text>
+<text x="320" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Brine draws at</text>
+<text x="320" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the designed rate</text>
+<text x="320" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">and backwash</text>
+<text x="320" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">reaches its full</text>
+<text x="320" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">flow.</text>
+<text x="320" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Shows as: normal</text>
+<text x="320" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">cycles</text>
+<rect class="box" x="450" y="236" width="128" height="170" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="460" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">80 to 125</text>
+<text x="460" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Inside the valve</text>
+<text x="460" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">rating, but the</text>
+<text x="460" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">model codes want</text>
+<text x="460" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">a PRV above 80</text>
+<text x="460" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">psi static.</text>
+<text x="460" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Shows as: hammer,</text>
+<text x="460" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">seeping fittings</text>
+<rect class="box" x="590" y="236" width="128" height="170" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="600" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Over 125</text>
+<text x="600" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Above the Fleck</text>
+<text x="600" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">and Clack stated</text>
+<text x="600" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">maximum. Tank</text>
+<text x="600" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">and valve are</text>
+<text x="600" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">outside design.</text>
+<text x="600" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Shows as: cracks,</text>
+<text x="600" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">leaks at the head</text>
+<text x="30" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Read static pressure with every tap closed. Thermal expansion and hammer spikes add to it, so a</text>
+<text x="30" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">house that reads under 80 psi at rest can still put spikes above 80 psi through the softener.</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="smc-title smc-desc">
+<title id="smc-title">Salt-free water conditioner maintenance calendar over 36 months</title>
+<desc id="smc-desc">A three-year salt-free water conditioner maintenance calendar: sediment prefilter changes every 3 to 6 months, carbon prefilter changes where chlorine requires one, cartridge conditioners replaced every 12 or 24 months, tank media replaced at 3 years, and a water heater drain in the first two months and at one year.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Three years of salt-free upkeep, month by month</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Each marker is a change or check. Intervals from manufacturer literature, typical where noted.</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="middle">
+<text x="230" y="98">0</text><text x="360" y="98">12</text><text x="490" y="98">24</text><text x="620" y="98">36 months</text>
+</g>
+<g stroke="#cbd5e1" stroke-width="1">
+<path d="M230,106 L230,404"/><path d="M360,106 L360,404"/><path d="M490,106 L490,404"/><path d="M620,106 L620,404"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">
+<text x="30" y="135" font-weight="bold">Sediment prefilter</text>
+<text x="30" y="152" font-size="13" fill="#52697a">every 3 to 6 months (typical)</text>
+<text x="30" y="195" font-weight="bold">Carbon prefilter</text>
+<text x="30" y="212" font-size="13" fill="#52697a">6 to 12 months, if needed</text>
+<text x="30" y="255" font-weight="bold">Cartridge conditioner</text>
+<text x="30" y="272" font-size="13" fill="#52697a">12 or 24 months by model</text>
+<text x="30" y="315" font-weight="bold">Tank media</text>
+<text x="30" y="332" font-size="13" fill="#52697a">3 years (OneFlow tanks)</text>
+<text x="30" y="375" font-weight="bold">Water heater drain</text>
+<text x="30" y="392" font-size="13" fill="#52697a">1 to 2 months, then 1 year</text>
+</g>
+<g fill="#0e7490"><circle cx="262.5" cy="140" r="7"/><circle cx="295" cy="140" r="7"/><circle cx="327.5" cy="140" r="7"/><circle cx="360" cy="140" r="7"/><circle cx="392.5" cy="140" r="7"/><circle cx="425" cy="140" r="7"/><circle cx="457.5" cy="140" r="7"/><circle cx="490" cy="140" r="7"/><circle cx="522.5" cy="140" r="7"/><circle cx="555" cy="140" r="7"/><circle cx="587.5" cy="140" r="7"/><circle cx="620" cy="140" r="7"/></g>
+<g fill="#3a5a72"><circle cx="295" cy="200" r="7"/><circle cx="360" cy="200" r="7"/><circle cx="425" cy="200" r="7"/><circle cx="490" cy="200" r="7"/><circle cx="555" cy="200" r="7"/><circle cx="620" cy="200" r="7"/></g>
+<g fill="#7c3aed"><rect x="353" y="253" width="14" height="14"/><rect x="483" y="253" width="14" height="14"/><rect x="613" y="253" width="14" height="14"/></g>
+<text x="650" y="265" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">12-month model</text>
+<g fill="#c2410c"><path d="M620,300 l12,20 l-24,0 z"/></g>
+<text x="642" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">media swap</text>
+<g fill="#b45309"><circle cx="249.5" cy="380" r="7"/><circle cx="360" cy="380" r="7"/></g>
+<rect class="box" x="30" y="424" width="700" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="450" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Not on the calendar: a hardness test.</text>
+<text x="46" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Conditioned water tests about as hard as untreated water, so worn media cannot be</text>
+<text x="46" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">caught with a test kit. Replace on schedule, and watch the heater for returning scale.</text>
+</svg>

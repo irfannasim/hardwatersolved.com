@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="wsdc-title wsdc-desc">
+<title id="wsdc-title">Water softener sanitizing dose ceiling by resin volume compared with a cup of bleach</title>
+<desc id="wsdc-desc">Bar chart of the maximum sanitizing dose of 5.25 percent bleach, 1.2 fluid ounces per cubic foot of resin, for softeners from 0.75 to 3 cubic feet. Even the 3 cubic foot dose of 3.6 fluid ounces is under half a cup, and a full cup of 8 fluid ounces is 2 to 9 times the ceiling.</desc>
+<defs></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#0b2f4a">Sanitizing dose ceiling vs. a cup poured by eye</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">5.25% bleach at 1.2 fl oz per cubic foot of resin (Fleck, Hellenbrand manuals)</text>
+<path class="grid" d="M160,100 L160,410" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="160" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<path class="grid" d="M224,100 L224,410" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="224" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">1</text>
+<path class="grid" d="M288,100 L288,410" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="288" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">2</text>
+<path class="grid" d="M352,100 L352,410" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="352" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">3</text>
+<path class="grid" d="M416,100 L416,410" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="416" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">4</text>
+<path class="grid" d="M480,100 L480,410" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="480" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<path class="grid" d="M544,100 L544,410" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="544" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6</text>
+<path class="grid" d="M608,100 L608,410" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="608" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">7</text>
+<path class="grid" d="M672,100 L672,410" fill="none" stroke="#e2e8f0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="672" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">8</text>
+<text x="416" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">fluid ounces of 5.25% bleach</text>
+<text x="146" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">0.75 cu ft</text>
+<rect x="160" y="118" width="57.6" height="32" rx="3" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="227.6" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">0.9 fl oz (27 mL)</text>
+<text x="146" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">1 cu ft</text>
+<rect x="160" y="168" width="76.8" height="32" rx="3" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="246.8" y="189" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">1.2 fl oz (35 mL)</text>
+<text x="146" y="240" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">1.5 cu ft</text>
+<rect x="160" y="218" width="115.2" height="32" rx="3" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="285.2" y="239" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">1.8 fl oz (53 mL)</text>
+<text x="146" y="290" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">2 cu ft</text>
+<rect x="160" y="268" width="153.6" height="32" rx="3" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="323.6" y="289" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">2.4 fl oz (71 mL)</text>
+<text x="146" y="340" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">2.5 cu ft</text>
+<rect x="160" y="318" width="192" height="32" rx="3" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="362" y="339" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">3 fl oz (89 mL)</text>
+<text x="146" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">3 cu ft</text>
+<rect x="160" y="368" width="230.4" height="32" rx="3" fill="#e6f4f6" stroke="#0e7490" stroke-width="2"/>
+<text x="400.4" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">3.6 fl oz (106 mL)</text>
+<path class="ln" d="M672,92 L672,410" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 5"/>
+<text x="672" y="86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">1 cup = 8 fl oz</text>
+<path class="ln" d="M416,92 L416,212" fill="none" stroke="#c2410c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 5"/>
+<text x="416" y="86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#c2410c">1/2 cup</text>
+<text x="30" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Using 8.25% bleach? Multiply by 0.64. A stronger bottle means a smaller pour, not the same one.</text>
+</svg>

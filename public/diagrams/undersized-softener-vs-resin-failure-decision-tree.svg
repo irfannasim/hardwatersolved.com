@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="dtn-title dtn-desc">
+<title id="dtn-title">Decision tree: undersized water softener or resin failure</title>
+<desc id="dtn-desc">Decision tree for the signs a water softener is undersized: check settings, post-regeneration hardness, delivered capacity against expected, then the calculated regeneration interval to separate undersizing from resin or brine faults.</desc>
+<defs><marker id="dtn-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="dtn-y" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Undersized softener or failing resin?</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Work down the checks in order. The first "No" names the problem.</text>
+<rect class="box" x="40" y="96" width="370" height="60" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="56" y="121" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">1. Hardness set with iron compensation,</text>
+<text x="56" y="141" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">and reserve covers the heaviest day?</text>
+<rect class="box" x="480" y="96" width="250" height="60" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="494" y="121" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fix the settings first.</text>
+<text x="494" y="141" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Free, and often the whole answer.</text>
+<path class="ln" d="M412,126 L476,126" fill="none" stroke="#52697a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#dtn-a)"/>
+<text x="445" y="117" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
+<path class="ln" d="M100,158 L100,194" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#dtn-y)"/>
+<text x="112" y="181" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">Yes</text>
+<rect class="box" x="40" y="196" width="370" height="60" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="56" y="221" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2. Freshly regenerated water tests</text>
+<text x="56" y="241" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">at or near 0 gpg?</text>
+<rect class="box" x="480" y="196" width="250" height="60" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<text x="494" y="221" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Brine or resin fault.</text>
+<text x="494" y="241" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Check the brine draw, then resin.</text>
+<path class="ln" d="M412,226 L476,226" fill="none" stroke="#52697a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#dtn-a)"/>
+<text x="445" y="217" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
+<path class="ln" d="M100,258 L100,294" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#dtn-y)"/>
+<text x="112" y="281" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">Yes</text>
+<rect class="box" x="40" y="296" width="370" height="60" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="56" y="321" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3. Delivered capacity roughly 85%</text>
+<text x="56" y="341" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">or more of expected?</text>
+<rect class="box" x="480" y="296" width="250" height="60" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+<text x="494" y="321" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Resin or brine fault.</text>
+<text x="494" y="341" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">A bigger unit will not fix it.</text>
+<path class="ln" d="M412,326 L476,326" fill="none" stroke="#52697a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#dtn-a)"/>
+<text x="445" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
+<path class="ln" d="M100,358 L100,394" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#dtn-y)"/>
+<text x="112" y="381" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">Yes</text>
+<rect class="box" x="40" y="396" width="370" height="60" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="56" y="421" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4. Calculated interval under</text>
+<text x="56" y="441" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2 to 3 days?</text>
+<rect class="box" x="480" y="396" width="250" height="60" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="494" y="421" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Not undersized. Recheck the</text>
+<text x="494" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">reserve and regeneration time.</text>
+<path class="ln" d="M412,426 L476,426" fill="none" stroke="#52697a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#dtn-a)"/>
+<text x="445" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
+<path class="ln" d="M100,458 L100,494" fill="none" stroke="#0e7490" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#dtn-y)"/>
+<text x="112" y="481" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">Yes</text>
+<rect class="box" x="40" y="496" width="370" height="66" rx="6" fill="#cffafe" stroke="#0e7490" stroke-width="2"/>
+<text x="56" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Undersized. The resin is fine; there is</text>
+<text x="56" y="543" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">not enough of it. Size up from usable capacity.</text>
+<text x="480" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Delivered capacity = gallons to first</text>
+<text x="480" y="534" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hardness (over 1 gpg) × compensated</text>
+<text x="480" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hardness. Expected = resin × dose figure.</text>
+</svg>

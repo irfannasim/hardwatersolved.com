@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="twd-title twd-desc">
+<title id="twd-title">Tankless warranty check before choosing a salt-free conditioner</title>
+<desc id="twd-desc">Decision chain for a salt-free conditioner on a tankless water heater. If the manual sets a hardness number and your tested hardness is above it, a salt-free conditioner leaves that number unchanged, so soften or get written approval. If the warranty only excludes scale damage, a conditioner helps but flush records decide the claim.</desc>
+<defs>
+<marker id="twd-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Does a salt-free system satisfy your warranty?</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect class="box" x="30" y="62" width="330" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="88" font-size="14" font-weight="bold" fill="#0b2f4a">Start: your model's manual</text>
+<text x="46" y="108" font-size="13" fill="#52697a">water quality table and warranty</text>
+<rect class="box" x="30" y="150" width="330" height="80" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="176" font-size="14" font-weight="bold" fill="#0b2f4a">Does it set a hardness number?</text>
+<text x="46" y="196" font-size="13" fill="#52697a">Noritz: 12 gpg exclusion</text>
+<text x="46" y="214" font-size="13" fill="#52697a">Navien, Rinnai: 200 mg/L in table</text>
+<rect class="box" x="30" y="286" width="330" height="80" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="312" font-size="14" font-weight="bold" fill="#0b2f4a">Is your tested hardness above it?</text>
+<text x="46" y="332" font-size="13" fill="#52697a">Use a lab or drop-count test,</text>
+<text x="46" y="350" font-size="13" fill="#52697a">taken before any treatment</text>
+<rect class="box" x="30" y="422" width="330" height="96" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="448" font-size="14" font-weight="bold" fill="#dc2626">Salt-free leaves that number unchanged</text>
+<text x="46" y="470" font-size="13" fill="#0b2f4a">Treat the clause as unmet. Soften the</text>
+<text x="46" y="488" font-size="13" fill="#0b2f4a">heater feed, or get the maker's written</text>
+<text x="46" y="506" font-size="13" fill="#0b2f4a">OK for your conditioner first.</text>
+<rect class="box" x="400" y="150" width="330" height="96" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="416" y="176" font-size="14" font-weight="bold" fill="#c2410c">Scale exclusion, no number</text>
+<text x="416" y="198" font-size="13" fill="#0b2f4a">Rheem, A.O. Smith. A conditioner cuts</text>
+<text x="416" y="216" font-size="13" fill="#0b2f4a">scale, but a claim turns on scale found.</text>
+<text x="416" y="234" font-size="13" fill="#0b2f4a">Keep flush dates and receipts.</text>
+<rect class="box" x="400" y="286" width="330" height="96" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="416" y="312" font-size="14" font-weight="bold" fill="#15803d">Inside the limit</text>
+<text x="416" y="334" font-size="13" fill="#0b2f4a">The conditioner is extra protection,</text>
+<text x="416" y="352" font-size="13" fill="#0b2f4a">not a compliance measure. Keep the</text>
+<text x="416" y="370" font-size="13" fill="#0b2f4a">flush schedule in the manual.</text>
+<rect class="box" x="400" y="422" width="330" height="96" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="416" y="448" font-size="14" font-weight="bold" fill="#0b2f4a">Then check the other rows</text>
+<text x="416" y="470" font-size="13" fill="#0b2f4a">Iron 0.3 mg/L, pH 6.5 to 8.5, TDS 500</text>
+<text x="416" y="488" font-size="13" fill="#0b2f4a">mg/L (Navien), no "poorly treated"</text>
+<text x="416" y="506" font-size="13" fill="#0b2f4a">well water. A conditioner fixes none.</text>
+</g>
+<path class="ln" d="M195,124 L195,142" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#twd-a)"/>
+<path class="ln" d="M195,230 L195,278" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#twd-a)"/>
+<text x="207" y="260" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">yes</text>
+<path class="ln" d="M360,190 L392,190" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#twd-a)"/>
+<text x="376" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">no</text>
+<path class="ln" d="M195,366 L195,414" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#twd-a)"/>
+<text x="207" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">yes</text>
+<path class="ln" d="M360,326 L392,326" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#twd-a)"/>
+<text x="376" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">no</text>
+<path class="ln" d="M565,382 L565,414" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#twd-a)"/>
+<path class="ln" d="M730,198 L746,198 L746,470 L740,470" stroke="#3a5a72" stroke-width="4" fill="none" marker-end="url(#twd-a)"/>
+<text x="380" y="566" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Wording and limits vary by model and edition. The manual that shipped with your unit governs.</text>
+</svg>

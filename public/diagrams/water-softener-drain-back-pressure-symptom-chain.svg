@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" width="760" height="610" role="img" aria-labelledby="dbs-title dbs-desc">
+<title id="dbs-title">How a restricted water softener drain line causes channeling and poor brine draw</title>
+<desc id="dbs-desc">Cause and effect chain for a water softener drain line that is too small, too long, too high or kinked. Back pressure weakens backwash so the bed compacts and channels, and weakens injector draw so brine builds up in the tank. A bucket test at the drain end confirms it.</desc>
+<defs><marker id="dbs-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="610" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">One drain restriction, two chains of symptoms</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Neither chain produces a symptom at the drain line itself.</text>
+<rect class="box" x="180" y="84" width="400" height="62" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="380" y="110" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Drain line spends too much pressure</text>
+<text x="380" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">too small, too long, too high, kinked or clogged</text>
+<path class="ln" d="M300,148 L300,164 L190,164 L190,178" fill="none" stroke="#3a5a72" stroke-width="4" marker-end="url(#dbs-a)"/>
+<path class="ln" d="M460,148 L460,164 L570,164 L570,178" fill="none" stroke="#3a5a72" stroke-width="4" marker-end="url(#dbs-a)"/>
+<text x="40" y="176" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">BACKWASH</text>
+<text x="720" y="176" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#52697a">BRINE DRAW</text>
+<rect class="box" x="40" y="190" width="300" height="56" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="56" y="213" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Backwash flow drops</text>
+<text x="56" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">below the flow control's rating</text>
+<rect class="box" x="40" y="272" width="300" height="56" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="56" y="295" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Bed is not lifted or cleaned</text>
+<text x="56" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">sediment and fines stay in the resin</text>
+<rect class="box" x="40" y="354" width="300" height="56" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="56" y="377" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Bed compacts and channels</text>
+<text x="56" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">water cuts preferred paths</text>
+<rect class="box" x="40" y="436" width="300" height="56" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="56" y="459" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#c2410c">Erratic hardness</text>
+<text x="56" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">soft one week, hard the next</text>
+<rect class="box" x="420" y="190" width="300" height="56" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="436" y="213" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Injector draw weakens</text>
+<text x="436" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">less pressure difference across it</text>
+<rect class="box" x="420" y="272" width="300" height="56" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="436" y="295" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Less brine reaches the resin</text>
+<text x="436" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">each regeneration recharges less</text>
+<rect class="box" x="420" y="354" width="300" height="56" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="436" y="377" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Refill water builds up</text>
+<text x="436" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">the draw removes less than refill adds</text>
+<rect class="box" x="420" y="436" width="300" height="56" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="436" y="459" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#c2410c">Early hardness, high brine level</text>
+<text x="436" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">looks like an injector or salt fault</text>
+<g fill="none" stroke="#3a5a72" stroke-width="4">
+<path class="ln" d="M190,248 L190,262" marker-end="url(#dbs-a)"/>
+<path class="ln" d="M190,330 L190,344" marker-end="url(#dbs-a)"/>
+<path class="ln" d="M190,412 L190,426" marker-end="url(#dbs-a)"/>
+<path class="ln" d="M570,248 L570,262" marker-end="url(#dbs-a)"/>
+<path class="ln" d="M570,330 L570,344" marker-end="url(#dbs-a)"/>
+<path class="ln" d="M570,412 L570,426" marker-end="url(#dbs-a)"/>
+</g>
+<rect class="box" x="40" y="518" width="680" height="62" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="56" y="543" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#15803d">Confirm it: time a bucket at the drain end during backwash</text>
+<text x="56" y="566" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Well below the gpm stamped on the flow control means the drain is spending too much pressure.</text>
+</svg>

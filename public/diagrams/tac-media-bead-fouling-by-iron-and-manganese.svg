@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="tmf-title tmf-desc">
+<title id="tmf-title">How iron and manganese foul salt-free conditioner media on well water</title>
+<desc id="tmf-desc">Two views of the same TAC media bead. On filtered water its surface sites seed hardness into crystals that are carried away. On untreated well water an iron oxide coating, manganese oxide and silt cover the sites, so hardness passes through dissolved and scale returns in the water heater.</desc>
+<defs>
+<marker id="tmf-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="tmf-at" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+</defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Why well water disables salt-free media</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The same media bead, shown on two different feeds (not to scale)</text>
+<rect class="box" x="30" y="82" width="340" height="318" rx="8" fill="#f8fafc" stroke="#0e7490" stroke-width="2"/>
+<text x="200" y="108" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">Filtered feed: sites open</text>
+<text x="82" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#c2410c">dissolved</text>
+<text x="82" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#c2410c">hardness</text>
+<path class="ln" d="M48,236 L112,236" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#tmf-ah)"/>
+<text x="318" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0e7490">crystals</text>
+<text x="318" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0e7490">carried off</text>
+<path class="ln" d="M288,236 L352,236" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#tmf-at)"/>
+<circle cx="200" cy="236" r="66" fill="#f6ead2" stroke="#e2b865" stroke-width="3"/>
+<g fill="#0e7490">
+<circle cx="200" cy="170" r="6"/><circle cx="247" cy="189" r="6"/><circle cx="266" cy="236" r="6"/><circle cx="247" cy="283" r="6"/><circle cx="200" cy="302" r="6"/><circle cx="153" cy="283" r="6"/><circle cx="134" cy="236" r="6"/><circle cx="153" cy="189" r="6"/>
+</g>
+<g fill="#0e7490"><path d="M272,140 l5,-6 l5,6 l-5,6 z"/><path d="M292,150 l4,-5 l4,5 l-4,5 z"/><path d="M280,300 l5,-6 l5,6 l-5,6 z"/><path d="M296,284 l4,-5 l4,5 l-4,5 z"/></g>
+<text x="200" y="344" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Surface sites seed crystals,</text>
+<text x="200" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">so they do not grow on the</text>
+<text x="200" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">heater element.</text>
+<rect class="box" x="390" y="82" width="340" height="318" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="560" y="108" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Untreated well feed: sites coated</text>
+<text x="442" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#c2410c">dissolved</text>
+<text x="442" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#c2410c">hardness</text>
+<path class="ln" d="M408,236 L472,236" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#tmf-ah)"/>
+<text x="678" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#c2410c">still</text>
+<text x="678" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#c2410c">dissolved</text>
+<path class="ln" d="M648,236 L712,236" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#tmf-ah)"/>
+<circle cx="560" cy="236" r="66" fill="#f6ead2" stroke="#e2b865" stroke-width="3"/>
+<circle cx="560" cy="236" r="72" fill="none" stroke="#b45309" stroke-width="12"/>
+<g fill="#0b2f4a"><circle cx="560" cy="164" r="4"/><circle cx="614" cy="190" r="4"/><circle cx="632" cy="250" r="4"/><circle cx="590" cy="302" r="4"/><circle cx="518" cy="296" r="4"/><circle cx="490" cy="226" r="4"/><circle cx="512" cy="180" r="4"/></g>
+<g fill="#a8a29e"><circle cx="597" cy="171" r="5"/><circle cx="628" cy="212" r="5"/><circle cx="620" cy="281" r="5"/><circle cx="552" cy="308" r="5"/><circle cx="496" cy="266" r="5"/><circle cx="530" cy="168" r="5"/></g>
+<text x="560" y="344" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Oxide and silt cover the sites.</text>
+<text x="560" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Hardness passes through, and</text>
+<text x="560" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">scale returns in the heater.</text>
+<circle cx="40" cy="430" r="6" fill="#0e7490"/>
+<text x="54" y="435" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">active site / crystal</text>
+<rect x="196" y="424" width="22" height="12" fill="#b45309"/>
+<text x="226" y="435" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">iron oxide coating</text>
+<circle cx="372" cy="430" r="5" fill="#0b2f4a"/>
+<text x="384" y="435" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">manganese oxide</text>
+<circle cx="518" cy="430" r="5" fill="#a8a29e"/>
+<text x="530" y="435" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">silt and sediment</text>
+<rect class="box" x="30" y="458" width="700" height="80" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="484" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Published media limits: iron 0.3 mg/L, manganese 0.05 mg/L, copper 1.3 mg/L</text>
+<text x="380" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Hydrogen sulfide and oil must be removed first. Adding more media</text>
+<text x="380" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">does not help; the coating forms on every bead.</text>
+</svg>

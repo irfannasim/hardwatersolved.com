@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="dbs-title dbs-desc">
+<title id="dbs-title">Descale before installing a salt-free conditioner: six-step sequence</title>
+<desc id="dbs-desc">Sequence for starting a salt-free conditioner from a clean baseline: record a baseline, descale the tankless heater or flush the tank heater, soak showerheads and aerators, install the conditioner as the last stage, clean aerators and drain the heater in the first 30 to 90 days, then drain and inspect again at one year.</desc>
+<defs><marker id="dbs-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Start from a clean baseline, in this order</text>
+<text x="30" y="80" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#c2410c">BEFORE INSTALL</text>
+<text x="400" y="80" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">INSTALL AND AFTER</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect class="box" x="30" y="94" width="330" height="116" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="46" y="120" font-size="15" font-weight="bold" fill="#0b2f4a">1. Record the baseline</text>
+<text x="46" y="144" font-size="13" fill="#0b2f4a">Photograph fixtures, note tankless</text>
+<text x="46" y="164" font-size="13" fill="#0b2f4a">low-flow temperature, pull and</text>
+<text x="46" y="184" font-size="13" fill="#0b2f4a">photograph an electric element.</text>
+<rect class="box" x="30" y="236" width="330" height="116" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="46" y="262" font-size="15" font-weight="bold" fill="#0b2f4a">2. Descale the heater</text>
+<text x="46" y="286" font-size="13" fill="#0b2f4a">Tankless: pump descaler through the</text>
+<text x="46" y="306" font-size="13" fill="#0b2f4a">exchanger. Tank: drain and flush;</text>
+<text x="46" y="326" font-size="13" fill="#0b2f4a">replace a crusted element.</text>
+<rect class="box" x="30" y="378" width="330" height="116" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="46" y="404" font-size="15" font-weight="bold" fill="#0b2f4a">3. Soak the small stuff</text>
+<text x="46" y="428" font-size="13" fill="#0b2f4a">Showerheads, aerators, kettle,</text>
+<text x="46" y="448" font-size="13" fill="#0b2f4a">coffee maker, dishwasher: acid</text>
+<text x="46" y="468" font-size="13" fill="#0b2f4a">soak or descaler now, not later.</text>
+<rect class="box" x="400" y="94" width="330" height="116" rx="8" fill="#e0f2f7" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="120" font-size="15" font-weight="bold" fill="#0b2f4a">4. Install the conditioner</text>
+<text x="416" y="144" font-size="13" fill="#0b2f4a">Last stage in the treatment train,</text>
+<text x="416" y="164" font-size="13" fill="#0b2f4a">on the cold line, with a bypass.</text>
+<text x="416" y="184" font-size="13" fill="#0b2f4a">Write the date on the tank.</text>
+<rect class="box" x="400" y="236" width="330" height="116" rx="8" fill="#e0f2f7" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="262" font-size="15" font-weight="bold" fill="#0b2f4a">5. Days 30 to 90</text>
+<text x="416" y="286" font-size="13" fill="#0b2f4a">Clear aerators and showerheads if</text>
+<text x="416" y="306" font-size="13" fill="#0b2f4a">flakes appear. Drain the tank heater</text>
+<text x="416" y="326" font-size="13" fill="#0b2f4a">at 30 to 60 days.</text>
+<rect class="box" x="400" y="378" width="330" height="116" rx="8" fill="#e0f2f7" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="404" font-size="15" font-weight="bold" fill="#0b2f4a">6. One year on</text>
+<text x="416" y="428" font-size="13" fill="#0b2f4a">Drain the heater again and compare</text>
+<text x="416" y="448" font-size="13" fill="#0b2f4a">element, exchanger temperature and</text>
+<text x="416" y="468" font-size="13" fill="#0b2f4a">fixtures with the step 1 baseline.</text>
+</g>
+<path class="ln" d="M195,210 L195,228" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dbs-ah)"/>
+<path class="ln" d="M195,352 L195,370" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dbs-ah)"/>
+<path class="ln" d="M360,436 L380,436 L380,152 L392,152" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dbs-ah)"/>
+<path class="ln" d="M565,210 L565,228" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dbs-ah)"/>
+<path class="ln" d="M565,352 L565,370" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dbs-ah)"/>
+<text x="380" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Steps 5 and 6 follow the drain intervals in Next's ScaleStop manual.</text>
+</svg>

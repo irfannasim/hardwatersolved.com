@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="obf-title obf-desc">
+<title id="obf-title">Softened water reads above 1 gpg: blend setting or fault?</title>
+<desc id="obf-desc">Flowchart for a softener outlet hardness reading above 1 gpg. If the water is soft right after a regeneration but rises toward the end of the cycle, the bed runs out before regenerating. If it is hard right after regeneration, close the bypass and any mixing screw: a drop to zero means a blend setting, no change means a regeneration or valve fault.</desc>
+<defs><marker id="obf-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Above 1 gpg at the outlet: blend or fault?</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Two timed samples and one valve check sort most readings</text>
+<rect class="box" x="30" y="92" width="320" height="48" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="190" y="122" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Outlet reads above 1 gpg</text>
+<path class="ln" d="M190,140 L190,168" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#obf-a)"/>
+<rect class="box" x="30" y="174" width="320" height="64" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="190" y="202" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1. Hard right after a regeneration?</text>
+<text x="190" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Sample the morning after a cycle</text>
+<path class="ln" d="M350,206 L414,206" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#obf-a)"/>
+<text x="382" y="194" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">No</text>
+<rect class="box" x="420" y="174" width="310" height="64" rx="6" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="575" y="202" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#c2410c">Bed runs out before regenerating</text>
+<text x="575" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Raise reserve, recheck hardness setting</text>
+<path class="ln" d="M190,238 L190,290" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#obf-a)"/>
+<text x="202" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Yes</text>
+<rect class="box" x="30" y="296" width="320" height="64" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="190" y="324" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2. Close bypass and mixing screw</text>
+<text x="190" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Does the outlet now read zero?</text>
+<path class="ln" d="M350,328 L414,328" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#obf-a)"/>
+<text x="382" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Yes</text>
+<rect class="box" x="420" y="296" width="310" height="64" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="575" y="324" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#15803d">Blend setting, not a fault</text>
+<text x="575" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Keep it, or reset the blend</text>
+<path class="ln" d="M190,360 L190,412" stroke="#0b2f4a" stroke-width="3" fill="none" marker-end="url(#obf-a)"/>
+<text x="202" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">No</text>
+<rect class="box" x="30" y="418" width="320" height="64" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="190" y="446" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">Regeneration or valve fault</text>
+<text x="190" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Check salt, bridge, brine draw, seals</text>
+</svg>

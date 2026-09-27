@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="stb-title stb-desc">
+<title id="stb-title">Where a salt-free conditioner goes for a tankless heater or boiler</title>
+<desc id="stb-desc">Plumbing layout for a salt-free conditioner protecting a tankless water heater or the hot water side of a combi boiler: cold supply, sediment filter, conditioner as the last stage on the cold line, isolation valves, then the heater. A closed hydronic heating loop is filled once and is not a job for a conditioner.</desc>
+<defs>
+<marker id="stb-h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="stb-t" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+</defs>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Salt-free protection for heating equipment</text>
+<text x="30" y="72" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Tankless heater or combi boiler hot-water side</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">
+<rect class="box" x="30" y="90" width="110" height="74" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="85" y="123">Cold</text><text x="85" y="141">supply</text>
+<rect class="box" x="170" y="90" width="110" height="74" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="225" y="123">Sediment</text><text x="225" y="141">filter</text>
+<rect class="box" x="310" y="90" width="130" height="74" rx="6" fill="#e0f2f7" stroke="#0e7490" stroke-width="2"/>
+<text x="375" y="114" font-weight="bold" fill="#0e7490">Salt-free</text><text x="375" y="132" font-weight="bold" fill="#0e7490">conditioner</text><text x="375" y="152" fill="#52697a">last stage</text>
+<rect class="box" x="470" y="90" width="110" height="74" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="525" y="123">Isolation</text><text x="525" y="141">valves</text>
+<rect class="box" x="610" y="90" width="120" height="74" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="670" y="123">Tankless or</text><text x="670" y="141">combi DHW</text>
+</g>
+<path class="ln" d="M140,127 L162,127" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#stb-h)"/>
+<path class="ln" d="M280,127 L302,127" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#stb-h)"/>
+<path class="ln" d="M440,127 L462,127" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#stb-t)"/>
+<path class="ln" d="M580,127 L602,127" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#stb-t)"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">
+<text x="310" y="194">Cold side only: OneFlow rated 40 to 100°F inlet.</text>
+<text x="310" y="214">Nothing after it except point-of-use filters.</text>
+</g>
+<rect class="box" x="30" y="238" width="330" height="96" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">No phosphate feeder as well</text>
+<text x="46" y="286" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Watts and Next say no other antiscalant</text>
+<text x="46" y="304" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">before or after the media. Pick one scale</text>
+<text x="46" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">treatment, not two.</text>
+<rect class="box" x="400" y="238" width="330" height="96" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="416" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Keep the valves and the flushes</text>
+<text x="416" y="286" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Descale before install, then keep the</text>
+<text x="416" y="304" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">manual's flush schedule. The records</text>
+<text x="416" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">matter as much as the treatment.</text>
+<text x="30" y="378" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Closed hydronic heating loop</text>
+<rect class="box" x="30" y="394" width="700" height="120" rx="8" fill="#f1f5f9" stroke="#78716c" stroke-width="2"/>
+<text x="46" y="422" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Filled once, sealed, recirculated: not a job for a conditioner</text>
+<text x="46" y="446" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">The loop's scale potential is set by the fill water, which barely changes after the first fill.</text>
+<text x="46" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Watts says its media performs best in single-pass potable water. Treat the fill water</text>
+<text x="46" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">to the boiler manual. Weil-McLain, for example, says to consult a water treatment</text>
+<text x="46" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">company above 7 grains.</text>
+</svg>

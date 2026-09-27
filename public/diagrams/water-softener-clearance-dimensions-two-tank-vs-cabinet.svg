@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" width="760" height="650" role="img" aria-labelledby="cd-title cd-desc">
+<title id="cd-title">Water softener space requirements: clearance dimensions for two-tank and cabinet units</title>
+<desc id="cd-desc">Front view of a two-tank water softener with a 52 inch media tank and valve, an 18 by 33 inch brine tank and a 12 inch lift zone above the valve, beside a 44.5 inch cabinet softener with an 18 inch lid zone above it.</desc>
+<defs>
+<marker id="cd-dim" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#52697a"/></marker>
+<pattern id="cd-beads" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern>
+</defs>
+<rect width="760" height="650" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Water softener clearances: two-tank vs cabinet</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Front view, drawn to scale. The dashed zones are the ones most installs miss.</text>
+<text x="40" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Two-tank softener</text>
+<text x="40" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">10 x 52 in media tank, 18 x 33 in brine tank</text>
+<text x="420" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Cabinet softener</text>
+<text x="420" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">14 W x 44.5 H x 20.5 D in</text>
+<rect x="140" y="180" width="70" height="60" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="6 4"/>
+<rect x="150" y="280" width="50" height="220" rx="18" fill="url(#cd-beads)" stroke="#3a5a72" stroke-width="2"/>
+<rect x="145" y="240" width="60" height="40" rx="4" fill="#0b2f4a"/>
+<rect x="250" y="335" width="90" height="165" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<rect x="254" y="385" width="82" height="112" fill="#e5e7eb"/>
+<line x1="30" y1="500" x2="730" y2="500" stroke="#52697a" stroke-width="2"/>
+<line class="ln" x1="120" y1="184" x2="120" y2="236" stroke="#52697a" stroke-width="1.5" marker-start="url(#cd-dim)" marker-end="url(#cd-dim)"/>
+<line class="ln" x1="120" y1="244" x2="120" y2="496" stroke="#52697a" stroke-width="1.5" marker-start="url(#cd-dim)" marker-end="url(#cd-dim)"/>
+<text x="110" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0e7490">12 in</text>
+<text x="110" y="375" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">52 in</text>
+<text x="220" y="204" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Lift zone</text>
+<text x="220" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">12 in above valve</text>
+<text x="220" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">valve</text>
+<line class="ln" x1="355" y1="339" x2="355" y2="496" stroke="#52697a" stroke-width="1.5" marker-start="url(#cd-dim)" marker-end="url(#cd-dim)"/>
+<text x="364" y="422" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">33 in</text>
+<text x="295" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">salt</text>
+<text x="175" y="524" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Media tank</text>
+<text x="175" y="542" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10 in wide</text>
+<text x="295" y="524" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Brine tank</text>
+<text x="295" y="542" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">18 in wide</text>
+<rect x="490" y="188" width="90" height="90" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="6 4"/>
+<rect x="500" y="278" width="70" height="222" rx="4" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<line x1="500" y1="300" x2="570" y2="300" stroke="#3a5a72" stroke-width="2"/>
+<line class="ln" x1="470" y1="192" x2="470" y2="274" stroke="#52697a" stroke-width="1.5" marker-start="url(#cd-dim)" marker-end="url(#cd-dim)"/>
+<line class="ln" x1="470" y1="282" x2="470" y2="496" stroke="#52697a" stroke-width="1.5" marker-start="url(#cd-dim)" marker-end="url(#cd-dim)"/>
+<text x="460" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0e7490">18 in</text>
+<text x="460" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">44.5 in</text>
+<text x="592" y="226" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Lid zone</text>
+<text x="592" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">18 in above cabinet</text>
+<text x="580" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">salt lid</text>
+<text x="535" y="524" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Cabinet</text>
+<text x="535" y="542" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">14 in wide</text>
+<rect class="box" x="30" y="568" width="700" height="62" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="46" y="592" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Dashed zones are recommended working clearance, not a manufacturer's minimum.</text>
+<text x="46" y="614" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Also keep 24 in clear in front and 6 in behind. Tank sizes: Water-Right spec table.</text>
+</svg>

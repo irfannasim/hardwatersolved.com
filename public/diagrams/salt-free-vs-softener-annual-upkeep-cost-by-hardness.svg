@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="sfc-title sfc-desc">
+<title id="sfc-title">Salt-free conditioner vs water softener annual upkeep cost at 10 and 25 gpg</title>
+<desc id="sfc-desc">Illustrative worked example of annual upkeep for a four-person home on city water. The softener costs about 113 dollars a year at 10 grains and 238 dollars at 25 grains, while the salt-free conditioner costs 210 dollars, or 290 with a carbon prefilter, at either hardness.</desc>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Annual upkeep: salt-free vs softener</text>
+<text x="730" y="40" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">ILLUSTRATIVE</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Worked example from this article: 4 people, city water, running costs only (no purchase price)</text>
+<g stroke="#e2e8f0" stroke-width="1"><path d="M110,273.3 L720,273.3"/><path d="M110,186.7 L720,186.7"/></g>
+<path class="ln" d="M110,92 L110,360 L720,360" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="end">
+<text x="100" y="364">$0</text><text x="100" y="277">$100</text><text x="100" y="191">$200</text><text x="100" y="104">$300</text>
+</g>
+<rect x="145" y="262.1" width="70" height="97.9" fill="#7c3aed"/>
+<rect x="225" y="178" width="70" height="182" fill="#0e7490"/>
+<rect x="305" y="108.7" width="70" height="251.3" fill="#9fd3dd" stroke="#0e7490" stroke-width="2"/>
+<rect x="445" y="153.7" width="70" height="206.3" fill="#7c3aed"/>
+<rect x="525" y="178" width="70" height="182" fill="#0e7490"/>
+<rect x="605" y="108.7" width="70" height="251.3" fill="#9fd3dd" stroke="#0e7490" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">
+<text x="180" y="254">$113</text><text x="260" y="170">$210</text><text x="340" y="100">$290</text>
+<text x="480" y="146">$238</text><text x="560" y="170">$210</text><text x="640" y="100">$290</text>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">
+<text x="260" y="384">10 gpg city water</text><text x="560" y="384">25 gpg city water</text>
+</g>
+<rect x="110" y="406" width="16" height="16" fill="#7c3aed"/>
+<text x="134" y="419" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Softener (salt, water, resin)</text>
+<rect x="330" y="406" width="16" height="16" fill="#0e7490"/>
+<text x="354" y="419" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Salt-free</text>
+<rect x="440" y="406" width="16" height="16" fill="#9fd3dd" stroke="#0e7490" stroke-width="2"/>
+<text x="464" y="419" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Salt-free with carbon prefilter</text>
+<rect class="box" x="30" y="442" width="700" height="78" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="468" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Softener upkeep rises with hardness. Salt-free upkeep does not.</text>
+<text x="46" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">In this example the costs cross in the 20s of grains. Below that the softener is cheaper</text>
+<text x="46" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">to run, and it is the only one of the two that actually softens.</text>
+</svg>

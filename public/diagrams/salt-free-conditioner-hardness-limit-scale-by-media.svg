@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="hls-title hls-desc">
+<title id="hls-title">Salt-free conditioner hardness limit scale, 0 to 80 grains per gallon</title>
+<desc id="hls-desc">A hardness scale showing where published salt-free conditioner hardness limits fall: 25 gpg where ecoTAC asks for sizing help, 30 gpg as the OneFlow recommended maximum and cartridge limit, and 75 gpg as the ceiling for ScaleStop, Filtersorb SP3 and OneFlow tank systems.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Published hardness limits for salt-free media</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Grains per gallon (gpg). 1 gpg = 17.1 mg/L as calcium carbonate.</text>
+<text x="250" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">25: ecoTAC asks to size</text>
+<path class="ln" d="M256,112 L256,150" fill="none" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="304" y="128" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">30: OneFlow recommended max; cartridge max</text>
+<path class="ln" d="M297.5,134 L297.5,150" fill="none" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="700" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">75: ScaleStop, SP3, OneFlow tank ceiling</text>
+<path class="ln" d="M668.75,112 L668.75,150" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="50" y="150" width="247.5" height="44" fill="#e0f2f7" stroke="#0e7490" stroke-width="2"/>
+<rect x="297.5" y="150" width="371.25" height="44" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<rect x="668.75" y="150" width="41.25" height="44" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="173.75" y="177" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">0 to 30</text>
+<text x="483" y="177" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#c2410c">30 to 75</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="middle">
+<text x="50" y="214">0</text><text x="132.5" y="214">10</text><text x="215" y="214">20</text><text x="297.5" y="214">30</text><text x="380" y="214">40</text><text x="462.5" y="214">50</text><text x="545" y="214">60</text><text x="627.5" y="214">70</text><text x="710" y="214">80</text>
+</g>
+<rect x="50" y="236" width="86.6" height="12" fill="#cbd5e1"/>
+<text x="146" y="247" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">USGS "very hard" begins at 10.5 gpg (180 mg/L). 30 gpg is almost three times that.</text>
+<rect class="box" x="30" y="276" width="222" height="146" rx="8" fill="#f0f9fb" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="302" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">Under 30 gpg</text>
+<text x="46" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Inside every rating in</text>
+<text x="46" y="348" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">this table. Hardness is</text>
+<text x="46" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">rarely the limit that</text>
+<text x="46" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">fails here.</text>
+<rect class="box" x="269" y="276" width="222" height="146" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="285" y="302" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#c2410c">30 to 75 gpg</text>
+<text x="285" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Scale control inside the</text>
+<text x="285" y="348" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">pipes is still rated, but</text>
+<text x="285" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">spotting on glass and</text>
+<text x="285" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">fixtures gets worse.</text>
+<text x="285" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Watts says test first.</text>
+<rect class="box" x="508" y="276" width="222" height="146" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="524" y="302" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Over 75 gpg</text>
+<text x="524" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Outside every published</text>
+<text x="524" y="348" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">rating. No manufacturer</text>
+<text x="524" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">here claims results.</text>
+<text x="524" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Soften instead.</text>
+<rect class="box" x="30" y="444" width="700" height="52" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="467" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">The same sheets cap iron at 0.3 mg/L and manganese at 0.05 mg/L.</text>
+<text x="380" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">On well water, those lines are usually crossed long before hardness is.</text>
+</svg>

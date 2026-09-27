@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 490" width="760" height="490" role="img" aria-labelledby="sgc-title sgc-desc">
+<title id="sgc-title">Why sodium matters in steam generators: hard vs softened water over many top-ups</title>
+<desc id="sgc-desc">Illustrative diagram of softened water in a steam oven or iron reservoir: on hard water, calcium leaves the water as scale; on softened water, sodium stays dissolved and concentrates with each top-up, which can cause foaming, spitting and residue.</desc>
+<defs>
+<marker id="sgc-a" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+<pattern id="sgc-lo-h" width="26" height="22" patternUnits="userSpaceOnUse"><circle cx="6" cy="6" r="2.5" fill="#c2410c"/></pattern>
+<pattern id="sgc-lo-s" width="26" height="22" patternUnits="userSpaceOnUse"><circle cx="6" cy="6" r="2.5" fill="#0e7490"/></pattern>
+<pattern id="sgc-hi-s" width="10" height="9" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2.5" fill="#0e7490"/></pattern>
+</defs>
+<rect width="760" height="490" fill="#ffffff"/>
+<text x="30" y="44" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#0b2f4a">Why sodium matters in a steam generator</text>
+<text x="30" y="68" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Water boils off as steam. What was dissolved in it stays behind, top-up after top-up.</text>
+<text x="250" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">First fill</text>
+<text x="420" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">After many top-ups</text>
+<text x="625" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">What you get</text>
+<text x="30" y="190" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#c2410c">Hard water</text>
+<rect x="200" y="140" width="100" height="92" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="203" y="166" width="94" height="63" rx="8" fill="#dbeafe"/>
+<rect x="203" y="166" width="94" height="63" rx="8" fill="url(#sgc-lo-h)"/>
+<rect x="370" y="140" width="100" height="92" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="373" y="166" width="94" height="63" rx="8" fill="#dbeafe"/>
+<rect x="373" y="166" width="94" height="63" rx="8" fill="url(#sgc-lo-h)"/>
+<rect x="373" y="213" width="94" height="16" rx="6" fill="#c2410c"/>
+<path class="ln" d="M306,186 L362,186" stroke="#0b2f4a" stroke-width="4" fill="none" marker-end="url(#sgc-a)"/>
+<path class="ln" d="M476,186 L512,186" stroke="#0b2f4a" stroke-width="4" fill="none" marker-end="url(#sgc-a)"/>
+<rect class="box" x="520" y="140" width="210" height="92" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="534" y="164" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Scale on the bottom</text>
+<text x="534" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Calcium drops out as a solid.</text>
+<text x="534" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Less stays dissolved.</text>
+<text x="534" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Descale on schedule.</text>
+<text x="30" y="350" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">Softened water</text>
+<rect x="200" y="300" width="100" height="92" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="203" y="326" width="94" height="63" rx="8" fill="#dbeafe"/>
+<rect x="203" y="326" width="94" height="63" rx="8" fill="url(#sgc-lo-s)"/>
+<rect x="370" y="300" width="100" height="92" rx="10" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<rect x="373" y="326" width="94" height="63" rx="8" fill="#dbeafe"/>
+<rect x="373" y="326" width="94" height="63" rx="8" fill="url(#sgc-hi-s)"/>
+<path class="ln" d="M306,346 L362,346" stroke="#0b2f4a" stroke-width="4" fill="none" marker-end="url(#sgc-a)"/>
+<path class="ln" d="M476,346 L512,346" stroke="#0b2f4a" stroke-width="4" fill="none" marker-end="url(#sgc-a)"/>
+<rect class="box" x="520" y="300" width="210" height="92" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="534" y="324" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">No scale, salty water</text>
+<text x="534" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Sodium stays dissolved and</text>
+<text x="534" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">concentrates. Risk of foaming,</text>
+<text x="534" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">spitting and residue.</text>
+<text x="30" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative. Applies wherever water boils or evaporates away and is topped up without a full drain:</text>
+<text x="30" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">iron tanks, steam oven reservoirs and cooler sumps without a bleed-off.</text>
+</svg>

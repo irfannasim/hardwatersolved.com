@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="rsd-title rsd-desc">
+<title id="rsd-title">How long water softener regeneration takes: minutes per stage and what sets each</title>
+<desc id="rsd-desc">Bar chart of one water softener regeneration from the Clack WS1 downflow table at a medium salt dose: backwash 8 minutes, brine draw and slow rinse 60, second backwash 8, fast rinse 4, and about 6 minutes of brine refill, marking which stages are timer settings and which are fixed by the injector, salt dose and refill flow rate.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Where the minutes go in one regeneration</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Clack WS1 downflow, 7.5 to 12 lb salt per cubic foot, normal backwash. Refill assumes 9 lb of salt.</text>
+<text x="250" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Minutes</text>
+<text x="586" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">What sets the length</text>
+<text x="30" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Backwash</text>
+<text x="30" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">8 min</text>
+<rect x="250" y="122" width="44.0" height="26" rx="4" fill="#0b2f4a"/>
+<rect class="box" x="586" y="120" width="146" height="30" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="659" y="140" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#0e7490">Timer setting</text>
+<text x="30" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Brine draw + slow rinse</text>
+<text x="30" y="208" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">60 min</text>
+<rect x="250" y="178" width="330.0" height="26" rx="4" fill="#7c3aed"/>
+<rect class="box" x="586" y="176" width="146" height="30" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="1.5"/>
+<text x="659" y="196" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#dc2626">Injector + salt dose</text>
+<text x="30" y="246" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Second backwash</text>
+<text x="30" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">8 min</text>
+<rect x="250" y="234" width="44.0" height="26" rx="4" fill="#0b2f4a"/>
+<rect class="box" x="586" y="232" width="146" height="30" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="659" y="252" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#0e7490">Timer setting</text>
+<text x="30" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Fast rinse</text>
+<text x="30" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">4 min</text>
+<rect x="250" y="290" width="22.0" height="26" rx="4" fill="#0b2f4a"/>
+<rect class="box" x="586" y="288" width="146" height="30" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="659" y="308" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#0e7490">Timer setting</text>
+<text x="30" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Brine refill</text>
+<text x="30" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">about 6 min</text>
+<rect x="250" y="346" width="33.0" height="26" rx="4" fill="#0b2f4a"/>
+<rect class="box" x="586" y="344" width="146" height="30" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="1.5"/>
+<text x="659" y="364" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="middle" fill="#dc2626">Salt dose / refill rate</text>
+<path class="ln" d="M250,396 L250,402" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="250" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<path class="ln" d="M360,396 L360,402" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="360" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">20</text>
+<path class="ln" d="M470,396 L470,402" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="470" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">40</text>
+<path class="ln" d="M580,396 L580,402" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="580" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">60</text>
+<path class="ln" d="M250,396 L580,396" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="30" y="404" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Total: about 86 min</text>
+<text x="30" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Teal tag: a time you or an installer can change. Red tag: set by hardware and salt, so changing the</text>
+<text x="30" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">timer alone will not shorten it safely. Fleck 5600SXT runs one backwash; its steps are set in minutes.</text>
+</svg>

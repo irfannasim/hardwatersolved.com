@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 460" width="760" height="460" role="img" aria-labelledby="g11du-title g11du-desc">
+<title id="g11du-title">Dielectric union between galvanized steel and copper at a water softener connection</title>
+<desc id="g11du-desc">Cross-section of a dielectric union used when connecting a water softener's copper piping to galvanized steel: a steel half, an insulating washer and sleeve, and a brass half, so the two metals never touch. Because it breaks electrical continuity, a bonding jumper spans it where the water pipe is part of the ground.</desc>
+<rect width="760" height="460" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Copper to galvanized: what a dielectric union does</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">An insulating washer and sleeve keep the steel and brass halves from touching.</text>
+
+<rect x="40" y="205" width="160" height="30" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="200" y="180" width="128" height="80" fill="#94a3b8" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="328" y="176" width="16" height="88" fill="#0b2f4a"/>
+<rect x="344" y="186" width="126" height="68" fill="#d6ad5c" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="470" y="205" width="250" height="30" fill="#f1c6a0" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="200" y="214" width="520" height="12" fill="#dbeafe"/>
+<rect x="40" y="214" width="160" height="12" fill="#dbeafe"/>
+
+<text x="120" y="194" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">galvanized steel</text>
+<text x="264" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">steel half</text>
+<text x="336" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">insulating washer and sleeve</text>
+<path class="ln" d="M336,126 L336,170" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="407" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">brass half</text>
+<text x="600" y="194" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">copper to the softener</text>
+<text x="336" y="290" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">no metal-to-metal contact across the joint</text>
+
+<path class="ln" d="M120,240 L120,250 C120,352 600,352 600,250 L600,240" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<rect x="110" y="236" width="20" height="10" fill="#52697a"/>
+<rect x="590" y="236" width="20" height="10" fill="#52697a"/>
+<text x="360" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">bonding jumper clamped to both sides</text>
+
+<text x="30" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The same break happens at a plastic bypass or softener valve. Where the metal water pipe is part</text>
+<text x="30" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">of the electrical ground, a jumper restores the path. Some jurisdictions accept a brass transition</text>
+<text x="30" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">instead of a dielectric union; your local code decides. Illustrative, not to scale.</text>
+</svg>

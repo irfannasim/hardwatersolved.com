@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" width="760" height="450" role="img" aria-labelledby="fmd-title fmd-desc">
+<title id="fmd-title">When fine mesh softener resin is worth it on well water</title>
+<desc id="fmd-desc">Three gates decide whether fine mesh resin suits an iron-bearing well: the iron must still be dissolved, air must be kept out upstream, and the well and pressure must support frequent regeneration and extra pressure drop. Failing any gate points to iron filtration, fixing air entry or staying with standard mesh resin.</desc>
+<defs>
+<marker id="fmd-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="450" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Fine mesh on a well: three gates to pass</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Fine mesh only helps with iron the resin can exchange. Fail a gate and the answer changes.</text>
+<rect class="box" x="30" y="96" width="150" height="112" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Iron dissolved?</text>
+<text x="44" y="144" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">clear from the tap,</text>
+<text x="44" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">orange after standing</text>
+<rect class="box" x="210" y="96" width="150" height="112" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="224" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Air kept out?</text>
+<text x="224" y="144" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">no aerator, cascading</text>
+<text x="224" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">well or open storage</text>
+<text x="224" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">ahead of the softener</text>
+<rect class="box" x="390" y="96" width="150" height="112" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="404" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Well can cope?</text>
+<text x="404" y="144" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">water for frequent</text>
+<text x="404" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">regenerations, and</text>
+<text x="404" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">pressure to spare</text>
+<rect class="box" x="570" y="96" width="160" height="112" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="584" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Fine mesh wins</text>
+<text x="584" y="144" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">match the drain flow</text>
+<text x="584" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">control and basket</text>
+<text x="584" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">slots to the beads</text>
+<path class="ln" d="M180,158 L202,158" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#fmd-a)"/>
+<path class="ln" d="M360,158 L382,158" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#fmd-a)"/>
+<path class="ln" d="M540,158 L562,158" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#fmd-a)"/>
+<text x="195" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<text x="375" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<text x="555" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M105,208 L105,256" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#fmd-a)"/>
+<path class="ln" d="M285,208 L285,256" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#fmd-a)"/>
+<path class="ln" d="M465,208 L465,256" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#fmd-a)"/>
+<text x="116" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">No</text>
+<text x="296" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">No</text>
+<text x="476" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">No</text>
+<rect class="box" x="30" y="264" width="150" height="94" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="44" y="289" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Not a resin job</text>
+<text x="44" y="311" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">rust particles foul</text>
+<text x="44" y="329" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">any resin: filter the</text>
+<text x="44" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">iron out first</text>
+<rect class="box" x="210" y="264" width="150" height="94" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="224" y="289" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Fix the air first</text>
+<text x="224" y="311" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">iron rusts inside the</text>
+<text x="224" y="329" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">bed, and fine beads</text>
+<text x="224" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">trap it faster</text>
+<rect class="box" x="390" y="264" width="150" height="94" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="404" y="289" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Stay standard</text>
+<text x="404" y="311" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">or size the system</text>
+<text x="404" y="329" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">around the well</text>
+<text x="404" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">before the media</text>
+<rect class="box" x="30" y="382" width="700" height="50" rx="8" fill="#fffbeb" stroke="#b45309" stroke-width="1.5"/>
+<text x="46" y="403" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Backwash: fine mesh needs a lower rate than standard resin, not a higher one.</text>
+<text x="46" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">A drain flow control sized for standard resin can lift fine beads out to the drain.</text>
+</svg>

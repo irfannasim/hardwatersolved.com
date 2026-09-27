@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="nes-title nes-desc">
+<title id="nes-title">Is a non-electric water softener right for this site? Decision checks</title>
+<desc id="nes-desc">Decision chain for choosing a non-electric water softener: first confirm dynamic pressure at the softener inlet stays above the valve minimum, then check whether an outlet is within reach or cheap to add, then whether regeneration during long outages matters. Pressure failures rule out both types; no outlet favours non-electric; otherwise electric is cheaper to buy and repair.</desc>
+<defs>
+<marker id="nes-a" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Electric or non-electric? Check the site in this order</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Pressure comes first because it rules out both kinds of valve, not just one.</text>
+<rect class="box" x="30" y="92" width="430" height="74" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. With taps running and after any filters, does</text>
+<text x="46" y="138" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">inlet pressure stay above the valve's minimum?</text>
+<text x="46" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">15 psi on the Kinetico 2030s; 20 psi on Fleck and Clack</text>
+<rect class="box" x="520" y="86" width="210" height="86" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="534" y="110" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Neither type is safe</text>
+<text x="534" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Fix pressure first. A</text>
+<text x="534" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">booster pump needs an</text>
+<text x="534" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">outlet anyway</text>
+<path class="ln" d="M460,129 L510,129" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#nes-a)"/>
+<text x="485" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<path class="ln" d="M245,166 L245,208" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#nes-a)"/>
+<text x="258" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="216" width="430" height="66" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="243" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Is there an outlet within reach, or can an</text>
+<text x="46" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">electrician add one for less than the premium?</text>
+<rect class="box" x="520" y="216" width="210" height="66" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="534" y="243" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Non-electric</text>
+<text x="534" y="263" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">is the practical choice</text>
+<path class="ln" d="M460,249 L510,249" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#nes-a)"/>
+<text x="485" y="235" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<path class="ln" d="M245,282 L245,324" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#nes-a)"/>
+<text x="258" y="308" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<rect class="box" x="30" y="332" width="430" height="66" rx="8" fill="#f4f9fb" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="359" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Must it regenerate through long outages?</text>
+<text x="46" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">City water, or a well pump on a generator</text>
+<rect class="box" x="520" y="332" width="210" height="66" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="534" y="359" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Non-electric</text>
+<text x="534" y="379" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">earns its premium</text>
+<path class="ln" d="M460,365 L510,365" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#nes-a)"/>
+<text x="485" y="351" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M245,398 L245,440" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#nes-a)"/>
+<text x="258" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">No</text>
+<rect class="box" x="30" y="448" width="430" height="58" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="46" y="473" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Electric</text>
+<text x="46" y="493" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Cheaper to buy, and parts are sold by many suppliers</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="g17rb-title g17rb-desc">
+<title id="g17rb-title">Renting vs buying a water softener break-even matrix by monthly rent and purchase price</title>
+<desc id="g17rb-desc">Illustrative matrix of years until buying a water softener costs less than renting, for rents of $25 to $60 a month and installed prices of $1,000 to $2,500. At $35 to $45 a month and $1,500 installed, buying breaks even in about 3.3 to 4.5 years.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="42" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Renting vs buying a water softener: years to break even</text>
+<text x="30" y="66" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Years until buying costs less than renting (illustrative; owner upkeep $7 a month)</text>
+<text x="460" y="100" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">Installed purchase price</text>
+<text x="272.5" y="130" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">$1,000</text>
+<text x="397.5" y="130" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">$1,500</text>
+<text x="522.5" y="130" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">$2,000</text>
+<text x="647.5" y="130" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">$2,500</text>
+<text x="30" y="130" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">Monthly rent</text>
+<text x="30" y="183" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$25 a month</text>
+<rect class="box" x="213" y="149" width="119" height="56" rx="6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="272.5" y="184" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0e7490">4.6 yrs</text>
+<rect class="box" x="338" y="149" width="119" height="56" rx="6" fill="#f1f5f9" stroke="#52697a" stroke-width="1.5"/>
+<text x="397.5" y="184" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#52697a">6.9 yrs</text>
+<rect class="box" x="463" y="149" width="119" height="56" rx="6" fill="#f1f5f9" stroke="#52697a" stroke-width="1.5"/>
+<text x="522.5" y="184" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#52697a">9.3 yrs</text>
+<rect class="box" x="588" y="149" width="119" height="56" rx="6" fill="#f1f5f9" stroke="#52697a" stroke-width="1.5"/>
+<text x="647.5" y="184" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#52697a">11.6 yrs</text>
+<text x="30" y="245" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$35 a month</text>
+<rect class="box" x="213" y="211" width="119" height="56" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="272.5" y="246" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">3.0 yrs</text>
+<rect class="box" x="338" y="211" width="119" height="56" rx="6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="397.5" y="246" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0e7490">4.5 yrs</text>
+<rect class="box" x="463" y="211" width="119" height="56" rx="6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="522.5" y="246" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0e7490">6.0 yrs</text>
+<rect class="box" x="588" y="211" width="119" height="56" rx="6" fill="#f1f5f9" stroke="#52697a" stroke-width="1.5"/>
+<text x="647.5" y="246" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#52697a">7.4 yrs</text>
+<text x="30" y="307" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$45 a month</text>
+<rect class="box" x="213" y="273" width="119" height="56" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="272.5" y="308" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">2.2 yrs</text>
+<rect class="box" x="338" y="273" width="119" height="56" rx="6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="397.5" y="308" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0e7490">3.3 yrs</text>
+<rect class="box" x="463" y="273" width="119" height="56" rx="6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="522.5" y="308" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0e7490">4.4 yrs</text>
+<rect class="box" x="588" y="273" width="119" height="56" rx="6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="647.5" y="308" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0e7490">5.5 yrs</text>
+<text x="30" y="369" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$60 a month</text>
+<rect class="box" x="213" y="335" width="119" height="56" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="272.5" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">1.6 yrs</text>
+<rect class="box" x="338" y="335" width="119" height="56" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="397.5" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">2.4 yrs</text>
+<rect class="box" x="463" y="335" width="119" height="56" rx="6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="522.5" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0e7490">3.1 yrs</text>
+<rect class="box" x="588" y="335" width="119" height="56" rx="6" fill="#cffafe" stroke="#0e7490" stroke-width="1.5"/>
+<text x="647.5" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0e7490">3.9 yrs</text>
+<rect x="30" y="419" width="16" height="12" rx="2" fill="#15803d"/>
+<text x="52" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">3 years or less: buy</text>
+<rect x="250" y="419" width="16" height="12" rx="2" fill="#0e7490"/>
+<text x="272" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">3 to 6 years: buy if staying</text>
+<rect x="500" y="419" width="16" height="12" rx="2" fill="#94a3b8"/>
+<text x="522" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Over 6 years: renting holds up</text>
+<text x="30" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Break-even = installed price ÷ (monthly rent − $7 owner upkeep). Salt is left out because</text>
+<text x="30" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">you pay for it either way; if the rent includes salt delivery, add that to the rent side.</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="esp-title esp-desc">
+<title id="esp-title">Existing scale in a water heater after a salt-free conditioner install: three paths</title>
+<desc id="esp-desc">Illustrative chart of scale thickness in a water heater over 24 months. Untreated, scale keeps growing. With a salt-free conditioner installed on an already scaled heater, growth stops but most of the old layer stays. Descaling first and then installing the conditioner keeps the heater close to clean.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What happens to old scale after install</text>
+<text x="730" y="40" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">ILLUSTRATIVE</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Scale layer on a water heater surface, same house, three choices</text>
+<path class="ln" d="M90,92 L90,360 L700,360" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="80" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">thick</text>
+<text x="80" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">clean</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a" text-anchor="middle">
+<text x="130" y="382">install</text><text x="272" y="382">6 mo</text><text x="415" y="382">12 mo</text><text x="557" y="382">18 mo</text><text x="700" y="382">24 mo</text>
+</g>
+<path class="ln" d="M130,98 L130,360" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="5 4" fill="none"/>
+<path class="ln" d="M130,220 L272,188 L415,158 L557,130 L690,104" fill="none" stroke="#c2410c" stroke-width="4"/>
+<text x="560" y="96" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#c2410c">No treatment: keeps growing</text>
+<path class="ln" d="M130,220 L180,226 L272,230 L415,232 L557,233 L690,234" fill="none" stroke="#b45309" stroke-width="4"/>
+<text x="690" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#b45309">Conditioner on scaled heater: old layer stays</text>
+<path class="ln" d="M130,220 L140,340 L272,344 L415,345 L557,345 L690,346" fill="none" stroke="#0e7490" stroke-width="4"/>
+<text x="690" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0e7490">Descale first, then condition: stays near clean</text>
+<rect class="box" x="30" y="402" width="700" height="98" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="428" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">The small early dip is the only removal makers claim.</text>
+<text x="46" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Next says old scale may shed in the first 30 to 90 days, clogging aerators for a while.</text>
+<text x="46" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">It does not claim to clear a thick layer, and it tells owners to drain the heater</text>
+<text x="46" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">30 to 60 days after install and again at one year.</text>
+</svg>

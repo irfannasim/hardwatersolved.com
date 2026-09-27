@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="g11la-title g11la-desc">
+<title id="g11la-title">Water softener loop flow direction: tracing the inlet and outlet legs</title>
+<desc id="g11la-desc">A builder's water softener loop: two legs come out of the wall joined by a jumper. The inlet leg connects back to the main from the meter, after the outdoor tap branch. The outlet leg runs to the water heater cold inlet and the house fixtures. Trace each leg from both ends to confirm the loop flow direction.</desc>
+<defs>
+<marker id="g11la-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+</defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Which loop leg is the inlet? Follow both ends</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Until a softener is fitted, hard water runs through both legs and the jumper.</text>
+
+<rect x="30" y="84" width="700" height="96" fill="#f1f5f9"/>
+<text x="380" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">inside wall or ceiling</text>
+
+<path class="ln" d="M40,140 L300,140 L300,420 Q300,480 340,480 L420,480 Q460,480 460,420 L460,140 L670,140 L670,226" stroke="#c2410c" stroke-width="6" fill="none" stroke-linejoin="round" marker-end="url(#g11la-h)"/>
+<path class="ln" d="M150,140 L150,100" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#g11la-h)"/>
+<text x="132" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">outdoor taps</text>
+<path class="ln" d="M560,140 L560,100" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#g11la-h)"/>
+<text x="578" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">house fixtures</text>
+<text x="40" y="164" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">from meter or tank</text>
+
+<path d="M290,248 L310,248 L300,264 Z M290,280 L310,280 L300,264 Z" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<path d="M450,248 L470,248 L460,264 Z M450,280 L470,280 L460,264 Z" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="288" y="330" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#c2410c">Leg A: inlet</text>
+<text x="288" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">hard water in</text>
+<text x="472" y="330" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">Leg B: outlet</text>
+<text x="472" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">soft once fitted</text>
+<text x="288" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">leg valve</text>
+<text x="472" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">leg valve</text>
+
+<rect x="372" y="486" width="16" height="22" fill="#52697a"/>
+<text x="380" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">jumper, with drain valve if fitted</text>
+
+<rect class="box" x="620" y="230" width="100" height="160" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="670" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">water</text>
+<text x="670" y="324" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">heater</text>
+<text x="620" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">trace back from</text>
+<text x="620" y="430" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">its cold inlet</text>
+<text x="40" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">trace forward from the</text>
+<text x="40" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">main shutoff</text>
+
+<text x="30" y="562" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Both traces must agree. If they do not, or a leg disappears into a finished wall, use the drain or cut test.</text>
+</svg>

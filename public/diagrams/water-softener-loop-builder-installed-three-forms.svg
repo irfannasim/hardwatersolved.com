@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="bl-title bl-desc">
+<title id="bl-title">How to recognize a builder-installed water softener loop</title>
+<desc id="bl-desc">Three common forms of a water softener loop left by a builder in new construction: an exposed U-shaped jumper out of a garage wall, a recessed loop box with two valves, and two capped stubs with the jumper hidden in the wall, with the checks that confirm it is the softener loop.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Three forms of a builder-installed softener loop</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Usually in the garage by the water heater, a basement or a utility closet.</text>
+<rect x="40" y="90" width="200" height="240" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="280" y="90" width="200" height="240" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<rect x="520" y="90" width="200" height="240" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<path class="ln" d="M110,90 L110,250 Q110,284 140,284 Q170,284 170,250 L170,90" fill="none" stroke="#c2410c" stroke-width="6"/>
+<path d="M102,170 L118,170 L102,186 L118,186 z" fill="#0b2f4a"/>
+<path d="M162,170 L178,170 L162,186 L178,186 z" fill="#0b2f4a"/>
+<rect x="320" y="160" width="120" height="140" rx="4" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M350,90 L350,250 Q350,280 380,280 Q410,280 410,250 L410,90" fill="none" stroke="#c2410c" stroke-width="6"/>
+<path d="M342,196 L358,196 L342,212 L358,212 z" fill="#0b2f4a"/>
+<path d="M402,196 L418,196 L402,212 L418,212 z" fill="#0b2f4a"/>
+<path class="ln" d="M590,90 L590,236" fill="none" stroke="#c2410c" stroke-width="6"/>
+<path class="ln" d="M650,90 L650,236" fill="none" stroke="#c2410c" stroke-width="6"/>
+<rect x="582" y="236" width="16" height="12" rx="2" fill="#0b2f4a"/>
+<rect x="642" y="236" width="16" height="12" rx="2" fill="#0b2f4a"/>
+<path class="ln" d="M590,130 L650,130" fill="none" stroke="#c2410c" stroke-width="4" stroke-dasharray="6 5"/>
+<text x="664" y="128" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">hidden</text>
+<text x="664" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">jumper</text>
+<text x="620" y="276" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">caps</text>
+<text x="140" y="360" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">A. Exposed U jumper</text>
+<text x="140" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">two pipes out of the wall,</text>
+<text x="140" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">often with a valve on each</text>
+<text x="380" y="360" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">B. Recessed loop box</text>
+<text x="380" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">like a washer box, two</text>
+<text x="380" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">valves and a jumper inside</text>
+<text x="620" y="360" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">C. Capped stubs</text>
+<text x="620" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">water passes through a</text>
+<text x="620" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">jumper inside the wall</text>
+<rect class="box" x="30" y="420" width="700" height="84" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="46" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">It is the softener loop if:</text>
+<text x="46" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">both legs stay cold with hot water running; closing a loop valve drops indoor pressure;</text>
+<text x="46" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">the hose bibs still run; and the outlet leg leads to the water heater's cold inlet.</text>
+</svg>

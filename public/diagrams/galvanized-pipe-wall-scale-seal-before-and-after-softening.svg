@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="g11ga-title g11ga-desc">
+<title id="g11ga-title">Galvanized pipe wall: how scale seals corrosion pits and what softening exposes</title>
+<desc id="g11ga-desc">Three cross-sections of a galvanized pipe wall with a water softener installed at the last stage: new pipe with an intact zinc coating, old pipe where rust pits are sealed over by hard water scale, and the same pipe after softening when the scale sheds and thinned wall can weep or leak.</desc>
+<defs>
+<marker id="g11ga-h" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="g11ga-s" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+</defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Why softening old galvanized pipe can reveal leaks</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Section through the pipe wall. Outside of the pipe is at the top, water is below.</text>
+
+<rect class="box" x="30" y="86" width="216" height="360" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="138" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1. New pipe</text>
+<rect x="46" y="150" width="184" height="50" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="46" y="200" width="184" height="8" fill="#94a3b8"/>
+<rect x="46" y="208" width="184" height="112" fill="#dbeafe"/>
+<text x="138" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">steel wall</text>
+<path class="ln" d="M138,210 L138,226" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="138" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">zinc coating</text>
+<path class="ln" d="M70,290 L200,290" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#g11ga-h)"/>
+<text x="138" y="276" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#c2410c">hard water</text>
+<text x="46" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Zinc protects the steel.</text>
+<text x="46" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Full wall thickness,</text>
+<text x="46" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">full bore.</text>
+
+<rect class="box" x="272" y="86" width="216" height="360" rx="10" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2. Decades later</text>
+<rect x="288" y="150" width="184" height="50" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<path d="M360,200 L364,172 L396,172 L400,200 Z" fill="#b45309"/>
+<path d="M352,200 Q380,236 408,200 Z" fill="#b45309"/>
+<path d="M288,200 L352,200 Q380,236 408,200 L472,200 L472,214 L408,214 Q380,252 352,214 L288,214 Z" fill="#f5f5f4" stroke="#78716c" stroke-width="1.2"/>
+<rect x="288" y="214" width="184" height="106" fill="#dbeafe"/>
+<path d="M352,214 Q380,252 408,214 Z" fill="#f5f5f4" stroke="#78716c" stroke-width="1.2"/>
+<text x="300" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">steel</text>
+<text x="420" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#b45309">rust pit</text>
+<text x="300" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">scale layer</text>
+<path class="ln" d="M330,254 L330,218" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<path class="ln" d="M300,298 L456,298" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#g11ga-h)"/>
+<text x="288" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Zinc is gone and the steel</text>
+<text x="288" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">rusts. Hard water scale</text>
+<text x="288" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">coats the pits and rust.</text>
+
+<rect class="box" x="514" y="86" width="216" height="360" rx="10" fill="#ffffff" stroke="#dc2626" stroke-width="1.5"/>
+<text x="622" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#dc2626">3. After softening</text>
+<rect x="530" y="150" width="184" height="50" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.5"/>
+<path d="M602,200 L606,158 L638,158 L642,200 Z" fill="#b45309"/>
+<path d="M622,146 Q614,136 622,126 Q630,136 622,146 Z" fill="#dc2626"/>
+<text x="640" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">weep</text>
+<rect x="530" y="200" width="184" height="120" fill="#dbeafe"/>
+<text x="542" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">thin wall</text>
+<rect x="598" y="236" width="12" height="7" rx="2" fill="#78716c"/>
+<rect x="626" y="248" width="9" height="6" rx="2" fill="#b45309"/>
+<rect x="652" y="232" width="11" height="6" rx="2" fill="#78716c"/>
+<text x="542" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">flakes</text>
+<path class="ln" d="M544,298 L700,298" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#g11ga-s)"/>
+<text x="622" y="284" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0e7490">softened water</text>
+<text x="530" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">No new scale forms. Old</text>
+<text x="530" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">scale and rust shed, and a</text>
+<text x="530" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">thin spot can weep or leak.</text>
+
+<text x="30" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative, not to scale. The softener does not create the pit; it removes the deposit that was</text>
+<text x="30" y="498" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">covering it. Risk rises with the age and corrosion of the pipe.</text>
+</svg>
