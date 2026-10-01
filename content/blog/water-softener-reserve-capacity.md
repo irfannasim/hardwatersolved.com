@@ -42,7 +42,7 @@ So the reserve must cover a full day, not just "overnight and breakfast". If it 
 
 Two kinds of valve do not work this way:
 
-- **Meter-immediate** valves start regenerating the moment capacity runs out. The Fleck manual notes that they "generally do not use a reserve volume". The exception is a twin-tank unit that regenerates with soft water, where the reserve should cover the water used during regeneration.
+- **Meter-immediate** valves start regenerating the moment capacity runs out. The Fleck manual notes that they "generally do not use a reserve volume". The exception is a twin-tank unit that regenerates with soft water, where the reserve should cover the water used during regeneration. [The Fleck 9100SXT's twin-tank capacity and reserve math](/blog/fleck-9100sxt-review/) works through what that does to usable capacity, and when the twin is worth its price.
 - **Timer** valves regenerate on a fixed schedule and have no reserve setting. They also have no idea how much water you used, which is why they run out whenever the household's use changes.
 
 ## What Happens When the Reserve Is Too Small

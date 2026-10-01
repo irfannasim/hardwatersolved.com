@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 812" width="760" height="812" role="img" aria-labelledby="h5st-title h5st-desc">
+<title id="h5st-title">HALO 5 review: stage-by-stage media and replacement</title>
+<desc id="h5st-desc">Flow diagram for a HALO 5 review showing city water passing through granular carbon, catalytic carbon, Filter-Ag Plus, garnet and a permanent magnetic module, with what each stage does and when it is replaced; hardness leaves the system unchanged.</desc>
+<defs><marker id="h5a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker></defs>
+<rect width="760" height="812" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">HALO 5 review: the five stages, one tank</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">What each stage does, and when it needs replacing. Stage order as listed by installers.</text>
+<rect class="box" x="80" y="84" width="600" height="44" rx="6" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/>
+<text x="380" y="111" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#c2410c">City water in: chlorine, sediment, hardness</text>
+<path class="ln" d="M380,130 L380,148" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#h5a)"/>
+<rect class="box" x="80" y="152" width="600" height="84" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="80" y="152" width="10" height="84" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
+<text x="104" y="178" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Stage 1: Granular activated carbon</text>
+<text x="104" y="202" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Reduces chlorine, tastes, odours and some organics</text>
+<text x="104" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Carbon life: 400,000 to 800,000 gallons per cu ft (HALO figure)</text>
+<path class="ln" d="M380,240 L380,258" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#h5a)"/>
+<rect class="box" x="80" y="262" width="600" height="84" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="80" y="262" width="10" height="84" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
+<text x="104" y="288" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Stage 2: Catalytic carbon ("Centaur")</text>
+<text x="104" y="312" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Aimed at chloramine and hydrogen sulfide</text>
+<text x="104" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Replaced with stage 1 when chlorine taste or odour returns</text>
+<path class="ln" d="M380,350 L380,368" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#h5a)"/>
+<rect class="box" x="80" y="372" width="600" height="84" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="80" y="372" width="10" height="84" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
+<text x="104" y="398" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Stage 3: Filter-Ag Plus</text>
+<text x="104" y="422" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Traps suspended particles, about 5 microns per HALO</text>
+<text x="104" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Not a disinfection step. Renewed at a full re-bed</text>
+<path class="ln" d="M380,460 L380,478" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#h5a)"/>
+<rect class="box" x="80" y="482" width="600" height="84" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="80" y="482" width="10" height="84" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
+<text x="104" y="508" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Stage 4: High-density garnet</text>
+<text x="104" y="532" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Heavy support layer that keeps finer media in place</text>
+<text x="104" y="554" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Rarely replaced; reused or renewed at a re-bed</text>
+<path class="ln" d="M380,570 L380,588" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#h5a)"/>
+<rect class="box" x="80" y="592" width="600" height="84" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<rect x="80" y="592" width="10" height="84" fill="#dc2626" stroke="none" stroke-width="1.5"/>
+<text x="104" y="618" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#dc2626">Stage 5: HALO ION magnetic module</text>
+<text x="104" y="642" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Permanent magnets aimed at scale; removes no hardness</text>
+<text x="104" y="664" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">No media to replace, and no home test shows it working</text>
+<path class="ln" d="M380,680 L380,698" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#h5a)"/>
+<rect class="box" x="80" y="702" width="600" height="44" rx="6" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/>
+<text x="380" y="729" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#c2410c">To the house: filtered, but hardness unchanged</text>
+<text x="30" y="776" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Orange = water still carrying its full hardness. Every stage sits in one backwashing tank;</text>
+<text x="30" y="794" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">HALO 1-inch units held 1.5 cu ft of carbon, per the maker's own FAQ.</text>
+</svg>

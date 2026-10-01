@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="bwcw-title bwcw-desc">
+<title id="bwcw-title">Best water softener for city water: expected resin life on chlorine and chloramine</title>
+<desc id="bwcw-desc">Illustrative planning chart of expected softener resin life at 1 and 2 mg/L of free chlorine or chloramine for 8 percent resin, 10 percent resin and 10 percent resin behind a standard carbon stage, capped at 12 years.</desc>
+<defs><marker id="bwcw-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="bwcw-s" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="bwcw-h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="bwcw-b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="bwcw-o" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="bwcw-i" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="bwcw-m" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Expected resin life by disinfectant, per setup</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative planning figures. 12 years on clean water, halving per 1 mg/L for 8% resin;</text>
+<text x="30" y="80" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">10% resin at 1.5 to 2 times that. Ranges show the conservative and the optimistic figure.</text>
+<path d="M300,104 L300,488" stroke="#e2e8f0" stroke-width="1"/>
+<text x="300" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<path d="M364,104 L364,488" stroke="#e2e8f0" stroke-width="1"/>
+<text x="364" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">2</text>
+<path d="M428,104 L428,488" stroke="#e2e8f0" stroke-width="1"/>
+<text x="428" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">4</text>
+<path d="M492,104 L492,488" stroke="#e2e8f0" stroke-width="1"/>
+<text x="492" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6</text>
+<path d="M556,104 L556,488" stroke="#e2e8f0" stroke-width="1"/>
+<text x="556" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">8</text>
+<path d="M620,104 L620,488" stroke="#e2e8f0" stroke-width="1"/>
+<text x="620" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10</text>
+<path d="M684,104 L684,488" stroke="#e2e8f0" stroke-width="1"/>
+<text x="684" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">12</text>
+<text x="492" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Years of resin life (capped at 12)</text>
+<text x="30" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">8% resin, no carbon</text>
+<text x="30" y="159" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">excluded from the picks</text>
+<text x="290" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1 mg/L</text>
+<rect x="300" y="118" width="192" height="22" fill="#dc2626" stroke="#dc2626" stroke-width="1.5"/>
+<text x="500" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">6 yr</text>
+<text x="290" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">2 mg/L</text>
+<rect x="300" y="152" width="96" height="22" fill="#dc2626" stroke="#dc2626" stroke-width="1.5"/>
+<text x="404" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">3 yr</text>
+<text x="30" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">10% resin, no carbon</text>
+<text x="30" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">AFW 48k 10%, SoftPro Elite</text>
+<text x="290" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1 mg/L</text>
+<rect x="300" y="214" width="288" height="22" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="588" y="214" width="96" height="22" fill="#ffffff" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="692" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">9 to 12 yr</text>
+<text x="290" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">2 mg/L</text>
+<rect x="300" y="248" width="144" height="22" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="444" y="248" width="48" height="22" fill="#ffffff" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="500" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">4.5 to 6 yr</text>
+<text x="30" y="332" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">10% + standard carbon</text>
+<text x="30" y="351" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">AFW combo, free chlorine</text>
+<text x="290" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1 mg/L</text>
+<rect x="300" y="310" width="384" height="22" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<text x="692" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">12 yr</text>
+<text x="290" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">2 mg/L</text>
+<rect x="300" y="344" width="384" height="22" fill="#15803d" stroke="#15803d" stroke-width="1.5"/>
+<text x="692" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">12 yr</text>
+<text x="30" y="428" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">10% + standard carbon</text>
+<text x="30" y="447" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">AFW combo, chloramine</text>
+<text x="290" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1 mg/L</text>
+<rect x="300" y="406" width="288" height="22" fill="#b45309" stroke="#b45309" stroke-width="1.5"/>
+<rect x="588" y="406" width="96" height="22" fill="#ffffff" stroke="#b45309" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="692" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#b45309">9 to 12 yr</text>
+<text x="290" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">2 mg/L</text>
+<rect x="300" y="440" width="144" height="22" fill="#b45309" stroke="#b45309" stroke-width="1.5"/>
+<rect x="444" y="440" width="48" height="22" fill="#ffffff" stroke="#b45309" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="500" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#b45309">4.5 to 6 yr</text>
+<path class="ln" d="M300,104 L300,488" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="30" y="554" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Chloramine attacks resin more slowly per mg/L but holds its residual all the way to the tap,</text>
+<text x="30" y="572" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">and a 1.5 cu ft standard carbon tank removes little of it at household flows. Plan as if it were chlorine.</text>
+</svg>

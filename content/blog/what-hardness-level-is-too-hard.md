@@ -54,7 +54,7 @@ That range has two edges, and both are frequently ignored.
 
 **10.5 gpg — the very hard line.** Above this, appliance manufacturers start writing water quality into warranty terms, descaling intervals shorten sharply, and the payback period on a softener drops to a few years.
 
-**20 gpg — the top of the standard range.** Still treatable, but it changes the specification rather than just the size. Capacity requirements rise steeply, regeneration becomes more frequent, and annual salt cost roughly triples relative to 7 gpg water. Above this you're into territory where a single standard residential unit may not be the right answer.
+**20 gpg — the top of the standard range.** Still treatable, but it changes the specification rather than just the size. Capacity requirements rise steeply, regeneration becomes more frequent, and annual salt cost roughly triples relative to 7 gpg water. Above this you're into territory where a single standard residential unit may not be the right answer, and [softeners sized for 20 gpg and above](/blog/best-water-softener-for-very-hard-water/) compares the large-capacity units built for it.
 
 ![Water hardness scale in grains per gallon and mg/L showing five bands and the five thresholds for when hardness is too hard](/diagrams/water-hardness-scale-five-thresholds.svg "Five thresholds from soft to the top of the standard softener range")
 

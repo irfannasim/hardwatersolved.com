@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="wwt-title wwt-desc">
+<title id="wwt-title">Whirlpool water softener warranty tiers: standard vs PRO models</title>
+<desc id="wwt-desc">Warranty timeline for a Whirlpool water softener review: standard models get 1 year full parts and labor, extendable to 5 with Whirlpool cleanser, while PRO models get 2 years extendable to 10; both get 3 years on the electronic control board and 10 years on the tanks.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Whirlpool softener warranty: what each part gets</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">From Whirlpool's product pages and the WHES30/WHES33 owner's manual warranty, checked 1 October 2026</text>
+<text x="30" y="100" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Standard: WHES30, WHES33, WHES40, WHES44</text>
+<text x="245" y="131" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Full parts and labor</text>
+<rect x="260" y="114" width="45" height="24" fill="#0e7490"/>
+<rect x="305" y="114" width="180" height="24" fill="#cffafe" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="495" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">1 yr; 5 with cleanser</text>
+<text x="245" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Electronic control board</text>
+<rect x="260" y="149" width="135" height="24" fill="#3a5a72"/>
+<text x="405" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">3 years</text>
+<text x="245" y="201" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Resin and salt tanks</text>
+<rect class="box" x="260" y="184" width="450" height="24" fill="#52697a"/>
+<text x="485" y="201" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">10 years</text>
+<text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">PRO: WHES48, WHESFC, WHEC46</text>
+<text x="245" y="281" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Full parts and labor</text>
+<rect x="260" y="264" width="90" height="24" fill="#0e7490"/>
+<rect class="box" x="350" y="264" width="360" height="24" fill="#cffafe" stroke="#0e7490" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="530" y="281" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">2 yrs; up to 10 with cleanser</text>
+<text x="245" y="316" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Electronic control board</text>
+<rect x="260" y="299" width="135" height="24" fill="#3a5a72"/>
+<text x="405" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">3 years</text>
+<text x="245" y="351" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Resin tank</text>
+<rect class="box" x="260" y="334" width="450" height="24" fill="#52697a"/>
+<text x="485" y="351" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">10 years</text>
+<path class="ln" d="M260,378 L710,378" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M260,378 L260,384 M350,378 L350,384 M440,378 L440,384 M530,378 L530,384 M620,378 L620,384 M710,378 L710,384" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="260" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="350" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2</text>
+<text x="440" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">4</text>
+<text x="530" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6</text>
+<text x="620" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">8</text>
+<text x="710" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10 yrs</text>
+<rect class="box" x="30" y="420" width="700" height="84" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="46" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Conditions that decide the dashed extension</text>
+<text x="46" y="466" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Register the unit, use one bottle of Whirlpool cleanser every 4 months and keep every receipt.</text>
+<text x="46" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Aftermarket or non-manufacturer parts void all warranties under the current manual.</text>
+</svg>

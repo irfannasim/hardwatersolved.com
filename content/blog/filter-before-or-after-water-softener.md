@@ -67,7 +67,7 @@ On a private well with no chlorination, that reason disappears. Carbon then only
 Two cautions for city water:
 
 - **Chloramine is not chlorine.** Many utilities now disinfect with chloramine, which standard carbon removes poorly. Use catalytic carbon sized for it, or accept that some reaches the resin.
-- **One tank or two?** Some combination units stack carbon over resin in one tank. That works for chlorine, but you cannot replace the carbon without disturbing the resin. The trade-offs are in [how a carbon filter and water softener work together](/blog/carbon-filter-and-water-softener-together/).
+- **One tank or two?** Some combination units stack carbon over resin in one tank. That works for chlorine, but you cannot replace the carbon without disturbing the resin. The trade-offs are in [how a carbon filter and water softener work together](/blog/carbon-filter-and-water-softener-together/), and packages that keep each stage separate are compared in [choosing a softener and filter combo with every stage in its own housing](/blog/best-water-softener-and-filter-combos/).
 
 ## The Acid Neutralizer Trap
 

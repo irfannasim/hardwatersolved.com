@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 530" width="760" height="530" role="img" aria-labelledby="bsp-title bsp-desc">
+<title id="bsp-title">Water softener and reverse osmosis bundle price versus the two halves bought separately</title>
+<desc id="bsp-desc">Bar chart comparing three water softener and reverse osmosis bundles with the same softener and RO system bought apart: Aquasure 32k about 680 dollars versus 730, APEC 30 about 750 versus 819, APEC 45 about 850 versus 919. Each bundle saves about 50 to 70 dollars.</desc>
+<rect width="760" height="530" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#0b2f4a">Bundle price vs the same two halves bought apart</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Approximate prices checked 1 October 2026</text>
+<rect x="30" y="80" width="14" height="14" fill="#0b2f4a"/>
+<text x="52" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Bundle price</text>
+<rect x="190" y="80" width="14" height="14" fill="#0e7490"/>
+<text x="212" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Softener alone</text>
+<rect x="360" y="80" width="14" height="14" fill="#3a5a72"/>
+<text x="382" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">RO system alone</text>
+
+<text x="30" y="132" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Aquasure Harmony 32k + Premier 75 GPD RO</text>
+<text x="730" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#15803d">about $50 less as a bundle</text>
+<text x="30" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Bundle</text>
+<rect x="250" y="144" width="313" height="26" fill="#0b2f4a"/>
+<text x="571" y="162" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$680</text>
+<text x="30" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Bought apart</text>
+<rect class="box" x="250" y="180" width="248" height="26" fill="#0e7490"/>
+<text x="260" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">softener $540</text>
+<rect class="box" x="498" y="180" width="88" height="26" fill="#3a5a72"/>
+<text x="506" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">RO $190</text>
+<text x="594" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$730</text>
+
+<text x="30" y="252" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">APEC Hydro Express 30 + ROES-PH75 RO</text>
+<text x="730" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#15803d">about $70 less as a bundle</text>
+<text x="30" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Bundle</text>
+<rect x="250" y="264" width="345" height="26" fill="#0b2f4a"/>
+<text x="603" y="282" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$750</text>
+<text x="30" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Bought apart</text>
+<rect class="box" x="250" y="300" width="253" height="26" fill="#0e7490"/>
+<text x="260" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">softener $550</text>
+<rect class="box" x="503" y="300" width="124" height="26" fill="#3a5a72"/>
+<text x="511" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">RO $269</text>
+<text x="635" y="318" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$819</text>
+
+<text x="30" y="372" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">APEC Hydro Express 45 + ROES-PH75 RO</text>
+<text x="730" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#15803d">about $70 less as a bundle</text>
+<text x="30" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Bundle</text>
+<rect x="250" y="384" width="391" height="26" fill="#0b2f4a"/>
+<text x="649" y="402" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$850</text>
+<text x="30" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Bought apart</text>
+<rect class="box" x="250" y="420" width="299" height="26" fill="#0e7490"/>
+<text x="260" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">softener $650</text>
+<rect class="box" x="549" y="420" width="124" height="26" fill="#3a5a72"/>
+<text x="557" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">RO $269</text>
+<text x="681" y="438" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$919</text>
+
+<rect class="box" x="30" y="466" width="700" height="50" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="44" y="487" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Aquasure bundle from its brand store; Home Depot lists a version with a pre-filter at $800.</text>
+<text x="44" y="506" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Separate halves at brand-store or Home Depot list prices. Sales move every bar.</text>
+</svg>

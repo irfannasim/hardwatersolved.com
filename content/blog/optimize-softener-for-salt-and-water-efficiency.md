@@ -167,7 +167,7 @@ From the as-installed settings to the end of stage 3:
 - **Regeneration water:** about 2,140 gallons a year down to 1,810.
 - **Softness:** unchanged, so long as the end-of-cycle test stays under 1 gpg.
 
-Your figures will differ with hardness, household size and valve. The pattern holds, though. Most of the saving comes from the first two stages, and the last possible pound of salt is rarely worth chasing.
+Your figures will differ with hardness, household size and valve. The pattern holds, though. Most of the saving comes from the first two stages, and the last possible pound of salt is rarely worth chasing. The same logic applies if you are buying for efficiency: the [SoftPro Elite review models where an upflow softener's salt savings repay its price premium, and where they never do](/blog/softpro-elite-review/).
 
 ## What Tuning Cannot Do
 

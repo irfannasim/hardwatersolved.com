@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="chc-title chc-desc">
+<title id="chc-title">Culligan HE 10-inch water softener capacity versus salt dose, downflow and upflow</title>
+<desc id="chc-desc">Bar chart from the Culligan high efficiency owner's guide: the 10-inch model with 1.5 cubic feet of resin gives 26,781, 40,662 and 47,604 grains at 6, 12 and 18 lb of salt with downflow regeneration, and 30,081, 47,726 and 54,975 grains with upflow regeneration.</desc>
+<defs></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Culligan HE 10-inch: capacity at each salt dose</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Grains removed per recharge, 1.5 cu ft Cullex resin, from the owner's guide.</text>
+<rect x="470" y="84" width="16" height="16" rx="0" fill="#3a5a72"/>
+<text x="494" y="97" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Downflow</text>
+<rect x="590" y="84" width="16" height="16" rx="0" fill="#0e7490"/>
+<text x="614" y="97" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Upflow</text>
+<path d="M100,440 L720,440" stroke="#3a5a72" stroke-width="2" fill="none"/>
+<text x="90" y="445" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M100,336.6666666666667 L720,336.6666666666667" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="341.6666666666667" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">20,000</text>
+<path d="M100,233.33333333333334 L720,233.33333333333334" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="238.33333333333334" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">40,000</text>
+<path d="M100,130 L720,130" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="135" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">60,000</text>
+<rect x="141.33333333333331" y="301.63149999999996" width="56" height="138.36850000000004" rx="0" fill="#3a5a72"/>
+<text x="169.33333333333331" y="293.63149999999996" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">26,781</text>
+<rect x="209.33333333333331" y="284.5815" width="56" height="155.4185" rx="0" fill="#0e7490"/>
+<text x="237.33333333333331" y="276.5815" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">30,081</text>
+<text x="203.33333333333331" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">6 lb salt</text>
+<rect x="347.99999999999994" y="229.913" width="56" height="210.087" rx="0" fill="#3a5a72"/>
+<text x="375.99999999999994" y="221.913" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">40,662</text>
+<rect x="415.99999999999994" y="193.41566666666668" width="56" height="246.58433333333332" rx="0" fill="#0e7490"/>
+<text x="443.99999999999994" y="185.41566666666668" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">47,726</text>
+<text x="409.99999999999994" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">12 lb salt</text>
+<rect x="554.6666666666666" y="194.046" width="56" height="245.954" rx="0" fill="#3a5a72"/>
+<text x="582.6666666666666" y="186.046" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">47,604</text>
+<rect x="622.6666666666666" y="155.96249999999998" width="56" height="284.0375" rx="0" fill="#0e7490"/>
+<text x="650.6666666666666" y="147.96249999999998" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">54,975</text>
+<text x="616.6666666666666" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">18 lb salt</text>
+<text x="30" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">At 6 lb: 4,463 grains per lb downflow, 5,014 upflow (NSF/ANSI 44 efficiency-rated doses).</text>
+</svg>

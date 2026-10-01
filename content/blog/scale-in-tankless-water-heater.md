@@ -123,4 +123,4 @@ For a well-maintained unit on moderate water, the payoff is genuine. [ENERGY STA
 2. **Find your model's water quality table** — it is in the installation or user manual, usually within two pages of the maintenance section. Compare your number to it and note the iron, pH and TDS limits while you are there.
 3. **Start the delta-T log this month.** Four numbers, once a month, at a consistent low flow. It is the only early warning you will get.
 4. **Check for isolation valves** at the unit. If they are there, a DIY flush is a Saturday morning. If they are not, price fitting them now rather than during a failure.
-5. **If you are above 12 grains,** treat the water. Every manufacturer in the table above has told you in writing where their equipment stops, and flushing more often does not move that line.
+5. **If you are above 12 grains,** treat the water. Every manufacturer in the table above has told you in writing where their equipment stops, and flushing more often does not move that line. [Choosing a softener against your heater's own hardness clause](/blog/best-water-softener-for-tankless-water-heaters/) starts from the same manual.

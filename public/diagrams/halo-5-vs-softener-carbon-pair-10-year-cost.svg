@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="h5cost-title h5cost-desc">
+<title id="h5cost-title">HALO 5 vs a salt softener and carbon filter: 10-year cost</title>
+<desc id="h5cost-desc">Illustrative cumulative 10-year cost chart comparing a HALO 5 system, priced as an installer range, with an Aquasure Harmony softener plus Fortitude Pro carbon filter, and an Aquasure Serene salt-free bundle, for a family of four on 15 gpg city water.</desc>
+<defs></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">HALO 5 vs two Amazon pairings: 10-year cost</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Cumulative dollars, family of four on 15 gpg city water, before installation. Illustrative.</text>
+<rect x="30" y="82" width="22" height="10" fill="#78716c" stroke="none" stroke-width="1.5"/>
+<text x="62" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">HALO 5, unit $1,500 to $3,500 (installer estimate), carbon re-bed year 8</text>
+<rect x="30" y="102" width="22" height="10" fill="#0e7490" stroke="none" stroke-width="1.5"/>
+<text x="62" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Salt softener + carbon filter: Harmony 48k + Fortitude Pro 1.5 cf</text>
+<rect x="30" y="122" width="22" height="10" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
+<text x="62" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Salt-free + carbon bundle: Serene 10 GPM with Fortitude Pro</text>
+<text x="90" y="475" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">$0</text>
+<path d="M100,398.8888888888889 L600,398.8888888888889" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="403.8888888888889" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">$1,000</text>
+<path d="M100,327.77777777777777 L600,327.77777777777777" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="332.77777777777777" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">$2,000</text>
+<path d="M100,256.6666666666667 L600,256.6666666666667" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="261.6666666666667" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">$3,000</text>
+<path d="M100,185.55555555555554 L600,185.55555555555554" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="190.55555555555554" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">$4,000</text>
+<text x="100" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Yr 0</text>
+<text x="200" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Yr 2</text>
+<text x="300" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Yr 4</text>
+<text x="400" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Yr 6</text>
+<text x="500" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Yr 8</text>
+<text x="600" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Yr 10</text>
+<path d="M100.0,221.1 L150.0,221.1 L200.0,221.1 L250.0,221.1 L300.0,221.1 L350.0,221.1 L400.0,221.1 L450.0,221.1 L500.0,189.4 L550.0,189.4 L600.0,189.4 L600.0,331.6 L550.0,331.6 L500.0,331.6 L450.0,363.3 L400.0,363.3 L350.0,363.3 L300.0,363.3 L250.0,363.3 L200.0,363.3 L150.0,363.3 L100.0,363.3 Z" fill="#e7e5e4" stroke="none"/>
+<path d="M100.0,221.1 L150.0,221.1 L200.0,221.1 L250.0,221.1 L300.0,221.1 L350.0,221.1 L400.0,221.1 L450.0,221.1 L500.0,189.4 L550.0,189.4 L600.0,189.4" fill="none" stroke="#78716c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100.0,363.3 L150.0,363.3 L200.0,363.3 L250.0,363.3 L300.0,363.3 L350.0,363.3 L400.0,363.3 L450.0,363.3 L500.0,331.6 L550.0,331.6 L600.0,331.6" fill="none" stroke="#78716c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100.0,368.3 L150.0,356.7 L200.0,345.1 L250.0,333.5 L300.0,321.9 L350.0,310.4 L400.0,298.8 L450.0,287.2 L500.0,275.6 L550.0,222.7 L600.0,211.2" fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100.0,338.4 L150.0,336.5 L200.0,334.5 L250.0,332.5 L300.0,330.5 L350.0,328.5 L400.0,326.5 L450.0,324.5 L500.0,322.5 L550.0,279.3 L600.0,277.3" fill="none" stroke="#3a5a72" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100,144 L100,470 L600,470" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="610" y="194.39555555555552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">HALO high $3,946</text>
+<text x="610" y="216.15555555555557" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">Softener pair $3,640</text>
+<text x="610" y="282.2888888888889" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#3a5a72">Salt-free pair $2,710</text>
+<text x="610" y="336.61777777777775" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#78716c">HALO low $1,946</text>
+<text x="30" y="528" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Only the softener pair removes hardness. The other two lines buy filtration plus scale control.</text>
+<text x="30" y="550" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Softener: salt at 2,890 grains per lb and $7 a bag, $36 a year of water. Carbon tanks replaced near</text>
+<text x="30" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">end of rated life. Sediment cartridge $28 a year assumed. Prices checked 1 October 2026.</text>
+</svg>

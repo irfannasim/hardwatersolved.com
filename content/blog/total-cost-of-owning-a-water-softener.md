@@ -71,7 +71,7 @@ The two efficiency limits come from the NSF/ANSI 44 efficiency rating. The US De
 
 ### Equipment and installation
 
-The model uses $1,500 for a metered single-tank softener installed on an existing plumbing loop, and $1,800 for the larger unit at 25 gpg. Treat that as a placeholder. A self-installed online unit can come in well under $1,000. A dealer-installed premium brand can cost two or three times as much. Most of the variation between quotes comes from the drain run, the loop and any electrical work rather than the tank. That breakdown is in [how much water softener installation costs](/blog/water-softener-installation-cost/).
+The model uses $1,500 for a metered single-tank softener installed on an existing plumbing loop, and $1,800 for the larger unit at 25 gpg. Treat that as a placeholder. A self-installed online unit can come in well under $1,000, and [comparing budget softeners on ten-year cost, parts included](/blog/best-budget-water-softeners/) shows which cheap units stay cheap to own. A dealer-installed premium brand can cost two or three times as much. Most of the variation between quotes comes from the drain run, the loop and any electrical work rather than the tank. That breakdown is in [how much water softener installation costs](/blog/water-softener-installation-cost/).
 
 ### Salt
 

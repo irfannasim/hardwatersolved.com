@@ -140,7 +140,7 @@ Work through it in this order:
 1. **Measure dynamic pressure at the softener inlet**, with fixtures running, downstream of any filters and at the bottom of the pump cycle. If it does not stay above the valve's minimum, fix pressure first. Neither type is the answer yet.
 2. **Price the outlet.** If an electrician can add a receptacle for less than the non-electric premium, the electric route is cheaper.
 3. **Weigh outages honestly.** City water with long, frequent outages favours non-electric. A well with no backup power for the pump does not.
-4. **Consider who will service it.** If there is no dealer for a water-powered brand within reach, an electric valve with generic parts is the lower-risk choice.
+4. **Consider who will service it.** If there is no dealer for a water-powered brand within reach, an electric valve with generic parts is the lower-risk choice. If there is one, [whether a Kinetico quote justifies its premium over 15 years of running costs](/blog/kinetico-water-softener-review/) is the number to check before signing.
 
 ## What Neither Type Can Do
 

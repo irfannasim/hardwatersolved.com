@@ -102,7 +102,7 @@ Work through these, in roughly this order:
 5. **The manual.** A reseller's manual often reproduces the valve maker's exploded parts diagrams, with the original part numbers intact. Search one of those numbers.
 6. **The tank label.** Tanks are also made by a small number of companies and carry their size (for example 10 x 54). That confirms resin volume even when the spec sheet is vague.
 
-Two matching clues are enough. Once you know the valve, check that the maker's manual and seal kits are sold openly. If they are, any competent technician can service the unit. If the valve turns out to be proprietary, factor dealer-only service into the price.
+Two matching clues are enough. Once you know the valve, check that the maker's manual and seal kits are sold openly. If they are, any competent technician can service the unit. If the valve turns out to be proprietary, factor dealer-only service into the price. The same test, applied across the market, is how we [rank water softener brands by who makes the valve and whether its parts are sold openly](/blog/best-water-softener-brands/).
 
 ## How to Verify a Certification Listing Instead of Trusting a Logo
 

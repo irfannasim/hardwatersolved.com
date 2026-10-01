@@ -117,7 +117,7 @@ A tankless heater changes how the softener should be chosen and plumbed, because
 - **Fit isolation valves if they are missing.** You will flush less often on softened water, but you will still flush, and the valves make it a simple job.
 - **Mind recirculation.** A recirculation loop runs the heater more often and keeps water hot in the pipes. It raises scaling on hard water and makes softening more valuable. Check your warranty's terms for recirculating installations.
 
-If the softener is being bought mainly for the heater, a demand-initiated (metered) unit sized to your real hardness and peak flow is the usual choice. It regenerates only when needed, which keeps salt and water costs close to the model above.
+If the softener is being bought mainly for the heater, a demand-initiated (metered) unit sized to your real hardness and peak flow is the usual choice. It regenerates only when needed, which keeps salt and water costs close to the model above. [Matching a softener to your heater's warranty hardness clause](/blog/best-water-softener-for-tankless-water-heaters/) compares current units against what Navien, Noritz, Rinnai, Rheem and Takagi require.
 
 ## What a Softener Cannot Do for a Tankless Heater
 

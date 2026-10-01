@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="rwc-title rwc-desc">
+<title id="rwc-title">RainSoft lifetime warranty claim path and the costs the owner still pays</title>
+<desc id="rwc-desc">Flow chart of a RainSoft water softener lifetime warranty claim as written in the EC5 owner's manual: return the signed registration card, request service from the selling dealer, then RainSoft customer service, then ship parts to the manufacturer freight prepaid; labor, freight, handling and any parts price increase remain the owner's cost.</desc>
+<defs><marker id="rwc-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">A RainSoft warranty claim, step by step</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">From the EC5 owner's manual. Right column: what you still pay or must do.</text>
+<rect class="box" x="30" y="88" width="380" height="60" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="114" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">1 · Return the signed registration card</text>
+<text x="46" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Warranty is contingent on it</text>
+<path class="ln" d="M220,148 L220,166" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rwc-m3a5a72)"/>
+<path class="ln" d="M410,118 L452,118" fill="none" stroke="#52697a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="460" y="88" width="270" height="60" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="474" y="114" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Keep a copy; no card,</text>
+<text x="474" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">no warranty</text>
+<rect class="box" x="30" y="172" width="380" height="60" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2 · Request service from the selling dealer</text>
+<text x="46" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Labor charges are not included</text>
+<path class="ln" d="M220,232 L220,250" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rwc-m3a5a72)"/>
+<path class="ln" d="M410,202 L452,202" fill="none" stroke="#52697a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="460" y="172" width="270" height="60" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="474" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">You pay the visit</text>
+<text x="474" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">and the labor</text>
+<rect class="box" x="30" y="256" width="380" height="60" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="282" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3 · Not satisfied? Notify RainSoft</text>
+<text x="46" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Customer Service Manager</text>
+<path class="ln" d="M220,316 L220,334" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rwc-m3a5a72)"/>
+<path class="ln" d="M410,286 L452,286" fill="none" stroke="#52697a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="460" y="256" width="270" height="60" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="474" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Escalation is by</text>
+<text x="474" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">request, not automatic</text>
+<rect class="box" x="30" y="340" width="380" height="60" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4 · No local service? Ship the part to</text>
+<text x="46" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">the manufacturer, freight prepaid</text>
+<path class="ln" d="M220,400 L220,418" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#rwc-m3a5a72)"/>
+<path class="ln" d="M410,370 L452,370" fill="none" stroke="#52697a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="460" y="340" width="270" height="60" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="474" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">You pay freight; include</text>
+<text x="474" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">proof of purchase</text>
+<rect class="box" x="30" y="424" width="380" height="60" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="450" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">5 · Part repaired or replaced</text>
+<text x="46" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">for a "nominal charge"</text>
+<path class="ln" d="M410,454 L452,454" fill="none" stroke="#52697a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="460" y="424" width="270" height="60" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="474" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Charge covers labor, handling,</text>
+<text x="474" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">packing and any parts price rise</text>
+<rect class="box" x="30" y="512" width="700" height="36" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="380" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">Void with non-RainSoft parts or a removed date label. First purchaser only.</text>
+</svg>

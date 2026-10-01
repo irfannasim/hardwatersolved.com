@@ -91,7 +91,7 @@ Then the drop at any flow is:
 
 The valve figures come from Pentair's published ratings: 20 gpm at 15 psi for the 5600SXT valve alone and 28 gpm at 15 psi for the [Fleck 7000 valve alone](https://www.pentair.com/content/dam/extranet/web/nam/fleck/data-sheets/english/42802-fleck-7000-spec-sheet.pdf), which also lists 36 gpm at a 25 psi drop. They are the valve body only. A complete softener built on the same valve always has a lower Cv, because the resin bed and distributor add their own loss.
 
-Higher Cv is better, at every flow. It is the single most useful number for comparing the hydraulic side of two softeners.
+Higher Cv is better, at every flow. It is the single most useful number for comparing the hydraulic side of two softeners. In a house with several bathrooms it sets the shortlist, which is where [choosing a softener for a large home by the peak flow it sustains](/blog/best-water-softeners-for-large-homes/) starts.
 
 ## How Much Drop Is Acceptable
 
@@ -101,7 +101,7 @@ There is no universal figure, because it depends on what pressure you start with
 2. **Subtract everything between the supply and your worst fixture at your realistic peak.** That means every treatment stage, the piping, and height: each foot of rise costs 0.433 psi.
 3. **What is left is the pressure at that fixture.** If it feels weak to you there, the budget is too tight.
 
-As a rule of thumb, aim for a softener that loses no more than about 8 to 10 psi at your realistic peak. On a strong city supply you can accept more. On a well with a 30 psi cut-in and other equipment in the line, aim for less.
+As a rule of thumb, aim for a softener that loses no more than about 8 to 10 psi at your realistic peak. On a strong city supply you can accept more. On a well with a 30 psi cut-in and other equipment in the line, aim for less. [Softeners ranked on pressure loss scaled to a 12 gpm peak](/blog/best-water-softener-for-low-water-pressure/) applies the same scaling to current models.
 
 Keep one hard floor in mind as well. The softener's own valve needs pressure to regenerate. Pentair's [Fleck 5600SXT service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf) states that "a minimum of 20 psi" is required for the valve to operate effectively. Limits for other valves are covered in [minimum and maximum pressure for a water softener](/blog/water-softener-pressure-requirements/).
 

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" width="760" height="610" role="img" aria-labelledby="tul-title tul-desc">
+<title id="tul-title">Tankless reverse osmosis system under-sink layout with outlet, feed and drain</title>
+<desc id="tul-desc">Under-sink layout of a tankless reverse osmosis system: softened cold supply feeds the pump-driven RO unit, RO water rises to a dedicated faucet, reject water runs to a drain saddle on the sink tailpiece, and a power cord runs to an outlet inside the cabinet.</desc>
+<defs>
+<marker id="tul-at" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<marker id="tul-ai" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+<marker id="tul-ag" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+</defs>
+<rect width="760" height="610" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#0b2f4a">Tankless RO under the sink: three connections and an outlet</text>
+<path d="M30,68 L56,68" stroke="#0e7490" stroke-width="5"/>
+<text x="64" y="73" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Softened feed</text>
+<path d="M180,68 L206,68" stroke="#0b2f4a" stroke-width="5"/>
+<text x="214" y="73" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">RO water</text>
+<path d="M310,68 L336,68" stroke="#78716c" stroke-width="5"/>
+<text x="344" y="73" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Reject to drain</text>
+<path d="M470,68 L496,68" stroke="#52697a" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="504" y="73" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Power cord</text>
+
+<rect x="40" y="130" width="680" height="14" fill="#cbd5e1"/>
+<path d="M220,144 L220,200 Q220,215 235,215 L425,215 Q440,215 440,200 L440,144" stroke="#3a5a72" stroke-width="3" fill="#f8fafc"/>
+<rect x="324" y="96" width="12" height="34" fill="#3a5a72"/>
+<path d="M330,96 L330,88 L300,88" stroke="#3a5a72" stroke-width="4" fill="none"/>
+<text x="290" y="114" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Main faucet</text>
+<rect x="557" y="100" width="6" height="30" fill="#3a5a72"/>
+<path d="M560,100 L560,92 L542,92" stroke="#3a5a72" stroke-width="3" fill="none"/>
+<text x="574" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Dedicated RO faucet</text>
+
+<path class="ln" d="M330,215 L330,568" stroke="#78716c" stroke-width="5" fill="none" marker-end="url(#tul-ag)"/>
+<text x="342" y="566" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">To the house drain</text>
+<rect x="322" y="272" width="16" height="16" fill="#52697a"/>
+<text x="312" y="285" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Drain saddle</text>
+<path class="ln" d="M440,440 L400,440 L400,280 L346,280" stroke="#78716c" stroke-width="4" fill="none" marker-end="url(#tul-ag)"/>
+
+<rect class="box" x="440" y="380" width="200" height="90" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="540" y="418" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Tankless RO unit</text>
+<text x="540" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">pump + filters + membrane</text>
+
+<path class="ln" d="M720,590 L720,144" stroke="#0e7490" stroke-width="5" fill="none"/>
+<path class="ln" d="M720,430 L650,430" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#tul-at)"/>
+<text x="684" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Feed</text>
+<text x="708" y="590" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Softened cold supply</text>
+<path class="ln" d="M560,380 L560,154" stroke="#0b2f4a" stroke-width="5" fill="none" marker-end="url(#tul-ai)"/>
+
+<rect class="box" x="500" y="510" width="36" height="36" rx="3" fill="#ffffff" stroke="#52697a" stroke-width="2"/>
+<rect x="510" y="520" width="4" height="10" fill="#52697a"/>
+<rect x="522" y="520" width="4" height="10" fill="#52697a"/>
+<path class="ln" d="M518,470 L518,508" stroke="#52697a" stroke-width="2" stroke-dasharray="6 4" fill="none"/>
+<text x="490" y="533" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Pump needs an outlet</text>
+</svg>

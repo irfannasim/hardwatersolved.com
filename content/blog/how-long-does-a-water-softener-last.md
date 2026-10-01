@@ -124,7 +124,7 @@ Same box, same install date, and a decade apart in life. The difference is the w
 Because each part can be replaced, a softener rarely dies outright. People replace the whole unit when one of these is true:
 
 1. **Two clocks run out together.** The resin is spent and the valve needs a rebuild in the same year. Paying for both often costs close to a new unit.
-2. **The parts are gone.** An obsolete or proprietary valve with no seal kits available turns a routine repair into a replacement.
+2. **The parts are gone.** An obsolete or proprietary valve with no seal kits available turns a routine repair into a replacement. Before buying a retail cabinet unit, check who supplies its parts; [the Whirlpool review traces who makes and warrants those softeners](/blog/whirlpool-water-softener-review/).
 3. **It is a timer model.** Older clock-based units regenerate on a schedule whether or not the resin is used up. A modern demand-initiated unit regenerates only when needed. Over years, the salt and water saved can change the arithmetic, which is the subject of [whether to repair or replace an old water softener](/blog/repair-or-replace-an-old-water-softener/).
 4. **The household or the water changed.** A unit sized for two people on 10 gpg water is wrong for five people on 25 gpg, however healthy it is.
 5. **A tank failed.** A bulging or cracked mineral tank is replaced, and at that point the valve and resin usually go with it.

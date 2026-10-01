@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 630" width="760" height="630" role="img" aria-labelledby="vhp-title vhp-desc">
+<title id="vhp-title">Decision chart: best water softener for very hard water by iron, hardness and household</title>
+<desc id="vhp-desc">Decision chart for choosing among three very hard water softeners. Iron above 6 ppm sends the reader to an iron filter first; over 30 gpg or five people points to a 96,000-grain twin tank; a well or four to five people points to an 80,000-grain fine-mesh unit; otherwise a 64,000-grain upflow unit.</desc>
+<defs><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="630" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Which very hard water softener fits your house</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Answer top to bottom. The first Yes decides the pick.</text>
+<rect class="box" x="30" y="100" width="320" height="64" rx="8" fill="#e0f2fe" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="190" y="128" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Start: hardness is 20 gpg or more</text>
+<text x="190" y="146" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">on a titration test, not a strip</text>
+<rect class="box" x="30" y="200" width="320" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="190" y="228" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Ferrous iron over 6 ppm,</text>
+<text x="190" y="246" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">or any red (oxidised) iron?</text>
+<rect class="box" x="430" y="192" width="300" height="80" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="580" y="219" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Buy none of these yet</text>
+<text x="580" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Iron filter first, then size</text>
+<text x="580" y="255" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">the softener for what is left</text>
+<path class="ln" d="M350,232 L426,232" stroke="#dc2626" stroke-width="5" fill="none" marker-end="url(#ar)"/>
+<text x="390" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Yes</text>
+<rect class="box" x="30" y="300" width="320" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="190" y="328" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Over 30 gpg, or</text>
+<text x="190" y="346" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">five or more people?</text>
+<rect class="box" x="430" y="292" width="300" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="580" y="319" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Fleck 9100SXT twin 96k</text>
+<text x="580" y="337" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">3 cu ft per tank, no reserve,</text>
+<text x="580" y="355" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">soft water during regeneration</text>
+<path class="ln" d="M350,332 L426,332" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="390" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<rect class="box" x="30" y="400" width="320" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="190" y="428" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Private well with some iron,</text>
+<text x="190" y="446" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">or a household of four?</text>
+<rect class="box" x="430" y="392" width="300" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="580" y="419" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">AFWFilters Iron Pro 2 80k</text>
+<text x="580" y="437" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">2.5 cu ft fine-mesh resin,</text>
+<text x="580" y="455" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">rated to 6 ppm ferrous iron</text>
+<path class="ln" d="M350,432 L426,432" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="390" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<path class="ln" d="M190,164 L190,196" stroke="#52697a" stroke-width="3" fill="none" marker-end="url(#an)"/>
+<path class="ln" d="M190,264 L190,296" stroke="#52697a" stroke-width="3" fill="none" marker-end="url(#an)"/>
+<text x="202" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<path class="ln" d="M190,364 L190,396" stroke="#52697a" stroke-width="3" fill="none" marker-end="url(#an)"/>
+<text x="202" y="388" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<path class="ln" d="M190,464 L190,532 L426,532" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="202" y="488" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="430" y="492" width="300" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="580" y="519" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SoftPro Elite 64k</text>
+<text x="580" y="537" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Three or four people on</text>
+<text x="580" y="555" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">chlorinated city water, 20-30 gpg</text>
+<text x="30" y="608" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">One or two people under 30 gpg: none of these. A normally sized 48k-class unit fits.</text>
+</svg>

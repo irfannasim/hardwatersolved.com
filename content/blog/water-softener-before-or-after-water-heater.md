@@ -103,7 +103,7 @@ The full version of this diagnosis, with test methods and look-alike problems, i
 
 The rule is the same for every appliance that heats domestic water. The softener comes first.
 
-- **Tankless heaters** are the least tolerant of hard water. A narrow heat exchanger scales fast, and there is no tank to hold sediment. Many tankless manuals specify water quality limits, so read yours before assuming any treatment is acceptable.
+- **Tankless heaters** are the least tolerant of hard water. A narrow heat exchanger scales fast, and there is no tank to hold sediment. Many tankless manuals specify water quality limits, so read yours before assuming any treatment is acceptable. Buying the softener from the same brand as the heater does not change those terms, as [checking whether a Rheem softener matters for a Rheem heater](/blog/rheem-water-softener-review/) shows.
 - **Combi boilers** that make domestic hot water treat their domestic side like a tankless heater. Soften the cold feed to it.
 - **Closed-loop space heating boilers** are different. The heating loop is filled once and treated with its own chemistry. The softener placement question applies only to the domestic hot water the boiler makes, not to the sealed loop.
 

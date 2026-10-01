@@ -134,6 +134,8 @@ Compare the flow the well held steady in Test 2 with the published figure for th
 | Sustained flow only just covers it, or held only in a wet season | Marginal. It works until a dry month or a busy evening | Drop one tank diameter and accept more frequent regeneration |
 | Pump rate or sustained flow below even a 9-inch tank's rate | The well cannot support a backwashing tank at its own pace | A storage-buffered design, or talk to a well contractor about yield |
 
+Large single tanks are where this bites first. [Comparing 80,000 grain single tanks with twin tanks on backwash flow](/blog/best-80000-grain-water-softener/) shows how a 13-inch tank's demand of about 4.6 gpm compares with a twin that asks far less of the well.
+
 ## Workaround 1: A Smaller-Diameter Tank
 
 Dropping from a 12-inch to a 10-inch tank takes the backwash demand from about 3.5 gpm to 2.5 gpm on the Pentair figures. Dropping to a 9-inch takes it to about 2 gpm.

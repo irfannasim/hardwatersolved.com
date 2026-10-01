@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" width="760" height="620" role="img" aria-labelledby="bwlh-title bwlh-desc">
+<title id="bwlh-title">Best water softeners for large homes: flow each setup sustains by tank and valve</title>
+<desc id="bwlh-desc">Chart comparing the flow large-home water softener setups sustain: resin bed continuous and peak guideline flow by tank diameter, the seller service-flow figure, and the practical peaks of three example houses at 8.5, 11 and 15 gpm.</desc>
+<defs><marker id="bwlh-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="bwlh-s" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="bwlh-h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="bwlh-b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="bwlh-o" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="bwlh-i" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="bwlh-m" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="620" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">How much flow each setup can carry</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Bed guideline: 10 gpm per sq ft continuous, 15 gpm per sq ft peak. Bed area = diameter squared / 183.</text>
+<path d="M290,140 L290,462" stroke="#e2e8f0" stroke-width="1"/>
+<text x="290" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<path d="M340,140 L340,462" stroke="#e2e8f0" stroke-width="1"/>
+<text x="340" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<path d="M390,140 L390,462" stroke="#e2e8f0" stroke-width="1"/>
+<text x="390" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10</text>
+<path d="M440,140 L440,462" stroke="#e2e8f0" stroke-width="1"/>
+<text x="440" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">15</text>
+<path d="M490,140 L490,462" stroke="#e2e8f0" stroke-width="1"/>
+<text x="490" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">20</text>
+<path d="M540,140 L540,462" stroke="#e2e8f0" stroke-width="1"/>
+<text x="540" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">25</text>
+<path d="M590,140 L590,462" stroke="#e2e8f0" stroke-width="1"/>
+<text x="590" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">30</text>
+<path d="M640,140 L640,462" stroke="#e2e8f0" stroke-width="1"/>
+<text x="640" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">35</text>
+<path d="M690,140 L690,462" stroke="#e2e8f0" stroke-width="1"/>
+<text x="690" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">40</text>
+<text x="490" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Flow through the softener (gpm)</text>
+<path class="ln" d="M375,136 L375,462" fill="none" stroke="#c2410c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<text x="369" y="128" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#c2410c">House A: 8.5</text>
+<path class="ln" d="M400,136 L400,462" fill="none" stroke="#c2410c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<text x="406" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">House B: 11</text>
+<path class="ln" d="M440,136 L440,462" fill="none" stroke="#c2410c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<text x="446" y="128" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">House C: 15</text>
+<text x="30" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">AFW 64k, Fleck 5600SXT</text>
+<text x="30" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">12 in tank</text>
+<rect x="290" y="166" width="118" height="24" fill="#a5d8e3" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="290" y="166" width="79" height="24" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<path d="M390,196 L397,206 L390,216 L383,206 z" fill="#0b2f4a"/>
+<text x="30" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Seller figure: 10 gpm</text>
+<text x="30" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">AFW Iron Pro 2 80k, 5600SXT</text>
+<text x="30" y="276" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">13 in tank, fine mesh</text>
+<rect x="290" y="244" width="139" height="24" fill="#a5d8e3" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="290" y="244" width="92" height="24" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<path d="M400,274 L407,284 L400,294 L393,284 z" fill="#0b2f4a"/>
+<text x="30" y="294" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Seller figure: 11 gpm</text>
+<text x="30" y="336" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">80k, Fleck 2510SXT</text>
+<text x="30" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">13 in tank, 1 in valve</text>
+<rect x="290" y="322" width="139" height="24" fill="#a5d8e3" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="290" y="322" width="92" height="24" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<path d="M490,352 L497,362 L490,372 L483,362 z" fill="#0b2f4a"/>
+<text x="30" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Seller figure: 20 gpm</text>
+<text x="30" y="414" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Two 80k 2510SXT in parallel</text>
+<text x="30" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">2 x 13 in tanks</text>
+<rect x="290" y="400" width="278" height="24" fill="#a5d8e3" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="290" y="400" width="184" height="24" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<path d="M690,430 L697,440 L690,450 L683,440 z" fill="#0b2f4a"/>
+<text x="30" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Seller figure: 2 x 20 gpm</text>
+<path class="ln" d="M290,140 L290,462" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="30" y="528" width="26" height="14" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<text x="64" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Bed, continuous</text>
+<rect x="200" y="528" width="26" height="14" fill="#a5d8e3" stroke="#0e7490" stroke-width="1.5"/>
+<text x="234" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Bed, peak</text>
+<path d="M343,535 L350,528 L357,535 L350,542 z" fill="#0b2f4a"/>
+<text x="366" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Seller service figure</text>
+<path class="ln" d="M530,535 L560,535" fill="none" stroke="#c2410c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<text x="568" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Example peaks</text>
+<text x="30" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Plan on the bed peak, not the seller figure. A setup fits when its bed peak is at or above your house’s line.</text>
+</svg>

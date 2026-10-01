@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="bwsd-title bwsd-desc">
+<title id="bwsd-title">Best water softener decision chart: which pick for which water</title>
+<desc id="bwsd-desc">Decision chart for choosing the best water softener: check hardness, then city or well source, iron level and peak flow, and land on one of five picks or on buying none.</desc>
+<defs><marker id="bwsd-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="bwsd-s" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="bwsd-h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="bwsd-b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="bwsd-o" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="bwsd-i" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker><marker id="bwsd-m" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Which pick fits your water</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Answer each question from a water test and a count of what runs at once</text>
+<rect class="box" x="230" y="84" width="300" height="44" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="110.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Start: hardness, iron and source tested</text>
+<path class="ln" d="M380,128 L380,152" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<rect class="box" x="230" y="156" width="300" height="44" rx="6" fill="#fff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="182.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Hardness above 3.5 gpg?</text>
+<path class="ln" d="M530,178 L566,178" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<text x="548" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
+<rect class="box" x="572" y="156" width="158" height="44" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="651" y="174.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">Buy none</text>
+<text x="651" y="190.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">water is soft enough</text>
+<path class="ln" d="M380,200 L380,226" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<text x="390" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Yes</text>
+<rect class="box" x="280" y="230" width="200" height="40" rx="6" fill="#fff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="254.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">City or well?</text>
+<path class="ln" d="M280,250 L200,250 L200,290" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<text x="240" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">City</text>
+<path class="ln" d="M480,250 L560,250 L560,290" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<text x="520" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Well</text>
+<rect class="box" x="40" y="294" width="320" height="48" rx="6" fill="#fff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="200" y="313.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Busiest moment needs more</text>
+<text x="200" y="331.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">than about 8 gpm?</text>
+<rect class="box" x="400" y="294" width="320" height="48" rx="6" fill="#fff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="560" y="313.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Dissolved iron over 3 ppm,</text>
+<text x="560" y="331.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">or water already rusty?</text>
+<path class="ln" d="M120,342 L120,386" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<text x="128" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Yes</text>
+<path class="ln" d="M280,342 L280,386" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<text x="288" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="40" y="390" width="160" height="64" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="120" y="418.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">80k Fleck 2510SXT</text>
+<text x="120" y="435.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">13 in tank, 1 in valve</text>
+<rect class="box" x="216" y="390" width="144" height="64" rx="6" fill="#fff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="288" y="417.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">What matters</text>
+<text x="288" y="435.9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">most?</text>
+<path class="ln" d="M480,342 L480,386" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<text x="488" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Yes</text>
+<path class="ln" d="M640,342 L640,386" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<text x="648" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="400" y="390" width="160" height="64" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="480" y="418.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">Iron filter first</text>
+<text x="480" y="435.05" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">no softener alone</text>
+<rect class="box" x="576" y="390" width="154" height="64" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="653" y="410.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">AFW Iron Pro 2</text>
+<text x="653" y="426.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">64k, fine mesh</text>
+<text x="653" y="442.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">2.0 cu ft</text>
+<path class="ln" d="M288,454 L288,496" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M140,496 L620,496" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M140,496 L140,524" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<path class="ln" d="M380,496 L380,524" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<path class="ln" d="M620,496 L620,524" fill="none" stroke="#3a5a72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwsd-a)"/>
+<rect class="box" x="40" y="528" width="200" height="64" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="140" y="555.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Lowest upfront cost</text>
+<text x="140" y="573.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Aquasure Harmony 48k</text>
+<rect class="box" x="280" y="528" width="200" height="64" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="380" y="555.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">10% resin at the lower price</text>
+<text x="380" y="573.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">AFW 48k, 10% resin</text>
+<rect class="box" x="520" y="528" width="210" height="64" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="625" y="555.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Least salt per year</text>
+<text x="625" y="573.55" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">SoftPro Elite 48k</text>
+<text x="30" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Picks are the five in this guide. Red boxes mean none of them is the right next purchase.</text>
+</svg>

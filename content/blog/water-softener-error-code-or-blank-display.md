@@ -78,7 +78,7 @@ Every entry below comes from a manufacturer's own manual for the named model, no
 
 Honesty about the gaps matters more here than completeness, because a wrong code meaning sends people to replace the wrong part.
 
-- **GE numbered codes.** The GXSH40V owner's manual documents a single flashing "Err", with the blue indicator light flashing four times a second and an alarm every 30 seconds between 8 a.m. and 8 p.m. Numbered GE meanings circulate online, but we could not find them in GE's own documentation, so they are not listed.
+- **GE numbered codes.** The GXSH40V owner's manual documents a single flashing "Err", with the blue indicator light flashing four times a second and an alarm every 30 seconds between 8 a.m. and 8 p.m. Numbered GE meanings circulate online, but we could not find them in GE's own documentation, so they are not listed. If a GE board or motor has failed, check [which GE softeners still have parts and support](/blog/ge-water-softener-review/) before paying for the repair.
 - **Culligan HE series.** Current HE owner's guides show text messages rather than numbers — the home screen reads PROBLEM FOUND, and scrolling shows the specific error, such as "Pos Sensor Err". The guides do not publish the complete list; they direct owners to a Culligan dealer.
 - **Other Fleck, Clack and Autotrol controls.** Fleck's 2510SXT, 5810/5812 and 9100 series, Clack's WS1.5 and WS2, and Autotrol's 742/762 and newer controls have their own tables. The families are consistent, but do not assume the numbers transfer.
 - **Whirlpool models other than the WHES40 family**, and other retail brands built by contract manufacturers, may use different codes even where the cabinet looks similar.

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="g32-title g32-desc">
+<title id="g32-title">Days between regenerations for a 32,000 grain water softener</title>
+<desc id="g32-desc">Grid showing how many days a 32,000 grain water softener lasts between regenerations at about 20,000 usable grains, for one to four people at 10, 15 and 20 gpg, colour-coded from too small to too large.</desc>
+<defs></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">When is a 32,000 grain softener enough?</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Days between regenerations at about 20,000 usable grains (6 lb of salt per cu ft), one day held in reserve</text>
+<text x="275" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">10 gpg hardness</text>
+<text x="445" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">15 gpg hardness</text>
+<text x="615" y="108" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">20 gpg hardness</text>
+<text x="30" y="152" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">1 person</text>
+<text x="30" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">75 gal each a day</text>
+<rect class="box" x="194" y="124" width="162" height="64" rx="6" fill="#f1f5f9" stroke="#52697a" stroke-width="1.5"/>
+<text x="275" y="154" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#52697a">25.7 days</text>
+<text x="275" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Too large</text>
+<rect class="box" x="364" y="124" width="162" height="64" rx="6" fill="#f1f5f9" stroke="#52697a" stroke-width="1.5"/>
+<text x="445" y="154" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#52697a">16.8 days</text>
+<text x="445" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Too large</text>
+<rect class="box" x="534" y="124" width="162" height="64" rx="6" fill="#fef9c3" stroke="#a16207" stroke-width="1.5"/>
+<text x="615" y="154" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#a16207">12.3 days</text>
+<text x="615" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#a16207">A little large</text>
+<text x="30" y="224" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">2 people</text>
+<text x="30" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">75 gal each a day</text>
+<rect class="box" x="194" y="196" width="162" height="64" rx="6" fill="#fef9c3" stroke="#a16207" stroke-width="1.5"/>
+<text x="275" y="226" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#a16207">12.3 days</text>
+<text x="275" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#a16207">A little large</text>
+<rect class="box" x="364" y="196" width="162" height="64" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="445" y="226" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">7.9 days</text>
+<text x="445" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">Well sized</text>
+<rect class="box" x="534" y="196" width="162" height="64" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="615" y="226" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">5.7 days</text>
+<text x="615" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">Well sized</text>
+<text x="30" y="296" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">3 people</text>
+<text x="30" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">75 gal each a day</text>
+<rect class="box" x="194" y="268" width="162" height="64" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="275" y="298" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">7.9 days</text>
+<text x="275" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">Well sized</text>
+<rect class="box" x="364" y="268" width="162" height="64" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="445" y="298" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">4.9 days</text>
+<text x="445" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">Well sized</text>
+<rect class="box" x="534" y="268" width="162" height="64" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="615" y="298" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">3.4 days</text>
+<text x="615" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">Well sized</text>
+<text x="30" y="368" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">4 people</text>
+<text x="30" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">75 gal each a day</text>
+<rect class="box" x="194" y="340" width="162" height="64" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="275" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">5.7 days</text>
+<text x="275" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">Well sized</text>
+<rect class="box" x="364" y="340" width="162" height="64" rx="6" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="445" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#15803d">3.4 days</text>
+<text x="445" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">Well sized</text>
+<rect class="box" x="534" y="340" width="162" height="64" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="615" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#dc2626">2.3 days</text>
+<text x="615" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#dc2626">Too small</text>
+<rect x="30" y="426" width="16" height="16" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="56" y="439" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Under 3 days: false economy</text>
+<rect x="390" y="426" width="16" height="16" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+<text x="416" y="439" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">3 to 8 days: well sized</text>
+<rect x="30" y="452" width="16" height="16" fill="#fef9c3" stroke="#a16207" stroke-width="1.5"/>
+<text x="56" y="465" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">8 to 14 days: set day override</text>
+<rect x="390" y="452" width="16" height="16" fill="#f1f5f9" stroke="#52697a" stroke-width="1.5"/>
+<text x="416" y="465" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Over 14 days: too large</text>
+<text x="30" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Days = (20,000 minus one day of load) divided by the daily load. Daily load = people x 75 gallons x gpg.</text>
+</svg>

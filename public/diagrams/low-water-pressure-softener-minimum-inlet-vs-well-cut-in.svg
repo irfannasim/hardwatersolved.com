@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 502" width="760" height="502" role="img" aria-labelledby="lpm-title lpm-desc">
+<title id="lpm-title">Water softener minimum inlet pressure compared with well pressure switch cut-in settings</title>
+<desc id="lpm-desc">Range bars for the best water softener for low water pressure: Aquasure Harmony needs 25 psi, Fleck 5600SXT, SoftPro Elite and Whirlpool WHES30/33 need 20 psi, shown against 20/40, 30/50 and 40/60 well pressure switch cut-in points.</desc>
+<defs></defs>
+<rect width="760" height="502" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Minimum inlet pressure vs your well pump’s cut-in</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Each bar is the valve’s published working range. Dashed lines are common pressure-switch cut-in points.</text>
+<text x="250" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<text x="322" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">20</text>
+<text x="394" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">40</text>
+<text x="466" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">60</text>
+<text x="538" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">80</text>
+<text x="610" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">100</text>
+<text x="682" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">120</text>
+<text x="484" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Inlet pressure (psi)</text>
+<text x="30" y="142" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Aquasure Harmony</text>
+<text x="30" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">manual: 25 to 125 psi</text>
+<rect x="250" y="132" width="90" height="26" fill="#fee2e2"/>
+<rect x="340" y="132" width="360" height="26" fill="#0e7490"/>
+<text x="30" y="204" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fleck 5600SXT</text>
+<text x="30" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Pentair: 20 to 125 psi</text>
+<rect x="250" y="194" width="72" height="26" fill="#fee2e2"/>
+<rect x="322" y="194" width="378" height="26" fill="#0e7490"/>
+<text x="30" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">SoftPro Elite</text>
+<text x="30" y="284" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">SoftPro: 20 to 125 psi</text>
+<rect x="250" y="256" width="72" height="26" fill="#fee2e2"/>
+<rect x="322" y="256" width="378" height="26" fill="#0e7490"/>
+<text x="30" y="328" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Whirlpool WHES30/33</text>
+<text x="30" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">manual: 20 to 125 psi</text>
+<rect x="250" y="318" width="72" height="26" fill="#fee2e2"/>
+<rect x="322" y="318" width="378" height="26" fill="#0e7490"/>
+<path class="ln" d="M322,114 L322,368" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<text x="322" y="106" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">20/40</text>
+<path class="ln" d="M358,114 L358,368" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<text x="358" y="84" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">30/50</text>
+<path class="ln" d="M394,114 L394,368" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
+<text x="394" y="106" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">40/60</text>
+<text x="236" y="98" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#52697a">Well switch cut-in:</text>
+<rect x="30" y="427" width="14" height="14" fill="#fee2e2"/>
+<text x="50" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Below the valve’s minimum</text>
+<rect x="250" y="427" width="14" height="14" fill="#0e7490"/>
+<text x="270" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Published working range</text>
+<text x="30" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">A 20/40 switch drops to 20 psi before the pump restarts: below Aquasure’s 25 psi minimum,</text>
+<text x="30" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">and right at the edge for the others. A 30/50 or 40/60 switch keeps every valve in range.</text>
+</svg>

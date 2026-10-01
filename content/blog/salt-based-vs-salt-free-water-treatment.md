@@ -139,7 +139,7 @@ Whether your house needs either system at all is a separate question, worked thr
 
 ## The Short Answer
 
-Choose salt-based when you want the hardness gone and can see the evidence in your glasses, showers and laundry. Choose salt-free when the goal is protecting equipment from scale, you cannot discharge brine, or you want as little upkeep as possible, and your water sits inside the conditioner's stated limits. Test your hardness, iron and manganese first. The right answer comes from the test, not from either sales pitch.
+Choose salt-based when you want the hardness gone and can see the evidence in your glasses, showers and laundry. Choose salt-free when the goal is protecting equipment from scale, you cannot discharge brine, or you want as little upkeep as possible, and your water sits inside the conditioner's stated limits. Test your hardness, iron and manganese first. The right answer comes from the test, not from either sales pitch. The [Pelican review sets one brand's salt-based softener and salt-free conditioner side by side against a water test](/blog/pelican-water-softener-review/), which is this choice applied to two real products.
 
 ## Related Comparisons
 

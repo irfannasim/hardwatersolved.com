@@ -101,7 +101,7 @@ The detailed method, a two-week meter log that finds your heaviest normal day, i
 
 **Clack WS1.** In OEM softener setup, Step 4S is the capacity in grains, Step 5S the pounds of salt, and Step 7S the Volume Capacity. Set Volume Capacity to **AUTO** and the valve calculates gallons and estimates the reserve itself. Enter a specific number of gallons instead and, the manual says, "reserve capacity is zero unless the value is manually set", meaning you have built the reserve into a lower number yourself.
 
-**Fleck 5600SXT.** In master programming, set the **Unit Capacity** in grains, then **Reserve Selection**: RC for a fixed reserve in gallons, SF for a percentage, or a variable reserve. The fixed value is then entered in user programming. Hardness is entered separately, and the valve does the division.
+**Fleck 5600SXT.** In master programming, set the **Unit Capacity** in grains, then **Reserve Selection**: RC for a fixed reserve in gallons, SF for a percentage, or a variable reserve. The fixed value is then entered in user programming. Hardness is entered separately, and the valve does the division. The twin-tank 9100SXT uses the same SXT controls, but its reserve shrinks to the water one regeneration uses, a trade-off the [Fleck 9100SXT review costs out against a single 5600SXT of equal capacity](/blog/fleck-9100sxt-review/).
 
 **Pentair whole-house systems.** Capacity is not entered in grains. You choose the **unit size** (1.0, 1.5 or 2.0) and the **salt level** (Low, Medium or High), and the control sets capacity to match. The reserve is in the advanced menu: variable by default, or fixed in 10-gallon steps.
 

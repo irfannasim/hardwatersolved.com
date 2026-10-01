@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="acd-title acd-desc">
+<title id="acd-title">Decision chart: best water softener for apartments and condos by permission, drain and space</title>
+<desc id="acd-desc">Decision chart for apartment and condo water softeners. Without written permission, only a portable softener on the washer or shower feed fits. Without a drain and outlet, use a portable or a drain workaround. With both, a space under 15.5 inches wide points to the Aquasure Harmony Lite; otherwise the EcoPure EP31 also fits.</desc>
+<defs><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Apartment and condo softener: clear the three blockers</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Permission first, then drain and outlet, then floor space</text>
+<rect class="box" x="30" y="95" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Written OK from landlord or HOA</text>
+<text x="195" y="144" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">to change your unit's plumbing?</text>
+<rect class="box" x="440" y="89" width="290" height="82" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
+<text x="585" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Portable softener only</text>
+<text x="585" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">On the washer or shower feed,</text>
+<text x="585" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">removed when you move</text>
+<path class="ln" d="M360,130 L436,130" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#an)"/>
+<text x="400" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
+<path class="ln" d="M195,165 L195,211" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="207" y="195" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Yes</text>
+<rect class="box" x="30" y="215" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="246" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Drain and outlet within reach</text>
+<text x="195" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">of your unit's supply line?</text>
+<rect class="box" x="440" y="209" width="290" height="82" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
+<text x="585" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Portable, or a drain workaround</text>
+<text x="585" y="255" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Standpipe, pump or a longer run</text>
+<text x="585" y="273" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">before any cabinet unit</text>
+<path class="ln" d="M360,250 L436,250" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#an)"/>
+<text x="400" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
+<path class="ln" d="M195,285 L195,331" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="207" y="315" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Yes</text>
+<rect class="box" x="30" y="335" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Is the space narrower than</text>
+<text x="195" y="384" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">15.5 inches?</text>
+<rect class="box" x="440" y="329" width="290" height="82" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="585" y="357" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Aquasure Harmony Lite 34k</text>
+<text x="585" y="375" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">10.5 in wide, fine-mesh option,</text>
+<text x="585" y="393" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">up to 4 people</text>
+<path class="ln" d="M360,370 L436,370" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="400" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<path class="ln" d="M195,405 L195,490 L436,490" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="207" y="435" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="440" y="449" width="290" height="82" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="585" y="477" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">EcoPure EP31 or Harmony Lite</text>
+<text x="585" y="495" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">EP31 is 15.5 in wide, learns use,</text>
+<text x="585" y="513" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">rated to 8 ppm clear-water iron</text>
+</svg>

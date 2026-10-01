@@ -110,7 +110,7 @@ Which form you have is the most important fact in this tree. How to tell them ap
 **6. Sand, grit or silt?**
 → Add a **sediment prefilter** at the front of the treatment train. Choosing a micron rating and knowing when to change it are covered in [when to replace a sediment prefilter before a softener](/blog/sediment-prefilter-before-a-softener/).
 
-**7. Now size the softener.** Base it on the high end of your seasonal hardness range, plus compensation for any iron and manganese the softener will still see. That arithmetic is worked through in [how iron changes water softener sizing](/blog/how-iron-changes-water-softener-sizing/).
+**7. Now size the softener.** Base it on the high end of your seasonal hardness range, plus compensation for any iron and manganese the softener will still see. That arithmetic is worked through in [how iron changes water softener sizing](/blog/how-iron-changes-water-softener-sizing/). With the iron result and the size in hand, [softeners sorted by the iron level they can carry](/blog/best-water-softener-for-well-water/) narrows the choice.
 
 ## The Order the Stages Go In
 

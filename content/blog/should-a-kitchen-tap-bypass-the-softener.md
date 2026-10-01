@@ -135,7 +135,7 @@ This is the default in most installations, and for many households it is fine. T
 
 - **Cost and upkeep.** The unit, a faucet, periodic prefilter and membrane changes.
 - **Water to drain.** RO sends a share of the water it treats to drain. The amount depends on the unit and the water pressure.
-- **Certification matters.** An RO unit reduces what it is certified to reduce. If you are treating for a particular contaminant, such as lead, nitrate or arsenic, check that the unit's certification lists it.
+- **Certification matters.** An RO unit reduces what it is certified to reduce. If you are treating for a particular contaminant, such as lead, nitrate or arsenic, check that the unit's certification lists it. The [APEC ROES-50 review checks one plain five-stage tank unit on softened water: its NSF/ANSI 58 listing, what it makes a day for a family of four, and what it sends to drain](/blog/apec-roes-50-review/).
 - **Space.** Under-sink RO needs room for the filters and storage tank, plus a drain connection.
 
 ## Which Option Fits Your House

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="wcs-title wcs-desc">
+<title id="wcs-title">Whirlpool water softener capacity at maximum vs middle salt dose</title>
+<desc id="wcs-desc">Bar chart for a Whirlpool water softener review comparing each model's rated capacity at its maximum salt dose with its capacity at the middle salt dose, from Whirlpool's published performance data: the WHES48 gives 48,000 grains at 18.1 lb of salt but 37,900 at 10.5 lb.</desc>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Whirlpool softeners: the model number is the maximum dose</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Rated capacity per regeneration, grains, at the salt dose shown (Whirlpool performance data)</text>
+<text x="235" y="128" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#0b2f4a">WHES30</text>
+<text x="235" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">0.82 cu ft resin</text>
+<rect class="box" x="250" y="110" width="285.3" height="22" fill="#94a3b8"/>
+<text x="527" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">31,700 @ 13.1 lb</text>
+<rect class="box" x="250" y="136" width="239.4" height="22" fill="#0e7490"/>
+<text x="481" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">26,600 @ 7.8 lb</text>
+<text x="235" y="198" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#0b2f4a">WHES33</text>
+<text x="235" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">0.88 cu ft resin</text>
+<rect class="box" x="250" y="180" width="306.9" height="22" fill="#94a3b8"/>
+<text x="549" y="196" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">34,100 @ 14.1 lb</text>
+<rect class="box" x="250" y="206" width="256.5" height="22" fill="#0e7490"/>
+<text x="498" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">28,500 @ 8.3 lb</text>
+<text x="235" y="268" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#0b2f4a">WHES44</text>
+<text x="235" y="286" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.23 cu ft resin</text>
+<rect class="box" x="250" y="250" width="396" height="22" fill="#94a3b8"/>
+<text x="638" y="266" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">44,000 @ 16.7 lb</text>
+<rect class="box" x="250" y="276" width="313.2" height="22" fill="#0e7490"/>
+<text x="555" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">34,800 @ 9.7 lb</text>
+<text x="235" y="338" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#0b2f4a">WHES48</text>
+<text x="235" y="356" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.33 cu ft resin</text>
+<rect class="box" x="250" y="320" width="432" height="22" fill="#94a3b8"/>
+<text x="674" y="336" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">48,000 @ 18.1 lb</text>
+<rect class="box" x="250" y="346" width="341.1" height="22" fill="#0e7490"/>
+<text x="583" y="362" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">37,900 @ 10.5 lb</text>
+<text x="235" y="408" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="end" fill="#0b2f4a">WHESFC hybrid</text>
+<text x="235" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">0.98 cu ft resin</text>
+<rect class="box" x="250" y="390" width="279.9" height="22" fill="#94a3b8"/>
+<text x="522" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">31,100 @ 13.4 lb</text>
+<rect class="box" x="250" y="416" width="222.3" height="22" fill="#0e7490"/>
+<text x="464" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">24,700 @ 7.8 lb</text>
+<rect x="250" y="462" width="22" height="14" fill="#94a3b8"/>
+<text x="280" y="474" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Maximum salt dose (the model's name)</text>
+<rect x="250" y="484" width="22" height="14" fill="#0e7490"/>
+<text x="280" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Middle salt dose (a realistic setting)</text>
+<text x="30" y="526" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">At a middle salt dose each unit delivers about 15 to 20 percent less than its maximum.</text>
+</svg>

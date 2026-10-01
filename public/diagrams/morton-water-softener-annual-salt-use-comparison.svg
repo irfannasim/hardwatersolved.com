@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 594" width="760" height="594" role="img" aria-labelledby="msa-title msa-desc">
+<title id="msa-title">Morton water softener annual salt use compared with conventional softeners</title>
+<desc id="msa-desc">Bar chart of annual salt use for a family of four on 15 gpg water: a Morton softener at its best lab rating uses about 303 lb a year, against 401 lb for a well-set conventional metered unit and 712 lb for one at a heavy salt dose.</desc>
+<defs><marker id="msa-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="msa-soft" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="msa-hard" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="msa-fault" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="msa-ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="msa-steel" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="msa-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="msa-brine" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="msa-drain" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="msa-iron" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker></defs>
+<rect width="760" height="594" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Morton salt-savings claim: pounds of salt a year</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Family of four, 70 gallons per person a day, 15 gpg hardness (1,533,000 grains a year)</text>
+<path d="M330.0,96 L330.0,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="330.0" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<path d="M398.5,96 L398.5,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="398.5" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">250</text>
+<path d="M467.0,96 L467.0,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="467.0" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">500</text>
+<path d="M535.5,96 L535.5,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="535.5" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">750</text>
+<path d="M604.0,96 L604.0,468" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="604.0" y="488" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">1,000</text>
+<text x="480" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">lb of salt a year</text>
+<text x="30" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Morton M34, best lab rating</text>
+<text x="30" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">5,060 grains per lb, minimum dose</text>
+<rect x="330" y="110" width="83.0" height="32" rx="0" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<text x="423.0" y="132" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">303 lb</text>
+<text x="30" y="184" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Morton, High Efficiency ON</text>
+<text x="30" y="202" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">floor of 4,000 grains per lb</text>
+<rect x="330" y="172" width="104.9" height="32" rx="0" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<text x="444.9" y="194" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">383 lb</text>
+<text x="30" y="246" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Conventional metered, 6 lb/cu ft</text>
+<text x="30" y="264" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">3,822 grains per lb</text>
+<rect x="330" y="234" width="109.9" height="32" rx="0" fill="#94a3b8" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="449.9" y="256" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">401 lb</text>
+<text x="30" y="308" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Morton M34 at maximum dose</text>
+<text x="30" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">2,407 grains per lb at 14.5 lb</text>
+<rect x="330" y="296" width="174.5" height="32" rx="0" fill="#0e7490" stroke="#0e7490" stroke-width="1.5"/>
+<text x="514.5" y="318" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">637 lb</text>
+<text x="30" y="370" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Conventional metered, 15 lb/cu ft</text>
+<text x="30" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">2,154 grains per lb</text>
+<rect x="330" y="358" width="195.1" height="32" rx="0" fill="#94a3b8" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="535.1" y="380" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">712 lb</text>
+<text x="30" y="432" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Timer, 12 lb every 4th night</text>
+<text x="30" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">illustrative, ignores actual use</text>
+<rect x="330" y="420" width="300.0" height="32" rx="0" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="640.0" y="442" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#dc2626">1,095 lb</text>
+<rect x="30" y="522" width="16" height="14" rx="0" fill="#0e7490" stroke="none" stroke-width="1"/>
+<text x="52" y="534" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Morton (manual ratings, NSF/ANSI 44)</text>
+<rect x="400" y="522" width="16" height="14" rx="0" fill="#94a3b8" stroke="#3a5a72" stroke-width="1"/>
+<text x="422" y="534" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Conventional reference (Hellenbrand table)</text>
+<text x="30" y="564" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Lab efficiencies are maximums: real use runs higher on every row. Compare the gaps.</text>
+</svg>

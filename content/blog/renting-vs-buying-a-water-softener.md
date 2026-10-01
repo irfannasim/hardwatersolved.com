@@ -79,7 +79,7 @@ Rental agreements are easy to sign and can be hard to leave. Read these ten clau
 | 9 | **The equipment** | Brand, model, grain capacity, and whether it is certified | You should know what you are paying for, and be able to compare it |
 | 10 | **Damage and leaks** | Who pays if the unit floods the basement | Check both the contract and your homeowner's insurance |
 
-Two questions settle most of these at once. **What would it cost me, in total, to end this agreement in month 13?** And **what happens if I sell the house in year two?** If the salesperson cannot answer both in writing, do not sign.
+Two questions settle most of these at once. **What would it cost me, in total, to end this agreement in month 13?** And **what happens if I sell the house in year two?** If the salesperson cannot answer both in writing, do not sign. With franchise dealers, the answers vary from town to town: the [Culligan review separates what the brand's own warranty covers from the rental and service terms each local dealer sets](/blog/culligan-water-softener-review/).
 
 ## When a "Rental" Is Really a Loan
 

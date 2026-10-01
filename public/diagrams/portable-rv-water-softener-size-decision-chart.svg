@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="psd-title psd-desc">
+<title id="psd-title">Decision chart: best portable water softener size for RV trips</title>
+<desc id="psd-desc">Decision chart for portable RV water softeners: full-time or fixed-site living points to an installed softener, two or more people or hard campsites to the 16,000-grain double, and solo or weekend use on moderate water to the 8,000-grain standard model.</desc>
+<defs><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Which portable softener for your trips</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Based on the adjusted gallons per regeneration, not the box figures</text>
+<rect class="box" x="30" y="95" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Living aboard full time, or a</text>
+<text x="195" y="144" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">park model or cabin on one site?</text>
+<rect class="box" x="440" y="89" width="290" height="82" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
+<text x="585" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Neither portable: go installed</text>
+<text x="585" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">A small cabinet or two-tank unit</text>
+<text x="585" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">with a drain and outlet</text>
+<path class="ln" d="M360,130 L436,130" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#an)"/>
+<text x="400" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">Yes</text>
+<path class="ln" d="M195,165 L195,211" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#an)"/>
+<text x="207" y="195" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="30" y="215" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="246" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Two or more people, or campsites</text>
+<text x="195" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">harder than about 15 gpg?</text>
+<rect class="box" x="440" y="209" width="290" height="82" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="585" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">16,000-grain double</text>
+<text x="585" y="255" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">About 555 gal per regeneration</text>
+<text x="585" y="273" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">at 20 gpg; brass version available</text>
+<path class="ln" d="M360,250 L436,250" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="400" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<path class="ln" d="M195,285 L195,331" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#an)"/>
+<text x="207" y="315" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="30" y="335" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Solo or weekend trips on</text>
+<text x="195" y="384" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">moderate water?</text>
+<rect class="box" x="440" y="329" width="290" height="82" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="585" y="357" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">8,000-grain standard</text>
+<text x="585" y="375" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">About 550 gal at 10 gpg,</text>
+<text x="585" y="393" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">18 lb, fits a small hatch</text>
+<path class="ln" d="M360,370 L436,370" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="400" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<text x="30" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">If the last answer is No (one person on long trips), the 16,000-grain double still suits:</text>
+<text x="30" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">twice the resin means half as many regenerations on the road.</text>
+</svg>

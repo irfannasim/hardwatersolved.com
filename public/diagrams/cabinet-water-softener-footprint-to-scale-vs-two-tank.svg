@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="cwf-title cwf-desc">
+<title id="cwf-title">Cabinet water softener footprints to scale vs a two-tank 32,000-grain softener</title>
+<desc id="cwf-desc">Plan view drawn to scale: Aquasure Harmony Lite 194 sq in, Tier1 cabinet 215 sq in and EcoPure EP42 308 sq in, against about 375 sq in for a two-tank 32k softener with an 8 inch resin tank and 15 inch brine tank.</desc>
+<defs></defs>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Floor space to scale: three cabinet picks vs a two-tank 32k</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Plan view from above, 8 px per inch. Cabinets hold the resin tank inside the salt bin.</text>
+<rect x="50" y="100" width="84" height="148" rx="4" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="92" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Harmony Lite</text>
+<text x="92" y="319" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10.5 × 18.5 in</text>
+<text x="92" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">194 sq in</text>
+<text x="92" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">43 in tall</text>
+<rect x="190" y="100" width="91.2" height="151.2" rx="4" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="235.6" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Tier1 cabinet</text>
+<text x="235.6" y="319" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">11.4 × 18.9 in</text>
+<text x="235.6" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">215 sq in</text>
+<text x="235.6" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">44.6 in tall</text>
+<rect x="335" y="100" width="120" height="164" rx="4" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="395" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">EcoPure EP42</text>
+<text x="395" y="319" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">15 × 20.5 in</text>
+<text x="395" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">308 sq in</text>
+<text x="395" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">48 in tall</text>
+<circle cx="537" cy="160" r="32" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<rect x="585" y="100" width="120" height="120" rx="4" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<rect x="505" y="100" width="200" height="120" rx="0" fill="none" stroke="#52697a" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="605" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Two-tank 32k</text>
+<text x="605" y="319" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">8 in tank + 15 in brine tank</text>
+<text x="605" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">about 375 sq in</text>
+<text x="605" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">52 in resin tank, 37 in brine</text>
+<text x="605" y="242" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#52697a">dashed: bounding box, 2 in gap</text>
+<path class="ln" d="M50,400 L146,400" fill="none" stroke="#0b2f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M50,393 L50,407" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M146,393 L146,407" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="160" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">12 in</text>
+<text x="30" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Cabinet sizes from maker and retailer listings; two-tank sizes from the Aquasure Harmony manual.</text>
+<text x="30" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Floor area is width × depth. The two-tank figure is the box around both tanks, before clearance.</text>
+</svg>

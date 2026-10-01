@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="bvr-title bvr-desc">
+<title id="bvr-title">Water softener brands: what a control valve failure costs by sales channel</title>
+<desc id="bvr-desc">Three repair paths for the same year-eight control valve failure on a water softener: a dealer brand repaired through its dealer, an online brand on a Fleck or Clack valve repaired with parts from any seller, and a big-box cabinet that often ends in replacement.</desc>
+<defs><marker id="bvr-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="bvr-m15803d" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="bvr-mdc2626" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Same failure, three repair paths</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Who makes the valve decides where the parts come from and who sets the price.</text>
+<rect class="box" x="30" y="84" width="700" height="44" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="380" y="111" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Year 8: the control valve leaks or stops cycling</text>
+<path class="ln" d="M140,128 L140,148" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="30" y="154" width="220" height="56" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="140" y="177" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Dealer brand</text>
+<text x="140" y="197" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Culligan, Kinetico, EcoWater</text>
+<path class="ln" d="M140,210 L140,230" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="30" y="236" width="220" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="262" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">1</text>
+<text x="64" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Call the dealer that sold it</text>
+<text x="64" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">or the nearest franchise</text>
+<path class="ln" d="M140,300 L140,320" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="30" y="326" width="220" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">2</text>
+<text x="64" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Dealer diagnoses; parts are</text>
+<text x="64" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">proprietary to the brand</text>
+<path class="ln" d="M140,390 L140,410" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="30" y="416" width="220" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="44" y="442" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">3</text>
+<text x="64" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Parts may be under warranty;</text>
+<text x="64" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">labor and trip fee usually not</text>
+<path class="ln" d="M140,480 L140,500" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="30" y="506" width="220" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2.5"/>
+<text x="140" y="539" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Cost set by your local dealer</text>
+<path class="ln" d="M380,128 L380,148" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="270" y="154" width="220" height="56" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="380" y="177" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Online, Fleck or Clack valve</text>
+<text x="380" y="197" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">AFWFilters, DuraWater</text>
+<path class="ln" d="M380,210 L380,230" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="270" y="236" width="220" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="284" y="262" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">1</text>
+<text x="304" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Read the valve model on the</text>
+<text x="304" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">head, e.g. Fleck 5600SXT</text>
+<path class="ln" d="M380,300 L380,320" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="270" y="326" width="220" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="284" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">2</text>
+<text x="304" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Order a seal kit, piston or</text>
+<text x="304" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">board from any parts seller</text>
+<path class="ln" d="M380,390 L380,410" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="270" y="416" width="220" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="284" y="442" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">3</text>
+<text x="304" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Fit it yourself or pay any</text>
+<text x="304" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">plumber by the hour</text>
+<path class="ln" d="M380,480 L380,500" fill="none" stroke="#15803d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m15803d)"/>
+<rect class="box" x="270" y="506" width="220" height="56" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2.5"/>
+<text x="380" y="539" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Cost = parts + your time</text>
+<path class="ln" d="M620,128 L620,148" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="510" y="154" width="220" height="56" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="620" y="177" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Big-box cabinet</text>
+<text x="620" y="197" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">WaterBoss, Whirlpool</text>
+<path class="ln" d="M620,210 L620,230" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="510" y="236" width="220" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="524" y="262" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">1</text>
+<text x="544" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Find the model and date code</text>
+<text x="544" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">on the rating decal</text>
+<path class="ln" d="M620,300 L620,320" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="510" y="326" width="220" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="524" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">2</text>
+<text x="544" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Call the maker; warranty</text>
+<text x="544" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">parts ship to the home</text>
+<path class="ln" d="M620,390 L620,410" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-m3a5a72)"/>
+<rect class="box" x="510" y="416" width="220" height="64" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="524" y="442" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">3</text>
+<text x="544" y="442" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Out of warranty, labor is</text>
+<text x="544" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">yours; many replace the unit</text>
+<path class="ln" d="M620,480 L620,500" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bvr-mdc2626)"/>
+<rect class="box" x="510" y="506" width="220" height="56" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2.5"/>
+<text x="620" y="539" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Often ends in replacement</text>
+<text x="30" y="588" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative paths based on the warranty terms quoted in the article; actual costs vary by dealer, model and region.</text>
+</svg>

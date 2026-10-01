@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 564" width="760" height="564" role="img" aria-labelledby="sad-title sad-desc">
+<title id="sad-title">Best water softener for septic systems: annual regeneration discharge by pick</title>
+<desc id="sad-desc">Bar chart of yearly regeneration water sent to a septic system by a family of four: a timer softener every 3 days about 10,370 gallons, Fleck 5600SXT metered about 3,880, Fleck 9100SXT twin about 3,430 and SoftPro Elite upflow about 1,380.</desc>
+<defs></defs>
+<rect width="760" height="564" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Softener regeneration water sent to the septic tank, per year</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Four people, 300 gallons a day, 15 gpg. Same household, four kinds of softener.</text>
+<path d="M250,92 L250,436" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="250" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<path d="M334,92 L334,436" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="334" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">2,000</text>
+<path d="M418,92 L418,436" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="418" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">4,000</text>
+<path d="M502,92 L502,436" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="502" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6,000</text>
+<path d="M586,92 L586,436" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="586" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">8,000</text>
+<path d="M670,92 L670,436" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="670" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10,000</text>
+<text x="481" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Gallons a year to the drain</text>
+<text x="30" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Timer, every 3 days</text>
+<text x="30" y="144" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">85 gal x 122 cycles</text>
+<rect x="250" y="110" width="435.5" height="40" fill="#78716c"/>
+<text x="675.5" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#ffffff">~10,370 gal (9.5%)</text>
+<text x="30" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fleck 5600SXT 48k</text>
+<text x="30" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">metered, 85 gal every 8 days</text>
+<rect x="250" y="196" width="163" height="40" fill="#3a5a72"/>
+<text x="423" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#3a5a72">~3,880 gal (3.5%)</text>
+<text x="30" y="298" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fleck 9100SXT twin 48k</text>
+<text x="30" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">metered, no reserve held</text>
+<rect x="250" y="282" width="144.1" height="40" fill="#3a5a72"/>
+<text x="404.1" y="308" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#3a5a72">~3,430 gal (3.1%)</text>
+<text x="30" y="384" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">SoftPro Elite 48k</text>
+<text x="30" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">upflow, ~30 gal a cycle</text>
+<rect x="250" y="368" width="58" height="40" fill="#0e7490"/>
+<text x="318" y="394" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">~1,380 gal (1.3%)</text>
+<text x="30" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Percent = share of the 109,500 gallons the household sends to the septic tank each year anyway.</text>
+<text x="30" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Illustrative. Fleck figures use one maker’s cycle times at a standard salt setting; SoftPro uses about</text>
+<text x="30" y="544" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">30 gallons a cycle, the figure given on SoftPro’s product page, at the same weekly-plus interval.</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="gnc-title gnc-desc">
+<title id="gnc-title">GE water softener no soft water: the owner's manual check order</title>
+<desc id="gnc-desc">Check order for a GE water softener that stops delivering soft water, drawn from the owner's manual troubleshooting table: salt level, bypass, hardness setting, blending valve, power, drain hose, nozzle and venturi, then error codes.</desc>
+<defs>
+<marker id="gnc-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">GE softener, no soft water: check in this order</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">From the troubleshooting table in GE's GXSH40V/GXSH45V owner's manual. If a check fails, apply the fix and retest.</text>
+<text x="30" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">CHECK</text>
+<text x="400" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">IF NOT, DO THIS</text>
+<rect class="box" x="30" y="100" width="340" height="40" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="46" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">1. Salt at least one-third full?</text>
+<text x="400" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Fill it, and break any salt bridge</text>
+<path class="ln" d="M200,140 L200,152" fill="none" stroke="#3a5a72" stroke-width="2" marker-end="url(#gnc-a)"/>
+<rect class="box" x="30" y="156" width="340" height="40" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="46" y="181" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">2. Bypass handle at OUT (service)?</text>
+<text x="400" y="181" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Set it to service</text>
+<path class="ln" d="M200,196 L200,208" fill="none" stroke="#3a5a72" stroke-width="2" marker-end="url(#gnc-a)"/>
+<rect class="box" x="30" y="212" width="340" height="40" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="46" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">3. Hardness setting matches the water?</text>
+<text x="400" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Retest the supply and reset it</text>
+<path class="ln" d="M200,252 L200,264" fill="none" stroke="#3a5a72" stroke-width="2" marker-end="url(#gnc-a)"/>
+<rect class="box" x="30" y="268" width="340" height="40" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="46" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">4. Blending valve closed?</text>
+<text x="400" y="293" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Turn it clockwise to close</text>
+<path class="ln" d="M200,308 L200,320" fill="none" stroke="#3a5a72" stroke-width="2" marker-end="url(#gnc-a)"/>
+<rect class="box" x="30" y="324" width="340" height="40" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="46" y="349" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">5. Power on, outlet always live?</text>
+<text x="400" y="349" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Restore power, then reprogram</text>
+<path class="ln" d="M200,364 L200,376" fill="none" stroke="#3a5a72" stroke-width="2" marker-end="url(#gnc-a)"/>
+<rect class="box" x="30" y="380" width="340" height="40" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="46" y="405" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">6. Drain hose free and not too high?</text>
+<text x="400" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Clear kinks. Drain up to 8 ft needs 20 psi;</text>
+<text x="400" y="414" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">higher than 8 ft needs 50 psi</text>
+<path class="ln" d="M200,420 L200,432" fill="none" stroke="#3a5a72" stroke-width="2" marker-end="url(#gnc-a)"/>
+<rect class="box" x="30" y="436" width="340" height="40" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="461" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">7. Nozzle and venturi clean?</text>
+<text x="400" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Water off, take it apart, clean, check the</text>
+<text x="400" y="470" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">gasket holes line up; replace if damaged</text>
+<path class="ln" d="M200,476 L200,488" fill="none" stroke="#3a5a72" stroke-width="2" marker-end="url(#gnc-a)"/>
+<rect class="box" x="30" y="492" width="340" height="40" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="46" y="517" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">8. "Err" on the display?</text>
+<text x="400" y="510" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Unplug, reseat wiring, wait 8 minutes;</text>
+<text x="400" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">if it returns, call for service</text>
+<text x="30" y="568" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">The nozzle and venturi turns up in the table under several different symptoms.</text>
+</svg>

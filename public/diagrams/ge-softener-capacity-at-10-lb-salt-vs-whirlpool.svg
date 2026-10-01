@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="gcw-title gcw-desc">
+<title id="gcw-title">GE water softener grain ratings converted to capacity at about 10 lb of salt, compared with Whirlpool</title>
+<desc id="gcw-desc">Bar chart for a GE water softener review: the number on the box against rated capacity at a 9 to 10.5 lb salt dose for the discontinued GE GXSH40V and GXSH45V, the 2025 GE GXSH35W and GXSH45W, and the Whirlpool WHES44 and WHES48.</desc>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">GE softeners at a normal salt setting, vs Whirlpool</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Grains per regeneration from each maker's NSF/ANSI 44 performance data; dose shown in each teal bar</text>
+<text x="235" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">GE GXSH40V (old)</text>
+<text x="235" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.11 cu ft resin</text>
+<rect class="box" x="250" y="104" width="360" height="22" fill="#94a3b8"/>
+<text x="602" y="120" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">40,000 on the box</text>
+<rect class="box" x="250" y="130" width="283.5" height="22" fill="#0e7490"/>
+<text x="525" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">31,500 @ 8.7 lb</text>
+<text x="235" y="186" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">GE GXSH45V (old)</text>
+<text x="235" y="204" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.25 cu ft resin</text>
+<rect class="box" x="250" y="168" width="405.9" height="22" fill="#94a3b8"/>
+<text x="648" y="184" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">45,100 on the box</text>
+<rect class="box" x="250" y="194" width="319.5" height="22" fill="#0e7490"/>
+<text x="561" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">35,500 @ 9.9 lb</text>
+<text x="235" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">GE GXSH35W (2025)</text>
+<text x="235" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.0 cu ft resin</text>
+<rect class="box" x="250" y="232" width="315" height="22" fill="#94a3b8"/>
+<text x="557" y="248" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">35,000 on the box</text>
+<rect class="box" x="250" y="258" width="293.7" height="22" fill="#0e7490"/>
+<text x="536" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">32,636 @ 9.8 lb</text>
+<text x="235" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">GE GXSH45W (2025)</text>
+<text x="235" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.5 cu ft resin</text>
+<rect class="box" x="250" y="296" width="405" height="22" fill="#94a3b8"/>
+<text x="647" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">45,000 on the box</text>
+<rect class="box" x="250" y="322" width="354.3" height="22" fill="#0e7490"/>
+<text x="596" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">39,364 @ 9.8 lb</text>
+<path d="M30,364 L730,364" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="235" y="398" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Whirlpool WHES44</text>
+<text x="235" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.23 cu ft resin</text>
+<rect class="box" x="250" y="380" width="396" height="22" fill="#94a3b8"/>
+<text x="638" y="396" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">44,000 on the box</text>
+<rect class="box" x="250" y="406" width="313.2" height="22" fill="#0e7490"/>
+<text x="555" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">34,800 @ 9.7 lb</text>
+<text x="235" y="462" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Whirlpool WHES48</text>
+<text x="235" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.33 cu ft resin</text>
+<rect class="box" x="250" y="444" width="432" height="22" fill="#94a3b8"/>
+<text x="674" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">48,000 on the box</text>
+<rect class="box" x="250" y="470" width="341.1" height="22" fill="#0e7490"/>
+<text x="583" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">37,900 @ 10.5 lb</text>
+<rect x="30" y="514" width="22" height="14" fill="#94a3b8"/>
+<text x="60" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Grain rating on the box</text>
+<rect x="250" y="514" width="22" height="14" fill="#0e7490"/>
+<text x="280" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Rated capacity at a 9 to 10.5 lb salt dose</text>
+<text x="30" y="562" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">At a normal setting the old GXSH40V and the new GXSH35W deliver almost the same.</text>
+</svg>

@@ -90,7 +90,7 @@ If the regeneration regularly clashes with someone's shower, the fix is the sche
 
 A twin-tank softener removes the question. One tank is always in service while the other regenerates, so there is no bypass, no hard water and no brine-stage pressure risk. Fleck's [5600SXT manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf) notes that on twin-tank systems with soft-water regeneration, the reserve should be set to the volume of water used during regeneration, because the tank in service also supplies the regeneration water.
 
-For most houses that is not worth paying for. A single tank that regenerates at 2 a.m. meets nobody. It is worth it where there is no quiet window: homes with night-shift workers, large households using water around the clock, and buildings with several units on one softener. The trade-off is set out in [single-tank vs twin-tank water softeners](/blog/single-tank-vs-twin-tank-water-softeners/).
+For most houses that is not worth paying for. A single tank that regenerates at 2 a.m. meets nobody. It is worth it where there is no quiet window: homes with night-shift workers, large households using water around the clock, and buildings with several units on one softener. The trade-off is set out in [single-tank vs twin-tank water softeners](/blog/single-tank-vs-twin-tank-water-softeners/). If your house is one of those, [comparing twin-tank softeners on per-tank size and price](/blog/best-twin-tank-water-softeners/) is the next step.
 
 ## What Timing Cannot Fix
 

@@ -100,7 +100,7 @@ Honesty first: **nothing that avoids the plumbing softens the whole house.** A w
 | **Shower filter** | Removes chlorine, sometimes sediment | Does not remove hardness. It is not a softener |
 | **Descaling routine** | Vinegar or citric acid on showerheads, kettles and aerators | Treats the symptom; hardness stays |
 
-If washing is the main complaint, the washer hose connection is often the most useful single spot. Laundry and detergent use benefit most from soft water, and the connection is standard. If the complaint is spotting and scale everywhere, only a whole-house unit fixes it, which means routes 1 or 2.
+If washing is the main complaint, the washer hose connection is often the most useful single spot. Laundry and detergent use benefit most from soft water, and the connection is standard. If the drinking water is the complaint, a plug-in countertop reverse osmosis unit treats it with no plumbing and leaves with you; [comparing countertop RO units for renters](/blog/best-countertop-reverse-osmosis-system/) covers what each certification covers and what the filters cost. If the complaint is spotting and scale everywhere, only a whole-house unit fixes it, which means routes 1 or 2, and [compact softeners scored for renters](/blog/best-water-softener-for-apartments/) shows what fits.
 
 ## The Fixture Question at Move-Out
 

@@ -117,7 +117,7 @@ A dual check backflow preventer at the meter causes exactly the same effect. If 
 
 Supply pressure and pressure drop get confused. Supply pressure is what arrives at the softener. Pressure drop is how much the softener takes away while water flows through it. Every softener has some, and it grows with flow rate: little at one tap, more with the shower, washer and a hose running together.
 
-A drop that suddenly gets worse, or that makes showers weak, is not a supply problem. The usual causes are a partly closed bypass, fouled or broken-down resin, debris in the distributor screens, or a unit too small for the house's peak flow. [Low water pressure after a water softener](/blog/low-water-pressure-after-water-softener/) walks through that diagnosis.
+A drop that suddenly gets worse, or that makes showers weak, is not a supply problem. The usual causes are a partly closed bypass, fouled or broken-down resin, debris in the distributor screens, or a unit too small for the house's peak flow. [Low water pressure after a water softener](/blog/low-water-pressure-after-water-softener/) walks through that diagnosis. If the unit itself is the restriction on a weak supply, [comparing softeners on pressure loss and minimum inlet pressure](/blog/best-water-softener-for-low-water-pressure/) shows which valves suit it.
 
 ## What Changing the Pressure Cannot Fix
 

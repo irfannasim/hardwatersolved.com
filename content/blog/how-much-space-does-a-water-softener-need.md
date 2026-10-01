@@ -86,7 +86,7 @@ The drawing shows three ways to use the floor, all drawn to the same scale with 
 
 **Two-tank, side by side.** This is the default. The media tank and the brine tank sit next to each other against a wall, with the valve and bypass facing the plumbing. It takes about 30 inches of wall and 24 inches of depth. It is also the easiest layout to service, because nothing blocks the valve.
 
-**Cabinet.** This is the smallest footprint, about 14 by 27 inches with room behind. The media tank sits inside the salt cabinet, so there is only one object on the floor. The trade-offs are less salt storage, so more frequent refills, and a valve that is harder to reach. Cabinet units suit closets and laundry rooms where every inch of wall counts.
+**Cabinet.** This is the smallest footprint, about 14 by 27 inches with room behind. The media tank sits inside the salt cabinet, so there is only one object on the floor. The trade-offs are less salt storage, so more frequent refills, and a valve that is harder to reach. Cabinet units suit closets and laundry rooms where every inch of wall counts. [Comparing cabinet softeners on floor space and salt storage](/blog/best-cabinet-water-softeners/) shows how far apart their refill intervals run.
 
 **Two-tank in a line.** In a narrow alcove about 20 inches wide, the media tank goes against the back wall and the brine tank sits in front of it. This works, but the valve is now behind the brine tank. You service it by reaching over, and you pull the brine tank out first for anything major. This layout depends even more on the overhead clearance, because the valve can only be reached from above.
 

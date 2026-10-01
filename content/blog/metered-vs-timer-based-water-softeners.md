@@ -157,7 +157,7 @@ If you keep a timer unit, check its setting against the household's real use. Ma
 
 ## The Decision in Short
 
-1. If you are buying, choose metered. The saving pays back the price difference within a few years, and only metered units can be efficiency rated.
+1. If you are buying, choose metered. The saving pays back the price difference within a few years, and only metered units can be efficiency rated. Some dealer ranges still start with a timer model, and the [EcoWater review maps which of its series use a timer, which use demand control, and how the valve warranty changes between them](/blog/ecowater-water-softener-review/).
 2. If you own a timer unit, work out your real days between regenerations and reprogram it to match.
 3. Replace a working timer valve with a metered one when it needs major service, when water and sewer are expensive, or when a local rule or rebate requires demand control.
 4. On any metered unit, check the hardness, capacity, reserve and day override. Those four settings decide how much the meter actually saves.

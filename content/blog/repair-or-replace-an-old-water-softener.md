@@ -135,6 +135,6 @@ Replacing a softener is the wrong answer when the fault is not in the softener.
 3. Check the tank. If it has failed, replace the softener.
 4. Divide the repair quote by the installed price of a comparable new softener and compare it with the threshold for the unit's age.
 5. If it falls in the borderline band, run the salt and water test and check parts supply.
-6. If you replace, choose a demand-initiated, efficiency-rated softener with a standard valve, sized to today's hardness and household.
+6. If you replace, choose a demand-initiated, efficiency-rated softener with a standard valve, sized to today's hardness and household. [Ranking softener brands by who makes the valve and whether its parts are sold openly](/blog/best-water-softener-brands/) narrows the field to units you can still repair in fifteen years.
 
 Worked through in this order, repair or replace water softener decisions are usually clear. A good tank is worth keeping, a failed tank is not, and an old timer that wastes salt is often worth replacing before it breaks.

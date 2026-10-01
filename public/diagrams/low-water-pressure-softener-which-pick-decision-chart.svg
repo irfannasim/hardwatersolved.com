@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="lpc-title lpc-desc">
+<title id="lpc-title">Best water softener for low water pressure: which pick for which house</title>
+<desc id="lpc-desc">Decision chart: below 20 psi or on a 20/40 well switch, fix the pressure first; high peak demand on 1 inch pipe suits SoftPro Elite 48k; budget homes at 30 psi or more suit a Fleck 5600SXT 48k; city water at 40 psi suits the Aquasure Harmony 32k.</desc>
+<defs><marker id="lpc-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Which softener for a low-pressure house?</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Measure static and flowing pressure first. Then answer from the top.</text>
+<rect class="box" x="30" y="90" width="380" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Static pressure under 20 psi, or</text>
+<text x="48" y="137" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">a 20/40 well switch you won’t change?</text>
+<rect class="box" x="480" y="90" width="250" height="64" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="2"/>
+<text x="498" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Fix the pressure first</text>
+<text x="498" y="137" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">switch, pump or booster</text>
+<path class="ln" d="M410,122 L472,122" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lpc-a)"/>
+<text x="441" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M220,154 L220,182" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lpc-a)"/>
+<text x="232" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="30" y="190" width="380" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Peak demand above 10 gpm, or</text>
+<text x="48" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">1 in pipe and 3+ bathrooms?</text>
+<rect class="box" x="480" y="190" width="250" height="64" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="498" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">SoftPro Elite 48k</text>
+<text x="498" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">1 in ports, 20 psi minimum</text>
+<path class="ln" d="M410,222 L472,222" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lpc-a)"/>
+<text x="441" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M220,254 L220,282" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lpc-a)"/>
+<text x="232" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="30" y="290" width="380" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="317" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Budget-led, 1 in main,</text>
+<text x="48" y="337" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">pressure 30 psi or more?</text>
+<rect class="box" x="480" y="290" width="250" height="64" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="498" y="317" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Fleck 5600SXT 48k, 1 in yoke</text>
+<text x="498" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">about $775</text>
+<path class="ln" d="M410,322 L472,322" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lpc-a)"/>
+<text x="441" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M220,354 L220,382" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#lpc-a)"/>
+<text x="232" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="30" y="390" width="380" height="64" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="48" y="417" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">City water, 40 psi or more, 1–2 baths:</text>
+<text x="48" y="437" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Aquasure Harmony 32k (25 psi minimum)</text>
+</svg>

@@ -117,7 +117,7 @@ This page is not an argument for the smallest unit that will do. Undersizing is 
 | Household is growing | A unit for the family you will have in two years, not the one you have now |
 | High peak flow | A wider tank passes more gallons per minute with less pressure drop |
 
-The test in every row is the same. Will the household's real daily load exhaust the bed within about a week at an efficient salt dose? If yes, the bigger unit is sized correctly. If the answer depends on the day override doing the work, it is too big.
+The test in every row is the same. Will the household's real daily load exhaust the bed within about a week at an efficient salt dose? If yes, the bigger unit is sized correctly. If the answer depends on the day override doing the work, it is too big. Above 20 gpg, [choosing a large-capacity softener for very hard water](/blog/best-water-softener-for-very-hard-water/) comes down to this same test, and [an 80,000-grain unit passes it only at a daily load of roughly 5,600 grains or more](/blog/best-80000-grain-water-softener/).
 
 ## A Worksheet for Checking Whether Yours Is Too Large
 
@@ -138,7 +138,7 @@ You need four numbers, all of which you can get without a technician.
 - **Over 14 days:** oversized at this setting. Set day override to 7 to 14 days and lower the salt dose to the manual's minimum that still gives a week of capacity.
 - **Over 14 days even at the minimum dose:** the bed is too big for the household. Live with some salt waste, or plan a smaller unit when this one needs a new valve or resin.
 
-If you are buying rather than checking an existing unit, the same worksheet run in reverse gives the target size. Work out the daily load, multiply by seven, and choose the smallest standard size that delivers that capacity at an efficient salt dose.
+If you are buying rather than checking an existing unit, the same worksheet run in reverse gives the target size. Work out the daily load, multiply by seven, and choose the smallest standard size that delivers that capacity at an efficient salt dose. For two or three people on moderate water, that is often about 1 cubic foot of resin, and [comparing 32,000-grain softeners at the same efficient salt dose](/blog/best-32000-grain-water-softener/) shows what one really delivers per cycle.
 
 ## What Right-Sizing Will Not Fix
 

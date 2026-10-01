@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 556" width="760" height="556" role="img" aria-labelledby="lpd-title lpd-desc">
+<title id="lpd-title">Best water softener for low water pressure: pressure drop at 12 gpm by model</title>
+<desc id="lpd-desc">Bar chart scaling each published water softener pressure-drop rating to a 12 gpm peak: Whirlpool WHES30 about 37 psi, WaterBoss 900 and Whirlpool WHES33 about 21 psi, Fleck 5600SXT and Aquatrol valves alone about 5 psi; SoftPro Elite and Fleck 9100SXT publish no drop.</desc>
+<defs><pattern id="lpd-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#ffffff"/><path d="M0,0 L0,8" stroke="#94a3b8" stroke-width="3"/></pattern></defs>
+<rect width="760" height="556" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Pressure lost at a 12 gpm peak, from each spec sheet</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Each published rating point scaled to 12 gpm with the square of flow. Lower is better.</text>
+<path d="M290,92 L290,440" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="290" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0 psi</text>
+<path d="M380,92 L380,440" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="380" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10 psi</text>
+<path d="M470,92 L470,440" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="470" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">20 psi</text>
+<path d="M560,92 L560,440" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="560" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">30 psi</text>
+<path d="M650,92 L650,440" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="650" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">40 psi</text>
+<text x="30" y="114" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Whirlpool WHES30</text>
+<text x="30" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">system: 15 psi at 7.6 gpm</text>
+<rect x="290" y="102" width="336.6" height="30" fill="#c2410c"/>
+<text x="636.6" y="123" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">37.4 psi</text>
+<text x="30" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">WaterBoss 900</text>
+<text x="30" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">system: 15 psi at 10 gpm</text>
+<rect x="290" y="160" width="194.4" height="30" fill="#c2410c"/>
+<text x="494.4" y="181" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">21.6 psi</text>
+<text x="30" y="230" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Whirlpool WHES33</text>
+<text x="30" y="248" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">system: 9.4 psi at 8.0 gpm</text>
+<rect x="290" y="218" width="190.8" height="30" fill="#c2410c"/>
+<text x="490.8" y="239" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">21.2 psi</text>
+<text x="30" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fleck 5600SXT, Aquatrol</text>
+<text x="30" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">valve alone: 15 psi at 20 gpm</text>
+<rect x="290" y="276" width="48.6" height="30" fill="#0e7490"/>
+<text x="348.6" y="297" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">5.4 psi</text>
+<text x="30" y="346" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">SoftPro Elite 48k</text>
+<text x="30" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">"15 gpm" claim, no drop given</text>
+<rect x="290" y="334" width="120" height="30" fill="url(#lpd-hatch)" stroke="#94a3b8" stroke-width="1"/>
+<text x="422" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">not published</text>
+<text x="30" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fleck 9100SXT twin</text>
+<text x="30" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">6.5 gpm service, no drop given</text>
+<rect x="290" y="392" width="120" height="30" fill="url(#lpd-hatch)" stroke="#94a3b8" stroke-width="1"/>
+<text x="422" y="413" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">not published</text>
+<rect x="30" y="481" width="14" height="14" fill="#c2410c"/>
+<text x="50" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Whole system: valve, tank and resin</text>
+<rect x="330" y="481" width="14" height="14" fill="#0e7490"/>
+<text x="350" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Valve only: the tank and resin add more</text>
+<text x="30" y="518" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Sources: Whirlpool WHES30/33 manual, WaterBoss listing, Pentair 5600SXT and Aquasure Harmony specs,</text>
+<text x="30" y="536" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">SoftPro product page, AFWFilters listing. WaterBoss 900 and the Whirlpools are shown for reference only.</text>
+</svg>

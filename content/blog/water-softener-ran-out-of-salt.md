@@ -144,5 +144,6 @@ The empty tank was probably a symptom, not the whole story. Work through these i
 - **Check the salt monthly** and top up when it falls to roughly a quarter full.
 - **Mark the level with tape** and date it. A level that has not moved in a month is a bridge or brine-draw fault, not a full tank.
 - **Buy salt before you need it.** A bag in reserve means the next low level is a two-minute job.
+- **Or let a sensor do the checking.** A salt-level alert catches an empty tank before the hard water does. [Which smart softener features are worth paying for](/blog/best-smart-water-softeners/) separates useful alerts from plain notifications.
 
 A water softener that ran out of salt needs the salt, the time for it to become brine, and a regeneration that actually uses it, in that order. Wait at least two hours, run one cycle while watching the brine level, test the next morning, and only then decide on a second cycle. Then give the water heater a few days, or a flush, to catch up.

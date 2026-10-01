@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 512" width="760" height="512" role="img" aria-labelledby="ssd-title ssd-desc">
+<title id="ssd-title">Best smart water softeners: which smart setup to buy</title>
+<desc id="ssd-desc">Decision chart for a smart water softener setup: replace a timer or failing softener with a metered one first; if a plumber can cut into the main, add a Moen Flo shutoff; if there is a ball valve, add a Guardian by Elexa kit; otherwise fit a ball valve first.</desc>
+<defs><marker id="ssd-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="512" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Which smart water softener setup do you need?</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Answer from the top. The first yes decides.</text>
+<rect class="box" x="30" y="90" width="380" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Is your softener a timer model,</text>
+<text x="48" y="137" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">or failing and over 10 years old?</text>
+<rect class="box" x="480" y="90" width="250" height="64" rx="6" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+<text x="498" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">Replace the softener first</text>
+<text x="498" y="137" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">metered, e.g. Fleck 5600SXT 48k</text>
+<path class="ln" d="M410,122 L472,122" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ssd-a)"/>
+<text x="441" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M220,154 L220,182" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ssd-a)"/>
+<text x="232" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="30" y="190" width="380" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Can a plumber cut a valve into the</text>
+<text x="48" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">main, with an outlet within 10 ft?</text>
+<rect class="box" x="480" y="190" width="250" height="64" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="498" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Moen Flo shutoff</text>
+<text x="498" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">3/4 in or 1 in, daily leak test</text>
+<path class="ln" d="M410,222 L472,222" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ssd-a)"/>
+<text x="441" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M220,254 L220,282" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ssd-a)"/>
+<text x="232" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="30" y="290" width="380" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="317" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Is there a quarter-turn ball</text>
+<text x="48" y="337" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">valve on the main already?</text>
+<rect class="box" x="480" y="290" width="250" height="64" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="498" y="317" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Guardian by Elexa kit</text>
+<text x="498" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">clamps on, no monthly fee</text>
+<path class="ln" d="M410,322 L472,322" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ssd-a)"/>
+<text x="441" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
+<path class="ln" d="M220,354 L220,382" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ssd-a)"/>
+<text x="232" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<rect class="box" x="30" y="390" width="380" height="64" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="48" y="417" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Have a ball valve fitted first,</text>
+<text x="48" y="437" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">then add Guardian; or go with Moen Flo</text>
+<text x="30" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Either shutoff goes on the main ahead of the softener, so it also catches a softener or brine tank leak.</text>
+</svg>

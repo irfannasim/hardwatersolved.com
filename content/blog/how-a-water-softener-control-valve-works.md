@@ -50,6 +50,8 @@ Residential valves reach the same five positions by different mechanical routes.
 
 Many retail cabinet softeners use a fourth design, a rotating disc driven through a cam and switch. The water paths are the same.
 
+If you are choosing a softener rather than repairing one, the valve design is worth weighing too. [The Fleck 5600SXT review separates the valve's parts support from what each seller ships with it](/blog/fleck-5600sxt-review/).
+
 When the drive or the position sensing fails, the valve stops partway through the cycle. That failure has its own guide: [why a water softener is stuck in regeneration](/blog/water-softener-stuck-in-regeneration/).
 
 ## How a Water Softener Control Valve Works, Stage by Stage

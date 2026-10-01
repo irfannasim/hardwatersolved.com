@@ -127,7 +127,7 @@ Annual figures hide how the difference adds up. Over ten years, the example come
 | Everything else, including reserves | $830 | $2,900 |
 | **Ten-year maintenance total** | **$1,790** | **$3,860** |
 
-The $2,070 gap is more than the $1,500 installed price used for a softener in our ownership model. That is the real decision behind "DIY or serviced". Over the life of the softener, paying for routine visits can cost as much as a second unit.
+The $2,070 gap is more than the $1,500 installed price used for a softener in our ownership model. That is the real decision behind "DIY or serviced". Over the life of the softener, paying for routine visits can cost as much as a second unit. If you are still choosing that unit, the same arithmetic of salt, parts prices and repairs is how we ranked [low-cost softeners on ten-year ownership cost](/blog/best-budget-water-softeners/).
 
 The reserves also stop being theoretical in these years. At some point in the decade the resin, a seal kit or both will be spent. An owner who has set aside $28 or $75 a year pays for them from the reserve, not from an emergency.
 

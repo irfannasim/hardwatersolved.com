@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="cwm-title cwm-desc">
+<title id="cwm-title">Clack WS1 control valve display menus and the button combinations that open them</title>
+<desc id="cwm-desc">Map of the Clack WS1 water softener display: NEXT cycles the user screens, NEXT plus UP opens installer settings, NEXT plus DOWN opens system setup, UP plus DOWN opens diagnostics, and NEXT plus REGEN clears an error code.</desc>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Clack WS1 display: four menus, five buttons</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Hold the two buttons together for 3 seconds. Press CLOCK to leave any menu; changes made so far are kept.</text>
+<rect class="box" x="180" y="80" width="400" height="124" rx="10" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<rect class="box" x="200" y="92" width="360" height="44" rx="4" fill="#0b2f4a"/>
+<text x="380" y="119" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">TIME / CAPACITY / FLOW / CALL</text>
+<rect class="box" x="196" y="152" width="64" height="34" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="228" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">CLOCK</text>
+<rect class="box" x="272" y="152" width="64" height="34" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="304" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">NEXT</text>
+<rect class="box" x="348" y="152" width="64" height="34" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">UP</text>
+<rect class="box" x="424" y="152" width="64" height="34" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="456" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">DOWN</text>
+<rect class="box" x="500" y="152" width="64" height="34" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="532" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">REGEN</text>
+<rect class="box" x="30" y="228" width="340" height="168" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="254" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">User screens</text>
+<text x="46" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">Press NEXT to step through</text>
+<text x="46" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Time of day</text>
+<text x="46" y="322" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Gallons or days left before regeneration</text>
+<text x="46" y="344" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Current treated-water flow rate</text>
+<text x="46" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">CALL service reminder, if one is set</text>
+<rect class="box" x="390" y="228" width="340" height="168" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="406" y="254" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Installer settings</text>
+<text x="406" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">Hold NEXT + UP</text>
+<text x="406" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Hardness: default 20, range 1 to 150 gpg</text>
+<text x="406" y="322" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Day override: 1 to 28 days, or oFF</text>
+<text x="406" y="344" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Regeneration hour: default 2:00 AM</text>
+<text x="406" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Regeneration minutes</text>
+<rect class="box" x="30" y="412" width="340" height="168" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="438" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">System setup (normally the seller's)</text>
+<text x="46" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">Hold NEXT + DOWN</text>
+<text x="46" y="484" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Cycle times, and salt fill in pounds</text>
+<text x="46" y="506" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Grains capacity at that salt fill</text>
+<text x="46" y="528" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Volume capacity: AUTO sets the reserve</text>
+<text x="46" y="550" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Regen option: NORMAL, on 0, or both</text>
+<rect class="box" x="390" y="412" width="340" height="168" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="406" y="438" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Diagnostics (read only)</text>
+<text x="406" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">Hold UP + DOWN</text>
+<text x="406" y="484" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Days and gallons since last regeneration</text>
+<text x="406" y="506" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Reserve used on each of the last 7 days</text>
+<text x="406" y="528" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Daily usage history, up to 63 days</text>
+<text x="406" y="550" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Total gallons since start-up</text>
+<rect class="box" x="30" y="596" width="700" height="34" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="46" y="618" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Error code showing? Hold NEXT + REGEN for 3 s to resynchronise the piston position.</text>
+</svg>

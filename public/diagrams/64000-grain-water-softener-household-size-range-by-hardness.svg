@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" width="760" height="620" role="img" aria-labelledby="g64-title g64-desc">
+<title id="g64-title">Household size range for a 64,000 grain water softener by hardness</title>
+<desc id="g64-desc">Range chart showing which household sizes suit a 64,000 grain water softener at 10 to 30 gpg: about six people at 10 gpg, four at 15 gpg, three at 20 and 25 gpg and two at 30 gpg, with oversized, override and too-small zones.</desc>
+<defs></defs>
+<rect width="760" height="620" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Who needs a 64,000 grain water softener?</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Household sizes that suit about 40,000 usable grains (6 lb of salt per cu ft), 75 gallons per person a day</text>
+<rect x="30" y="81" width="16" height="14" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<text x="54" y="93" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Right size: 3 to 8 days between regenerations</text>
+<rect x="395" y="81" width="16" height="14" fill="#fef08a" stroke="#a16207" stroke-width="1.5"/>
+<text x="419" y="93" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Workable with a 14-day override: 8 to 14 days</text>
+<rect x="30" y="103" width="16" height="14" fill="#fecaca" stroke="#dc2626" stroke-width="1.5"/>
+<text x="54" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Too small: under 3 days, look at 80k or twin tank</text>
+<rect x="395" y="103" width="16" height="14" fill="#f1f5f9" stroke="#52697a" stroke-width="1.5"/>
+<text x="419" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Oversized: over 14 days</text>
+<text x="100" y="505" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M110,450 L700,450" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="455" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">2</text>
+<path d="M110,400 L700,400" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">4</text>
+<path d="M110,350 L700,350" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">6</text>
+<path d="M110,300 L700,300" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">8</text>
+<path d="M110,250 L700,250" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">10</text>
+<path d="M110,200 L700,200" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="205" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">12</text>
+<path d="M110,150 L700,150" stroke="#e2e8f0" stroke-width="1"/>
+<text x="100" y="155" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">14</text>
+<text x="30" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">People</text>
+<rect x="137" y="411.1111111111111" width="64" height="88.88888888888891" fill="#f1f5f9" stroke="none" stroke-width="1.5"/>
+<rect x="137" y="351.85185185185185" width="64" height="59.25925925925924" fill="#fef08a" stroke="#a16207" stroke-width="1"/>
+<rect x="137" y="166.66666666666663" width="64" height="185.18518518518522" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<rect x="137" y="150" width="64" height="16.66666666666663" fill="#fecaca" stroke="none" stroke-width="1.5"/>
+<text x="169" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">10 gpg</text>
+<text x="169" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">from 6 people</text>
+<rect x="255" y="440.74074074074076" width="64" height="59.25925925925924" fill="#f1f5f9" stroke="none" stroke-width="1.5"/>
+<rect x="255" y="401.2345679012346" width="64" height="39.50617283950618" fill="#fef08a" stroke="#a16207" stroke-width="1"/>
+<rect x="255" y="277.7777777777777" width="64" height="123.45679012345687" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<rect x="255" y="150" width="64" height="127.77777777777771" fill="#fecaca" stroke="none" stroke-width="1.5"/>
+<text x="287" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">15 gpg</text>
+<text x="287" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">from 4 people</text>
+<rect x="373" y="455.55555555555554" width="64" height="44.44444444444446" fill="#f1f5f9" stroke="none" stroke-width="1.5"/>
+<rect x="373" y="425.9259259259259" width="64" height="29.62962962962962" fill="#fef08a" stroke="#a16207" stroke-width="1"/>
+<rect x="373" y="333.3333333333333" width="64" height="92.59259259259261" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<rect x="373" y="150" width="64" height="183.33333333333331" fill="#fecaca" stroke="none" stroke-width="1.5"/>
+<text x="405" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">20 gpg</text>
+<text x="405" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">from 3 people</text>
+<rect x="491" y="464.44444444444446" width="64" height="35.55555555555554" fill="#f1f5f9" stroke="none" stroke-width="1.5"/>
+<rect x="491" y="440.74074074074076" width="64" height="23.703703703703695" fill="#fef08a" stroke="#a16207" stroke-width="1"/>
+<rect x="491" y="366.6666666666667" width="64" height="74.07407407407408" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<rect x="491" y="150" width="64" height="216.66666666666669" fill="#fecaca" stroke="none" stroke-width="1.5"/>
+<text x="523" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">25 gpg</text>
+<text x="523" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">from 3 people</text>
+<rect x="609" y="470.3703703703704" width="64" height="29.62962962962962" fill="#f1f5f9" stroke="none" stroke-width="1.5"/>
+<rect x="609" y="450.61728395061726" width="64" height="19.753086419753117" fill="#fef08a" stroke="#a16207" stroke-width="1"/>
+<rect x="609" y="388.88888888888886" width="64" height="61.728395061728406" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+<rect x="609" y="150" width="64" height="238.88888888888886" fill="#fecaca" stroke="none" stroke-width="1.5"/>
+<text x="641" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">30 gpg</text>
+<text x="641" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">from 2 people</text>
+<path d="M110,144 L110,500 L700,500" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="30" y="572" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Green labels: the smallest household that keeps a 64k at 8 days or less. Below that, 48k is the better size.</text>
+<text x="30" y="592" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Add about 4 gpg per 1 ppm of dissolved iron before reading the chart.</text>
+</svg>

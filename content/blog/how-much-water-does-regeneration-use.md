@@ -126,6 +126,6 @@ The full tuning sequence, including where further cuts start costing you soft wa
 
 ## Where the Water Goes, and What a Softener Cannot Do About It
 
-Everything except the refill leaves through the drain line, carrying the hardness minerals the resin removed and the unused salt. On a sewer, the treatment plant receives it. On a septic system, the tank does. Volume on a metered softener is modest, but it arrives as one slug of salty water, which is why a septic system deserves its own check before you install.
+Everything except the refill leaves through the drain line, carrying the hardness minerals the resin removed and the unused salt. On a sewer, the treatment plant receives it. On a septic system, the tank does. Volume on a metered softener is modest, but it arrives as one slug of salty water, which is why a septic system deserves its own check before you install. If you are on one and still choosing a unit, [comparing softeners for a septic system by the gallons each sends to the drain in a year](/blog/best-water-softener-for-septic-systems/) puts the metered and upflow designs side by side.
 
 A softener cannot regenerate with zero water, and it cannot recycle its own brine on residential equipment. The practical floor is a metered valve at an efficient salt setting, sized for the household. For most homes that is around 3 percent of household water. The water saved by efficient settings is real, but it is often smaller than what a running toilet or an overwatering irrigation zone wastes. Check those too if you are trying to cut the water bill.

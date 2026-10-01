@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="wbe-title wbe-desc">
+<title id="wbe-title">WaterBoss water softener iron and hardness operating envelope</title>
+<desc id="wbe-desc">Chart of the WaterBoss 900 water softener operating envelope: raw hardness plus 5 gpg per ppm of ferrous iron must stay under 90 gpg, iron under 10 ppm, and above 5 ppm a separate iron filter is the safer choice.</desc>
+<defs><marker id="wbe-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="wbe-soft" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="wbe-hard" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="wbe-fault" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="wbe-ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="wbe-steel" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="wbe-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="wbe-brine" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="wbe-drain" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="wbe-iron" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker></defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">WaterBoss 900: where iron stops being the softener's job</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Ferrous (clear-water) iron only, pH 7 or above. Limits from the owner's manual.</text>
+<rect x="100" y="110" width="440" height="340" rx="0" fill="#fee2e2" stroke="none" stroke-width="1"/>
+<polygon points="100,450 100,144 283.33333333333337,229 283.33333333333337,450" fill="#dcfce7"/>
+<polygon points="283.33333333333337,450 283.33333333333337,229 466.6666666666667,314 466.6666666666667,450" fill="#fef3c7"/>
+<text x="90" y="455" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<text x="90" y="387" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">20</text>
+<text x="90" y="319" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">40</text>
+<text x="90" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">60</text>
+<text x="90" y="183" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">80</text>
+<text x="90" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">100</text>
+<text x="100" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<text x="173.33333333333331" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">2</text>
+<text x="246.66666666666666" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">4</text>
+<text x="320" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6</text>
+<text x="393.3333333333333" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">8</text>
+<text x="466.6666666666667" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10</text>
+<text x="540" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">12</text>
+<text x="320" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Ferrous iron (ppm)</text>
+<text x="30" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Raw hardness (gpg)</text>
+<path class="ln" d="M100,144 L466.6666666666667,314 L466.6666666666667,450" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M100,212.00000000000003 L466.6666666666667,382" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<path class="ln" d="M283.33333333333337,229 L283.33333333333337,450" fill="none" stroke="#b45309" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<path class="ln" d="M100,110 L100,450 L540,450" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="180.66666666666669" y="334.4" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">Softener alone</text>
+<text x="180.66666666666669" y="352.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#15803d">can handle it</text>
+<text x="375" y="416" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#b45309">Rated, but past</text>
+<text x="375" y="433" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#b45309">5 ppm guideline</text>
+<text x="404.33333333333337" y="157.60000000000002" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Outside the rating:</text>
+<text x="404.33333333333337" y="175.60000000000002" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">iron filter first</text>
+<circle cx="173.33333333333331" cy="399" r="6" fill="#0b2f4a"/>
+<text x="163.33333333333331" y="389" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">A</text>
+<circle cx="283.33333333333337" cy="348" r="6" fill="#0b2f4a"/>
+<text x="273.33333333333337" y="338" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">B</text>
+<circle cx="466.6666666666667" cy="297" r="6" fill="#0b2f4a"/>
+<text x="456.6666666666667" y="287" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">C</text>
+<rect x="568" y="100" width="26" height="4" rx="0" fill="#dc2626" stroke="none" stroke-width="1"/>
+<text x="602" y="107" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Model 900 limit</text>
+<text x="568" y="129" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hardness + 5 x iron</text>
+<text x="568" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">up to 90 gpg; iron</text>
+<text x="568" y="167" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">up to 10 ppm</text>
+<path class="ln" d="M568,186 L594,186" fill="none" stroke="#0b2f4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<text x="602" y="191" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Model 700 limit</text>
+<text x="568" y="213" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">70 gpg compensated</text>
+<path class="ln" d="M581,224 L581,240" fill="none" stroke="#b45309" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<text x="602" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">5 ppm line</text>
+<text x="568" y="259" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Wisconsin cap and</text>
+<text x="568" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Penn State guideline</text>
+<text x="568" y="311" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">Example wells</text>
+<text x="568" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">A: 15 gpg, 2 ppm = 25</text>
+<text x="568" y="349" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">B: 30 gpg, 5 ppm = 55</text>
+<text x="568" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">C: 45 gpg, 10 ppm = 95</text>
+<text x="568" y="387" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(compensated gpg)</text>
+<text x="30" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Well C fails on compensated hardness even though its iron is within the 10 ppm rating.</text>
+<text x="30" y="554" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Ferric, colloidal or bacterial iron, or a pH below 7, rules the softener out at any level.</text>
+</svg>

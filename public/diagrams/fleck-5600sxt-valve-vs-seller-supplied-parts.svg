@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" width="760" height="620" role="img" aria-labelledby="f56-title f56-desc">
+<title id="f56-title">Fleck 5600SXT softener: what Pentair makes vs what each seller chooses</title>
+<desc id="f56-desc">Diagram of a Fleck 5600SXT water softener separating the parts that are identical in every listing, the Pentair control valve, SXT controller and turbine meter, from the parts each seller chooses: resin grade and volume, mineral tank, injector and flow controls, bypass, brine tank and warranty.</desc>
+<defs>
+<pattern id="f56-resin" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#f6ead2"/><circle cx="6" cy="6" r="3.2" fill="#e2b865"/></pattern>
+</defs>
+<rect width="760" height="620" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Fleck 5600SXT: the valve is the same, the softener is not</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Items are drawn from Pentair's 5600SXT manual and the sellers' own listings</text>
+<rect x="30" y="80" width="18" height="14" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="56" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Pentair part: the same in every listing</text>
+<rect x="330" y="80" width="18" height="14" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="356" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Chosen by the seller: compare these</text>
+<rect x="318" y="150" width="104" height="58" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<rect x="336" y="162" width="68" height="22" fill="#0b2f4a"/>
+<rect x="318" y="208" width="104" height="14" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1"/>
+<rect x="320" y="222" width="100" height="330" rx="40" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<rect x="326" y="290" width="88" height="250" rx="12" fill="url(#f56-resin)"/>
+<rect x="422" y="168" width="34" height="24" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="4 3"/>
+<rect x="470" y="390" width="100" height="162" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<path d="M470,430 L570,430" stroke="#7c3aed" stroke-width="1.5"/>
+<path class="ln" d="M422,200 L446,200 L446,380 L496,380 L496,390" fill="none" stroke="#7c3aed" stroke-width="3"/>
+<rect class="box" x="30" y="130" width="240" height="64" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="44" y="154" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">5600SXT control valve</text>
+<text x="44" y="175" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Piston, seals, spacers, 3/4 in body</text>
+<rect class="box" x="30" y="210" width="240" height="64" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="44" y="234" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">SXT controller</text>
+<text x="44" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Keypad, LCD, 4 regeneration modes</text>
+<rect class="box" x="30" y="290" width="240" height="64" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="44" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3/4 in turbine meter</text>
+<text x="44" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Metered, on-demand regeneration</text>
+<path class="ln" d="M270,162 L318,170" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M270,242 L300,242 L300,173 L336,173" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M270,322 L306,322 L306,215 L318,215" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<rect class="box" x="30" y="390" width="250" height="150" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="44" y="414" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Resin bed</text>
+<text x="44" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Volume: 1.0, 1.5 or 2.0 cu ft</text>
+<text x="44" y="457" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Grade: 8%, 10% crosslink,</text>
+<text x="44" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">fine mesh, or not stated</text>
+<text x="44" y="498" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Mineral tank</text>
+<text x="44" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">10 x 54 in or 12 x 48 in</text>
+<path class="ln" d="M280,465 L326,465" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<rect class="box" x="490" y="112" width="240" height="78" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="504" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Valve set-up for the tank</text>
+<text x="504" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Injector size, drain and brine</text>
+<text x="504" y="176" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">flow controls, programming</text>
+<rect class="box" x="490" y="206" width="240" height="78" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="504" y="230" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Bypass and connectors</text>
+<text x="504" y="251" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Plastic or stainless bypass,</text>
+<text x="504" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">3/4 or 1 in yoke</text>
+<rect class="box" x="590" y="300" width="140" height="78" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="604" y="324" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Brine tank</text>
+<text x="604" y="345" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">14 x 36, 15 x 34</text>
+<text x="604" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">or 18 x 33 in</text>
+<rect class="box" x="590" y="430" width="140" height="110" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="604" y="454" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Warranty and</text>
+<text x="604" y="474" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">support</text>
+<text x="604" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Seller's terms,</text>
+<text x="604" y="515" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">not Pentair's</text>
+<path class="ln" d="M490,158 L422,158" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M490,245 L466,245 L466,180 L456,180" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<path class="ln" d="M660,378 L660,404 L570,404" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="370" y="578" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Mineral tank</text>
+<text x="520" y="578" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Brine tank</text>
+<text x="30" y="606" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Judge the listing on the dashed boxes: that is where two "48,000-grain" units differ.</text>
+</svg>

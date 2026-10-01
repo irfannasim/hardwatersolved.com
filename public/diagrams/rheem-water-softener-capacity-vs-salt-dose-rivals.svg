@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="rcs-title rcs-desc">
+<title id="rcs-title">Rheem water softener capacity versus salt dose compared with rivals</title>
+<desc id="rcs-desc">Line chart of rated capacity against salt per regeneration for the Rheem RHS32, Rheem RHS42 and WaterBoss 900, showing the 42,000-grain Rheem and the WaterBoss deliver almost the same capacity at about 8 lb of salt.</desc>
+<defs><marker id="rcs-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="rcs-soft" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="rcs-hard" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="rcs-fault" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="rcs-ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="rcs-steel" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="rcs-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="rcs-brine" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="rcs-drain" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="rcs-iron" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Rheem softener capacity at each salt dose, against rivals</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Rated capacity from each owner's manual. The Whirlpool WHES33's three points are the same as the RHS32's.</text>
+<path d="M100,440 L570,440" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="445" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M100,366.6666666666667 L570,366.6666666666667" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="371.6666666666667" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">10,000</text>
+<path d="M100,293.33333333333337 L570,293.33333333333337" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="298.33333333333337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">20,000</text>
+<path d="M100,220 L570,220" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">30,000</text>
+<path d="M100,146.66666666666669 L570,146.66666666666669" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="151.66666666666669" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">40,000</text>
+<text x="100" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<text x="210.58823529411765" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">4</text>
+<text x="321.1764705882353" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">8</text>
+<text x="431.764705882353" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">12</text>
+<text x="542.3529411764706" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">16</text>
+<text x="335" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Salt per regeneration (lb)</text>
+<text x="30" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Grains per regeneration</text>
+<path class="ln" d="M100,100 L100,440 L570,440" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M326.70588235294116,120 L326.70588235294116,440" fill="none" stroke="#52697a" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<path class="ln" d="M171.9,344.7 L329.5,237.6 L489.8,198.0" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="171.9" cy="344.7" r="5" fill="#3a5a72"/>
+<circle cx="329.5" cy="237.6" r="5" fill="#3a5a72"/>
+<circle cx="489.8" cy="198.0" r="5" fill="#3a5a72"/>
+<path class="ln" d="M497.8,198.0 L596,231" fill="none" stroke="#3a5a72" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="602" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#3a5a72">RHS32 (= WHES33)</text>
+<text x="602" y="254" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">33,000 at 14.1 lb</text>
+<path class="ln" d="M127.6,399.6 L252.1,276.8 L335.0,221.2 L514.7,172.4" fill="none" stroke="#b45309" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="127.6" cy="399.6" r="5" fill="#b45309"/>
+<circle cx="252.1" cy="276.8" r="5" fill="#b45309"/>
+<circle cx="335.0" cy="221.2" r="5" fill="#b45309"/>
+<circle cx="514.7" cy="172.4" r="5" fill="#b45309"/>
+<path class="ln" d="M522.7,172.4 L596,181" fill="none" stroke="#b45309" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="602" y="186" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#b45309">WaterBoss 900</text>
+<text x="602" y="204" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">36,490 at 15 lb</text>
+<path class="ln" d="M169.1,349.1 L321.2,220.7 L550.6,129.1" fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="169.1" cy="349.1" r="5" fill="#0e7490"/>
+<circle cx="321.2" cy="220.7" r="5" fill="#0e7490"/>
+<circle cx="550.6" cy="129.1" r="5" fill="#0e7490"/>
+<path class="ln" d="M558.6,129.1 L596,131" fill="none" stroke="#0e7490" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="602" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">RHS42</text>
+<text x="602" y="154" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">42,400 at 16.3 lb</text>
+<rect class="box" x="380" y="330" width="180" height="92" rx="6" fill="#ffffff" stroke="#52697a" stroke-width="1.5"/>
+<text x="392" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">At about 8 lb of salt:</text>
+<text x="392" y="372" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#3a5a72">RHS32 27,600</text>
+<text x="392" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#b45309">WaterBoss 900 29,842</text>
+<text x="392" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0e7490">RHS42 29,900</text>
+<text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Read across at the dose you will run, not at each line's top point, which is the box rating.</text>
+</svg>

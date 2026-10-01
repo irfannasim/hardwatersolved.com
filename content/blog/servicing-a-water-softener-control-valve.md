@@ -167,6 +167,8 @@ None of these three manuals gives a torque figure for the parts you touch in a r
 - **Parts are no longer made** for a proprietary valve.
 - **Several things are failing at once**, such as motor, board and resin. Price the whole system before you rebuild piece by piece.
 
+If you do replace, the two valves serviced above are where most buyers land. The [Fleck 5600SXT review compares what four complete softeners built on it actually ship](/blog/fleck-5600sxt-review/), and the [Clack WS1 review covers its programming menus and what its service parts cost](/blog/clack-ws1-water-softener-review/).
+
 If the job gets beyond what you want to take on, [calling a water softener technician](/blog/when-to-call-a-water-softener-technician/) with the valve model and the symptom already identified shortens the visit.
 
 Cleaning and servicing a water softener control valve comes down to three rules: silicone only, never force a part into its seat, and follow the manual's own seating check. Keep to those and a seal kit really is a fraction of the cost of a new valve.

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 545" width="760" height="545" role="img" aria-labelledby="btc-title btc-desc">
+<title id="btc-title">Best budget water softeners: ten-year cost of ownership compared</title>
+<desc id="btc-desc">Stacked bar chart of the ten-year cost of four budget water softeners for a family of four on 15 gpg water: Aquasure Harmony Lite about 3,122 dollars, Harmony 32k about 3,152, WaterBoss 22k about 2,745 plus unknown parts, and a Fleck 5600SXT 32k about 3,311.</desc>
+<defs><pattern id="btc-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#ffffff"/><path d="M0,0 L0,8" stroke="#94a3b8" stroke-width="3"/></pattern></defs>
+<rect width="760" height="545" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Ten-year cost of four budget water softeners</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Family of four, 15 gpg city water. Illustrative: install, salt and water use the same inputs for all four.</text>
+<rect x="30" y="84" width="16" height="16" fill="#0b2f4a"/>
+<text x="52" y="97" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Purchase</text>
+<rect x="140" y="84" width="16" height="16" fill="#3a5a72"/>
+<text x="162" y="97" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Install (pro, $400)</text>
+<rect x="300" y="84" width="16" height="16" fill="#0e7490"/>
+<text x="322" y="97" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Salt, water, power ($1,830)</text>
+<rect x="525" y="84" width="16" height="16" fill="#94a3b8"/>
+<text x="547" y="97" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Valve parts and resin</text>
+<path d="M210,120 L210,432" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="210" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$0</text>
+<path d="M278.5,120 L278.5,432" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="278.5" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$500</text>
+<path d="M347,120 L347,432" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="347" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$1,000</text>
+<path d="M415.5,120 L415.5,432" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="415.5" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$1,500</text>
+<path d="M484,120 L484,432" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="484" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$2,000</text>
+<path d="M552.5,120 L552.5,432" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="552.5" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$2,500</text>
+<path d="M621,120 L621,432" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="621" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$3,000</text>
+<path d="M689.5,120 L689.5,432" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="689.5" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$3,500</text>
+<text x="30" y="150" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Aquasure Harmony Lite</text>
+<text x="30" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">34k cabinet</text>
+<rect x="210" y="132" width="67.1" height="40" fill="#0b2f4a"/>
+<rect x="277.1" y="132" width="54.8" height="40" fill="#3a5a72"/>
+<rect x="331.9" y="132" width="250.7" height="40" fill="#0e7490"/>
+<rect x="582.6" y="132" width="55.1" height="40" fill="#94a3b8"/>
+<text x="647.7" y="158" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">$3,122</text>
+<text x="30" y="228" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Aquasure Harmony</text>
+<text x="30" y="246" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">32k two-tank</text>
+<rect x="210" y="210" width="74" height="40" fill="#0b2f4a"/>
+<rect x="284" y="210" width="54.8" height="40" fill="#3a5a72"/>
+<rect x="338.8" y="210" width="250.7" height="40" fill="#0e7490"/>
+<rect x="589.5" y="210" width="52.3" height="40" fill="#94a3b8"/>
+<text x="651.8" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">$3,152</text>
+<text x="30" y="306" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">WaterBoss 22k</text>
+<text x="30" y="324" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">cabinet, item 74011</text>
+<rect x="210" y="288" width="70.6" height="40" fill="#0b2f4a"/>
+<rect x="280.6" y="288" width="54.8" height="40" fill="#3a5a72"/>
+<rect x="335.4" y="288" width="250.7" height="40" fill="#0e7490"/>
+<rect x="586.1" y="288" width="50" height="40" fill="url(#btc-hatch)" stroke="#94a3b8" stroke-width="1"/>
+<text x="646.1" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">$2,745 + ?</text>
+<text x="30" y="384" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fleck 5600SXT 32k</text>
+<text x="30" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">10% resin (AFW)</text>
+<rect x="210" y="366" width="104" height="40" fill="#0b2f4a"/>
+<rect x="314" y="366" width="54.8" height="40" fill="#3a5a72"/>
+<rect x="368.8" y="366" width="250.7" height="40" fill="#0e7490"/>
+<rect x="619.5" y="366" width="44.1" height="40" fill="#94a3b8"/>
+<text x="673.6" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">$3,311</text>
+<text x="30" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Hatched: WaterBoss publishes no parts price list we could find, so that line cannot be costed.</text>
+<text x="30" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Parts and resin: Aquasure seal kit, circuit board and pre-filled resin tank; Fleck rebuild kit and 1 cu ft</text>
+<text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">10% resin refill. Prices from aquasureusa.com and store.afwfilters.com, checked 1 October 2026.</text>
+</svg>

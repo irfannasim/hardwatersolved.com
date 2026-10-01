@@ -109,7 +109,7 @@ Some bathroom features move peak flow and daily load together, and they are the 
 - **Large soaking tubs.** They fill at the tub spout's flow rate, which can be well above a showerhead's, and each fill adds a lot of volume.
 - **Steam showers.** They use a modest amount of water, but the generator needs softened water to avoid scale, so they should be on the softened branch.
 
-If the remodel includes any of these, recalculate capacity with the new daily volume and check the flow rating against the new peak. Both answers may point to a bigger unit.
+If the remodel includes any of these, recalculate capacity with the new daily volume and check the flow rating against the new peak. Both answers may point to a bigger unit. When they do, [comparing softeners for large homes by the flow their tank and valve can carry](/blog/best-water-softeners-for-large-homes/) starts from the same fixture count.
 
 ## A Before-and-After Worksheet
 

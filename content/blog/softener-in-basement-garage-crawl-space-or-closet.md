@@ -106,7 +106,7 @@ A utility or laundry closet is the best spot in many slab and crawl-space homes,
 
 **Noise.** Regeneration makes sounds: the motor turning the valve, water rushing to the drain, and the brine draw. It lasts up to a couple of hours, usually at night. A solid-core door, a drain line clamped so it cannot rattle, and a regeneration time chosen for when no one is near the closet keep it acceptable. If the closet backs onto a bedroom, set regeneration for a daytime hour when the house is empty.
 
-**Space.** Closets are tight around the brine lid. A cabinet-style unit with the resin tank inside the brine cabinet fits spaces a two-tank system does not. Measure the lid clearance and the door swing before buying. [How much space does a water softener need](/blog/how-much-space-does-a-water-softener-need/) gives the dimensions to check.
+**Space.** Closets are tight around the brine lid. A cabinet-style unit with the resin tank inside the brine cabinet fits spaces a two-tank system does not, at the cost of less salt storage. [Comparing cabinet softeners on footprint, salt storage and service access](/blog/best-cabinet-water-softeners/) shows that trade-off unit by unit. Measure the lid clearance and the door swing before buying. [How much space does a water softener need](/blog/how-much-space-does-a-water-softener-need/) gives the dimensions to check.
 
 ## Measure Before You Commit to a Room
 

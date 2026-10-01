@@ -131,6 +131,7 @@ The label "salt-free water softener" is used for several unrelated technologies,
 
 - **TAC and similar nucleation media.** What this article describes. The best-documented salt-free route to scale reduction.
 - **Polyphosphate feeders.** A cartridge dissolves a small amount of phosphate into the water to keep hardness in solution. Useful on specific appliances; not interchangeable with TAC and, per Watts, not to be combined with it.
+- **Citric acid conditioners.** A cartridge doses a little citric acid, which binds calcium so it does not form scale and lowers pH slightly. [The Nuvo H2O review covers where that approach suits and where it does not](/blog/nuvo-h2o-review/).
 - **Electronic and magnetic descalers.** Coils or magnets on the outside of a pipe. Independent results are weaker and more variable.
 - **Potassium chloride softeners.** Sometimes marketed as "salt-free" because they use no sodium chloride. They are ordinary ion-exchange softeners with a different regenerant.
 
@@ -138,7 +139,7 @@ For the broader decision between the two families, the comparison of [salt-based
 
 ## What to Do Next
 
-1. **Test your water** for hardness, pH, iron, manganese and, on city water, chlorine. Compare every figure with the limits of the unit you are considering.
+1. **Test your water** for hardness, pH, iron, manganese and, on city water, chlorine. Compare every figure with the limits of the unit you are considering. [The SpringWell FutureSoft review sets one TAC unit's published limits against its scale claim](/blog/springwell-futuresoft-review/), which is the check to repeat on any model.
 2. **Decide what result you need.** Heater and pipe protection points toward TAC. Spot-free glass and better lather point toward a softener.
 3. **Check your installation site.** If a drain or outlet is the obstacle, TAC may be the only practical whole-house option.
 4. **Size by flow rate** and add a sediment prefilter if your water carries grit.

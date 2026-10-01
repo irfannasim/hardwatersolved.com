@@ -39,7 +39,7 @@ It is the figure you size the resin bed against and the figure you program into 
 | Marlo sizing guide (older reference sheet) | 2 | Its worked example sizes on a three-day basis |
 | Many dealer sizing guides | 5 | Usually unsourced; errs large |
 
-**Which multiplier to use.** Use the one in your valve's manual, because that is what the control's capacity figures were written against. If the manual says nothing, 4 is a sensible middle value. Example 2 below shows that the choice moves the result by about half a day. Leaving the correction out altogether moves it by two days.
+**Which multiplier to use.** Use the one in your valve's manual, because that is what the control's capacity figures were written against. If the manual says nothing, 4 is a sensible middle value. Some cabinet units go higher: [the WaterBoss 900 sets its iron window with 5 grains per ppm](/blog/waterboss-water-softener-review/). Example 2 below shows that the choice moves the result by about half a day. Leaving the correction out altogether moves it by two days.
 
 **Two things the formula does not cover:**
 
@@ -116,7 +116,7 @@ The capacity arithmetic assumes iron comes off the resin at regeneration as comp
 
 Iron that stays on the bed from one cycle to the next reduces the capacity of the following cycle. That loss does not appear in a calculation based on the specification table. The practical response is to keep the interval short whatever capacity the table promises. Marlo's sizing sheet starts from three days of capacity, and its worked example happens to be a clear-water iron well. That is not a rule, but three days is a sensible upper limit for iron unless your manual gives a different one.
 
-**This is also why a bigger softener can cost more on iron water.** Take the 1.5 cu ft unit in Example 2. On capacity alone it would last 5.0 days. With a three-day day override, it regenerates every 3 days with capacity left unused. That is about 122 regenerations at 9 lb, or roughly **1,095 lb of salt a year**, against 659 lb for the 1 cu ft unit that runs out naturally at 3.3 days. With iron in the water, choose a bed that lasts about three days, not one that lasts as long as possible.
+**This is also why a bigger softener can cost more on iron water.** Take the 1.5 cu ft unit in Example 2. On capacity alone it would last 5.0 days. With a three-day day override, it regenerates every 3 days with capacity left unused. That is about 122 regenerations at 9 lb, or roughly **1,095 lb of salt a year**, against 659 lb for the 1 cu ft unit that runs out naturally at 3.3 days. With iron in the water, choose a bed that lasts about three days, not one that lasts as long as possible. [The AFWFilters Iron Pro 2 review applies that rule to a fine-mesh range](/blog/afwfilters-iron-pro-2-review/), where the right model is often a size smaller than instinct suggests.
 
 ## Programming the Valve With the Result
 
@@ -129,6 +129,6 @@ Iron that stays on the bed from one cycle to the next reduces the capacity of th
 
 ## Where the Sizing Math Stops
 
-Compensated hardness corrects capacity for iron the resin can exchange. It cannot make a softener suitable for iron above the manufacturer's rating. It does nothing for iron that has already oxidized, and it cannot deal with iron bacteria. In any of those cases the answer is pretreatment, and the order of stages is set out in [should an iron filter go before a water softener](/blog/iron-filter-before-water-softener/).
+Compensated hardness corrects capacity for iron the resin can exchange. It cannot make a softener suitable for iron above the manufacturer's rating. It does nothing for iron that has already oxidized, and it cannot deal with iron bacteria. In any of those cases the answer is pretreatment, and the order of stages is set out in [should an iron filter go before a water softener](/blog/iron-filter-before-water-softener/). When you are choosing equipment, [matching a well-water softener to your iron band](/blog/best-water-softener-for-well-water/) sorts the options by those same limits.
 
 Within the rating, the arithmetic is simple and the penalty for skipping it is large. Two ppm of iron that is left out of the setting means about a third of every cycle runs on exhausted resin.

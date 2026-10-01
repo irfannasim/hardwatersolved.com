@@ -97,7 +97,7 @@ Figures for 0.75 to 2 cu ft are from Hellenbrand's published table. The 80,000 r
 3. **Compare units at the same salt dose.** A "40,000-grain" unit rated at 15 lb and a "40,000-grain" unit rated at a lower dose do not hold the same amount of resin.
 4. **Then work out your own number:** resin volume × capacity per cubic foot at the dose you will actually run.
 
-To choose the right volume in the first place, [how to size a water softener](/blog/how-to-size-a-water-softener/) walks through the calculation from hardness and measured water use.
+To choose the right volume in the first place, [how to size a water softener](/blog/how-to-size-a-water-softener/) walks through the calculation from hardness and measured water use. Worked versions for two common cases are [sizing for a family of four at three hardness levels](/blog/best-water-softener-for-a-family-of-4/) and [what a 32,000 grain unit really delivers for one to three people](/blog/best-32000-grain-water-softener/).
 
 ## Reading Grain Capacity on a Spec Sheet
 

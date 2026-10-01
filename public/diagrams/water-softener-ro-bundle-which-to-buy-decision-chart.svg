@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 660" width="760" height="660" role="img" aria-labelledby="bdc-title bdc-desc">
+<title id="bdc-title">Which water softener and reverse osmosis bundle to buy: decision chart</title>
+<desc id="bdc-desc">Decision chart for a water softener and reverse osmosis bundle: skip it if you already own a softener, treat iron or sulfur first on wells, pick the 1.5 cubic foot APEC 45 bundle above about 2,600 grains a day of hardness, the APEC 30 bundle if you need a certified contaminant claim, otherwise the lower-priced Aquasure 32k bundle.</desc>
+<defs>
+<marker id="bdc-ah" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="660" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#0b2f4a">Should you buy a softener and RO bundle, and which?</text>
+
+<rect class="box" x="30" y="70" width="370" height="80" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="104" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Do you already own a working</text>
+<text x="46" y="126" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">water softener?</text>
+<rect class="box" x="470" y="70" width="260" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="484" y="94" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Skip the bundle. Add an</text>
+<text x="484" y="114" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">under-sink RO unit on a</text>
+<text x="484" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">softened cold line.</text>
+<path class="ln" d="M400,110 L462,110" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#bdc-ah)"/>
+<text x="431" y="94" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<path class="ln" d="M215,150 L215,182" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#bdc-ah)"/>
+<text x="230" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="190" width="370" height="80" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="224" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Well water with over about 1 ppm</text>
+<text x="46" y="246" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">iron, or a sulfur smell?</text>
+<rect class="box" x="470" y="190" width="260" height="80" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="484" y="214" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Treat iron or sulfur first.</text>
+<text x="484" y="234" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">None of these three bundles</text>
+<text x="484" y="254" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">is built for it.</text>
+<path class="ln" d="M400,230 L462,230" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#bdc-ah)"/>
+<text x="431" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<path class="ln" d="M215,270 L215,302" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#bdc-ah)"/>
+<text x="230" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="310" width="370" height="80" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="340" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Hardness load over about 2,600</text>
+<text x="46" y="360" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">grains a day?</text>
+<text x="46" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">people × 60 gallons × grains per gallon</text>
+<rect class="box" x="470" y="310" width="260" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="484" y="334" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">APEC 45 bundle (1.5 cu ft).</text>
+<text x="484" y="354" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Over about 3,900 grains a day,</text>
+<text x="484" y="374" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">buy a larger softener alone.</text>
+<path class="ln" d="M400,350 L462,350" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#bdc-ah)"/>
+<text x="431" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<path class="ln" d="M215,390 L215,422" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#bdc-ah)"/>
+<text x="230" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="430" width="370" height="80" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="46" y="464" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Need a certified lead, arsenic or</text>
+<text x="46" y="486" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">nitrate claim at the tap?</text>
+<rect class="box" x="470" y="430" width="260" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="484" y="454" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">APEC 30 bundle. Confirm</text>
+<text x="484" y="474" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">the claim on WQA's certified</text>
+<text x="484" y="494" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">product listing.</text>
+<path class="ln" d="M400,470 L462,470" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#bdc-ah)"/>
+<text x="431" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<path class="ln" d="M215,510 L215,542" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#bdc-ah)"/>
+<text x="230" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="550" width="370" height="80" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="574" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Lowest price that fits: Aquasure 32k</text>
+<text x="46" y="594" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">bundle. Its RO had no NSF/ANSI 58</text>
+<text x="46" y="614" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">system listing we could find.</text>
+</svg>

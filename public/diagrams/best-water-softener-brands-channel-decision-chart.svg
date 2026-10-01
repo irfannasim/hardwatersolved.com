@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="bcd-title bcd-desc">
+<title id="bcd-title">Best water softener brands: choosing the sales channel first</title>
+<desc id="bcd-desc">Decision chart for choosing among the best water softener brands: if you will swap a seal kit, buy an online brand on a Fleck or Clack valve; if not, use a dealer brand only where a local dealer has written labor rates; otherwise a big-box cabinet for small homes, or an online brand installed by a plumber.</desc>
+<defs><marker id="bcd-m3a5a72" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Pick the channel, then the brand</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#52697a">Answer in order. The first yes is your channel.</text>
+<rect class="box" x="30" y="92" width="340" height="64" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="44" y="119" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">1 · Will you, or a handyman, swap a</text>
+<text x="44" y="139" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">seal kit or circuit board?</text>
+<path class="ln" d="M370,124 L448,124" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bcd-m3a5a72)"/>
+<text x="409" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="456" y="92" width="274" height="64" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="593" y="119" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Online brand on a Fleck or</text>
+<text x="593" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Clack valve (AFWFilters, DuraWater)</text>
+<path class="ln" d="M200,156 L200,196" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bcd-m3a5a72)"/>
+<text x="212" y="182" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">no</text>
+<rect class="box" x="30" y="202" width="340" height="64" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="44" y="229" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2 · Is there a local dealer with written</text>
+<text x="44" y="249" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">labor rates and a good service record?</text>
+<path class="ln" d="M370,234 L448,234" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bcd-m3a5a72)"/>
+<text x="409" y="225" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="456" y="202" width="274" height="64" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="593" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Dealer brand: get two written</text>
+<text x="593" y="249" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">quotes and compare labor terms</text>
+<path class="ln" d="M200,266 L200,306" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bcd-m3a5a72)"/>
+<text x="212" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">no</text>
+<rect class="box" x="30" y="312" width="340" height="64" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="44" y="339" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3 · Small home, and fine replacing</text>
+<text x="44" y="359" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">the unit when the warranty ends?</text>
+<path class="ln" d="M370,344 L448,344" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bcd-m3a5a72)"/>
+<text x="409" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">yes</text>
+<rect class="box" x="456" y="312" width="274" height="64" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="593" y="339" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Big-box cabinet</text>
+<text x="593" y="359" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">(WaterBoss, Whirlpool)</text>
+<path class="ln" d="M200,376 L200,416" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bcd-m3a5a72)"/>
+<text x="212" y="402" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">no</text>
+<rect class="box" x="30" y="422" width="340" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="200" y="449" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Online brand, installed and</text>
+<text x="200" y="469" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">serviced by a local plumber</text>
+<text x="456" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Any certified softener softens</text>
+<text x="456" y="469" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">equally; the channel sets the</text>
+<text x="456" y="489" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">cost of every future repair.</text>
+</svg>

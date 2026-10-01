@@ -139,6 +139,6 @@ Disinfectant choice is not permanent. Utilities change it, and softener owners r
 4. **Check the backwash flow** the larger tank needs against your valve and supply.
 5. **Test total chlorine after the carbon** every few months, and replace the media when it appears.
 6. **Watch for utility notices.** A switch from chlorine to chloramine turns a correctly sized filter into an undersized one overnight.
-7. **Fit the carbon before the next resin bed**, not after it.
+7. **Fit the carbon before the next resin bed**, not after it. If you are replacing the whole softener, [comparing city-water softeners on resin crosslink and carbon stage](/blog/best-water-softener-for-city-water/) shows which packages still leave chloramine to a separate catalytic tank.
 
 A chloramine water softener problem is silent, which is exactly why it costs so much. Find out what your utility adds, size the carbon for it, and test after the carbon rather than at the tap. On city water in general, the wider decision is set out in [do you need a water softener on city water](/blog/do-you-need-a-water-softener-on-city-water/).

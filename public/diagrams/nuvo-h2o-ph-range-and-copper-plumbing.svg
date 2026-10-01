@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-labelledby="nph-title nph-desc">
+<title id="nph-title">Nuvo H2O pH operating range and copper plumbing</title>
+<desc id="nph-desc">pH scale for Nuvo H2O: the system lowers pH toward neutral, NuvoH2O does not recommend it below pH 7.3, and EPA guidance puts the acceptable drinking water range at 6.5 to 8.5, where lower pH raises the risk of copper corrosion.</desc>
+<defs><marker id="nph-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="nph-soft" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="nph-hard" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="nph-fault" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="nph-ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="nph-steel" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="nph-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="nph-brine" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="nph-drain" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="nph-iron" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker></defs>
+<rect width="760" height="420" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Nuvo H2O and pH: where the citric acid moves your water</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Limits from NuvoH2O product pages and EPA secondary drinking water guidance</text>
+<rect x="60" y="150" width="91.42857142857142" height="44" rx="0" fill="#fee2e2" stroke="none" stroke-width="1"/>
+<rect x="151.42857142857142" y="150" width="146.28571428571425" height="44" rx="0" fill="#fef3c7" stroke="none" stroke-width="1"/>
+<rect x="297.71428571428567" y="150" width="219.42857142857144" height="44" rx="0" fill="#dcfce7" stroke="none" stroke-width="1"/>
+<rect x="517.1428571428571" y="150" width="182.8571428571429" height="44" rx="0" fill="#e2e8f0" stroke="none" stroke-width="1"/>
+<path class="ln" d="M60,194 L700,194" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M60,194 L60,202" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="60" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6</text>
+<path class="ln" d="M151.42857142857142,194 L151.42857142857142,202" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="151.42857142857142" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6.5</text>
+<path class="ln" d="M242.85714285714283,194 L242.85714285714283,202" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="242.85714285714283" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">7</text>
+<path class="ln" d="M297.71428571428567,194 L297.71428571428567,202" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="297.71428571428567" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">7.3</text>
+<path class="ln" d="M334.2857142857143,194 L334.2857142857143,202" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="334.2857142857143" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">7.5</text>
+<path class="ln" d="M425.71428571428567,194 L425.71428571428567,202" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="425.71428571428567" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">8</text>
+<path class="ln" d="M517.1428571428571,194 L517.1428571428571,202" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="517.1428571428571" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">8.5</text>
+<path class="ln" d="M608.5714285714286,194 L608.5714285714286,202" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="608.5714285714286" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">9</text>
+<path class="ln" d="M700,194 L700,202" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="700" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">9.5</text>
+<text x="105.71428571428571" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">Below EPA</text>
+<text x="224.5714285714286" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#b45309">Not recommended</text>
+<text x="407.42857142857144" y="177" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">Nuvo operating range</text>
+<text x="608.5714285714286" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Above EPA</text>
+<path class="ln" d="M151.42857142857142,128 L151.42857142857142,118 L517.1428571428571,118 L517.1428571428571,128" fill="none" stroke="#0b2f4a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="334.2857142857143" y="108" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">EPA secondary guidance: pH 6.5 to 8.5</text>
+<path class="ln" d="M462.2857142857141,262 L343.4285714285714,262" fill="none" stroke="#7c3aed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nph-brine)"/>
+<text x="471.42857142857144" y="267" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#7c3aed">citric acid lowers pH toward 7</text>
+<text x="63.65714285714278" y="267" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Size of the drop: not published</text>
+<rect class="box" x="30" y="296" width="700" height="100" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="48" y="322" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Copper pipes: what to do</text>
+<text x="48" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Raw water near 7.3? Ask before buying: NuvoH2O does not recommend it below that pH.</text>
+<text x="48" y="366" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">After install, test pH at a cold tap downstream of the system, then again a month later.</text>
+<text x="48" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Blue-green stains or a metallic taste: test first-draw copper against EPA's 1.3 mg/L level.</text>
+</svg>

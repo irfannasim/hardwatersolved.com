@@ -133,6 +133,6 @@ How the valve moves between those positions mechanically is covered in [how a wa
 
 ## Choosing Between Them
 
-For a clean municipal supply, an upflow (counter-current) softener set to a low salt dose and demand-initiated regeneration is the efficient choice, and the saving is real. For a well with iron, manganese or sediment, the bed's need to backwash usually outweighs the salt saving. Choose a downflow unit with full backwash, or treat the water first.
+For a clean municipal supply, an upflow (counter-current) softener set to a low salt dose and demand-initiated regeneration is the efficient choice, and the saving is real. For a well with iron, manganese or sediment, the bed's need to backwash usually outweighs the salt saving. Choose a downflow unit with full backwash, or treat the water first. What upflow brining saves in practice is modelled for three households in [this review of the SoftPro Elite's upflow salt savings](/blog/softpro-elite-review/).
 
 Whichever you buy, the salt dose you program matters more than the arrow on the brochure. Ask for grains per pound at a stated setting, and compare that number.

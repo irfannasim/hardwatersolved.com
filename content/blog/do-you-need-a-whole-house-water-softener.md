@@ -160,4 +160,4 @@ A few costs don't reduce neatly to dollars. Salt softening raises sodium at ever
 
 ## The Bottom Line
 
-So, do you need a whole house water softener? Your numbers decide, not a list of hard-water signs. Measure your hardness, rule out the look-alikes, fill in the worksheet with your own bills and a real quote, and compare the payback with the years you'll stay. On very hard water, with a tankless heater and a long stay ahead, the answer is usually yes. On moderately hard water in a home you're leaving soon, it's usually no, and knowing that saves you money too.
+So, do you need a whole house water softener? Your numbers decide, not a list of hard-water signs. Measure your hardness, rule out the look-alikes, fill in the worksheet with your own bills and a real quote, and compare the payback with the years you'll stay. On very hard water, with a tankless heater and a long stay ahead, the answer is usually yes, and the next step is [matching a whole-house softener to your water source, hardness and peak flow](/blog/best-water-softeners/). On moderately hard water in a home you're leaving soon, it's usually no, and knowing that saves you money too.

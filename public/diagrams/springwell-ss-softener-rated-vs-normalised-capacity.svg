@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="ssc-title ssc-desc">
+<title id="ssc-title">SpringWell SS1, SS4 and SS+ water softener: rated vs normalised capacity</title>
+<desc id="ssc-desc">Grouped bar chart for the SpringWell salt-based water softener range showing each model's grain rating next to its capacity at a maximum 15 lb per cubic foot salt dose and an efficient 6 lb per cubic foot dose, using resin volumes inferred from tank size.</desc>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">SpringWell SS range: box rating vs capacity at a stated salt dose</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Grains per regeneration. Illustrative: industry per-cubic-foot figures applied to inferred resin volumes.</text>
+<rect x="100" y="84" width="18" height="14" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="126" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Box rating</text>
+<rect x="230" y="84" width="18" height="14" fill="#cffafe" stroke="#0e7490" stroke-width="1"/>
+<text x="256" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">At 15 lb/cu ft (maximum)</text>
+<rect x="450" y="84" width="18" height="14" fill="#0e7490"/>
+<text x="476" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">At 6 lb/cu ft (efficient)</text>
+<path d="M100,345 L720,345" stroke="#e2e8f0" stroke-width="1"/>
+<path d="M100,270 L720,270" stroke="#e2e8f0" stroke-width="1"/>
+<path d="M100,195 L720,195" stroke="#e2e8f0" stroke-width="1"/>
+<path d="M100,120 L720,120" stroke="#e2e8f0" stroke-width="1"/>
+<text x="90" y="425" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">0</text>
+<text x="90" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">20,000</text>
+<text x="90" y="275" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">40,000</text>
+<text x="90" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">60,000</text>
+<text x="90" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">80,000</text>
+<rect x="144" y="300" width="48" height="120" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.2" stroke-dasharray="5 3"/>
+<rect x="198" y="303.75" width="48" height="116.25" fill="#cffafe" stroke="#0e7490" stroke-width="1.2"/>
+<rect x="252" y="341.25" width="48" height="78.75" fill="#0e7490"/>
+<text x="168" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">32,000</text>
+<text x="222" y="283" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">31,000</text>
+<text x="276" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">21,000</text>
+<rect x="334" y="240" width="48" height="180" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.2" stroke-dasharray="5 3"/>
+<rect x="388" y="245.6" width="48" height="174.4" fill="#cffafe" stroke="#0e7490" stroke-width="1.2"/>
+<rect x="442" y="301.9" width="48" height="118.1" fill="#0e7490"/>
+<text x="358" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">48,000</text>
+<text x="412" y="223" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">46,500</text>
+<text x="466" y="293" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">31,500</text>
+<rect x="524" y="120" width="48" height="300" fill="#e2e8f0" stroke="#3a5a72" stroke-width="1.2" stroke-dasharray="5 3"/>
+<rect x="578" y="129.4" width="48" height="290.6" fill="#cffafe" stroke="#0e7490" stroke-width="1.2"/>
+<rect x="632" y="223.1" width="48" height="196.9" fill="#0e7490"/>
+<text x="548" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">80,000</text>
+<text x="602" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">77,500</text>
+<text x="656" y="215" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">52,500</text>
+<path class="ln" d="M100,110 L100,420 L720,420" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="222" y="446" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SS1</text>
+<text x="222" y="465" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">9 x 48 in tank</text>
+<text x="222" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">about 1.0 cu ft</text>
+<text x="412" y="446" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SS4</text>
+<text x="412" y="465" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10 x 54 in tank</text>
+<text x="412" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">about 1.5 cu ft</text>
+<text x="602" y="446" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SS+</text>
+<text x="602" y="465" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">13 x 54 in tank</text>
+<text x="602" y="483" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">about 2.5 cu ft</text>
+<text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Program the valve with the number you will get, not the box rating.</text>
+<text x="30" y="541" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">SpringWell does not publish resin volume; volumes inferred from tank size and the 32,000 grains per cu ft convention.</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="act-title act-desc">
+<title id="act-title">Alkaline reverse osmosis certification tiers: NSF/ANSI 58 versus components versus NSF/ANSI 372</title>
+<desc id="act-desc">Three tiers of certification evidence for alkaline reverse osmosis systems: a system certified to NSF/ANSI 58 such as the Waterdrop X12 and iSpring RCC7AK, systems built from certified components such as the Home Master TMAFC and TMHP, and a third tier, systems listed only to NSF/ANSI 372 for lead content, which none of the four picks relies on.</desc>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#0b2f4a">What "NSF certified" means on each alkaline RO</text>
+
+<rect class="box" x="30" y="66" width="700" height="116" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="48" y="96" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#15803d">1. System certified to NSF/ANSI 58</text>
+<text x="48" y="120" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Tested on what the RO removes. Each contaminant claim is listed separately.</text>
+<text x="48" y="148" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Waterdrop X12: IAPMO, NSF/ANSI 58 (TDS) and 42 (chlorine, taste)</text>
+<text x="48" y="170" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">iSpring RCC7AK: NSF/ANSI 58 (TDS reduction)</text>
+
+<rect class="box" x="30" y="198" width="700" height="116" rx="8" fill="#f8fafc" stroke="#52697a" stroke-width="2"/>
+<text x="48" y="228" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#3a5a72">2. Built from certified components</text>
+<text x="48" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Parts meet NSF materials standards. What the whole system removes is not certified.</text>
+<text x="48" y="280" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Home Master TMAFC and TMHP: "NSF certified components"</text>
+<text x="48" y="302" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">No system listing cited by the maker</text>
+
+<rect class="box" x="30" y="330" width="700" height="116" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="48" y="360" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#dc2626">3. NSF/ANSI 372 only</text>
+<text x="48" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Lead content of the parts that touch water. Says nothing about removal.</text>
+<text x="48" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">None of the four picks here relies on a 372 listing alone</text>
+<text x="48" y="434" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">If 372 is the only listing, nothing proves what it removes</text>
+<text x="30" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">From maker pages and a third-party directory check, August 2026. Confirm on the certifier's listing.</text>
+</svg>

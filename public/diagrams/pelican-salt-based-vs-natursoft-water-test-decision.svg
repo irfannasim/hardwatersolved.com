@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 660" width="760" height="660" role="img" aria-labelledby="pnd-title pnd-desc">
+<title id="pnd-title">Pelican salt-based softener vs NaturSoft: choosing from your water test</title>
+<desc id="pnd-desc">Decision chart for a Pelican water softener review: water under 7 gpg probably needs neither unit; iron, manganese, sulfide or tannins must be treated first; buyers who want soft water need the salt-based line, and buyers who only want less scale below 75 gpg fit NaturSoft. Both Pelican lines were unavailable on Amazon, so each ends in an alternative.</desc>
+<defs>
+<marker id="pnd-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="660" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Pelican salt-based or NaturSoft? Start with the water test</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Amazon status checked 1 October 2026</text>
+<rect class="box" x="180" y="80" width="400" height="50" rx="8" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="102" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Your water test</text>
+<text x="380" y="120" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">hardness, iron, manganese, sulfide, tannins, chlorine</text>
+<path class="ln" d="M380,130 L380,156" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#pnd-a)"/>
+<rect class="box" x="230" y="160" width="300" height="50" rx="8" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="380" y="190" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Hardness under 7 gpg?</text>
+<path class="ln" d="M530,185 L571,185" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#pnd-a)"/>
+<text x="550" y="176" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Yes</text>
+<rect class="box" x="575" y="160" width="155" height="50" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="652" y="182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">Probably neither</text>
+<text x="652" y="199" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#15803d">little scale expected</text>
+<path class="ln" d="M380,210 L380,241" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#pnd-a)"/>
+<text x="392" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="230" y="245" width="300" height="50" rx="8" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="380" y="267" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Iron, manganese, sulfide</text>
+<text x="380" y="285" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">or tannins present?</text>
+<path class="ln" d="M530,270 L571,270" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#pnd-a)"/>
+<text x="550" y="261" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Yes</text>
+<rect class="box" x="575" y="245" width="155" height="50" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="652" y="267" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Treat them first</text>
+<text x="652" y="284" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626">then come back here</text>
+<path class="ln" d="M380,295 L380,326" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#pnd-a)"/>
+<text x="392" y="315" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="200" y="330" width="360" height="50" rx="8" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="380" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Do you want soft water,</text>
+<text x="380" y="370" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">or only less scale?</text>
+<path class="ln" d="M290,380 L290,400 L195,400 L195,446" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#pnd-a)"/>
+<path class="ln" d="M470,380 L470,400 L565,400 L565,446" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#pnd-a)"/>
+<text x="30" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">Soft water: less soap,</text>
+<text x="30" y="437" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">no scum, any hardness</text>
+<text x="730" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">Less scale only, up to</text>
+<text x="730" y="437" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">75 gpg, no sodium added</text>
+<rect class="box" x="30" y="450" width="330" height="140" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="476" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Salt-based line</text>
+<text x="46" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Pentair 35921, 48,600 grains</text>
+<text x="46" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">Amazon: currently unavailable</text>
+<text x="46" y="546" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Alternatives: Aquasure Harmony 48k,</text>
+<text x="46" y="564" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">DuraWater Fleck 5600SXT 48k</text>
+<rect class="box" x="400" y="450" width="330" height="140" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="476" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Salt-free line</text>
+<text x="416" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Pelican NaturSoft NS3-P or NS6-P</text>
+<text x="416" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">Amazon: currently unavailable</text>
+<text x="416" y="546" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Alternative: Watts OneFlow Plus</text>
+<text x="416" y="564" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">(scale cartridge plus carbon block)</text>
+<text x="30" y="626" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Over 75 gpg, the salt-free line is out of range; only the salt-based branch applies.</text>
+</svg>

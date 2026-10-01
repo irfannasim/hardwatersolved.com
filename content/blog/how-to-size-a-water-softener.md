@@ -124,7 +124,7 @@ Capacity is how long the softener lasts. Flow is whether it keeps up at 7 a.m. T
 
 1. **Estimate your realistic peak.** Add up the fixtures that really do run together. Two showers at about 2 gpm each, a washing machine at about 3 gpm and a kitchen tap at about 1.5 gpm add up to roughly 8.5 to 9 gpm.
 2. **Compare it with the spec sheet's service flow** at a stated pressure drop. Hellenbrand lists **13.0 gpm** for its 1 cu ft unit at a 15 psi drop, 14.1 for 1.5 cu ft and 18.2 for 2 cu ft. What that drop means at your taps is explained in [how pressure drop affects softener sizing](/blog/water-softener-pressure-drop/).
-3. **If peak demand exceeds the rated flow,** step up the resin volume or tank diameter even though capacity did not require it. Then lower the salt dose so the bigger bed still cycles within a week.
+3. **If peak demand exceeds the rated flow,** step up the resin volume or tank diameter even though capacity did not require it. Then lower the salt dose so the bigger bed still cycles within a week. If that step lands you at two cubic feet, [choosing a 64,000 grain softener and the backwash flow it needs](/blog/best-64000-grain-water-softener/) shows the smallest household that justifies one at each hardness.
 
 **Worked example:** peak about 9 gpm against 13.0 gpm rated. **The 1 cu ft unit passes.**
 
@@ -142,7 +142,7 @@ Capacity is how long the softener lasts. Flow is whether it keeps up at 7 a.m. T
 
 The chart method is not wrong arithmetic. Each input leans toward a bigger answer, and the leans add up: more gallons, more days, then a capacity figure that assumes maximum salt. Without measuring anything, it lands one size up.
 
-The salt figure in the chart column assumes the larger unit runs at the high setting its rating is based on. At the household's real 3,450 grains a day, that is 3,450 × 365 ÷ 2,154 grains per lb, **about 585 lb a year**, against about 330 lb at the low setting. If the larger unit is programmed to the low setting instead, its salt use drops to match. Whatever size you end up with, check the salt setting at installation.
+The salt figure in the chart column assumes the larger unit runs at the high setting its rating is based on. At the household's real 3,450 grains a day, that is 3,450 × 365 ÷ 2,154 grains per lb, **about 585 lb a year**, against about 330 lb at the low setting. If the larger unit is programmed to the low setting instead, its salt use drops to match. Whatever size you end up with, check the salt setting at installation. If yours is also a four-person house, [sized softener picks for a family of four at three hardness levels](/blog/best-water-softener-for-a-family-of-4/) carry the same arithmetic through to a unit.
 
 ## Your Worksheet
 
@@ -163,7 +163,7 @@ Fill in the right-hand column from your own tests and meter readings:
 | K. Salt a year | E × 365 ÷ (grains per lb at your dose) | |
 | L. Peak flow check | Your peak gpm ≤ rated service flow? | |
 
-If line J comes out above 7 days, choose a smaller bed or a lower dose. If it comes out under 3, choose a bigger bed. With iron, keep it near 3.
+If line J comes out above 7 days, choose a smaller bed or a lower dose. If it comes out under 3, choose a bigger bed. With iron, keep it near 3. With a resin volume settled, you can [compare whole-house softeners restated at the same salt dose and checked for flow by tank size](/blog/best-water-softeners/) rather than by the number on the box.
 
 ## When the Calculation Changes
 

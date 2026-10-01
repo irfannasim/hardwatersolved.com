@@ -70,7 +70,7 @@ This is the distinction manufacturers exploit most often, and it is easy to miss
 
 **Component listings** certify a part, not a system. The same NSF Standard 44 listing includes entries such as pressure vessels and ion exchange resin, listed as components, with the claim column reading "N/A". Some carry the note: "These components do not bear the NSF Mark. Evidence of Certification will appear on the manufacturer's literature and packaging." A softener built from a certified tank, certified resin and a certified valve has not been tested as a system. Its capacity rating has not been verified.
 
-That is how a product can truthfully say "made with NSF certified components" or "certified to NSF/ANSI 61" and still leave the impression that its softening performance was checked. Unless Standard 44 is listed against that exact model, the performance claim is still the manufacturer's word.
+That is how a product can truthfully say "made with NSF certified components" or "certified to NSF/ANSI 61" and still leave the impression that its softening performance was checked. Unless Standard 44 is listed against that exact model, the performance claim is still the manufacturer's word. [How Aquasana's filter and salt-free conditioner certifications split by stage](/blog/aquasana-water-softener-review/) is a worked example of reading a package that way.
 
 ## NSF, WQA Gold Seal and IAPMO R&T: Standard vs Certifier
 

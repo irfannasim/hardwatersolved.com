@@ -88,7 +88,7 @@ Ignore the product name and read these lines on the spec sheet or manual:
 
 Two lines on the same sheet can point different ways. A two-tank "system" may list grains **and** gallons. That means it is both, which is fine, as long as you know it.
 
-**Check the certification claim, not just the number.** Search the model on the certifier's listing, such as [NSF's drinking water treatment unit listings](https://info.nsf.org/Certified/DWTU/), and confirm the exact claim appears, whether that is "Hardness Reduction", "Chlorine Reduction" or "Chloramine Reduction". A standard number on the box without a listed claim is not proof.
+**Check the certification claim, not just the number.** Search the model on the certifier's listing, such as [NSF's drinking water treatment unit listings](https://info.nsf.org/Certified/DWTU/), and confirm the exact claim appears, whether that is "Hardness Reduction", "Chlorine Reduction" or "Chloramine Reduction". A standard number on the box without a listed claim is not proof. [Matching each Aquasana certification to the stage it covers](/blog/aquasana-water-softener-review/) shows the check worked through on one filter-plus-conditioner package.
 
 **Confirm with a test.** Once the unit is installed, test hardness before and after it. A softener brings hardness down to about zero, and a filter or conditioner leaves it unchanged. The method is in [how to test water hardness at home](/blog/how-to-test-water-hardness-at-home/).
 

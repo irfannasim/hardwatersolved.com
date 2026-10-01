@@ -95,7 +95,7 @@ A septic system works differently but ends the same way for chloride.
 
 So on septic, the chloride from your softener goes toward the aquifer under your own property and your neighbors'. Where that aquifer also supplies private wells, the loop closes. This is one reason some states restrict treatment-device backwash into septic systems. Massachusetts, for example, bars it from on-site systems entirely.
 
-Septic also adds a volume issue that sewer homes do not face. Each regeneration sends 20 to 70 gallons into a system sized for household flow. A softener that regenerates more often than it needs to adds that water every time.
+Septic also adds a volume issue that sewer homes do not face. Each regeneration sends 20 to 70 gallons into a system sized for household flow. A softener that regenerates more often than it needs to adds that water every time. [Comparing low-discharge softeners for septic homes](/blog/best-water-softener-for-septic-systems/) ranks current units on that yearly volume.
 
 ## Why Chloride Is the Part That Matters
 

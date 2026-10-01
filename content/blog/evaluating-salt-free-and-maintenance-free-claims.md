@@ -92,6 +92,8 @@ Sometimes the sales process tells you more than the claim does. Both salt-free a
 - **Financing you do not fully understand.** The FTC took action against a water treatment lender whose dealers [misled people about financing terms](https://consumer.ftc.gov/consumer-alerts/2024/05/aqua-finance-misled-people-about-financing-home-water-treatment-systems) and pressured them to sign. The FTC's advice is to get the interest rate, APR and loan length in writing before you sign anything.
 - **Answers that change when you ask for them in writing.** A claim a seller will say out loud but will not write on the quote is a claim the seller does not stand behind.
 
+For one dealer-sold brand put through these checks, see [what to get in writing before signing a RainSoft quote](/blog/rainsoft-water-softener-review/), including how its lifetime warranty is conditioned.
+
 ## When a Marketing Claim Is Probably True
 
 Decoding is not the same as disbelieving. These signs mark a claim you can reasonably rely on:

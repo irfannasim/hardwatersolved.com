@@ -92,7 +92,7 @@ The arithmetic in the chart is illustrative, built from those published figures:
 
 ## How to Set Up a Softener for a Septic Home
 
-1. **Use demand-initiated regeneration.** A meter or sensor triggers regeneration based on what was actually used. This is the first recommendation in the WQA and NOWRA guidance.
+1. **Use demand-initiated regeneration.** A meter or sensor triggers regeneration based on what was actually used. This is the first recommendation in the WQA and NOWRA guidance. [Softeners ranked on how much water they send to the tank each year](/blog/best-water-softener-for-septic-systems/) compares current units on that measure.
 2. **Program the real hardness.** A hardness setting well above your water's actual figure makes the softener regenerate more often than it needs to. Use a lab result, not a guess.
 3. **Choose a salt setting for efficiency.** Work out grains per pound from the valve's own capacity table, as in the Pentair example. Aim for the upper part of the range. A salt setting that is far too high is the most common reason a softener uses [too much salt](/blog/water-softener-using-too-much-salt/).
 4. **Do not oversize the salt dose to make up for iron.** If iron is pushing you toward heavy salt and frequent regeneration, pretreatment is usually the better answer for both the resin and the tank.

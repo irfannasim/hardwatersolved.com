@@ -90,7 +90,7 @@ Most "my softener changed the pH" reports trace back to one of these.
 
 **4. A different test, not different water.** pH test strips read to about half a unit at best. A sample left in an open cup loses carbon dioxide and its pH creeps up. A hot tap sample is not comparable with a cold one. A reading taken at the kitchen tap before installation and at a bathroom tap after it is not a before-and-after measurement.
 
-**5. Another device is doing it.** A combination softener with a calcite or corosex layer, or a separate acid neutralizer upstream, does raise pH. A point-of-use reverse osmosis unit usually lowers it slightly, because dissolved carbon dioxide passes through the membrane while most of the bicarbonate buffer does not. Neither effect comes from the softening resin.
+**5. Another device is doing it.** A combination softener with a calcite or corosex layer, or a separate acid neutralizer upstream, does raise pH. A salt-free citric acid conditioner lowers it a little by design, which is why [the Nuvo H2O review flags it for water below pH 7.3](/blog/nuvo-h2o-review/). A point-of-use reverse osmosis unit usually lowers it slightly, because dissolved carbon dioxide passes through the membrane while most of the bicarbonate buffer does not. Alkaline RO systems add a mineral cartridge after the membrane to raise it again; [comparing alkaline reverse osmosis systems on certification and running cost](/blog/best-alkaline-reverse-osmosis-system/) covers the options, and [the iSpring RCC7AK review](/blog/ispring-rcc7ak-review/) looks at one certified tank system with that stage built in. None of these effects comes from the softening resin.
 
 ## How to Check Your Own Softener's Effect on pH
 

@@ -138,6 +138,6 @@ Being clear about this saves money and disappointment:
 3. **Apply the bands.** Under 3.5 gpg, stop here. Between 3.5 and 7, decide on appliances and years in the home. Above 7, a softener usually pays.
 4. **Find out your disinfectant and residual** before choosing equipment.
 5. **Price the resin cost of that disinfectant**, and budget carbon or a higher cross-link resin accordingly.
-6. **Buy metered, sized for the peak**, and check local discharge rules first.
+6. **Buy metered, sized for the peak**, and check local discharge rules first. [Comparing city-water softeners on resin crosslink and carbon stage](/blog/best-water-softener-for-city-water/) applies the same chlorine arithmetic to specific units.
 
 Whether you need a water softener for city water comes down to two numbers most buyers never look up: the highest hardness your utility delivers, and the disinfectant it adds. Get both before you talk to a dealer, and the decision becomes simple.

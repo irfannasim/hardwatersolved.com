@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="thl-title thl-desc">
+<title id="thl-title">Tankless water heater warranty hardness limits by brand vs softened and conditioned water</title>
+<desc id="thl-desc">Chart comparing tankless water heater warranty hardness limits, 7 gpg for Takagi and about 12 gpg or 200 mg/L for Navien, Noritz, Rinnai and Rheem, with an 18 gpg supply untreated, softened to under 1 gpg, and treated with polyphosphate or a salt-free conditioner, which leaves measured hardness unchanged.</desc>
+<defs><pattern id="hz" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#fde7dc"/><rect width="3" height="8" fill="#c2410c"/></pattern></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Tankless warranty hardness limits vs what each treatment reads</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Example supply: 18 gpg. A hardness test after each treatment, against the makers' limits</text>
+<path d="M398,140 L398,400" stroke="#dc2626" stroke-width="2" fill="none" stroke-dasharray="6 4"/>
+<text x="392" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">Takagi</text>
+<text x="392" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#dc2626">7 gpg (120 ppm)</text>
+<path d="M463.8,140 L463.8,400" stroke="#dc2626" stroke-width="2" fill="none" stroke-dasharray="6 4"/>
+<text x="469.8" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Navien, Noritz, Rinnai, Rheem</text>
+<text x="469.8" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">200 mg/L, about 12 gpg</text>
+<path d="M300,400 L720,400" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<path d="M300,400 L300,406" stroke="#0b2f4a" stroke-width="1.5" fill="none"/>
+<text x="300" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<path d="M370,400 L370,406" stroke="#0b2f4a" stroke-width="1.5" fill="none"/>
+<text x="370" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<path d="M440,400 L440,406" stroke="#0b2f4a" stroke-width="1.5" fill="none"/>
+<text x="440" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10</text>
+<path d="M510,400 L510,406" stroke="#0b2f4a" stroke-width="1.5" fill="none"/>
+<text x="510" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">15</text>
+<path d="M580,400 L580,406" stroke="#0b2f4a" stroke-width="1.5" fill="none"/>
+<text x="580" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">20</text>
+<path d="M650,400 L650,406" stroke="#0b2f4a" stroke-width="1.5" fill="none"/>
+<text x="650" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">25</text>
+<path d="M720,400 L720,406" stroke="#0b2f4a" stroke-width="1.5" fill="none"/>
+<text x="720" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">30</text>
+<text x="510" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Measured hardness, grains per gallon</text>
+<text x="30" y="189" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Untreated supply</text>
+<rect x="300" y="175" width="252" height="30" rx="0" fill="#c2410c" stroke="none" stroke-width="1"/>
+<text x="30" y="207" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">reads 18 gpg: over every limit</text>
+<text x="30" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water softener</text>
+<text x="30" y="282" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(ion exchange)</text>
+<rect x="300" y="250" width="7" height="30" rx="0" fill="#0e7490" stroke="none" stroke-width="1"/>
+<text x="30" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0e7490">reads under 1 gpg</text>
+<text x="30" y="339" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Polyphosphate or</text>
+<text x="30" y="357" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">salt-free conditioner</text>
+<rect x="300" y="325" width="252" height="30" rx="0" fill="url(#hz)" stroke="none" stroke-width="1"/>
+<text x="30" y="375" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">still reads 18 gpg</text>
+<rect x="30" y="476" width="16" height="16" rx="0" fill="url(#hz)" stroke="none" stroke-width="1"/>
+<text x="54" y="489" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Hatched: scale formation reduced, but the hardness number the warranty names is unchanged</text>
+</svg>

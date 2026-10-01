@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 480" width="760" height="480" role="img" aria-labelledby="cwf-title cwf-desc">
+<title id="cwf-title">Clack WS1 valve flow rating compared with Fleck 5600SXT and a packaged 1.5 cubic foot softener</title>
+<desc id="cwf-desc">Bar chart for a Clack WS1 water softener review: the WS1 valve passes 27 gpm at a 15 psi drop against 20 gpm for the Fleck 5600SXT, but a packaged 1.5 cubic foot system with either valve is rated about 13 gpm. For backwash the WS1 passes 27 gpm against a 7 gpm maximum on the 5600SXT.</desc>
+<rect width="760" height="480" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Clack WS1 flow: valve rating vs what the system delivers</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Gallons per minute, from the Clack and Pentair valve specifications and distributor system listings</text>
+<text x="30" y="102" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Service flow at a 15 psi pressure drop</text>
+<text x="240" y="137" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Clack WS1 valve</text>
+<rect x="250" y="115" width="405" height="32" fill="#0e7490"/>
+<text x="665" y="137" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">27 gpm</text>
+<text x="240" y="179" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Fleck 5600SXT valve</text>
+<rect x="250" y="157" width="300" height="32" fill="#3a5a72"/>
+<text x="560" y="179" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#3a5a72">20 gpm</text>
+<text x="240" y="214" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">1.5 cu ft system,</text>
+<text x="240" y="231" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">either valve</text>
+<rect x="250" y="199" width="195" height="32" fill="#cbd5e1" stroke="#52697a" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="455" y="221" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#52697a">about 13 gpm</text>
+<text x="30" y="282" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Backwash flow the valve can pass</text>
+<text x="240" y="317" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Clack WS1 valve</text>
+<rect x="250" y="295" width="405" height="32" fill="#0e7490"/>
+<text x="665" y="317" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">27 gpm</text>
+<text x="240" y="359" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Fleck 5600SXT valve</text>
+<rect x="250" y="337" width="105" height="32" fill="#3a5a72"/>
+<text x="365" y="359" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#3a5a72">7 gpm max</text>
+<path class="ln" d="M250,385 L700,385" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M250,385 L250,391 M400,385 L400,391 M550,385 L550,391 M700,385 L700,391" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="400" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10</text>
+<text x="550" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">20</text>
+<text x="700" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">30 gpm</text>
+<text x="30" y="442" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">On a normal 1.5 cu ft tank the resin bed, not the valve, sets the flow you get.</text>
+<text x="30" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The WS1's bigger margin is backwash: headroom for larger tanks and heavier filter media.</text>
+</svg>

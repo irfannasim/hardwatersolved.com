@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 566" width="760" height="566" role="img" aria-labelledby="r80-title r80-desc">
+<title id="r80-title">Single 80,000 grain water softener or twin tank: decision rule</title>
+<desc id="r80-desc">Decision chart for an 80,000 grain water softener: choose a twin tank if the well cannot hold 4.6 gpm of backwash, if the daily hardness load exceeds about 12,500 grains, or if hard water during regeneration is unacceptable; otherwise a single 80k.</desc>
+<defs><marker id="d80a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="566" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Single 80,000 grain tank or a twin? The rule</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Work down the checks. The first one that sends you right decides it.</text>
+<rect class="box" x="40" y="88" width="400" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="56" y="114" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">1. Well holds 4.6 gpm for 20+ minutes?</text>
+<text x="56" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">bucket test at the backwash rate, evening</text>
+<rect class="box" x="490" y="88" width="240" height="64" rx="8" fill="#eef2f6" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="504" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#3a5a72">No</text>
+<text x="504" y="128" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Twin with 10-inch tanks</text>
+<text x="504" y="145" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">needs about 2.7 gpm</text>
+<path class="ln" d="M440,120 L486,120" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d80a)"/>
+<path class="ln" d="M240,152 L240,192" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d80a)"/>
+<text x="252" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Yes</text>
+<rect class="box" x="40" y="196" width="400" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="56" y="222" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">2. Daily load under about 12,500 grains?</text>
+<text x="56" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">people x 75 gallons x gpg (iron-adjusted)</text>
+<rect class="box" x="490" y="196" width="240" height="64" rx="8" fill="#eef2f6" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="504" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#3a5a72">No</text>
+<text x="504" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Twin, or a larger twin</text>
+<text x="504" y="253" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">a single would go under 3 days</text>
+<path class="ln" d="M440,228 L486,228" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d80a)"/>
+<path class="ln" d="M240,260 L240,300" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d80a)"/>
+<text x="252" y="285" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Yes</text>
+<rect class="box" x="40" y="304" width="400" height="64" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="56" y="330" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">3. Hard water acceptable for 2 hours a night?</text>
+<text x="56" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">single tanks bypass raw water to regenerate</text>
+<rect class="box" x="490" y="304" width="240" height="64" rx="8" fill="#eef2f6" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="504" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#3a5a72">No</text>
+<text x="504" y="344" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Twin</text>
+<text x="504" y="361" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">soft water around the clock</text>
+<path class="ln" d="M440,336 L486,336" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d80a)"/>
+<path class="ln" d="M240,368 L240,408" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d80a)"/>
+<text x="252" y="393" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Yes</text>
+<rect class="box" x="40" y="412" width="690" height="64" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="56" y="438" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#15803d">A single 80k is the better buy</text>
+<text x="56" y="460" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Lower price per usable grain, more service flow (about 11 gpm vs 6.5 gpm)</text>
+<text x="30" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Load limit: a single 80k delivering about 50,000 grains, minus a day of reserve, should last 3 days or more.</text>
+<text x="30" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Flow figures: AFW published specs for its 13x54 80k single and its 1.5 cu ft per tank 9100SXT twin.</text>
+</svg>

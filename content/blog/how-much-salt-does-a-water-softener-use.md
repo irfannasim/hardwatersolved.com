@@ -110,7 +110,7 @@ The arithmetic says 1 × 70 × 8 × 30 ÷ 3,822 = **about 4.4 lb a month**. The 
 Hardness removed is 4 × 70 × 18 = 5,040 grains a day, so the calculator gives **about 40 lb a month**. The bed holds 34,400 grains, a little under seven days of use. Holding back a day's reserve, it regenerates about every six days: 5 regenerations × 9 lb = **about 45 lb a month**, 14 percent over the simple figure. That is well inside the normal band.
 
 **3. Two people at 12 gpg with a timer valve set to every fourth night at 10 lb.**
-The calculator says **about 13 lb a month** is all the hardness needs. The timer does not know that. It regenerates 7.5 times a month at 10 lb: **75 lb a month**, almost six times the expected figure. Nothing is broken. The valve is doing what it was told. This household would save more than 700 lb of salt a year by recalculating the interval, or by moving to a metered control.
+The calculator says **about 13 lb a month** is all the hardness needs. The timer does not know that. It regenerates 7.5 times a month at 10 lb: **75 lb a month**, almost six times the expected figure. Nothing is broken. The valve is doing what it was told. This household would save more than 700 lb of salt a year by recalculating the interval, or by moving to a metered control. How much more an efficiency-rated unit saves on top of that is smaller than it sounds: [the Morton review puts it at about 100 lb a year against a well-set metered softener](/blog/morton-water-softener-review/).
 
 ## Using the Expected Figure as a Fault Detector
 

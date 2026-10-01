@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 632" width="760" height="632" role="img" aria-labelledby="nvc-title nvc-desc">
+<title id="nvc-title">Nuvo H2O citric acid chelation compared with TAC and ion exchange</title>
+<desc id="nvc-desc">Three-panel diagram comparing how ion exchange, template assisted crystallization (TAC) and Nuvo H2O citric acid chelation treat the same hard water: what happens to calcium, what the hardness test reads afterwards, what is added and what is used up.</desc>
+<defs><marker id="nvc-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker><marker id="nvc-soft" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="nvc-hard" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="nvc-fault" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="nvc-ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="nvc-steel" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker><marker id="nvc-muted" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="nvc-brine" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="nvc-drain" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><marker id="nvc-iron" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b45309"/></marker></defs>
+<rect width="760" height="632" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Same hard water, three treatments: where the calcium goes</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Calcium (Ca) shown entering each unit; the box shows what the media does to it</text>
+<text x="140" y="98" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Ion exchange softener</text>
+<text x="140" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#c2410c">Ca in</text>
+<path class="ln" d="M154,118 L154,170" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nvc-hard)"/>
+<rect class="box" x="40" y="178" width="200" height="96" rx="6" fill="#f8fafc" stroke="#0e7490" stroke-width="1.5"/>
+<text x="140" y="202" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Resin swaps Ca for sodium</text>
+<text x="140" y="230" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Ca held on resin</text>
+<text x="140" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Na released</text>
+<path class="ln" d="M154,280 L154,322" fill="none" stroke="#0e7490" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nvc-soft)"/>
+<text x="140" y="346" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Sodium, no calcium</text>
+<text x="140" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Hardness test after</text>
+<text x="140" y="400" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">about 0 gpg</text>
+<text x="140" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Added to the water</text>
+<text x="140" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">sodium</text>
+<text x="140" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Used up</text>
+<text x="140" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">salt; brine to drain</text>
+<text x="140" y="536" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">pH effect</text>
+<text x="140" y="556" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">little change</text>
+<text x="380" y="98" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">TAC conditioner</text>
+<text x="380" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#c2410c">Ca in</text>
+<path class="ln" d="M394,118 L394,170" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nvc-hard)"/>
+<rect class="box" x="280" y="178" width="200" height="96" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="202" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Media seeds tiny crystals</text>
+<text x="380" y="230" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Ca forms crystals</text>
+<text x="380" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">that stay suspended</text>
+<path class="ln" d="M394,280 L394,322" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nvc-steel)"/>
+<text x="380" y="346" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Calcium, as crystals</text>
+<text x="380" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Hardness test after</text>
+<text x="380" y="400" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">unchanged</text>
+<text x="380" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Added to the water</text>
+<text x="380" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">nothing dosed</text>
+<text x="380" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Used up</text>
+<text x="380" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">media, slowly</text>
+<text x="380" y="536" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">pH effect</text>
+<text x="380" y="556" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">little change</text>
+<text x="620" y="98" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Nuvo H2O (citric acid)</text>
+<text x="620" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#c2410c">Ca in</text>
+<path class="ln" d="M634,118 L634,170" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nvc-hard)"/>
+<rect class="box" x="520" y="178" width="200" height="96" rx="6" fill="#f8fafc" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="620" y="202" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#7c3aed">Cartridge doses citric acid</text>
+<text x="620" y="230" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Ca bound as</text>
+<text x="620" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">calcium citrate</text>
+<path class="ln" d="M634,280 L634,322" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#nvc-steel)"/>
+<text x="620" y="346" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Calcium, as citrate</text>
+<text x="620" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Hardness test after</text>
+<text x="620" y="400" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">unchanged</text>
+<text x="620" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Added to the water</text>
+<text x="620" y="452" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">citric acid</text>
+<text x="620" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Used up</text>
+<text x="620" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">cartridge, ~6 months</text>
+<text x="620" y="536" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">pH effect</text>
+<text x="620" y="556" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">lowered toward 7</text>
+<text x="30" y="590" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Only ion exchange removes hardness. TAC and chelation change how calcium behaves,</text>
+<text x="30" y="610" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">so a hardness test cannot tell you whether either one is working.</text>
+</svg>

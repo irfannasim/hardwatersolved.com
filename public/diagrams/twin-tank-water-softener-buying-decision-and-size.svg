@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="ttd-title ttd-desc">
+<title id="ttd-title">Twin-tank water softener buying decision and size per tank</title>
+<desc id="ttd-desc">Decision chart: households that do not need soft water during regeneration should buy a single tank; homes without a power outlet need a non-electric twin; otherwise a Fleck 9100SXT twin sized per tank from the daily hardness load, from 32,000 to 96,000 grains per tank.</desc>
+<defs><marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Do you need a twin tank, and what size per tank?</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Sizes assume 9 lb salt per cu ft, about 26,000 usable grains per cu ft, no reserve</text>
+<rect class="box" x="30" y="95" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Must the house get soft water</text>
+<text x="195" y="144" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">during regeneration?</text>
+<text x="207" y="191" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Yes: night use, home business,</text>
+<text x="207" y="209" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">big household or 30+ gpg</text>
+<rect class="box" x="440" y="95" width="290" height="70" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
+<text x="585" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Buy a single tank</text>
+<text x="585" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Same per-cycle size costs</text>
+<text x="585" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">about $565 to $935 less</text>
+<path class="ln" d="M360,130 L436,130" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#an)"/>
+<text x="400" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
+<path class="ln" d="M195,165 L195,266" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<rect class="box" x="30" y="270" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="301" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Is there a power outlet</text>
+<text x="195" y="319" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">where the tanks will sit?</text>
+<rect class="box" x="440" y="270" width="290" height="70" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
+<text x="585" y="292" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Non-electric twin</text>
+<text x="585" y="310" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Water-powered meter (Kinetico),</text>
+<text x="585" y="328" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">dealer only, not on Amazon</text>
+<path class="ln" d="M360,305 L436,305" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#an)"/>
+<text x="400" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
+<path class="ln" d="M195,340 L195,396" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>
+<text x="207" y="368" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Yes</text>
+<rect class="box" x="30" y="400" width="700" height="56" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="380" y="424" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Fleck 9100SXT twin: size each tank from your daily load</text>
+<text x="380" y="442" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Daily grains = people x 75 gal x hardness in gpg</text>
+<path class="ln" d="M110,456 L110,496" stroke="#0e7490" stroke-width="4" fill="none" marker-end="url(#ag)"/>
+<rect class="box" x="30" y="500" width="160" height="86" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="110" y="521" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Under 4,500</text>
+<text x="110" y="539" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">grains a day</text>
+<text x="110" y="557" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">32k per tank</text>
+<text x="110" y="575" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">~5.8 days at top</text>
+<path class="ln" d="M290,456 L290,496" stroke="#0e7490" stroke-width="4" fill="none" marker-end="url(#ag)"/>
+<rect class="box" x="210" y="500" width="160" height="86" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="290" y="521" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">4,500-7,000</text>
+<text x="290" y="539" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">grains a day</text>
+<text x="290" y="557" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">48k per tank</text>
+<text x="290" y="575" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">~5.6 days at top</text>
+<path class="ln" d="M470,456 L470,496" stroke="#0e7490" stroke-width="4" fill="none" marker-end="url(#ag)"/>
+<rect class="box" x="390" y="500" width="160" height="86" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="470" y="521" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">7,000-10,000</text>
+<text x="470" y="539" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">grains a day</text>
+<text x="470" y="557" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">64k per tank</text>
+<text x="470" y="575" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">~5.2 days at top</text>
+<path class="ln" d="M650,456 L650,496" stroke="#0e7490" stroke-width="4" fill="none" marker-end="url(#ag)"/>
+<rect class="box" x="570" y="500" width="160" height="86" rx="8" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="650" y="521" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Over 10,000</text>
+<text x="650" y="539" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">grains a day</text>
+<text x="650" y="557" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">96k per tank</text>
+<text x="650" y="575" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">~6 days at 13,000</text>
+<text x="30" y="618" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Day counts are for the top of each band; lighter loads go longer between regenerations.</text>
+</svg>

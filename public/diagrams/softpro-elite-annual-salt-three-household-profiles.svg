@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="spsalt-title spsalt-desc">
+<title id="spsalt-title">SoftPro Elite review: annual salt use for three household profiles</title>
+<desc id="spsalt-desc">Illustrative bar chart for a SoftPro Elite review: yearly salt for a couple at 10 gpg, a family of four at 15 gpg and a family of five at 25 gpg, comparing a timer softener, metered downflow units at 9 and 6 lb per cubic foot, and upflow brining at a low dose, with the salt level a 75 percent saving claim would require.</desc>
+<defs></defs>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">SoftPro Elite review: salt a year in three households</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Pounds of salt a year, same hardness load, four ways of regenerating. Illustrative model.</text>
+<rect x="30" y="79" width="14" height="14" fill="#78716c" stroke="none" stroke-width="1.5"/>
+<text x="52" y="91" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Timer unit, 15 lb/cu ft (2,070 grains per lb)</text>
+<rect x="390" y="79" width="14" height="14" fill="#94a3b8" stroke="none" stroke-width="1.5"/>
+<text x="412" y="91" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Metered downflow, 9 lb/cu ft (2,890 grains per lb)</text>
+<rect x="30" y="103" width="14" height="14" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
+<text x="52" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Metered downflow, 6 lb/cu ft (3,500 grains per lb)</text>
+<rect x="390" y="103" width="14" height="14" fill="#0e7490" stroke="none" stroke-width="1.5"/>
+<text x="412" y="115" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Upflow at a low dose (about 4,000 grains per lb, assumed)</text>
+<path d="M30,147 L62,147" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<text x="70" y="152" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#dc2626">Salt the "up to 75% less" claim implies, measured against the timer unit</text>
+<text x="86" y="505" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">0</text>
+<path d="M96,450 L730,450" stroke="#e2e8f0" stroke-width="1"/>
+<text x="86" y="455" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">300</text>
+<path d="M96,400 L730,400" stroke="#e2e8f0" stroke-width="1"/>
+<text x="86" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">600</text>
+<path d="M96,350 L730,350" stroke="#e2e8f0" stroke-width="1"/>
+<text x="86" y="355" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">900</text>
+<path d="M96,300 L730,300" stroke="#e2e8f0" stroke-width="1"/>
+<text x="86" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1,200</text>
+<path d="M96,250 L730,250" stroke="#e2e8f0" stroke-width="1"/>
+<text x="86" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1,500</text>
+<path d="M96,200 L730,200" stroke="#e2e8f0" stroke-width="1"/>
+<text x="86" y="205" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="end" fill="#52697a">1,800</text>
+<text x="30" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">lb of salt a year</text>
+<rect x="121.66666666666667" y="455.9178743961353" width="34" height="44.08212560386471" fill="#78716c" stroke="none" stroke-width="1.5"/>
+<text x="138.66666666666669" y="448.9178743961353" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">264</text>
+<rect x="163.66666666666669" y="468.42560553633217" width="34" height="31.57439446366783" fill="#94a3b8" stroke="none" stroke-width="1.5"/>
+<text x="180.66666666666669" y="461.42560553633217" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">189</text>
+<rect x="205.66666666666669" y="473.92857142857144" width="34" height="26.071428571428555" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
+<text x="222.66666666666669" y="466.92857142857144" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">156</text>
+<rect x="247.66666666666669" y="477.1875" width="34" height="22.8125" fill="#0e7490" stroke="none" stroke-width="1.5"/>
+<text x="264.6666666666667" y="470.1875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">137</text>
+<path d="M115.66666666666667,488.9794685990338 L287.6666666666667,488.9794685990338" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<text x="201.66666666666669" y="524" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Couple, 10 gpg</text>
+<text x="201.66666666666669" y="542" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">547,500 grains a year</text>
+<rect x="333.00000000000006" y="367.75362318840575" width="34" height="132.24637681159425" fill="#78716c" stroke="none" stroke-width="1.5"/>
+<text x="350.00000000000006" y="360.75362318840575" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">793</text>
+<rect x="375.00000000000006" y="405.27681660899657" width="34" height="94.72318339100343" fill="#94a3b8" stroke="none" stroke-width="1.5"/>
+<text x="392.00000000000006" y="398.27681660899657" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">568</text>
+<rect x="417.00000000000006" y="421.7857142857143" width="34" height="78.21428571428572" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
+<text x="434.00000000000006" y="414.7857142857143" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">469</text>
+<rect x="459.00000000000006" y="431.5625" width="34" height="68.4375" fill="#0e7490" stroke="none" stroke-width="1.5"/>
+<text x="476.00000000000006" y="424.5625" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">411</text>
+<path d="M327.00000000000006,466.93840579710144 L499.00000000000006,466.93840579710144" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<text x="413.00000000000006" y="524" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Family of 4, 15 gpg</text>
+<text x="413.00000000000006" y="542" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">1.64 million grains a year</text>
+<rect x="544.3333333333334" y="224.48671497584542" width="34" height="275.5132850241546" fill="#78716c" stroke="none" stroke-width="1.5"/>
+<text x="561.3333333333334" y="217.48671497584542" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1,653</text>
+<rect x="586.3333333333334" y="302.6600346020761" width="34" height="197.3399653979239" fill="#94a3b8" stroke="none" stroke-width="1.5"/>
+<text x="603.3333333333334" y="295.6600346020761" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1,184</text>
+<rect x="628.3333333333334" y="337.05357142857144" width="34" height="162.94642857142856" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
+<text x="645.3333333333334" y="330.05357142857144" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">978</text>
+<rect x="670.3333333333334" y="357.421875" width="34" height="142.578125" fill="#0e7490" stroke="none" stroke-width="1.5"/>
+<text x="687.3333333333334" y="350.421875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#0b2f4a">855</text>
+<path d="M538.3333333333334,431.12167874396135 L710.3333333333334,431.12167874396135" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<text x="624.3333333333334" y="524" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Family of 5, 25 gpg</text>
+<text x="624.3333333333334" y="542" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">3.42 million grains a year</text>
+<path d="M96,190 L96,500 L730,500" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="30" y="586" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Upflow saves 50 to 330 lb a year over a metered unit at 9 lb/cu ft: about $9 to $58 of salt.</text>
+<text x="30" y="608" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Model: 75 gallons per person a day; salt at $7 per 40 lb bag. Upflow efficiency is an assumption,</text>
+<text x="30" y="626" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">not a SoftPro figure; WC&amp;P reports counter-current 15 to 25% better than co-current at low doses.</text>
+</svg>

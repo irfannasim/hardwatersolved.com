@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="ahl-title ahl-desc">
+<title id="ahl-title">Aquasure Harmony installation: parts in the box vs parts you add</title>
+<desc id="ahl-desc">Installation layout for an Aquasure Harmony water softener showing which parts ship in the box (bypass, Aquatrol valve, resin tank, brine tank, brine line, drain line) and which the buyer adds (shutoffs and fittings, outlet fittings, drain air gap, salt and site extras).</desc>
+<defs>
+<marker id="ahl-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="ahl-as" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<marker id="ahl-ad" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker>
+</defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Aquasure Harmony: what is in the box, what you add</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">From the Harmony owner's manual component list and installation steps</text>
+<rect class="box" x="30" y="100" width="95" height="56" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="77" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">House</text>
+<text x="77" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">main supply</text>
+<rect class="box" x="150" y="100" width="130" height="56" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="215" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Shutoffs, pipe</text>
+<text x="215" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626">and 1 in fittings</text>
+<rect class="box" x="305" y="100" width="100" height="56" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="355" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Bypass</text>
+<text x="355" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0e7490">valve + yoke</text>
+<rect class="box" x="430" y="100" width="120" height="56" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="490" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Aquatrol</text>
+<text x="490" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0e7490">metered valve</text>
+<rect class="box" x="575" y="100" width="155" height="56" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="652" y="124" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Outlet fittings</text>
+<text x="652" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626">to heater and house</text>
+<path class="ln" d="M125,128 L146,128" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#ahl-ah)"/>
+<path class="ln" d="M280,128 L301,128" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#ahl-ah)"/>
+<path class="ln" d="M405,128 L426,128" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#ahl-ah)"/>
+<path class="ln" d="M550,128 L571,128" fill="none" stroke="#0e7490" stroke-width="5" marker-end="url(#ahl-as)"/>
+<path class="ln" d="M490,156 L490,184" fill="none" stroke="#3a5a72" stroke-width="3"/>
+<rect class="box" x="450" y="184" width="80" height="150" rx="30" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<text x="490" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Resin</text>
+<text x="490" y="268" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">tank</text>
+<path class="ln" d="M540,156 L540,172 L665,172 L665,206" fill="none" stroke="#7c3aed" stroke-width="3"/>
+<rect class="box" x="600" y="206" width="130" height="128" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="665" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Brine tank</text>
+<text x="665" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">grid plate,</text>
+<text x="665" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">brine well,</text>
+<text x="665" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">5 ft brine line</text>
+<text x="665" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Add: 80 lb salt</text>
+<text x="665" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626">and 5 gal of water</text>
+<path class="ln" d="M440,156 L440,392 L314,392" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#ahl-ad)"/>
+<text x="327" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#78716c">14 ft drain line</text>
+<rect class="box" x="170" y="368" width="140" height="48" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="240" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Air gap</text>
+<text x="240" y="407" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626">at least 1.5 in</text>
+<path class="ln" d="M240,416 L240,438" fill="none" stroke="#78716c" stroke-width="4" marker-end="url(#ahl-ad)"/>
+<rect class="box" x="170" y="442" width="140" height="40" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="240" y="467" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Floor drain or tub</text>
+<text x="30" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Also add or check</text>
+<text x="30" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">Grounding jumper on copper pipe</text>
+<text x="30" y="244" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">Pressure valve if over 80 psi</text>
+<text x="30" y="266" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">Carbon filter if chlorine is over</text>
+<text x="30" y="283" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">2 ppm, or the supply uses chloramine</text>
+<text x="30" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#dc2626">120 V outlet within 6 ft</text>
+<text x="30" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">(transformer is in the box)</text>
+<rect class="box" x="30" y="508" width="22" height="16" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="60" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">In the box</text>
+<rect class="box" x="160" y="508" width="22" height="16" fill="#fef2f2" stroke="#dc2626" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="190" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">You add</text>
+<path d="M280,516 L310,516" stroke="#c2410c" stroke-width="5"/>
+<text x="318" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hard water</text>
+<path d="M410,516 L440,516" stroke="#0e7490" stroke-width="5"/>
+<text x="448" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Soft water</text>
+<path d="M535,516 L565,516" stroke="#7c3aed" stroke-width="3"/>
+<text x="573" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Brine</text>
+<path d="M630,516 L660,516" stroke="#78716c" stroke-width="4"/>
+<text x="668" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Drain</text>
+</svg>

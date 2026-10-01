@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" width="760" height="620" role="img" aria-labelledby="ttr-title ttr-desc">
+<title id="ttr-title">Twin-tank water softener flow during regeneration</title>
+<desc id="ttr-desc">Diagram of a twin-tank water softener with one control valve: hard water enters, Tank A softens and supplies the house, while Tank B regenerates using soft water and brine and sends rinse water to the drain. The house never receives hard water during regeneration.</desc>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="as" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7c3aed"/></marker><marker id="ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker><pattern id="rs" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#f6ead2"/><circle cx="4" cy="4" r="2.2" fill="#e2b865"/><circle cx="10" cy="10" r="2.2" fill="#e2b865"/></pattern></defs>
+<rect width="760" height="620" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Twin-tank softener: flow while one tank regenerates</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">One control valve, two resin tanks, one brine tank</text>
+<rect class="box" x="180" y="130" width="400" height="70" rx="8" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<text x="380" y="158" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">One control valve for both tanks</text>
+<text x="380" y="180" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">meter counts gallons, then swaps tanks</text>
+<path class="ln" d="M30,150 L174,150" stroke="#c2410c" stroke-width="6" fill="none" marker-end="url(#ah)"/>
+<text x="30" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#c2410c">Hard water in</text>
+<path class="ln" d="M180,185 L36,185" stroke="#0e7490" stroke-width="6" fill="none" marker-end="url(#as)"/>
+<text x="30" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Soft water to house</text>
+<text x="30" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">(never interrupted)</text>
+<rect class="box" x="210" y="250" width="110" height="230" rx="28" fill="url(#rs)" stroke="#3a5a72" stroke-width="2"/>
+<text x="265" y="335" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Tank A</text>
+<text x="265" y="357" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">In service</text>
+<text x="265" y="379" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">softening</text>
+<rect class="box" x="440" y="250" width="110" height="230" rx="28" fill="url(#rs)" stroke="#3a5a72" stroke-width="2"/>
+<text x="495" y="335" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Tank B</text>
+<text x="495" y="357" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Regenerating</text>
+<text x="495" y="379" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">with soft water</text>
+<path class="ln" d="M245,200 L245,244" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#ah)"/>
+<path class="ln" d="M290,250 L290,206" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#as)"/>
+<path class="ln" d="M465,200 L465,244" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#as)"/>
+<path class="ln" d="M495,200 L495,244" stroke="#7c3aed" stroke-width="5" fill="none" marker-end="url(#ab)"/>
+<path class="ln" d="M525,250 L525,206" stroke="#78716c" stroke-width="5" fill="none" marker-end="url(#ad)"/>
+<rect class="box" x="630" y="320" width="100" height="160" rx="6" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="680" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7c3aed">Brine</text>
+<text x="680" y="410" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7c3aed">tank</text>
+<path class="ln" d="M680,320 L680,165 L586,165" stroke="#7c3aed" stroke-width="5" fill="none" marker-end="url(#ab)"/>
+<path class="ln" d="M580,188 L600,188 L600,494" stroke="#78716c" stroke-width="5" fill="none" marker-end="url(#ad)"/>
+<text x="600" y="522" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#78716c">To drain</text>
+<path d="M30,560 L60,560" stroke="#c2410c" stroke-width="6" fill="none"/>
+<text x="68" y="565" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Hard water</text>
+<path d="M171,560 L201,560" stroke="#0e7490" stroke-width="6" fill="none"/>
+<text x="209" y="565" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Soft water</text>
+<path d="M312,560 L342,560" stroke="#7c3aed" stroke-width="6" fill="none"/>
+<text x="350" y="565" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Brine</text>
+<path d="M416.5,560 L446.5,560" stroke="#78716c" stroke-width="6" fill="none"/>
+<text x="454.5" y="565" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Rinse water to drain</text>
+<text x="30" y="600" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">When Tank A's metered capacity is used, the valve swaps the roles.</text>
+</svg>

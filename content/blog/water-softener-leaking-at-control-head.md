@@ -145,7 +145,7 @@ A repeat leak within months of a good repair usually has an external cause the r
 | Valve is a proprietary model with no available parts | Replace the valve, often with a standard one that fits the same tank thread |
 | Softener is old, resin tired, several faults at once | Price a full replacement before rebuilding piecemeal |
 
-Where you are unsure, or the valve is a dealer-only brand, [calling a water softener technician](/blog/when-to-call-a-water-softener-technician/) costs less than buying parts for the wrong fault.
+Where you are unsure, or the valve is a dealer-only brand, [calling a water softener technician](/blog/when-to-call-a-water-softener-technician/) costs less than buying parts for the wrong fault. If you are replacing a proprietary valve with a standard one, [the Clack WS1's parts and repair costs](/blog/clack-ws1-water-softener-review/) show what one of the two common choices costs to keep running.
 
 ## Stopping the Damage Tonight
 

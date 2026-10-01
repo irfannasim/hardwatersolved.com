@@ -87,7 +87,7 @@ Twin tanks are sometimes sold as more efficient. That can be true, for specific 
 
 ## What a Twin Tank Costs You
 
-- **Price.** A second tank of resin and a more complex valve cost more up front.
+- **Price.** A second tank of resin and a more complex valve cost more up front. At the top of the range, the [Kinetico review works out the installed price at which a non-electric twin tank breaks even against a metered Fleck twin over 15 years](/blog/kinetico-water-softener-review/).
 - **Space.** Three tanks instead of two, with room to reach all of them.
 - **Complexity.** The valve has more positions and more seals. When it does need service, there is more to diagnose.
 - **Regeneration water.** Per year it is about the same as a well-set metered single tank. If the unit regenerates with soft water from the other tank, that soft water is part of the cost.
@@ -126,7 +126,7 @@ Answer each question honestly.
 
 **No to all four:** a single-tank metered softener is the right choice. Pick cabinet or two-piece based on your space.
 
-**Yes to one or more:** a twin tank is worth pricing, and the more yeses the stronger the case.
+**Yes to one or more:** a twin tank is worth pricing, and the more yeses the stronger the case. [Comparing twin-tank softeners by how they switch tanks and what the premium over a single tank costs](/blog/best-twin-tank-water-softeners/) is the place to start.
 
 ## What a Twin Tank Will Not Do
 

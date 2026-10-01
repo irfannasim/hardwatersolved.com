@@ -119,7 +119,7 @@ For someone limiting sodium, that removes the softener's contribution. It is not
 ## Four Ways to Keep Sodium Out of Drinking Water
 
 1. **An unsoftened cold tap at the kitchen sink.** The cheapest fix, if the plumbing allows it. Drinking and cooking water comes straight from the supply, and everything else stays soft. Whether it suits your house is covered in [should a kitchen tap bypass the softener](/blog/should-a-kitchen-tap-bypass-the-softener/).
-2. **Reverse osmosis at one tap.** An RO unit after the softener reduces sodium along with other dissolved minerals. Check the unit's performance data sheet for its sodium reduction figure before relying on it. See [reverse osmosis and a water softener together](/blog/reverse-osmosis-and-water-softener-together/).
+2. **Reverse osmosis at one tap.** An RO unit after the softener reduces sodium along with other dissolved minerals. Check the unit's performance data sheet for its sodium reduction figure before relying on it. See [reverse osmosis and a water softener together](/blog/reverse-osmosis-and-water-softener-together/). If you are buying the softener at the same time, [softener and RO bundles priced against their two halves bought separately](/blog/best-water-softener-and-reverse-osmosis-bundles/) show whether buying them together saves anything.
 3. **Potassium chloride** in the brine tank, with the trade-offs above.
 4. **Leave a little hardness.** A blending valve set to leave 2 or 3 gpg cuts the sodium by that many grains' worth. The effect is modest, and it lets a little scale form.
 

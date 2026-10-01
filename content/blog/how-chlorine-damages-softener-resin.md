@@ -108,7 +108,7 @@ How to take these readings consistently, and how to build the log if you do not 
 
 **Activated carbon ahead of the softener.** The only intervention that addresses the cause. Free chlorine is removed readily by standard granular activated carbon at normal contact times. Chloramine is not — [it needs catalytic carbon](/blog/how-chloramine-affects-a-water-softener/) and roughly double the empty bed contact time, which in practice means a physically larger vessel. Undersizing here is the most common mistake, and it produces a filter that works for a few weeks and then breaks through. The sizing logic and placement are covered in detail in [chlorine taste after a water softener](/blog/chlorine-taste-after-water-softener/).
 
-**Higher cross-link resin.** Commonly 10 percent divinylbenzene instead of the standard 8 percent. More cross-links means more structure to lose before failure, which genuinely buys years. It costs more per cubic foot, and it slows the damage rather than preventing it — on a chloramine supply it belongs alongside carbon, not instead of it.
+**Higher cross-link resin.** Commonly 10 percent divinylbenzene instead of the standard 8 percent. More cross-links means more structure to lose before failure, which genuinely buys years. It costs more per cubic foot, and it slows the damage rather than preventing it — on a chloramine supply it belongs alongside carbon, not instead of it. If you are buying a new softener for a chlorinated supply, [comparing city-water softeners on resin crosslink and ten-year cost](/blog/best-water-softener-for-city-water/) puts both options side by side.
 
 **Things that do not protect the bed, despite being suggested:**
 
