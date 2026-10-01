@@ -9,7 +9,8 @@
 | `content-plan-+-outline/` | The content plan | **Exactly one plan file.** Superseding it means deleting the old one, not keeping both |
 | `prompts/` | Reusable prompt and constraint files | `seo-constraints.md` is authoritative for SEO rules |
 | `research/` | SERP analysis, keyword research, audit scripts, rejected drafts | One dated folder per investigation — see `research/README.md` |
-| `content/blog/` | Published articles (`.md`) | One file per article; slug = filename |
+| `content/blog/money-pages/` | Published commercial-intent articles (`.md`) | One file per article; slug = filename |
+| `content/blog/info-pages/` | Published informational articles (`.md`) | One file per article; slug = filename |
 
 Rules that apply to every content task here:
 
@@ -18,6 +19,7 @@ Rules that apply to every content task here:
 - **Never generate articles from a templated outline.** A plan that reuses one outline structure across many articles produces near-duplicate pages and is the thing this plan was rebuilt to fix. Each article carries its own angle.
 - Article frontmatter fields the site actually reads: `title`, `seoTitle`, `seoDescription`, `excerpt`, `date`, `updatedDate`, `author`, `category`, `featuredImage`, `ogImageAlt`, `canonical`, `faqs`.
 - **FAQs go in frontmatter only** (`faqs:`), never repeated in the body — the renderer emits them as a section plus FAQPage schema.
+- **The folders are internal grouping only.** Every article publishes at `/blog/<slug>/` whichever folder holds it; the folder name never appears in a URL. A new commercial article (plan Part 2) goes in `money-pages/`, an informational one in `info-pages/`. Slugs must be unique across both folders: a duplicate fails the build.
 - Body content starts at `##`; the `<h1>` comes from `title`.
 - Internal links use `/blog/<slug>/` with a trailing slash (`trailingSlash: true`).
 - Images: Pexels URLs in markdown, cached to `public/images/pexels/` by `npm run prebuild`. Every image on the site must be unique, with descriptive alt text.

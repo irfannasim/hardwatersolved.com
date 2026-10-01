@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Project Structure
 
 - `app/` &mdash; Next.js App Router pages, layouts, and shared components (`_components`, `_lib`, `_utils`).
-- `content/blog/` &mdash; Markdown source for every published guide (frontmatter + body).
+- `content/blog/` &mdash; Markdown source for every published guide (frontmatter + body), grouped into `money-pages/` (commercial) and `info-pages/` (informational). The folders are internal only: every post publishes at `/blog/<filename>/`.
 - `public/` &mdash; Static assets, including cached Pexels images used in blog posts.
 - `__content_+_seo/` &mdash; Editorial planning docs: the article outline plan and the per-article writing workflow.
 

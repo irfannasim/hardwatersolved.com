@@ -5,7 +5,7 @@ Everything exploratory lives here — **not** in `content-plan-+-outline/` and *
 Those two directories hold work that is finished and acted on:
 
 - `content-plan-+-outline/` — the single current content plan
-- `content/blog/` — published articles
+- `content/blog/money-pages/` and `content/blog/info-pages/` — published commercial and informational articles
 
 This directory holds everything that led to those decisions but isn't a deliverable itself.
 

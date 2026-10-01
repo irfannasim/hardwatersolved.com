@@ -15,9 +15,8 @@ import TableOfContents from '@/app/_components/TableOfContents';
 import FAQSection from '@/app/blog/[...slug]/FAQSection';
 import { getOptimizedPexelsUrl } from '@/app/_utils/image';
 import {
-    getBlogContentDir,
-    getBlogMarkdownFiles,
     getBlogPostFilePath,
+    getBlogPostIndex,
     getBlogPosts,
     resolveImageUrl,
 } from '@/app/_utils/blog';
@@ -116,16 +115,7 @@ function extractDiagrams(content: string) {
 }
 
 export function blogPostStaticParams() {
-    const blogDir = getBlogContentDir();
-    const files = fs.existsSync(blogDir) ? getBlogMarkdownFiles(blogDir) : [];
-
-    const paths = files.map((filePath) => ({
-        slug: path
-            .relative(blogDir, filePath)
-            .replace(/\\/g, '/')
-            .replace(/\.md$/, '')
-            .split('/'),
-    }));
+    const paths = [...getBlogPostIndex().keys()].map((slug) => ({ slug: [slug] }));
 
     // Static export requires at least one path from generateStaticParams(), even
     // before the first article is published. This placeholder slug has no matching

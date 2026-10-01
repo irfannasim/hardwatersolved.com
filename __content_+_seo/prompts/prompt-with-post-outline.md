@@ -11,8 +11,8 @@ Each plan entry already carries its focus keyword, meta title, slug, meta descri
 
 ## Preconditions
 
-0. `article-category-slug=blog` — articles live at `content/blog/<slug>.md` and publish to `/blog/<slug>/`.
-1. **Verify the article doesn't already exist.** Check `content/blog/` before writing.
+0. `article-category-slug=blog` — articles live at `content/blog/info-pages/<slug>.md` (informational) or `content/blog/money-pages/<slug>.md` (commercial, plan Part 2), and both publish to `/blog/<slug>/`. The folder is internal grouping only.
+1. **Verify the article doesn't already exist.** Check both `content/blog/info-pages/` and `content/blog/money-pages/` before writing.
 2. **Mark it complete in the plan file** when done, using the existing format:
    `### NNN. Title ✅ Published — YYYY-MM-DD — /blog/slug/`
 3. **Internal linking: only link to articles that are actually published.** If the plan suggests a link to an article that doesn't exist yet, skip it — don't leave a dead link for the future.

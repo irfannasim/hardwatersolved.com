@@ -30,13 +30,33 @@ export function getBlogMarkdownFiles(dir = getBlogContentDir()): string[] {
     });
 }
 
-// Resolve the markdown file for a post slug. Returns null if the slug
-// contains unsafe path segments.
-export function getBlogPostFilePath(slug: string[]) {
-    if (slug.some((segment) => segment === '..' || segment.includes('/') || segment.includes('\\'))) {
-        return null;
+// Subfolders of content/blog (money-pages/, info-pages/) are internal grouping
+// only: a post's slug is its filename, so every post publishes at /blog/<slug>/
+// whichever folder holds it.
+export function getBlogPostSlug(filePath: string) {
+    return path.basename(filePath, '.md');
+}
+
+// Map every slug to its file. Two files with the same name in different
+// folders would claim the same URL, so that fails the build.
+export function getBlogPostIndex(dir = getBlogContentDir()) {
+    const index = new Map<string, string>();
+    for (const filePath of getBlogMarkdownFiles(dir)) {
+        const slug = getBlogPostSlug(filePath);
+        const existing = index.get(slug);
+        if (existing) {
+            throw new Error(`Duplicate blog slug "${slug}": ${existing} and ${filePath}`);
+        }
+        index.set(slug, filePath);
     }
-    return path.join(getBlogContentDir(), ...slug) + '.md';
+    return index;
+}
+
+// Resolve the markdown file for a post slug. Returns null for anything but a
+// single known slug, so folder paths like /blog/money-pages/<slug>/ do not exist.
+export function getBlogPostFilePath(slug: string[]) {
+    if (slug.length !== 1) return null;
+    return getBlogPostIndex().get(slug[0]) ?? null;
 }
 
 export function resolveImageUrl(src: string, frontmatterBase: string) {
@@ -59,12 +79,8 @@ export function getBlogPosts(): BlogPost[] {
         return [];
     }
 
-    const posts = getBlogMarkdownFiles(blogDir)
-        .map((filePath) => {
-            const slug = path
-                .relative(blogDir, filePath)
-                .replace(/\\/g, '/')
-                .replace(/\.md$/, '');
+    const posts = [...getBlogPostIndex(blogDir)]
+        .map(([slug, filePath]) => {
             const fileContent = fs.readFileSync(filePath, 'utf-8');
             const { data } = matter(fileContent);
 
