@@ -1,8 +1,8 @@
 ---
 title: "Aquasure Harmony Review: What's in the Box and What It Really Costs Installed"
 seoTitle: "Aquasure Harmony Review: Budget Softener, 4 Real Limits"
-seoDescription: "This Aquasure Harmony review audits what ships in the box, restates capacity at real salt settings and totals the true installed price."
-excerpt: "The Aquasure Harmony is one of the cheapest complete two-tank softeners sold online, at about $630 for the 48,000-grain model. This review audits the box against the owner's manual, lists the parts you still have to buy, restates the grain rating at realistic salt settings, settles the conflicting warranty claims and works out what the unit really costs once it is plumbed in."
+seoDescription: "This Aquasure Harmony review audits what ships in the box, restates capacity at real salt settings and totals what you add to install it."
+excerpt: "The Aquasure Harmony is one of the cheapest complete two-tank softeners sold online. This review audits the box against the owner's manual, lists the parts you still have to buy, restates the grain rating at realistic salt settings, settles the conflicting warranty claims and works out what installation adds once it is plumbed in."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -10,7 +10,7 @@ featuredImage: "https://images.pexels.com/photos/4440780/pexels-photo-4440780.jp
 ogImageAlt: "Person lifting a stack of shipped cardboard boxes at a front door, the way a direct-to-consumer softener like the Aquasure Harmony arrives for self-installation"
 faqs:
   - question: "Is the Aquasure Harmony a good water softener?"
-    answer: "It is a sound budget choice for a homeowner who can install and program it. The box includes the valve, resin tank, resin, brine tank, bypass, drain line and brine line, and the 48,000-grain model costs about $630 at Aquasure's store. Its limits are a proprietary valve that only Aquasure supplies parts for, no NSF/ANSI 44 softener listing, a warranty that needs registration within 60 days, and a box rating you should not program from directly."
+    answer: "It is a sound budget choice for a homeowner who can install and program it. The box includes the valve, resin tank, resin, brine tank, bypass, drain line and brine line, at a budget price. Its limits are a proprietary valve that only Aquasure supplies parts for, no NSF/ANSI 44 softener listing, a warranty that needs registration within 60 days, and a box rating you should not program from directly."
   - question: "What is the warranty on the Aquasure Harmony?"
     answer: "Aquasure's current warranty page gives one year without registration, or five years from purchase on the valve, electronics and resin if you register within 60 days. The resin tank and brine tank carry a separate ten-year provision. Labor and freight are not covered, and resin and internal valve parts are excluded on systems used to remove iron, manganese or chlorine above the suggested level. An older manual said two years without registration, so register and keep a copy of the terms on the day you buy."
   - question: "Does the Aquasure Harmony come with resin?"
@@ -23,27 +23,29 @@ faqs:
     answer: "Fine-mesh resin handles some dissolved iron better than standard resin, and Aquasure sells fine-mesh versions for that purpose. But Aquasure's warranty excludes the resin and internal valve parts on systems used to remove iron or manganese. If iron is the main problem, an iron filter ahead of the softener is the safer plan."
 ---
 
-This **Aquasure Harmony review** comes down to one number: the 48,000-grain model costs about $630 in the box and about $750 to $850 once you have installed it yourself. That price buys a complete two-tank system, with valve, resin tank, resin, brine tank, bypass, drain line and brine line. It does not buy the shutoffs and fittings that connect it, the air gap the drain needs, or the salt to start it. It is a sound budget softener for a homeowner who will install and program it carefully. It is a poor one for anyone who needs a plumber, a certified product or iron removal under warranty.
+This **Aquasure Harmony review** comes down to what the box price covers and what it does not. For a budget price, the 48,000-grain model buys a complete two-tank system, with valve, resin tank, resin, brine tank, bypass, drain line and brine line. It does not buy the shutoffs and fittings that connect it, the air gap the drain needs, or the salt to start it. It is a sound budget softener for a homeowner who will install and program it carefully. It is a poor one for anyone who needs a plumber, a certified product or iron removal under warranty.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
 ## Aquasure Harmony Review at a Glance
 
-| Model | Resin | Tank | Price at Aquasure's store | Amazon |
-|---|---|---|---|---|
-| Harmony 32,000 (AS-HS32D) | 1.0 cu ft | 8 x 44 in | About $540 | [B07F18VG8L](https://www.amazon.com/dp/B07F18VG8L) |
-| Harmony 48,000 (AS-HS48D) | 1.5 cu ft | 10 x 54 in | About $630 | [B07F175C2R](https://www.amazon.com/dp/B07F175C2R) |
-| Harmony 64,000 (AS-HS64D) | 2.0 cu ft | 13 x 54 in | About $750 | [B07F1W1JBD](https://www.amazon.com/dp/B07F1W1JBD) |
-| Harmony 72,000 (AS-HS72D) | Not stated | Not stated | About $800 | [B0DFHT2BV2](https://www.amazon.com/dp/B0DFHT2BV2) |
-| Harmony 48,000 fine mesh + sediment prefilter | 1.5 cu ft | 10 x 54 in | About $700 | [B0855MSHTH](https://www.amazon.com/dp/B0855MSHTH) |
+| Model | Resin | Tank | Amazon |
+|---|---|---|---|
+| Harmony 32,000 (AS-HS32D) | 1.0 cu ft | 8 x 44 in | [Check price on Amazon](https://www.amazon.com/dp/B07F18VG8L) |
+| Harmony 48,000 (AS-HS48D) | 1.5 cu ft | 10 x 54 in | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| Harmony 64,000 (AS-HS64D) | 2.0 cu ft | 13 x 54 in | [Check price on Amazon](https://www.amazon.com/dp/B07F1W1JBD) |
+| Harmony 72,000 (AS-HS72D) | Not stated | Not stated | [Check price on Amazon](https://www.amazon.com/dp/B0DFHT2BV2) |
+| Harmony 48,000 fine mesh + sediment prefilter | 1.5 cu ft | 10 x 54 in | [Check price on Amazon](https://www.amazon.com/dp/B0855MSHTH) |
 
 **Four real limits:** a proprietary valve, no NSF/ANSI 44 softener listing, a warranty that depends on registering within 60 days, and a grain rating you should not program from directly.
 
-> **How this review was built.** It is a document review, not a bench test. The evidence is the [Harmony Series owner's manual](https://images.thdstatic.com/catalog/pdfImages/d3/d38453b1-ce56-4e0a-859c-27e296a759d7.pdf), Aquasure's current warranty page and store prices, the Amazon listings, and NSF's public certification listings. The comparison system is the DuraWater 48,000-grain Fleck 5600SXT, as described on its Amazon listing. Amazon offer prices were visible for the Harmony 48k ($629.99) and 64k ($749.99), matching Aquasure's store, and for the DuraWater system ($825). Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying. Several older Harmony ASINs now redirect or show as unavailable; the ones above were live listings on that date.
+> **How this review was built.** It is a document review, not a bench test. The evidence is the [Harmony Series owner's manual](https://images.thdstatic.com/catalog/pdfImages/d3/d38453b1-ce56-4e0a-859c-27e296a759d7.pdf), Aquasure's current warranty page, the Amazon listings, and NSF's public certification listings. The comparison system is the DuraWater 48,000-grain Fleck 5600SXT, as described on its Amazon listing. Several older Harmony listings now redirect or show as unavailable; the ones above were live listings on 1 October 2026. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Box-Contents Audit
 
-The Harmony owner's manual lists every component that ships with the system. Here it is beside the contents of a mid-priced competitor, the [DuraWater 48,000-grain Fleck 5600SXT system](https://www.amazon.com/dp/B010MR6T2I), at about $825 on Amazon.
+The Harmony owner's manual lists every component that ships with the system. Here it is beside the contents of a mid-priced competitor, the DuraWater 48,000-grain Fleck 5600SXT system.
+
+[Check price on Amazon](https://www.amazon.com/dp/B010MR6T2I)
 
 | Item | Aquasure Harmony 48k | DuraWater Fleck 5600SXT 48k |
 |---|---|---|
@@ -75,10 +77,10 @@ The manual's own checklist names most of these. The costs are illustrative estim
 | Drain air gap | The manual wants at least 1.5 inches of air gap, never a direct connection to a waste pipe | About $15 to $30 |
 | Grounding jumper | Required on copper or galvanized pipe, because the plastic valve breaks electrical continuity | About $15 |
 | Pressure-reducing valve | Only if daytime pressure exceeds 80 psi; the valve's limit is 125 psi | $0, or more if needed |
-| Carbon prefilter | If chlorine exceeds 2 ppm, or the supply uses chloramine | About $70 extra for Aquasure's bundle with a triple-purpose filter |
+| Carbon prefilter | If chlorine exceeds 2 ppm, or the supply uses chloramine | Extra; Aquasure sells a bundle with a triple-purpose filter |
 | 120 V outlet within 6 ft | The transformer has an 8 ft cord | $0 if one exists |
 
-The carbon line is the one buyers skip. The manual sets a 2 ppm chlorine limit and warns that chlorine and chloramine shorten resin life. Aquasure's own store sells the 48k with a triple-purpose prefilter for about $700, roughly $70 more than the plain unit. On city water that uses chloramine, that is the version to buy.
+The carbon line is the one buyers skip. The manual sets a 2 ppm chlorine limit and warns that chlorine and chloramine shorten resin life. Aquasure's own store sells the 48k with a triple-purpose prefilter for a little more than the plain unit. On city water that uses chloramine, that is the version to buy.
 
 Two of the most expensive DIY errors happen here: soldering too close to the plastic valve, and connecting the drain without an air gap. The manual asks for at least 6 inches between any solder joint and the valve. Our list of [common water softener installation mistakes](/blog/common-water-softener-installation-mistakes/) covers both, along with the reversed inlet and outlet that catches people on every brand.
 
@@ -86,14 +88,12 @@ Two of the most expensive DIY errors happen here: soldering too close to the pla
 
 Add the extras to the box price and the Harmony's advantage over a mid-priced competitor narrows.
 
-![Range chart of the Aquasure Harmony 48,000-grain true installed price: about $630 in the box, $750 to $850 DIY, $900 to $1,750 hired, up to $3,150 with new plumbing](/diagrams/aquasure-harmony-48k-true-installed-price-ranges.svg "Site work, not the box, decides whether a budget softener stays a budget softener")
+- **Installed yourself, loop in place:** the box price plus about $110 to $215 in salt, fittings, air gap and grounding jumper.
+- **Hired, loop in place:** the same, plus labor. The labor range of $150 to $1,000 comes from Fixr's national figures, as set out in our [water softener installation cost](/blog/water-softener-installation-cost/) breakdown.
+- **Hired, with a new loop, drain run and outlet:** the site work can cost more than the softener itself.
+- **The Fleck 5600SXT competitor:** needs the same extras, added to a higher box price.
 
-- **Installed yourself, loop in place:** about $750 to $850.
-- **Hired, loop in place:** about $900 to $1,750. The labor range of $150 to $1,000 comes from Fixr's national figures, as set out in our [water softener installation cost](/blog/water-softener-installation-cost/) breakdown.
-- **Hired, with a new loop, drain run and outlet:** about $1,300 to $3,150.
-- **The Fleck 5600SXT competitor, installed yourself:** about $950 to $1,050.
-
-Installed yourself, the Harmony saves about $200 over the Fleck system. If you pay a plumber, the plumbing costs the same whichever box sits on the floor, and the saving shrinks to a small share of the total. The Harmony is cheapest for the buyer who installs it.
+Installed yourself, the Harmony usually costs less than the Fleck system, because the extras are the same for both. If you pay a plumber, the plumbing costs the same whichever box sits on the floor, and the saving shrinks to a small share of the total. The Harmony is cheapest for the buyer who installs it.
 
 ## Capacity at Real Salt Settings
 
@@ -154,10 +154,21 @@ Size from your hardness and household instead. Multiply people by 75 gallons by 
 
 ## Which Aquasure Harmony to Buy
 
-- **Most homes on city water:** the [Harmony 48,000](https://www.amazon.com/dp/B07F175C2R), about $630 at Aquasure's store. Add the triple-purpose prefilter version if your water utility uses chloramine.
-- **One or two people, moderate hardness:** the [Harmony 32,000](https://www.amazon.com/dp/B07F18VG8L), about $540. Its 8 x 44 inch tank also suits tighter spaces.
-- **Large households or very hard water:** the [Harmony 64,000](https://www.amazon.com/dp/B07F1W1JBD), about $750, with 2 cubic feet of resin.
-- **Some iron, on a well:** the [Harmony 48,000 fine mesh with sediment prefilter](https://www.amazon.com/dp/B0855MSHTH), about $700, but read the iron exclusion above first.
+**Most homes on city water:** the Harmony 48,000. Add the triple-purpose prefilter version if your water utility uses chloramine.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
+
+**One or two people, moderate hardness:** the Harmony 32,000, the lowest-cost model. Its 8 x 44 inch tank also suits tighter spaces.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07F18VG8L)
+
+**Large households or very hard water:** the Harmony 64,000, with 2 cubic feet of resin.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07F1W1JBD)
+
+**Some iron, on a well:** the Harmony 48,000 fine mesh with sediment prefilter, but read the iron exclusion above first.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0855MSHTH)
 
 ## Who the Aquasure Harmony Is Wrong For
 

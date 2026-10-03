@@ -1,8 +1,8 @@
 ---
-title: "Best Water Softener for Low-Sodium Diets: 3 Setups Compared on Sodium and Cost"
+title: "Best Water Softener for Low-Sodium Diets: 3 Setups Compared on Sodium and Effort"
 seoTitle: "Best Water Softener for Low-Sodium Diets: 3 Smart Setups"
-seoDescription: "A water softener for low-sodium diets can use potassium, an RO tap or a bypassed kitchen line. Three setups compared on sodium removed and 10-year cost."
-excerpt: "There is no low-sodium softener as such. Every salt-regenerated softener adds the same sodium for the same hardness, so the choice is how to keep that sodium out of the water people drink. This page works out the sodium in a glass at your hardness, then compares potassium chloride, reverse osmosis at the kitchen tap and a hard bypass line on sodium removed, 10-year cost and effort."
+seoDescription: "A water softener for low-sodium diets can use potassium, an RO tap or a bypassed kitchen line. Three setups compared on sodium removed, running cost and effort."
+excerpt: "There is no low-sodium softener as such. Every salt-regenerated softener adds the same sodium for the same hardness, so the choice is how to keep that sodium out of the water people drink. This page works out the sodium in a glass at your hardness, then compares potassium chloride, reverse osmosis at the kitchen tap and a hard bypass line on sodium removed, running cost and effort."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -10,9 +10,9 @@ featuredImage: "https://images.pexels.com/photos/7530802/pexels-photo-7530802.jp
 ogImageAlt: "Senior woman squeezing a lemon into a glass of water in a home kitchen, drinking water for a household on a low-sodium diet"
 faqs:
   - question: "What is the best water softener for someone on a low-sodium diet?"
-    answer: "Any well-sized salt softener paired with reverse osmosis at the kitchen tap. A softener adds about 7.9 mg of sodium per litre for each grain per gallon of hardness removed, whatever the brand. An RO unit such as the APEC ROES-50, whose manual says product water should be about 3 to 10 percent of the feed water's dissolved solids, takes most of that sodium back out at the one tap people drink from. Over 10 years it costs a fraction of switching the whole softener to potassium chloride."
+    answer: "Any well-sized salt softener paired with reverse osmosis at the kitchen tap. A softener adds about 7.9 mg of sodium per litre for each grain per gallon of hardness removed, whatever the brand. An RO unit such as the APEC ROES-50, whose manual says product water should be about 3 to 10 percent of the feed water's dissolved solids, takes most of that sodium back out at the one tap people drink from. Over the years it generally costs far less than switching the whole softener to potassium chloride."
   - question: "Is potassium chloride better than salt for a low-sodium diet?"
-    answer: "It removes the sodium the softener adds, at every tap, and adds about 13.4 mg of potassium per litre per grain of hardness instead. That suits some households, but potassium chloride cost about $43 a 40 lb bag at Home Depot on 2 October 2026, against about $7 for salt, and you need roughly 20 percent more. Anyone told to limit potassium, for example with kidney disease or on certain blood pressure medicines, should ask their clinician before switching."
+    answer: "It removes the sodium the softener adds, at every tap, and adds about 13.4 mg of potassium per litre per grain of hardness instead. That suits some households, but a bag of potassium chloride costs several times as much as a bag of salt, and you need roughly 20 percent more. Anyone told to limit potassium, for example with kidney disease or on certain blood pressure medicines, should ask their clinician before switching."
   - question: "How much sodium does a water softener add to a glass of water?"
     answer: "About 1.9 mg per 8 ounce glass for each grain per gallon of hardness removed. At 10 gpg that is about 19 mg a glass, at 15 gpg about 28 mg, and at 30 gpg about 56 mg. Add whatever sodium the raw water already carries, which your utility report or a well test will show."
   - question: "Does reverse osmosis remove sodium from softened water?"
@@ -21,7 +21,7 @@ faqs:
     answer: "Ask the clinician managing your blood pressure. EPA's drinking water advisory says people under treatment for sodium-sensitive hypertension should consult their health care provider about sodium in their drinking water, and its 20 mg/L guidance level was set for people on a 500 mg a day diet. This page does not set a sodium limit; it compares the equipment that meets whatever limit you are given."
 ---
 
-The best **water softener for low-sodium diets** is an ordinary, well-sized salt softener with a reverse osmosis (RO) unit at the kitchen tap. There is no such thing as a low-sodium softener. Every salt-regenerated softener adds about 7.9 mg of sodium per litre for each grain per gallon (gpg) of hardness it removes, whatever the brand. What you can choose is where that sodium ends up. RO at the drinking tap removes most of it for about $680 over 10 years with the cheapest unit here. Switching the softener to potassium chloride removes it at every tap, but costs about $5,350 extra over the same 10 years. A hard bypass line adds none, but delivers hard, untreated water.
+The best **water softener for low-sodium diets** is an ordinary, well-sized salt softener with a reverse osmosis (RO) unit at the kitchen tap. There is no such thing as a low-sodium softener. Every salt-regenerated softener adds about 7.9 mg of sodium per litre for each grain per gallon (gpg) of hardness it removes, whatever the brand. What you can choose is where that sodium ends up. RO at the drinking tap removes most of it for the cost of the unit and its replacement filters. Switching the softener to potassium chloride removes it at every tap, but adds the much higher cost of potassium bags to every regeneration for as long as the softener runs. A hard bypass line adds none, but delivers hard, untreated water.
 
 The sodium limit itself is a medical question. Ask the clinician who manages the diet for the number, then use the figures below to pick the setup that meets it.
 
@@ -29,17 +29,17 @@ The sodium limit itself is a medical question. Ask the clinician who manages the
 
 ## The Three Setups at a Glance
 
-| Setup | Sodium the softener adds, at the drinking tap | Raw-water sodium | Taps covered | Up-front cost | 10-year cost (illustrative) | Effort |
+| Setup | Sodium the softener adds, at the drinking tap | Raw-water sodium | Taps covered | Up-front cost | Ongoing cost | Effort |
 |---|---|---|---|---|---|---|
-| **RO at the kitchen tap** | Roughly 90 to 97% removed | Also mostly removed | One tap, plus a fridge line on some units | $231 to $439 | about $681 to $1,889 | Filter changes once or twice a year |
-| **Potassium chloride in the softener** | Almost none added | Unchanged | Every tap | None | about $5,350 more than salt | Heavier, pricier bags; a setting change |
+| **RO at the kitchen tap** | Roughly 90 to 97% removed | Also mostly removed | One tap, plus a fridge line on some units | The RO unit | Replacement filters | Filter changes once or twice a year |
+| **Potassium chloride in the softener** | Almost none added | Unchanged | Every tap | None | Potassium chloride bags, several times the price of salt | Heavier, pricier bags; a setting change |
 | **Hard bypass line to the kitchen** | None added | Unchanged | One tap | A plumbing job, quoted locally | the plumbing job only | None after fitting; tap runs hard |
 
-> **How we chose.** No equipment was physically tested. Sodium figures are calculated from the ion exchange ratio, about 7.9 mg/L of sodium per gpg removed, which [Penn State Extension](https://extension.psu.edu/water-softening) states as 7.5 mg per quart. RO removal comes from each maker's manual or performance data. Costs use maker-store prices and published filter-change intervals.
+> **How we chose.** No equipment was physically tested. Sodium figures are calculated from the ion exchange ratio, about 7.9 mg/L of sodium per gpg removed, which [Penn State Extension](https://extension.psu.edu/water-softening) states as 7.5 mg per quart. RO removal comes from each maker's manual or performance data. Running costs are compared on the makers' published filter-change intervals.
 >
-> - **Included:** RO units that sell for over $100 and are listed on Amazon, and one softener-plus-RO bundle for buyers who still need the softener.
-> - **Excluded:** pitcher and faucet filters, which do not remove sodium in useful amounts and sell below $100; "low-sodium" or "salt-free" conditioners sold as softeners, which do not remove hardness; and any figure for a safe sodium intake, which belongs to the clinician.
-> - **Prices checked 1 and 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages did not display prices to our checks, so prices are from the makers' stores (APEC, Waterdrop, Home Master, Aquasure) and, for potassium chloride, a Home Depot listing. The APEC ROES-50 showed sold out on APEC's own store on 2 October; its Amazon listing was live.
+> - **Included:** full under-sink RO units listed on Amazon, and one softener-plus-RO bundle for buyers who still need the softener.
+> - **Excluded:** pitcher and faucet filters, which do not remove sodium in useful amounts; "low-sodium" or "salt-free" conditioners sold as softeners, which do not remove hardness; and any figure for a safe sodium intake, which belongs to the clinician.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Sodium in a Glass at Your Hardness
 
@@ -64,15 +64,16 @@ For scale, EPA's [drinking water advisory on sodium](https://www.epa.gov/sites/d
 
 ## Setup 1: RO at the Kitchen Tap, the Pick for Most Homes
 
-An RO membrane rejects dissolved salts, including the sodium the softener added and the sodium the water carried in. It also protects itself on softened feed: hard water scales membranes. That makes RO and a softener a natural pair, as [reverse osmosis and a water softener together](/blog/reverse-osmosis-and-water-softener-together/) explains. The four picks below differ on price, filter cost and certification.
+An RO membrane rejects dissolved salts, including the sodium the softener added and the sodium the water carried in. It also protects itself on softened feed: hard water scales membranes. That makes RO and a softener a natural pair, as [reverse osmosis and a water softener together](/blog/reverse-osmosis-and-water-softener-together/) explains. The four picks below differ on flow, filter cost and certification.
 
 ### APEC ROES-50: lowest 10-year cost
 
 - **Type:** five-stage under-sink RO with a storage tank, no electricity
 - **Sodium:** APEC's [ROES-50 manual](https://cdn.shopify.com/s/files/1/0674/1304/9597/files/ROES-50-V7.3.pdf) says product water should be about 3 to 10 percent of the tap water's TDS, and to replace the membrane when it reaches 15 to 20 percent
 - **Certification:** the manual says WQA certifies it to NSF/ANSI 58 for TDS reduction
-- **Running cost:** about $45 a year on softened city water, with the membrane changed every 2 to 4 years
-- **Price:** about $231 at APEC's store, which showed it sold out on 2 October 2026. [See it on Amazon (B00I0ZGOZM)](https://www.amazon.com/dp/B00I0ZGOZM)
+- **Running cost:** the lowest filter cost of the RO picks here, with the membrane changed every 2 to 4 years on softened city water
+
+[Check price on Amazon](https://www.amazon.com/dp/B00I0ZGOZM)
 
 The plain choice for a home that already softens. It has no mineral stage to add anything back, and the TDS certification is the claim that matters for sodium. Its tank holds less than the "4 gallon" label at normal pressure, so a large family cooking with RO water will notice the refill time.
 
@@ -83,8 +84,9 @@ The plain choice for a home that already softens. It has no mineral stage to add
 - **Type:** tankless under-sink RO, 600 gallons a day rating, needs a power outlet
 - **Sodium:** Waterdrop's performance data sheet gives 93.59 percent TDS reduction at a 750 mg/L challenge under NSF/ANSI 58, and the manual puts normal product water at 5 to 10 percent of tap water TDS
 - **Feed limit:** the warranty holds only on municipal water under 7 gpg and 750 ppm TDS, which softened city water meets
-- **Running cost:** about $145 a year in filters at Waterdrop's prices
-- **Price:** about $439 on sale, $539 list, at Waterdrop's store. [See it on Amazon (B07P1XFYJP)](https://www.amazon.com/dp/B07P1XFYJP)
+- **Running cost:** the highest yearly filter cost of the RO picks here
+
+[Check price on Amazon](https://www.amazon.com/dp/B07P1XFYJP)
 
 The faucet shows a live TDS reading, which is useful in this case. You can see at a glance whether the water at the drinking tap is still low in dissolved salts, without buying a meter.
 
@@ -95,8 +97,9 @@ The faucet shows a live TDS reading, which is useful in this case. You can see a
 - **Type:** seven-stage tank RO that adds calcium and magnesium back after the membrane
 - **Sodium:** the membrane removes sodium as the others do; the remineralisation stage adds hardness minerals, not sodium
 - **Certification:** Home Master cites NSF-certified components; we found no system-level NSF/ANSI 58 listing
-- **Running cost:** a $79.95 filter set once a year or every 2,000 gallons
-- **Price:** about $330 list at the maker's store; its store blocked our 2 October check, so this is the 1 October figure. [See it on Amazon (B005A3WM6C)](https://www.amazon.com/dp/B005A3WM6C)
+- **Running cost:** one filter set once a year or every 2,000 gallons
+
+[Check price on Amazon](https://www.amazon.com/dp/B005A3WM6C)
 
 Pick this one if someone in the house dislikes the flat taste of plain RO water and would otherwise drink from the softened tap. A setup that people do not use removes no sodium.
 
@@ -107,9 +110,10 @@ Pick this one if someone in the house dislikes the flat taste of plain RO water 
 - **What it is:** a 32,000-grain Harmony softener (AS-HS32D) bundled with a 75 GPD RO unit (AS-PR75A) and 3-gallon tank
 - **Sizing:** Aquasure lists it for 1 to 3 bathrooms and up to 4 people
 - **Certification:** the bundle page makes no system certification claim for the RO half
-- **Price:** $679.99 at Aquasure's store on 2 October 2026. [See it on Amazon (B07MC633R1)](https://www.amazon.com/dp/B07MC633R1)
 
-Buying both halves at once saves a second shipment and a second install. It only makes sense if the softener is the right size for your hardness and household. Check that first with [how to size a water softener](/blog/how-to-size-a-water-softener/), because a bundle priced as one box is still two products.
+[Check price on Amazon](https://www.amazon.com/dp/B07MC633R1)
+
+Buying both halves at once saves a second shipment and a second install. It only makes sense if the softener is the right size for your hardness and household. Check that first with [how to size a water softener](/blog/how-to-size-a-water-softener/), because a bundle sold as one box is still two products.
 
 **Watch for:** the RO half's missing certification. If a certified sodium or TDS figure matters to the clinician, choose a listed RO unit and buy the softener separately.
 
@@ -117,7 +121,7 @@ Buying both halves at once saves a second shipment and a second install. It only
 
 Switching the brine tank to potassium chloride makes the softener exchange potassium for hardness instead of sodium. The softened water then carries almost no added sodium at any tap, including bathroom taps, the fridge line and a second kitchen.
 
-The cost is the drawback. A typical household using 480 lb of salt a year needs about 20 percent more potassium chloride to remove the same hardness, about 576 lb. At the Home Depot listing's $43 per 40 lb bag on 2 October 2026, that is about $620 a year, against about $84 for salt at an illustrative $7 a bag. The extra comes to about $535 a year. Bulk pricing narrows the gap a little, and a softer supply or smaller household shrinks it. The full trade-off, including the setting change your valve needs, is in [potassium chloride vs sodium chloride in a softener](/blog/potassium-chloride-vs-sodium-chloride-softener/).
+The cost is the drawback. A typical household using 480 lb of salt a year needs about 20 percent more potassium chloride to remove the same hardness, about 576 lb. A bag of potassium chloride costs several times as much as a bag of salt, so the yearly regenerant bill rises by a large multiple, every year the softener runs. Bulk pricing narrows the gap a little, and a softer supply or smaller household shrinks it. The full trade-off, including the setting change your valve needs, is in [potassium chloride vs sodium chloride in a softener](/blog/potassium-chloride-vs-sodium-chloride-softener/).
 
 There is a medical caution too. Potassium-softened water adds about 47 mg of potassium to a glass at 15 gpg. Most people handle that easily. People with kidney disease or on some blood pressure medicines may be told to limit potassium, and for them this setup swaps one restricted mineral for another. Ask before switching.
 
@@ -133,19 +137,17 @@ It has two weaknesses. The tap delivers hard water, so the kettle and coffee mak
 
 A bypass line also leaves the raw water's own sodium in the glass. On a well near the coast or one affected by road salt, that can be the larger number.
 
-## 10-Year Cost, Side by Side
+## Running Cost, Side by Side
 
-![Bar chart of the 10-year cost of a water softener setup for low-sodium diets: APEC ROES-50 about $681, Home Master TMAFC about $1,130, Waterdrop G3P600 about $1,889, potassium chloride about $5,350 extra](/diagrams/low-sodium-drinking-water-setups-10-year-cost.svg "Treating one tap costs a fraction of treating the whole house's water")
+| Setup | Up front | Yearly |
+|---|---|---|
+| APEC ROES-50 | The RO unit | Filters, the lowest of the RO picks; membrane every 2 to 4 years |
+| Home Master TMAFC | The RO unit | One filter set a year or every 2,000 gallons |
+| Waterdrop G3P600 | The RO unit | Filters, the highest of the RO picks |
+| Potassium chloride | Nothing | About 20 percent more regenerant by weight, at several times the price per bag |
+| Hard bypass line | A plumbing quote | Nothing |
 
-| Setup | Up front | Yearly | 10 years |
-|---|---|---|---|
-| APEC ROES-50 | $231 | about $45 filters | about $681 |
-| Home Master TMAFC | $330 | $79.95 filters | about $1,130 |
-| Waterdrop G3P600 | $439 | about $145 filters | about $1,889 |
-| Potassium chloride | $0 | about $535 more than salt | about $5,350 |
-| Hard bypass line | plumbing quote | $0 | the plumbing quote |
-
-*Illustrative. RO costs leave out the reject water, which on softened feed also carries a small salt cost. Potassium figures assume 480 lb of salt a year at $7 a bag, replaced by 20 percent more potassium chloride at $43 a bag. A lighter-use household spends less on both.*
+*RO costs leave out the reject water, which on softened feed also carries a small salt cost. A lighter-use household spends less on both RO filters and regenerant.*
 
 The pattern holds at almost any usage. Treating the few litres a day that people drink costs far less than changing the regenerant for every gallon the house uses.
 

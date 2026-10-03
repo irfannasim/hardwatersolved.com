@@ -12,7 +12,7 @@ faqs:
   - question: "Do I need a contact tank with a chlorine injection system?"
     answer: "For iron bacteria or coliform, yes. Household piping gives about a minute or less between the well pump and the nearest tap, according to Nebraska Extension, which is too short for chlorine to finish its work. A retention tank adds the time. Dividing the tank's gallons by your peak flow gives the nominal minutes: a 120-gallon tank at 8 gpm gives about 15. For sulfur or iron alone at a higher chlorine dose, a smaller tank can be enough."
   - question: "How much does a chlorine injection system for a well cost?"
-    answer: "Bought as parts, a Stenner adjustable pump costs about $464 to $510, a fiberglass retention tank about $495 to $779 for 40 to 120 gallons from one dealer we checked, and a backwashing carbon tank about $886 and up. That puts the parts at roughly $1,850 to $2,150 before plumbing and an iron filter. AFWFilters' packaged trains with pump, mixing tank, iron filter and carbon ran $3,149 to $3,699 on 2 October 2026."
+    answer: "The price depends on how many of the four parts you need and how big they are. The metering pump, the contact tank (larger for higher peak flow), the iron filter and the carbon tank are each a separate purchase, and plumbing comes on top. Packaged trains, such as AFWFilters', bundle the pump, mixing tank, iron filter and carbon and cost more than the parts alone. Prices change often, so check the current price of each part before budgeting."
   - question: "Will chlorine injection damage my water softener?"
     answer: "It will if the chlorine reaches the resin. Chlorine oxidizes softener resin, and the beads swell and break down over time. That is why a carbon tank sits after the contact tank and before the softener. Test total chlorine at the carbon outlet every month or two. A reading above zero there means the carbon is spent or undersized, and the softener is the next thing to suffer."
   - question: "Can I use household bleach in a chlorine injection pump?"
@@ -29,21 +29,21 @@ The parts matter more than the brand. A pump too small for your chlorine demand,
 
 ## Best Chlorine Injection Systems: Parts at a Glance
 
-| Stage | Pick | What decides it | Approx. price | Amazon |
-|---|---|---|---|---|
-| Metering pump, most wells | Stenner 45MHP10 adjustable | 0.5 to 10 gpd at up to 100 psi | about $464 (Poolweb) | [B00VTTFPRO](https://www.amazon.com/dp/B00VTTFPRO) |
-| Metering pump, low demand | Stenner 45MHP2 adjustable | 0.2 to 3 gpd at up to 100 psi | about $510 (Poolweb) | [B073WKQMSC](https://www.amazon.com/dp/B073WKQMSC) |
-| Contact tank | IPW / Watts 120-gallon fiberglass retention tank | 24 x 78 in, 1¼ in ports, 75 psi max | price unverified; 40 to 120 gal tanks $495 to $779 at one dealer | [B0C4QY29PT](https://www.amazon.com/dp/B0C4QY29PT) |
-| Dechlorination | Catalytic carbon backwashing tank, Fleck 5600SXT, 1.5 cu ft | Removes chlorine and chloramine before the softener | price unverified; the 1.0 cu ft version is $886 at AFWFilters | [B00D0I7WN2](https://www.amazon.com/dp/B00D0I7WN2) |
+| Stage | Pick | What decides it | Amazon |
+|---|---|---|---|
+| Metering pump, most wells | Stenner 45MHP10 adjustable | 0.5 to 10 gpd at up to 100 psi | [Check price on Amazon](https://www.amazon.com/dp/B00VTTFPRO) |
+| Metering pump, low demand | Stenner 45MHP2 adjustable | 0.2 to 3 gpd at up to 100 psi | [Check price on Amazon](https://www.amazon.com/dp/B073WKQMSC) |
+| Contact tank | IPW / Watts 120-gallon fiberglass retention tank | 24 x 78 in, 1¼ in ports, 75 psi max | [Check price on Amazon](https://www.amazon.com/dp/B0C4QY29PT) |
+| Dechlorination | Catalytic carbon backwashing tank, Fleck 5600SXT, 1.5 cu ft | Removes chlorine and chloramine before the softener | [Check price on Amazon](https://www.amazon.com/dp/B00D0I7WN2) |
 
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Every figure comes from the maker's specification sheet, the seller's product page or extension-service guidance, and the sizing examples are worked from those figures.
 >
-> - **Included:** residential components sold on Amazon at a normal price above $100: adjustable peristaltic metering pumps rated for at least 100 psi, pressure-rated retention tanks, and backwashing carbon tanks with an automatic valve.
+> - **Included:** residential components sold on Amazon: adjustable peristaltic metering pumps rated for at least 100 psi, pressure-rated retention tanks, and backwashing carbon tanks with an automatic valve.
 > - **Normalised:** pumps are compared on the strongest dose they can deliver at a given well-pump flow using ordinary bleach, not on their headline gallons per day. Contact tanks are compared on minutes of contact at your peak flow, not on gallons.
 > - **Excluded:** pellet chlorinators that drop tablets into the well (some states require approval, and they do not dose in proportion to flow), suction-feed injectors without a pressure rating, and non-backwashing carbon cartridges, which clog on oxidized iron.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our check. Pump prices are from Poolweb, a Stenner retailer; packaged-train and carbon prices are from AFWFilters' store. Where we found no current price, the table says so.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Whether chlorine is the right treatment at all, and how iron bacteria differ from ordinary iron, is covered in [why iron bacteria require more than a softener](/blog/iron-bacteria-in-well-water/). This page assumes you have the test results and have decided on continuous chlorination.
 
@@ -98,7 +98,8 @@ The table is why the 45MHP10 is the default pick. At light doses it runs at a lo
 - **Pressure:** 100 psi maximum, with an injection check valve included
 - **Tubing:** ¼ in or ⅜ in versions; Poolweb lists the ¼ in standard-tube model as item 45MJH2A1STAA
 - **Certification:** Stenner states that Santoprene-tube models were tested by the Water Quality Association to conform to NSF/ANSI 61, and adjustable models by ETL to NSF/ANSI 50
-- **Price:** about $464 at Poolweb, with 33 in stock on the day we checked. [See it on Amazon (B00VTTFPRO)](https://www.amazon.com/dp/B00VTTFPRO)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00VTTFPRO)
 
 The peristaltic design suits a home well. Stenner's sheet says it self-primes against full working pressure, does not vapour-lock on gassy chlorine solution, and its output "is not affected by back pressure." The pump tube is the wear part, and a spare comes in the box.
 
@@ -108,9 +109,11 @@ The peristaltic design suits a home well. Stenner's sheet says it self-primes ag
 
 - **Output:** 0.2 to 3 gallons per day; the Amazon listing names it 45MJH1A3S
 - **Pressure:** 100 psi maximum
-- **Price:** about $510 at Poolweb for the ⅜ in standard-tube version (item 45MJH1A3STAA), with a 5 to 7 day lead time. [See it on Amazon (B073WKQMSC)](https://www.amazon.com/dp/B073WKQMSC)
+- **Tubing:** Poolweb lists the ⅜ in standard-tube version as item 45MJH1A3STAA
 
-Choose it for clear water that needs disinfection only, where the dose is small and a 10 gpd pump would sit near the bottom of its dial. It costs a little more than the 45MHP10 at Poolweb, so check that the lower output is what you actually need.
+[Check price on Amazon](https://www.amazon.com/dp/B073WKQMSC)
+
+Choose it for clear water that needs disinfection only, where the dose is small and a 10 gpd pump would sit near the bottom of its dial. It is not cheaper than the 45MHP10, so check that the lower output is what you actually need.
 
 **Watch for:** sulfur. As the table shows, it cannot reach a heavy sulfide dose with household bleach.
 
@@ -139,7 +142,8 @@ Two things follow. First, for bacteria the 120-gallon tank is the smallest that 
 - **Size:** 120 gallons, 24 in diameter by 78 in tall; Watts' code C52-C2252
 - **Connections:** 1¼ in male NPT inlet and outlet on top, and a 1 in blow-down drain at the lowest point
 - **Ratings:** 75 psi and 120°F maximum, with a one-piece polyethylene liner; lead-free certified
-- **Price:** we found no current retail price for this model. A treatment dealer lists 40, 80 and 120 gallon retention tanks at $495 to $779. [See it on Amazon (B0C4QY29PT)](https://www.amazon.com/dp/B0C4QY29PT)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0C4QY29PT)
 
 The [Watts product page](https://www.watts.com/products/water-quality-rainwater-harvesting-solutions/water-quality-parts-accessories/tanks/c52/c52-c2252) states that "an appropriate vacuum/pressure relief valve must be incorporated in the plumbing." Budget for it.
 
@@ -158,8 +162,9 @@ After the contact tank, the water carries oxidized particles and leftover chlori
 ### Catalytic carbon backwashing tank, Fleck 5600SXT, 1.5 cu ft
 
 - **What it is:** 1.5 cubic feet of catalytic carbon on a Fleck 5600SXT metered valve; the listing says it removes chlorine, chloramines and hydrogen sulfide odour
-- **Smaller sibling:** AFWFilters' store sells a 1.0 cubic foot catalytic carbon system on a 9 x 48 in tank for $886, rated for up to 10 ppm of iron and 10 ppm of hydrogen sulfide, needing at least 3.5 gpm to backwash
-- **Price:** we could not confirm a current price for the 1.5 cu ft listing. [See it on Amazon (B00D0I7WN2)](https://www.amazon.com/dp/B00D0I7WN2)
+- **Smaller sibling:** AFWFilters' store sells a 1.0 cubic foot catalytic carbon system on a 9 x 48 in tank, rated for up to 10 ppm of iron and 10 ppm of hydrogen sulfide, needing at least 3.5 gpm to backwash
+
+[Check price on Amazon](https://www.amazon.com/dp/B00D0I7WN2)
 
 Choose the larger bed if you run a high residual or a high peak flow. More carbon means more contact time for dechlorination.
 
@@ -175,15 +180,15 @@ Choose the larger bed if you run a high residual or a high peak flow. More carbo
 
 ## Packaged Trains vs Building Your Own
 
-| Route | What you get | Approx. price |
-|---|---|---|
-| Parts on this page | Stenner pump, 120 gal retention tank, catalytic carbon tank | roughly $1,850 to $2,150 before an iron filter, plumbing and solution tank |
-| AFWFilters packaged train, 9 gpm | Chlorine pump, mixing tank, Filox iron filter, upflow carbon | $3,149 on sale (AFWFilters store) |
-| Same, with Platinum 10 air injection filter | As above, with an air injection iron filter | $3,439 on sale |
-| Same, 2 cu ft, 12.5 gpm | Larger iron and carbon tanks | $3,699 on sale |
-| Same, with 48k softener | Adds a 2510SXT softener after the carbon | $4,559 on sale |
+| Route | What you get |
+|---|---|
+| Parts on this page | Stenner pump, 120 gal retention tank, catalytic carbon tank; an iron filter, plumbing and solution tank come on top |
+| AFWFilters packaged train, 9 gpm | Chlorine pump, mixing tank, Filox iron filter, upflow carbon |
+| Same, with Platinum 10 air injection filter | As above, with an air injection iron filter |
+| Same, 2 cu ft, 12.5 gpm | Larger iron and carbon tanks |
+| Same, with 48k softener | Adds a 2510SXT softener after the carbon |
 
-*AFWFilters prices from its store on 2 October 2026. We did not confirm these packages are sold on Amazon. AFWFilters' product pages do not state the pump model or mixing tank volume, so ask before buying and compare the tank against the contact-time table above.*
+*AFWFilters packages as listed on its store. We did not confirm these packages are sold on Amazon. AFWFilters' product pages do not state the pump model or mixing tank volume, so ask before buying and compare the tank against the contact-time table above.*
 
 A package saves you matching fittings and port sizes. Building from parts lets you pick the contact tank for your flow, which a package fixes for you. Note that AFWFilters' packages use **upflow** carbon. An upflow bed is never backwashed, so the iron filter ahead of it must catch every oxidized particle.
 

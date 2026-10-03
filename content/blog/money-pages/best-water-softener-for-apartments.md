@@ -29,13 +29,13 @@ The **best water softener for apartments** is the one that clears three renter b
 
 Most "best softener" lists rank on grain capacity. In an apartment, capacity is rarely the problem. A one- or two-bedroom unit uses little water, and almost any softener has enough capacity for it. What stops the install is space, drainage and the lease. So every pick here is scored against those three first.
 
-| Pick | Footprint (W x D x H) | Drain needed | Outlet needed | Removable without damage | Approx. price |
+| Pick | Footprint (W x D x H) | Drain needed | Outlet needed | Removable without damage | Amazon |
 |---|---|---|---|---|---|
-| Aquasure Harmony Lite 34k ([B0DMTX9L8C](https://www.amazon.com/dp/B0DMTX9L8C)) | 10.5 x 18.5 x 43 in, about 1.3 sq ft | Yes, every regeneration | Yes | Fair: cut into the supply line; reversible with a bypass and unions, but fittings stay | about $490–$570 |
-| EcoPure EP31 ([B01N5S983U](https://www.amazon.com/dp/B01N5S983U)) | 15.5 x 19.75 x 47.75 in, about 2.1 sq ft | Yes, every regeneration | Yes | Fair: 1-inch NPT connections into the supply line | about $575–$620 |
-| On The Go double portable ([B00KVPNVJ6](https://www.amazon.com/dp/B00KVPNVJ6)) | 9.5 in round x 22 in, about 0.5 sq ft | No; flush it in a tub or outdoors when regenerating | No | Good: hose threads, removed by hand | about $192 on sale, $260 regular |
+| Aquasure Harmony Lite 34k | 10.5 x 18.5 x 43 in, about 1.3 sq ft | Yes, every regeneration | Yes | Fair: cut into the supply line; reversible with a bypass and unions, but fittings stay | [Check price on Amazon](https://www.amazon.com/dp/B0DMTX9L8C) |
+| EcoPure EP31 | 15.5 x 19.75 x 47.75 in, about 2.1 sq ft | Yes, every regeneration | Yes | Fair: 1-inch NPT connections into the supply line | [Check price on Amazon](https://www.amazon.com/dp/B01N5S983U) |
+| On The Go double portable | 9.5 in round x 22 in, about 0.5 sq ft | No; flush it in a tub or outdoors when regenerating | No | Good: hose threads, removed by hand | [Check price on Amazon](https://www.amazon.com/dp/B00KVPNVJ6) |
 
-*Footprints from the makers' product pages and retailer listings. Price ranges are for the standard and fine-mesh Harmony Lite, and for the EP31 at US hardware retailers.*
+*Footprints from the makers' product pages and retailer listings.*
 
 Read the table left to right. If you cannot pass a column, the picks to its left do not matter. A drain or outlet problem has workarounds, which our guide to a [softener with no drain or outlet](/blog/water-softener-with-no-drain-or-outlet/) ranks by cost. A lease that forbids the work has no workaround except the portable.
 
@@ -43,10 +43,10 @@ Read the table left to right. If you cannot pass a column, the picks to its left
 
 > **Methodology.** Nothing on this page was physically tested. Picks were chosen from manufacturer product pages, owner's manuals and retailer specifications.
 >
-> - **Included:** softeners sold on Amazon at a normal price above $100 that either fit a closet-sized footprint (under about 16 inches wide) or need no plumbing changes at all.
+> - **Included:** softeners sold on Amazon that either fit a closet-sized footprint (under about 16 inches wide) or need no plumbing changes at all.
 > - **Scored on:** footprint, whether a drain and outlet are needed, and whether the unit can be removed without damage. Capacity and iron rating were checked second.
-> - **Excluded:** two-tank softeners with a separate brine tank (too much floor space for most units), twin-tank systems, and the Whirlpool WHES18 and Tier1 cabinet listings, whose current price and stock we could not confirm.
-> - **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not load for our check. Prices come from Aquasure's store, the On The Go maker's store and US hardware retailers.
+> - **Excluded:** two-tank softeners with a separate brine tank (too much floor space for most units), twin-tank systems, and the Whirlpool WHES18 and Tier1 cabinet listings, whose current listings we could not confirm.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Best Water Softener for Apartments With Permission and a Drain
 
@@ -55,7 +55,9 @@ Read the table left to right. If you cannot pass a column, the picks to its left
 - **Size:** 10.5 inches wide, 18.5 inches deep, 43 inches tall, per the dimensions on [Aquasure's product page](https://aquasureusa.com/collections/harmony/products/aquasure-harmony-lite-all-in-one-cabinet-style-water-softener)
 - **Type:** all-in-one cabinet, with the resin tank inside the salt bin and a digital metered control head
 - **Sized for:** 1–3 bathrooms and up to 4 people, city or well water, per Aquasure
-- **Versions:** standard resin (AS-HL34A) about $490, fine-mesh resin (AS-HL34FM) about $570 at Aquasure's store. The Amazon listing pairs the fine-mesh model with a sediment pre-filter, so its price may differ
+- **Versions:** standard resin (AS-HL34A) and fine-mesh resin (AS-HL34FM) at Aquasure's store. The Amazon listing pairs the fine-mesh model with a sediment pre-filter, so check which version you are ordering
+
+[Check price on Amazon](https://www.amazon.com/dp/B0DMTX9L8C)
 
 At 10.5 inches wide, the Harmony Lite fits beside a water heater, in a laundry closet or at the end of a utility shelf where a standard two-tank softener would never go. The fine-mesh version is the one to pick if your building is on a well or the water shows any iron staining.
 
@@ -67,7 +69,8 @@ At 10.5 inches wide, the Harmony Lite fits beside a water heater, in a laundry c
 - **Capacity:** 31,000 grains, for households of 1–4 people
 - **Water limits:** listed for up to 110 gpg hardness and 8 ppm of clear-water (ferrous) iron
 - **Connections:** 1-inch NPT
-- **Price:** about $575 to $620 at US hardware retailers. [See it on Amazon (B01N5S983U)](https://www.amazon.com/dp/B01N5S983U)
+
+[Check price on Amazon](https://www.amazon.com/dp/B01N5S983U)
 
 The EP31 is a single cabinet that learns the household's water use and regenerates ahead of need. It is about 5 inches wider than the Harmony Lite and nearly 5 inches taller, so measure the closet including the lid opening. It is the better of the two if the unit's water carries noticeable clear-water iron.
 
@@ -81,7 +84,8 @@ The EP31 is a single cabinet that learns the household's water use and regenerat
 - **Capacity:** 16,000 grains in 0.52 cu ft of resin; 3 gpm flow
 - **Gallons per regeneration (maker's figures):** 2,285 at 7 gpg, 1,454 at 11 gpg, 1,066 at 15 gpg, 640 at 25 gpg
 - **Regeneration:** two boxes of table salt, under 30 minutes, no electricity
-- **Price:** about $192 on sale, $260 regular at the maker. [See it on Amazon (B00KVPNVJ6)](https://www.amazon.com/dp/B00KVPNVJ6)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00KVPNVJ6)
 
 This is built for RVs, but its garden-hose threads are what make it useful in a rental. A washing machine's supply valves use the same hose thread, so the softener can sit between the cold valve and the washer's cold inlet hose. Nothing is cut or glued, and it leaves with you.
 

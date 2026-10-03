@@ -12,16 +12,16 @@ faqs:
   - question: "How much does a Kinetico water softener cost?"
     answer: "Kinetico publishes no prices; each dealer quotes its own, usually installed. Owner-reported quotes from 2024 and 2025 run from $2,895 for a refurbished Signature 735 to $5,985 for a 2060s softener, with most new Premier units around $4,600 to $6,000. Bundles that add a prefilter, whole-house filter or K5 reverse osmosis have been reported from about $6,100 to $10,400."
   - question: "Does a Kinetico water softener pay for itself?"
-    answer: "Not on salt and water savings alone, in our model. Against an online Fleck 9100SXT twin-tank installed for about $1,890 and left on a heavy salt setting, a Kinetico 2030s saves about $0.22, $19 and $43 a year at 7, 15 and 25 gpg once a service allowance is counted. A $4,000 quote would take about 49 years to repay at 25 gpg. Against a Fleck programmed efficiently, it never pays back."
+    answer: "Not on salt and water savings alone, in our model. Against an online Fleck 9100SXT twin-tank, installed and left on a heavy salt setting, a Kinetico 2030s saves about $0.22, $19 and $43 a year at 7, 15 and 25 gpg once a service allowance is counted. A Kinetico quoted $2,000 above the installed online twin would take about 47 years to repay at 25 gpg. Against a Fleck programmed efficiently, it never pays back."
   - question: "What is included in a Kinetico quote?"
     answer: "Normally the softener, its brine tank, installation by the dealer and the warranty: 10 years on the Premier XP series and 5 years on the Signature Series, per Kinetico. Many quotes also include a prefilter, and some bundle drinking water or whole-house filtration. Ask for each item, the exact model number and the cash price on one page."
   - question: "Why is Kinetico so expensive?"
     answer: "You are paying for a non-electric, twin-tank design with proprietary valves, a long warranty and a dealer who installs and services it. The engineering is genuinely good: no circuit board, soft water during regeneration and efficient small regenerations. But the price is set by the dealer sales model rather than by what the hardware costs to make, which is why owner quotes for similar models differ by thousands."
   - question: "Is there a cheaper alternative to Kinetico?"
-    answer: "The closest online equivalent is a metered Fleck 9100SXT twin-tank softener, which also supplies soft water during regeneration. AFWFilters sold the 48,000-grain version with 1.5 cubic feet per tank for $1,387 on 2 October 2026. It needs electricity and you arrange installation yourself, and nothing online matches Kinetico's no-power design."
+    answer: "The closest online equivalent is a metered Fleck 9100SXT twin-tank softener, which also supplies soft water during regeneration. AFWFilters sells the 48,000-grain version with 1.5 cubic feet per tank. It needs electricity and you arrange installation yourself, and nothing online matches Kinetico's no-power design."
 ---
 
-**Kinetico water softener cost** sits at the top of the market: owner-reported quotes run from **about $2,900 for a refurbished Signature unit to about $6,000 for a new Premier softener**, and packages with filtration or reverse osmosis have gone past $10,000. Kinetico's efficiency savings are real but small. Against an online Fleck 9100SXT twin-tank installed for about $1,890, a Kinetico 2030s repays its premium within 15 years only if it is quoted at no more than **about $1,893 at 7 gpg, $2,177 at 15 gpg or $2,532 at 25 gpg**. Every reported quote is above that, so anyone paying the premium is paying for the design and the dealer, not for a return.
+**Kinetico water softener cost** sits at the top of the market: owner-reported quotes run from **about $2,900 for a refurbished Signature unit to about $6,000 for a new Premier softener**, and packages with filtration or reverse osmosis have gone past $10,000. Kinetico's efficiency savings are real but small. Against an installed online Fleck 9100SXT twin-tank, a Kinetico 2030s repays its premium within 15 years only if it is quoted at no more than **about $3 above the online twin at 7 gpg, $287 above at 15 gpg or $642 above at 25 gpg**. Every reported quote was well above that when we checked, so anyone paying the premium is paying for the design and the dealer, not for a return.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
@@ -43,7 +43,7 @@ Kinetico sells only through its dealers and does not publish prices. These are q
 
 Two patterns stand out. First, quotes for the same model differ by more than $1,000, and three owners reported first quotes cut by about $700 to $2,300 after discounts or pushing back. Second, the packages with filtration and RO cost far more than the softener alone, so a "Kinetico price" from a friend means little unless you know what was in it.
 
-> **How this page was put together.** Nothing was physically tested. Prices are owner-reported quotes, each dated; Kinetico publishes none. Hardware figures come from Kinetico's [softener lineup page](https://www.kinetico.com/water-softeners/) and the [Kinetico 2030s data sheet](https://watercenterplaza.com/wp-content/uploads/2019/12/Datasheet_Kinetico_2030s.pdf) as hosted by a Kinetico dealer. The payback model uses those figures and the assumptions listed below, so you can rerun it with your own quote. Kinetico is not sold on Amazon; the comparison twin-tank price is from the AFWFilters store. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **How this page was put together.** Nothing was physically tested. Prices are owner-reported quotes, each dated; Kinetico publishes none. Hardware figures come from Kinetico's [softener lineup page](https://www.kinetico.com/water-softeners/) and the [Kinetico 2030s data sheet](https://watercenterplaza.com/wp-content/uploads/2019/12/Datasheet_Kinetico_2030s.pdf) as hosted by a Kinetico dealer. The payback model uses those figures and the assumptions listed below, so you can rerun it with your own quote. Kinetico is not sold on Amazon. **Prices are not listed here** for the online alternative because they change often. Use the button to see the current price on Amazon.
 
 ## What a Kinetico Quote Includes
 
@@ -72,9 +72,9 @@ The step from Signature to Premier XP often costs $1,500 or more. Part of that b
 
 ## The Premium Being Paid
 
-The fair comparison for a Kinetico is the nearest thing you can buy without a dealer: a metered twin-tank softener that also supplies soft water during regeneration. The AFWFilters Fleck 9100SXT with 1.5 cubic feet of resin per tank was $1,387 on AFWFilters' store on 2 October 2026. Add about $500 for a plumber and it is about $1,890 installed.
+The fair comparison for a Kinetico is the nearest thing you can buy without a dealer: a metered twin-tank softener that also supplies soft water during regeneration. The AFWFilters Fleck 9100SXT with 1.5 cubic feet of resin per tank is the closest match. Check its current price and add about $500 for a plumber to get its installed cost.
 
-So the premium is the quote minus $1,890. At the $2,895 refurbished Signature it is about $1,000. At a typical new Premier quote of $4,000 to $6,000, it is about $2,100 to $4,100. The question is how much of that comes back.
+So the premium is the quote minus that installed cost. On the owner-reported quotes above, it ran from roughly a thousand dollars for the refurbished Signature to several thousand for a new Premier when we checked. The question is how much of that comes back.
 
 ## Kinetico Water Softener Cost Payback at Three Hardness Levels
 
@@ -92,15 +92,15 @@ Kinetico's 2030s data sheet publishes capacity at each salt setting, which makes
 
 *Salt, regeneration water and electricity only. The service allowances add about $40 a year for the Kinetico and $17 for the Fleck.*
 
-![Bar chart of the highest Kinetico water softener cost that pays back within 15 years against a $1,890 Fleck twin tank: $1,893 at 7 gpg, $2,177 at 15 gpg, $2,532 at 25 gpg, below owner quotes of $2,895 to $5,985](/diagrams/kinetico-premium-payback-highest-quote-by-hardness.svg "Even at 25 gpg, 15 years of savings repay only about $642 of premium")
+![Bar chart of the largest Kinetico premium over an installed Fleck twin tank that 15 years of savings repays: about $3 at 7 gpg, $287 at 15 gpg and $642 at 25 gpg, below the premium on even the lowest owner-reported quote](/diagrams/kinetico-premium-payback-highest-quote-by-hardness.svg "Even at 25 gpg, 15 years of savings repay only about $642 of premium")
 
 Turned into payback periods:
 
-| Kinetico quote | Premium over Fleck | Years to repay at 7 gpg | At 15 gpg | At 25 gpg |
-|---|---|---|---|---|
-| $3,000 | $1,110 | thousands | about 58 | about 26 |
-| $4,000 | $2,110 | thousands | about 110 | about 49 |
-| $5,000 | $3,110 | thousands | about 162 | about 73 |
+| Kinetico premium over the installed Fleck | Years to repay at 7 gpg | At 15 gpg | At 25 gpg |
+|---|---|---|---|
+| $1,000 | thousands | about 52 | about 23 |
+| $2,000 | thousands | about 104 | about 47 |
+| $3,000 | thousands | about 156 | about 70 |
 
 Against an efficiently programmed Fleck, the Kinetico never pays back at all, because the Fleck is cheaper to run as well as to buy. Kinetico's many small regenerations are efficient with salt but use more water in total: about 4,860 gallons a year at 15 gpg against about 2,350 for the efficient Fleck.
 
@@ -112,7 +112,7 @@ The model is only as good as its assumptions. These are the ones that move it mo
 
 - **Kinetico's most efficient setting.** At 1.8 lb per regeneration the 2030s reaches 4,371 grains per pound. That trims its running cost by only about $3 a year at 15 gpg, because it regenerates more often and uses more water.
 - **Your water and sewer rate.** At $0.02 a gallon instead of $0.01, the Kinetico's extra regeneration water wipes out its saving even against the heavy-setting Fleck at 15 gpg.
-- **Paying for service on the online unit.** If a Fleck owner pays a plumber $150 a year for an annual visit while the Kinetico's dealer allowance stays at $40 a year, the Kinetico saves about $152 a year at 15 gpg against the heavy Fleck. A $4,000 quote then repays in about 14 years. This is the one assumption that brings payback inside the softener's life, and it rests on the online owner paying for help every year.
+- **Paying for service on the online unit.** If a Fleck owner pays a plumber $150 a year for an annual visit while the Kinetico's dealer allowance stays at $40 a year, the Kinetico saves about $152 a year at 15 gpg against the heavy Fleck. A $2,000 premium then repays in about 13 years. This is the one assumption that brings payback inside the softener's life, and it rests on the online owner paying for help every year.
 - **Household size.** A larger family raises every line in proportion. The Kinetico's advantage over a heavy-setting Fleck grows, but so does its water use, and the gap against an efficient Fleck widens.
 
 The general rule from the model: Kinetico's premium is repaid only by a competitor that is badly programmed or expensively serviced. How much a well-set softener saves is covered in [optimizing a softener for salt and water efficiency](/blog/optimize-softener-for-salt-and-water-efficiency/), and the full cost of owning any softener over a decade is in the [total cost of owning a water softener](/blog/total-cost-of-owning-a-water-softener/).
@@ -152,9 +152,9 @@ Those are reasonable things to pay for. They are just not an investment, and the
 
 Kinetico softeners are not sold on Amazon; only some replacement filters and seal kits are. The nearest equivalent you can buy online is:
 
-| Alternative | How it compares | Price, 2 Oct 2026 |
+| Alternative | How it compares | Amazon |
 |---|---|---|
-| [AFWFilters Fleck 9100SXT twin tank, 48k](https://www.amazon.com/dp/B000GE8T6M) | Metered twin tank with soft water during regeneration, standard Fleck parts. Electric, and you arrange installation | $1,387 at AFWFilters (1.5 cu ft per tank) |
+| AFWFilters Fleck 9100SXT twin tank, 48k | Metered twin tank with soft water during regeneration, 1.5 cu ft of resin per tank, standard Fleck parts. Electric, and you arrange installation | [Check price on Amazon](https://www.amazon.com/dp/B000GE8T6M) |
 
 It matches Kinetico's twin-tank continuity and demand metering, not its no-power design. Program it near 6 lb of salt per cubic foot, or the payback comparison above swings back toward the Kinetico.
 

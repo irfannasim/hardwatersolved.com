@@ -27,20 +27,20 @@ The **best water softener for very hard water** is a large-capacity, metered uni
 
 ## The Three Picks at a Glance
 
-| Pick | Best for | Resin | Approx. price | Amazon |
-|---|---|---|---|---|
-| AFWFilters Iron Pro 2 80k (Fleck 5600SXT) | Wells with some iron, households of four, 20–30 gpg | 2.5 cu ft fine mesh, 10% crosslink | about $1,100 | [B075ZH2TDR](https://www.amazon.com/dp/B075ZH2TDR) |
-| AFWFilters Fleck 9100SXT twin 96k | Over 30 gpg, or five or more people | 3 cu ft per tank, two tanks | about $2,770–$2,960 | [B00A6GSI0M](https://www.amazon.com/dp/B00A6GSI0M) |
-| SoftPro Elite 64k (upflow) | Three or four people on chlorinated city water, 20–30 gpg | 64,000-grain size, 10% crosslink | about $1,370 | [B07KY521BT](https://www.amazon.com/dp/B07KY521BT) |
+| Pick | Best for | Resin | Amazon |
+|---|---|---|---|
+| AFWFilters Iron Pro 2 80k (Fleck 5600SXT) | Wells with some iron, households of four, 20–30 gpg | 2.5 cu ft fine mesh, 10% crosslink | [Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR) |
+| AFWFilters Fleck 9100SXT twin 96k | Over 30 gpg, or five or more people | 3 cu ft per tank, two tanks | [Check price on Amazon](https://www.amazon.com/dp/B00A6GSI0M) |
+| SoftPro Elite 64k (upflow) | Three or four people on chlorinated city water, 20–30 gpg | 64,000-grain size, 10% crosslink | [Check price on Amazon](https://www.amazon.com/dp/B07KY521BT) |
 
 ## How We Chose These Very Hard Water Softeners
 
 > **Methodology.** Nothing here was physically tested. We ranked on published specifications, manufacturer product pages and warranty statements, and on cost arithmetic anyone can repeat.
 >
-> - **Included:** salt-based ion-exchange softeners with a metered (demand-initiated) valve and at least 2 cubic feet of resin, or a twin-tank design. Each had to be listed on Amazon and normally priced above $100.
+> - **Included:** salt-based ion-exchange softeners with a metered (demand-initiated) valve and at least 2 cubic feet of resin, or a twin-tank design. Each had to be listed on Amazon.
 > - **Capacity normalised:** every unit is compared at the same salt dose, 9 lb per cubic foot. At that dose, standard resin yields about 26,000 grains per cubic foot, not the 32,000 on the box. See [advertised vs usable softener capacity](/blog/advertised-vs-usable-softener-capacity/).
-> - **Excluded:** salt-free conditioners (they leave the hardness in the water, see below), cabinet units under 2 cubic feet, timer-only valves, and the Fleck 7000SXT 80k listing, whose price and stock we could not confirm from any seller.
-> - **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not load for our price check, so prices come from the AFWFilters and SoftPro stores.
+> - **Excluded:** salt-free conditioners (they leave the hardness in the water, see below), cabinet units under 2 cubic feet, timer-only valves, and the Fleck 7000SXT 80k listing, whose stock we could not confirm from any seller.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 The selection rule is a single question: will the bed last at least three days between regenerations at 40 gpg for a family of four, without running at the maximum salt dose? Most 48,000-grain units fail it. All three picks pass.
 
@@ -89,7 +89,8 @@ That is the real argument for size at extreme hardness. In the usual sizing deba
 - **Flow:** 11 gpm service, 16 gpm peak; needs 4.5 gpm to backwash
 - **Iron:** rated for up to 6 ppm of ferrous (clear-water) iron
 - **Warranty:** 5 years on the control head, 10 years on the mineral tank, per the [AFWFilters product page](https://store.afwfilters.com/water-softeners/80-000-grain/iron-pro-2-5-cubic-foot-80k-on-demand-whole-home-water-softener-with-fine-mesh-resin/)
-- **Price:** about $1,100 on sale at the AFWFilters store (list about $1,380). [See it on Amazon (B075ZH2TDR)](https://www.amazon.com/dp/B075ZH2TDR)
+
+[Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR)
 
 This is the pick for a household of four on 20 to 30 gpg, especially on a private well. Hard wells often carry a little dissolved iron as well, and fine-mesh resin holds up better to it than standard beads. The [standard vs fine-mesh resin](/blog/standard-vs-fine-mesh-resin/) guide explains the trade. The 10% crosslink beads also tolerate chlorinated city water, so it is not a well-only unit. In the model above it stays above four days even at 40 gpg.
 
@@ -101,19 +102,22 @@ This is the pick for a household of four on 20 to 30 gpg, especially on a privat
 - **Resin:** 3 cu ft per tank, two tanks of about 14 x 65 inches. The store rates the system at 96,000 grains, which matches one 3 cu ft tank at the 32,000-per-cubic-foot convention
 - **Flow:** 15 gpm service, 22 gpm peak; 5.4 gpm backwash
 - **Operation:** one tank serves while the other regenerates, so the house gets soft water around the clock
-- **Price:** about $2,770 to $2,960 at the AFWFilters store, depending on the resin (10% crosslink, high-capacity or Purolite C100E). A fine-mesh Iron Pro version is also listed. [See it on Amazon (B00A6GSI0M)](https://www.amazon.com/dp/B00A6GSI0M)
+- **Resin options:** the AFWFilters store offers 10% crosslink, high-capacity or Purolite C100E resin. A fine-mesh Iron Pro version is also listed
+
+[Check price on Amazon](https://www.amazon.com/dp/B00A6GSI0M)
 
 At 30 to 40 gpg a single tank regenerates so often that the reserve becomes a real cost. A twin removes it. Each tank runs until it is exhausted and then hands over, so all of its capacity is used. That is why the twin wins on salt at every hardness level in the table, despite its larger tanks.
 
-**Watch for:** price and space. It costs about two and a half times the Iron Pro 2 80k and needs two tall tanks plus a brine tank. We could not find a current warranty statement for this system on the store page, so ask the seller before you buy. Below 30 gpg with four or fewer people, a single 80k tank is the better buy.
+**Watch for:** price and space. It costs far more than the Iron Pro 2 80k and needs two tall tanks plus a brine tank. We could not find a current warranty statement for this system on the store page, so ask the seller before you buy. Below 30 gpg with four or fewer people, a single 80k tank is the better buy.
 
 ### SoftPro Elite 64k: best for three or four people on city water
 
 - **Valve:** SoftPro's upflow-regenerating control valve, demand-initiated
 - **Resin:** 10% crosslink, chosen for chlorine resistance
-- **Price:** about $1,370 at the SoftPro store, which charges the same for every size from 32,000 to 64,000 grains. [See it on Amazon (B07KY521BT)](https://www.amazon.com/dp/B07KY521BT)
 - **Warranty and return:** [SoftPro's product page](https://www.softprowatersystems.com/products/softpro-elite-water-softener) describes a limited lifetime warranty on the control valve and a satisfaction-return period. Read the exclusions before relying on it
 - **Certification:** SoftPro's page says the system is NSF, WQA and ANSI certified. We could not match this exact model on a public listing, so confirm it with the seller if certification matters to you
+
+[Check price on Amazon](https://www.amazon.com/dp/B07KY521BT)
 
 This pick suits a smaller household at the lower end of very hard. Upflow brining sends brine up through the bed from the bottom, which tends to restore more capacity per pound of salt (see [upflow vs downflow regeneration](/blog/upflow-vs-downflow-regeneration/)). Our table does not credit it with that, because SoftPro publishes a salt-saving claim, not a capacity-at-dose figure we could check. If the claim holds, its real numbers will beat the table.
 

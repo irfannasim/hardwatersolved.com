@@ -18,14 +18,14 @@ faqs:
   - question: "What is the pressure drop of a Fleck 7000SXT?"
     answer: "For the valve alone with the standard piston, Pentair rates 28 gpm at a 15 psi drop and 36 gpm at 25 psi, with a Cv of 7.1. That works out to about 2 psi at 10 gpm and about 4 psi at 15 gpm. The 5600SXT loses roughly twice as much at the same flow: about 4 psi at 10 gpm and about 8 psi at 15 gpm. A complete softener adds the loss through the resin bed, distributor and bypass on top."
   - question: "Is the Fleck 7000SXT available on Amazon?"
-    answer: "Not on 2 October 2026. The 48,000-grain (10 x 54 inch), 64,000-grain (12 x 52 inch) and 80,000-grain (1.25 inch, 2.5 cubic foot) 7000SXT system listings we checked all showed as currently unavailable, and we could not find a current price for a complete 7000SXT system from another seller that day. 5600SXT systems from AFWFilters and DuraWater were listed and active."
+    answer: "Not on 2 October 2026. The 48,000-grain (10 x 54 inch), 64,000-grain (12 x 52 inch) and 80,000-grain (1.25 inch, 2.5 cubic foot) 7000SXT system listings we checked all showed as currently unavailable, and we could not find a current offer for a complete 7000SXT system from another seller that day. 5600SXT systems from AFWFilters and DuraWater were listed and active."
 ---
 
 **In the Fleck 5600SXT vs 7000SXT choice, the 7000SXT only earns its place in a house whose busiest moment runs past about 12 to 15 gpm, roughly five or six fixtures at once.** Pentair rates the 3/4 inch 5600SXT at 20 gpm and the 1-1/4 inch 7000SXT at 28 gpm, both at a 15 psi drop, so the bigger valve loses about half the pressure at any flow. But the 5600SXT is rated only for softener tanks up to 12 inches, and its meter's stated accuracy ends at 15 gpm. That, not the valve body, is where it becomes the bottleneck. Below that, a 7000SXT on the same tank buys nothing you will feel. And on 2 October 2026, no complete 7000SXT system was for sale on Amazon.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this comparison was put together.** Nothing here was physically tested. Valve figures come from Pentair's [Fleck 7000 specification sheet](https://www.pentair.com/content/dam/extranet/web/nam/fleck/data-sheets/english/42802-fleck-7000-spec-sheet.pdf), its [Fleck 5600SXT specification sheet](https://goodwaterwarehouse.com/manuals-specs-brochures/5600sxt-spec-sheet-42749.pdf) and the [Fleck 7000SXT service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42775-fleck-7000sxt-manual.pdf). Pressure-drop curves are calculated from Pentair's rated points and marked illustrative. Resin-bed flow limits use the published design guideline of 15 gpm per square foot of bed at peak. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages showed availability but not US prices to our check, so prices are from the seller's own store.
+> **How this comparison was put together.** Nothing here was physically tested. Valve figures come from Pentair's [Fleck 7000 specification sheet](https://www.pentair.com/content/dam/extranet/web/nam/fleck/data-sheets/english/42802-fleck-7000-spec-sheet.pdf), its [Fleck 5600SXT specification sheet](https://goodwaterwarehouse.com/manuals-specs-brochures/5600sxt-spec-sheet-42749.pdf) and the [Fleck 7000SXT service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42775-fleck-7000sxt-manual.pdf). Pressure-drop curves are calculated from Pentair's rated points and marked illustrative. Resin-bed flow limits use the published design guideline of 15 gpm per square foot of bed at peak. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Fleck 5600SXT vs 7000SXT: The Spec Sheets Side by Side
 
@@ -122,19 +122,15 @@ The opposite mistake is just as common: a large house on a 5600SXT with a 64,000
 
 ## What the Bigger Valve Costs Extra
 
-This is where the comparison is hardest to price on 2 October 2026, because no complete 7000SXT system had an active offer on Amazon and we found no current price from another seller.
+This is where the comparison is hardest to price. Prices are not listed here because they change often, and on 2 October 2026 no complete 7000SXT system had an active offer on Amazon and we found no current offer from another seller. What can be compared is what each valve needs around it:
 
 | Item | 5600SXT | 7000SXT |
 |---|---|---|
-| 48,000-grain system, 10 x 54 in | About $775 (AFWFilters) | Amazon listing unavailable; no current price |
-| 64,000-grain system, 12 in tank | About $879 (AFWFilters) | Amazon listing unavailable; no current price |
-| Metered softener head alone | About $349 (AFWFilters) | Not priced on the day |
-| Brine piston | About $22 (60032) | About $49 (60016-01) |
-| Seal and spacer kit | About $49 (60125) | Kit 61438; not priced on the day |
+| Complete system on Amazon, 2 Oct 2026 | 48,000 and 64,000-grain listings active | Listings unavailable |
+| Brine piston | Part 60032 | Part 60016-01, the dearer part |
+| Seal and spacer kit | Kit 60125 | Kit 61438 |
 | Plumbing | Usually 3/4 or 1 in | 1-1/4 in fittings and bypass to use the flow |
 | Drain line | 1/2 in | 3/4 or 1 in |
-
-*AFWFilters store prices, 2 October 2026.*
 
 The hidden costs are around the valve, not in it:
 
@@ -142,19 +138,19 @@ The hidden costs are around the valve, not in it:
 - **A wider tank backwashes at a higher rate.** The drain line flow control is sized to the tank diameter, so each backwash sends more water to drain, and the drain itself must take it.
 - **The plumbing must be sized to match.** A 1-1/4 inch valve on a 3/4 inch loop throws most of its advantage away. The [low water pressure after a water softener](/blog/low-water-pressure-after-water-softener/) guide shows how much the connecting pipe can cost.
 
-For context, a complete 5600SXT 64,000-grain system is about $100 more than the 48,000-grain one from the same seller. Budget for a 7000SXT system on a 13 or 14 inch tank to cost meaningfully more than that, and get a written quote that names the tank size, resin volume and piston type.
+For context, a complete 5600SXT 64,000-grain system costs somewhat more than the 48,000-grain one from the same seller. Budget for a 7000SXT system on a 13 or 14 inch tank to cost meaningfully more than that, and get a written quote that names the tank size, resin volume and piston type.
 
 ## Amazon Listings Checked on 2 October 2026
 
-| Product | ASIN | Amazon status | Price |
-|---|---|---|---|
-| AFWFilters Fleck 5600SXT 48,000-grain, 10 x 54 in | [B00OGN3162](https://www.amazon.com/dp/B00OGN3162) | Listing active | About $775 at the AFWFilters store |
-| Fleck 5600SXT 64,000-grain "high flow", 12 x 48 in | [B004GET6Z6](https://www.amazon.com/dp/B004GET6Z6) | Listing active | Comparable AFWFilters 64k about $879 |
-| Fleck 7000SXT 48,000-grain, 10 x 54 in | B005XTXTCE | Currently unavailable | Dropped |
-| Fleck 7000SXT 64,000-grain, 12 x 52 in | B00EZIC25Y | Currently unavailable | Dropped |
-| Fleck 7000 80,000-grain, 1.25 in, 2.5 cu ft | B000GC6HYU | Currently unavailable | Dropped |
+| Product | Amazon status | Amazon |
+|---|---|---|
+| AFWFilters Fleck 5600SXT 48,000-grain, 10 x 54 in | Listing active | [Check price on Amazon](https://www.amazon.com/dp/B00OGN3162) |
+| Fleck 5600SXT 64,000-grain "high flow", 12 x 48 in | Listing active | [Check price on Amazon](https://www.amazon.com/dp/B004GET6Z6) |
+| Fleck 7000SXT 48,000-grain, 10 x 54 in | Currently unavailable | Dropped |
+| Fleck 7000SXT 64,000-grain, 12 x 52 in | Currently unavailable | Dropped |
+| Fleck 7000 80,000-grain, 1.25 in, 2.5 cu ft | Currently unavailable | Dropped |
 
-**AFWFilters Fleck 5600SXT 48k.** The pick for most homes under about 10 gpm at their busiest. 1.5 cubic feet of resin in a 10 x 54 inch Pentair tank, a bypass with a 1-inch yoke, and AFWFilters' standard 5-year valve and 10-year tank terms. A 10% crosslink resin version for chlorinated water was about $785.
+**AFWFilters Fleck 5600SXT 48k.** The pick for most homes under about 10 gpm at their busiest. 1.5 cubic feet of resin in a 10 x 54 inch Pentair tank, a bypass with a 1-inch yoke, and AFWFilters' standard 5-year valve and 10-year tank terms. AFWFilters also sells a 10% crosslink resin version for chlorinated water.
 
 **Fleck 5600SXT 64k on a 12 inch tank.** The largest tank a 5600SXT is rated to serve, so the most flow the smaller valve can deliver. The listing's "up to 16 gpm" claim runs ahead of what a 12-inch bed carries at its peak design rate; plan on about 12.
 

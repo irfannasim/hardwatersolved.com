@@ -2,7 +2,7 @@
 title: "Best 80,000 Grain Water Softener, and When a Twin Tank Is the Better Buy"
 seoTitle: "Best 80,000 Grain Water Softener vs a Twin-Tank Setup"
 seoDescription: "The best 80,000 grain water softener needs a 13x54 tank and strong backwash flow. Single-tank picks, and when a twin tank is the better buy."
-excerpt: "An 80,000 grain softener is 2.5 cubic feet of resin in a 13-inch tank. It is the cheapest way to buy a lot of softening capacity, and it asks a well for about 4.6 gpm of backwash. A Fleck 9100SXT twin with two smaller tanks costs more per usable grain but needs far less backwash flow and never sends hard water to the taps. This guide prices both per usable grain, picks the 80k singles worth buying, and ends with a simple rule for choosing."
+excerpt: "An 80,000 grain softener is 2.5 cubic feet of resin in a 13-inch tank. It is the cheapest way to buy a lot of softening capacity, and it asks a well for about 4.6 gpm of backwash. A Fleck 9100SXT twin with two smaller tanks costs more per usable grain but needs far less backwash flow and never sends hard water to the taps. This guide compares both on usable grains per cycle, picks the 80k singles worth buying, and ends with a simple rule for choosing."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -23,11 +23,13 @@ faqs:
     answer: "A fine-mesh model can handle some dissolved iron. AFWFilters lists its Iron Pro 2 80k for iron up to 6 ppm on its own store, with a 2.5 cubic foot fine-mesh bed. Iron counts against capacity, roughly 4 gpg of extra hardness per 1 ppm, so iron can push a household from a 64k into 80k territory. Rust you can see, or iron above the rating, needs an iron filter first."
 ---
 
-The **best 80,000 grain water softener** for most large households is the AFWFilters Iron Pro 2 80k. At about $949 it has 2.5 cubic feet of fine-mesh resin in a 13×54 tank on a Fleck 5600SXT valve, and it is the cheapest per usable grain of the units we compared. An 80k makes sense for a daily hardness load of about 5,600 to 12,500 grains, but it needs a well that can hold about 4.6 gpm of backwash. If yours cannot, or the load is higher, a Fleck 9100SXT twin with two 10-inch tanks is the better buy. It costs about twice as much per usable grain, needs only about 2.7 gpm, and never sends hard water to the taps.
+The **best 80,000 grain water softener** for most large households is the AFWFilters Iron Pro 2 80k. It has 2.5 cubic feet of fine-mesh resin in a 13×54 tank on a Fleck 5600SXT valve, and it was the lowest-cost per usable grain of the units we compared. An 80k makes sense for a daily hardness load of about 5,600 to 12,500 grains, but it needs a well that can hold about 4.6 gpm of backwash. If yours cannot, or the load is higher, a Fleck 9100SXT twin with two 10-inch tanks is the better buy. It costs considerably more per usable grain, needs only about 2.7 gpm, and never sends hard water to the taps.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How we chose.** Each single-tank pick is a complete metered system rated at 80,000 grains, sold on Amazon.com at a normal price above $100, with a published tank size. We compared them on price per usable grain at the same efficient salt dose, the backwash flow they ask of a well, service flow and warranty, then set them against a 9100SXT twin. We dropped three plan candidates whose Amazon listings showed as currently unavailable on 1 October 2026: two Fleck 7000SXT 80k systems and the SoftPro Elite Ultimate 80k. Evidence comes from listings, AFWFilters' published specifications and design guidance. Nothing was physically tested. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying. Amazon's pages did not show prices to our checks, so prices are from AFW's own store.
+> **How we chose.** Each single-tank pick is a complete metered system rated at 80,000 grains, sold on Amazon.com, with a published tank size. We compared them on usable capacity at the same efficient salt dose, the backwash flow they ask of a well, service flow and warranty, then set them against a 9100SXT twin. We dropped three plan candidates whose Amazon listings showed as currently unavailable on 1 October 2026: two Fleck 7000SXT 80k systems and the SoftPro Elite Ultimate 80k. Evidence comes from listings, AFWFilters' published specifications and design guidance. Nothing was physically tested.
+>
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 >
 > **Who should buy none of these:** households with a daily hardness load under about 5,600 grains (a 64k or smaller fits), wells that cannot hold even 2.7 gpm for 20 minutes, and water with visible rust or iron above about 6 ppm.
 
@@ -44,7 +46,6 @@ AFWFilters publishes unusually complete figures for its 2.5 cubic foot single:
 | Peak flow | 16.5 gpm | 9.8 gpm |
 | Backwash flow required | 4.6 gpm | 2.7 gpm |
 | Brine tank | Round, about 18×33 | 14-inch square, 18×33 or 18×40 options |
-| Price at AFW's store | about $1,034 to $1,054 (5600SXT, standard or 10% resin) | about $1,387 |
 
 Two numbers in that table drive everything else. The single passes far more water, which matters in a big house. It also asks the well for 4.6 gpm during backwash, which matters on a weak well.
 
@@ -62,32 +63,32 @@ Daily hardness load is people × 75 gallons × gpg. Add about 4 gpg per 1 ppm of
 | 6 people, 30 gpg | 13,500 | 2.7 | Too small for a single. Twin |
 | 8 people, 25 gpg | 15,000 | 2.3 | Too small for a single. Twin |
 
-## Price per Usable Grain: 80k Singles vs a 9100SXT Twin
+## Usable Grains per Cycle: 80k Singles vs a 9100SXT Twin
 
 Comparing on the box number flatters the twin. AFW's 1.5 cubic foot per tank twin is sold as 48,000 grains per tank, 96,000 in total. Comparing on what you can actually use per cycle, for a household using 9,000 grains a day, gives a different picture.
 
 - **A single** holds back a day of reserve, so of its 50,000 grains, about 41,000 are usable each cycle.
 - **The twin** switches to the standby tank the moment one bed is exhausted, so it needs no reserve. Each 1.5 cubic foot bed gives its full 30,000 grains.
 
-![Bar chart of price per 1,000 usable grains for 80,000 grain single-tank softeners and a Fleck 9100SXT twin, with the backwash flow each needs](/diagrams/80000-grain-water-softener-single-vs-twin-price-per-grain.svg "Singles are cheaper per grain; the twin is gentler on the well")
+![Bar chart of the backwash flow 80,000 grain single-tank softeners and a Fleck 9100SXT twin need from a well, with usable grains per cycle for each](/diagrams/80000-grain-water-softener-single-vs-twin-price-per-grain.svg "Singles give more per cycle; the twin is gentler on the well")
 
-| Option | Price, approx | Usable per cycle at 9,000 a day | $ per 1,000 usable grains | Days per cycle | Salt per year at 6 lb/cu ft | Backwash |
-|---|---|---|---|---|---|---|
-| AFW Iron Pro 2 80k | $949 | 41,000 | about $23 | 4.6 | about 1,200 lb | 4.6 gpm (AFW 13×54 figure) |
-| Fleck 5600SXT 80k (AFW price) | $1,034 | 41,000 | about $25 | 4.6 | about 1,200 lb | 4.6 gpm |
-| Fleck 2510 80k (AFW price) | $1,425 | 41,000 | about $35 | 4.6 | about 1,200 lb | about 3.9 to 5.1 gpm by design guidance |
-| Fleck 9100SXT twin, 2 × 1.5 cu ft | $1,387 | 30,000 per bed, no reserve | about $46 | 3.3 per bed | about 990 lb | 2.7 gpm, one tank at a time |
+| Option | Usable per cycle at 9,000 a day | Days per cycle | Salt per year at 6 lb/cu ft | Backwash |
+|---|---|---|---|---|
+| AFW Iron Pro 2 80k | 41,000 | 4.6 | about 1,200 lb | 4.6 gpm (AFW 13×54 figure) |
+| Fleck 5600SXT 80k (AFW system) | 41,000 | 4.6 | about 1,200 lb | 4.6 gpm |
+| Fleck 2510 80k (AFW system) | 41,000 | 4.6 | about 1,200 lb | about 3.9 to 5.1 gpm by design guidance |
+| Fleck 9100SXT twin, 2 × 1.5 cu ft | 30,000 per bed, no reserve | 3.3 per bed | about 990 lb | 2.7 gpm, one tank at a time |
 
 *Usable capacity uses about 20,000 grains per cubic foot at 6 lb of salt. Salt figures are a model for a 9,000 grain-a-day household.*
 
 What the table shows:
 
-1. **Singles are about half the price per usable grain.** That is the main reason to buy one.
-2. **The twin saves salt.** It never regenerates a bed with reserve still in it, so for this household it uses roughly 215 lb less salt a year, about $38 at $7 a 40 lb bag. That takes about 9 years to repay the twin's premium over a 5600SXT single, so salt alone does not justify it. The case for twins in general is set out in [single tank vs twin tank water softeners](/blog/single-tank-vs-twin-tank-water-softeners/).
+1. **Singles cost much less per usable grain.** A single delivers more softening per cycle and usually costs less than a twin. That is the main reason to buy one.
+2. **The twin saves salt.** It never regenerates a bed with reserve still in it, so for this household it uses roughly 215 lb less salt a year. That saving takes years to repay the twin's premium over a 5600SXT single, so salt alone does not justify it. The case for twins in general is set out in [single tank vs twin tank water softeners](/blog/single-tank-vs-twin-tank-water-softeners/).
 3. **The twin regenerates more often**, about 110 times a year against about 80, so it sends more regenerations' worth of water to the drain even though it uses less salt.
 4. **The twin's real advantage is the well.** It asks for 2.7 gpm instead of 4.6 gpm.
 
-AFW also sells twins with 2.5 cubic feet per tank at about $2,230. They need the same 13-inch backwash as a single, so they solve the capacity problem but not the well problem.
+AFW also sells twins with 2.5 cubic feet per tank. They need the same 13-inch backwash as a single, so they solve the capacity problem but not the well problem.
 
 ## The Backwash Your Well Must Deliver
 
@@ -101,39 +102,39 @@ If the sustained test fails at 4.6 gpm but holds at 2.7, the twin is the answer.
 
 ### 1. AFWFilters Iron Pro 2 80k: Best Overall
 
-[View on Amazon](https://www.amazon.com/dp/B075ZH2TDR) · about $949 at AFW's store
-
 AFW's store lists this as 2.5 cubic feet of fine-mesh resin in a 13×54 tank on a Fleck 5600SXT metered valve, rated for iron up to 6 ppm, with a 5-year warranty on the control head and 10 years on the tank. The Amazon listing goes further, claiming hardness up to 85 gpg, iron of 6 to 8 ppm, manganese up to 6 ppm and 18 gpm. Treat the store's 6 ppm iron figure as the safer planning number. Fine mesh costs little extra here and covers the iron that many very hard wells also carry. That is why it tops a list aimed at big rural homes.
 
-- **Good:** lowest price per usable grain, handles clear-water iron, common valve.
+- **Good:** lowest cost per usable grain of our picks, handles clear-water iron, common valve.
 - **Watch:** 4.6 gpm of backwash, plus more if an iron filter regenerates the same night. Program it from about 50,000 grains, less any iron allowance.
 
-### 2. DuraWater Fleck 5600SXT 80k: Best Standard-Resin Single
+[Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR)
 
-[View on Amazon](https://www.amazon.com/dp/B00RY944U2) · price on the listing; comparable AFW systems about $1,034 to $1,054
+### 2. DuraWater Fleck 5600SXT 80k: Best Standard-Resin Single
 
 A plain 80k for water without iron. The listing gives 2.5 cubic feet of resin in a 13×54 tank, the Fleck 5600SXT with a paddle-wheel meter, an 18×40 brine tank with safety float, a bypass with a threaded yoke and an iron and hardness test kit. It is about 62 inches tall overall. The valve carries 5 years of warranty and the tanks 10.
 
 - **Good:** standard Fleck platform, larger brine tank, test kit included.
 - **Watch:** DuraWater does not publish prices off Amazon, so compare with AFW's own 80k 5600SXT systems before buying.
 
-### 3. Abundant Flow (AFWFilters) 80k Fleck 2510: Best for High Peak Flow
+[Check price on Amazon](https://www.amazon.com/dp/B00RY944U2)
 
-[View on Amazon](https://www.amazon.com/dp/B00F3CAHR6) · about $1,425 for AFW's current 80k Fleck 2510 system
+### 3. Abundant Flow (AFWFilters) 80k Fleck 2510: Best for High Peak Flow
 
 The Fleck 2510 is a larger valve body than the 5600SXT. That matters where peak flow, not capacity, is the constraint, such as a big house with several bathrooms in use at once. The Amazon listing describes a complete 13×54 system with the 2510SXT meter valve. AFW's own store now sells the 80k with the 2510AiQ, which it describes as formerly the 2510SXT, so ask which valve ships.
 
 - **Good:** more valve for very high-demand homes, same 13-inch bed.
-- **Watch:** about $400 more than a 5600SXT single for the same capacity and the same backwash demand.
+- **Watch:** costs noticeably more than a 5600SXT single for the same capacity and the same backwash demand.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00F3CAHR6)
 
 ### 4. Fleck 9100SXT Twin, 1.5 cu ft per Tank: The Twin Alternative
-
-[View on Amazon](https://www.amazon.com/dp/B000GE8T6M) · AFW sells the same configuration for about $1,387
 
 Not an 80k single, but the realistic alternative to one. The listing gives 1.5 cubic feet of resin per tank, 96,000 grains of total rated capacity, the 9100SXT metered alternating valve and an 18×33 brine tank with grid. AFW's version of the same configuration uses two 10×54 tanks, with 6.5 gpm service flow, 9.8 gpm peak and 2.7 gpm backwash. The Amazon listing names CAI Technologies as the maker and warns that units not sold by CAI are not genuine, so confirm the seller and the warranty before ordering.
 
 - **Good:** soft water around the clock, lower backwash demand, no reserve wasted.
-- **Watch:** lower service flow than a single 80k, about twice the price per usable grain, and two tanks to house.
+- **Watch:** lower service flow than a single 80k, a higher cost per usable grain, and two tanks to house.
+
+[Check price on Amazon](https://www.amazon.com/dp/B000GE8T6M)
 
 ## Single or Twin: The Rule
 
@@ -155,4 +156,4 @@ Choose a **twin** if any one of them fails. Choose nothing at this size if your 
 
 ## The Bottom Line
 
-An 80,000 grain single is the cheapest way to buy a lot of softening. The best 80,000 grain water softener for most homes, the AFWFilters Iron Pro 2 80k at about $949, gives the lowest price per usable grain and handles clear-water iron. Buy it, or the DuraWater standard-resin equivalent, when your load is 5,600 to 12,500 grains a day and your well can hold about 4.6 gpm of backwash. Choose the Fleck 2510 version for very high peak flow. When the well falls short, the load runs higher, or you want soft water at 2 am, the 9100SXT twin costs more per grain and is the right buy anyway.
+An 80,000 grain single is the cheapest way to buy a lot of softening. The best 80,000 grain water softener for most homes, the AFWFilters Iron Pro 2 80k, gives the lowest cost per usable grain and handles clear-water iron. Buy it, or the DuraWater standard-resin equivalent, when your load is 5,600 to 12,500 grains a day and your well can hold about 4.6 gpm of backwash. Choose the Fleck 2510 version for very high peak flow. When the well falls short, the load runs higher, or you want soft water at 2 am, the 9100SXT twin costs more per grain and is the right buy anyway.

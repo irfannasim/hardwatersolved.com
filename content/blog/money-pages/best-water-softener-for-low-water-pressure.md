@@ -29,7 +29,7 @@ Two numbers decide whether a softener works in a low-pressure house: how much pr
 
 ## How These Picks Were Ranked
 
-> **Methodology.** Every pick is a metered, salt-based softener listed on Amazon.com at a normal price above $100. Pressure-drop figures come from manufacturer spec sheets, manuals and listings, scaled to a 12 gpm household peak with the square of the flow ratio, the method set out in our guide to [water softener pressure drop](/blog/water-softener-pressure-drop/). Minimum inlet pressures come from the same documents. Nothing was physically tested. **Excluded:** units shown as unavailable on Amazon, and units with no published pressure range. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Methodology.** Every pick is a metered, salt-based softener listed on Amazon.com. Pressure-drop figures come from manufacturer spec sheets, manuals and listings, scaled to a 12 gpm household peak with the square of the flow ratio, the method set out in our guide to [water softener pressure drop](/blog/water-softener-pressure-drop/). Minimum inlet pressures come from the same documents. Nothing was physically tested. **Excluded:** units shown as unavailable on Amazon, and units with no published pressure range. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Some well-known high-flow and low-loss units are not ranked:
 
@@ -75,7 +75,7 @@ On a well, the lowest pressure the softener sees is the pressure switch **cut-in
 
 ## 1. SoftPro Elite 48k: Best for Low-Pressure Homes
 
-**Buy it on Amazon:** [SoftPro Elite Basic High Efficiency 48,000 Grain](https://www.amazon.com/dp/B07KY5SPSJ). About $1,457 at SoftPro's own store.
+[Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ)
 
 The Elite uses a Canature valve set to upflow regeneration, and SoftPro describes it as having 1 inch ports throughout. SoftPro rates it at 15 gpm and lists a 20 to 125 psi operating range. Of the units on Amazon, it is the one built around a full 1 inch flow path, which is what keeps the loss down at a high peak.
 
@@ -87,7 +87,7 @@ The Elite uses a Canature valve set to upflow regeneration, and SoftPro describe
 
 ## 2. AFWFilters Fleck 5600SXT 48k, 1" Yoke: Best Budget Low-Pressure Pick
 
-**Buy it on Amazon:** [AFWFilters Built Fleck 48,000 Water Softener, 5600SXT, 1" Yoke](https://www.amazon.com/dp/B00OGN3162). About $775 on sale at AFWFilters (about $959 regular).
+[Check price on Amazon](https://www.amazon.com/dp/B00OGN3162)
 
 The 5600SXT is one of the best-documented residential valves. Pentair publishes the valve's whole flow curve through its Cv of 5.0, a 20 psi minimum, and certification by the WQA to NSF/ANSI 44 for softener performance. At a 12 gpm peak the valve alone loses about 5.4 psi.
 
@@ -101,9 +101,9 @@ The 5600SXT is one of the best-documented residential valves. Pentair publishes 
 
 ## 3. Aquasure Harmony 32k: Only for City Water Above 40 psi
 
-**Buy it on Amazon:** [Aquasure Harmony Series 32,000 Grains](https://www.amazon.com/dp/B07F18VG8L). About $490 at Home Depot and $540 at Aquasure's own store.
+[Check price on Amazon](https://www.amazon.com/dp/B07F18VG8L)
 
-The Harmony's Aquatrol valve publishes the same valve-alone figures as the Fleck 5600SXT: 20 gpm at a 15 psi drop, 26 gpm at 25 psi and a Cv of 5.0, according to the [Harmony owner's manual](https://images.thdstatic.com/catalog/pdfImages/d3/d38453b1-ce56-4e0a-859c-27e296a759d7.pdf). For a small house on steady city pressure, it is the cheapest low-loss option here.
+The Harmony's Aquatrol valve publishes the same valve-alone figures as the Fleck 5600SXT: 20 gpm at a 15 psi drop, 26 gpm at 25 psi and a Cv of 5.0, according to the [Harmony owner's manual](https://images.thdstatic.com/catalog/pdfImages/d3/d38453b1-ce56-4e0a-859c-27e296a759d7.pdf). For a small house on steady city pressure, it is usually the least expensive low-loss option here.
 
 **Why it ranks third.** The manual makes 25 psi the minimum inlet pressure for the warranty. On a well with a 20/40 switch, or on a city supply that sags below 25 psi at peak, it is out of specification. Aquasure sizes the 32k for one or two bathrooms.
 

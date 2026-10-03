@@ -31,7 +31,7 @@ That split decides whether Culligan is good value for you. Where the local deale
 
 ## The Short Verdict
 
-> **Method.** This review is built from Culligan's current product page, its High Efficiency softener owner's guide (document 01021076, revision H, 11/19), and the certification statements printed in it. No unit was physically tested. Culligan is not sold on Amazon; the alternatives below were checked against their Amazon listings and brand stores. **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Method.** This review is built from Culligan's current product page, its High Efficiency softener owner's guide (document 01021076, revision H, 11/19), and the certification statements printed in it. No unit was physically tested. Culligan is not sold on Amazon; the alternatives below were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 | | Culligan Aquasential Smart HE |
 |---|---|
@@ -132,11 +132,11 @@ Either way, the salt bill is small next to the purchase quote and the dealer's v
 
 Culligan softeners are not sold on Amazon; only Culligan filter housings and cartridges are. If you like the hardware approach but not the single-dealer parts supply, these are the closest online equivalents:
 
-| Alternative | Why it compares | Approx. price |
+| Alternative | Why it compares | Amazon |
 |---|---|---|
-| [SoftPro Elite 48k](https://www.amazon.com/dp/B07KY5SPSJ) | Upflow brining and soft-water refill, aimed at the same salt efficiency as Culligan's upflow model | From about $1,370 on SoftPro's store |
-| [AFWFilters Fleck 5600SXT 48k, 10% resin](https://www.amazon.com/dp/B00YFOTWZG) | Metered single tank on a standard Fleck valve; chlorine-resistant resin for city water | About $785 on AFW's store |
-| [AFWFilters Fleck 9100SXT twin 48k](https://www.amazon.com/dp/B000GE8T6M) | Twin-tank continuous soft water, the online counterpart to the Smart HE Twin | About $1,390 on AFW's store |
+| SoftPro Elite 48k | Upflow brining and soft-water refill, aimed at the same salt efficiency as Culligan's upflow model | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
+| AFWFilters Fleck 5600SXT 48k, 10% resin | Metered single tank on a standard Fleck valve; chlorine-resistant resin for city water | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) |
+| AFWFilters Fleck 9100SXT twin 48k | Twin-tank continuous soft water, the online counterpart to the Smart HE Twin | [Check price on Amazon](https://www.amazon.com/dp/B000GE8T6M) |
 
 None of these comes with a local dealer. You or a plumber install and program them, and the Fleck units can be repaired with parts from many sellers. That trade, service for openness, is the whole decision.
 

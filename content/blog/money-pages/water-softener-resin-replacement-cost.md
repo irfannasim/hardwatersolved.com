@@ -21,15 +21,15 @@ faqs:
     answer: "Commonly 10 years or more on well-maintained, unchlorinated water and less on chlorinated city water, where chlorine slowly breaks down the beads. 10% crosslink resin resists chlorine better than standard 8% resin, which is why both picks on this page are 10% grades. Fixing whatever killed the old bed, such as chlorine or iron, matters more to the new bed's life than the brand of resin."
 ---
 
-**Water softener resin replacement cost** is about **$180 to $430 if you do it yourself** and roughly **$480 to $1,130 for a professional rebed**, depending on whether the tank holds 1, 1.5 or 2 cubic feet. The resin itself sells for about $150 to $200 a cubic foot online, and a premium 10% crosslink grade such as ResinTech CG10 was $181.27 for a 1 cubic foot bag when we checked. Labor and the service call are most of a pro's bill. Rebedding makes sense when the control valve is under about 8 years old. Past about 12 years, new resin under an old head is usually a false economy.
+**Water softener resin replacement cost** is about **$180 to $430 if you do it yourself** and roughly **$480 to $1,130 for a professional rebed**, depending on whether the tank holds 1, 1.5 or 2 cubic feet. The resin itself sells for about $150 to $200 a cubic foot online, and premium 10% crosslink grades such as ResinTech CG10 sit inside that range. Labor and the service call are most of a pro's bill. Rebedding makes sense when the control valve is under about 8 years old. Past about 12 years, new resin under an old head is usually a false economy.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How these numbers were built.** Nothing on this page was physically tested. Resin prices come from retailer listings and the makers' product pages; labor figures are illustrative placeholders using the same method as the site's repair-cost pages: a $100 to $150 service call plus labor at $100 an hour. Replace them with the rates on your own quote.
+> **How these numbers were built.** Nothing on this page was physically tested. Resin price ranges come from retailer listings and the makers' product pages; labor figures are illustrative placeholders using the same method as the site's repair-cost pages: a $100 to $150 service call plus labor at $100 an hour. Replace them with the rates on your own quote.
 >
-> - **Included:** whole bags of 10% crosslink cation softening resin from a named resin maker, normally sold for $100 or more per bag.
-> - **Excluded:** unbranded "high capacity" resin with no maker named, half-cubic-foot top-up bags under $100, and two listings in our original research that we could not verify on the day (details below).
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not load for our check, so prices are from resin retailers' own stores, as stated against each pick.
+> - **Included:** whole 1 cubic foot bags of 10% crosslink cation softening resin from a named resin maker.
+> - **Excluded:** unbranded "high capacity" resin with no maker named, half-cubic-foot top-up bags, and two listings in our original research that we could not verify on the day (details below).
+> - **Prices of individual products are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Water Softener Resin Replacement Cost by Tank Size
 
@@ -39,7 +39,7 @@ faqs:
 | 1.5 cu ft | 10 x 54 in | $225–$300 | **$255–$330** | $225–$450 | $300–$450 (2–3 h) | **$555–$930** |
 | 2 cu ft | 12 x 52 in | $300–$400 | **$330–$430** | $300–$600 | $350–$500 (2.5–3.5 h) | **$680–$1,130** |
 
-*Both totals include about $30 for gravel, a funnel and a new tank O-ring. DIY resin is priced at $150 to $200 per cubic foot (the CG10 bag at $181 sits inside that range). The pro column bills resin at $150 to $300 per cubic foot, because an installer marks up stock it carries and hauls. Illustrative, not a price survey.*
+*Both totals include about $30 for gravel, a funnel and a new tank O-ring. DIY resin is priced at $150 to $200 per cubic foot. The pro column bills resin at $150 to $300 per cubic foot, because an installer marks up stock it carries and hauls. Illustrative, not a price survey.*
 
 Three things stand out from the table.
 
@@ -65,14 +65,16 @@ The box rating assumes about 32,000 grains per cubic foot, which needs a heavy s
 
 ## Resin Worth Buying for a Rebed
 
-Both picks are 10% crosslink resin. The extra crosslinking makes the beads tougher against chlorine, which is what slowly degrades softener resin on city water. On unchlorinated well water a standard 8% grade will do, but at these prices the step up is small.
+Both picks are 10% crosslink resin. The extra crosslinking makes the beads tougher against chlorine, which is what slowly degrades softener resin on city water. On unchlorinated well water a standard 8% grade will do, but the step up costs little.
 
 ### ResinTech CG10: best documented 1 cubic foot bag
 
 - **Grade:** premium 10% crosslink strong acid cation resin, sodium form
 - **Certifications:** WQA Gold Seal; meets NSF/ANSI/CAN 61 and 372, per [ResinTech's CG10 product page](https://www.resintech.com/media/ion-exchange-resin/cg10)
 - **Bag:** 1 cubic foot, about 53 to 55 lb
-- **Price:** $181.27 at WECO Filters on 2 October 2026. Our original research saw it at about $175 to $178 on Amazon and once on sale at $87.55 elsewhere. If the Amazon price you see is under $100, it is a short-term sale, not the normal price. [See it on Amazon (B01N7G2UHT)](https://www.amazon.com/dp/B01N7G2UHT)
+- **Price note:** an unusually low price on this bag is usually a short-term sale, not the normal price
+
+[Check price on Amazon](https://www.amazon.com/dp/B01N7G2UHT)
 
 CG10 is the safest choice when you want to know exactly what went into the tank. ResinTech publishes the specification, the capacity figure (2.2 meq/mL) and the certifications for it. Buy one bag for a 9 x 48 inch tank. For a 10 x 54 inch tank you need a second half bag, or two bags with the spare kept sealed and damp for a top-up later.
 
@@ -83,7 +85,8 @@ CG10 is the safest choice when you want to know exactly what went into the tank.
 - **Grade:** gel-type 10% crosslink strong acid cation resin, sodium form
 - **Certifications:** NSF/ANSI 44, 61 and 372 and CSA B483.1, as listed by the retailers we checked
 - **Capacity listed:** about 30,000 grains per cubic foot at 15 lb of salt, or 20,000 grains at 6 lb
-- **Price:** not verified on Amazon. Canadian retailers listed a 1 cubic foot bag at CAD $248.99 and CAD $281.66 on 2 October 2026; expect the US listing to sit above $100. [See it on Amazon (B0DKPHHNM4)](https://www.amazon.com/dp/B0DKPHHNM4)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0DKPHHNM4)
 
 The useful thing about the Aldex listing is that it prints capacity at two salt doses. That shows plainly that the grain rating on a softener box is a high-salt figure, and it is the number to use when you plan the salt setting after the rebed.
 
@@ -91,7 +94,7 @@ The useful thing about the Aldex listing is that it prints capacity at two salt 
 
 ### Dropped from this page
 
-Two products from our original research were left out. A LiquaGen 2 cubic foot pack with funnel could not be found as a resin product on the day; LiquaGen listings we found were gravel and accessories. A generic 1.5 cubic foot "10% crosslink refill kit" (B09KYGS915) could not be matched to a named resin maker or a current price. We do not recommend resin we cannot identify.
+Two products from our original research were left out. A LiquaGen 2 cubic foot pack with funnel could not be found as a resin product on the day; LiquaGen listings we found were gravel and accessories. A generic 1.5 cubic foot "10% crosslink refill kit" could not be matched to a named resin maker or a current price. We do not recommend resin we cannot identify.
 
 ![Open black toolbox holding pliers, screwdrivers and wrenches, the kit a homeowner needs to unscrew a control valve and refill a softener tank with new resin](https://images.pexels.com/photos/7640990/pexels-photo-7640990.jpeg)
 
@@ -129,7 +132,9 @@ A rebed restores the bed. It does nothing for the control valve, which is the pa
 
 **The rule:** rebed if the valve is under about 8 years old. Between 8 and 12 years, rebed only if the job costs less than about two thirds of a comparable new unit. Past 12 years, or after any valve repair, replace the softener. Those thresholds follow the crossover in [water softener resin life and replacement](/blog/water-softener-resin-life-and-replacement/).
 
-**A worked example.** A 13-year-old 1.5 cubic foot softener needs new resin. A pro quotes $700 for the rebed. A comparable new 48,000-grain unit with a Fleck 5600SXT valve sells for about $775 on sale at [AFWFilters' own store](https://store.afwfilters.com/water-softeners/48-000-grain/fleck-5600sxt-48-000-grain-water-softener-digital-sxt-metered-whole-house-system-1-5-cubic-foot-48k-max/) ([see it on Amazon, B00OGN3162](https://www.amazon.com/dp/B00OGN3162)), and a swap into the existing plumbing adds perhaps $300 to $600 of labor and fittings. Call it $1,075 to $1,375 for a brand-new softener.
+**A worked example.** A 13-year-old 1.5 cubic foot softener needs new resin. A pro quotes $700 for the rebed. A comparable new 48,000-grain unit with a Fleck 5600SXT valve, bought online and swapped into the existing plumbing with perhaps $300 to $600 of labor and fittings, comes to about $1,075 to $1,375 for a brand-new softener in our model.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00OGN3162)
 
 | Path | Upfront | If the old valve then fails | Total |
 |---|---|---|---|

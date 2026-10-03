@@ -20,22 +20,19 @@
 <text x="700" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">200 yr</text>
 <path d="M272.5,120 L272.5,450" fill="none" stroke="#15803d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 4"/>
 <text x="30" y="154" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Couple, 10 gpg</text>
-<text x="30" y="173" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Elite 32k $1,367 vs Fleck 32k $759</text>
-<text x="30" y="190" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Premium about $608</text>
+<text x="30" y="173" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Elite 32k vs Fleck 32k</text>
 <rect x="250" y="138" width="148.85745375408055" height="26" fill="#94a3b8" stroke="none" stroke-width="1.5"/>
 <text x="406.85745375408055" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">66 years</text>
 <rect x="250" y="172" width="401.1730205278592" height="26" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
 <text x="659.1730205278592" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">178 years</text>
 <text x="30" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Family of 4, 15 gpg</text>
-<text x="30" y="283" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Elite 48k $1,457 vs Fleck 48k $785</text>
-<text x="30" y="300" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Premium about $672</text>
+<text x="30" y="283" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Elite 48k vs Fleck 48k</text>
 <rect x="250" y="248" width="54.782608695652186" height="26" fill="#94a3b8" stroke="none" stroke-width="1.5"/>
 <text x="312.7826086956522" y="266" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">24 years</text>
 <rect x="250" y="282" width="147.22492697176244" height="26" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
 <text x="405.22492697176244" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">65 years</text>
 <text x="30" y="374" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Family of 5, 25 gpg</text>
-<text x="30" y="393" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Elite 64k $1,587 vs Fleck 64k $889</text>
-<text x="30" y="410" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Premium about $698</text>
+<text x="30" y="393" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Elite 64k vs Fleck 64k</text>
 <rect x="250" y="358" width="27.31304347826085" height="26" fill="#94a3b8" stroke="none" stroke-width="1.5"/>
 <text x="285.31304347826085" y="376" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">12 years</text>
 <rect x="250" y="392" width="73.3878504672897" height="26" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
@@ -43,5 +40,5 @@
 <path d="M250,116 L250,450" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="30" y="502" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#15803d">Green dashed line: 10 years, the length of the Elite resin warranty on city water.</text>
 <text x="30" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Salt only, at $7 per 40 lb bag. Water savings add tens of dollars a year at most.</text>
-<text x="30" y="543" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Prices checked 1 October 2026 at softprowatersystems.com and store.afwfilters.com.</text>
+<text x="30" y="543" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Premiums use brand-store prices seen on 1 October 2026; prices change often.</text>
 </svg>

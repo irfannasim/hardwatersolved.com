@@ -21,7 +21,7 @@ faqs:
     answer: "We found no listing for either brand in the WQA certified-product database on 2 October 2026. NSF/ANSI 44 covers ion-exchange softeners, not coils, so a softener certification badge on a descaler should not be taken at face value. Eddy states FCC compliance and ScaleBlaster states UL and CUL approval, both of which are electrical safety and interference marks, not performance tests."
 ---
 
-**Eddy vs ScaleBlaster comes down to how long each one gives you to find out whether it works.** Both are wire coils wrapped around your main water pipe, driven by a plug-in box. Neither removes hardness, and neither maker publishes an independent scale test of its own unit. So the sensible purchase is a trial. On that basis the Eddy is the safer one to try: it costs about the same, around $190 to $200, but comes with a 12-month money-back guarantee and lifetime repair or replacement. The ScaleBlaster SB-75 gives you 90 days, and its own manual says the full results can take that long to show.
+**Eddy vs ScaleBlaster comes down to how long each one gives you to find out whether it works.** Both are wire coils wrapped around your main water pipe, driven by a plug-in box. Neither removes hardness, and neither maker publishes an independent scale test of its own unit. So the sensible purchase is a trial. On that basis the Eddy is the safer one to try: it costs about the same but comes with a 12-month money-back guarantee and lifetime repair or replacement. The ScaleBlaster SB-75 gives you 90 days, and its own manual says the full results can take that long to show.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
@@ -38,16 +38,15 @@ faqs:
 | Power | "About 10 cents per week", per Eddy | About 15 watts, about $8.76 a year, per the manual |
 | Money-back window | 12 months, "no quibble" | 90 days, per the manual |
 | Warranty | Lifetime repair or replace, with the original invoice | 3 years on materials and workmanship; extension sold online |
-| Approx. price | $199 from Eddy's US store | about $159 at Home Depot; ScaleBlaster's site lists residential units from $199 |
-| Amazon | [B003Z96GR4](https://www.amazon.com/dp/B003Z96GR4) | [B00K80MWVM](https://www.amazon.com/dp/B00K80MWVM) |
+| Amazon | [Check price on Amazon](https://www.amazon.com/dp/B003Z96GR4) | [Check price on Amazon](https://www.amazon.com/dp/B00K80MWVM) |
 
 ## How This Comparison Was Built
 
 > **Method.** Neither unit was physically tested. The ScaleBlaster figures come from the [SB-75 Installation and Operation Manual](https://scaleblaster.com/wp-content/uploads/SB-75-Installation-and-Operations-Manual-2023.pdf) on ScaleBlaster's site. The Eddy figures come from Eddy's US store, FAQ and [guarantee page](https://www.water-softener-alternative.net/guarantee.htm). Both brands were searched in the WQA certified-product database. Each Amazon listing was opened to confirm the product page exists.
 >
-> - **Compared:** the two best-known whole-house electronic descalers sold on Amazon above $100.
-> - **Not compared:** the HydroFLOW Pearl Plus. Its Amazon listing exists, but we could not confirm a current US price or its guarantee terms on the day we checked.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon would not show prices to our tools. The Eddy price is from Eddy's US store. The ScaleBlaster price is a Home Depot sale price seen in search results, against ScaleBlaster's own "starting from $199".
+> - **Compared:** the two best-known whole-house electronic descalers sold on Amazon.
+> - **Not compared:** the HydroFLOW Pearl Plus. Its Amazon listing exists, but we could not confirm a current US offer or its guarantee terms on the day we checked.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Why Neither Has Earned a Performance Ranking
 

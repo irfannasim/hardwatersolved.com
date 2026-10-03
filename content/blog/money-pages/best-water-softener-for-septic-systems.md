@@ -29,7 +29,7 @@ Research funded by the water treatment industry found efficient softeners do not
 
 ## How These Picks Were Ranked
 
-> **Methodology.** Every pick is a demand-initiated, salt-based softener listed on Amazon.com at a normal price above $100. Picks are ranked on estimated regeneration water sent to the drain each year by a family of four using 300 gallons a day on 15 gpg water. Fleck figures use the per-cycle volumes worked out in our guide to [how much water regeneration uses](/blog/how-much-water-does-regeneration-use/), based on one maker's published cycle times. SoftPro's figure uses the per-cycle volume on SoftPro's own product page. Warranty terms come from the makers' pages. Nothing was physically tested. **Excluded:** timer-only softeners and units shown as unavailable on Amazon. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Methodology.** Every pick is a demand-initiated, salt-based softener listed on Amazon.com. Picks are ranked on estimated regeneration water sent to the drain each year by a family of four using 300 gallons a day on 15 gpg water. Fleck figures use the per-cycle volumes worked out in our guide to [how much water regeneration uses](/blog/how-much-water-does-regeneration-use/), based on one maker's published cycle times. SoftPro's figure uses the per-cycle volume on SoftPro's own product page. Warranty terms come from the makers' pages. Nothing was physically tested. **Excluded:** timer-only softeners and units shown as unavailable on Amazon. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Per-cycle water is rarely published as a single number. Where it is not, the estimate is shown as illustrative.
 
@@ -64,7 +64,7 @@ SoftPro's comparison page claims the Elite's upflow regeneration cuts salt and w
 
 ## 1. SoftPro Elite 48k: Lowest Discharge
 
-**Buy it on Amazon:** [SoftPro Elite Basic High Efficiency 48,000 Grain](https://www.amazon.com/dp/B07KY5SPSJ). About $1,457 at SoftPro's own store.
+[Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ)
 
 The Elite regenerates upflow: brine enters at the bottom of the bed and pushes the hardness out through resin that is already used up, which SoftPro says saves both salt and the unused part of the bed. On top of that:
 
@@ -77,19 +77,19 @@ The answer on SoftPro's product page puts regeneration water at around 30 gallon
 
 **Warranty.** SoftPro's warranty page lists lifetime cover on the tanks and the control valve body, five years on the piston, seals and spacers on city water, seven years on the circuit board, and ten years prorated on the 10% resin on city water. SoftPro also offers a six-month return window.
 
-**Skip it if** your budget is under about $1,350, or your water has iron. SoftPro's resin warranty applies to city water, and the standard Elite is sold as a city-water softener.
+**Skip it if** you are on a tight budget, or your water has iron. SoftPro's resin warranty applies to city water, and the standard Elite is sold as a city-water softener.
 
 ## 2. SoftPro Elite 32k: Best for Smaller Septic Households
 
-**Buy it on Amazon:** [SoftPro Elite Basic High Efficiency 32,000 Grain](https://www.amazon.com/dp/B07KY432XV). About $1,367 at SoftPro's own store.
+[Check price on Amazon](https://www.amazon.com/dp/B07KY432XV)
 
-Same valve, same upflow regeneration and precision brining, with a smaller bed. For one to three people it regenerates at a sensible interval without leaving resin idle for weeks, and it costs about $90 less than the 48k.
+Same valve, same upflow regeneration and precision brining, with a smaller bed. For one to three people it regenerates at a sensible interval without leaving resin idle for weeks, and it usually costs a little less than the 48k.
 
 **Size it honestly.** On a family of four at 15 gpg, a 32,000-grain bed regenerates more often than the 48k. Each cycle is smaller, so the annual water is similar, but the valve cycles more. A family of four is usually better served by the 48k. The sizing method is in [how to size a water softener](/blog/how-to-size-a-water-softener/).
 
 ## 3. AFWFilters Fleck 9100SXT Twin 48k: Best for Large Households
 
-**Buy it on Amazon:** [AFWFilters Twin Tank Metered Water Softener, 1" Fleck 9100SXT, 48,000 Grain](https://www.amazon.com/dp/B000GE8T6M). About $1,387 at AFWFilters.
+[Check price on Amazon](https://www.amazon.com/dp/B000GE8T6M)
 
 A twin-tank softener always has one tank in service while the other regenerates or waits. Because the standby tank is ready, the valve does not need to hold back a reserve. It runs each bed until it is spent and switches. For a family of four at a standard salt setting, that means roughly 40 regenerations a year instead of about 46, and about 3,430 gallons instead of 3,880.
 
@@ -101,7 +101,7 @@ It also regenerates with soft water from the tank in service, and it can regener
 
 ## 4. AFWFilters Fleck 5600SXT 48k: Best Budget Pick
 
-**Buy it on Amazon:** [AFWFilters Built Fleck 48,000 Water Softener, 5600SXT, 1" Yoke](https://www.amazon.com/dp/B00OGN3162). About $775 on sale at AFWFilters (about $959 regular).
+[Check price on Amazon](https://www.amazon.com/dp/B00OGN3162)
 
 A metered Fleck 5600SXT on 1.5 cu ft of high-capacity resin. It regenerates downflow with a fixed brine fill, so it uses more water per cycle than the SoftPro. But its meter means it only regenerates when the resin is used up, and that alone puts it at about a third of a timer unit's discharge.
 
@@ -109,7 +109,7 @@ A metered Fleck 5600SXT on 1.5 cu ft of high-capacity resin. It regenerates down
 
 **Warranty.** AFWFilters' standard terms are five years on the Fleck valve and ten years on the tank.
 
-**Skip it if** the lowest possible salt and water discharge matters more to you than about $680 in purchase price.
+**Skip it if** the lowest possible salt and water discharge matters more to you than a lower purchase price. It usually costs noticeably less than the SoftPro Elite.
 
 ## Which Septic Softener Should You Buy?
 

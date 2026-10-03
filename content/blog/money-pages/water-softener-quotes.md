@@ -2,7 +2,7 @@
 title: "Water Softener Quotes: How to Compare Them Line by Line"
 seoTitle: "Water Softener Quotes: 9 Line Items That Expose a Bad Deal"
 seoDescription: "Water softener quotes with the same total can buy very different systems. A fill-in comparison template, the red-flag answers, and online price benchmarks."
-excerpt: "Two water softener quotes for the same price can buy a 1.5 cubic foot softener with carbon pretreatment and five years of service, or a 1 cubic foot box with a proprietary valve and a basic hookup. This page gives a nine-line comparison template, shows which answers are red flags, and sets each quote against three online systems priced on 2 October 2026."
+excerpt: "Two water softener quotes for the same price can buy a 1.5 cubic foot softener with carbon pretreatment and five years of service, or a 1 cubic foot box with a proprietary valve and a basic hookup. This page gives a nine-line comparison template, shows which answers are red flags, and sets each quote against the price range of comparable online systems."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Prices and Buying"
@@ -12,7 +12,7 @@ faqs:
   - question: "How many water softener quotes should I get?"
     answer: "At least two written quotes, and three if one comes from an in-home sales visit. Get one from an independent plumber or water treatment company that installs standard Fleck or Clack valves, and one from a dealer if you want a dealer system. Ask every company to fill in the same lines: capacity at a stated salt dose, resin volume and grade, valve make and model, install scope, warranty and service terms, and the cash price."
   - question: "What is a fair price for a water softener quote?"
-    answer: "Most whole-house installations land between about $1,100 and $3,000 including equipment, with a simple swap into existing plumbing at the low end. On 2 October 2026, comparable online 48,000-grain systems sold for about $630 to $1,367 before installation. A dealer quote far above that should show you what the difference buys: more resin, pretreatment, a longer warranty with labor, or included service."
+    answer: "Most whole-house installations land between about $1,100 and $3,000 including equipment, with a simple swap into existing plumbing at the low end. In October 2026, comparable online 48,000-grain systems sold for about $630 to $1,370 before installation. A dealer quote far above that should show you what the difference buys: more resin, pretreatment, a longer warranty with labor, or included service."
   - question: "Why do water softener quotes vary so much?"
     answer: "Because they are rarely quoting the same thing. Resin volume, the valve, whether a carbon or iron prefilter is included, how much plumbing the installer has to build, and whether years of service visits are bundled in can each move the total by hundreds of dollars. Dealer packages also bundle warranty and service that an equipment-plus-labor quote leaves out."
   - question: "What should a water softener quote include?"
@@ -21,11 +21,11 @@ faqs:
     answer: "Usually yes, within three business days. The FTC's Cooling-Off Rule covers most sales of $25 or more made in your home, and the right to cancel for a full refund lasts until midnight of the third business day after the sale. Saturday counts as a business day; Sundays and federal holidays do not. The seller must give you cancellation forms with the contract."
 ---
 
-**Water softener quotes** can only be compared once they describe the same things. Ask each company to fill in nine lines: capacity at a stated salt dose, resin volume and grade, control valve, certification, installation scope, pretreatment, warranty, service terms and the cash price. Two quotes with the same total often buy very different systems. Then hold each quote against an online benchmark. On 2 October 2026, a 48,000-grain softener on a standard Fleck valve with 10% crosslink resin sold for about $785 before installation.
+**Water softener quotes** can only be compared once they describe the same things. Ask each company to fill in nine lines: capacity at a stated salt dose, resin volume and grade, control valve, certification, installation scope, pretreatment, warranty, service terms and the cash price. Two quotes with the same total often buy very different systems. Then hold each quote against an online benchmark. In October 2026, comparable online 48,000-grain softeners sold for about $630 to $1,370 before installation.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this page was built.** No softener or installer was tested. The template is built from what manufacturers' spec sheets and warranty documents actually state, and from the line items installers use. The worked example is illustrative. Benchmark prices are from each brand's own store. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not load for our check.
+> **How this page was built.** No softener or installer was tested. The template is built from what manufacturers' spec sheets and warranty documents actually state, and from the line items installers use. The worked example is illustrative. The benchmark range comes from the brands' own stores in October 2026. **Prices of individual products are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Water Softener Quotes Comparison Template
 
@@ -61,7 +61,7 @@ Here is how two quotes for $3,200 can look once the template is filled in. Both 
 | Service | Five annual visits included | First visit free |
 | Cash price | $3,200 | $3,200, or $59 a month |
 
-![Stacked bar chart of two illustrative water softener quotes both totalling $3,200: Quote A splits into softener, carbon prefilter, installation and service, while Quote B is mostly softener package with basic installation, against a $785 online benchmark](/diagrams/water-softener-quotes-same-total-line-item-split.svg "The same $3,200 can buy a full system or mostly a box")
+![Stacked bar chart of two illustrative water softener quotes both totalling $3,200: Quote A splits into softener, carbon prefilter, installation and service, while Quote B is mostly softener package with basic installation, against the online price range for comparable 48,000-grain systems](/diagrams/water-softener-quotes-same-total-line-item-split.svg "The same $3,200 can buy a full system or mostly a box")
 
 Quote A buys a larger bed, a standard valve any installer can service, chlorine protection for the resin and five years of visits. Quote B buys a smaller bed whose capacity was never stated at a salt dose, a valve only one company can fix, and a basic hookup. Neither number on the bottom line tells you that. The template does.
 
@@ -120,17 +120,17 @@ A "lifetime" warranty that requires a paid annual visit is a service contract wi
 
 ## Online Benchmarks to Hold Each Quote Against
 
-These three systems are not recommendations for every home. They are dated price points for a 1.5 cubic foot class softener, so you can see how much of a quote is equipment.
+These three systems are not recommendations for every home. They are 1.5 cubic foot class softeners that, in October 2026, sold online for about $630 to $1,370 before installation, so you can see how much of a quote is equipment.
 
-| Benchmark | What it is | Price, 2 Oct 2026 | Amazon |
-|---|---|---|---|
-| AFWFilters 48k, 10% crosslink | Fleck 5600SXT metered valve, 1.5 cu ft of 10% resin, brine tank and bypass | about $785 on sale, $934 regular (AFWFilters store) | [B00YFOTWZG](https://www.amazon.com/dp/B00YFOTWZG) |
-| Aquasure Harmony 48,000 (AS-HS48D) | Aquasure's own digital metered head on a 10 x 54 in tank | about $630 (Aquasure store) | [B07F175C2R](https://www.amazon.com/dp/B07F175C2R) |
-| SoftPro Elite 48,000 | 10% crosslink resin, upflow brining | about $1,367 on sale (SoftPro store) | [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) |
+| Benchmark | What it is | Amazon |
+|---|---|---|
+| AFWFilters 48k, 10% crosslink | Fleck 5600SXT metered valve, 1.5 cu ft of 10% resin, brine tank and bypass | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) |
+| Aquasure Harmony 48,000 (AS-HS48D) | Aquasure's own digital metered head on a 10 x 54 in tank | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| SoftPro Elite 48,000 | 10% crosslink resin, upflow brining | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 
-*The Aquasure Harmony listing in our original research (B07F19VL3P) is unavailable on Amazon, so the current listing for the same model is shown.*
+*The Aquasure Harmony listing in our original research is unavailable on Amazon, so the current listing for the same model is shown.*
 
-**How to use them.** Subtract the installation lines from a quote and compare what is left with these prices. If an independent installer's equipment line for a 1.5 cubic foot Fleck system is $1,100 to $1,400, that is a normal markup for supplying, warranting and standing behind it. If a dealer's equipment line is $3,500 for a unit with a similar resin volume, ask what the extra $2,000 or more buys. Sometimes it is a long labor warranty and service. Sometimes it is the sales visit.
+**How to use them.** Subtract the installation lines from a quote and compare what is left with the current prices of these systems. If an independent installer's equipment line for a 1.5 cubic foot Fleck system is $1,100 to $1,400, that is a normal markup for supplying, warranting and standing behind it. If a dealer's equipment line is $3,500 for a unit with a similar resin volume, ask what the extra $2,000 or more buys. Sometimes it is a long labor warranty and service. Sometimes it is the sales visit.
 
 **What they leave out.** The online price includes no installation, no warranty labor and no one to call. Add the installation lines from your quotes to the benchmark before you compare totals. An online unit installed by a plumber is a real third option, not just a price check.
 

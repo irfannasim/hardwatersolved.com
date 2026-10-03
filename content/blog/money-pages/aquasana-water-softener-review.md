@@ -1,8 +1,8 @@
 ---
 title: "Aquasana Water Softener Review: A Filter Brand's Scale Claims"
 seoTitle: "Aquasana Water Softener Review: Filter Brand, Softener?"
-seoDescription: "This Aquasana water softener review separates its well-documented filtration from its salt-free scale control, and compares 10-year cost."
-excerpt: "Aquasana does not sell a water softener. It sells the Rhino whole-house filter, which has published NSF/ANSI 42 test data for chlorine, plus a salt-free scale conditioner whose evidence is a single line saying it was independently tested. This review separates the two halves, shows which certification applies to which stage, sets out the conditioner's narrow operating limits, and compares the 10-year cost against a filter plus a conventional softener."
+seoDescription: "This Aquasana water softener review separates its well-documented filtration from its salt-free scale control, and compares 10-year running costs."
+excerpt: "Aquasana does not sell a water softener. It sells the Rhino whole-house filter, which has published NSF/ANSI 42 test data for chlorine, plus a salt-free scale conditioner whose evidence is a single line saying it was independently tested. This review separates the two halves, shows which certification applies to which stage, sets out the conditioner's narrow operating limits, and compares the 10-year running costs against a filter plus a conventional softener."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -29,20 +29,20 @@ faqs:
 
 ## What Aquasana Actually Sells
 
-| System | Amazon | What it contains | Aquasana store price, 1 Oct 2026 |
-|---|---|---|---|
-| Rhino filter + salt-free conditioner | Currently unavailable (1 Oct 2026); buy from Aquasana | Carbon and KDF filter tank, pre-filter, salt-free conditioner | about $1,773 ($999 Rhino + $774 conditioner upgrade) |
-| Rhino well water with UV + salt-free conditioner | [B00LC1KRKO](https://www.amazon.com/dp/B00LC1KRKO) | Filter tank, salt-free conditioner, UV stage | about $2,697 as a complete system with upgrades |
-| Rhino filter only | [B00XAJJVHQ](https://www.amazon.com/dp/B00XAJJVHQ) | Carbon and KDF filter tank, pre-filter | about $999 |
-| Salt-free conditioner on its own | not checked | Scale Control Media tank | about $879 |
+| System | What it contains | Amazon |
+|---|---|---|
+| Rhino filter + salt-free conditioner | Carbon and KDF filter tank, pre-filter, salt-free conditioner | Currently unavailable (1 Oct 2026); buy from Aquasana |
+| Rhino well water with UV + salt-free conditioner | Filter tank, salt-free conditioner, UV stage | [Check price on Amazon](https://www.amazon.com/dp/B00LC1KRKO) |
+| Rhino filter only | Carbon and KDF filter tank, pre-filter | [Check price on Amazon](https://www.amazon.com/dp/B00XAJJVHQ) |
+| Salt-free conditioner on its own | Scale Control Media tank | not checked |
 
-Aquasana's store showed these as sale prices during a promotion advertised to 30 September; the list prices are about double. The Amazon listing for the Rhino plus salt-free conditioner package showed "Currently unavailable" when checked on 1 October 2026, so for that combination buy from Aquasana's own store at the price above. The other two Amazon listings use Aquasana's older EQ-1000 model names, so check that what ships is the current Rhino. Amazon did not show prices to our tools.
+Aquasana's store runs promotions, and its sale prices can sit far below list. The Amazon listing for the Rhino plus salt-free conditioner package showed "Currently unavailable" when checked on 1 October 2026, so for that combination buy from Aquasana's own store. The other two Amazon listings use Aquasana's older EQ-1000 model names, so check that what ships is the current Rhino.
 
 **Do not confuse generations.** Aquasana's older SimplySoft unit, the EQ-SS20, was described as phosphate-based scale control, not crystal-forming media. Reviews and Q&A written about it do not apply to the current conditioner.
 
-> **How this review was put together.** No Aquasana system was physically tested. The review uses Aquasana's product pages, its performance data sheets, its certified products list, and the household water-use figure used across this site (70 gallons per person per day). The cost comparison uses Aquasana store prices on 1 October 2026 and this site's published salt-cost figures.
+> **How this review was put together.** No Aquasana system was physically tested. The review uses Aquasana's product pages, its performance data sheets, its certified products list, and the household water-use figure used across this site (70 gallons per person per day). The running-cost comparison uses this site's published salt-cost figures.
 >
-> Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Aquasana Water Softener Review: Which Certification Covers Which Stage
 
@@ -79,23 +79,23 @@ This is where Aquasana is strong, and where buyers sometimes expect too much fro
 
 So the real question for most buyers is not "Aquasana or a softener?" It is whether they need chlorine reduction, scale control, or both, and how much evidence they want behind each.
 
-## 10-Year Cost Compared
+## 10-Year Running Cost Compared
 
 For a family of four using 70 gallons each per day, about 102,000 gallons a year. Both Aquasana tanks are rated for 1,000,000 gallons or 10 years, so this household reaches the end of their rated life at about year 10.
 
-| Setup | Equipment | Running cost over 10 years | 10-year total | What you get |
-|---|---|---|---|---|
-| Rhino filter only | about $999 | pre-filters only | about $999 plus pre-filters | Chlorine reduction, no scale control |
-| Rhino + salt-free conditioner | about $1,773 | pre-filters only | about $1,773 plus pre-filters | Chlorine reduction plus scale control, under 15 gpg only |
-| Rhino + a $541 cabinet softener | about $1,540 | salt, about $470 to $700 | about $2,010 to $2,240 plus pre-filters | Chlorine reduction plus soft water, at any normal hardness |
+| Setup | Running cost over 10 years | What you get |
+|---|---|---|
+| Rhino filter only | pre-filters only | Chlorine reduction, no scale control |
+| Rhino + salt-free conditioner | pre-filters only | Chlorine reduction plus scale control, under 15 gpg only |
+| Rhino + a basic cabinet softener | pre-filters plus salt, about $470 to $700 | Chlorine reduction plus soft water, at any normal hardness |
 
-*Equipment at Aquasana's 1 October sale prices; the softener at the price of a WaterBoss 900 at Home Depot. Salt from this site's illustrative $7 per 40 lb bag at an efficient dose, for 10 to 15 gpg. Installation, pre-filter cartridges and the softener's drain connection are not included.*
+*Salt from this site's illustrative $7 per 40 lb bag at an efficient dose, for 10 to 15 gpg. Equipment, installation, pre-filter cartridges and the softener's drain connection are not included.*
 
 Three points stand out:
 
-1. **The conditioner saves about $240 to $470 over ten years** against a filter plus a basic softener, before installation. That is the price of avoiding salt and a drain line.
+1. **The conditioner has no salt bill.** Against a filter plus a basic softener, that is what its extra cost buys: no salt and no drain line.
 2. **The softener does more for the money.** It removes hardness, so soap lathers and laundry benefits, and its performance can be certified.
-3. **At list price rather than sale price,** the Aquasana options roughly double, and the conditioner becomes the most expensive route.
+3. **Compare equipment prices on the day you buy.** Aquasana's prices move a long way between sale and list, so set the conditioner's current price against a basic softener's plus ten years of salt.
 
 The full comparison between salt-based and salt-free approaches is in [salt-based vs salt-free water treatment](/blog/salt-based-vs-salt-free-water-treatment/).
 
@@ -109,6 +109,6 @@ Aquasana gives the Rhino and the salt-free conditioner a 10-year limited warrant
 - **Anyone who wants soft water**, for lather, laundry or appliances with a hardness requirement. The water stays hard.
 - **Buyers who want certified scale performance.** None is published for this conditioner.
 - **Wells with iron, manganese or sulfur.** Nothing in the well package removes them.
-- **Anyone buying it mainly for scale on a tight budget.** At sale prices, a filter plus a basic softener costs a little more and does more.
+- **Anyone buying it mainly for scale on a tight budget.** A filter plus a basic softener does more, and at sale prices it costs only a little more.
 
 Buy the Rhino if chlorine is your problem; its evidence is solid. Add the conditioner only if your water sits comfortably inside its limits and you accept that its scale claim is Aquasana's word rather than a published test.

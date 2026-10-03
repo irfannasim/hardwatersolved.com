@@ -37,9 +37,9 @@ The bigger problem is availability. The Morton MSD34C shows as currently unavail
 - **Iron:** the M34 is rated for up to 9 ppm of clear-water iron, backed by WQA test data. Red-water and bacterial iron are out of scope.
 - **Availability:** the MSD34C is listed on Amazon as unavailable. Buy only from stock you can see, and check that the seller still supports parts.
 
-> **How this review was put together.** No softener was physically tested. The review uses the Morton System Saver manual for models M20 to M34, the M45C manual, the current NSF certification listing, and the salt-use formula from this site's guide to [how much salt a water softener uses](/blog/how-much-salt-does-a-water-softener-use/). The conventional reference figures come from the Hellenbrand ProMate 6.0 capacity table used in that guide. Each Amazon listing was opened to confirm the page exists; Amazon did not show prices to our tools.
+> **How this review was put together.** No softener was physically tested. The review uses the Morton System Saver manual for models M20 to M34, the M45C manual, the current NSF certification listing, and the salt-use formula from this site's guide to [how much salt a water softener uses](/blog/how-much-salt-does-a-water-softener-use/). The conventional reference figures come from the Hellenbrand ProMate 6.0 capacity table used in that guide. Each Amazon listing was opened to confirm the page exists.
 >
-> Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## What Morton Sells, and What You Can Still Buy
 
@@ -55,7 +55,7 @@ Morton is a salt company. Its softeners are made for it, and NSF's [current NSF/
 
 The same company is listed behind Whirlpool and EcoPure softeners on NSF's register. That is useful when you shop: the alternatives below are close relatives, not strangers.
 
-The Amazon listing for the Morton MSD34C (B00828F4Q2) showed "currently unavailable" when the products for this review were researched, and again on 1 October 2026, with no price visible. Treat any remaining stock as clearance, and check the parts situation before buying.
+The Amazon listing for the Morton MSD34C showed "currently unavailable" when the products for this review were researched, and again on 1 October 2026. Treat any remaining stock as clearance, and check the parts situation before buying.
 
 ## The M34 Spec Sheet, Normalised
 
@@ -130,9 +130,13 @@ The manual's troubleshooting section lists the causes of a softener that will no
 
 Because the MSD34C is unavailable, the realistic choice is a close relative. Both of these come from the same company that makes Morton's softeners.
 
-**[EcoPure EPH130 (B0GMYSW7MG)](https://www.amazon.com/dp/B0GMYSW7MG): the in-stock cabinet from Morton's maker.** About $699 (approx.). It is not a like-for-like M34: the listing describes a 2-in-1 cabinet that combines softening resin with filtration media for better-tasting water, AutoSense demand regeneration with up to 40% less salt than traditional systems, and sizing for households of up to five people. The listing title does not give a grain rating, and we could not confirm a grains-per-pound figure, so read the spec label and the manual before you compare it with the M34's 5,060 grains per pound.
+**EcoPure EPH130: the in-stock cabinet from Morton's maker.** It is not a like-for-like M34: the listing describes a 2-in-1 cabinet that combines softening resin with filtration media for better-tasting water, AutoSense demand regeneration with up to 40% less salt than traditional systems, and sizing for households of up to five people. The listing title does not give a grain rating, and we could not confirm a grains-per-pound figure, so read the spec label and the manual before you compare it with the M34's 5,060 grains per pound.
 
-**[EcoPure EP42 (B01N5S92DK)](https://www.amazon.com/dp/B01N5S92DK): for bigger households.** Listed at about $690 at Ace Hardware; Amazon did not show a price. Retailer listings give 42,000 grains, up to 110 gpg of hardness and up to 11 ppm of iron, and the NSF listing rates it at 8.2 gpm. We could not confirm its grains-per-pound figure from a current manual, so compare it on the spec label before you buy.
+[Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG)
+
+**EcoPure EP42: for bigger households.** Retailer listings give 42,000 grains, up to 110 gpg of hardness and up to 11 ppm of iron, and the NSF listing rates it at 8.2 gpm. We could not confirm its grains-per-pound figure from a current manual, so compare it on the spec label before you buy.
+
+[Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK)
 
 ## Who Should Not Buy a Morton Softener
 

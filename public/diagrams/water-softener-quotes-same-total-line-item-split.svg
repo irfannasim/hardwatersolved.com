@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="wqs-title wqs-desc">
 <title id="wqs-title">Water softener quotes: two $3,200 quotes split by line item</title>
-<desc id="wqs-desc">Illustrative stacked bars. Quote A totals 3,200 dollars: 1,400 for a 1.5 cubic foot softener, 600 for a carbon prefilter, 800 for installation with a new loop and drain, and 400 for five years of service. Quote B also totals 3,200 dollars: 2,700 for a dealer softener package and 500 for basic installation. An online 48,000 grain softener with 10% resin sold for about 785 dollars before installation.</desc>
+<desc id="wqs-desc">Illustrative stacked bars. Quote A totals 3,200 dollars: 1,400 for a 1.5 cubic foot softener, 600 for a carbon prefilter, 800 for installation with a new loop and drain, and 400 for five years of service. Quote B also totals 3,200 dollars: 2,700 for a dealer softener package and 500 for basic installation. Comparable online 48,000 grain softeners sold for about 630 to 1,370 dollars before installation.</desc>
 <rect width="760" height="500" fill="#ffffff"/>
 <text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Same $3,200 total, two different systems</text>
 <text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative water softener quotes, split by line item</text>
@@ -28,10 +28,10 @@
 <text x="200" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">About 1 cu ft, proprietary valve, no pretreatment, basic hookup</text>
 
 <text x="30" y="296" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Online benchmark</text>
-<text x="30" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">48k, 10% resin, Fleck</text>
-<rect x="200" y="280" width="112" height="40" fill="#0e7490" fill-opacity="0.55"/>
-<text x="256" y="305" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">$785</text>
-<text x="322" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">equipment only, before installation</text>
+<text x="30" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">online 48k systems</text>
+<rect x="290" y="280" width="106" height="40" fill="#0e7490" fill-opacity="0.55"/>
+<text x="406" y="305" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$630 to $1,370</text>
+<text x="516" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">equipment only</text>
 
 <path class="ln" d="M200,350 L700,350" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
 <path class="ln" d="M200,350 L200,357" stroke="#3a5a72" stroke-width="1.5"/>
@@ -52,5 +52,5 @@
 <rect x="500" y="400" width="14" height="14" fill="#52697a"/>
 <text x="522" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">service visits</text>
 <text x="30" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The total hides the split. Ask every company to price these lines separately.</text>
-<text x="30" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Benchmark: AFWFilters store price on 2 October 2026.</text>
+<text x="30" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Benchmark: range of three online 48k systems, October 2026, before installation.</text>
 </svg>

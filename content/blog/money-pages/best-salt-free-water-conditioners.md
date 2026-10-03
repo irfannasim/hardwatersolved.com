@@ -29,20 +29,20 @@ The **best salt-free water conditioners** are the Watts OneFlow+ for most city h
 
 ## The Best Salt-Free Water Conditioners at a Glance
 
-| Pick | Media | Best evidence published | Hardness limit | Media life | Approx. price | Amazon |
-|---|---|---|---|---|---|---|
-| Watts OneFlow+ OFPSYS: best for most city homes | Crystal-forming media plus carbon block | Watts cites DVGW W 512-based testing of the media type | 30 gpg | Scale cartridge 250,000 gal or 3 years | about $750 | [B01H273O4M](https://www.amazon.com/dp/B01H273O4M) |
-| NuvoH2O Manor: best documented single product | Citric acid cartridge | Maker-funded heater study run with Battelle | 25 gpg | About 6 months or 50,000 gal | about $1,220 brand store | [B01ASXMI44](https://www.amazon.com/dp/B01ASXMI44) |
-| Aquasana Rhino + salt-free conditioner: best with chlorine filtration | Scale control media plus carbon and KDF filter | "Independently tested", nothing named | Under 15 gpg | 1,000,000 gal or 10 years | about $1,773 brand store | [B00XAJK0S0](https://www.amazon.com/dp/B00XAJK0S0) |
+| Pick | Media | Best evidence published | Hardness limit | Media life | Amazon |
+|---|---|---|---|---|---|
+| Watts OneFlow+ OFPSYS: best for most city homes | Crystal-forming media plus carbon block | Watts cites DVGW W 512-based testing of the media type | 30 gpg | Scale cartridge 250,000 gal or 3 years | [Check price on Amazon](https://www.amazon.com/dp/B01H273O4M) |
+| NuvoH2O Manor: best documented single product | Citric acid cartridge | Maker-funded heater study run with Battelle | 25 gpg | About 6 months or 50,000 gal | [Check price on Amazon](https://www.amazon.com/dp/B01ASXMI44) |
+| Aquasana Rhino + salt-free conditioner: best with chlorine filtration | Scale control media plus carbon and KDF filter | "Independently tested", nothing named | Under 15 gpg | 1,000,000 gal or 10 years | [Check price on Amazon](https://www.amazon.com/dp/B00XAJK0S0) |
 
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Every limit and claim is quoted from the maker's specification sheet, manual, product page or warranty, and the evidence grade is based on what those documents name.
 >
 > - **Entry gate:** published scale-reduction evidence that goes beyond the maker's own say-so, ideally a third-party test to the German DVGW W 512 protocol or an equivalent heated test. Where no product met that fully, we ranked by how close each maker's evidence gets and said so.
-> - **Also required:** a published table of hardness, pH, iron, manganese and chlorine limits, so you can rule the unit out against your own water test, and a normal price above $100 on Amazon.
+> - **Also required:** a published table of hardness, pH, iron, manganese and chlorine limits, so you can rule the unit out against your own water test, and a listing on Amazon.
 > - **Excluded:** SpringWell FutureSoft (its "up to 95%" claim names no test, and its Amazon listings showed no offer when this site checked on 1 October); Pentair Pelican NaturSoft (every Amazon listing unavailable on 1 October); Aquasure Serene (no test and no water limits on its product page); the A. O. Smith whole-house descaler (its owner's manual gives no hardness, iron or pH limits and restricts it to municipal water); and electronic coil descalers, a different technology covered on a separate page.
-> - **Prices checked 2 October 2026 where the seller's site would load; Amazon prices change often, so check the current price before buying.** Amazon pages would not load for our check. The Watts price is the Amazon figure this site recorded on 1 October 2026; the NuvoH2O and Aquasana prices are their own stores' prices from the same day.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Evidence Behind Each Scale Claim
 
@@ -94,7 +94,8 @@ Three things to take from it:
 - **Cartridge life:** scale cartridge 250,000 gallons or 3 years, whichever comes first; carbon block about once a year (rated for 50,000 gallons of chlorine taste reduction at 3 gpm)
 - **Size:** about 18.75 inches tall, 16 lb dry, wall-mounted
 - **Certification:** WQA to NSF/ANSI/CAN 372, lead-free materials only
-- **Price:** about $750 on Amazon, sold by Amazon.com, on 1 October 2026. [See it on Amazon (B01H273O4M)](https://www.amazon.com/dp/B01H273O4M)
+
+[Check price on Amazon](https://www.amazon.com/dp/B01H273O4M)
 
 Watts publishes the fullest limits table of any conditioner we checked, and it is unusually frank about what the product will not do. The sheet says it "is not a water softener", that "soft scale spotting may occur", and that a point-of-use softener should be used where spot-free results are mandatory, such as glass stemware. It also explains its own hardness number: the media controls scale inside the plumbing up to 30 gpg, and that figure is a recommended maximum because of residue outside the plumbing.
 
@@ -109,11 +110,12 @@ It is a cartridge system, so it is compact and needs no soaking or flushing of a
 - **Cartridge life:** about 6 months or 50,000 gallons
 - **Evidence:** a maker-funded study run with Battelle on tankless water heaters
 - **Guarantee:** 90-day money-back, 5-year limited warranty (a 20 percent restocking fee applies to installs by its partner)
-- **Price:** $1,219.99 at NuvoH2O's store on 1 October 2026; seen at about $800 at Menards in late September. [See it on Amazon (B01ASXMI44)](https://www.amazon.com/dp/B01ASXMI44)
+
+[Check price on Amazon](https://www.amazon.com/dp/B01ASXMI44)
 
 NuvoH2O is not TAC, and it is the only pick that adds something to the water. That is both its weakness and why it has better evidence: a dosed chemical can be tested on a specific product more easily than a generic media. The heater study is a strong result on one water and one appliance, under a protocol NuvoH2O approved. Treat it as real evidence with a sponsor, not as independent proof.
 
-**Watch for:** two costs the box price hides. The cartridge runs out every six months or so, which adds up to roughly $2,200 over ten years for a family of four at late-September retail prices. And the pH drop matters in a copper-plumbed house near the bottom of the range. Test pH before buying and again a month after installation.
+**Watch for:** two costs the box price hides. The cartridge runs out every six months or so, which adds up to about twenty cartridges over ten years for a family of four. And the pH drop matters in a copper-plumbed house near the bottom of the range. Test pH before buying and again a month after installation.
 
 ### Aquasana Rhino with salt-free conditioner: best with chlorine filtration
 
@@ -122,11 +124,12 @@ NuvoH2O is not TAC, and it is the only pick that adds something to the water. Th
 - **Media life:** 1,000,000 gallons or 10 years for each tank
 - **Evidence:** the filter has published NSF/ANSI 42 test data for chlorine; the conditioner is described only as "independently tested"
 - **Guarantee:** 10-year limited warranty and 90-day satisfaction guarantee, per the product pages
-- **Price:** about $1,773 at Aquasana's store on 1 October 2026 ($999 Rhino plus a $774 conditioner upgrade, sale prices). [See the Amazon listing (B00XAJK0S0)](https://www.amazon.com/dp/B00XAJK0S0)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00XAJK0S0)
 
 Buy this one for the filter, and treat the conditioner as a bonus that works only on fairly moderate water. The Rhino's chlorine claim is the best-documented figure anywhere on this page: Aquasana's data sheet shows more than 97.4 percent free chlorine reduction across its full 1,000,000-gallon rating. The conditioner's evidence is the weakest of the three picks, and its 15 gpg ceiling is the lowest.
 
-**Watch for:** availability and sale pricing. The Amazon listing loaded on 2 October but showed us no price or stock status, and this site found the Rhino-plus-conditioner package unavailable on Amazon on 1 October. Aquasana's store prices were promotional, with list prices roughly double.
+**Watch for:** availability. This site found the Rhino-plus-conditioner package unavailable on Amazon on 1 October, so confirm the listing is in stock before planning around it.
 
 ## Which Pick for Your Water Test
 
@@ -146,8 +149,8 @@ None of the three needs salt, electricity or a drain. All three have a part that
 
 | Pick | Replaced part | Interval | What we could confirm |
 |---|---|---|---|
-| Watts OneFlow+ | Scale cartridge; carbon block | 3 years or 250,000 gal; about yearly | Intervals from the spec sheet; current cartridge prices not verified |
-| NuvoH2O Manor | Citric acid cartridge | About 6 months or 50,000 gal | About $108 a cartridge at retail in late September |
+| Watts OneFlow+ | Scale cartridge; carbon block | 3 years or 250,000 gal; about yearly | Intervals from the spec sheet |
+| NuvoH2O Manor | Citric acid cartridge | About 6 months or 50,000 gal | Interval from NuvoH2O's product pages |
 | Aquasana | Pre-filters; both tanks at end of life | Pre-filters more often; tanks at 10 years | Tank life from the product page |
 
 For a family of four using about 102,000 gallons a year, the Watts scale cartridge reaches its three-year limit before its gallon limit, and the NuvoH2O Manor needs about two cartridges a year. Price the replacements on the day you buy. A cheap housing with dear cartridges is the most common way a salt-free system ends up costing more than a softener.

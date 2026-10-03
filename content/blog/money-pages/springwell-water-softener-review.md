@@ -23,13 +23,13 @@ faqs:
     answer: "Yes. SpringWell ships it for DIY installation with an illustrated guide, and the steps are typical of a whole-house softener: cut the main line, fit the bypass and connectors, run a drain line, fill the brine tank with 4 to 5 bags of salt, then program it from the phone app and run a 90-minute first regeneration. You need a drain, a power outlet, and local code compliance, which may require a licensed plumber."
 ---
 
-**A SpringWell water softener is a fair-value DIY salt-based softener, provided you know three things the product page does not spell out.** It ships with a Bluetooth head whose maker SpringWell does not name. Its resin grade is not stated on the brand's own page. And its "6-month money-back guarantee" covers uninstalled units only; once it is plumbed in, you are relying on a troubleshooting promise and the warranty. Programmed with a realistic capacity figure, the SS4 (48,000 grains, about $1,785 direct) is a sound softener for a typical family. Programmed straight from the manual, it can run hard before it regenerates.
+**A SpringWell water softener is a fair-value DIY salt-based softener, provided you know three things the product page does not spell out.** It ships with a Bluetooth head whose maker SpringWell does not name. Its resin grade is not stated on the brand's own page. And its "6-month money-back guarantee" covers uninstalled units only; once it is plumbed in, you are relying on a troubleshooting promise and the warranty. Programmed with a realistic capacity figure, the SS4 (48,000 grains, sold direct) is a sound softener for a typical family. Programmed straight from the manual, it can run hard before it regenerates.
 
 This SpringWell water softener review is built from SpringWell's product page, its SS1/SS4 installation guide, its warranty page and its shipping and returns policy, all read on 1 October 2026. Nothing here comes from physical testing.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this review was put together.** Specs and prices from springwellwater.com; programming values from the [SS1/SS4 installation instructions](https://www.springwellwater.com/wp-content/uploads/2020/01/SS1_SS4-Installation-Instructions.pdf); warranty and guarantee wording quoted from SpringWell's [warranty page](https://www.springwellwater.com/warranty/) and [shipping and returns policy](https://www.springwellwater.com/shipping/). Capacity is restated at a stated salt dose using industry per-cubic-foot figures, because SpringWell rates its units only by grain number. Where SpringWell does not publish a detail, this review says so rather than filling the gap. Prices checked 1 October 2026 at SpringWell's own store; its Amazon listings showed "Currently unavailable" that day. Check the current price before buying.
+> **How this review was put together.** Specs from springwellwater.com; programming values from the [SS1/SS4 installation instructions](https://www.springwellwater.com/wp-content/uploads/2020/01/SS1_SS4-Installation-Instructions.pdf); warranty and guarantee wording quoted from SpringWell's [warranty page](https://www.springwellwater.com/warranty/) and [shipping and returns policy](https://www.springwellwater.com/shipping/). Capacity is restated at a stated salt dose using industry per-cubic-foot figures, because SpringWell rates its units only by grain number. Where SpringWell does not publish a detail, this review says so rather than filling the gap. **Prices are not listed here** because they change often; check the current price on SpringWell's own store. Its Amazon listings showed "Currently unavailable" on 1 October 2026.
 
 ## SpringWell Water Softener Review: What Ships in the Box
 
@@ -47,9 +47,8 @@ SpringWell sells three sizes of its SS salt-based softener. The product page lis
 | Operating pressure | 25 to 80 psi | 25 to 80 psi | 25 to 80 psi |
 | Temperature | 36 to 120°F | 36 to 120°F | 36 to 120°F |
 | pH range | 6.5 to 10 | 6.5 to 10 | 6.5 to 10 |
-| Price direct (1 Oct 2026) | about $1,607 (list $1,890) | about $1,785 (list $2,100) | about $2,678 (list $3,150) |
 
-The box contains the softener tank (shipped with media inside), the brine tank, a drain line, MNPT fittings, the electronic head, a power supply and a hose clamp. The bypass valve is a separate line item, about $59, which the site adds to the cart by default. Keep it. Without a bypass, every service visit means shutting off the main.
+The box contains the softener tank (shipped with media inside), the brine tank, a drain line, MNPT fittings, the electronic head, a power supply and a hose clamp. The bypass valve is a separate line item, which the site adds to the cart by default. Keep it. Without a bypass, every service visit means shutting off the main.
 
 What the page does not list is just as useful to know:
 
@@ -146,7 +145,7 @@ Read together, the guarantee works like this:
 | Installed, SpringWell confirms a defect | Full refund of the product; installation costs not refunded |
 | Refused delivery or extra handling | Restocking fee of up to 25% |
 
-On an SS4 at about $1,785, a boxed return costs roughly $180 in restocking plus freight both ways. An installed unit that "works" but leaves you dissatisfied, for example because of the hard-water gap described above, does not qualify for a refund. That is the most important thing to understand before relying on the badge.
+On a boxed return you lose a tenth of the price in restocking, plus freight both ways. An installed unit that "works" but leaves you dissatisfied, for example because of the hard-water gap described above, does not qualify for a refund. That is the most important thing to understand before relying on the badge.
 
 These terms are written for purchases from SpringWell's own store, which is where the softener is sold for now: its Amazon listing showed "Currently unavailable" on 1 October 2026.
 
@@ -171,17 +170,17 @@ Resin is not named among the lifetime "covered items" for the salt-based softene
 
 ## Price and DIY Value
 
-| Option | Price, 1 Oct 2026 | Notes |
-|---|---|---|
-| SS1, direct | about $1,607 | 32,000 grains |
-| SS4, direct | about $1,785 | 48,000 grains |
-| SS+, direct | about $2,678 | 80,000 grains |
-| Bypass valve | about $59 | Recommended |
-| Filter + salt softener combo (CSS1 / CSS4 / CSS+), direct | about $2,231 / $2,499 / $4,284 | Adds a SpringWell whole-house carbon filter |
+| Option | Notes |
+|---|---|
+| SS1, direct | 32,000 grains |
+| SS4, direct | 48,000 grains |
+| SS+, direct | 80,000 grains |
+| Bypass valve | Sold separately; recommended |
+| Filter + salt softener combo (CSS1 / CSS4 / CSS+), direct | Adds a SpringWell whole-house carbon filter |
 
 SpringWell's prices show a permanent-looking discount from list, so treat the sale price as the real price.
 
-For context, a generic online 48,000-grain softener on a Fleck 5600SXT valve sells for roughly $750 to $800 from the larger online sellers. The SpringWell SS4 costs about $1,000 more. That extra buys a newer app-based head, a longer stated warranty on tanks and valves, SpringWell's phone support, and a larger service flow rating. It does not buy more resin. Whether that premium is worth it comes down to how much the warranty and support matter to you against having a valve any local technician can service.
+For context, a generic online 48,000-grain softener on a Fleck 5600SXT valve from the larger online sellers costs considerably less than the SpringWell SS4. The extra buys a newer app-based head, a longer stated warranty on tanks and valves, SpringWell's phone support, and a larger service flow rating. It does not buy more resin. Whether that premium is worth it comes down to how much the warranty and support matter to you against having a valve any local technician can service.
 
 ### Installing it yourself
 
@@ -189,10 +188,10 @@ SpringWell designs the SS for DIY installation. The guide covers cutting into th
 
 ## Buying Direct (Amazon Listings Unavailable)
 
-SpringWell has Amazon listings for this softener and for its softener-plus-filter combo, but both showed "Currently unavailable" when checked on 1 October 2026, with no offer to buy. For now, buy direct from SpringWell, at the prices it listed that day:
+SpringWell has Amazon listings for this softener and for its softener-plus-filter combo, but both showed "Currently unavailable" when checked on 1 October 2026, with no offer to buy. For now, buy direct from SpringWell and check the current price there:
 
-- **SpringWell salt-based water softener system.** About $1,607 (SS1) to $2,678 (SS+) direct.
-- **SpringWell water filter and salt softener combo.** The softener plus a whole-house carbon filter. About $2,231 to $4,284 direct, depending on size.
+- **SpringWell salt-based water softener system.** SS1, SS4 and SS+ sizes, sold direct.
+- **SpringWell water filter and salt softener combo.** The softener plus a whole-house carbon filter, sold direct in three sizes.
 
 If the Amazon listings come back, compare the price on the day and check whose returns policy applies. The warranty requires registration with SpringWell either way.
 
@@ -201,7 +200,7 @@ If the Amazon listings come back, compare the price on the day and check whose r
 - **Anyone who wants a valve every local technician can repair.** Choose a Fleck or Clack-based softener instead.
 - **Buyers counting on the money-back guarantee as a trial.** Once installed, it is not a refund promise.
 - **Homes with iron, manganese or hydrogen sulfide.** SpringWell's own warranty text calls for pretreatment on well water with those conditions. You need a filter ahead of the softener, which SpringWell sells as a combo at a higher price.
-- **Small households on moderately hard water.** At 1.0 cubic foot of resin, the SS1 is a sensible size, but at about $1,607 it costs well above a comparable generic 32,000-grain unit.
+- **Small households on moderately hard water.** At 1.0 cubic foot of resin, the SS1 is a sensible size, but it costs well above a comparable generic 32,000-grain unit.
 - **Anyone who mainly wants scale control without salt.** A softener is the wrong category; the trade-offs are set out in [salt-based vs salt-free water treatment](/blog/salt-based-vs-salt-free-water-treatment/).
 - **Anyone unwilling to adjust the default programming.** The capacity setting in the guide is the box rating. If you will not check it, choose a dealer-installed system set up by someone else.
 

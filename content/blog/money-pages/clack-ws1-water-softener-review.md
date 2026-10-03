@@ -1,8 +1,8 @@
 ---
-title: "Clack WS1 Water Softener Review: Programming, Parts and Repair Costs"
+title: "Clack WS1 Water Softener Review: Programming, Parts and Repairs"
 seoTitle: "Clack WS1 Water Softener Review: 5 Strengths, 3 Limits"
-seoDescription: "This Clack WS1 water softener review compares flow, programming and repair against Fleck, and shows which parts fail most and what they cost."
-excerpt: "The Clack WS1 is one of the two control valves most online softeners are built around. This review reads its service manual instead of its sales copy: what the 27 gpm rating means in a real system, how to program the four menus, which parts the manual blames when things go wrong, and what those parts cost. It also covers why the one complete Clack system on Amazon is not a buy right now."
+seoDescription: "This Clack WS1 water softener review compares flow, programming and repair against Fleck, and shows which parts fail most and how to fix them."
+excerpt: "The Clack WS1 is one of the two control valves most online softeners are built around. This review reads its service manual instead of its sales copy: what the 27 gpm rating means in a real system, how to program the four menus, and which parts the manual blames when things go wrong. It also covers why the one complete Clack system on Amazon is not a buy right now."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -23,7 +23,7 @@ faqs:
     answer: "Clack sells valves only to system builders and dealers, not to homeowners. Complete Clack WS1 systems come from water-treatment dealers and online specialists. The one complete Clack WS1 system listed on Amazon showed as currently unavailable when checked on 1 October 2026, and the bare head is not sold there. Parts and rebuild kits are widely available."
 ---
 
-This **Clack WS1 water softener review** starts with the answer: the WS1 is an excellent valve that is awkward to buy. It is a 1-inch, piston-type control valve made by Clack Corporation in Windsor, Wisconsin, and one of the two valves most online softeners are built around. Judged on its own service manual, it earns its reputation. It passes 27 gpm at a 15 psi pressure drop, keeps its programme in nonvolatile memory, and comes apart for a rebuild with three wear parts that together cost less than $100. Its limits are practical, not mechanical. Clack's warranty goes to the system builder, not to you. The menus are dense. And the only complete Clack WS1 system on Amazon was showing as unavailable on 1 October 2026.
+This **Clack WS1 water softener review** starts with the answer: the WS1 is an excellent valve that is awkward to buy. It is a 1-inch, piston-type control valve made by Clack Corporation in Windsor, Wisconsin, and one of the two valves most online softeners are built around. Judged on its own service manual, it earns its reputation. It passes 27 gpm at a 15 psi pressure drop, keeps its programme in nonvolatile memory, and comes apart for a rebuild with three wear parts that are sold together as one inexpensive kit. Its limits are practical, not mechanical. Clack's warranty goes to the system builder, not to you. The menus are dense. And the only complete Clack WS1 system on Amazon was showing as unavailable on 1 October 2026.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
@@ -43,7 +43,7 @@ This **Clack WS1 water softener review** starts with the answer: the WS1 is an e
 2. **The menus assume an installer.** System setup asks for grains capacity at your salt fill, which a buyer has to calculate or trust the seller for.
 3. **Hard to buy as a homeowner.** Clack does not sell direct, and the one complete system on Amazon is unavailable.
 
-> **How this review was built.** It is built from documents, not from a unit on a bench. The evidence is Clack's *WS1 & WS1.25 Drawings and Service Manual* (form V3115-99, dated 10/24/2025), the WS1 programming manual, Pentair's 5600SXT specification sheet, distributor system listings and retail parts prices. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **How this review was built.** It is built from documents, not from a unit on a bench. The evidence is Clack's *WS1 & WS1.25 Drawings and Service Manual* (form V3115-99, dated 10/24/2025), the WS1 programming manual, Pentair's 5600SXT specification sheet, distributor system listings and retail parts listings. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Clack WS1 Specifications, From the Service Manual
 
@@ -122,22 +122,22 @@ If you change anything here, write down the original values first.
 
 Diagnostics is read-only and is the WS1's best feature for an owner. It shows days and gallons since the last regeneration, the reserve used on each of the last seven days, a daily usage history of up to 63 days, and total gallons since start-up. If the softener seems to regenerate too often, this tells you whether the cause is water use, such as a running toilet, or the settings.
 
-## Which Clack WS1 Parts Fail, and What They Cost
+## Which Clack WS1 Parts Fail
 
 The troubleshooting table in the service manual names the same few parts again and again. A damaged seal and spacer stack turns up as a cause of hard water at the tap, too much salt use, water running to drain and an E1 error. A plugged injector turns up under failure to draw brine. Foreign matter on the piston and stack turns up under the E3 motor timeout.
 
-![Cross-section of a Clack WS1 control valve with five numbered wear parts, the faults the manual links to each, and approximate replacement costs](/diagrams/clack-ws1-wear-parts-piston-seal-stack-costs.svg "Three of the five common culprits come in one rebuild kit for under $100")
+![Cross-section of a Clack WS1 control valve with five numbered wear parts and the faults the manual links to each](/diagrams/clack-ws1-wear-parts-piston-seal-stack-costs.svg "Three of the five common culprits come in one rebuild kit")
 
-| Part | Clack number | Approx. cost (1 Oct 2026) | Typical symptom |
-|---|---|---|---|
-| Spacer stack (seal pack) | V3005-02 | About $35 | Hard water bleeding through, water running to drain |
-| Main piston, downflow | V3011 | Sold in rebuild kits | Water to drain, E3 motor timeout from drag |
-| Regenerant (brine) piston | V3174 | Sold in rebuild kits | Valve will not draw brine |
-| Injector | V3010-1 series, sized to tank | About $20 | No brine draw, salt level never drops |
-| Complete interior kit (stack + both pistons) | Several brands | Under $100 | All of the above |
-| Complete WS1 head | V1EEDME and similar | About $400 to $550 | Only for a cracked body or failed electronics |
+| Part | Clack number | Typical symptom |
+|---|---|---|
+| Spacer stack (seal pack) | V3005-02 | Hard water bleeding through, water running to drain |
+| Main piston, downflow | V3011 (sold in rebuild kits) | Water to drain, E3 motor timeout from drag |
+| Regenerant (brine) piston | V3174 (sold in rebuild kits) | Valve will not draw brine |
+| Injector | V3010-1 series, sized to tank | No brine draw, salt level never drops |
+| Complete interior kit (stack + both pistons) | Several brands | All of the above |
+| Complete WS1 head | V1EEDME and similar | Only for a cracked body or failed electronics |
 
-Parts prices are approximate figures from US parts retailers and Amazon listings. They are sub-$100 parts, so we don't link them as picks.
+These parts are sold by US parts retailers and on Amazon. They are inexpensive wear parts rather than complete systems, so we don't link them as picks.
 
 The rebuild itself is designed for an owner. Clack notes that caps and nuts need only firm hand tightening because they seal on o-rings, and that only silicone-based lubricant may be used, never petroleum jelly, WD-40 or spray silicone. Our guide to [servicing a softener control valve](/blog/servicing-a-water-softener-control-valve/) walks through the bypass, depressurising and piston removal. If you can see water at the head rather than at the drain, start with [why a softener leaks at the control head](/blog/water-softener-leaking-at-control-head/), because o-rings on the bypass and fittings are cheaper still.
 
@@ -172,15 +172,17 @@ What reaches you is whatever the system seller adds on top. Some sellers offer l
 
 ## Buying a Clack WS1 System in 2026
 
-**The Amazon listing.** The only complete Clack WS1 system we found on Amazon, the "Clack WS1 48,000 Grain Water Softener with Brine Tank" (ASIN B0DCF2FQRD), showed "Currently unavailable" with no restock date on 1 October 2026. Its listing gives no resin type, tank size or warranty. We would not buy it if it returns until the seller can supply those.
+**The Amazon listing.** The only complete Clack WS1 system we found on Amazon, the "Clack WS1 48,000 Grain Water Softener with Brine Tank," showed "Currently unavailable" with no restock date on 1 October 2026. Its listing gives no resin type, tank size or warranty. We would not buy it if it returns until the seller can supply those.
 
-**The head on its own** is not sold on Amazon. Parts specialists list it at about $400 to $550, depending on configuration.
+**The head on its own** is not sold on Amazon. Parts specialists sell it, priced by configuration.
 
 **Where Clack systems actually come from.** Clack sells only to system builders and dealers. A Clack-valved softener comes from a local water-treatment dealer or an online specialist that builds systems around the valve. When you compare them, ask each seller for four things: resin volume in cubic feet, resin type (standard or 10% crosslink), the salt fill and grains capacity it will be programmed at, and its written warranty.
 
 **If you want to buy from Amazon today,** the closest equivalent is a Fleck-valved system rather than a Clack one:
 
-- [DuraWater 48,000-grain Fleck 5600SXT system](https://www.amazon.com/dp/B010MR6T2I): about $825 on Amazon, with 1.5 cubic feet of resin preloaded, a bypass and 1-inch yoke, and a 14 x 36 inch brine tank with a safety float. On a 1.5 cubic foot bed it delivers the same flow at the tap as a Clack system of the same size.
+- **DuraWater 48,000-grain Fleck 5600SXT system:** 1.5 cubic feet of resin preloaded, a bypass and 1-inch yoke, and a 14 x 36 inch brine tank with a safety float. On a 1.5 cubic foot bed it delivers the same flow at the tap as a Clack system of the same size.
+
+[Check price on Amazon](https://www.amazon.com/dp/B010MR6T2I)
 
 ## Who the Clack WS1 Is Wrong For
 

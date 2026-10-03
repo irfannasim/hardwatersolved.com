@@ -29,20 +29,20 @@ The research supports a narrow claim. Hard water leaves soap and shampoo residue
 
 ## Best Water Softeners for Hair and Skin at a Glance
 
-| Pick | Best for | What it removes | Approx. price | Amazon |
-|---|---|---|---|---|
-| SoftPro Elite 48k | Hard water with no chlorine (most wells) | Hardness | about $1,457 (48k, city version) | [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) |
-| AFWFilters Fleck 5600SXT 48k + backwashing carbon | Hard, chlorinated city water | Hardness and chlorine | about $1,445 | [B088DMT777](https://www.amazon.com/dp/B088DMT777) |
-| Aquasana Rhino whole-house filter | Chlorinated water that is not hard | Chlorine (no hardness) | about $999 | [B00XAJJVHQ](https://www.amazon.com/dp/B00XAJJVHQ) |
+| Pick | Best for | What it removes | Amazon |
+|---|---|---|---|
+| SoftPro Elite 48k | Hard water with no chlorine (most wells) | Hardness | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
+| AFWFilters Fleck 5600SXT 48k + backwashing carbon | Hard, chlorinated city water | Hardness and chlorine | [Check price on Amazon](https://www.amazon.com/dp/B088DMT777) |
+| Aquasana Rhino whole-house filter | Chlorinated water that is not hard | Chlorine (no hardness) | [Check price on Amazon](https://www.amazon.com/dp/B00XAJJVHQ) |
 
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. The picks are matched to a cause, hardness, chlorine or both, rather than ranked on a single score. Specifications come from the makers' product pages, warranty documents and published performance data.
 >
-> - **Included:** whole-house equipment sold on Amazon.com at a normal price above $100, where each stage addresses a cause in the table below.
-> - **Excluded:** the SoftPro Elite Plus with KDF-55 media (B07KZPMFWS), which showed as currently unavailable on Amazon on 1 October 2026 and would not load for our check on 2 October. The EcoPure EPHS hybrid, because its carbon is sealed inside the softener cabinet and, in the maker's words, "never needs replacing", and Amazon showed it as unavailable on 1 October. Shower filters, because the category sells under $100 and almost none soften (see below).
+> - **Included:** whole-house equipment sold on Amazon.com, where each stage addresses a cause in the table below.
+> - **Excluded:** the SoftPro Elite Plus with KDF-55 media, which showed as currently unavailable on Amazon on 1 October 2026 and would not load for our check on 2 October. The EcoPure EPHS hybrid, because its carbon is sealed inside the softener cabinet and, in the maker's words, "never needs replacing", and Amazon showed it as unavailable on 1 October. Shower filters, because almost none soften (see below).
 > - **No health claims** are made here without a cited study.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages did not show prices to our check. The Aquasana price is from Aquasana's own store on 2 October 2026, during a sale it advertises as limited time. The SoftPro and AFWFilters prices are from the makers' stores as recorded on 1 October 2026, because their pages would not load for us on 2 October.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Hardness or Chlorine? The Cause Table
 
@@ -75,7 +75,9 @@ So the honest promise is this. A softener removes the mineral film and the extra
 
 ## 1. SoftPro Elite 48k: Best for Hard Water Without Chlorine
 
-**Buy it on Amazon:** [SoftPro Elite 48,000 grain](https://www.amazon.com/dp/B07KY5SPSJ). About $1,457 for the 48k city-water version at SoftPro's store. SoftPro also sells a well-water version from its store.
+**Buy it on Amazon:** the SoftPro Elite 48,000 grain. SoftPro sells city-water and well-water versions from its own store.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ)
 
 This is the pick for most private wells and any supply that is hard but not chlorinated. Here the softener is the whole fix, and a carbon stage adds nothing for hair or skin.
 
@@ -83,7 +85,9 @@ This is the pick for most private wells and any supply that is hard but not chlo
 - **Resin:** 10% crosslink.
 - **Warranty, per SoftPro's warranty page:** lifetime on tanks and valve, 7 years on electronics, a 10-year prorated resin warranty on city-water systems only, and 5 years on the piston, seals and spacers for city water.
 
-**Why it is here.** Upflow brining gets usable capacity from a low salt dose. On a well where the softener is the only treatment, that keeps salt use down for the same soft water at the shower. Any correctly sized softener removes hardness equally well for hair and skin. The Elite's case is the warranty and low salt use, not a different kind of soft water. If you want the same result for less, an AFWFilters Fleck 5600SXT 48k with 10% resin ([B00YFOTWZG](https://www.amazon.com/dp/B00YFOTWZG)) was about $785 at AFWFilters on 1 October 2026.
+**Why it is here.** Upflow brining gets usable capacity from a low salt dose. On a well where the softener is the only treatment, that keeps salt use down for the same soft water at the shower. Any correctly sized softener removes hardness equally well for hair and skin. The Elite's case is the warranty and low salt use, not a different kind of soft water. If you want the same result for less money, look at an AFWFilters Fleck 5600SXT 48k with 10% resin.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG)
 
 **Check before buying.** SoftPro's warranty conditions allow up to 2.0 ppm of dissolved iron, and on well systems the piston, seals and spacers count as maintenance parts. We found no NSF/ANSI 44 listing under the SoftPro name. Independent reviewers say the valve and system maker, Canature, holds it. Ask SoftPro for the listing and model number. Size it from your hardness and water use as set out in [how to size a water softener](/blog/how-to-size-a-water-softener/), not from the 48k on the box.
 
@@ -91,7 +95,9 @@ This is the pick for most private wells and any supply that is hard but not chlo
 
 ## 2. AFWFilters Fleck 5600SXT 48k + Backwashing Carbon: Best for Hard, Chlorinated City Water
 
-**Buy it on Amazon:** [Combo Package Fleck 5600SXT 48,000 Grain Water Softener and Backwashing Carbon Filter](https://www.amazon.com/dp/B088DMT777). About $1,445 on sale at AFWFilters (about $1,553 regular), sold on Amazon through the AFWFilters store.
+**Buy it on Amazon:** the Combo Package Fleck 5600SXT 48,000 Grain Water Softener and Backwashing Carbon Filter, sold on Amazon through the AFWFilters store.
+
+[Check price on Amazon](https://www.amazon.com/dp/B088DMT777)
 
 This is the only setup on the page that deals with both causes. Most city water in hard-water regions is both hard and chlorinated, so for many readers this is the default answer.
 
@@ -108,7 +114,9 @@ This is the only setup on the page that deals with both causes. Most city water 
 
 ## 3. Aquasana Rhino: Best When the Water Is Chlorinated but Not Hard
 
-**Buy it on Amazon:** [Aquasana Whole House Water Filter System, EQ-1000](https://www.amazon.com/dp/B00XAJJVHQ). About $999 at Aquasana's store on 2 October 2026, against a list price of $1,998. The Amazon listing uses the older EQ-1000 name, so check that what ships is the current Rhino.
+**Buy it on Amazon:** the Aquasana Whole House Water Filter System, EQ-1000. The Amazon listing uses the older EQ-1000 name, so check that what ships is the current Rhino.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00XAJJVHQ)
 
 This is not a softener, and that is the point. If your water tests under about 7 gpg but smells of chlorine, a softener spends salt to fix a problem you do not have. Whole-house carbon targets the one you do.
 
@@ -125,13 +133,13 @@ This is not a softener, and that is the point. If your water tests under about 7
 
 ![Woman with long curly dark hair holding a strand out between her fingers to check its texture against a pink wall](https://images.pexels.com/photos/8182295/pexels-photo-8182295.jpeg)
 
-Shower filters are the most common purchase for hair and skin, and most sell for well under $100, which is below this page's price floor. There is also a technical reason. Almost all of them use KDF media, carbon or vitamin C. Those treat chlorine, not hardness. Removing calcium and magnesium needs ion exchange resin, contact time and regular regeneration. A cartridge at 2 gallons a minute on a shower arm has none of the three. The few "softening" shower filters that contain resin run out quickly at shower volumes.
+Shower filters are the most common purchase for hair and skin, but they are not whole-house equipment, and there is a technical reason too. Almost all of them use KDF media, carbon or vitamin C. Those treat chlorine, not hardness. Removing calcium and magnesium needs ion exchange resin, contact time and regular regeneration. A cartridge at 2 gallons a minute on a shower arm has none of the three. The few "softening" shower filters that contain resin run out quickly at shower volumes.
 
 A shower filter still has one good use: a cheap test. If your water is chlorinated and not very hard, fit one for two weeks. If your hair and skin improve, chlorine was the cause, and a whole-house carbon filter is the larger version of the same fix. NSF certifies shower filters for chlorine reduction under NSF/ANSI 177, so look for that listing.
 
-## Two Weeks of Tests Before You Spend $1,000
+## Two Weeks of Tests Before You Spend Big
 
-The equipment on this page costs about $1,000 to $1,500. These free or cheap tests tell you whether you need it:
+The equipment on this page is a major purchase. These free or cheap tests tell you whether you need it:
 
 1. **Get the two numbers.** A hardness test at the tap, and your utility's annual report for chlorine or chloramine. On a well, a lab panel that includes iron.
 2. **Run the two-wash test on hair.** A clarifying shampoo first, then a chelating shampoo on another day. If only the chelating wash clears the waxiness, the cause is minerals. The method is in [why hair feels waxy or dull in hard water](/blog/hard-water-and-hair/).
@@ -150,6 +158,6 @@ Then the product doses need cutting. Soft water lathers far more, so most people
 - **Homes on water under about 3.5 gpg with no chlorine.** There is little in the water to remove. Look at shower temperature, soap and humidity instead.
 - **Wells with iron, manganese or sulfur.** An orange tint on light hair is usually iron. Treat it first, with the equipment your test calls for.
 - **Renters and anyone who cannot plumb in whole-house equipment.** A shower filter is the realistic option for chlorine. For hardness, there is no small fix that works well.
-- **Anyone whose only complaint is hair.** Hair alone rarely justifies a $1,000 purchase. If scale, spotting and soap use are problems too, the case is stronger.
+- **Anyone whose only complaint is hair.** Hair alone rarely justifies a whole-house purchase. If scale, spotting and soap use are problems too, the case is stronger.
 
 The best water softener for hair and skin is the setup that matches the cause in your water. Test hardness and check for chlorine. Then buy a softener, carbon, or both, and expect to use less shampoo than before.

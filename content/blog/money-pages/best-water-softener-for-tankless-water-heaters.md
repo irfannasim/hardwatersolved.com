@@ -21,7 +21,7 @@ faqs:
     answer: "For scale, often yes. For the warranty, it depends on your water. A salt-free conditioner leaves the hardness reading unchanged. On water under the maker's limit that does not matter. On water over it, a heat exchanger claim could still be refused on the number alone. If your supply tests above about 12 gpg, or above 7 gpg with a Takagi, choose a softener."
 ---
 
-The **best water softener for tankless water heaters** is any properly sized salt-based softener that brings your water under the heater maker's warranty limit. That limit is about 12 grains per gallon (200 mg/L) for Navien, Noritz, Rinnai and Rheem, and 7 grains for Takagi. Our picks are the **SoftPro Elite 48k** if you want the longest valve warranty and upflow efficiency, and the **AFWFilters Fleck 5600SXT 48k with 10% resin** for the same job at about half the price. The **Express Water WH100SP** polyphosphate system is only for water that is already under the limit. Start with the heater's paperwork, because the manufacturer's clause sets the spec.
+The **best water softener for tankless water heaters** is any properly sized salt-based softener that brings your water under the heater maker's warranty limit. That limit is about 12 grains per gallon (200 mg/L) for Navien, Noritz, Rinnai and Rheem, and 7 grains for Takagi. Our picks are the **SoftPro Elite 48k** if you want the longest valve warranty and upflow efficiency, and the **AFWFilters Fleck 5600SXT 48k with 10% resin** for the same job at a noticeably lower price. The **Express Water WH100SP** polyphosphate system is only for water that is already under the limit. Start with the heater's paperwork, because the manufacturer's clause sets the spec.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
@@ -51,25 +51,26 @@ Navien also caps iron at 0.3 mg/L, manganese at 0.05 mg/L, pH at 6.5 to 8.5 and 
 
 > **Methodology.** Nothing on this page was physically tested. Each pick was matched against the clauses above using the makers' published specifications and warranty statements.
 >
-> - **Included:** salt-based softeners with a metered valve and chlorine-tolerant 10% crosslink resin, able to take hardness to near zero. One polyphosphate system is included for water already within the limits. All are sold on Amazon at a normal price above $100.
+> - **Included:** salt-based softeners with a metered valve and chlorine-tolerant 10% crosslink resin, able to take hardness to near zero. One polyphosphate system is included for water already within the limits. All are sold on Amazon.
 > - **Checked:** service flow against tankless maximum flows, valve and tank warranty length, and whether the treatment changes measured hardness.
-> - **Excluded:** salt-free conditioners for water above the limits (they do not lower measured hardness), cabinet units with low service flow, and the Watts OneFlow Plus, whose current price we could not confirm on the day we checked.
-> - **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not load for our check, so prices are from the SoftPro, AFWFilters and Express Water stores.
+> - **Excluded:** salt-free conditioners for water above the limits (they do not lower measured hardness), and cabinet units with low service flow.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Best Water Softener for Tankless Water Heaters, Matched to the Clause
 
-| Pick | Meets the 200 mg/L (12 gpg) limit | Meets Takagi's 7 gpg limit | Approx. price | Amazon |
-|---|---|---|---|---|
-| SoftPro Elite 48k | Yes, softened water reads near zero | Yes | about $1,370 | [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) |
-| AFWFilters Fleck 5600SXT 48k, 10% resin | Yes | Yes | about $785 | [B00YFOTWZG](https://www.amazon.com/dp/B00YFOTWZG) |
-| Express Water WH100SP polyphosphate | Only if your raw water is already under it | Only if already under 7 gpg, and check the "chemically treated water" clause first | about $160 | [B01LQYM5X8](https://www.amazon.com/dp/B01LQYM5X8) |
+| Pick | Meets the 200 mg/L (12 gpg) limit | Meets Takagi's 7 gpg limit | Amazon |
+|---|---|---|---|
+| SoftPro Elite 48k | Yes, softened water reads near zero | Yes | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
+| AFWFilters Fleck 5600SXT 48k, 10% resin | Yes | Yes | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) |
+| Express Water WH100SP polyphosphate | Only if your raw water is already under it | Only if already under 7 gpg, and check the "chemically treated water" clause first | [Check price on Amazon](https://www.amazon.com/dp/B01LQYM5X8) |
 
 ### SoftPro Elite 48k: best overall for a tankless home
 
 - **Type:** salt-based, demand-initiated, with upflow regeneration
 - **Resin:** 10% crosslink, chosen for chlorine resistance on city water
 - **Warranty:** SoftPro's product page describes a limited lifetime warranty on the control valve. Read the exclusions
-- **Price:** about $1,370 at SoftPro's store, which charges the same for the 32,000- to 64,000-grain sizes. [See it on Amazon (B07KY5SPSJ)](https://www.amazon.com/dp/B07KY5SPSJ)
+
+[Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ)
 
 A tankless heater is a long-lived purchase with a long heat-exchanger warranty: 15 years on Rheem's residential tankless warranty, and 12 years on Noritz residential models outside its EZ series, which carry 25. A softener with a long valve warranty matches that time frame. Upflow brining tends to restore more capacity per pound of salt (see [upflow vs downflow regeneration](/blog/upflow-vs-downflow-regeneration/)), which helps on the moderately hard water where many tankless owners first hit the 12-grain line.
 
@@ -81,7 +82,8 @@ A tankless heater is a long-lived purchase with a long heat-exchanger warranty: 
 - **Resin:** 1.5 cu ft of 10% crosslink resin
 - **Flow:** 6.5 gpm service, 9.8 gpm peak
 - **Warranty:** 5 years on the control head, 10 years on the mineral tank, per AFWFilters' product page
-- **Price:** about $785 on sale at the AFWFilters store. [See it on Amazon (B00YFOTWZG)](https://www.amazon.com/dp/B00YFOTWZG)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG)
 
 This does the same job for the warranty: softened water reads near zero on a hardness test. The Fleck 5600SXT is a widely used residential valve, so parts and service are not hard to find. The 6.5 gpm service figure suits most three- or four-person homes. For a big house running several showers at once through an 11 gpm heater, step up to a larger, higher-flow system.
 
@@ -90,8 +92,9 @@ This does the same job for the warranty: softened water reads near zero on a har
 ### Express Water WH100SP: only for water already under the limit
 
 - **Type:** single-stage polyphosphate cartridge in a whole-house housing
-- **Cartridge life:** 100,000 gallons or 6 to 12 months, per Express Water; replacements are about $77
-- **Price:** about $160 at Express Water's store. [See it on Amazon (B01LQYM5X8)](https://www.amazon.com/dp/B01LQYM5X8)
+- **Cartridge life:** 100,000 gallons or 6 to 12 months, per Express Water
+
+[Check price on Amazon](https://www.amazon.com/dp/B01LQYM5X8)
 
 Polyphosphate slows scale by keeping calcium from depositing as hard scale, but the water's hardness reading does not change. So this pick is for one situation only: your water already tests under your heater's limit, say 8 or 9 gpg with a Rinnai, Navien, Noritz or Rheem, and you want fewer flushes between the required services. Rinnai's manual points owners to a phosphate-feed scale system of its own, so it plainly accepts this kind of treatment in principle.
 

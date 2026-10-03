@@ -29,7 +29,7 @@ faqs:
 
 ## Kinetico vs RainSoft at a Glance
 
-> **Method.** This comparison quotes two current documents: Kinetico's [Limited Warranty for Residential Applications](https://www.kinetico.com/media/260248/16662d_warranty_limited_kinetico_residential_applications-10-year-qf-tank-05262021.pdf) (product no. 16662D, dated 26 May 2021, linked from Kinetico's warranty page) and the warranty and operating limits printed in RainSoft's [EC5 owner's manual](https://www.rainsoft.com/wp-content/uploads/2022/08/16842-Rev-J-EC5-English_Spanish-Owners-Manual.pdf) (part 16842, revision J), both read on 2 October 2026. Design and efficiency figures come from Kinetico's 2030s data sheet and the EC5 manual's performance data. No unit was physically tested and no sales visit was attended. Neither brand is sold on Amazon. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Method.** This comparison quotes two current documents: Kinetico's [Limited Warranty for Residential Applications](https://www.kinetico.com/media/260248/16662d_warranty_limited_kinetico_residential_applications-10-year-qf-tank-05262021.pdf) (product no. 16662D, dated 26 May 2021, linked from Kinetico's warranty page) and the warranty and operating limits printed in RainSoft's [EC5 owner's manual](https://www.rainsoft.com/wp-content/uploads/2022/08/16842-Rev-J-EC5-English_Spanish-Owners-Manual.pdf) (part 16842, revision J), both read on 2 October 2026. Design and efficiency figures come from Kinetico's 2030s data sheet and the EC5 manual's performance data. No unit was physically tested and no sales visit was attended. Neither brand is sold on Amazon. **Prices are not listed here** because they change often. Use the buttons to see the current price of the online alternatives on Amazon.
 
 | | Kinetico (Premier Series) | RainSoft (EC5) |
 |---|---|---|
@@ -135,12 +135,12 @@ In the United States, the FTC's [Cooling-Off Rule](https://consumer.ftc.gov/arti
 
 Neither Kinetico nor RainSoft sells softeners on Amazon. If you want a long warranty without a dealer contract, these are the closest online systems. Neither matches Kinetico's no-electricity design or RainSoft's dealer service.
 
-| Alternative | How it compares | Price, 2 Oct 2026 |
+| Alternative | How it compares | Amazon |
 |---|---|---|
-| [AFWFilters Fleck 9100SXT twin tank, 48k](https://www.amazon.com/dp/B000GE8T6M) | Twin-tank continuous soft water like Kinetico, but electric; standard Fleck parts any supplier stocks; seller warranty, typically 5 years on the valve and 10 on tanks | $1,387 on AFW's store |
-| [SoftPro Elite 48k](https://www.amazon.com/dp/B07KY5SPSJ) | Single tank with upflow brining; SoftPro's warranty page lists lifetime tanks and control valve, 7 years on electronics and a 10-year prorated resin warranty on city water | $1,457 on SoftPro's store |
+| AFWFilters Fleck 9100SXT twin tank, 48k | Twin-tank continuous soft water like Kinetico, but electric; standard Fleck parts any supplier stocks; seller warranty, typically 5 years on the valve and 10 on tanks | [Check price on Amazon](https://www.amazon.com/dp/B000GE8T6M) |
+| SoftPro Elite 48k | Single tank with upflow brining; SoftPro's warranty page lists lifetime tanks and control valve, 7 years on electronics and a 10-year prorated resin warranty on city water | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 
-*Amazon pages did not show prices to our check, so prices are from each seller's own store. Confirm that the same warranty applies to an Amazon order before buying.*
+*Confirm that the same warranty applies to an Amazon order before buying.*
 
 You install these yourself or pay a plumber, and you handle the maintenance. In exchange, parts are not tied to one dealer.
 

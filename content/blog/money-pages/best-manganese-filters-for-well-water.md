@@ -29,22 +29,22 @@ The sellers' headline numbers, from 2 to 11 ppm of manganese, almost never say w
 
 ## Best Manganese Filters at a Glance
 
-| Pick | Media | Stated manganese rating | pH guidance found | Approx. price | Amazon |
-|---|---|---|---|---|---|
-| WECO KL-1054 | Katalox Light | not stated on WECO's listing | maker: inlet pH 5.8 to 10.5; 8.5 recommended for manganese | $1,951 (WECO store) | [B075QW4RJY](https://www.amazon.com/dp/B075QW4RJY) |
-| American Water Solutions AIO Heavy Weight | Air injection over Katalox Light | up to 5 ppm (listing, as recorded) | as Katalox Light | price unverified | [B079ZLM1HT](https://www.amazon.com/dp/B079ZLM1HT) |
-| AFWFilters Filox 15 | Filox manganese dioxide | up to 3 ppm | none published by the seller | $1,649 (AFWFilters store) | [B0081T7GPE](https://www.amazon.com/dp/B0081T7GPE) |
-| Oceanic AIO 12x52 | Air injection oxidizing | up to 11 ppm (listing, as recorded) | none found | about $1,250 when recorded; not reconfirmed | [B0C93PNSS1](https://www.amazon.com/dp/B0C93PNSS1) |
-| AFWFilters Iron Pro 2 64k | Fine-mesh softening resin | no separate manganese figure | Penn State: softening above pH 6.7 | $898 (AFWFilters store) | [B004LUJ6L4](https://www.amazon.com/dp/B004LUJ6L4) |
+| Pick | Media | Stated manganese rating | pH guidance found | Amazon |
+|---|---|---|---|---|
+| WECO KL-1054 | Katalox Light | not stated on WECO's listing | maker: inlet pH 5.8 to 10.5; 8.5 recommended for manganese | [Check price on Amazon](https://www.amazon.com/dp/B075QW4RJY) |
+| American Water Solutions AIO Heavy Weight | Air injection over Katalox Light | up to 5 ppm (listing, as recorded) | as Katalox Light | [Check price on Amazon](https://www.amazon.com/dp/B079ZLM1HT) |
+| AFWFilters Filox 15 | Filox manganese dioxide | up to 3 ppm | none published by the seller | [Check price on Amazon](https://www.amazon.com/dp/B0081T7GPE) |
+| Oceanic AIO 12x52 | Air injection oxidizing | up to 11 ppm (listing, as recorded) | none found | [Check price on Amazon](https://www.amazon.com/dp/B0C93PNSS1) |
+| AFWFilters Iron Pro 2 64k | Fine-mesh softening resin | no separate manganese figure | Penn State: softening above pH 6.7 | [Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4) |
 
 ## How We Chose
 
-> **Methodology.** Nothing on this page was physically tested. Media pH limits come from the media maker's documents and extension services; ratings and prices come from the sellers' own pages.
+> **Methodology.** Nothing on this page was physically tested. Media pH limits come from the media maker's documents and extension services; ratings come from the sellers' own pages.
 >
-> - **Included:** whole-house backwashing filters and one fine-mesh softener sold on Amazon at a normal price above $100, with manganese named in the listing.
+> - **Included:** whole-house backwashing filters and one fine-mesh softener sold on Amazon, with manganese named in the listing.
 > - **Ranked on:** whether the media's published pH guidance for manganese matches the reader's pH, then on the stated manganese rating and the backwash flow the well must supply. A high ppm rating with no pH condition ranks below a lower rating with one.
 > - **Excluded:** cartridge filters, which cannot be backwashed and clog on oxidized manganese, and Birm-only filters for wells below pH 7.5, the floor Penn State Extension gives for manganese.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our check. WECO and AFWFilters prices are from their own stores. Two listings showed no price; their figures are from our research record of 29 September 2026, or marked unverified.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Whether manganese is your problem at all, and why a softener struggles with it, is covered in [can a water softener remove manganese](/blog/can-a-water-softener-remove-manganese/). This page assumes you have a lab result and need to choose a filter.
 
@@ -81,7 +81,9 @@ That gives three groups of wells:
 - **Tank:** 10 x 54 in, the WECO model code
 - **Backwash:** Watch Water gives 10 to 12 gpm per square foot. On a 10-inch tank that works out at roughly 5.5 to 6.5 gpm, so check your well pump
 - **Oxidant:** none required where the water has enough oxidation potential. The maker lists hydrogen peroxide, chlorine or potassium permanganate as options for very high levels
-- **Price:** $1,950.80 on [WECO's Katalox Light page](https://www.wecofilters.com/systems/backwashing-filter-systems/iron-manganese-hydrogen-sulfide-reduction-with-katalox-lightr.html), which also lists 9-, 12-, 13-, 14- and 16-inch tanks and ozone versions. [See it on Amazon (B075QW4RJY)](https://www.amazon.com/dp/B075QW4RJY)
+- **Other sizes:** [WECO's Katalox Light page](https://www.wecofilters.com/systems/backwashing-filter-systems/iron-manganese-hydrogen-sulfide-reduction-with-katalox-lightr.html) also lists 9-, 12-, 13-, 14- and 16-inch tanks and ozone versions
+
+[Check price on Amazon](https://www.amazon.com/dp/B075QW4RJY)
 
 This is the only pick whose media maker publishes a pH for manganese. That makes it the safest choice when you can meet that pH. On a well already near pH 8, it is the strongest filter here. On a well at pH 7, pair it with pH correction, or choose a media that does not depend on a high pH.
 
@@ -91,18 +93,21 @@ This is the only pick whose media maker publishes a pH for manganese. That makes
 
 - **What it is:** an air injection oxidizing filter on a Fleck 2510SXT valve. Our research record lists Katalox Light media, and the Amazon title states an extended 10-year warranty
 - **Stated ratings (as recorded 29 September 2026):** iron and hydrogen sulfide up to 15 ppm, manganese up to 5 ppm
-- **Price:** we could not confirm a current price from any seller store on 2 October. [See it on Amazon (B079ZLM1HT)](https://www.amazon.com/dp/B079ZLM1HT)
+
+[Check price on Amazon](https://www.amazon.com/dp/B079ZLM1HT)
 
 Air injection adds oxygen ahead of the media, which helps with iron and sulfide. It does not add the pH that manganese needs. Read this pick through the Katalox Light guidance above: strongest at pH 8.5, weaker on manganese at 7.
 
-**Wrong for:** anyone who needs a confirmed price and warranty document before ordering. Ask the seller for both, and for the pH the 5 ppm figure assumes.
+**Wrong for:** anyone who needs a warranty document before ordering. Ask the seller for it, and for the pH the 5 ppm figure assumes.
 
 ### AFWFilters Filox 15: best for pH 6.8 to 7.5
 
 - **Media:** 1.5 cu ft of Filox, a manganese dioxide media, in a 10 x 54 in tank on a Fleck 2510 valve (SXT or Wi-Fi AiQ)
 - **Stated ratings (seller):** iron up to 15 ppm, hydrogen sulfide up to 7 ppm, manganese up to 3 ppm; sold as "chemical free iron removal"
 - **Backwash:** 6.5 gpm, per AFWFilters
-- **Price:** $1,649 at the AFWFilters store; the 1.0 cu ft Filox 10 is $1,389. [See it on Amazon (B0081T7GPE)](https://www.amazon.com/dp/B0081T7GPE)
+- **Smaller size:** AFWFilters also sells a 1.0 cu ft Filox 10
+
+[Check price on Amazon](https://www.amazon.com/dp/B0081T7GPE)
 
 Manganese dioxide media is the usual dealer choice for mid-range pH wells, and Filox carries a clear manganese rating. Its weakness on paper is that AFWFilters' product pages give no pH condition for that 3 ppm figure. Ask for it, and for the installation manual, before you buy if your pH is near 6.8.
 
@@ -112,7 +117,8 @@ Manganese dioxide media is the usual dealer choice for mid-range pH wells, and F
 
 - **What it is:** an air injection oxidizing filter in a 12 x 52 in tank, sold by Oceanic Water Systems for iron, sulfur and manganese
 - **Stated ratings (as recorded 29 September 2026):** iron up to 27 ppm, hydrogen sulfide up to 17 ppm, manganese up to 11 ppm, with a 10 gpm minimum backwash
-- **Price:** about $1,250 when recorded; the listing loaded on 2 October without a price. [See it on Amazon (B0C93PNSS1)](https://www.amazon.com/dp/B0C93PNSS1)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0C93PNSS1)
 
 An 11 ppm manganese rating is the highest we found on any listing. Penn State Extension places oxidizing filters at 3 to 10 mg/L of combined iron and manganese, so treat 11 ppm of manganese alone as a ceiling to confirm. Ask what media is in the tank and what pH the figure assumes.
 
@@ -122,7 +128,9 @@ An 11 ppm manganese rating is the highest we found on any listing. Penn State Ex
 
 - **What it is:** 2.0 cu ft of fine-mesh softening resin on a Fleck 5600SXT, sized to carry iron and manganese alongside hardness
 - **Stated rating (seller):** ferrous iron up to 6 ppm; AFWFilters adds 4 gpg of compensated hardness per ppm of iron and manganese when sizing
-- **Price:** $898 on sale for the Pentair-tank version at the AFWFilters store. [See it on Amazon (B004LUJ6L4)](https://www.amazon.com/dp/B004LUJ6L4)
+- **Versions:** AFWFilters sells a Pentair-tank version
+
+[Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4)
 
 Choose it only when manganese is low, fully dissolved and the pH is above 6.7. In that case one tank handles hardness and manganese together. If black particles already show in the raw water, it is the wrong tool. The sizing method, with worked examples, is in [test iron and manganese before sizing a softener](/blog/test-iron-and-manganese-before-sizing/).
 

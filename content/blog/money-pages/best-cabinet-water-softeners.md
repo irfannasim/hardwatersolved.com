@@ -29,7 +29,9 @@ That trade is the whole buying decision. A cabinet that holds 80 lb of salt need
 
 ## How These Picks Were Chosen
 
-> **Methodology.** Every pick is a salt-based, ion-exchange cabinet softener listed on Amazon.com at a normal price above $100, with an owner's manual or maker spec sheet available. We compared salt storage, the salt dose behind the grain rating, floor area, valve type and warranty terms, taken from manuals and listings. Nothing was physically tested. **Excluded:** salt-free conditioners, two-tank systems, and units that are discontinued or showed as unavailable on Amazon. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Methodology.** Every pick is a salt-based, ion-exchange cabinet softener listed on Amazon.com, with an owner's manual or maker spec sheet available. We compared salt storage, the salt dose behind the grain rating, floor area, valve type and warranty terms, taken from manuals and listings. Nothing was physically tested. **Excluded:** salt-free conditioners, two-tank systems, and units that are discontinued or showed as unavailable on Amazon.
+>
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Three cabinet units that often appear on lists like this one are left out:
 
@@ -48,13 +50,13 @@ Three cabinet units that often appear on lists like this one are left out:
 | Inlet | 1 in NPT | 1 in yoke (3/4 in on request) | 3/4 in |
 | Clear-water iron | Up to 11 ppm (maker) | Not rated on the base model | Not rated |
 | Warranty | 1 year, 5 with registration and cleaner use; 10-year tanks | 1 year, 5 with registration in 60 days | Not confirmed |
-| Approx. price | About $740 | About $490 | About $770 |
+| Amazon | [Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK) | [Check price on Amazon](https://www.amazon.com/dp/B0DMTX9L8C) | [Check price on Amazon](https://www.amazon.com/dp/B09PRTTMGL) |
 
 The three cabinets differ more in salt storage than in grain capacity. That is the number that decides how often you carry a bag down the stairs.
 
 ## 1. EcoPure EP42: Best Cabinet Water Softener for Most Homes
 
-**Buy it on Amazon:** [EcoPure EP42 42,000 Grain Water Softener](https://www.amazon.com/dp/B01N5S92DK). About $740 at Hemlock Hardware; Amazon's price varies.
+[Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK)
 
 The EP42 is the biggest cabinet on this list, and that is why it wins. Retail listings put its salt storage at about 200 lb, which is two and a half times the Harmony Lite's fill. For a family of four on 15 gpg water that is roughly five months between refills, against about two months.
 
@@ -66,11 +68,15 @@ EcoPure is the retail brand of Ecodyne, the company that also builds Whirlpool's
 
 **Warranty.** EcoPure's standard cover is one year, extendable to five years if you register the unit and keep buying EcoPure cleaner. The tanks are warranted for 10 years. Keep the cleaner receipts if you want the extension to count.
 
-**Skip it if** your space is narrower than 15 in or lower than about 48 in plus room to open the lid. It is the bulkiest cabinet here. Its smaller sibling, the [EcoPure EP31](https://www.amazon.com/dp/B01N5S983U), uses the same 48 × 15 × 20.5 in cabinet with 31,000 grains and an 8 ppm iron rating. It saves money, not space.
+**Skip it if** your space is narrower than 15 in or lower than about 48 in plus room to open the lid. It is the bulkiest cabinet here. Its smaller sibling, the EcoPure EP31, uses the same 48 × 15 × 20.5 in cabinet with 31,000 grains and an 8 ppm iron rating. It saves money, not space.
+
+[Check price on Amazon](https://www.amazon.com/dp/B01N5S983U)
 
 ## 2. Aquasure Harmony Lite: Best for the Tightest Spaces
 
-**Buy it on Amazon:** [Aquasure Harmony Lite All-in-One 34,000 Grains](https://www.amazon.com/dp/B0DMTX9L8C). The base AS-HL34A is about $490 on sale at Aquasure's own store (about $570 regular). The Amazon listing is the version with a pleated sediment pre-filter, which costs more.
+The base AS-HL34A is sold at Aquasure's own store. The Amazon listing is the version with a pleated sediment pre-filter, which costs more.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0DMTX9L8C)
 
 The Harmony Lite is 43 in tall with the valve on, 10.5 in wide and 18.5 in deep. Aquasure says that height fits under wall cabinets with the salt lid open, which none of the other cabinets here can claim. At 194 sq in, its floor footprint is about two-thirds of the EP42's.
 
@@ -86,7 +92,7 @@ The control is the same Aquatrol metered valve Aquasure fits to its two-tank Har
 
 ## 3. Tier1 All-in-One Cabinet 24k: Best for One or Two People
 
-**Buy it on Amazon:** [Tier1 All-in-One Cabinet Style 24,000 Grain](https://www.amazon.com/dp/B09PRTTMGL). About $770 at LWS Water; check Amazon's current price.
+[Check price on Amazon](https://www.amazon.com/dp/B09PRTTMGL)
 
 The Tier1 is the smallest bed here: 0.75 cu ft of resin, sold as 24,000 grains. At an efficient 6 lb per cubic foot that is about 15,750 grains per regeneration. For two people on 10 gpg water, using about 1,500 grains a day, that is a regeneration roughly every 9 to 10 days after a day of reserve. That is a comfortable interval. For four people on hard water it is not.
 
@@ -94,7 +100,7 @@ The case for it is the valve and the shape. It uses a digital metered valve with
 
 **What we could not confirm.** Tier1 does not publish the cabinet's salt storage in the materials we found, and we could not source the warranty terms for this model. Ask the seller for both before you buy. Tier1's two-tank softeners carry a 1-year valve warranty, extendable to 5 years with registration, and the cabinet may follow the same structure, but treat that as unconfirmed.
 
-**Value warning.** At about $770 it costs more than the larger EP42 and much more than the Harmony Lite. You are paying for the narrow cabinet and the meter, not for capacity. If neither of those matters, the Harmony Lite does the same job for less.
+**Value warning.** When we checked, it cost more than the larger EP42 and much more than the Harmony Lite. You are paying for the narrow cabinet and the meter, not for capacity. If neither of those matters, the Harmony Lite does the same job for less.
 
 ## How to Work Out Your Own Refill Interval
 
@@ -122,7 +128,7 @@ Every cabinet here stands the resin tank inside the salt bin. That design is wha
 
 1. **Cleaning the brine tank.** On a two-tank unit you tip out a separate brine tank. On a cabinet, you scoop the salt and brine out of the same box that holds the resin tank, working around it.
 2. **Replacing resin.** Resin usually outlasts the valve, but chlorine and iron shorten its life. On a cabinet, the salt must come out before the resin tank can be lifted. On a two-tank unit, you bypass, depressurize and lift the tank out without touching the salt.
-3. **Valve repairs.** Cabinet valves are mostly proprietary. One dealer's price list for big-box valve parts shows a nozzle and venturi at about $34, a rotor disc at about $73 and a seal kit at about $63. That is affordable, provided the parts are still made. Two-tank systems on Fleck or Clack valves draw on parts sold by many suppliers.
+3. **Valve repairs.** Cabinet valves are mostly proprietary. One dealer's price list for big-box valve parts still includes the nozzle and venturi, the rotor disc and the seal kit as separate spares. Repairs like these are affordable, provided the parts are still made. Two-tank systems on Fleck or Clack valves draw on parts sold by many suppliers.
 
 None of this is a reason to avoid a cabinet. It is a reason to keep the salt low before any planned service, and to check that the brand still sells parts for the model before you buy it.
 

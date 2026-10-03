@@ -12,8 +12,8 @@
 <text x="207" y="209" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">big household or 30+ gpg</text>
 <rect class="box" x="440" y="95" width="290" height="70" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
 <text x="585" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Buy a single tank</text>
-<text x="585" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Same per-cycle size costs</text>
-<text x="585" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">about $565 to $935 less</text>
+<text x="585" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Same per-cycle size for</text>
+<text x="585" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#0b2f4a">a much lower price</text>
 <path class="ln" d="M360,130 L436,130" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#an)"/>
 <text x="400" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">No</text>
 <path class="ln" d="M195,165 L195,266" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ag)"/>

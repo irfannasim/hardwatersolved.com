@@ -2,7 +2,7 @@
 title: "Nuvo H2O Review: What Citric Acid Conditioning Really Does"
 seoTitle: "Nuvo H2O Review: How Citric Acid Conditioning Works"
 seoDescription: "This Nuvo H2O review explains citric acid conditioning: what it does to scale and pH, the yearly cartridge cost, and who it suits."
-excerpt: "NuvoH2O does not soften water. Its cartridge doses a small amount of citric acid that binds calcium as calcium citrate and nudges pH down toward neutral, which keeps scale from forming. This review sets that chemistry beside TAC and ion exchange in one diagram, works out what the cartridges cost at your household's water use, and explains what the pH drop means if your house is plumbed in copper."
+excerpt: "NuvoH2O does not soften water. Its cartridge doses a small amount of citric acid that binds calcium as calcium citrate and nudges pH down toward neutral, which keeps scale from forming. This review sets that chemistry beside TAC and ion exchange in one diagram, works out how many cartridges your household will use a year, and explains what the pH drop means if your house is plumbed in copper."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -29,22 +29,22 @@ faqs:
 
 ## The Nuvo H2O Range
 
-The Home, Manor and Home Duo are listed on Amazon. We could not confirm on 1 October 2026 that the Manor Trio is available on Amazon, so it is not linked. It was seen at Lowe's in late September (see below). Prices on NuvoH2O's own store were checked on 1 October 2026; Amazon did not show prices to our tools.
+The Home, Manor and Home Duo are listed on Amazon. We could not confirm on 1 October 2026 that the Manor Trio is available on Amazon, so it is not linked. It was seen at Lowe's in late September (see below).
 
-| System | Amazon | For | Cartridge life (product page) | NuvoH2O store price |
-|---|---|---|---|---|
-| Home | [B0042A8HFY](https://www.amazon.com/dp/B0042A8HFY) | Homes under 1,500 sq ft | about 6 months or 20,000 gallons | $834.99 |
-| Manor | [B01ASXMI44](https://www.amazon.com/dp/B01ASXMI44) | Homes over 1,500 sq ft | about 6 months or 50,000 gallons | $1,219.99 |
-| Home Duo | [B0CKJ49ZNV](https://www.amazon.com/dp/B0CKJ49ZNV) | Home + 10-micron carbon stage | about 6 months or 20,000 gallons | $1,176.99 |
-| Manor Trio | Availability on Amazon not confirmed | Manor + carbon and iron stages | not stated on the page | not listed |
+| System | For | Cartridge life (product page) | Amazon |
+|---|---|---|---|
+| Home | Homes under 1,500 sq ft | about 6 months or 20,000 gallons | [Check price on Amazon](https://www.amazon.com/dp/B0042A8HFY) |
+| Manor | Homes over 1,500 sq ft | about 6 months or 50,000 gallons | [Check price on Amazon](https://www.amazon.com/dp/B01ASXMI44) |
+| Home Duo | Home + 10-micron carbon stage | about 6 months or 20,000 gallons | [Check price on Amazon](https://www.amazon.com/dp/B0CKJ49ZNV) |
+| Manor Trio | Manor + carbon and iron stages | not stated on the page | Availability on Amazon not confirmed |
 
-Big-box retailers usually sell for less than the brand store. In late September the Home was seen at about $470 to $510 at Home Depot, the Manor at about $800 at Menards, and the Manor Trio at about $1,610 at Lowe's. Treat those as a guide, not a quote.
+Big-box retailers usually sell for less than the brand store. In late September the Home was seen at Home Depot, the Manor at Menards and the Manor Trio at Lowe's, so compare the current price there with the brand store's.
 
 Shared specifications from the product pages: up to 25 gpg of hardness, 1-inch ports, a pH operating range of 7.3 to 8.5, and a statement that the systems comply with NSF/ANSI Standard 42. Standard 42 covers aesthetic effects and material safety. It is not a scale-control certification, and NuvoH2O does not claim NSF/ANSI 44, the softener standard.
 
-> **How this review was put together.** No NuvoH2O system was physically tested. The review uses NuvoH2O's product pages, FAQ and warranty terms, the NuvoH2O-funded study carried out with Battelle, and EPA drinking water guidance for pH and copper. Cartridge costs are calculated from published gallon ratings and a dated replacement price.
+> **How this review was put together.** No NuvoH2O system was physically tested. The review uses NuvoH2O's product pages, FAQ and warranty terms, the NuvoH2O-funded study carried out with Battelle, and EPA drinking water guidance for pH and copper. Cartridge use is calculated from published gallon ratings.
 >
-> Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## How Citric Acid Conditioning Works
 
@@ -70,22 +70,22 @@ The system has no salt, power or drain. Its running cost is the cartridge, and t
 
 Worked at 70 gallons per person per day through the system:
 
-| People | Gallons a year | Home cartridges a year (20,000 gal) | Manor cartridges a year (50,000 gal) | Manor cartridge cost a year at about $108 |
-|---|---|---|---|---|
-| 1 | 25,550 | 2.0 | 2.0 | about $216 |
-| 2 | 51,100 | 2.6 | 2.0 | about $216 |
-| 3 | 76,650 | 3.8 | 2.0 | about $216 |
-| 4 | 102,200 | 5.1 | 2.0 | about $221 |
-| 5 | 127,750 | 6.4 | 2.6 | about $276 |
-| 6 | 153,300 | 7.7 | 3.1 | about $331 |
+| People | Gallons a year | Home cartridges a year (20,000 gal) | Manor cartridges a year (50,000 gal) |
+|---|---|---|---|
+| 1 | 25,550 | 2.0 | 2.0 |
+| 2 | 51,100 | 2.6 | 2.0 |
+| 3 | 76,650 | 3.8 | 2.0 |
+| 4 | 102,200 | 5.1 | 2.0 |
+| 5 | 127,750 | 6.4 | 2.6 |
+| 6 | 153,300 | 7.7 | 3.1 |
 
-*The $108 Manor cartridge price was seen at retail in late September 2026 and is not a NuvoH2O store price; we could not confirm a current Home cartridge price.*
+*Multiply the cartridges a year by the current cartridge price to get your yearly running cost.*
 
 Three things come out of this:
 
 1. **The Home model's limit is gallons, not square footage.** By its product page rating, a family of four in a small house would go through about five cartridges a year. NuvoH2O's own FAQ gives a different figure, 50,000 gallons for Home cartridges, so ask which applies before you buy. If it is 20,000, the Manor is cheaper to run for most families.
 2. **Irrigation counts.** If outside taps run through the system, add that water, or plumb them before it.
-3. **Ten years on the Manor** at the brand-store price is about $1,220 plus roughly $2,200 in cartridges for a family of four, about $3,400 before any installation.
+3. **Ten years on the Manor** means about 20 cartridges for a family of four on top of the system itself, so price the cartridges before you buy.
 
 ## The pH Drop and Copper Plumbing
 

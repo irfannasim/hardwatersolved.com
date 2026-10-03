@@ -2,7 +2,7 @@
 title: "Best Tannin Filters for Tea-Colored Well Water: Combo Tank or Separate Tanks?"
 seoTitle: "Best Tannin Filters: 3 Proven Picks for Tea-Colored Water"
 seoDescription: "The best tannin filters use anion resin that regenerates with salt, like a softener. Picks, the order to install them in, and when a combo tank makes sense."
-excerpt: "Tannin filters are anion resin tanks that regenerate with salt, and most sold online are combination units with a softener in the same tank. This guide confirms tannins first with a free glass test, then compares combo tanks against separate softener and tannin tanks on capacity, salt use and what replacing the resin costs. It also shows why buying a bigger combo adds hardness capacity but no extra tannin capacity."
+excerpt: "Tannin filters are anion resin tanks that regenerate with salt, and most sold online are combination units with a softener in the same tank. This guide confirms tannins first with a free glass test, then compares combo tanks against separate softener and tannin tanks on capacity, salt use and what replacing the resin involves. It also shows why buying a bigger combo adds hardness capacity but no extra tannin capacity."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -31,21 +31,21 @@ Before buying either, spend two minutes confirming that the colour really is tan
 
 ## Best Tannin Filters at a Glance
 
-| Pick | Type | Tannin resin | Hardness capacity | Rated tannin | Approx. price | Amazon |
-|---|---|---|---|---|---|---|
-| AFWFilters 1 cu ft digital tannin softener, Fleck 5600SXT | Combo tank | 0.5 cu ft | 16,000 grains | up to 3 ppm | $1,249 (AFWFilters store) | [B06WLNB3P6](https://www.amazon.com/dp/B06WLNB3P6) |
-| Oceanic tannin + hardness softener, Fleck 5600, 1 cu ft | Combo tank | not stated | from 16,000 grains | up to 3 ppm | about $890 when recorded on 29 September; not reconfirmed | [B07P64M3MV](https://www.amazon.com/dp/B07P64M3MV) |
-| Oceanic tannin + hardness softener, Fleck 5600, 2 cu ft | Combo tank | not stated | up to 32,000 grains | up to 3 ppm | price unverified | [B07P64RJQ4](https://www.amazon.com/dp/B07P64RJQ4) |
-| Separate tannin tank after a softener | Two tanks | 1.0 cu ft or more | the softener's | depends on resin volume | resin from $755 per cu ft, plus a valve and tank | build or dealer |
+| Pick | Type | Tannin resin | Hardness capacity | Rated tannin | Amazon |
+|---|---|---|---|---|---|
+| AFWFilters 1 cu ft digital tannin softener, Fleck 5600SXT | Combo tank | 0.5 cu ft | 16,000 grains | up to 3 ppm | [Check price on Amazon](https://www.amazon.com/dp/B06WLNB3P6) |
+| Oceanic tannin + hardness softener, Fleck 5600, 1 cu ft | Combo tank | not stated | from 16,000 grains | up to 3 ppm | [Check price on Amazon](https://www.amazon.com/dp/B07P64M3MV) |
+| Oceanic tannin + hardness softener, Fleck 5600, 2 cu ft | Combo tank | not stated | up to 32,000 grains | up to 3 ppm | [Check price on Amazon](https://www.amazon.com/dp/B07P64RJQ4) |
+| Separate tannin tank after a softener | Two tanks | 1.0 cu ft or more | the softener's | depends on resin volume | Build or dealer |
 
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Specifications come from the sellers' product pages, and the salt and sizing figures are worked from an anion resin supplier's published guidance.
 >
-> - **Included:** salt-regenerated anion resin systems on an automatic valve, sold on Amazon at a normal price above $100, with a stated tannin rating.
-> - **Compared on:** how much tannin resin each holds (not total tank size), the hardness it softens, the salt its regeneration schedule uses, and what replacing the tannin resin costs.
+> - **Included:** salt-regenerated anion resin systems on an automatic valve, sold on Amazon, with a stated tannin rating.
+> - **Compared on:** how much tannin resin each holds (not total tank size), the hardness it softens, the salt its regeneration schedule uses, and what replacing the tannin resin involves.
 > - **Excluded:** cartridge and carbon "tannin" filters, which do not regenerate; a third combo listing in our research set whose Amazon page would not load on 2 October; and units with no tannin rating at all.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our check. AFWFilters prices are from its own store. The Oceanic listings loaded but showed no price, so the figure above is the one recorded in our research on 29 September 2026.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## First, Confirm It Is Tannin
 
@@ -89,11 +89,11 @@ The limits for a combo tank come from Urbans Aqua, an anion resin supplier. Its 
 
 This is the detail most listings bury. AFWFilters' Fleck 5600 tannin softeners come in 1.0, 1.5 and 2.0 cubic feet. Its product pages show that each holds **0.5 cubic feet of tannin resin**. The extra volume in the larger tanks is softening resin:
 
-| AFWFilters tannin softener | Tannin resin | Softening resin | Hardness capacity | Max flow | Store price |
-|---|---|---|---|---|---|
-| 1.0 cu ft, Fleck 5600 | 0.5 cu ft | 0.5 cu ft | 16,000 grains | 8 gpm | $1,248 |
-| 1.5 cu ft, Fleck 5600 | 0.5 cu ft | 1.0 cu ft | 32,000 grains | 10 gpm | $1,254 |
-| 2.0 cu ft, Fleck 5600 | 0.5 cu ft | 1.5 cu ft | 48,000 grains | 12 gpm | $1,299 |
+| AFWFilters tannin softener | Tannin resin | Softening resin | Hardness capacity | Max flow |
+|---|---|---|---|---|
+| 1.0 cu ft, Fleck 5600 | 0.5 cu ft | 0.5 cu ft | 16,000 grains | 8 gpm |
+| 1.5 cu ft, Fleck 5600 | 0.5 cu ft | 1.0 cu ft | 32,000 grains | 10 gpm |
+| 2.0 cu ft, Fleck 5600 | 0.5 cu ft | 1.5 cu ft | 48,000 grains | 12 gpm |
 
 So moving up a size buys hardness capacity and flow, not tannin capacity. All three are rated for up to 3 ppm of tannin. If your problem is a heavier tannin load, a bigger combo will not fix it. A separate tannin tank will.
 
@@ -134,7 +134,9 @@ The pattern holds even if your numbers differ. Tannin removal is salt-hungry whi
 - **What it is:** 0.5 cu ft of tannin resin and 0.5 cu ft of softening resin on a Fleck 5600SXT digital metered valve
 - **Ratings (seller):** up to 3 ppm of tannins and 16,000 grains of hardness between regenerations; 8 gpm service flow
 - **Warranty (seller):** 5 years on the control head and 10 years on the resin tank
-- **Price:** $1,249 at the [AFWFilters store](https://store.afwfilters.com/tannin-systems/1-cu-ft-digital-tannin-softener-with-fleck-5600sxt/). The mechanical-dial Fleck 5600 version is $1,248, and the digital 1.5 and 2.0 cu ft versions are $1,278 and $1,378. [See it on Amazon (B06WLNB3P6)](https://www.amazon.com/dp/B06WLNB3P6)
+- **Other versions:** the [AFWFilters store](https://store.afwfilters.com/tannin-systems/1-cu-ft-digital-tannin-softener-with-fleck-5600sxt/) also sells a mechanical-dial Fleck 5600 version and digital 1.5 and 2.0 cu ft versions
+
+[Check price on Amazon](https://www.amazon.com/dp/B06WLNB3P6)
 
 This is the pick for a typical family inside the combo limits. The digital SXT valve makes it easy to set a three-day maximum between regenerations and a longer brine draw, which tannin resin needs to release what it has picked up.
 
@@ -144,8 +146,15 @@ This is the pick for a typical family inside the combo limits. The digital SXT v
 
 - **What it is:** a combination tannin and softening resin bed on a Fleck 5600 valve, listed in 1.0, 1.5 and 2.0 cu ft sizes
 - **Ratings:** when we recorded the listings on 29 September 2026, Oceanic rated them for up to 3 ppm of tannin and 16,000 to 32,000 grains across the range
-- **What we could not confirm:** the resin split, the warranty and a current price. The 1.0 and 2.0 cu ft listings loaded on 2 October; the 1.5 cu ft listing (B07P6592RF) did not
-- **Amazon:** [1.0 cu ft (B07P64M3MV)](https://www.amazon.com/dp/B07P64M3MV), [2.0 cu ft (B07P64RJQ4)](https://www.amazon.com/dp/B07P64RJQ4)
+- **What we could not confirm:** the resin split and the warranty. The 1.0 and 2.0 cu ft listings loaded on 2 October; the 1.5 cu ft listing did not
+
+1.0 cu ft:
+
+[Check price on Amazon](https://www.amazon.com/dp/B07P64M3MV)
+
+2.0 cu ft:
+
+[Check price on Amazon](https://www.amazon.com/dp/B07P64RJQ4)
 
 The likely reason to choose it is price, if it is still below AFWFilters on the day you buy. Before ordering, ask the seller how much of the bed is tannin resin. As the AFWFilters table shows, that figure matters more than the tank size.
 
@@ -156,7 +165,7 @@ The likely reason to choose it is price, if it is still below AFWFilters on the 
 No complete stand-alone tannin tank in our research set met the Amazon criteria, so this pick is a design, not a single product. You need:
 
 - **A softener first,** sized on hardness and iron in the usual way. If you already own one, keep it.
-- **A second backwashing tank with its own valve and brine tank,** filled with tannin-specific anion resin. AFWFilters sells tannin media at $405 for 0.5 cu ft and $755 for 1.0 cu ft, and Purolite A850 anion resin at $1,099 per cu ft (store prices, 2 October 2026).
+- **A second backwashing tank with its own valve and brine tank,** filled with tannin-specific anion resin. AFWFilters sells tannin media in 0.5 and 1.0 cu ft quantities, and Purolite A850 anion resin by the cubic foot.
 - **An upper screen or distributor** that stops the lighter anion resin washing out during backwash.
 
 Buy this layout when hardness is above 15 gpg, iron is above 3 ppm, alkalinity is above 250 ppm, or tannin is above 3 ppm. It also makes sense when you already own a good softener. The tannin tank goes after it, so it sees soft water.

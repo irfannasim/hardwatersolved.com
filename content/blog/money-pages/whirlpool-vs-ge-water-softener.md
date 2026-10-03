@@ -25,7 +25,7 @@ faqs:
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this comparison was put together.** Nothing here was physically tested. Capacities and limits come from the current [GE GXSH35W, GXMD30W and GXSH45W owner's manual](https://images.salsify.com/image/upload/s--Lr_Ft1_A--/8741b1cfc8b24187902fc0ad02b4a930fc751a27.pdf), Whirlpool's WHES30 and WHES33 owner's manual (revision H) and Whirlpool's product pages. Warranty terms are quoted from those manuals and Whirlpool's [extended-warranty page](https://whirlpoolwatersolutions.com/softener-extended-warranties/). Certification was checked on [NSF's listing for Whirlpool](https://info.nsf.org/Certified/DWTU/Listings.asp?TradeName=Whirlpool&Standard=044), current as of 2 October 2026. Capacity at 10 lb of salt is interpolated between each maker's published points and marked as an estimate. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** GE's store did not load for our 2 October check, so GE prices are those its store listed on 1 October.
+> **How this comparison was put together.** Nothing here was physically tested. Capacities and limits come from the current [GE GXSH35W, GXMD30W and GXSH45W owner's manual](https://images.salsify.com/image/upload/s--Lr_Ft1_A--/8741b1cfc8b24187902fc0ad02b4a930fc751a27.pdf), Whirlpool's WHES30 and WHES33 owner's manual (revision H) and Whirlpool's product pages. Warranty terms are quoted from those manuals and Whirlpool's [extended-warranty page](https://whirlpoolwatersolutions.com/softener-extended-warranties/). Certification was checked on [NSF's listing for Whirlpool](https://info.nsf.org/Certified/DWTU/Listings.asp?TradeName=Whirlpool&Standard=044), current as of 2 October 2026. Capacity at 10 lb of salt is interpolated between each maker's published points and marked as an estimate. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Whirlpool vs GE Water Softener: Three Matched Pairs
 
@@ -129,18 +129,18 @@ Whirlpool's WHES range has no Wi-Fi. Its Wi-Fi model is the WHEC46, rated at 12.
 
 ## Where You Can Buy Each
 
-| Model | Amazon, 2 Oct 2026 | Other channel | Price |
-|---|---|---|---|
-| GE GXSH35W | [Listing active (B0FWTXRMW6)](https://www.amazon.com/dp/B0FWTXRMW6) | GE store | $699 at GE, 1 Oct |
-| GE GXMD30W | [Listing active (B0FWTY3PT8)](https://www.amazon.com/dp/B0FWTY3PT8) | GE store | $999 at GE, 1 Oct |
-| GE GXSH45W | No listing found | GE store | $799 at GE, 1 Oct |
-| GE GXSH40V (obsolete) | Currently unavailable (B00D5YRZLU) | GE store shows no add-to-cart | $569 reference price |
-| GE GXSF30V (obsolete) | Currently unavailable (B00BT9UCMM) | GE store shows no add-to-cart | $455 reference price |
-| Whirlpool WHES33 | Currently unavailable (B07WBW42S7) | Retailers linked from Whirlpool's site | Not confirmed |
-| Whirlpool WHES40E | Listing returns page not found (B07R3G7LTD) | Fleet Farm, per Whirlpool's site | Not confirmed |
-| Whirlpool WHES48 | Not on Amazon | Fleet Farm and Lowe's, per Whirlpool's site | Not confirmed |
+| Model | Amazon, 2 Oct 2026 | Other channel |
+|---|---|---|
+| GE GXSH35W | Listing active: [Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6) | GE store |
+| GE GXMD30W | Listing active: [Check price on Amazon](https://www.amazon.com/dp/B0FWTY3PT8) | GE store |
+| GE GXSH45W | No listing found | GE store |
+| GE GXSH40V (obsolete) | Currently unavailable | GE store shows no add-to-cart |
+| GE GXSF30V (obsolete) | Currently unavailable | GE store shows no add-to-cart |
+| Whirlpool WHES33 | Currently unavailable | Retailers linked from Whirlpool's site |
+| Whirlpool WHES40E | Listing returns page not found | Fleet Farm, per Whirlpool's site |
+| Whirlpool WHES48 | Not on Amazon | Fleet Farm and Lowe's, per Whirlpool's site |
 
-Whirlpool's product pages link buyers to Fleet Farm and Lowe's, but both retailers blocked our price check on 2 October, so we have no confirmed Whirlpool price to quote. A third-party price tracker dated June 2026 listed the WHES40E at $629.99 at Fleet Farm. Treat that as a guide only, and check the shelf price against the GE equivalent at the same tier.
+Whirlpool's product pages link buyers to Fleet Farm and Lowe's. Check the shelf price there against the GE equivalent at the same tier.
 
 **About leftover GE stock.** The older GXSH40V and GXSF30V are flagged obsolete in GE's product data. A new, unopened leftover unit from an authorised seller still gets GE's full warranty from your purchase date. It is worth buying only well below the current model that replaces it. At a normal salt setting the GXSH40V, rated at 31,500 grains at 8.7 lb, delivers about what the GXSH35W does, and the new model adds Wi-Fi.
 
@@ -148,11 +148,17 @@ Whirlpool's product pages link buyers to Fleet Farm and Lowe's, but both retaile
 
 Because Whirlpool's softeners had no active Amazon offer, the picks below are the current GE units plus the closest Whirlpool-maker alternative.
 
-1. **[GE GXSH35W Smart Water Softener](https://www.amazon.com/dp/B0FWTXRMW6)**, $699 at GE's store on 1 October. The middle-tier winner on capacity at a normal dose: 1.0 cubic foot of resin, about 32,600 grains at 9.8 lb, 8 gpm, Wi-Fi alerts, up to 165 gpg hardness.
-2. **[GE GXMD30W Smart Water Softener with Integrated Filtration](https://www.amazon.com/dp/B0FWTY3PT8)**, $999 at GE's store on 1 October. The 30,000-tier pick for chlorinated city water, adding a 0.26 cubic foot carbon stage certified to NSF/ANSI 42 for chlorine taste and odour.
-3. **[EcoPure EPH130 softener and filtration system](https://www.amazon.com/dp/B0GMYSW7MG)**, about $699 when last priced on 1 October; listing active on 2 October. Made by Water Channel Partners, the company that makes and warrants Whirlpool's softeners. It is the nearest thing to a Whirlpool you can order on Amazon.
+**1. GE GXSH35W Smart Water Softener.** The middle-tier winner on capacity at a normal dose: 1.0 cubic foot of resin, about 32,600 grains at 9.8 lb, 8 gpm, Wi-Fi alerts, up to 165 gpg hardness.
 
-Our 2 October check ran from outside the US, so Amazon showed availability but not US prices.
+[Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6)
+
+**2. GE GXMD30W Smart Water Softener with Integrated Filtration.** The 30,000-tier pick for chlorinated city water, adding a 0.26 cubic foot carbon stage certified to NSF/ANSI 42 for chlorine taste and odour.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0FWTY3PT8)
+
+**3. EcoPure EPH130 softener and filtration system.** Listing active on 2 October. Made by Water Channel Partners, the company that makes and warrants Whirlpool's softeners. It is the nearest thing to a Whirlpool you can order on Amazon.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG)
 
 ## Which to Choose
 

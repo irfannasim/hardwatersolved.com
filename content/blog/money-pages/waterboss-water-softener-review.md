@@ -20,7 +20,7 @@ faqs:
   - question: "How much salt does a WaterBoss use with iron?"
     answer: "Much more than on hardness alone, because each ppm of iron adds 5 grains per gallon to the setting. For a family of four on 15 gpg water at the 8.5 lb dose, salt use rises from about 440 lb a year with no iron to about 1,160 lb at 5 ppm and roughly 1,890 lb at 10 ppm, before the powerClean cycles are added."
   - question: "Is the WaterBoss sold on Amazon?"
-    answer: "Not the Model 900 at the moment. Its Amazon listing showed \"currently unavailable\" on 1 October 2026, so buy it from Home Depot, where it was about $541. A 22,000-grain WaterBoss is listed on Amazon; check that the listing names the model number you want before you buy."
+    answer: "Not the Model 900 at the moment. Its Amazon listing showed \"currently unavailable\" on 1 October 2026, so buy it from Home Depot, which sells it. A 22,000-grain WaterBoss is listed on Amazon; check that the listing names the model number you want before you buy."
 ---
 
 **This WaterBoss water softener review tests one claim: that a compact cabinet softener also takes care of iron and sediment.** It does, inside a narrower window than the box suggests. The WaterBoss 900's manual rates it for up to 10 ppm of iron, but only clear-water (ferrous) iron, at pH 7 or above, and only while your hardness plus 5 grains per gallon for every ppm of iron stays under 90. Its filter layer handles fine dirt, not sand. Above 5 ppm of iron, with any iron that has already oxidised, or with sand in the water, a separate filter is still needed.
@@ -44,13 +44,13 @@ WaterBoss sells three cabinet softeners for homes. The figures below come from t
 | Capacity at highest dose | 21,702 grains at 12 lb | 36,490 grains at 15 lb | not used here |
 | Salt storage | 120 lb | 170 lb | 170 lb |
 
-The Model 900 is the one most buyers mean. Home Depot sells it as a 36,400-grain unit with a 10 gpm rated flow at a 15 psi drop, at about $541. The Model 700 is the smaller 22,000-grain cabinet.
+The Model 900 is the one most buyers mean. Home Depot sells it as a 36,400-grain unit with a 10 gpm rated flow at a 15 psi drop. The Model 700 is the smaller 22,000-grain cabinet.
 
 Note the chlorine line. The 700 and 900 are designed around unchlorinated water; WaterBoss's own answer for chlorinated city water is the 950, which adds activated carbon. Chlorine is hard on any resin, as covered in [how chlorine damages softener resin](/blog/how-chlorine-damages-softener-resin/).
 
-> **How this review was put together.** No WaterBoss unit was physically tested. The review uses the WaterBoss owner's manual for Models 700, 900 and 950, retailer specifications, Penn State Extension's iron guidance, and the compensated-hardness arithmetic from this site's iron sizing guide. Amazon listings were opened to confirm the pages exist; Amazon did not show prices to our tools, so the prices come from Home Depot, Ace Hardware and Do it Best.
+> **How this review was put together.** No WaterBoss unit was physically tested. The review uses the WaterBoss owner's manual for Models 700, 900 and 950, retailer specifications, Penn State Extension's iron guidance, and the compensated-hardness arithmetic from this site's iron sizing guide. Amazon listings were opened to confirm the pages exist.
 >
-> Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the button to see the current price on Amazon.
 
 ## The Iron Claim, Tested Against the Manual's Limits
 
@@ -115,11 +115,13 @@ Day to day, the 900 is a 26-minute regeneration demand softener with a salt cabi
 
 ## Where to Buy a WaterBoss
 
-**WaterBoss 900, 36,400 grains.** About $541 at Home Depot, and $550 to $580 at other retailers. Its Amazon listing showed "currently unavailable" on 1 October 2026, so Home Depot is the place to buy it. The model to buy for well water with clear-water iron, up to the limits above.
+**WaterBoss 900, 36,400 grains.** Sold at Home Depot and other retailers. Its Amazon listing showed "currently unavailable" on 1 October 2026, so Home Depot is the place to buy it. The model to buy for well water with clear-water iron, up to the limits above.
 
-**[WaterBoss 22,000-grain softener (B000R8UN34)](https://www.amazon.com/dp/B000R8UN34).** The Model 700 22,000-grain unit sells for about $490 to $540 at Ace Hardware and Do it Best. We could not confirm that this Amazon listing is the current Model 700, so check the model number on the listing before buying. It suits smaller households, with a 70 gpg compensated limit.
+**WaterBoss 22,000-grain softener.** The Model 700 22,000-grain unit is sold at Ace Hardware and Do it Best. We could not confirm that this Amazon listing is the current Model 700, so check the model number on the listing before buying. It suits smaller households, with a 70 gpg compensated limit.
 
-*Not included:* the WaterBoss Big Boss 36 listing (B000UEYXMM). It is an older item number that the Model 900 has replaced, and we could not confirm it is still sold new.
+[Check price on Amazon](https://www.amazon.com/dp/B000R8UN34)
+
+*Not included:* the WaterBoss Big Boss 36 listing. It is an older item number that the Model 900 has replaced, and we could not confirm it is still sold new.
 
 ## Who Should Not Buy a WaterBoss
 

@@ -10,7 +10,7 @@ featuredImage: "https://images.pexels.com/photos/8925980/pexels-photo-8925980.jp
 ogImageAlt: "White bathtub with a chrome faucet running water in a tiled bathroom, one of the fixtures a whole-house water softener has to supply"
 faqs:
   - question: "What is the best water softener for most homes?"
-    answer: "For most homes on chlorinated city water with moderate hardness and one or two bathrooms, a 1.5 cubic foot softener with 10 percent crosslink resin on a metered valve is the safest choice. In this guide that is the AFWFilters Fleck 5600SXT 48,000-grain unit with 10 percent resin, at about $785 on the seller's store. It is not the best choice on a well with iron, in a house with a high peak flow, or where the cheapest upfront price matters most."
+    answer: "For most homes on chlorinated city water with moderate hardness and one or two bathrooms, a 1.5 cubic foot softener with 10 percent crosslink resin on a metered valve is the safest choice. In this guide that is the AFWFilters Fleck 5600SXT 48,000-grain unit with 10 percent resin. It is not the best choice on a well with iron, in a house with a high peak flow, or where the cheapest upfront price matters most."
   - question: "Is a 48,000-grain softener really 48,000 grains?"
     answer: "Only at a heavy salt dose of around 15 lb per cubic foot of resin. A 48,000-grain softener normally holds 1.5 cubic feet of resin, and at an efficient 6 lb per cubic foot it removes about 31,500 grains per regeneration. That is the number to size from. Two units sold as 48,000 grains can only be compared once you know how much resin each actually contains."
   - question: "Are Amazon water softeners as good as dealer softeners?"
@@ -33,23 +33,23 @@ The five picks below are grouped by those situations. Every one is re-stated at 
 
 > **Method.** No unit here was physically tested by us. The picks come from the sellers' own spec pages, owner's manuals and warranty documents, with each capacity re-stated at 6 lb of salt per cubic foot of resin and each flow checked against the tank's bed area.
 >
-> **Included:** complete salt-based whole-house systems sold new on Amazon.com at $100 or more, with a metered (demand) valve, a published resin volume or tank size, and a written warranty.
+> **Included:** complete salt-based whole-house systems sold new on Amazon.com, with a metered (demand) valve, a published resin volume or tank size, and a written warranty.
 >
 > **Excluded:** salt-free conditioners (a different job), dealer-only brands (Culligan, Kinetico, EcoWater, RainSoft, Hague and Rheem sell no whole-house softeners on Amazon), GE softeners (GE lists them as no longer manufactured), and any cabinet unit whose current availability and manual we could not confirm.
 >
-> **Prices** are the sellers' own store prices, because Amazon does not show prices to research tools. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Before choosing, confirm you need a softener at all. [Whether you need a whole-house water softener](/blog/do-you-need-a-whole-house-water-softener/) covers the hardness test and the cases where the answer is no.
 
 ## The Best Water Softeners at a Glance
 
-| Situation | Pick | Resin and tank | Approx. price |
+| Situation | Pick | Resin and tank | Amazon |
 |---|---|---|---|
-| Chlorinated city water | [AFWFilters Fleck 5600SXT 48k, 10% resin](https://www.amazon.com/dp/B00YFOTWZG) | 1.5 cu ft 10% crosslink | about $785 |
-| Lowest upfront cost | [Aquasure Harmony 48k](https://www.amazon.com/dp/B07F175C2R) | 10x54 tank, volume not stated | about $630 |
-| Well with clear-water iron | [AFWFilters Iron Pro 2 64k](https://www.amazon.com/dp/B004LUJ6L4) | 2.0 cu ft fine mesh, 12 in tank | about $898 |
-| Large home, high peak flow | [80k softener with Fleck 2510SXT](https://www.amazon.com/dp/B00F3CAHR6) | 2.5 cu ft, 13x54 tank | about $1,425 |
-| Least salt per year | [SoftPro Elite 48k](https://www.amazon.com/dp/B07KY5SPSJ) | 10% crosslink, upflow brining | about $1,367 |
+| Chlorinated city water | AFWFilters Fleck 5600SXT 48k, 10% resin | 1.5 cu ft 10% crosslink | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) |
+| Lowest upfront cost | Aquasure Harmony 48k | 10x54 tank, volume not stated | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| Well with clear-water iron | AFWFilters Iron Pro 2 64k | 2.0 cu ft fine mesh, 12 in tank | [Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4) |
+| Large home, high peak flow | 80k softener with Fleck 2510SXT | 2.5 cu ft, 13x54 tank | [Check price on Amazon](https://www.amazon.com/dp/B00F3CAHR6) |
+| Least salt per year | SoftPro Elite 48k | 10% crosslink, upflow brining | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 
 ## The Best Water Softener Comparison, Normalised
 
@@ -91,7 +91,7 @@ Grain capacity comes last, because at an efficient salt setting every pick here 
 
 ### Best for Chlorinated City Water: AFWFilters Fleck 5600SXT 48k with 10% Resin
 
-**About $785 (AFWFilters store). [View on Amazon](https://www.amazon.com/dp/B00YFOTWZG).**
+[Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG)
 
 This is the default pick for a city home with one to three bathrooms. It is 1.5 cubic feet of 10 percent crosslink resin on a Fleck 5600SXT metered valve, with a brine tank and bypass. AFW gives a 5-year warranty on the control head and 10 years on the mineral tank.
 
@@ -103,7 +103,7 @@ This is the default pick for a city home with one to three bathrooms. It is 1.5 
 
 ### Best on a Budget: Aquasure Harmony 48k
 
-**About $630 (Aquasure store). [View on Amazon](https://www.amazon.com/dp/B07F175C2R).**
+[Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
 
 The Harmony is the cheapest complete 48k system here. It uses Aquasure's own Aquatrol digital metered head rather than a Fleck or Clack valve, in a 10x54 resin tank according to the owner's manual.
 
@@ -118,7 +118,7 @@ The Harmony is the cheapest complete 48k system here. It uses Aquasure's own Aqu
 
 ### Best for Well Water With Clear-Water Iron: AFWFilters Iron Pro 2 64k
 
-**About $898 (AFWFilters store). [View on Amazon](https://www.amazon.com/dp/B004LUJ6L4).**
+[Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4)
 
 This is 2.0 cubic feet of fine-mesh resin in a 12-inch tank on a Fleck 5600SXT, with an 18x33 round brine tank. AFW rates it for ferrous (dissolved, clear-water) iron up to 6 ppm, and says ferric iron, the kind that comes out of the tap already discoloured, needs a dedicated iron filter instead.
 
@@ -130,9 +130,9 @@ This is 2.0 cubic feet of fine-mesh resin in a 12-inch tank on a Fleck 5600SXT, 
 
 ### Best for Large Homes: 80k Softener With Fleck 2510SXT
 
-**About $1,425 (AFWFilters store, which lists it as the Fleck 2510AiQ, formerly 2510SXT). [View on Amazon](https://www.amazon.com/dp/B00F3CAHR6).**
+[Check price on Amazon](https://www.amazon.com/dp/B00F3CAHR6)
 
-Large houses run out of flow before they run out of grains. This system pairs 2.5 cubic feet of high-capacity resin in a 13x54 tank with the Fleck 2510SXT, whose 1-inch internal ports pass more water than the 5600 family. The seller quotes 20 gpm service flow.
+Large houses run out of flow before they run out of grains. This system pairs 2.5 cubic feet of high-capacity resin in a 13x54 tank with the Fleck 2510SXT, whose 1-inch internal ports pass more water than the 5600 family. The seller quotes 20 gpm service flow. AFWFilters' own store lists it as the Fleck 2510AiQ, formerly 2510SXT.
 
 **Normalised:** 52,500 grains at 6 lb. Bed flow is about 9.2 gpm continuous and 13.9 gpm peak, which is the more honest planning figure than 20 gpm. That still covers a busiest moment of three showers, a washing machine and a kitchen tap in most houses.
 
@@ -140,7 +140,7 @@ Large houses run out of flow before they run out of grains. This system pairs 2.
 
 ### Best for Low Salt Use: SoftPro Elite 48k
 
-**About $1,367 (SoftPro store). [View on Amazon](https://www.amazon.com/dp/B07KY5SPSJ).**
+[Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ)
 
 The SoftPro Elite uses upflow brining, which pushes brine up through the bed from the bottom. Upflow regenerates the most-exhausted resin first and uses less salt for the same soft water. The mechanism is explained in [upflow vs downflow regeneration](/blog/upflow-vs-downflow-regeneration/). It also uses 10 percent crosslink resin and comes with a large brine tank, bypass and tank jacket.
 
@@ -166,13 +166,13 @@ A softener only removes hardness. Several common situations call for something e
 - **Read the warranty exclusions,** especially for iron, chlorine and registration deadlines.
 - **Check the listing is sold new and in stock** on the day you order, and compare its price against the seller's own store.
 
-## Where the Money Goes Between $630 and $1,425
+## Where the Money Goes Across These Picks
 
 The price spread across these picks is not about softening quality. Ion exchange works the same way in all five. The extra money buys four things, and only some of them will matter in your house:
 
 - **Resin grade.** 10 percent crosslink costs more than standard 8 percent resin and pays back on chlorinated water. On a chlorine-free well it buys little.
 - **Bed size and tank diameter.** More resin and a wider tank buy flow and longer cycles. They are wasted in a small, low-use household.
 - **Valve family.** A Fleck or Clack valve costs more to buy than a proprietary head but less to keep running, because any water treatment supplier stocks its seals and pistons.
-- **Brining method and support.** Upflow brining and a lifetime warranty explain most of the SoftPro premium. Whether that is worth about $580 more than the AFW 10% unit depends on how long you plan to stay in the house.
+- **Brining method and support.** Upflow brining and a lifetime warranty explain most of the SoftPro premium. Whether that premium over the AFW 10% unit is worth it depends on how long you plan to stay in the house.
 
 The best water softener for your home is the cheapest one on this list that passes your water test, your busiest moment and your warranty questions. Pick the situation that matches your water, check the two numbers the box leaves out, and buy the smallest system that passes both.

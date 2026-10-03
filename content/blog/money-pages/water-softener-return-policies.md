@@ -29,22 +29,22 @@ Below, seven brands' policies are compared clause by clause from their own docum
 
 ## Water Softener Return Policies Compared
 
-| Brand | Window | Restocking fee | Return shipping | Installed or used unit? | Approx. price of a typical unit | Amazon |
-|---|---|---|---|---|---|---|
-| SpringWell | 6 months from purchase | 10% on approved non-defective returns; up to 25% if refused or complicated | Buyer pays; original shipping not refunded | **No.** Uninstalled, unused, undamaged packaging | SS4 48k about $1,785 | [B086Q7NS7S](https://www.amazon.com/dp/B086Q7NS7S) (see note) |
-| SoftPro | 6 months from ship date | None | Buyer pays; original shipping not refunded | **Yes.** Complete system, clean and drained | Elite 48k about $1,457 | [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) |
-| NuvoH2O | Authorise within 90 days of purchase | 20%; $699.99 on financed purchases after installation | Buyer pays (freight prepaid) | **Yes**, with the 20% fee | Manor about $1,220 | [B01ASXMI44](https://www.amazon.com/dp/B01ASXMI44) |
-| Aquasure (own store) | 30 days from receipt | None stated | Return label sent if approved; cost not stated | **No.** Unused, original packaging, proof of purchase | Harmony Lite 34k about $490 on sale | [B0DMTX9L8C](https://www.amazon.com/dp/B0DMTX9L8C) |
-| Eddy (descaler) | 12 months from purchase | None stated | Not stated | **Yes.** "No-quibble full refund" | about $170 to $199 | [B003Z96GR4](https://www.amazon.com/dp/B003Z96GR4) |
-| ScaleBlaster (descaler) | 90 days | Not published | Not published | Implied, since the guarantee covers results | SB-75 about $179 to $186 | [B00K80MWVM](https://www.amazon.com/dp/B00K80MWVM) |
-| AquaTru (countertop RO) | 30 days from delivery | None; shipping and handling deducted | AquaTru emails a label | **Yes**, all parts in original packaging | Classic about $475 | [B0CQS3HQ8F](https://www.amazon.com/dp/B0CQS3HQ8F) |
-| Amazon (its own policy) | 30 days from delivery, most items | Not a restocking fee as such | At least one free option for most items; heavy or bulky items may be charged | Original or unused condition | n/a | n/a |
+| Brand | Window | Restocking fee | Return shipping | Installed or used unit? | Amazon |
+|---|---|---|---|---|---|
+| SpringWell | 6 months from purchase | 10% on approved non-defective returns; up to 25% if refused or complicated | Buyer pays; original shipping not refunded | **No.** Uninstalled, unused, undamaged packaging | [Check price on Amazon](https://www.amazon.com/dp/B086Q7NS7S) (see note) |
+| SoftPro | 6 months from ship date | None | Buyer pays; original shipping not refunded | **Yes.** Complete system, clean and drained | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
+| NuvoH2O | Authorise within 90 days of purchase | 20%; $699.99 on financed purchases after installation | Buyer pays (freight prepaid) | **Yes**, with the 20% fee | [Check price on Amazon](https://www.amazon.com/dp/B01ASXMI44) |
+| Aquasure (own store) | 30 days from receipt | None stated | Return label sent if approved; cost not stated | **No.** Unused, original packaging, proof of purchase | [Check price on Amazon](https://www.amazon.com/dp/B0DMTX9L8C) |
+| Eddy (descaler) | 12 months from purchase | None stated | Not stated | **Yes.** "No-quibble full refund" | [Check price on Amazon](https://www.amazon.com/dp/B003Z96GR4) |
+| ScaleBlaster (descaler) | 90 days | Not published | Not published | Implied, since the guarantee covers results | [Check price on Amazon](https://www.amazon.com/dp/B00K80MWVM) |
+| AquaTru (countertop RO) | 30 days from delivery | None; shipping and handling deducted | AquaTru emails a label | **Yes**, all parts in original packaging | [Check price on Amazon](https://www.amazon.com/dp/B0CQS3HQ8F) |
+| Amazon (its own policy) | 30 days from delivery, most items | Not a restocking fee as such | At least one free option for most items; heavy or bulky items may be charged | Original or unused condition | n/a |
 
 > **How we read the policies.** Every term above is quoted or closely paraphrased from the brand's own returns, warranty or help-centre page, read on 2 October 2026. Where a brand does not publish a term, the table says so rather than guessing. Nothing was bought and returned for this page.
 >
-> - **Included:** brands sold on Amazon whose typical unit sells for over $100, and whose returns terms could be read online. Eddy and ScaleBlaster are electronic descalers and AquaTru is a drinking-water RO unit. They are included because shoppers compare their guarantees with softener guarantees, not because they soften water.
+> - **Included:** brands with whole-house or full-size units sold on Amazon, whose returns terms could be read online. Eddy and ScaleBlaster are electronic descalers and AquaTru is a drinking-water RO unit. They are included because shoppers compare their guarantees with softener guarantees, not because they soften water.
 > - **Excluded:** dealer brands such as Culligan, Kinetico, EcoWater, RainSoft and Hague, which sell through local dealers on contracts that vary by dealer. They are covered in the dealer section below.
-> - **Prices checked 1 and 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages did not display prices to our checks, so prices are from brand stores (SpringWell, SoftPro, NuvoH2O, Aquasure, AquaTru) and retailer listings (Walmart for Eddy, Home Depot for ScaleBlaster). SpringWell's Amazon listing would not load when we checked, and its Amazon listings showed "Currently unavailable" on 1 October, so buying direct may be the only option.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon. SpringWell's Amazon listing would not load when we checked, and its Amazon listings showed "Currently unavailable" on 1 October, so buying direct may be the only option.
 
 ![Bar chart of water softener return policies by brand: 30 days for Aquasure, AquaTru and Amazon, 90 days for NuvoH2O and ScaleBlaster, 6 months for SpringWell and SoftPro, 12 months for Eddy](/diagrams/water-softener-return-policy-window-by-brand.svg "The colour matters more than the length: only some windows cover a unit you have installed")
 
@@ -62,17 +62,17 @@ Aquasure's own-store refund policy reads like a general retail policy: 30 days a
 
 ## What a Return Actually Costs You
 
-The headline refund is the price you paid minus three things: the restocking fee, the original shipping you will not get back, and the freight to send it back. Only the first is a published percentage. Here is what the fees alone come to on the units in the table.
+The headline refund is the price you paid minus three things: the restocking fee, the original shipping you will not get back, and the freight to send it back. Only the first is a published percentage. Here is what the fees alone come to on an illustrative $1,500 system.
 
-| Brand and unit | Approx. price | Restocking fee | Fee in dollars | Plus |
-|---|---|---|---|---|
-| SpringWell SS4, boxed | $1,785 | 10% | about $179 | Return freight, original shipping |
-| SpringWell, refused or complicated return | $1,785 | up to 25% | up to about $446 | Return freight |
-| SoftPro Elite 48k, installed and drained | $1,457 | none | $0 | Return freight, original shipping |
-| NuvoH2O Manor, installed by partner | $1,220 | 20% | about $244 | Return freight |
-| Aquasure Harmony Lite 34k, boxed | $490 | none stated | $0 | Any original shipping |
+| Brand and return | Restocking fee | Fee on a $1,500 system | Plus |
+|---|---|---|---|
+| SpringWell, boxed | 10% | $150 | Return freight, original shipping |
+| SpringWell, refused or complicated return | up to 25% | up to $375 | Return freight |
+| SoftPro, installed and drained | none | $0 | Return freight, original shipping |
+| NuvoH2O, installed by partner | 20% | $300 | Return freight |
+| Aquasure, boxed | none stated | $0 | Any original shipping |
 
-*Fees calculated from the brand-store prices above. Freight depends on carrier, weight and distance, and none of these brands publishes a figure, so it is left out rather than estimated.*
+*Illustrative: apply each percentage to the price you actually paid. Freight depends on carrier, weight and distance, and none of these brands publishes a figure, so it is left out rather than estimated.*
 
 Freight is the cost people forget. A two-tank softener with a brine tank is a large, heavy shipment, and most of these policies put it on you. Before buying, ask the brand what a typical return freight charge is for your size and region, and whether it can supply a discounted label. A brand that will not answer that question before the sale is unlikely to be more helpful after it.
 

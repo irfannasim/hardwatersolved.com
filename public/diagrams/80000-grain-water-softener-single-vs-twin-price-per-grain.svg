@@ -1,52 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="g80-title g80-desc">
-<title id="g80-title">80,000 grain water softener single tank vs twin: price per usable grain and backwash</title>
-<desc id="g80-desc">Bar chart comparing 80,000 grain single-tank water softeners with a Fleck 9100SXT twin: price per 1,000 usable grains per cycle for a household using 9,000 grains a day, and the backwash flow each needs from a well, 4.6 gpm for the singles against 2.7 gpm for the twin.</desc>
+<title id="g80-title">80,000 grain water softener single tank vs twin: backwash flow and usable grains</title>
+<desc id="g80-desc">Bar chart comparing 80,000 grain single-tank water softeners with a Fleck 9100SXT twin: the backwash flow each needs from a well, 4.6 gpm for the singles against 2.7 gpm for the twin, and the usable grains per cycle for a household using 9,000 grains a day.</desc>
 <defs></defs>
 <rect width="760" height="560" fill="#ffffff"/>
-<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">80,000 grain single tank vs twin: price and backwash</text>
-<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Price per 1,000 usable grains per cycle, household using 9,000 grains a day (6 people, 20 gpg)</text>
-<text x="270" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">$ per 1,000 usable grains</text>
-<text x="600" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Backwash the</text>
-<text x="600" y="117" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">well must supply</text>
-<path d="M270,136 L270,432" stroke="#e2e8f0" stroke-width="1"/>
-<text x="270" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$0</text>
-<path d="M328,136 L328,432" stroke="#e2e8f0" stroke-width="1"/>
-<text x="328" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$10</text>
-<path d="M386,136 L386,432" stroke="#e2e8f0" stroke-width="1"/>
-<text x="386" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$20</text>
-<path d="M444,136 L444,432" stroke="#e2e8f0" stroke-width="1"/>
-<text x="444" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$30</text>
-<path d="M502,136 L502,432" stroke="#e2e8f0" stroke-width="1"/>
-<text x="502" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$40</text>
-<path d="M560,136 L560,432" stroke="#e2e8f0" stroke-width="1"/>
-<text x="560" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">$50</text>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">80,000 grain single tank vs twin: backwash and capacity</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Backwash flow each asks of a well, and usable grains per cycle at 9,000 grains a day (6 people, 20 gpg)</text>
+<text x="270" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Backwash the well must supply (gpm)</text>
+<text x="625" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Usable grains</text>
+<text x="625" y="117" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">per cycle</text>
+<path d="M313.3,136 L313.3,432" stroke="#e2e8f0" stroke-width="1"/>
+<path d="M356.7,136 L356.7,432" stroke="#e2e8f0" stroke-width="1"/>
+<path d="M400,136 L400,432" stroke="#e2e8f0" stroke-width="1"/>
+<path d="M443.3,136 L443.3,432" stroke="#e2e8f0" stroke-width="1"/>
+<path d="M486.7,136 L486.7,432" stroke="#e2e8f0" stroke-width="1"/>
+<path d="M530,136 L530,432" stroke="#e2e8f0" stroke-width="1"/>
+<text x="270" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">0</text>
+<text x="313.3" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">1</text>
+<text x="356.7" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">2</text>
+<text x="400" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">3</text>
+<text x="443.3" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">4</text>
+<text x="486.7" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<text x="530" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">6 gpm</text>
 <text x="30" y="166" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">AFW Iron Pro 2 80k</text>
 <text x="30" y="185" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">single 13x54, 2.5 cu ft fine mesh</text>
-<text x="30" y="201" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">about $949, 41k usable per cycle</text>
-<rect x="270" y="154" width="134.24878048780488" height="30" fill="#0e7490" stroke="none" stroke-width="1.5"/>
-<text x="412.2487804878049" y="175" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">$23</text>
-<text x="600" y="175" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4.6 gpm</text>
+<rect x="270" y="154" width="199.3" height="30" fill="#3a5a72" stroke="none"/>
+<text x="477" y="175" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4.6 gpm</text>
+<text x="625" y="175" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">41,000</text>
 <text x="30" y="240" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fleck 5600SXT 80k</text>
-<text x="30" y="259" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">single 13x54, 2.5 cu ft (AFW price)</text>
-<text x="30" y="275" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">about $1,034, 41k usable per cycle</text>
-<rect x="270" y="228" width="146.2731707317073" height="30" fill="#0e7490" stroke="none" stroke-width="1.5"/>
-<text x="424.2731707317073" y="249" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">$25</text>
-<text x="600" y="249" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4.6 gpm</text>
+<text x="30" y="259" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">single 13x54, 2.5 cu ft</text>
+<rect x="270" y="228" width="199.3" height="30" fill="#3a5a72" stroke="none"/>
+<text x="477" y="249" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4.6 gpm</text>
+<text x="625" y="249" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">41,000</text>
 <text x="30" y="314" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fleck 2510 80k</text>
 <text x="30" y="333" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">single 13x54, larger valve</text>
-<text x="30" y="349" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">about $1,425, 41k usable per cycle</text>
-<rect x="270" y="302" width="201.58536585365857" height="30" fill="#0e7490" stroke="none" stroke-width="1.5"/>
-<text x="479.5853658536586" y="323" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">$35</text>
-<text x="600" y="323" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3.9 to 5.1 gpm</text>
+<rect x="270" y="302" width="169" height="30" fill="#3a5a72" stroke="none"/>
+<rect x="439" y="302" width="52" height="30" fill="#9fb3c4" stroke="none"/>
+<text x="499" y="323" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3.9 to 5.1 gpm</text>
+<text x="625" y="323" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">41,000</text>
 <text x="30" y="388" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Fleck 9100SXT twin</text>
 <text x="30" y="407" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">two 10x54 tanks, 1.5 cu ft each</text>
-<text x="30" y="423" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">about $1,387, 30k usable per cycle</text>
-<rect x="270" y="376" width="268.1533333333333" height="30" fill="#3a5a72" stroke="none" stroke-width="1.5"/>
-<text x="546.1533333333333" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">$46</text>
-<text x="600" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#15803d">2.7 gpm</text>
+<rect x="270" y="376" width="117" height="30" fill="#0e7490" stroke="none"/>
+<text x="395" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#15803d">2.7 gpm</text>
+<text x="625" y="397" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">30,000 a bed</text>
 <path d="M270,136 L270,432" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="30" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Singles hold back a day of reserve (9,000 grains); the twin uses each 30,000-grain bed to exhaustion.</text>
-<text x="30" y="497" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">The twin costs more per grain but asks the well for about 2.7 gpm instead of 4.6, one tank at a time.</text>
+<text x="30" y="497" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#0b2f4a">The twin asks the well for about 2.7 gpm instead of 4.6, one tank at a time.</text>
 <text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Usable capacity at about 20,000 grains per cu ft (6 lb of salt). Backwash: AFW published figures; 2510 row from</text>
-<text x="30" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">design guidance for a 13-inch bed. Prices: AFW store, checked 1 October 2026.</text>
+<text x="30" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">design guidance for a 13-inch bed, 3.9 gpm in 50°F water to 5.1 gpm in 68°F water.</text>
 </svg>

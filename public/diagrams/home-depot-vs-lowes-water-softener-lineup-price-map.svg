@@ -1,66 +1,61 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="hdl-title hdl-desc">
-<title id="hdl-title">Home Depot vs Lowe's water softeners: lineup and price map</title>
-<desc id="hdl-desc">Price ladder of Home Depot vs Lowe's water softeners listed on 2 October 2026: Home Depot carries Rheem, GE, WaterBoss, Aquasure and APEC from about $489 to $750; Lowe's carries Whirlpool and A.O. Smith from about $479 to $719.</desc>
+<title id="hdl-title">Home Depot vs Lowe's water softeners: lineup and capacity map</title>
+<desc id="hdl-desc">Capacity ladder of Home Depot vs Lowe's water softeners listed on 2 October 2026: Home Depot carries Rheem, GE, WaterBoss, Aquasure and APEC models from 30,000 to 48,000 grains; Lowe's carries Whirlpool and A.O. Smith models from 33,000 to 46,000 grains.</desc>
 <rect width="760" height="640" fill="#ffffff"/>
-<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Who sells what, at what price</text>
-<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Listed prices seen on 2 October 2026; softener-only units unless noted</text>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Who sells what, by rated capacity</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Maker capacity ratings of models listed on 2 October 2026; softener-only units unless noted</text>
 <text x="330" y="104" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end" fill="#0b2f4a">Home Depot</text>
 <text x="430" y="104" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="start" fill="#0b2f4a">Lowe's</text>
 <path class="ln" d="M330,124 L330,566" stroke="#3a5a72" stroke-width="2" fill="none"/>
 <path class="ln" d="M430,124 L430,566" stroke="#3a5a72" stroke-width="2" fill="none"/>
 <path d="M336,560.0 L352,560.0 M408,560.0 L424,560.0" stroke="#cbd5e1" stroke-width="1" fill="none"/>
-<text x="380" y="565.0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$450</text>
-<path d="M336,493.8 L352,493.8 M408,493.8 L424,493.8" stroke="#cbd5e1" stroke-width="1" fill="none"/>
-<text x="380" y="498.8" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$500</text>
-<path d="M336,427.7 L352,427.7 M408,427.7 L424,427.7" stroke="#cbd5e1" stroke-width="1" fill="none"/>
-<text x="380" y="432.7" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$550</text>
+<text x="380" y="565.0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">30k</text>
+<path d="M336,460.8 L352,460.8 M408,460.8 L424,460.8" stroke="#cbd5e1" stroke-width="1" fill="none"/>
+<text x="380" y="465.8" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">35k</text>
 <path d="M336,361.5 L352,361.5 M408,361.5 L424,361.5" stroke="#cbd5e1" stroke-width="1" fill="none"/>
-<text x="380" y="366.5" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$600</text>
-<path d="M336,295.4 L352,295.4 M408,295.4 L424,295.4" stroke="#cbd5e1" stroke-width="1" fill="none"/>
-<text x="380" y="300.4" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$650</text>
-<path d="M336,229.2 L352,229.2 M408,229.2 L424,229.2" stroke="#cbd5e1" stroke-width="1" fill="none"/>
-<text x="380" y="234.2" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$700</text>
-<path d="M336,163.1 L352,163.1 M408,163.1 L424,163.1" stroke="#cbd5e1" stroke-width="1" fill="none"/>
-<text x="380" y="168.1" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$750</text>
-<circle cx="330" cy="508.4" r="5" fill="#0e7490"/>
-<path class="ln" d="M323,508.4 L274,508.4" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="270" y="513.4" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$489  Rheem RHS32, 32k</text>
-<circle cx="330" cy="497.8" r="5" fill="#0e7490"/>
-<path class="ln" d="M323,497.8 L274,486.4" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="270" y="491.4" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$497  GE GXSH40V, 40k (older)</text>
-<circle cx="330" cy="439.6" r="5" fill="#0e7490"/>
-<path class="ln" d="M323,439.6 L274,439.6" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="270" y="444.6" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$541  WaterBoss 900, 36.4k</text>
-<circle cx="330" cy="429.0" r="5" fill="#0e7490"/>
-<path class="ln" d="M323,429.0 L274,417.6" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="270" y="422.6" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$549  Rheem RHS42, 42k</text>
+<text x="380" y="366.5" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">40k</text>
+<path d="M336,262.3 L352,262.3 M408,262.3 L424,262.3" stroke="#cbd5e1" stroke-width="1" fill="none"/>
+<text x="380" y="267.3" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">45k</text>
+<path d="M336,163.0 L352,163.0 M408,163.0 L424,163.0" stroke="#cbd5e1" stroke-width="1" fill="none"/>
+<text x="380" y="168.0" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">50k</text>
+<circle cx="330" cy="560.0" r="5" fill="#0e7490"/>
+<path class="ln" d="M323,560.0 L274,548.0" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="270" y="553.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">APEC 30k + RO bundle</text>
+<circle cx="330" cy="520.3" r="5" fill="#0e7490"/>
+<path class="ln" d="M323,520.3 L274,520.3" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="270" y="525.3" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Rheem RHS32, 32k</text>
+<circle cx="330" cy="433.0" r="5" fill="#0e7490"/>
+<path class="ln" d="M323,433.0 L274,433.0" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="270" y="438.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">WaterBoss 900, 36.4k</text>
+<circle cx="330" cy="357.5" r="5" fill="#0e7490"/>
+<path class="ln" d="M323,357.5 L274,362.0" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="270" y="367.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">GE GXSH40V, 40.2k (older)</text>
 <circle cx="330" cy="321.8" r="5" fill="#0e7490"/>
-<path class="ln" d="M323,321.8 L274,321.8" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="270" y="326.8" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$630  Aquasure Harmony 48k</text>
-<circle cx="330" cy="243.8" r="5" fill="#0e7490"/>
-<path class="ln" d="M323,243.8 L274,243.8" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="270" y="248.8" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$689  Rheem RHW42 Wi-Fi, 42k</text>
-<circle cx="330" cy="163.1" r="5" fill="#0e7490"/>
-<path class="ln" d="M323,163.1 L274,163.1" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="270" y="168.1" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$750  APEC 30k + RO bundle</text>
-<circle cx="430" cy="521.6" r="5" fill="#0e7490"/>
-<path class="ln" d="M437,521.6 L486,521.6" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="490" y="526.6" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">$479  A.O. Smith 350C, 35k</text>
-<circle cx="430" cy="468.7" r="5" fill="#0e7490"/>
-<path class="ln" d="M437,468.7 L486,468.7" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="490" y="473.7" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">$519  Whirlpool WHES33, 33k</text>
-<circle cx="430" cy="376.1" r="5" fill="#0e7490"/>
-<path class="ln" d="M437,376.1 L486,376.1" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="490" y="381.1" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">$589  A.O. Smith 400T, 40k</text>
-<circle cx="430" cy="336.4" r="5" fill="#0e7490"/>
-<path class="ln" d="M437,336.4 L486,336.4" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="490" y="341.4" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">$619  Whirlpool WHES44, 44k</text>
-<circle cx="430" cy="243.8" r="5" fill="#0e7490"/>
-<path class="ln" d="M437,243.8 L486,243.8" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="490" y="248.8" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">$689  A.O. Smith 450T Wi-Fi, 45k</text>
-<circle cx="430" cy="204.1" r="5" fill="#0e7490"/>
-<path class="ln" d="M437,204.1 L486,204.1" stroke="#52697a" stroke-width="1.2" fill="none"/>
-<text x="490" y="209.1" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">$719  Whirlpool WHEC46 Wi-Fi, 46k</text>
+<path class="ln" d="M323,321.8 L274,335.0" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="270" y="340.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Rheem RHS42, 42k</text>
+<path class="ln" d="M323,321.8 L274,306.0" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="270" y="311.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Rheem RHW42 Wi-Fi, 42k</text>
+<circle cx="330" cy="202.7" r="5" fill="#0e7490"/>
+<path class="ln" d="M323,202.7 L274,202.7" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="270" y="207.7" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Aquasure Harmony 48k</text>
+<circle cx="430" cy="500.5" r="5" fill="#0e7490"/>
+<path class="ln" d="M437,500.5 L486,500.5" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="490" y="505.5" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">Whirlpool WHES33, 33k</text>
+<circle cx="430" cy="460.8" r="5" fill="#0e7490"/>
+<path class="ln" d="M437,460.8 L486,460.8" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="490" y="465.8" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">A.O. Smith 350C, 35k</text>
+<circle cx="430" cy="361.5" r="5" fill="#0e7490"/>
+<path class="ln" d="M437,361.5 L486,361.5" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="490" y="366.5" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">A.O. Smith 400T, 40k</text>
+<circle cx="430" cy="282.1" r="5" fill="#0e7490"/>
+<path class="ln" d="M437,282.1 L486,292.0" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="490" y="297.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">Whirlpool WHES44, 44k</text>
+<circle cx="430" cy="262.3" r="5" fill="#0e7490"/>
+<path class="ln" d="M437,262.3 L486,264.0" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="490" y="269.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">A.O. Smith 450T Wi-Fi, 45k</text>
+<circle cx="430" cy="242.4" r="5" fill="#0e7490"/>
+<path class="ln" d="M437,242.4 L486,236.0" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<text x="490" y="241.0" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#0b2f4a">Whirlpool WHEC46 Wi-Fi, 46k</text>
 <rect class="box" x="30" y="584" width="700" height="40" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
 <text x="380" y="609" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">The two stores carry different cabinet brands: compare models, not store names</text>
 </svg>

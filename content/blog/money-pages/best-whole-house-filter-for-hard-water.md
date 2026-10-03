@@ -18,7 +18,7 @@ faqs:
   - question: "Can I use a whole-house filter and a water softener together?"
     answer: "Yes, and many homes do. A sediment and carbon filter goes ahead of the softener, which protects the resin from grit and chlorine. In that setup you would buy a plain filter without a scale stage, because the softener already handles hardness. Do not put a polyphosphate or TAC cartridge in front of a softener. It adds nothing and makes the system harder to service."
   - question: "Is a whole-house filter for hard water cheaper than a softener?"
-    answer: "Upfront, often. The polyphosphate picks on this page cost about $465 to $530, and the Watts OneFlow Plus about $750. A good installed softener usually costs more. Over time, filters need cartridges and softeners need salt, so the gap narrows. Above about 25 to 30 gpg, the filter's scale stage is outside its rated range and the cheaper option stops working."
+    answer: "Upfront, often. The polyphosphate picks are the least expensive systems on this page, and a good installed softener usually costs more. Over time, filters need cartridges and softeners need salt, so the gap narrows. Above about 25 to 30 gpg, the filter's scale stage is outside its rated range and the cheaper option stops working."
 ---
 
 **The best whole-house filter for hard water** is one with a real scale-control stage. For most city homes that is the Watts OneFlow Plus, rated up to 30 gpg. Under 15 gpg, where chlorine taste is the bigger complaint, it is the Aquasana Rhino with its salt-free conditioner. Most whole-house filters sold for "hard water" have no such stage. Sediment, carbon and KDF media trap grit and chlorine. Calcium and magnesium pass straight through them.
@@ -31,24 +31,22 @@ So this page starts by narrowing the field. Only systems with a stage that acts 
 
 > **Methodology.** Nothing on this page was physically tested. Limits, flow rates and cartridge lives come from the makers' engineering specifications, performance data sheets and product pages. Each pick is marked with the scale mechanism it uses and the hardness ceiling its maker publishes.
 >
-> - **Included:** whole-house filter systems sold on Amazon.com at a normal price of $100 or more that contain a dedicated scale-control stage (TAC-type media, polyphosphate or citric acid) alongside sediment or carbon filtration.
+> - **Included:** whole-house filter systems sold on Amazon.com that contain a dedicated scale-control stage (TAC-type media, polyphosphate or citric acid) alongside sediment or carbon filtration.
 > - **Ranked on:** the published hardness ceiling, the completeness of the published water limits, documented filtration performance and flow.
-> - **Excluded:** sediment, carbon and KDF systems with no scale stage, however they are named; single-housing polyphosphate cartridges under $100; magnetic and electronic descalers, which are not filters; and salt-based softeners, which are the alternative this page sends you to.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages did not show prices to our check, so each price below names the store it came from.
+> - **Excluded:** sediment, carbon and KDF systems with no scale stage, however they are named; single-housing polyphosphate cartridges; magnetic and electronic descalers, which are not filters; and salt-based softeners, which are the alternative this page sends you to.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Why a plain filter cannot touch hardness is covered in [water softener vs whole-house water filter](/blog/water-softener-vs-whole-house-water-filter/). The short version: a filter catches things that are suspended or that stick to carbon. Hardness minerals are dissolved ions, and they stay dissolved.
 
 ## Best Whole-House Filters for Hard Water at a Glance
 
-| Pick | Scale mechanism | Maker's hardness limit | Filtration stages | Flow | Approx. price | Amazon |
-|---|---|---|---|---|---|---|
-| Watts OneFlow Plus (OFPSYS) | Media-assisted crystallisation (TAC-type) | 30 gpg | 20-micron carbon block | 10 gpm peak | about $750 | [B01H273O4M](https://www.amazon.com/dp/B01H273O4M) |
-| Aquasana Rhino with salt-free conditioner (EQ-1000-AST) | Scale control media (crystal-forming) | under 15 gpg | Sediment pre-filter, carbon and KDF tank | not compared here | about $1,750 to $1,775 | [B00XAJK0S0](https://www.amazon.com/dp/B00XAJK0S0) |
-| NuvoH2O Home Duo | Citric acid chelation | 25 gpg | 10-micron carbon | 15 to 18 gpm | about $1,177 | [B0CKJ49ZNV](https://www.amazon.com/dp/B0CKJ49ZNV) |
-| iSpring WGB32B-DS | Polyphosphate sequestration | none published | Sediment, carbon block | 15 gpm | about $464 sale, $513 regular | [B0BGYJQ5BR](https://www.amazon.com/dp/B0BGYJQ5BR) |
-| Express Water WH300SCPS | Polyphosphate sequestration | none published | Sediment, activated carbon block | about 15 gpm | about $528 | [B0BW5L6MNK](https://www.amazon.com/dp/B0BW5L6MNK) |
-
-*Prices: Watts on Amazon (sold by Amazon.com, last seen 1 October); Aquasana, NuvoH2O and Express Water from their own stores; iSpring at Home Depot. The Rhino range is $999 for the filter plus Aquasana's $749 to $774 conditioner upgrade, depending on the promotion.*
+| Pick | Scale mechanism | Maker's hardness limit | Filtration stages | Flow | Amazon |
+|---|---|---|---|---|---|
+| Watts OneFlow Plus (OFPSYS) | Media-assisted crystallisation (TAC-type) | 30 gpg | 20-micron carbon block | 10 gpm peak | [Check price on Amazon](https://www.amazon.com/dp/B01H273O4M) |
+| Aquasana Rhino with salt-free conditioner (EQ-1000-AST) | Scale control media (crystal-forming) | under 15 gpg | Sediment pre-filter, carbon and KDF tank | not compared here | [Check price on Amazon](https://www.amazon.com/dp/B00XAJK0S0) |
+| NuvoH2O Home Duo | Citric acid chelation | 25 gpg | 10-micron carbon | 15 to 18 gpm | [Check price on Amazon](https://www.amazon.com/dp/B0CKJ49ZNV) |
+| iSpring WGB32B-DS | Polyphosphate sequestration | none published | Sediment, carbon block | 15 gpm | [Check price on Amazon](https://www.amazon.com/dp/B0BGYJQ5BR) |
+| Express Water WH300SCPS | Polyphosphate sequestration | none published | Sediment, activated carbon block | about 15 gpm | [Check price on Amazon](https://www.amazon.com/dp/B0BW5L6MNK) |
 
 ## What Each Scale Mechanism Does, and Does Not Do
 
@@ -69,7 +67,7 @@ Two practical rules follow from the table.
 
 ## 1. Watts OneFlow Plus: Best Scale Control in a Whole-House Filter
 
-**Buy it on Amazon:** [Watts Premier OneFlow Plus (B01H273O4M)](https://www.amazon.com/dp/B01H273O4M). About $750, sold by Amazon.com, when last seen on 1 October 2026.
+[Check price on Amazon](https://www.amazon.com/dp/B01H273O4M)
 
 - **Mechanism:** media-assisted crystallisation, Watts's name for its TAC-type media
 - **Filtration:** 20-micron radial-flow carbon block for sediment and chlorine taste and odour
@@ -88,7 +86,9 @@ Two practical rules follow from the table.
 
 ## 2. Aquasana Rhino With Salt-Free Conditioner: Best for Chlorine Plus Scale
 
-**Buy it on Amazon:** [Aquasana EQ-1000-AST (B00XAJK0S0)](https://www.amazon.com/dp/B00XAJK0S0). The listing uses Aquasana's older EQ-1000 model name, so check that what ships is the current Rhino with the conditioner. At Aquasana's own store the Rhino is $999 and the conditioner upgrade $749 to $774, depending on the promotion. That makes about $1,750 to $1,775 in total.
+The Amazon listing uses Aquasana's older EQ-1000 model name, so check that what ships is the current Rhino with the conditioner.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00XAJK0S0)
 
 - **Mechanism:** Aquasana's Scale Control Media, which it says forms inactive microscopic crystal particles
 - **Filtration:** sediment pre-filter, then a carbon and KDF tank
@@ -100,13 +100,13 @@ Two practical rules follow from the table.
 
 **Why not first.** Its scale ceiling is half the Watts figure. At 15 gpg it rules out many hard-water homes. The scale claim is also thinner. Aquasana says the conditioner is independently tested, but names no standard, laboratory or result.
 
-**Watch for:** the price. You are paying mainly for a long-life carbon tank. If your water is 15 to 30 gpg, the Watts unit fits the hardness better at less than half the price.
+**Watch for:** the price. You are paying mainly for a long-life carbon tank. If your water is 15 to 30 gpg, the Watts unit fits the hardness better at a much lower price.
 
 ![Chrome bath mixer with white hot and cold cross handles and a hand shower on a white tub, the kind of hot-water outlet where hard water scale builds first](https://images.pexels.com/photos/8266857/pexels-photo-8266857.jpeg)
 
 ## 3. NuvoH2O Home Duo: Best Compact Option With Wide Hardness Range
 
-**Buy it on Amazon:** [NuvoH2O Home Duo (B0CKJ49ZNV)](https://www.amazon.com/dp/B0CKJ49ZNV). About $1,177 on NuvoH2O's own store. It launched at $1,099.99.
+[Check price on Amazon](https://www.amazon.com/dp/B0CKJ49ZNV)
 
 - **Mechanism:** citric acid chelation. A cartridge doses citric acid, which binds calcium as calcium citrate and lowers pH toward neutral
 - **Filtration:** a 10-micron carbon stage
@@ -123,7 +123,7 @@ Two practical rules follow from the table.
 
 ## 4. iSpring WGB32B-DS: Best Budget Scale Stage
 
-**Buy it on Amazon:** [iSpring WGB32B-DS (B0BGYJQ5BR)](https://www.amazon.com/dp/B0BGYJQ5BR). About $464 on sale at Home Depot, $513 regular.
+[Check price on Amazon](https://www.amazon.com/dp/B0BGYJQ5BR)
 
 - **Mechanism:** polyphosphate. iSpring says the media sequesters calcium and magnesium and also coats pipe surfaces to inhibit corrosion
 - **Filtration:** sediment and carbon block stages, in standard 20-inch big-housing cartridges
@@ -139,7 +139,9 @@ Two practical rules follow from the table.
 
 ## 5. Express Water WH300SCPS: Polyphosphate Alternative With Brand-Store Support
 
-**Buy it on Amazon:** [Express Water 3-stage anti-scale (B0BW5L6MNK)](https://www.amazon.com/dp/B0BW5L6MNK). About $528 on Express Water's own store. The Amazon page did not load for our check, so confirm that the listing shows model WH300SCPS before buying.
+The Amazon page did not load for our check, so confirm that the listing shows model WH300SCPS before buying.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0BW5L6MNK)
 
 - **Mechanism:** polyphosphate
 - **Filtration:** sediment and activated carbon block

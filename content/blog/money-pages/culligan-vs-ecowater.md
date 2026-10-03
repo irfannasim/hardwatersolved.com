@@ -27,7 +27,7 @@ faqs:
 
 ## Culligan vs EcoWater at a Glance
 
-> **Method.** Culligan's terms are quoted from its High Efficiency softener owner's guide (document 01021076, revision H, 11/19) and current product page. EcoWater's tier terms come from its current spec sheets, and its warranty clauses from the Advantage Warranty printed in an EcoWater EEC1502 owner's manual. No unit was physically tested. Neither brand is sold on Amazon under its own name; the alternatives below were checked against their Amazon listings and brand stores. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Method.** Culligan's terms are quoted from its High Efficiency softener owner's guide (document 01021076, revision H, 11/19) and current product page. EcoWater's tier terms come from its current spec sheets, and its warranty clauses from the Advantage Warranty printed in an EcoWater EEC1502 owner's manual. No unit was physically tested. Neither brand is sold on Amazon under its own name; the alternatives below were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 | | Culligan | EcoWater |
 |---|---|---|
@@ -111,7 +111,7 @@ The practical point is that the salt setting matters more than the brand. Both u
 
 ## What the Quotes Should Show
 
-Neither brand publishes prices. One homeowner who posted three local quotes on a public forum was offered a Culligan Gold Series softener at $2,352, an EcoWater ESD 2500 at $2,698 and an EcoWater ERR 3500 refiner at $3,398. Those were older series. They show the usual pattern, though: EcoWater's dealer quoted two tiers, about $700 apart.
+Neither brand publishes prices. One homeowner who posted three local quotes on a public forum was offered a Culligan Gold Series softener, an EcoWater ESD 2500 and an EcoWater ERR 3500 refiner, with installed quotes running from about $2,350 to $3,400. Those were older series. They show the usual pattern, though: EcoWater's dealer quoted two tiers, about $700 apart.
 
 To compare Culligan and EcoWater fairly, ask for:
 
@@ -144,13 +144,13 @@ Service plans and rentals from either dealer are separate products. Price them o
 
 Neither brand sells whole-house softeners on Amazon under its own name. If you want the smart features or efficiency without a dealer, these are the options:
 
-| Alternative | How it compares | Approx. price |
+| Alternative | How it compares | Amazon |
 |---|---|---|
-| [SoftPro Elite 48k](https://www.amazon.com/dp/B07KY5SPSJ) | Upflow brining and soft-water refill for salt efficiency, closest in approach to Culligan's upflow HE. No app | $1,367 on SoftPro's store |
-| [GE Smart Water Softener GXSH35W](https://www.amazon.com/dp/B0FWTXRMW6) | 35,000-grain cabinet unit with built-in Wi-Fi, low-salt reminders and water-flow alerts in the SmartHQ app; whole-house shutoff needs a separate GE valve | $699 on GE's store, listed as temporarily out of stock online there |
-| [EcoPure EP42](https://www.amazon.com/dp/B01N5S92DK) | 42,000-grain retail softener from the same Minnesota lineage as EcoWater, with AutoSense regeneration. No Wi-Fi | About $690 to $720 at hardware stores (checked 1 October 2026) |
+| SoftPro Elite 48k | Upflow brining and soft-water refill for salt efficiency, closest in approach to Culligan's upflow HE. No app | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
+| GE Smart Water Softener GXSH35W | 35,000-grain cabinet unit with built-in Wi-Fi, low-salt reminders and water-flow alerts in the SmartHQ app; whole-house shutoff needs a separate GE valve | [Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6) |
+| EcoPure EP42 | 42,000-grain retail softener from the same Minnesota lineage as EcoWater, with AutoSense regeneration. No Wi-Fi | [Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK) |
 
-*Amazon did not show a price on our check for these listings, so compare the Amazon price on the day. GE's older Wi-Fi softener, the GXSHC40N, showed as unavailable on Amazon and is not included.*
+*GE's older Wi-Fi softener, the GXSHC40N, showed as unavailable on Amazon and is not included.*
 
 None of these comes with installation or dealer service. Their warranties are shorter than either dealer brand's upper tiers. Check each one's terms before you weigh the saving.
 

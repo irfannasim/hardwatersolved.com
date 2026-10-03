@@ -1,6 +1,6 @@
 ---
 title: "GE Water Softener Review: Leftover Models, the 2025 Smart Range and What Still Has Support"
-seoTitle: "GE Water Softener Review: 7 Models, Price and Lifespan"
+seoTitle: "GE Water Softener Review: 7 Models, Value and Lifespan"
 seoDescription: "This GE water softener review converts its grain rating to real capacity, explains the app features and lists the most common failure points."
 excerpt: "GE's long-running GXSH, GXSF and GXMH softeners are now flagged as obsolete on GE's own product data, and their Amazon listings are unavailable. A new range of Wi-Fi models arrived in October 2025. This review sorts the leftover stock from the current line, converts every grain rating to capacity at a normal salt setting, explains the SmartHQ app features, and walks through the failures GE's own troubleshooting table expects."
 date: "2026-10-01"
@@ -20,7 +20,7 @@ faqs:
   - question: "What warranty do GE water softeners have?"
     answer: "In the US, GE gives one year on any part including labor from its factory service, three years on the electronic monitor, and ten years on the resin tank, all from the date of original purchase. After the first year you pay the labor. If the softener is used for anything other than private family use, the cover drops to 90 days."
   - question: "Should I buy a leftover GE softener on clearance?"
-    answer: "Only if the price is clearly below the current model that does the same job, you get a full new-product warranty from your purchase date, and you can confirm that the parts you are likely to need, such as the nozzle and venturi and the seal kit, are still available. GE listed the GXSH40V at $569 against $699 for the new GXSH35W, which delivers almost the same capacity at a normal salt setting."
+    answer: "Only if the price is clearly below the current model that does the same job, you get a full new-product warranty from your purchase date, and you can confirm that the parts you are likely to need, such as the nozzle and venturi and the seal kit, are still available. GE listed the GXSH40V below the new GXSH35W, which delivers almost the same capacity at a normal salt setting, so compare the clearance price with the GXSH35W's current price."
 ---
 
 This **GE water softener review** has two answers, because there are now two GE ranges. The softeners most reviews describe, the GXSF30V, GXSH40V, GXSH45V, GXSHC40N and GXMH31H, are flagged as **obsolete** in GE's own product data, and none had an active Amazon offer on 1 October 2026. GE replaced them in October 2025 with a Wi-Fi range: the **GXSH35W**, **GXSH45W** and **GXMD30W**. The old and new units are close relatives. Both are NSF/ANSI 44 certified cabinet softeners with very high salt efficiency and GE's one-year full warranty. If you find leftover stock, the new model is the benchmark its clearance price has to beat.
@@ -29,20 +29,20 @@ This **GE water softener review** has two answers, because there are now two GE 
 
 ## GE Water Softener Review: Which Models Are Current
 
-| Model | Type | GE status | First sold | GE store price, 1 Oct 2026 | Amazon |
-|---|---|---|---|---|---|
-| GXSF30V | 30,400-grain softener | Obsolete | 2012 | $455 sale, $499 list | Unavailable (B00BT9UCMM) |
-| GXSH40V | 40,000-grain softener | Obsolete | 2012 | $569 sale, $649 list | Unavailable (B00D5YRZLU) |
-| GXSH45V | 45,100-grain softener | Obsolete | 2012 | $586 sale, $799 list | Not checked |
-| GXSHC40N | 40,000-grain, Wi-Fi | Obsolete | 2019 | $656 sale, $749 list | Unavailable (B083ZM2SWC) |
-| GXMH31H | 31,100-grain softener + filter | Obsolete | 2015 | $500 sale, $899 list | Unavailable (B013G5W3TQ) |
-| **GXSH35W** | 35,000-grain, Wi-Fi | **Current** | Oct 2025 | $699 | [Active, about $699](https://www.amazon.com/dp/B0FWTXRMW6) |
-| **GXSH45W** | 45,000-grain, Wi-Fi | **Current** | Oct 2025 | $799 | No listing found |
-| **GXMD30W** | 30,000-grain, Wi-Fi, carbon filter | **Current** | Oct 2025 | $999 | [Active](https://www.amazon.com/dp/B0FWTY3PT8) |
+| Model | Type | GE status | First sold | Amazon |
+|---|---|---|---|---|
+| GXSF30V | 30,400-grain softener | Obsolete | 2012 | Unavailable |
+| GXSH40V | 40,000-grain softener | Obsolete | 2012 | Unavailable |
+| GXSH45V | 45,100-grain softener | Obsolete | 2012 | Not checked |
+| GXSHC40N | 40,000-grain, Wi-Fi | Obsolete | 2019 | Unavailable |
+| GXMH31H | 31,100-grain softener + filter | Obsolete | 2015 | Unavailable |
+| **GXSH35W** | 35,000-grain, Wi-Fi | **Current** | Oct 2025 | [Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6) |
+| **GXSH45W** | 45,000-grain, Wi-Fi | **Current** | Oct 2025 | No listing found |
+| **GXMD30W** | 30,000-grain, Wi-Fi, carbon filter | **Current** | Oct 2025 | [Check price on Amazon](https://www.amazon.com/dp/B0FWTY3PT8) |
 
 The status column comes from the `IS_OBSOLETE` flag in GE's own product data, which is true for every older model and false for the three 2025 models. GE's store pages still show prices for the obsolete units but no add-to-cart button. Treat those prices as a reference for judging a clearance offer, not as stock you can order.
 
-> **How this review was built.** It is built from documents: GE's product data and specification pages, the GXSH40V/GXSH45V and GXSH35W/GXMD30W owner's manuals, GE's US limited warranty, NSF's public listings and the Amazon listings. Nothing here comes from a unit on our bench. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **How this review was built.** It is built from documents: GE's product data and specification pages, the GXSH40V/GXSH45V and GXSH35W/GXMD30W owner's manuals, GE's US limited warranty, NSF's public listings and the Amazon listings. Nothing here comes from a unit on our bench. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Who Makes GE Water Softeners
 
@@ -116,7 +116,7 @@ GE publishes no service life. The warranty suggests the same pattern as other so
 
 A clearance GE softener can be a good buy. Check four things first:
 
-1. **Price against the current equivalent.** GE listed the GXSH40V at $569 on sale, against $699 for the GXSH35W, which delivers slightly more capacity at a normal salt dose and adds Wi-Fi. A leftover GXSH40V is worth it only well below that $130 gap. A leftover GXMH31H at $500 against the $999 GXMD30W is a bigger saving, if you do not need the newer unit's carbon stage certification.
+1. **Price against the current equivalent.** GE listed the GXSH40V below the GXSH35W, which delivers slightly more capacity at a normal salt dose and adds Wi-Fi. A leftover GXSH40V is worth it only if it costs well below a new GXSH35W. A leftover GXMH31H against the GXMD30W can be a bigger saving, if you do not need the newer unit's carbon stage certification. Check the current prices of both before you decide.
 2. **A new-product warranty.** Confirm the seller is authorised and that the unit is new, not returned or open-box, so GE's one-year full warranty applies from your purchase date.
 3. **Parts.** GE's manuals list part numbers for the nozzle and venturi, seals and control parts. Ask GE Appliances whether those are still stocked for your model. Third-party kits sold online as fitting GE, Whirlpool, Kenmore and Morton units exist, but they are not GE parts.
 4. **Iron and hardness limits.** The old models are rated for 3 to 12 ppm of clear-water iron depending on model; the 2025 models are rated at 3 to 5 ppm (GE's specification page and manual differ). On a well with iron, the older GXSH45V's 12 ppm rating may matter more than Wi-Fi. Test first: our guide to [testing iron and manganese before sizing](/blog/test-iron-and-manganese-before-sizing/) explains how.
@@ -125,9 +125,17 @@ You can confirm any GE model's certification on NSF's [listing for GE Appliances
 
 ## Three Current Picks on Amazon
 
-1. [GE Smart Water Softener GXSH35W](https://www.amazon.com/dp/B0FWTXRMW6), about $699. The direct replacement for the GXSH40V and GXSHC40N: 1 cubic foot of resin, 32,636 grains at 9.8 lb, Wi-Fi alerts, up to 165 gpg hardness.
-2. [GE Smart Water Softener with Integrated Filtration GXMD30W](https://www.amazon.com/dp/B0FWTY3PT8), $999 at GE's store; the Amazon price was not visible on our check. The replacement for the GXMH31H, adding a carbon stage certified to NSF/ANSI 42 for chlorine taste and odour.
-3. [EcoPure EPH130 softener and filtration system](https://www.amazon.com/dp/B0GMYSW7MG), about $699. A non-GE alternative made by Water Channel Partners, the company that also makes Whirlpool's softeners. It carries a 1-year parts and labor warranty.
+1. **GE Smart Water Softener GXSH35W.** The direct replacement for the GXSH40V and GXSHC40N: 1 cubic foot of resin, 32,636 grains at 9.8 lb, Wi-Fi alerts, up to 165 gpg hardness.
+
+   [Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6)
+
+2. **GE Smart Water Softener with Integrated Filtration GXMD30W.** The replacement for the GXMH31H, adding a carbon stage certified to NSF/ANSI 42 for chlorine taste and odour.
+
+   [Check price on Amazon](https://www.amazon.com/dp/B0FWTY3PT8)
+
+3. **EcoPure EPH130 softener and filtration system.** A non-GE alternative made by Water Channel Partners, the company that also makes Whirlpool's softeners. It carries a 1-year parts and labor warranty.
+
+   [Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG)
 
 ## Who a GE Softener Is Wrong For
 

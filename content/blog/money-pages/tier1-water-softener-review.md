@@ -21,11 +21,11 @@ faqs:
     answer: "Only at a heavy salt dose. It holds 1.5 cubic feet of 8 percent crosslink resin. At an efficient 6 lb of salt per cubic foot that resin gives about 31,500 grains, and Tier1's own manual tells you to program capacity at 75 percent of the rating, or 36,000 grains. Its default brine refill of 5 gallons dissolves about 15 lb of salt, which restores roughly 40,000 grains."
 ---
 
-This **Tier1 water softener review** starts with the part Tier1 sells hardest: a patented ceramic-disc control valve with no seals, spacers or piston to rebuild. That is a real design advantage over a piston valve. What the listings say less clearly is what surrounds it. The valve, bypass and electronics carry one year of warranty, extendable to five only if you register and buy four bottles of Tier1 cleaner every year. The manual expects chlorine below 0.1 ppm and iron below 0.3 ppm. And a "48,000-grain" Tier1 delivers about 31,500 to 40,000 grains at the salt doses most owners will run. At $509 to $599 for the 32,000 and 48,000-grain two-tank models, it is a fair price for a metered softener, but only for water inside those limits.
+This **Tier1 water softener review** starts with the part Tier1 sells hardest: a patented ceramic-disc control valve with no seals, spacers or piston to rebuild. That is a real design advantage over a piston valve. What the listings say less clearly is what surrounds it. The valve, bypass and electronics carry one year of warranty, extendable to five only if you register and buy four bottles of Tier1 cleaner every year. The manual expects chlorine below 0.1 ppm and iron below 0.3 ppm. And a "48,000-grain" Tier1 delivers about 31,500 to 40,000 grains at the salt doses most owners will run. The 32,000 and 48,000-grain two-tank models are fairly priced for a metered softener, but only for water inside those limits.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this review was built.** Nothing here was physically tested. The evidence is the [Tier1 WS-165-150 owner's manual](https://tier1water.com/wp-content/uploads/2024/12/tier1_ws_165_150_hkcrft.pdf), Tier1's Everyday Series warranty document, the product pages on DiscountFilterStore.com (Tier1's own store), the Amazon listings, and NSF's public softener listings. Capacity is restated at a stated salt dose using standard resin performance. **Prices checked 2 October 2026**, from DiscountFilterStore.com, because Amazon's prices did not load for our check. Amazon prices change often, so check the current price before buying.
+> **How this review was built.** Nothing here was physically tested. The evidence is the [Tier1 WS-165-150 owner's manual](https://tier1water.com/wp-content/uploads/2024/12/tier1_ws_165_150_hkcrft.pdf), Tier1's Everyday Series warranty document, the product pages on DiscountFilterStore.com (Tier1's own store), the Amazon listings, and NSF's public softener listings. Capacity is restated at a stated salt dose using standard resin performance. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## 4 Catches in This Tier1 Water Softener Review
 
@@ -40,19 +40,19 @@ The Tier1 manual is plain about it: "Tier1 is a registered trademark of US Water
 
 We found no Tier1 softener on NSF's register of certified softeners when we searched it by brand name on 2 October 2026. The Amazon listings say the resin is "NSF/ANSI 44 certified cation resin", which is a claim about one component, not a certification of the whole softener's capacity or efficiency.
 
-## The Tier1 Lineup and Prices
+## The Tier1 Lineup
 
-| Model | Resin | Mineral tank | Brine tank | Price, DiscountFilterStore, 2 Oct 2026 | Amazon |
-|---|---|---|---|---|---|
-| Everyday 24,000 compact | 0.75 cu ft (Amazon listing) | 8 x 39 in | 13.5 x 32 in | $386.53 | [B094X9XQVV](https://www.amazon.com/dp/B094X9XQVV) |
-| Everyday 32,000, WS-165-132 | 1.0 cu ft, 8% crosslink | 9 x 53 in with valve | 13.5 x 32 in | $509.00 | [B07TV749H9](https://www.amazon.com/dp/B07TV749H9) |
-| Everyday 48,000, WS-165-150 | 1.5 cu ft, 8% crosslink | 10 x 59 in with valve | 13.5 x 32 in | $599.00 | [B01MXF7G6C](https://www.amazon.com/dp/B01MXF7G6C) |
-| Everyday 64,000, WS-165-164 | 2.0 cu ft, 8% crosslink | 12 x 57 in with valve | 13.5 x 32 in | $749.00 | Not checked |
-| All-in-One cabinet 24,000 | 0.75 cu ft | Cabinet 44.6 x 11.4 x 18.9 in | Inside cabinet | $770.69 | [B09PRTTMGL](https://www.amazon.com/dp/B09PRTTMGL) |
+| Model | Resin | Mineral tank | Brine tank | Amazon |
+|---|---|---|---|---|
+| Everyday 24,000 compact | 0.75 cu ft (Amazon listing) | 8 x 39 in | 13.5 x 32 in | [Check price on Amazon](https://www.amazon.com/dp/B094X9XQVV) |
+| Everyday 32,000, WS-165-132 | 1.0 cu ft, 8% crosslink | 9 x 53 in with valve | 13.5 x 32 in | [Check price on Amazon](https://www.amazon.com/dp/B07TV749H9) |
+| Everyday 48,000, WS-165-150 | 1.5 cu ft, 8% crosslink | 10 x 59 in with valve | 13.5 x 32 in | [Check price on Amazon](https://www.amazon.com/dp/B01MXF7G6C) |
+| Everyday 64,000, WS-165-164 | 2.0 cu ft, 8% crosslink | 12 x 57 in with valve | 13.5 x 32 in | Not checked |
+| All-in-One cabinet 24,000 | 0.75 cu ft | Cabinet 44.6 x 11.4 x 18.9 in | Inside cabinet | [Check price on Amazon](https://www.amazon.com/dp/B09PRTTMGL) |
 
 The two-tank Everyday models share the ceramic-disc valve, 1-inch NPT connections, a metered control and a bypass that opens automatically during regeneration. The store lists 18 gpm of flow for each but gives no pressure drop, so that figure cannot be compared with a spec sheet that states one. The All-in-One cabinet is a different design: Tier1 describes its valve as a "digital manual control valve with LCD" and does not claim a ceramic valve for it. It uses 3/4-inch connections, and the store recommends an iron filter above 3 ppm.
 
-**Read the Amazon titles with care.** The 24,000-grain compact's title says "1 Cu Ft" of resin, while its own bullet points and specification field say 3/4 cubic foot. Tier1's store sells a separate "Compact 32,000" with 1 cubic foot in a 10 x 40 in tank for $549, so check which tank you are ordering. The 32,000-grain model's Amazon title says it suits "3-4 bathroom homes", while Tier1's store recommends the same model for 1 to 2 bathrooms.
+**Read the Amazon titles with care.** The 24,000-grain compact's title says "1 Cu Ft" of resin, while its own bullet points and specification field say 3/4 cubic foot. Tier1's store sells a separate "Compact 32,000" with 1 cubic foot in a 10 x 40 in tank, so check which tank you are ordering. The 32,000-grain model's Amazon title says it suits "3-4 bathroom homes", while Tier1's store recommends the same model for 1 to 2 bathrooms.
 
 ## How the Ceramic-Disc Valve Works, Compared With Fleck's Piston
 
@@ -102,7 +102,7 @@ The WS-165-150 manual lists the conditions the softener is designed for. Three o
 | Pressure | 21 to 120 psi; pressure valve above 80 psi, booster pump below 20 psi | The store lists 20 to 87 psi |
 | Water temperature | 40 to 120°F | The care section says never above 110°F |
 
-These are not just efficiency notes. The [Everyday Series warranty](https://www.discountfilterstore.com/pages/warranty-information-everyday-series) excludes "water softener resin degradation from iron, manganese, chlorine, or chloramines" above the operating parameters. Chlorine attacks standard 8 percent crosslink resin over time, as explained in [how chlorine damages softener resin](/blog/how-chlorine-damages-softener-resin/). The usual answers are a carbon filter ahead of the softener or a 10 percent crosslink resin, a choice Tier1 does not offer in its Everyday Series. Tier1 sells its 32,000 and 48,000-grain softeners in bundles with chlorine or chloramine carbon filters, from about $542 and $959 on 2 October 2026.
+These are not just efficiency notes. The [Everyday Series warranty](https://www.discountfilterstore.com/pages/warranty-information-everyday-series) excludes "water softener resin degradation from iron, manganese, chlorine, or chloramines" above the operating parameters. Chlorine attacks standard 8 percent crosslink resin over time, as explained in [how chlorine damages softener resin](/blog/how-chlorine-damages-softener-resin/). The usual answers are a carbon filter ahead of the softener or a 10 percent crosslink resin, a choice Tier1 does not offer in its Everyday Series. Tier1 sells its 32,000 and 48,000-grain softeners in bundles with chlorine or chloramine carbon filters.
 
 ![Decision chart for a Tier1 water softener: chlorine above 0.1 ppm needs carbon first, ferrous iron above 0.3 ppm needs an iron filter, pressure outside 20 to 80 psi needs correcting](/diagrams/tier1-water-softener-inlet-water-fit-decision-chart.svg "Clear the manual's three inlet limits before you size the softener")
 
@@ -117,16 +117,16 @@ Tier1's listings lead with "10-year tank warranty". The Everyday Series warranty
 
 There is an inconsistency to note. The warranty and the Amazon listings call for one bottle every three months. The WS-165-150-BLK installation manual tells owners to pour a bottle into the brine well "every four months". If you want the extension, follow the warranty document: four bottles a year, with receipts.
 
-The cost is easy to work out. The cleaner was $13.99 a bottle on DiscountFilterStore.com on 2 October 2026.
+The cost is easy to work out: multiply the bottles below by the current price of the cleaner on DiscountFilterStore.com.
 
-| To keep the valve covered for | Bottles to buy | Cleaner cost |
-|---|---|---|
-| 1 year | 0 | $0 |
-| 2 years | 4 | ~$56 |
-| 3 years | 8 | ~$112 |
-| 5 years | 16 | ~$224 |
+| To keep the valve covered for | Bottles to buy |
+|---|---|
+| 1 year | 0 |
+| 2 years | 4 |
+| 3 years | 8 |
+| 5 years | 16 |
 
-So five years of valve cover on a $599 48,000-grain unit costs about $224 in cleaner, plus the discipline to keep every receipt. Whether that beats self-insuring depends on what a replacement Tier1 valve head costs, which we could not find listed. On iron-bearing water a resin cleaner does real work. On clean city water behind a carbon filter, its main value is the warranty. Our guide to [reading a water softener warranty](/blog/how-to-read-a-water-softener-warranty/) covers conditional extensions like this one.
+So five years of valve cover costs 16 bottles of cleaner, plus the discipline to keep every receipt. Whether that beats self-insuring depends on what a replacement Tier1 valve head costs, which we could not find listed. On iron-bearing water a resin cleaner does real work. On clean city water behind a carbon filter, its main value is the warranty. Our guide to [reading a water softener warranty](/blog/how-to-read-a-water-softener-warranty/) covers conditional extensions like this one.
 
 ## Installation and Day-to-Day Use
 

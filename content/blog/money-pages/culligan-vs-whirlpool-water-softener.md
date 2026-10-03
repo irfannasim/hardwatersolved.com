@@ -12,7 +12,7 @@ faqs:
   - question: "Is Culligan better than Whirlpool for a water softener?"
     answer: "Culligan is not better at softening; both are certified to NSF/ANSI 44. What Culligan adds is a local dealer who tests the water, sizes and installs the system, adds iron or carbon treatment where needed and handles service. A Whirlpool is a self-install cabinet unit with parts mailed to you. On simple city water a Whirlpool is usually enough; on complicated well water, or for an owner who will never touch the unit, the dealer is what you pay for."
   - question: "How much more does a Culligan softener cost than a Whirlpool?"
-    answer: "Culligan publishes no prices. Owner reports range from under $1,000 to more than $5,000 installed, with one set of quotes at $2,500 to $5,500. A Whirlpool 48K was listed at $679.99 at Blain's Farm and Fleet on 2 October 2026. On our illustrative model, that works out to roughly $98 to $138 a year for the Whirlpool over 10 years against $217 to $383 a year for a Culligan over 15."
+    answer: "Culligan publishes no prices. Owner reports range from under $1,000 to more than $5,000 installed, with one set of quotes at $2,500 to $5,500. A Whirlpool 48K is a self-install cabinet unit sold at farm and home stores for a fraction of that. On our illustrative model, that works out to roughly $98 to $138 a year for the Whirlpool over 10 years against $217 to $383 a year for a Culligan over 15."
   - question: "Who makes Whirlpool water softeners?"
     answer: "Water Channel Partners of Eagan, Minnesota, under licence from Whirlpool. Whirlpool's water site and the current WHES30 and WHES33 owner's manual name it as manufacturer and warrantor, so warranty claims go to Water Channel Partners, not to Whirlpool appliance service."
   - question: "Can a Whirlpool water softener handle well water with iron?"
@@ -29,7 +29,7 @@ The **Culligan vs Whirlpool water softener** decision is really a decision about
 
 ## Culligan vs Whirlpool at a Glance
 
-> **Method.** Culligan figures come from its Aquasential Smart High Efficiency product page and its [high efficiency softener owner's guide](https://www.culligan.com/wp-content/uploads/2020/01pdf/HE1_Water_Softener_Owners_Guide.pdf) (document 01021076, revision H). Whirlpool figures come from its product pages, the current [WHES30 and WHES33 owner's manual](https://whirlpoolwatersolutions.com/wp-content/uploads/2015/05/7392301Eng_H.pdf) (revision H, January 2025) and its [softener extended-warranty page](https://whirlpoolwatersolutions.com/softener-extended-warranties/). The cost model uses stated assumptions, marked illustrative. Nothing was physically tested. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Method.** Culligan figures come from its Aquasential Smart High Efficiency product page and its [high efficiency softener owner's guide](https://www.culligan.com/wp-content/uploads/2020/01pdf/HE1_Water_Softener_Owners_Guide.pdf) (document 01021076, revision H). Whirlpool figures come from its product pages, the current [WHES30 and WHES33 owner's manual](https://whirlpoolwatersolutions.com/wp-content/uploads/2015/05/7392301Eng_H.pdf) (revision H, January 2025) and its [softener extended-warranty page](https://whirlpoolwatersolutions.com/softener-extended-warranties/). The cost model uses stated assumptions, marked illustrative. Nothing was physically tested. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 | | Culligan Aquasential Smart HE | Whirlpool cabinet softeners |
 |---|---|---|
@@ -41,7 +41,7 @@ The **Culligan vs Whirlpool water softener** decision is really a decision about
 | Rated flow | 10.8 to 12.8 gpm at a 15 psi drop | 7 to 8.2 gpm on most models; 12 gpm on the WHES48 |
 | Iron limit | 5 ppm, with at least 8 gpg of hardness per 1 ppm of iron | 3 to 12 ppm clear-water iron, by model |
 | Warranty headline | Lifetime tank and resin; 10 years on board and valve body | 10 years on tanks; 3 on the control board; 1 or 2 years on the rest, extendable |
-| Price | Set by each dealer; not published | Whirlpool 48K $679.99 at Blain's Farm and Fleet |
+| Price | Set by each dealer; not published | Store shelf price; a fraction of a typical dealer quote |
 
 ## What the Culligan Premium Actually Buys
 
@@ -69,7 +69,7 @@ Neither maker publishes a service life, so the model below assumes one for each 
 
 **Assumptions (illustrative):**
 
-- **Whirlpool 48K:** $680 at the farm-store price checked on 2 October 2026. Either $100 of DIY supplies or $500 for a plumber, inside the $150 to $1,000 labor range Fixr gives. $200 set aside for a rotor and seal kit or a board over the unit's life. Assumed life **10 years**, consistent with its 10-year tank warranty and 3-year board cover.
+- **Whirlpool 48K:** the farm-store shelf price at the time of writing, plus either $100 of DIY supplies or $500 for a plumber, inside the $150 to $1,000 labor range Fixr gives. $200 set aside for a rotor and seal kit or a board over the unit's life. Assumed life **10 years**, consistent with its 10-year tank warranty and 3-year board cover.
 - **Culligan:** three installed quotes, $2,500, $3,500 and $5,000, inside the owner-reported range. Five paid dealer visits at an illustrative $150 each. Assumed life **15 years**, reflecting the lifetime tank and resin and 10-year valve body cover.
 
 | | Upfront | Repairs and visits | Years | Per year |
@@ -135,16 +135,14 @@ Culligan's numbers are longer, but both warranties leave labor to you, and both 
 
 ## Where to Buy (and the Amazon Situation)
 
-Culligan softeners are sold only through Culligan dealers and are not on Amazon. Whirlpool's Amazon listings for the WHES18, WHES30, WHES33 and WHES48 showed as currently unavailable on 1 October 2026, and the WHES40E listing had been removed. A check on 2 October could not confirm an active offer either. Farm and home stores still list them; Blain's Farm and Fleet listed the Whirlpool 48K at **$679.99** that day.
+Culligan softeners are sold only through Culligan dealers and are not on Amazon. Whirlpool's Amazon listings for the WHES18, WHES30, WHES33 and WHES48 showed as currently unavailable on 1 October 2026, and the WHES40E listing had been removed. A check on 2 October could not confirm an active offer either. Farm and home stores, such as Blain's Farm and Fleet, still list them.
 
 If you want to order a cabinet softener on Amazon, these two were active listings on 1 October 2026:
 
-| Amazon alternative | Why it compares | Approx. price |
+| Amazon alternative | Why it compares | Amazon |
 |---|---|---|
-| [EcoPure EPH130](https://www.amazon.com/dp/B0GMYSW7MG) | Made by Water Channel Partners, Whirlpool's licensee; cabinet softener with filtration, 1-year parts and labor warranty on the listing | About $699 on Amazon, 1 Oct 2026 |
-| [GE Smart Water Softener GXSH35W](https://www.amazon.com/dp/B0FWTXRMW6) | 35,000-grain cabinet unit, 1 cu ft resin, Wi-Fi alerts, certified to NSF/ANSI 44 by IAPMO R&T per its manual; GE's 1-year full warranty | About $699 on Amazon, 1 Oct 2026 |
-
-*Amazon prices change often; check the listing on the day you buy.*
+| EcoPure EPH130 | Made by Water Channel Partners, Whirlpool's licensee; cabinet softener with filtration, 1-year parts and labor warranty on the listing | [Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG) |
+| GE Smart Water Softener GXSH35W | 35,000-grain cabinet unit, 1 cu ft resin, Wi-Fi alerts, certified to NSF/ANSI 44 by IAPMO R&T per its manual; GE's 1-year full warranty | [Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6) |
 
 ## Who Should Buy Neither
 

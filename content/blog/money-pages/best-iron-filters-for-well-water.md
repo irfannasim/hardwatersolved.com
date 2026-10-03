@@ -31,21 +31,21 @@ Four lab results decide which of those you are: iron plus manganese, pH, hydroge
 
 ## Best Iron Filters for Well Water at a Glance
 
-| Pick | Technology | Oxidant | Seller's rating (Fe / Mn / H2S) | Backwash flow | Lowest pH stated | Approx. price | Amazon |
-|---|---|---|---|---|---|---|---|
-| AFWFilters Air Injection Silver 10 | Air injection, filter media | Air pocket in the tank | 10 / 2 / 4 ppm | 5 gpm | Not stated | $1,199 sale, $1,399 regular | [B004FVZHLC](https://www.amazon.com/dp/B004FVZHLC) |
-| Oceanic AIO 12x52 | Air injection, catalytic carbon | Air pocket in the tank | 27 / 11 / 17 ppm | 10 gpm | Not stated | about $1,250 | [B0C93PNSS1](https://www.amazon.com/dp/B0C93PNSS1) |
-| AFWFilters Filox 10 | Manganese dioxide media | The media surface | 15 / 3 / 7 ppm | 5.3 gpm | Not stated | $1,389 | [B0082BKX3I](https://www.amazon.com/dp/B0082BKX3I) |
-| AFWFilters Greensand Plus 15 | GreensandPlus media | Media coating; chlorine feed advised for high iron | 15 / 15 / 5 ppm | 5.5 gpm | 6.8 (NDSU, for greensand) | $961 | [B0083ESJAS](https://www.amazon.com/dp/B0083ESJAS) |
-| WECO KL-1054 Katalox Light | Katalox Light media | The media surface | Not published as ppm | 5.6 gpm | 5.8 | about $1,951 | [B075QW4RJY](https://www.amazon.com/dp/B075QW4RJY) |
+| Pick | Technology | Oxidant | Seller's rating (Fe / Mn / H2S) | Backwash flow | Lowest pH stated | Amazon |
+|---|---|---|---|---|---|---|
+| AFWFilters Air Injection Silver 10 | Air injection, filter media | Air pocket in the tank | 10 / 2 / 4 ppm | 5 gpm | Not stated | [Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC) |
+| Oceanic AIO 12x52 | Air injection, catalytic carbon | Air pocket in the tank | 27 / 11 / 17 ppm | 10 gpm | Not stated | [Check price on Amazon](https://www.amazon.com/dp/B0C93PNSS1) |
+| AFWFilters Filox 10 | Manganese dioxide media | The media surface | 15 / 3 / 7 ppm | 5.3 gpm | Not stated | [Check price on Amazon](https://www.amazon.com/dp/B0082BKX3I) |
+| AFWFilters Greensand Plus 15 | GreensandPlus media | Media coating; chlorine feed advised for high iron | 15 / 15 / 5 ppm | 5.5 gpm | 6.8 (NDSU, for greensand) | [Check price on Amazon](https://www.amazon.com/dp/B0083ESJAS) |
+| WECO KL-1054 Katalox Light | Katalox Light media | The media surface | Not published as ppm | 5.6 gpm | 5.8 | [Check price on Amazon](https://www.amazon.com/dp/B075QW4RJY) |
 
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Each pick is judged from its seller's product page, the media maker's data sheet where one exists, and extension-service guidance from Penn State and NDSU. Ratings are quoted as the sellers state them.
 >
-> - **Included:** whole-house, automatically backwashing iron filters sold new on Amazon at a normal price of $100 or more, with a published backwash flow figure. One pick per technology, so you compare methods rather than five near-identical tanks.
-> - **Excluded:** Birm-only filters (Penn State does not recommend Birm for hydrogen sulfide, and it needs pH of at least 6.8 for iron and 7.5 for manganese), cartridge "iron filters" (consumables, not systems), fine-mesh softeners sold as iron removers (they take dissolved iron only and belong in a softener roundup), and the WECO KDF85-1054, which needs 16 gpm of backwash flow on WECO's own table and costs about $2,746.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our tools, so prices are from the sellers' own stores: AFWFilters (store.afwfilters.com), Oceanic (oceanicwater.com) and WECO (wecofilters.com). The Greensand Plus Amazon listing did not load for our check; the AFW store price is shown.
+> - **Included:** whole-house, automatically backwashing iron filters sold new on Amazon, with a published backwash flow figure. One pick per technology, so you compare methods rather than five near-identical tanks.
+> - **Excluded:** Birm-only filters (Penn State does not recommend Birm for hydrogen sulfide, and it needs pH of at least 6.8 for iron and 7.5 for manganese), cartridge "iron filters" (consumables, not systems), fine-mesh softeners sold as iron removers (they take dissolved iron only and belong in a softener roundup), and the WECO KDF85-1054, which needs 16 gpm of backwash flow on WECO's own table.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 How iron behaves on a well in general, including the full test panel, is covered in [water softener for well water](/blog/water-softener-for-well-water/). This page assumes you have a lab result and have decided on a filter rather than a softener.
 
@@ -74,9 +74,10 @@ Read the chart from the top and stop at the first yes. The order matters, becaus
 - **Backwash flow:** 5 gpm, from AFW's air injection comparison table, which also says the 1 cu ft systems need a backwash at least every 3 days.
 - **Lowest pH:** not stated by AFW.
 - **Tank and warranty:** 10x54 tank, 62 inches tall overall. AFW lists 1 year on the control head and 10 years on the tank for its air injection systems.
-- **Price:** $1,199 on sale, $1,399 standard, at AFWFilters. [See it on Amazon (B004FVZHLC)](https://www.amazon.com/dp/B004FVZHLC)
 
-This is the default because it uses nothing but air and a backwash. There is no chemical tank and no regenerant. The media is plain filter media, and AFW sells a replacement 1 cu ft Filter Ag Plus kit for about $195. Its ratings fit the commonest well problem: a few ppm of clear-water iron with a trace of manganese.
+[Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC)
+
+This is the default because it uses nothing but air and a backwash. There is no chemical tank and no regenerant. The media is plain filter media, and AFW sells a replacement 1 cu ft Filter Ag Plus kit. Its ratings fit the commonest well problem: a few ppm of clear-water iron with a trace of manganese.
 
 **Watch for:** manganese. At 2 ppm it has the lowest manganese rating of the five picks. If your manganese result is above that, or black specks appear after installation, move down the chart.
 
@@ -88,7 +89,9 @@ This is the default because it uses nothing but air and a backwash. There is no 
 - **Seller's rating:** iron up to 27 ppm, sulfur up to 17 ppm, manganese up to 11 ppm. 9 gpm service flow, 15 gpm peak for under 10 minutes.
 - **Backwash flow:** **10 gpm minimum**, on Oceanic's 12x52 product page.
 - **Lowest pH:** not stated by Oceanic.
-- **Price:** $1,249.99 on sale ($1,349.99 regular) for the catalytic carbon version on a Fleck 5600SXT. Oceanic also sells a 12x52 on a Fleck 2510SXT for $1,359.99. [See it on Amazon (B0C93PNSS1)](https://www.amazon.com/dp/B0C93PNSS1)
+- **Versions:** the catalytic carbon version runs on a Fleck 5600SXT. Oceanic also sells a 12x52 on a Fleck 2510SXT.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0C93PNSS1)
 
 Nothing else here is rated for this much iron and sulfide together. A 12-inch tank holds more media and gives water longer contact, which is why the ratings are higher than the 10-inch picks.
 
@@ -103,11 +106,12 @@ Nothing else here is rated for this much iron and sulfide together. A 12-inch ta
 - **Backwash flow:** 5.3 gpm.
 - **Lowest pH:** not stated by AFW.
 - **Tank:** about 9x48 inches, 1 cu ft of media.
-- **Price:** $1,389 at AFWFilters. [See it on Amazon (B0082BKX3I)](https://www.amazon.com/dp/B0082BKX3I)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0082BKX3I)
 
 Filox suits a well that has outgrown the Silver 10's manganese and sulfide ratings but does not justify greensand. It is heavier media than Filter Ag, which is why its backwash figure is slightly higher despite the narrower tank.
 
-**Watch for:** cost. It is about $190 more than the Silver 10 for a modest step up in ratings. Buy it for the manganese and sulfide headroom, not for iron alone.
+**Watch for:** cost. It usually costs more than the Silver 10 for a modest step up in ratings. Buy it for the manganese and sulfide headroom, not for iron alone.
 
 **Wrong for:** manganese above 3 ppm. Greensand is rated for far more.
 
@@ -118,11 +122,13 @@ Filox suits a well that has outgrown the Silver 10's manganese and sulfide ratin
 - **Backwash flow:** 5.5 gpm minimum.
 - **Lowest pH:** 6.8. AFW does not state one, but NDSU Extension says greensand works poorly below it.
 - **Size:** AFW designs the 15 for 1 to 2 bathrooms and up to 4 people.
-- **Price:** $961 at AFWFilters. [Amazon listing (B0083ESJAS)](https://www.amazon.com/dp/B0083ESJAS); the listing did not load for our check, so confirm it is the 1.5 cu ft model.
+- **Amazon listing:** the listing did not load for our check, so confirm it is the 1.5 cu ft model before ordering.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0083ESJAS)
 
 Greensand is the long-standing answer for manganese, and AFW's 15 ppm manganese rating is the highest on this page. Penn State notes that classic greensand needs regular permanganate regeneration and careful chemical handling. AFW's setup removes that step and swaps in optional chlorine feed instead, so read its manual for the regime it expects.
 
-**Watch for:** the smaller Greensand Plus 10. At $852 it looks like a saving, but AFW designs it for 1 to 2 people with a 2.2 to 4.4 gpm service flow. It suits a cabin, not a family.
+**Watch for:** the smaller Greensand Plus 10. Its lower price looks like a saving, but AFW designs it for 1 to 2 people with a 2.2 to 4.4 gpm service flow. It suits a cabin, not a family.
 
 **Wrong for:** acidic water. Below pH 6.8, correct the pH first or choose Katalox Light.
 
@@ -132,13 +138,14 @@ Greensand is the long-standing answer for manganese, and AFW's 15 ppm manganese 
 - **Seller's rating:** WECO does not give ppm limits on the listing. Its table gives an 8 gpm service flow for this size.
 - **Backwash flow:** 5.6 gpm minimum, from WECO's sizing table.
 - **Lowest pH:** 5.8. The [Katalox Light data sheet](https://www.wecofilters.com/media/productattach/k/a/katalox-light-1.pdf) gives an inlet pH range of 5.8 to 10.5.
-- **Price:** $1,950.80 at WECO (wecofilters.com). [See it on Amazon (B075QW4RJY)](https://www.amazon.com/dp/B075QW4RJY)
+
+[Check price on Amazon](https://www.amazon.com/dp/B075QW4RJY)
 
 This is the only pick whose media maker states that it works on mildly acidic water. That can save you a separate neutralizer tank on a well that sits between pH 6 and 6.8. WECO's Amazon listing describes the unit as made in the USA.
 
-**Watch for:** the price, which is the highest here, and the missing ppm ratings. Ask WECO to confirm your iron, manganese and sulfide figures are within range before you order.
+**Watch for:** the price, which is usually the highest here, and the missing ppm ratings. Ask WECO to confirm your iron, manganese and sulfide figures are within range before you order.
 
-**Wrong for:** anyone whose only problem is moderate iron at neutral pH. The Silver 10 does that job for about $750 less.
+**Wrong for:** anyone whose only problem is moderate iron at neutral pH. The Silver 10 does that job for considerably less.
 
 ## When Chlorine Injection Is the Right Answer
 
@@ -163,7 +170,7 @@ If you also own a softener, set the two units to regenerate at different hours. 
 The purchase price is most of the bill, because none of the air injection or catalytic picks uses a chemical. Running costs come from three things:
 
 - **Backwash water.** Every cycle sends water to drain. Air injection units backwash often: daily for the Oceanic, at least every 3 days for AFW's Silver.
-- **Media replacement.** AFW sells a replacement Filter Ag Plus kit for the Silver 10 at about $195. Oceanic says its filter media lasts about 5 years on average.
+- **Media replacement.** AFW sells a replacement Filter Ag Plus kit for the Silver 10. Oceanic says its filter media lasts about 5 years on average.
 - **Chlorine, if you use it.** It applies only to a chlorine feed ahead of greensand or to a full chlorine injection system. It is a monthly supply, not a one-off.
 
 Iron filters also save money downstream. With the iron removed, a softener after it no longer needs iron cleaner or extra salt to cope with iron, as [can a water softener remove iron](/blog/can-a-water-softener-remove-iron/) explains.

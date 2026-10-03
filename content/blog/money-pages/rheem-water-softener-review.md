@@ -41,11 +41,11 @@ The figures below come from the RHS32, RHS42 and RHW42 owner's manuals, and the 
 
 A smaller RHS18 also appears on NSF's listing. All of them use demand regeneration with a variable salt dose: the controller picks the dose at regeneration time based on what it needs.
 
-**Where to buy.** Rheem softeners are sold through Home Depot, not Amazon. Third-party reviews put them at roughly $375 for the RHS32 up to about $600 for the Wi-Fi model. We could not confirm a current Home Depot price, so check it before you compare.
+**Where to buy.** Rheem softeners are sold through Home Depot, not Amazon. The Wi-Fi model costs more than the RHS32. Check the current Home Depot price before you compare.
 
-> **How this review was put together.** No softener or heater was physically tested. The review uses the Rheem RHS32, RHS42 and RHW42 owner's manuals, a Rheem residential water heater warranty certificate, NSF's certification listings and the published capacity tables for each rival. Amazon listings for the alternatives were opened to confirm the pages exist; Amazon did not show prices to our tools, so the prices given come from other retailers.
+> **How this review was put together.** No softener or heater was physically tested. The review uses the Rheem RHS32, RHS42 and RHW42 owner's manuals, a Rheem residential water heater warranty certificate, NSF's certification listings and the published capacity tables for each rival. Amazon listings for the alternatives were opened to confirm the pages exist.
 >
-> Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Does a Rheem Softener Change a Rheem Water Heater Warranty?
 
@@ -94,13 +94,19 @@ Three findings:
 
 Rheem sells no whole-house softeners on Amazon; only third-party adapters and cleaners turn up there. These are the closest equivalents that were in stock when checked on 1 October 2026:
 
-**[EcoPure EPH130 (B0GMYSW7MG)](https://www.amazon.com/dp/B0GMYSW7MG): the in-stock cabinet from Rheem's maker.** About $699 (approx.). This is not the RHS32's twin, and its specification is not published alongside the Rheem's. The listing describes a 2-in-1 cabinet that adds filtration media to the softening resin for better-tasting water, AutoSense demand regeneration with up to 40% less salt than traditional systems, and sizing for households of up to five people. The listing title gives no grain rating, so check the spec label against the table above before you choose it over an RHS32.
+**EcoPure EPH130: the in-stock cabinet from Rheem's maker.** This is not the RHS32's twin, and its specification is not published alongside the Rheem's. The listing describes a 2-in-1 cabinet that adds filtration media to the softening resin for better-tasting water, AutoSense demand regeneration with up to 40% less salt than traditional systems, and sizing for households of up to five people. The listing title gives no grain rating, so check the spec label against the table above before you choose it over an RHS32.
 
-**[EcoPure EP42 (B01N5S92DK)](https://www.amazon.com/dp/B01N5S92DK): the same size class as the RHS42.** Listed at about $690 at Ace Hardware. Retailer listings give 42,000 grains, up to 110 gpg and 11 ppm of iron, and NSF rates it at 8.2 gpm. We could not confirm its grains-per-pound figure from a current manual.
+[Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG)
 
-**[GE GXSH35W (B0FWTXRMW6)](https://www.amazon.com/dp/B0FWTXRMW6): a different maker's cabinet in the RHS32's size class.** About $699 on Amazon and at GE. It is not a Rheem twin: GE Appliances is the warrantor, not Water Channel Partners, and its 2025 models are certified to NSF/ANSI 44 by IAPMO R&T. Its [owner's manual](https://images.salsify.com/image/upload/s--Lr_Ft1_A--/8741b1cfc8b24187902fc0ad02b4a930fc751a27.pdf) gives 1 cubic foot of resin, 13,311 grains at 2.6 lb, 32,636 grains at 9.8 lb and 37,065 at 17.1 lb, with 5,120 grains per pound at its minimum dose and up to 165 gpg of hardness. It adds built-in Wi-Fi alerts, but its clear-water iron rating is only 3 to 5 ppm (GE's specification page and manual differ), well below the RHS32's 8 ppm, and GE's full warranty is one year.
+**EcoPure EP42: the same size class as the RHS42.** Retailer listings give 42,000 grains, up to 110 gpg and 11 ppm of iron, and NSF rates it at 8.2 gpm. We could not confirm its grains-per-pound figure from a current manual.
 
-*Not included:* the Whirlpool WHES40E, often suggested as a Rheem alternative. Whirlpool's current softener brochure no longer lists it, Lowe's no longer sells it, and several of its parts are marked no longer available. The WHES33 and the WaterBoss 900, compared in the table above, both showed "currently unavailable" on Amazon on 1 October 2026; the WaterBoss 900 is still sold at Home Depot, at about $541.
+[Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK)
+
+**GE GXSH35W: a different maker's cabinet in the RHS32's size class.** Sold on Amazon and at GE. It is not a Rheem twin: GE Appliances is the warrantor, not Water Channel Partners, and its 2025 models are certified to NSF/ANSI 44 by IAPMO R&T. Its [owner's manual](https://images.salsify.com/image/upload/s--Lr_Ft1_A--/8741b1cfc8b24187902fc0ad02b4a930fc751a27.pdf) gives 1 cubic foot of resin, 13,311 grains at 2.6 lb, 32,636 grains at 9.8 lb and 37,065 at 17.1 lb, with 5,120 grains per pound at its minimum dose and up to 165 gpg of hardness. It adds built-in Wi-Fi alerts, but its clear-water iron rating is only 3 to 5 ppm (GE's specification page and manual differ), well below the RHS32's 8 ppm, and GE's full warranty is one year.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6)
+
+*Not included:* the Whirlpool WHES40E, often suggested as a Rheem alternative. Whirlpool's current softener brochure no longer lists it, Lowe's no longer sells it, and several of its parts are marked no longer available. The WHES33 and the WaterBoss 900, compared in the table above, both showed "currently unavailable" on Amazon on 1 October 2026; the WaterBoss 900 is still sold at Home Depot.
 
 ## Who Should Not Buy a Rheem Softener
 

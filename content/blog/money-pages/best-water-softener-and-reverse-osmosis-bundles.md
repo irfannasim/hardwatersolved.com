@@ -2,7 +2,7 @@
 title: "Best Water Softener and Reverse Osmosis Bundles"
 seoTitle: "3 Best Water Softener and Reverse Osmosis Bundles (2026)"
 seoDescription: "A water softener and reverse osmosis bundle can cost less than buying both apart. The best packages, and the half each one skimps on."
-excerpt: "A softener and RO bundle saves about $50 to $70 over the same two units bought separately, and that saving is the whole case for it. This page prices three bundles against their own halves, restates each softener's capacity at an efficient salt setting, and checks whether the RO half carries a system certification or only a lead-free faucet."
+excerpt: "A softener and RO bundle saves a little over the same two units bought separately, and that saving is the whole case for it. This page weighs three bundles against their own halves, restates each softener's capacity at an efficient salt setting, and checks whether the RO half carries a system certification or only a lead-free faucet."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -10,7 +10,7 @@ featuredImage: "https://images.pexels.com/photos/7653312/pexels-photo-7653312.jp
 ogImageAlt: "Mother handing her daughter a glass of drinking water across a kitchen island with a stainless steel sink and tall faucet"
 faqs:
   - question: "Is it cheaper to buy a water softener and reverse osmosis system as a bundle?"
-    answer: "Usually a little. On 1 October 2026 the three bundles on this page cost about $50 to $70 less than the same softener and RO unit bought separately at the brands' own list prices. That is a 7 to 8 percent saving. A sale on either half bought alone can wipe it out, so price both ways on the day you buy."
+    answer: "Usually a little. When we compared them, the three bundles on this page cost slightly less than the same softener and RO unit bought separately at the brands' own list prices, a saving of less than a tenth. A sale on either half bought alone can wipe it out, so price both ways on the day you buy."
   - question: "Do I need a water softener if I already have a reverse osmosis system?"
     answer: "If your water is hard, usually yes. An under-sink RO unit treats one tap, so the shower, water heater, dishwasher and fixtures still get hard water. Hard feed water also shortens the RO membrane's life, and many RO makers ask for feed hardness at or below about 7 grains per gallon."
   - question: "Which goes first, the softener or the reverse osmosis system?"
@@ -23,11 +23,11 @@ faqs:
     answer: "Many owners do, if they are comfortable cutting into the main line and working under a sink. The softener needs a bypass, a drain within reach and, for these metered units, an outlet. The RO unit needs a cold feed, a drain saddle, a hole for its faucet and space for its tank. Check your local code first, because some areas require a licensed plumber for work on the main line."
 ---
 
-A **water softener and reverse osmosis bundle** saves about $50 to $70 over buying the same softener and RO unit separately, judging by the three bundles priced for this page on 1 October 2026. That saving is the only real argument for a bundle. The best one is the bundle whose two halves you would have chosen anyway: a softener with enough resin for your hardness load, and an RO unit certified for what it claims to remove.
+A **water softener and reverse osmosis bundle** saves a little over buying the same softener and RO unit separately, judging by the three bundles compared for this page. That saving is the only real argument for a bundle. The best one is the bundle whose two halves you would have chosen anyway: a softener with enough resin for your hardness load, and an RO unit certified for what it claims to remove.
 
-- **Best balanced bundle:** APEC Hydro Express 30 + ROES-PH75, about $750. A 1.0 cu ft softener and an RO unit APEC describes as WQA Gold Seal certified.
-- **Lowest price:** Aquasure Harmony 32k + Premier 75 GPD, about $680. A sound softener with a cheaper RO whose product page names no system certification.
-- **For higher hardness loads:** APEC Hydro Express 45 + ROES-PH75, about $850. The same RO with 1.5 cu ft of resin.
+- **Best balanced bundle:** APEC Hydro Express 30 + ROES-PH75. A 1.0 cu ft softener and an RO unit APEC describes as WQA Gold Seal certified.
+- **Lowest price:** Aquasure Harmony 32k + Premier 75 GPD. A sound softener with a cheaper RO whose product page names no system certification.
+- **For higher hardness loads:** APEC Hydro Express 45 + ROES-PH75. The same RO with 1.5 cu ft of resin.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
@@ -35,11 +35,11 @@ A **water softener and reverse osmosis bundle** saves about $50 to $70 over buyi
 
 > **Method.** Each bundle was priced against its own two halves bought separately, and each half was checked on its own terms. The softener half was checked on resin volume and capacity at an efficient 6 lb/cu ft salt setting, not the box rating. The RO half was checked on whether the system, and not just its faucet, carries a reverse osmosis certification. Evidence comes from brand spec pages, warranty statements and certification listings. Nothing was physically tested.
 >
-> **Included:** sold on Amazon.com as a single listing, normally $100 or more, with a dated price we could confirm at a brand store or a major retailer.
+> **Included:** sold on Amazon.com as a single listing, with a price we could confirm at a brand store or a major retailer.
 >
 > **Excluded:** bundles whose price could not be confirmed (listed further down), and bundles built for iron or sulfur well water, which need a different kind of comparison.
 >
-> **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Nobody who already owns a working softener should buy a bundle. Neither should anyone on a well with iron or a sulfur smell, because none of these softeners is sold as an iron remover. Both cases are covered at the end.
 
@@ -47,8 +47,6 @@ Nobody who already owns a working softener should buy a bundle. Neither should a
 
 | | APEC Hydro Express 30 + ROES-PH75 | Aquasure Harmony 32k + Premier 75 | APEC Hydro Express 45 + ROES-PH75 |
 |---|---|---|---|
-| **Amazon** | [B0CM8CLZZ4](https://www.amazon.com/dp/B0CM8CLZZ4) | [B07MC633R1](https://www.amazon.com/dp/B07MC633R1) | [B0CMDZVJB1](https://www.amazon.com/dp/B0CMDZVJB1) |
-| **Bundle price** | about $750 | about $680 | about $850 |
 | **Box rating** | 30,000 grains | 32,000 grains | 45,000 grains |
 | **Resin volume** | 1.0 cu ft, published | Not published | 1.5 cu ft, published |
 | **Capacity at 6 lb/cu ft** | about 21,000 grains | about 21,000 grains *if* 1.0 cu ft | about 31,500 grains |
@@ -57,36 +55,29 @@ Nobody who already owns a working softener should buy a bundle. Neither should a
 | **RO certification named by the brand** | WQA Gold Seal | Lead-free faucet only | WQA Gold Seal |
 | **RO pure-to-drain ratio** | Not published | 1.5:1 claimed | Not published |
 | **Stated warranty** | 5-year limited (softener page) | 2-year extended when registered | 5-year limited (softener page) |
+| **Amazon** | [Check price on Amazon](https://www.amazon.com/dp/B0CM8CLZZ4) | [Check price on Amazon](https://www.amazon.com/dp/B07MC633R1) | [Check price on Amazon](https://www.amazon.com/dp/B0CMDZVJB1) |
 
 *Capacity at 6 lb/cu ft uses standard resin's published capacity curve, about 21,000 grains per cubic foot at that dose. Warranty terms are as stated on each brand's product page; read the document that ships with the unit.*
 
 The table shows where each bundle saves money. The Aquasure softener does not publish its resin volume, so its real capacity is an inference from the rating. Its RO half names a lead-free faucet, not a system certification. The APEC bundles publish resin volume, but not their RO waste ratio.
 
-## Water Softener and Reverse Osmosis Bundle Prices vs Buying the Halves
+## Water Softener and Reverse Osmosis Bundles vs Buying the Halves
 
-The bundle exists to save money, so the first check is whether it does. Each softener and RO unit in these bundles is also sold on its own, and the brands list those prices:
-
-| Bundle | Bundle price | Softener alone | RO alone | Halves total | Bundle saves |
-|---|---|---|---|---|---|
-| Aquasure Harmony 32k + Premier 75 | $679.99 | $539.99 | $189.99 | $729.98 | about $50 |
-| APEC Hydro Express 30 + ROES-PH75 | $749.99 | $549.99 | $268.99 | $818.98 | about $69 |
-| APEC Hydro Express 45 + ROES-PH75 | $849.99 | $649.99 | $268.99 | $918.98 | about $69 |
-
-*Aquasure prices from aquasureusa.com. APEC bundle prices from Home Depot, softener-alone prices from Express Water's store, which sells the same Hydro Express softeners, and the ROES-PH75 price from APEC's store.*
-
-![Bar chart comparing three water softener and reverse osmosis bundle prices with the same softener and RO unit bought separately, showing savings of about 50 to 70 dollars](/diagrams/water-softener-ro-bundle-vs-separate-price-chart.svg "Each bundle undercuts its own halves by about 7 to 8 percent, a margin one sale can erase")
+The bundle exists to save money, so the first check is whether it does. Each softener and RO unit in these bundles is also sold on its own. When we compared the brands' own list prices for each bundle and for its two halves, every bundle came out slightly cheaper than its halves bought separately.
 
 Three things follow from that:
 
 1. **The saving is real but small.** It is less than a tenth of the price, and not large enough to justify a softener that is too small for your water, or an RO unit you would not otherwise have picked.
-2. **The cheapest bundle has the cheapest RO.** The Aquasure Premier costs $79 less than the APEC ROES-PH75 when each is bought alone. Most of the $70 gap between the two smaller bundles is the RO half.
-3. **Watch the sale price on single units.** Home Depot has listed the Aquasure Premier with a brushed nickel faucet at $142.49. At that price, buying the two halves separately costs about the same as the bundle. Check both ways on the day you buy.
+2. **The cheapest bundle has the cheapest RO.** The Aquasure Premier costs less than the APEC ROES-PH75 when each is bought alone, and most of the price gap between the two smaller bundles is the RO half.
+3. **Watch the sale price on single units.** Home Depot has listed the Aquasure Premier with a brushed nickel faucet on sale, low enough that buying the two halves separately cost about the same as the bundle. Check both ways on the day you buy.
 
-Aquasure also sells a version that adds a sediment, carbon and zinc pre-filter (Signature Pro, AS-WHF32D) for $799.99. That is $120 more for one whole-house cartridge filter. It is worth it only if your water carries sediment or chlorine you want out of every tap.
+Aquasure also sells a version that adds a sediment, carbon and zinc pre-filter (Signature Pro, AS-WHF32D) at a higher price. The extra money buys one whole-house cartridge filter. It is worth it only if your water carries sediment or chlorine you want out of every tap.
 
 ## 1. APEC Hydro Express 30 + ROES-PH75: Best Balanced Bundle
 
-**About $750 · [Amazon B0CM8CLZZ4](https://www.amazon.com/dp/B0CM8CLZZ4) · 1–3 bathrooms**
+**1–3 bathrooms**
+
+[Check price on Amazon](https://www.amazon.com/dp/B0CM8CLZZ4)
 
 **The softener half.** The Hydro Express 30 is the one softener on this page whose maker publishes the numbers needed to check it. Express Water's [spec page for the Hydro Express 30](https://expresswater.com/products/hydro-express-water-softener-30) gives 1.0 cubic foot of standard resin in a 9 × 48 inch tank, a 200 lb brine tank, a 17.6 gpm peak flow, an operating range of 20–125 psi, and a 5-year limited warranty. The valve is metered, so it regenerates on the water you actually use rather than on a timer.
 
@@ -100,7 +91,9 @@ One cubic foot of resin yields about 21,000 grains at an efficient 6 lb salt dos
 
 ## 2. Aquasure Harmony 32k + Premier 75 GPD: Lowest Price, Thinner Paperwork
 
-**About $680 · [Amazon B07MC633R1](https://www.amazon.com/dp/B07MC633R1) · 1–3 bathrooms, up to 4 people**
+**1–3 bathrooms, up to 4 people**
+
+[Check price on Amazon](https://www.amazon.com/dp/B07MC633R1)
 
 **The softener half.** The Harmony 32k uses Aquasure's digital metered Aquatrol-based valve, with programmable regeneration settings. Aquasure's bundle page does not give the resin volume, the tank size or the flow rate. A 32,000-grain rating conventionally means about 1.0 cubic foot of resin. If that holds, the Harmony delivers about 21,000 grains at 6 lb/cu ft, the same as the APEC 30. That is an inference from the rating, not a published figure. Ask Aquasure for the resin volume before you program the salt dose.
 
@@ -114,11 +107,13 @@ One cubic foot of resin yields about 21,000 grains at an efficient 6 lb salt dos
 
 ## 3. APEC Hydro Express 45 + ROES-PH75: For Higher Hardness Loads
 
-**About $850 · [Amazon B0CMDZVJB1](https://www.amazon.com/dp/B0CMDZVJB1) · 4–6 bathrooms**
+**4–6 bathrooms**
+
+[Check price on Amazon](https://www.amazon.com/dp/B0CMDZVJB1)
 
 **The softener half.** This is the same design as the Hydro Express 30, with 1.5 cubic feet of standard resin in a 10 × 54 inch tank, the same 17.6 gpm peak flow and the same 5-year limited warranty on the stand-alone softener's page. At 6 lb/cu ft that is about 31,500 grains a cycle, half again as much as the 30.
 
-**The RO half.** It is the same ROES-PH75 as Pick 1, with the same strengths and the same unpublished waste ratio. The extra $100 over Pick 1 buys resin only.
+**The RO half.** It is the same ROES-PH75 as Pick 1, with the same strengths and the same unpublished waste ratio. The extra cost over Pick 1 buys resin only.
 
 **What it skimps on.** For the bigger house it is sold for, one 75 GPD RO unit serves one sink. A larger home that wants filtered water at a bar sink or a fridge line needs a second RO unit or a tee, which the bundle does not include.
 
@@ -163,10 +158,10 @@ The order of the questions matters. Owning a softener already, or having iron in
 
 Several other Amazon bundles fit the category but could not be priced with confidence on 1 October 2026:
 
-- **DuraWater Fleck 5600SXT 48,000-grain + reverse osmosis** (B07PR18ZB3). The listing is live, and a Fleck 5600SXT 48k softener is a well-understood half. We could not confirm a current price for the bundle or identify its RO unit's certification.
-- **SoftPro Elite "Ultimate" 48k with carbon filter and RO** (B07KRQMVRK). The Amazon page would not load, and SoftPro's own site gave no bundle price we could date.
-- **Aquasure 64,000-grain + 75 GPD RO** (B0H874YZN2). There was no confirmed price for this listing. Aquasure's 64k softener alone is $749.99.
-- **Aquasure Signature Elite** (B09KZ7DJ8P). The listing now describes a 64,000-grain fine-mesh softener with a conditioner and RO. That makes it a well-water treatment train, not a like-for-like bundle.
+- **DuraWater Fleck 5600SXT 48,000-grain + reverse osmosis.** The listing is live, and a Fleck 5600SXT 48k softener is a well-understood half. We could not confirm a current price for the bundle or identify its RO unit's certification.
+- **SoftPro Elite "Ultimate" 48k with carbon filter and RO.** The Amazon page would not load, and SoftPro's own site gave no bundle price we could date.
+- **Aquasure 64,000-grain + 75 GPD RO.** There was no confirmed price for this listing.
+- **Aquasure Signature Elite.** The listing now describes a 64,000-grain fine-mesh softener with a conditioner and RO. That makes it a well-water treatment train, not a like-for-like bundle.
 
 A bundle missing from the table is not a judgement on its quality. It means a price or certification could not be confirmed on the day.
 

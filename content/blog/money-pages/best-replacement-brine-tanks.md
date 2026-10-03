@@ -14,14 +14,14 @@ faqs:
   - question: "Can I replace just the brine tank on a water softener?"
     answer: "Yes, on a two-tank softener with a separate brine tank. Move the brine line to the new tank and make sure its safety float and air check suit your control valve. Fleck valves pair with a 2310 safety float and an air check. Cabinet softeners have the brine tank built into the housing and cannot take a standard replacement tank."
   - question: "How much does a replacement brine tank cost?"
-    answer: "Complete tanks with a brine well and safety float cost about $139 to $195 at AFWFilters' store, from an 11x36 square to an 18x40 round. Expect a little more through Amazon. A salt grid, where you want one, adds about $39."
+    answer: "The price rises with size, from an 11x36 square up to an 18x40 round, and with what is supplied inside it: a complete tank with a brine well, safety float and air check costs more than a bare shell, and a salt grid adds to it. Prices change often, so check the current price on the listing before you order."
   - question: "Does a brine tank need a salt grid?"
     answer: "Not always. A grid plate raises the salt above a layer of water at the bottom of the tank. Many modern softeners refill only a few gallons and run without one. If your old tank had a grid, keep one in the new tank, because the valve's refill and the air check height were set around it. Fleck's manual says to cut the air check level with the grid plate when a grid is used."
   - question: "Why is my brine tank overflowing, and do I need a new one?"
     answer: "Usually not. Overflow is almost always caused by the control valve refilling too long, a stuck safety float, a leaking brine valve or a blocked injector, not by the tank itself. Replace the tank only if it is cracked, warped or too small. Fix the float or valve first, or the new tank will overflow too."
 ---
 
-The **best replacement brine tanks** for most homes are 18 inch round tanks, 33 or 40 inches tall, supplied with a 4 inch brine well, a safety float and an air check that suit your control valve. AFWFilters' 18x33 round tank holds about 375 lb of salt for about $169 at its own store. That is roughly six months between top-ups for a family of four. The tank itself is a plastic box. What makes it work is that the float, air check and brine line inside it match your valve.
+The **best replacement brine tanks** for most homes are 18 inch round tanks, 33 or 40 inches tall, supplied with a 4 inch brine well, a safety float and an air check that suit your control valve. AFWFilters' 18x33 round tank holds about 375 lb of salt. That is roughly six months between top-ups for a family of four. The tank itself is a plastic box. What makes it work is that the float, air check and brine line inside it match your valve.
 
 So this guide sizes the tank on salt capacity and refill interval, then lists the parts that have to match.
 
@@ -31,16 +31,16 @@ So this guide sizes the tank on salt capacity and refill interval, then lists th
 
 > **Methodology.** Nothing on this page was physically tested. Tanks were compared on footprint, salt capacity as stated by the seller, and the internal parts supplied, from sellers' product pages.
 >
-> - **Included:** complete brine tanks with a brine well and safety float, sold on Amazon.com at a normal price above $100.
+> - **Included:** complete brine tanks with a brine well and safety float, sold on Amazon.com.
 > - **Normalised:** each size is converted to months between salt top-ups at three illustrative usage levels, using the sellers' own salt capacities.
-> - **Excluded:** loose floats, brine wells, grids and overflow fittings, which sell under $100 and are covered as parts; cabinet softener salt bins, which are not sold separately as standard tanks.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our check, so prices come from AFWFilters' own store or other named sellers, as given for each pick.
+> - **Excluded:** loose floats, brine wells, grids and overflow fittings, which are covered as parts; cabinet softener salt bins, which are not sold separately as standard tanks.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Before You Buy: Does the Tank Need Replacing?
 
 Most brine tank complaints are not tank faults. An overflowing tank is a valve or float problem. A tank with a hard crust or a hollow bridge of salt needs breaking up and cleaning, not replacing. A softener that has stopped using salt usually has a blocked injector or brine line, covered in [why a water softener is not using salt](/blog/water-softener-not-using-salt/).
 
-Replace the tank when it is **cracked, split at the overflow fitting, warped, or too small** for how often you are refilling it. If only the float or brine well has failed, the part costs far less than the tank: AFWFilters lists a Fleck 2310 safety float valve at about $29, a complete float and air check assembly at about $79, and a 4 inch brine well at about $45. How each part works and how to test it is in [water softener brine tank internals](/blog/water-softener-brine-tank-internals/).
+Replace the tank when it is **cracked, split at the overflow fitting, warped, or too small** for how often you are refilling it. If only the float or brine well has failed, the part costs far less than the tank: AFWFilters lists a Fleck 2310 safety float valve, a complete float and air check assembly, and a 4 inch brine well as separate parts. How each part works and how to test it is in [water softener brine tank internals](/blog/water-softener-brine-tank-internals/).
 
 ## Size vs Salt Capacity vs Refill Interval
 
@@ -81,18 +81,20 @@ The two that cause most trouble are the float and the overflow. A float meant fo
 
 ## The Best Replacement Brine Tanks, Pick by Pick
 
-| Pick | Size and salt | Includes | Approx. price | Amazon |
-|---|---|---|---|---|
-| AFWFilters 18x33 black round | 18 x 33 in, about 375 lb | 4 in brine well, safety float, air check | about $169 (AFWFilters store) | [B07F9XKKS7](https://www.amazon.com/dp/B07F9XKKS7) |
-| AFWFilters 18x33 blue round with salt grid | 18 x 33 in | Safety float assembly, salt grid | not verified | [B0FS86PSGH](https://www.amazon.com/dp/B0FS86PSGH) |
-| Complete 18x40 with 2310 safety float | 18 x 40 in, about 450 lb for this size | 2310 safety float | not verified | [B00AU3MBLI](https://www.amazon.com/dp/B00AU3MBLI) |
-| 18x33 with 2310 safety float | 18 x 33 in | 2310 safety float | not verified | [B00AU3Q4HK](https://www.amazon.com/dp/B00AU3Q4HK) |
+| Pick | Size and salt | Includes | Amazon |
+|---|---|---|---|
+| AFWFilters 18x33 black round | 18 x 33 in, about 375 lb | 4 in brine well, safety float, air check | [Check price on Amazon](https://www.amazon.com/dp/B07F9XKKS7) |
+| AFWFilters 18x33 blue round with salt grid | 18 x 33 in | Safety float assembly, salt grid | [Check price on Amazon](https://www.amazon.com/dp/B0FS86PSGH) |
+| Complete 18x40 with 2310 safety float | 18 x 40 in, about 450 lb for this size | 2310 safety float | [Check price on Amazon](https://www.amazon.com/dp/B00AU3MBLI) |
+| 18x33 with 2310 safety float | 18 x 33 in | 2310 safety float | [Check price on Amazon](https://www.amazon.com/dp/B00AU3Q4HK) |
 
 ### AFWFilters 18x33 black round with float and air check: best for most homes
 
 - **What it is:** an 18 inch round, 33 inch tall tank with a 4 inch brine well, safety float and air check, described by AFWFilters as used with Fleck control valves.
 - **Salt:** about 375 lb, per AFWFilters.
-- **Price:** $169 at AFWFilters' own store, where it also comes in almond and blue. Earlier seller research put the Amazon listing at about $190. [See it on Amazon (B07F9XKKS7)](https://www.amazon.com/dp/B07F9XKKS7)
+- **Colours:** AFWFilters' own store also lists it in almond and blue.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07F9XKKS7)
 
 This is the standard brine tank on most two-tank Fleck softeners, so on a Fleck system it is close to a like-for-like swap. At typical family use it goes about six months between top-ups.
 
@@ -101,7 +103,8 @@ This is the standard brine tank on most two-tank Fleck softeners, so on a Fleck 
 ### AFWFilters 18x33 blue round with salt grid: for systems that ran a grid
 
 - **What it is:** the same 18x33 size with a safety float assembly and a salt grid included, per the Amazon listing title.
-- **Price:** not shown to our check. At AFWFilters' store the blue 18x33 with float and air check is $169, and a round salt grid for 18 inch tanks is about $39 on its own. [See it on Amazon (B0FS86PSGH)](https://www.amazon.com/dp/B0FS86PSGH)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0FS86PSGH)
 
 Buy this one if the old tank had a grid plate. The valve's refill and the air check height were set around it. Without the grid, salt sits in the water at the bottom, which can encourage mushing.
 
@@ -111,7 +114,8 @@ Buy this one if the old tank had a grid plate. The valve's refill and the air ch
 
 - **What it is:** an 18 inch round, 40 inch tall tank with Fleck's 2310 safety float, per the listing title.
 - **Salt:** the 18x40 size holds about 450 lb on AFWFilters' and Fresh Water Systems' figures.
-- **Price:** not shown to our check. For comparison, AFWFilters' own 18x40 with float and air check is $195. [See it on Amazon (B00AU3MBLI)](https://www.amazon.com/dp/B00AU3MBLI)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00AU3MBLI)
 
 At 80 lb a month, which a large family on very hard water can reach, this tank goes nearly four months between top-ups against about three for the 18x33. It is also the tank to choose if you want to fill it twice a year at typical use.
 
@@ -120,13 +124,14 @@ At 80 lb a month, which a large family on very hard water can reach, this tank g
 ### 18x33 with 2310 safety float: the plain Fleck-ready alternative
 
 - **What it is:** an 18x33 brine tank fitted with Fleck's 2310 safety float, per the listing title. The listing title does not mention an air check, so confirm one is included or reuse yours.
-- **Price:** not shown to our check; comparable 18x33 tanks sell for about $149 to $199. [See it on Amazon (B00AU3Q4HK)](https://www.amazon.com/dp/B00AU3Q4HK)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00AU3Q4HK)
 
 **Wrong for:** buyers who want the air check, brine well and grid confirmed in writing before paying.
 
 ### If an 18 inch tank will not fit
 
-AFWFilters lists square tanks for tight spaces: an 11x36 holding about 150 lb at $139 and a 14x36 holding about 200 lb at $149, both with a 4 inch brine well, safety float and air check. We did not confirm Amazon listings for these sizes. At 40 lb a month the 14 inch square needs salt about every three months, so it suits small households or a tight closet.
+AFWFilters lists square tanks for tight spaces: an 11x36 holding about 150 lb and a 14x36 holding about 200 lb, both with a 4 inch brine well, safety float and air check. We did not confirm Amazon listings for these sizes. At 40 lb a month the 14 inch square needs salt about every three months, so it suits small households or a tight closet.
 
 ## Swapping the Tank
 

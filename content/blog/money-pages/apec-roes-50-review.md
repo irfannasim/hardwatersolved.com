@@ -16,12 +16,12 @@ faqs:
   - question: "Does the APEC ROES-50 work with a water softener?"
     answer: "Yes, and it suits one well. APEC's manual lists extremely hard water as a cause of premature membrane failure and says adding a water softener will help greatly. The RO membrane also removes most of the sodium the softener adds. Feed the ROES-50 from a softened cold line."
   - question: "How often should I change the APEC ROES-50 filters?"
-    answer: "APEC's manual says to change the three pre-filters every 6 to 12 months, the stage 4 membrane every 2 to 4 years on city water or about every 2 years on well water, and the stage 5 carbon filter every 2 to 4 years, ideally with the membrane. At APEC's store prices that is roughly $45 to $90 a year."
+    answer: "APEC's manual says to change the three pre-filters every 6 to 12 months, the stage 4 membrane every 2 to 4 years on city water or about every 2 years on well water, and the stage 5 carbon filter every 2 to 4 years, ideally with the membrane."
   - question: "How much water does the APEC ROES-50 waste?"
     answer: "The performance data in APEC's manual gives an efficiency rating of 11.8% under NSF/ANSI 58 test conditions. That means roughly 7.5 gallons go to drain for every gallon of RO water delivered, with the tank in use. That is worse than EPA's typical figure of about 5 gallons. On softened feed, the reject water has already been softened, which adds a small salt cost."
 ---
 
-This **APEC ROES-50 review** comes down to one fit. The ROES-50 is a plain five-stage tank RO system with no mineral stage. APEC's manual says it is certified by WQA to NSF/ANSI 58 for TDS reduction, and it costs about $231. In a home that already softens, that simplicity is an advantage. The membrane removes most of the sodium the softener added, and softened feed is what APEC's own manual recommends for long membrane life. The trade-offs are real: the "4 gallon" tank holds 2.5 to 3.1 gallons at typical pressures, and under NSF test conditions it sends about 7.5 gallons to drain for every gallon you drink.
+This **APEC ROES-50 review** comes down to one fit. The ROES-50 is a plain five-stage tank RO system with no mineral stage. APEC's manual says it is certified by WQA to NSF/ANSI 58 for TDS reduction. In a home that already softens, that simplicity is an advantage. The membrane removes most of the sodium the softener added, and softened feed is what APEC's own manual recommends for long membrane life. The trade-offs are real: the "4 gallon" tank holds 2.5 to 3.1 gallons at typical pressures, and under NSF test conditions it sends about 7.5 gallons to drain for every gallon you drink.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
@@ -29,8 +29,7 @@ This **APEC ROES-50 review** comes down to one fit. The ROES-50 is a plain five-
 
 | Item | Figure | Source |
 |---|---|---|
-| Price | about $231 (APEC store, 1 Oct 2026) | APEC product page |
-| Amazon | [B00I0ZGOZM](https://www.amazon.com/dp/B00I0ZGOZM) | Listing opened, live |
+| Amazon | [Check price on Amazon](https://www.amazon.com/dp/B00I0ZGOZM) | Listing opened, live |
 | Stages | 5: sediment, two carbon blocks, RO membrane, inline carbon | Manual |
 | Output | 50 GPD at 60 psi; 30 GPD at 50 psi and 77°F | Product page |
 | Tank | 4 gallon total volume, about 2.5 to 3.1 gallons usable | Manual |
@@ -41,13 +40,15 @@ This **APEC ROES-50 review** comes down to one fit. The ROES-50 is a plain five-
 | Power | none | Manual |
 | Warranty | 1 year | Manual, warranty |
 
-**Also sold as a bundle** with a 14 gallon storage tank ([B0D6QFQZ6L](https://www.amazon.com/dp/B0D6QFQZ6L)). We could not confirm the bundle's Amazon price. APEC sells the 14 gallon tank on its own for about $147.
+**Also sold as a bundle** with a 14 gallon storage tank. APEC also sells the 14 gallon tank on its own.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0D6QFQZ6L)
 
 ## How This Review Was Put Together
 
-> **Method.** No unit was physically tested for this review. Figures come from the [APEC ROES-50 installation and owner's manual](https://cdn.shopify.com/s/files/1/0674/1304/9597/files/ROES-50-V7.3.pdf), including its performance data and warranty, from APEC's product page and replacement-filter prices, and from EPA's WaterSense figures for RO waste water. The sodium example uses 7.9 mg/L of sodium added per grain of hardness removed. The Amazon listings were opened to confirm they are live. Amazon did not show a price to our tools.
+> **Method.** No unit was physically tested for this review. Figures come from the [APEC ROES-50 installation and owner's manual](https://cdn.shopify.com/s/files/1/0674/1304/9597/files/ROES-50-V7.3.pdf), including its performance data and warranty, from APEC's product page, and from EPA's WaterSense figures for RO waste water. The sodium example uses 7.9 mg/L of sodium added per grain of hardness removed. The Amazon listings were opened to confirm they are live.
 >
-> Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Why a Plain Five-Stage RO Suits a Home That Already Softens
 
@@ -100,21 +101,21 @@ At 3 gallons a day, that is about 22 gallons a day to drain, roughly 8,200 gallo
 
 ## Filter Schedule and Running Cost
 
-From the manual's maintenance section, at APEC's own store prices on 1 October 2026:
+From the manual's maintenance section:
 
-| Part | Replace every | APEC price |
-|---|---|---|
-| Stages 1 to 3 pre-filter set | 6 to 12 months (sooner on well water) | $29.95 |
-| Stage 4 membrane (30 to 50 GPD) | 2 to 4 years on city water; about 2 years on well water | $39.95 |
-| Stage 5 inline carbon | 2 to 4 years, ideally with the membrane | $14.95 |
-| Complete set, stages 1 to 5 | when the membrane is due | $79.99 |
+| Part | Replace every |
+|---|---|
+| Stages 1 to 3 pre-filter set | 6 to 12 months (sooner on well water) |
+| Stage 4 membrane (30 to 50 GPD) | 2 to 4 years on city water; about 2 years on well water |
+| Stage 5 inline carbon | 2 to 4 years, ideally with the membrane |
+| Complete set, stages 1 to 5 | when the membrane is due |
 
-**Yearly cost, worked out:**
+**Yearly running cost, worked out:**
 
-- **Softened city water, careful use:** pre-filters every 12 months, membrane and stage 5 every 4 years. About **$45 a year**.
-- **Unsoftened or well water:** pre-filters every 6 months, membrane and stage 5 every 2 years. About **$87 a year**.
+- **Softened city water, careful use:** pre-filters every 12 months, membrane and stage 5 every 4 years. This is the low end.
+- **Unsoftened or well water:** pre-filters every 6 months, membrane and stage 5 every 2 years. That is about twice as many filters a year, and roughly twice the cost.
 
-Over five years, including the purchase price, that is roughly **$450 to $670**. The difference between the two ends is mostly your water. Softened, chlorinated city water with prefilters changed on time is the cheapest way to run it.
+The difference between the two ends is mostly your water. Softened, chlorinated city water with prefilters changed on time is the cheapest way to run it.
 
 **Test TDS once or twice a year,** as the manual advises. Product water at 3 to 10 percent of tap water TDS is normal. At 15 to 20 percent, the manual says it is time to change the membrane. A softener does not lower TDS, so measure the softened water feeding the RO, not the raw supply.
 
@@ -131,7 +132,7 @@ Over five years, including the purchase price, that is roughly **$450 to $670**.
 
 **Pros**
 
-- About $231, with stage 1 to 3 pre-filters at $29.95 a set
+- Low running cost, with stage 1 to 3 pre-filters sold as one set
 - Certified by WQA to NSF/ANSI 58 for TDS reduction, per the manual
 - No mineral stage, which suits softened homes and keeps maintenance simple
 - No electricity, standard 10-inch filters, a 2,000 ppm feed TDS limit
@@ -156,4 +157,4 @@ Over five years, including the purchase price, that is roughly **$450 to $670**.
 
 ## APEC ROES-50 Review: The Verdict
 
-The APEC ROES-50 is a simple, well-documented RO system, and its simplicity is the reason to buy it if you already soften. The membrane removes the sodium your softener adds, softened feed is what APEC itself recommends for membrane life, and there is no mineral cartridge to maintain. Go in with the real numbers: about 2.5 to 2.8 gallons in the tank at normal pressure, a 2 to 3 hour refill, and a waste ratio worse than the industry's typical figure. For a two- to four-person softened home on city water, that is a fair trade for a reliable system that costs about $45 a year to run.
+The APEC ROES-50 is a simple, well-documented RO system, and its simplicity is the reason to buy it if you already soften. The membrane removes the sodium your softener adds, softened feed is what APEC itself recommends for membrane life, and there is no mineral cartridge to maintain. Go in with the real numbers: about 2.5 to 2.8 gallons in the tank at normal pressure, a 2 to 3 hour refill, and a waste ratio worse than the industry's typical figure. For a two- to four-person softened home on city water, that is a fair trade for a reliable system that is cheap to run.

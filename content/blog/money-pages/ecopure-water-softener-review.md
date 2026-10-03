@@ -2,7 +2,7 @@
 title: "EcoPure Water Softener Review: EP31, EP42 and the EPHS Hybrid Against Their Whirlpool Twins"
 seoTitle: "Honest EcoPure Water Softener Review: EP31, EP42 and EPHS"
 seoDescription: "This EcoPure water softener review compares the EP31, EP42 and EPHS hybrid on capacity, iron limits, carbon stage and warranty terms."
-excerpt: "EcoPure softeners come from the same Minnesota maker that builds Whirlpool's under licence, and the current manuals show near-identical resin volumes, capacities and warranty terms. This review lines up the EP31, EP42 and EPHS hybrid against their Whirlpool siblings, restates capacity at a middle salt dose, works out how long the EPHS's non-replaceable carbon lasts, and prices the cleaner the five-year warranty depends on."
+excerpt: "EcoPure softeners come from the same Minnesota maker that builds Whirlpool's under licence, and the current manuals show near-identical resin volumes, capacities and warranty terms. This review lines up the EP31, EP42 and EPHS hybrid against their Whirlpool siblings, restates capacity at a middle salt dose, works out how long the EPHS's non-replaceable carbon lasts, and counts the cleaner the five-year warranty depends on."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -21,11 +21,11 @@ faqs:
     answer: "The current manuals rate the EP42 for up to 11 ppm of clear-water (ferrous) iron, the EP31 for 8 ppm and the EPHS hybrid for 3 ppm. They are not rated for red-water or bacterial iron. Add 5 grains per gallon to the hardness setting for each 1 ppm of ferrous iron, and note that Wisconsin requires extra treatment above 5 ppm."
 ---
 
-This **EcoPure water softener review** answers what the price tag cannot: an EcoPure and a Whirlpool cabinet softener come from the same factory. **Water Channel Partners** of Minnesota makes and warrants both, and the current manuals show the EcoPure EP31 and the Whirlpool WHES30 with the same resin volume, the same capacity within 2 percent and the same iron rating. So what the difference in badge buys is not hardware. It is where you can buy it, and on the larger and hybrid models a few real differences in capacity and warranty. Of the three EcoPure models reviewed, the **EP42** is the best value for most households at $739.99, the **EP31** suits one to four people at $629.99, and the **EPHS hybrid** makes sense only if you understand that its "never replace" carbon has a rated life.
+This **EcoPure water softener review** answers what the price tag cannot: an EcoPure and a Whirlpool cabinet softener come from the same factory. **Water Channel Partners** of Minnesota makes and warrants both, and the current manuals show the EcoPure EP31 and the Whirlpool WHES30 with the same resin volume, the same capacity within 2 percent and the same iron rating. So what the difference in badge buys is not hardware. It is where you can buy it, and on the larger and hybrid models a few real differences in capacity and warranty. Of the three EcoPure models reviewed, the **EP42** is the best value for most households, the **EP31** suits one to four people, and the **EPHS hybrid** makes sense only if you understand that its "never replace" carbon has a rated life.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this review was built.** Nothing here was physically tested. The sources are the current [EP31 and EP42 owner's manual](https://ecopure.com/wp-content/uploads/2025/06/7393268Eng_F-1.pdf) (revision F, January 2025), the EPHS manual (revisions C and F), EcoPure's extended-warranty page, [NSF's EcoPure softener listing](https://info.nsf.org/Certified/DWTU/Listings.asp?TradeName=EcoPure&Standard=044), the Amazon listings and published Whirlpool specifications. **Prices checked 2 October 2026**, from Hemlock Hardware's online store, because Amazon's prices did not load for our check. Amazon prices change often, so check the current price before buying.
+> **How this review was built.** Nothing here was physically tested. The sources are the current [EP31 and EP42 owner's manual](https://ecopure.com/wp-content/uploads/2025/06/7393268Eng_F-1.pdf) (revision F, January 2025), the EPHS manual (revisions C and F), EcoPure's extended-warranty page, [NSF's EcoPure softener listing](https://info.nsf.org/Certified/DWTU/Listings.asp?TradeName=EcoPure&Standard=044), the Amazon listings and published Whirlpool specifications. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Three EcoPure Models at a Glance
 
@@ -40,8 +40,7 @@ All three are single-tank cabinet softeners: the resin tank stands inside the sa
 | Pressure drop at that flow | 14.9 psi | 14.9 psi | 8.4 psi |
 | Max hardness | 110 gpg | 110 gpg | 100 gpg |
 | Max clear-water iron | 8 ppm | 11 ppm | 3 ppm |
-| Price, 2 Oct 2026 | $629.99, Hemlock Hardware | $739.99, Hemlock Hardware | No current price confirmed |
-| Amazon | [B01N5S983U](https://www.amazon.com/dp/B01N5S983U) | [B01N5S92DK](https://www.amazon.com/dp/B01N5S92DK) | [B01MSADC34](https://www.amazon.com/dp/B01MSADC34) |
+| Amazon | [Check price on Amazon](https://www.amazon.com/dp/B01N5S983U) | [Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK) | [Check price on Amazon](https://www.amazon.com/dp/B01MSADC34) |
 
 *Specifications from the current owner's manuals. All three are listed by NSF as efficiency-rated softeners under NSF/ANSI 44.*
 
@@ -71,7 +70,7 @@ Three conclusions follow.
 
 **The hybrids differ most.** With the same 0.98 cubic feet of resin and the same 3 ppm iron limit, the EPHS is rated at 29,800 grains at 9.3 lb of salt, against the WHESFC's 24,700 at 7.8 lb. But the Whirlpool is a PRO model, with a two-year full warranty extendable to ten. The EPHS offers one year, extendable to five.
 
-What neither badge changes: the cabinet, the proprietary valve and its parts, the support line run by the same company, and the rule in both manuals that aftermarket parts void the warranty. We could not confirm current Whirlpool softener prices, and on 1 October 2026 its Amazon listings showed no active offer, so on availability the EcoPure currently wins by default.
+What neither badge changes: the cabinet, the proprietary valve and its parts, the support line run by the same company, and the rule in both manuals that aftermarket parts void the warranty. On 1 October 2026 Whirlpool's Amazon softener listings showed no active offer, so on availability the EcoPure currently wins by default.
 
 ![Crowded hardware store with tools and household goods stacked on every shelf; EcoPure softeners are sold mainly through hardware retailers as well as Amazon](https://images.pexels.com/photos/12917478/pexels-photo-12917478.jpeg)
 
@@ -83,7 +82,7 @@ Its limits are flow and size. At 7.2 gpm with a 14.9 psi pressure drop, two show
 
 ## EP42: The Best Value of the Three
 
-The EP42 adds about a third more resin for $110 more. It is rated at 35,300 grains at 10.3 lb of salt and up to 11 ppm of clear-water iron, the highest of the three, and its 8.2 gpm flow suits a larger household. Amazon describes it as sized for one to five or more people.
+The EP42 adds about a third more resin for a modest step up in price. It is rated at 35,300 grains at 10.3 lb of salt and up to 11 ppm of clear-water iron, the highest of the three, and its 8.2 gpm flow suits a larger household. Amazon describes it as sized for one to five or more people.
 
 The iron rating needs reading carefully. The manual's figure is for ferrous, clear-water iron only, "substantiated by laboratory test data", and it adds that Wisconsin requires additional treatment above 5 ppm. You also have to program for it: the manual says to add 5 grains per gallon to the hardness setting for every 1 ppm of ferrous iron, so 20 gpg water with 2 ppm of iron is set as 30. On 11 ppm water that is a 55-grain addition, which means frequent regenerations. How iron changes the sizing is worked through in [how iron changes water softener sizing](/blog/how-iron-changes-water-softener-sizing/).
 
@@ -113,7 +112,7 @@ Three more EPHS details differ from the EP31 and EP42:
 - **Lower iron limit.** 3 ppm, so it is a city-water product more than a well-water one.
 - **A cooler temperature limit in the warranty.** The EPHS warranty applies at water temperatures "not exceeding 100°F", against 120°F for the EP31 and EP42.
 
-Availability is the last problem. When this site checked earlier, Amazon showed the EPHS as currently unavailable, and on 2 October 2026 we could not confirm a current US price. EcoPure's website now features the EPH130, a 2-in-1 softener and filtration cabinet for up to five people. It was listed on Amazon at about $699 on 1 October 2026, but EcoPure publishes no grain rating or carbon capacity for it, so it cannot yet be compared on the numbers above.
+Availability is the last problem. When this site checked earlier, Amazon showed the EPHS as currently unavailable, and on 2 October 2026 we could not confirm a current US offer. EcoPure's website now features the EPH130, a 2-in-1 softener and filtration cabinet for up to five people. It was listed on Amazon on 1 October 2026, but EcoPure publishes no grain rating or carbon capacity for it, so it cannot yet be compared on the numbers above.
 
 ## The Warranty and the Cleaner Arithmetic
 
@@ -128,7 +127,7 @@ The EP31 and EP42 manual sets out the terms:
 
 The extension is the condition most buyers miss. The one-year full warranty "can be extended to five (5) years" if you "use one bottle of EcoPure EPCL Water Softener Cleaner, as directed, every four months from the date the water softener is delivered" and keep proof of purchase. "Purchase of no more than three (3) bottles" in any 12 months counts, and "use of any water softener additive other than EcoPure EPCL will not provide extended warranty coverage". [EcoPure's extended-warranty page](https://ecopure.com/extended-warranty/) adds that you must register the product and keep the original receipt, and lists the EP31, EP42 and EPHS among the eligible models.
 
-The 16 oz EPCL cleaner was $16.99 at Hemlock Hardware on 2 October 2026, though sold out that day. Three bottles a year for five years is 15 bottles, about $255. Against a $739.99 EP42 that is about a third of the purchase price, spent to keep four extra years of full cover on a unit whose board is already covered for three. On iron-bearing well water, the cleaner earns its keep anyway by keeping the resin clean. On clean city water, it is mainly an insurance premium. Our guide to [reading a water softener warranty](/blog/how-to-read-a-water-softener-warranty/) explains how to judge conditional extensions like this.
+The EPCL cleaner comes in 16 oz bottles. Three bottles a year for five years is 15 bottles, and against the price of an EP42 that adds up to a noticeable share of what you paid for the softener, spent to keep four extra years of full cover on a unit whose board is already covered for three. On iron-bearing well water, the cleaner earns its keep anyway by keeping the resin clean. On clean city water, it is mainly an insurance premium. Our guide to [reading a water softener warranty](/blog/how-to-read-a-water-softener-warranty/) explains how to judge conditional extensions like this.
 
 ## How Long an EcoPure Lasts
 
@@ -151,4 +150,4 @@ On Amazon, the EP31 averaged 4.1 out of 5 from 100 ratings and the EPHS 4.0 from
 - **Anyone wanting a ten-year full warranty.** Neither EcoPure model reviewed here offers the extended terms of Whirlpool's PRO tier.
 - **Homes that do not need softening.** If you are still deciding, start with [salt-based vs salt-free water treatment](/blog/salt-based-vs-salt-free-water-treatment/).
 
-For a small-to-medium household on city or low-iron well water, the EP42 is the pick: the most capacity and iron headroom of the three for $110 more than the EP31, from the same maker as a Whirlpool and on the same terms. Buy the EP31 if your space or budget is tight, and pass on the EPHS unless you can find it in stock and your chlorine is near 1 ppm or below.
+For a small-to-medium household on city or low-iron well water, the EP42 is the pick: the most capacity and iron headroom of the three for a modest step up from the EP31, from the same maker as a Whirlpool and on the same terms. Buy the EP31 if your space or budget is tight, and pass on the EPHS unless you can find it in stock and your chlorine is near 1 ppm or below.

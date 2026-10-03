@@ -29,7 +29,7 @@ This **RainSoft water softener review** is mainly about the sale, because that i
 
 ## RainSoft at a Glance
 
-> **Method.** Warranty language is quoted from the RainSoft EC5 owner's manual (part 16842, revision J, January 2021). Product names come from RainSoft's current water softener page on rainsoft.com. No unit was physically tested, and no sales visit was attended. RainSoft is not sold on Amazon; the alternatives below were checked against their Amazon listings and brand stores. **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Method.** Warranty language is quoted from the RainSoft EC5 owner's manual (part 16842, revision J, January 2021). Product names come from RainSoft's current water softener page on rainsoft.com. No unit was physically tested, and no sales visit was attended. RainSoft is not sold on Amazon; the alternatives below were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 | | RainSoft |
 |---|---|
@@ -118,11 +118,11 @@ Keep this list on the table during the appointment. A dealer confident in the pr
 
 RainSoft softeners are not sold on Amazon; only replacement drinking-water filters and parts are. If the quote you received was for a softener plus a drinking-water system, these online packages cover the same ground:
 
-| Alternative | What it includes | Approx. price |
+| Alternative | What it includes | Amazon |
 |---|---|---|
-| [Aquasure Harmony 48k](https://www.amazon.com/dp/B07F175C2R) | 48,000-grain metered softener only, on Aquasure's own proprietary valve; add a separate under-sink RO if you want the drinking-water half | About $630 on Aquasure's store |
-| [APEC WH-SOFTENER-30-FG](https://www.amazon.com/dp/B0CM8CLZZ4) | 30,000-grain softener plus alkaline-mineral 75 GPD RO; listed as WQA Gold Seal certified | About $750 at Home Depot |
-| [AFWFilters Fleck 5600SXT 48k, 10% resin](https://www.amazon.com/dp/B00YFOTWZG) | Softener only, on a standard Fleck valve with parts from many sellers | About $785 on AFW's store |
+| Aquasure Harmony 48k | 48,000-grain metered softener only, on Aquasure's own proprietary valve; add a separate under-sink RO if you want the drinking-water half | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| APEC WH-SOFTENER-30-FG | 30,000-grain softener plus alkaline-mineral 75 GPD RO; listed as WQA Gold Seal certified | [Check price on Amazon](https://www.amazon.com/dp/B0CM8CLZZ4) |
+| AFWFilters Fleck 5600SXT 48k, 10% resin | Softener only, on a standard Fleck valve with parts from many sellers | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) |
 
 Add a plumber's installation, and these still usually land well below a financed in-home package. You give up the dealer relationship and do your own maintenance.
 

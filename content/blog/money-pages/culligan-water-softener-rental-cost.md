@@ -27,7 +27,7 @@ A **Culligan water softener rental** usually costs about $50 a month, before sal
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this page was put together.** Rental rates come from Culligan dealer location pages on culliganwater.com and from published owner reports. The crossover chart is a simple cumulative cost model, using the purchase prices stated below and an owner upkeep allowance from our [renting vs buying a water softener](/blog/renting-vs-buying-a-water-softener/) guide. Warranty conditions are from Culligan's high efficiency softener owner's guide. No dealer was visited and no equipment was physically tested. Culligan is not sold on Amazon, so the purchase alternatives were checked against retailer and brand-store listings. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **How this page was put together.** Rental rates come from Culligan dealer location pages on culliganwater.com and from published owner reports. The crossover chart is a simple cumulative cost model, using the purchase prices stated below and an owner upkeep allowance from our [renting vs buying a water softener](/blog/renting-vs-buying-a-water-softener/) guide. Warranty conditions are from Culligan's high efficiency softener owner's guide. No dealer was visited and no equipment was physically tested. Culligan is not sold on Amazon, so the purchase alternatives were checked against retailer and brand-store listings. **Prices of individual online softeners are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## What Culligan Rental Costs per Month
 
@@ -63,7 +63,7 @@ Year two has no introductory months, so it costs about $600 in rent plus salt. T
 
 Renting avoids the purchase price; buying avoids the monthly fee. The crossover is the month at which the rent you have paid passes the cost of owning. The chart compares $50 a month in rent with two purchases:
 
-- **An online softener installed by a plumber, about $1,400.** For example, an [AFWFilters Fleck 5600SXT 48,000-grain softener](https://www.amazon.com/dp/B00YFOTWZG), about $785 on AFW's store, plus roughly $600 of plumber labor and fittings.
+- **An online softener installed by a plumber, about $1,400.** For example, an AFWFilters Fleck 5600SXT 48,000-grain softener plus roughly $600 of plumber labor and fittings. [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG)
 - **A Culligan purchase, an illustrative $2,500.** That is the bottom of the upstate New York purchase quotes above. Many Culligan purchases cost more.
 
 Both purchase lines include **$7 a month** of owner upkeep, which is a $25 yearly allowance for supplies plus $60 a year set aside towards resin or valve repairs. Salt is left out on both sides, because a renter buys or orders salt too.
@@ -79,7 +79,7 @@ The same arithmetic at other rents and purchase prices is in the table. Each fig
 | Culligan purchase, low quote | about $2,500 | month 90 | month 59 | month 35 | month 23 |
 | Culligan purchase, mid quote | about $4,000 | month 143 | month 94 | month 55 | month 36 |
 
-*Illustrative. Flat rent; real rentals may rise. The $700 DIY figure assumes an [Aquasure Harmony 32,000-grain softener](https://www.amazon.com/dp/B07F18VG8L) at about $490 to $540, seen at Home Depot, Walmart and Aquasure's store, plus fittings and start-up salt.*
+*Illustrative. Flat rent; real rentals may rise. The $700 DIY figure assumes an Aquasure Harmony 32,000-grain softener at its retail price when this page was written, plus fittings and start-up salt.* [Check price on Amazon](https://www.amazon.com/dp/B07F18VG8L)
 
 **What ten years costs.** At $50 a month, ten years of rent is $6,000. Owning the plumber-installed online softener for the same ten years costs about $2,240 with upkeep, and the illustrative $2,500 Culligan purchase about $3,340. If the rent rises 5% a year, ten years of rental comes to about $7,550, and the crossover against the $2,500 purchase moves forward to about month 53.
 
@@ -126,13 +126,11 @@ A rental can be the right answer for people who cannot or should not buy:
 
 Culligan softeners are not sold on Amazon; only Culligan filter housings and cartridges are. To work out your own crossover, price at least one purchase alongside the rental quote:
 
-| Alternative | Why it is a fair comparison | Approx. price |
+| Alternative | Why it is a fair comparison | Current price |
 |---|---|---|
-| [Aquasure Harmony 32,000-grain](https://www.amazon.com/dp/B07F18VG8L) | Metered two-tank softener for 1 to 2 bathrooms; the cheapest complete system for a DIY install | About $490 to $540 at Home Depot, Walmart and Aquasure's store |
-| [AFWFilters Fleck 5600SXT 48,000-grain, 10% resin](https://www.amazon.com/dp/B00YFOTWZG) | Metered softener on a standard Fleck valve, with chlorine-resistant resin for city water and parts from many sellers | About $785 on AFW's store |
+| Aquasure Harmony 32,000-grain | Metered two-tank softener for 1 to 2 bathrooms; among the cheapest complete systems for a DIY install | [Check price on Amazon](https://www.amazon.com/dp/B07F18VG8L) |
+| AFWFilters Fleck 5600SXT 48,000-grain, 10% resin | Metered softener on a standard Fleck valve, with chlorine-resistant resin for city water and parts from many sellers | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) |
 | A Culligan purchase quote | The same dealer and service, owned rather than rented | Ask your dealer; it is not published |
-
-*Amazon did not show prices to our check, so these are retailer and brand-store prices.*
 
 For the installation side of a purchase, the [water softener installation cost](/blog/water-softener-installation-cost/) guide breaks down where labor, loop, drain and outlet costs come from. A rental quote that includes all of that work is worth more than one that does not.
 

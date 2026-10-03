@@ -10,7 +10,7 @@ featuredImage: "https://images.pexels.com/photos/6625810/pexels-photo-6625810.jp
 ogImageAlt: "Country house standing on open land in a rural area, a private well home where one package often has to remove both iron and hardness"
 faqs:
   - question: "Is a water softener and iron filter combo worth it?"
-    answer: "It is worth it when both halves fit your water. A single-tank fine-mesh unit such as the AFWFilters Iron Pro 2 is the cheapest way to handle dissolved iron up to its rating along with hardness. A true two-stage package, with a separate iron filter ahead of the softener, costs three to four times as much but also handles rusty water, sulfur and higher iron. Neither is worth it if one half is too small for your household."
+    answer: "It is worth it when both halves fit your water. A single-tank fine-mesh unit such as the AFWFilters Iron Pro 2 is the cheapest way to handle dissolved iron up to its rating along with hardness. A true two-stage package, with a separate iron filter ahead of the softener, costs much more but also handles rusty water, sulfur and higher iron. Neither is worth it if one half is too small for your household."
   - question: "Can one tank remove both iron and hardness?"
     answer: "Yes, if the iron is dissolved (clear when drawn) and within the unit's rating. Fine-mesh resin exchanges ferrous iron the same way it exchanges calcium. AFWFilters rates its Iron Pro range for up to 6 ppm of ferrous iron. Penn State Extension recommends softening for iron only below 5 mg/L, with pH above 6.7 and hardness between 3 and 20 gpg. Rusty water, iron bacteria and sulfur need a separate filter."
   - question: "Should the iron filter go before or after the softener?"
@@ -29,21 +29,21 @@ Every package has two halves, and both have to suit your water. Below, each one 
 
 ## Best Water Softener and Iron Filter Combos at a Glance
 
-| Pick | Type | Iron half | Softener half | Approx. price | Amazon |
-|---|---|---|---|---|---|
-| AFWFilters Iron Pro 2 64k | One tank, fine-mesh resin | Ferrous iron up to 6 ppm | 2.0 cu ft, Fleck 5600SXT, 10 gpm service | $898 | [B004LUJ6L4](https://www.amazon.com/dp/B004LUJ6L4) |
-| AFWFilters Iron Pro 48k | One tank, fine-mesh resin | Ferrous iron up to 6 ppm | 1.5 cu ft, Fleck 5600SXT, 6.5 gpm service | $799 | [B075ZFYTNH](https://www.amazon.com/dp/B075ZFYTNH) |
-| AFWFilters Iron Pro 80k | One tank, fine-mesh resin | Ferrous iron up to 6 ppm | 2.5 cu ft, Fleck 5600SXT, 11 gpm service | $1,099 | [B075ZH2TDR](https://www.amazon.com/dp/B075ZH2TDR) |
-| SpringWell Well Water Filter + Salt-Based Softener | Two stages | Air injection: iron 7, sulfide 8, manganese 1 ppm | 32k (Core) or 48k (Pro) | $3,123.75 (Core), $3,570 (Pro) | [B0FT423F94](https://www.amazon.com/dp/B0FT423F94) |
+| Pick | Type | Iron half | Softener half | Amazon |
+|---|---|---|---|---|
+| AFWFilters Iron Pro 2 64k | One tank, fine-mesh resin | Ferrous iron up to 6 ppm | 2.0 cu ft, Fleck 5600SXT, 10 gpm service | [Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4) |
+| AFWFilters Iron Pro 48k | One tank, fine-mesh resin | Ferrous iron up to 6 ppm | 1.5 cu ft, Fleck 5600SXT, 6.5 gpm service | [Check price on Amazon](https://www.amazon.com/dp/B075ZFYTNH) |
+| AFWFilters Iron Pro 80k | One tank, fine-mesh resin | Ferrous iron up to 6 ppm | 2.5 cu ft, Fleck 5600SXT, 11 gpm service | [Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR) |
+| SpringWell Well Water Filter + Salt-Based Softener | Two stages | Air injection: iron 7, sulfide 8, manganese 1 ppm | 32k (Core) or 48k (Pro) | [Check price on Amazon](https://www.amazon.com/dp/B0FT423F94) |
 
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Each package is judged from its seller's product page and listed specifications, with Penn State Extension's guidance on [iron and manganese in private water systems](https://extension.psu.edu/iron-and-manganese-in-private-water-systems) as the yardstick for what a softener can take.
 >
-> - **Included:** packages sold on Amazon at a normal price of $100 or more that the seller presents as removing both iron and hardness, either in one tank or as a matched pair.
+> - **Included:** packages sold on Amazon that the seller presents as removing both iron and hardness, either in one tank or as a matched pair.
 > - **Checked twice:** the iron half against iron form, sulfide and manganese; the softener half against two example households, with capacity re-stated at 6 lb of salt per cubic foot of resin (about 21,000 grains per cubic foot) and iron counted as 4 gpg of extra hardness per ppm, AFWFilters' own instruction.
 > - **Flagged, not ranked:** packages where one half is undersized for the money (see below).
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our tools, so prices are the sellers' own: AFWFilters (store.afwfilters.com) and SpringWell (springwellwater.com). We could not confirm SpringWell's Amazon listing was in stock.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Why the iron filter belongs ahead of the softener, and what each stage protects, is explained in [iron filter before water softener](/blog/iron-filter-before-water-softener/). The well test to run before either purchase is covered in [water softener for well water](/blog/water-softener-for-well-water/). This page is about buying the pair.
 
@@ -98,7 +98,8 @@ SpringWell does not publish resin volume, so the chart uses the industry's usual
 - **Iron half:** fine-mesh resin rated for ferrous iron "up to 6ppm". Dissolved iron only.
 - **Softener half:** 2.0 cu ft of fine-mesh resin in a 12-inch tank, about 42,000 grains at 6 lb of salt per cubic foot. Fleck 5600SXT metered valve. 10 gpm service, 15 gpm peak. 18x33 round brine tank.
 - **Warranty:** 5 years on the control head, 10 years on the mineral tank, per AFW.
-- **Price:** $898 at AFWFilters. [See it on Amazon (B004LUJ6L4)](https://www.amazon.com/dp/B004LUJ6L4)
+
+[Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4)
 
 Both halves pass for Home A with room to spare: 5.8 days of capacity against a three-day target. The 10 gpm service flow suits a typical two- or three-bathroom house. For a four-person family on clear-water iron, this is the best value of any package here.
 
@@ -108,9 +109,15 @@ Both halves pass for Home A with room to spare: 5.8 days of capacity against a t
 
 - **Iron half:** fine-mesh resin, ferrous iron up to 6 ppm.
 - **Softener half:** 1.5 cu ft in a 10x54 tank, about 31,500 grains at 6 lb per cubic foot. Fleck 5600SXT. 6.5 gpm service, 9.8 gpm peak. 14x14x36-inch brine tank.
-- **Price:** $799 at AFWFilters. [See it on Amazon (B075ZFYTNH)](https://www.amazon.com/dp/B075ZFYTNH). AFW's product page lists a DuraWater "Iron Blaster" 48k listing ([B0761Y6G1K](https://www.amazon.com/dp/B0761Y6G1K)) for the same system, so compare both prices on the day.
+- **Also on Amazon:** AFW's product page lists a DuraWater "Iron Blaster" 48k listing for the same system, so compare both listings on the day.
 
-At 4.3 days in Home A it passes, and it costs $99 less than the 64k. The smaller bed suits two- or three-person homes and light iron. Because iron softeners regenerate every three days whatever the meter says, a smaller bed also uses less salt per cycle than a larger one, which matters on a small household.
+[Check price on Amazon](https://www.amazon.com/dp/B075ZFYTNH)
+
+DuraWater "Iron Blaster" 48k listing:
+
+[Check price on Amazon](https://www.amazon.com/dp/B0761Y6G1K)
+
+At 4.3 days in Home A it passes, and it costs a little less than the 64k. The smaller bed suits two- or three-person homes and light iron. Because iron softeners regenerate every three days whatever the meter says, a smaller bed also uses less salt per cycle than a larger one, which matters on a small household.
 
 **Half that is short:** the softener's flow. 6.5 gpm service is modest for a house with two showers and a washing machine running together. **Wrong for:** Home B, where it lasts only 2.2 days.
 
@@ -118,7 +125,13 @@ At 4.3 days in Home A it passes, and it costs $99 less than the 64k. The smaller
 
 - **Iron half:** fine-mesh resin, "up to 6 ppm of ferrous iron".
 - **Softener half:** 2.5 cu ft in a 13-inch tank, about 52,500 grains at 6 lb per cubic foot. Fleck 5600SXT. 11 gpm service, 16 gpm peak. Backwash flow: 4.5 gpm.
-- **Price:** $1,099 at AFWFilters. [See it on Amazon (B075ZH2TDR)](https://www.amazon.com/dp/B075ZH2TDR). A DuraWater "Iron Blaster" 80k listing ([B075ZCNBVM](https://www.amazon.com/dp/B075ZCNBVM)) is titled as a combination softener and iron filter on a Fleck 5600SXT. We could not find a price for it outside Amazon.
+- **Also on Amazon:** a DuraWater "Iron Blaster" 80k listing is titled as a combination softener and iron filter on a Fleck 5600SXT. We could not confirm it anywhere outside Amazon.
+
+[Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR)
+
+DuraWater "Iron Blaster" 80k listing:
+
+[Check price on Amazon](https://www.amazon.com/dp/B075ZCNBVM)
 
 The only single tank that clears three days in Home B, at 3.6 days. Buy it for capacity, not flow: the 13-inch tank still sits on a 5600SXT valve.
 
@@ -129,17 +142,22 @@ The only single tank that clears three days in Home B, at 3.6 days. Buy it for c
 - **Iron half:** SpringWell's whole-house air injection iron filter. Iron up to 7 ppm, hydrogen sulfide up to 8 ppm, manganese up to 1 ppm, pH 6.5 to 10, 25 to 80 psi. The Core size (WS1) is a 10x54 tank rated 12 gpm; the larger WS4 is a 13x54 tank rated 20 gpm.
 - **Softener half:** Core pairs it with the SS1 32k softener (9x48 tank, 11 gpm, sized by SpringWell for 1 to 3 bathrooms). Pro pairs the WS4 filter with the SS4 48k softener (10x54 tank, 13 gpm).
 - **Warranty:** SpringWell advertises a lifetime warranty and a 6-month money-back guarantee.
-- **Price:** $3,123.75 for Core and $3,570 for Pro on [SpringWell's product page](https://www.springwellwater.com/product/well-water/well-water-filter-and-salt-based-water-softener/). SpringWell says the Core package saves $680 against buying the two separately. [Amazon listing (B0FT423F94)](https://www.amazon.com/dp/B0FT423F94); we could not confirm it was in stock.
+- **Bundle saving:** SpringWell says on its [product page](https://www.springwellwater.com/product/well-water/well-water-filter-and-salt-based-water-softener/) that the Core package costs less than buying the two separately.
+- **Amazon listing:** we could not confirm it was in stock.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0FT423F94)
 
 This is the package to buy when the iron half of a single tank fails your water: rusty iron, a sulfur smell, or iron heavy enough to foul resin. With the iron removed first, the softener runs long, efficient cycles on hardness alone.
 
 **Half that is short:** check the pairing. In the Pro package, a 20 gpm iron filter feeds a 13 gpm softener, so the softener sets the flow limit. SpringWell's Core softener is the 32k for up to 3 bathrooms, and it drops to 2.3 days in Home B. The iron half's 1 ppm manganese rating is also low.
 
-**Wrong for:** clear-water iron under 5 ppm with no smell, where an Iron Pro does the job for about a third of the price.
+**Wrong for:** clear-water iron under 5 ppm with no smell, where an Iron Pro does the job for far less money.
 
 ## Flagged: Where One Half Is Undersized for the Price
 
-**AFWFilters Iron Pro 32k on a Fleck 2510 AiQ: $1,039.** AFW sells this with 1 cubic foot of fine-mesh resin in a 9x48 tank on its larger 2510 valve, rated for iron up to 6 ppm. It costs $141 more than the Iron Pro 2 64k but holds half the resin. The larger valve suits higher flow, but the softener half lasts only 2.9 days in Home A and 1.5 days in Home B. Unless you specifically need the 2510 valve in a home with light hardness and few people, the 64k is the better buy. Its Amazon listing ([B00JGWYRHA](https://www.amazon.com/dp/B00JGWYRHA)) did not load for our check.
+**AFWFilters Iron Pro 32k on a Fleck 2510 AiQ.** AFW sells this with 1 cubic foot of fine-mesh resin in a 9x48 tank on its larger 2510 valve, rated for iron up to 6 ppm. It costs more than the Iron Pro 2 64k but holds half the resin. The larger valve suits higher flow, but the softener half lasts only 2.9 days in Home A and 1.5 days in Home B. Unless you specifically need the 2510 valve in a home with light hardness and few people, the 64k is the better buy. Its Amazon listing did not load for our check.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00JGWYRHA)
 
 **SpringWell's Core package for anything but a small home.** The iron half is rated for 1 to 4 bathrooms, the softener half for 1 to 3. For a large family on hard water, step up to Pro, or plan to add capacity later.
 
@@ -156,9 +174,9 @@ A single-tank combo is cheap to buy but uses more salt, because it regenerates e
 
 *Illustrative, from the capacity figures above. Real salt use depends on your valve's settings and reserve.*
 
-That salt gap, about 25 bags a year, narrows the price difference over ten years, but it does not close a gap of more than $2,000 between the Iron Pro 2 and SpringWell's Core. Choose the two-stage package for what its iron half can treat, not for the salt saving.
+That salt gap, about 25 bags a year, narrows the price difference over ten years, but it does not close the large price gap between the Iron Pro 2 and SpringWell's Core. Choose the two-stage package for what its iron half can treat, not for the salt saving.
 
-AFWFilters also sells its own two-tank packages on its store, such as a Filox iron filter with a 48k softener on 2510SXT valves for $2,639, and an Air Injection Gold 10 with a 48k softener for $2,136. We could not match them to Amazon listings, so they are not ranked, but they show what a matched pair costs from a seller whose single tanks are listed above.
+AFWFilters also sells its own two-tank packages on its store, such as a Filox iron filter with a 48k softener on 2510SXT valves, and an Air Injection Gold 10 with a 48k softener. We could not match them to Amazon listings, so they are not ranked, but they are a matched-pair option from a seller whose single tanks are listed above.
 
 ## Installing a Combo So Both Halves Work
 

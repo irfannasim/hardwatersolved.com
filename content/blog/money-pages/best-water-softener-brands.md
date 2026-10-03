@@ -35,7 +35,7 @@ Grain ratings and app features get the attention, but the control valve is the p
 >
 > **Excluded:** salt-free conditioners (a different technology), GE (GE lists its softeners as no longer manufactured), the Morton MSD34C (shown as unavailable), and SpringWell and Hague, whose valve maker or current warranty document could not be confirmed for this page.
 >
-> **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.** Dealer brands publish no prices.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon. Dealer brands publish no prices.
 
 **Who should buy none of these brands yet:** anyone whose water has not been tested for iron, manganese and bacteria, because those change which equipment you need before any softener; renters who cannot alter the plumbing; and anyone still deciding between softening and conditioning, which [salt-based vs salt-free water treatment](/blog/salt-based-vs-salt-free-water-treatment/) settles first.
 
@@ -69,18 +69,24 @@ How to repair each valve type is covered in [servicing a water softener control 
 
 AFWFilters builds systems around Fleck valves and sells them on Amazon and through its own store, along with a full catalogue of Fleck controls, resin and replacement parts. That combination puts it first: the valve is standard, the builder sells parts directly, and any Fleck parts seller can supply them too.
 
-- **Flagship:** Fleck 5600SXT, 48,000 grain, 1.5 cu ft of 10% crosslink resin, brine tank and bypass included ([B00YFOTWZG](https://www.amazon.com/dp/B00YFOTWZG)). About $785 on AFW's own store.
+- **Flagship:** Fleck 5600SXT, 48,000 grain, 1.5 cu ft of 10% crosslink resin, brine tank and bypass included.
 - **Warranty:** the store page lists a manufacturer warranty without spelling out the terms, so get the valve and tank terms in writing before you order.
 - **Best for:** homeowners who will do their own maintenance, or who have a plumber willing to work on a Fleck valve.
 - **Watch for:** you size and program it yourself. Set the salt dose deliberately rather than leaving a factory default.
 
+[Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG)
+
 ### 2. DuraWater (Fleck valves, sold online)
 
-DuraWater sells the same Fleck 5600SXT platform, including a 48,000-grain metered unit preloaded with high-capacity resin ([B00MYEV6VC](https://www.amazon.com/dp/B00MYEV6VC)). The listing describes a 5-year valve warranty. Its price could not be confirmed at the time of writing, so compare it against the AFWFilters unit on the day you buy. Ownership is identical to AFWFilters because the valve is identical; the choice comes down to price, resin type and the seller's support.
+DuraWater sells the same Fleck 5600SXT platform, including a 48,000-grain metered unit preloaded with high-capacity resin. The listing describes a 5-year valve warranty. Compare its price against the AFWFilters unit on the day you buy. Ownership is identical to AFWFilters because the valve is identical; the choice comes down to price, resin type and the seller's support.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00MYEV6VC)
 
 ### 3. SoftPro (Canature upflow valve, sold online)
 
-SoftPro's Elite line uses a Canature valve set up for upflow brining and soft-water brine refill, which is aimed squarely at salt efficiency ([B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ)). SoftPro's own store lists the Elite from about $1,370. Its published warranty terms have been reported as a limited lifetime warranty on the valve body (excluding pistons, seals, spacers and the board) and lifetime tanks; read the current terms on SoftPro's site before buying. It ranks below the Fleck brands only because Canature parts are stocked by fewer sellers. If salt use is your main cost, upflow is worth understanding first: [upflow vs downflow regeneration](/blog/upflow-vs-downflow-regeneration/).
+SoftPro's Elite line uses a Canature valve set up for upflow brining and soft-water brine refill, which is aimed squarely at salt efficiency. Its published warranty terms have been reported as a limited lifetime warranty on the valve body (excluding pistons, seals, spacers and the board) and lifetime tanks; read the current terms on SoftPro's site before buying. It ranks below the Fleck brands only because Canature parts are stocked by fewer sellers. If salt use is your main cost, upflow is worth understanding first: [upflow vs downflow regeneration](/blog/upflow-vs-downflow-regeneration/).
+
+[Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ)
 
 ### 4. Kinetico (non-electric twin tank, dealer only)
 
@@ -100,19 +106,23 @@ EcoWater, part of Berkshire Hathaway's Marmon Group, sells through dealers, and 
 
 ### 7. Aquasure (own Aquatrol head, online and big-box)
 
-Aquasure's Harmony series uses its own digital metered "Aquatrol" head rather than a Fleck or Clack valve ([B07F175C2R](https://www.amazon.com/dp/B07F175C2R)). The 48,000-grain model is about $630 on Aquasure's own store. Price per grain is low, but parts come only from Aquasure, and its warranty is described differently in different places: the Amazon copy mentions a 5-year extended warranty on registration, while Aquasure's own product page has described a 2-year extended warranty. Get the term confirmed in writing.
+Aquasure's Harmony series uses its own digital metered "Aquatrol" head rather than a Fleck or Clack valve. Price per grain is low, but parts come only from Aquasure, and its warranty is described differently in different places: the Amazon copy mentions a 5-year extended warranty on registration, while Aquasure's own product page has described a 2-year extended warranty. Get the term confirmed in writing.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
 
 ### 8. Tier1 (ceramic-disc valve, online)
 
-Tier1's 48,000-grain unit ([B01MXF7G6C](https://www.amazon.com/dp/B01MXF7G6C)) uses a ceramic-disc valve, which replaces the seal-and-spacer stack that wears on piston valves. Fewer wear parts is a genuine advantage. Its listing describes 10 years on the resin and brine tank but only 1 year on the valve and electronics, extendable to 5 years with registration and use of Tier1's cleaner. The price could not be confirmed at the time of writing.
+Tier1's 48,000-grain unit uses a ceramic-disc valve, which replaces the seal-and-spacer stack that wears on piston valves. Fewer wear parts is a genuine advantage. Its listing describes 10 years on the resin and brine tank but only 1 year on the valve and electronics, extendable to 5 years with registration and use of Tier1's cleaner.
+
+[Check price on Amazon](https://www.amazon.com/dp/B01MXF7G6C)
 
 ### 9. WaterBoss (big-box cabinet)
 
-The WaterBoss 900 is a compact all-in-one cabinet rated at 36,400 grains with a built-in sediment filter, about $540 to $570 at Home Depot and Ace. Its Amazon listing showed "currently unavailable" on 1 October 2026, so those retailers are where to buy it. Retail listings describe a 5-year warranty on parts and 10 years on the tanks. It is a sensible small-house choice that will most likely be replaced rather than rebuilt once it is out of warranty.
+The WaterBoss 900 is a compact all-in-one cabinet rated at 36,400 grains with a built-in sediment filter, sold at Home Depot and Ace. Its Amazon listing showed "currently unavailable" on 1 October 2026, so those retailers are where to buy it. Retail listings describe a 5-year warranty on parts and 10 years on the tanks. It is a sensible small-house choice that will most likely be replaced rather than rebuilt once it is out of warranty.
 
 ### 10. Whirlpool (big-box cabinet, built by Ecodyne)
 
-Whirlpool does not make its softeners. Its manuals state they are "manufactured under license by Ecodyne Water Systems, Woodbury, Minnesota", and the edition checked here gives 1 year full parts and labor, 10 years on the salt and mineral tanks and 3 years on the electronic control board, with replacement parts shipped to the home. The WHES40E, a 40,000-grain demand cabinet, is about $630 to $670 at Fleet Farm. Its Amazon listing no longer loaded when checked on 1 October 2026, so buy it from a retailer that stocks it. After year one, labor is yours.
+Whirlpool does not make its softeners. Its manuals state they are "manufactured under license by Ecodyne Water Systems, Woodbury, Minnesota", and the edition checked here gives 1 year full parts and labor, 10 years on the salt and mineral tanks and 3 years on the electronic control board, with replacement parts shipped to the home. The WHES40E, a 40,000-grain demand cabinet, is sold at Fleet Farm. Its Amazon listing no longer loaded when checked on 1 October 2026, so buy it from a retailer that stocks it. After year one, labor is yours.
 
 ### 11. RainSoft (dealer, in-home sales)
 

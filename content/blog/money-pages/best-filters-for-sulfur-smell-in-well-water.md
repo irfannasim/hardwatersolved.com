@@ -25,28 +25,28 @@ faqs:
 
 The **best filters for sulfur smell in well water** are chosen by how much hydrogen sulfide the water carries, after you have ruled out the two sources that need no filter. Under 2 ppm, a backwashing catalytic carbon filter works if the water holds enough oxygen, and AFW's Silver Series air injection filter works if it does not. From 2 to 6 ppm, Oceanic's 12x52 air injection tank with catalytic carbon has the rating to spare. Above 6 ppm, chlorine injection with a contact tank is the usual answer.
 
-Before any of that, smell the hot and cold taps separately. If only the hot water smells, the cause is almost always the water heater's anode rod, and a $1,000 filter will not touch it.
+Before any of that, smell the hot and cold taps separately. If only the hot water smells, the cause is almost always the water heater's anode rod, and a whole-house filter will not touch it.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
 ## Best Filters for Sulfur Smell at a Glance
 
-| H2S level | Best approach | Pick | Seller's H2S rating | Approx. price | Amazon |
-|---|---|---|---|---|---|
-| Under 2 ppm, oxygen 4 mg/L or more | Backwashing catalytic carbon | Abundant Flow catalytic carbon (BWF-CC10-56SXT) | 10 ppm (AFW's current version) | about $986 (AFW's current version) | [B00D0HQE64](https://www.amazon.com/dp/B00D0HQE64) |
-| Under 2 ppm, low oxygen or iron too | Air injection, filter media | AFWFilters Silver Series air injection, Fleck 5600SXT | 4 ppm | about $710 | [B07ZWKGMSM](https://www.amazon.com/dp/B07ZWKGMSM) |
-| 2 to 6 ppm (and above, with margin) | Air injection with catalytic carbon | Oceanic AIO 12x52 | 17 ppm | about $1,250 | [B0C93PNSS1](https://www.amazon.com/dp/B0C93PNSS1) |
-| Over 6 ppm | Chlorine feed, contact tank, filter, carbon | No Amazon pick ranked | n/a | n/a | n/a |
-| Hot water only | Replace the water heater anode | No filter needed | n/a | n/a | n/a |
+| H2S level | Best approach | Pick | Seller's H2S rating | Amazon |
+|---|---|---|---|---|
+| Under 2 ppm, oxygen 4 mg/L or more | Backwashing catalytic carbon | Abundant Flow catalytic carbon (BWF-CC10-56SXT) | 10 ppm (AFW's current version) | [Check price on Amazon](https://www.amazon.com/dp/B00D0HQE64) |
+| Under 2 ppm, low oxygen or iron too | Air injection, filter media | AFWFilters Silver Series air injection, Fleck 5600SXT | 4 ppm | [Check price on Amazon](https://www.amazon.com/dp/B07ZWKGMSM) |
+| 2 to 6 ppm (and above, with margin) | Air injection with catalytic carbon | Oceanic AIO 12x52 | 17 ppm | [Check price on Amazon](https://www.amazon.com/dp/B0C93PNSS1) |
+| Over 6 ppm | Chlorine feed, contact tank, filter, carbon | No Amazon pick ranked | n/a | n/a |
+| Hot water only | Replace the water heater anode | No filter needed | n/a | n/a |
 
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Ratings come from the sellers' product pages, and the bands come from Penn State Extension's guidance on [hydrogen sulfide in water wells](https://extension.psu.edu/hydrogen-sulfide-rotten-egg-odor-in-water-wells).
 >
-> - **Included:** whole-house, automatically backwashing filters rated for hydrogen sulfide, sold new on Amazon at a normal price of $100 or more.
+> - **Included:** whole-house, automatically backwashing filters rated for hydrogen sulfide, sold new on Amazon.
 > - **Sorted by:** the sulfide band each pick suits with margin, not the highest number on its listing.
-> - **Excluded:** cartridge carbon filters (consumables that load up fast on sulfide), Birm filters (Penn State does not recommend them for hydrogen sulfide), the WECO KDF85-1054 (about $2,746, and WECO's own table puts its minimum backwash at 16 gpm, beyond most well pumps), and listings whose price and specs we could not check (see below). Anode rods are the fix for hot-water-only odour, but they sell for well under $100, so none is listed as a pick.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our tools, so prices are from AFWFilters (store.afwfilters.com) and Oceanic (oceanicwater.com).
+> - **Excluded:** cartridge carbon filters (consumables that load up fast on sulfide), Birm filters (Penn State does not recommend them for hydrogen sulfide), the WECO KDF85-1054 (WECO's own table puts its minimum backwash at 16 gpm, beyond most well pumps), and listings whose specs we could not check (see below). Anode rods are the fix for hot-water-only odour, but none is listed as a pick.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Sulfur is one of several things a well test covers. How it fits with iron, hardness and bacteria in one treatment plan is covered in [water softener for well water](/blog/water-softener-for-well-water/).
 
@@ -95,7 +95,8 @@ The sellers' figures are much higher: 4 ppm for AFW's Silver Series air injectio
 
 - **What it is:** a backwashing catalytic carbon filter. Abundant Flow is AFWFilters' own brand, and AFW's store sells "Abundant Flow" systems alongside its AFW-branded ones. The Amazon listing title is "Abundant Flow Water BWF-CC10-56SXT Catalytic Carbon", which indicates a Fleck 5600SXT valve.
 - **AFW's current version:** the Digital Catalytic Carbon 10 on AFW's own filter valve, with 1 cu ft of catalytic carbon in a 9x48 tank. AFW rates it for up to 10 ppm of hydrogen sulfide and up to 10 ppm of iron, noting that iron removal "requires dissolved oxygen in excess of 4 ppm". It also removes chlorine and chloramine. AFW sizes it for 1 to 2 bathrooms and 2 to 3 people.
-- **Price:** $986 for AFW's current version. We could not see a price for the Amazon listing. [See it on Amazon (B00D0HQE64)](https://www.amazon.com/dp/B00D0HQE64)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00D0HQE64)
 
 Catalytic carbon is the quietest option in this band. There is no air pocket to recharge and no chemical, and it also takes out tastes and odours beyond sulfide. On a well with low sulfide and decent oxygen it is a simple, one-tank fix.
 
@@ -108,11 +109,15 @@ Catalytic carbon is the quietest option in this band. There is no air pocket to 
 - **What it is:** AFW's Silver Series on a Fleck 5600SXT digital air injection valve, with 1 cu ft of Filter Ag Plus in a 10x54 tank and a 1-inch bypass. It ships pre-loaded.
 - **Seller's rating:** iron up to 8 ppm, sulfur up to 4 ppm, manganese up to 2 ppm.
 - **Backwash:** 5 gpm minimum for AFW's 1 cu ft Silver systems, per AFW's comparison table, at least every 3 days.
-- **Price:** $709.99 at AFWFilters. [Amazon listing (B07ZWKGMSM)](https://www.amazon.com/dp/B07ZWKGMSM): its title is "AFWFilters Air Injection iron filter ... Black Series (1")". We matched it to this unit by name and the 1-inch connection, but could not confirm it, so check the valve and ratings on the listing.
+- **Amazon listing:** its title is "AFWFilters Air Injection iron filter ... Black Series (1")". We matched it to this unit by name and the 1-inch connection, but could not confirm it, so check the valve and ratings on the listing.
 
-The air pocket supplies the oxygen that catalytic carbon needs the water to bring, which is why this is the pick for low-oxygen wells. It also takes iron, which often comes with sulfide. At about $710 it is the cheapest complete system on this page.
+[Check price on Amazon](https://www.amazon.com/dp/B07ZWKGMSM)
 
-**Watch for:** the 4 ppm sulfide ceiling. In this band you are well inside it, which is the point. If you want the listing we could confirm, AFW's Silver 10 on the larger Fleck 2510 AiQ ([B004FVZHLC](https://www.amazon.com/dp/B004FVZHLC), $1,199 on sale) has the same 4 ppm sulfide rating and 10 ppm iron.
+The air pocket supplies the oxygen that catalytic carbon needs the water to bring, which is why this is the pick for low-oxygen wells. It also takes iron, which often comes with sulfide. It is usually the lowest-cost complete system on this page.
+
+**Watch for:** the 4 ppm sulfide ceiling. In this band you are well inside it, which is the point. If you want the listing we could confirm, AFW's Silver 10 on the larger Fleck 2510 AiQ has the same 4 ppm sulfide rating and 10 ppm iron.
+
+[Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC)
 
 **Wrong for:** sulfide above about 3 ppm, where it would run close to its limit.
 
@@ -122,7 +127,8 @@ The air pocket supplies the oxygen that catalytic carbon needs the water to brin
 - **Seller's rating:** iron up to 27 ppm, sulfur up to 17 ppm, manganese up to 11 ppm.
 - **Flow:** 9 gpm service, 15 gpm peak for under 10 minutes.
 - **Backwash:** **10 gpm minimum**, on [Oceanic's product page](https://oceanicwater.com/aio-air-injection-oxidizing-water-filter-system-12-x-52-iron-hydrogen-sulfide-sulfur-removal-fleck-5600sxt-catalytic-carbon.html).
-- **Price:** $1,249.99 on sale ($1,349.99 regular) at Oceanic. [See it on Amazon (B0C93PNSS1)](https://www.amazon.com/dp/B0C93PNSS1)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0C93PNSS1)
 
 This tank pairs the two things that work on sulfide without chemicals: air, and catalytic carbon. At 4 or 5 ppm, it runs at about a quarter of its listed ceiling, with room for the iron that usually comes along. It is the only chemical-free pick here that suits a middle-band well with real margin.
 
@@ -149,10 +155,10 @@ Two things make the anode check worth doing even if you do buy a filter:
 
 ## Listings We Could Not Rank
 
-| Listing | What we confirmed | Why it is not ranked |
-|---|---|---|
-| Premier AIO, Fleck 2510SXT ([B071G9L3YK](https://www.amazon.com/dp/B071G9L3YK)) | Listing title: iron, sulfur and manganese removal, model 10T-FE | Built by Nelsen; we could not reach a maker or retailer page to check its price, sulfide rating or backwash flow |
-| WECO KDF85-1054 ([B075QZKF3X](https://www.amazon.com/dp/B075QZKF3X)) | WECO lists it at $2,746.22, with 0.66 cu ft of KDF-85 and an 8 gpm service flow | Needs a 16 gpm minimum backwash on WECO's table |
+| Listing | What we confirmed | Why it is not ranked | Amazon |
+|---|---|---|---|
+| Premier AIO, Fleck 2510SXT | Listing title: iron, sulfur and manganese removal, model 10T-FE | Built by Nelsen; we could not reach a maker or retailer page to check its sulfide rating or backwash flow | [Check price on Amazon](https://www.amazon.com/dp/B071G9L3YK) |
+| WECO KDF85-1054 | WECO lists it with 0.66 cu ft of KDF-85 and an 8 gpm service flow | Needs a 16 gpm minimum backwash on WECO's table | [Check price on Amazon](https://www.amazon.com/dp/B075QZKF3X) |
 
 ## Install It Ahead of the Softener
 

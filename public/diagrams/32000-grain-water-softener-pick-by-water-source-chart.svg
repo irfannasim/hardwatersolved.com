@@ -17,15 +17,15 @@
 <path class="ln" d="M80,278 L102,278" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d32a)"/>
 <rect class="box" x="106" y="250" width="274" height="56" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
 <text x="118" y="273" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Lowest upfront price</text>
-<text x="118" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Aquasure Harmony 32k, about $540</text>
+<text x="118" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Aquasure Harmony 32k</text>
 <path class="ln" d="M80,362 L102,362" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d32a)"/>
 <rect class="box" x="106" y="334" width="274" height="56" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
 <text x="118" y="357" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Fleck valve, 10% resin for chlorine</text>
-<text x="118" y="377" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">AFW Fleck 5600SXT 32k, about $759</text>
+<text x="118" y="377" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">AFW Fleck 5600SXT 32k</text>
 <path class="ln" d="M80,446 L102,446" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d32a)"/>
 <rect class="box" x="106" y="418" width="274" height="56" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
 <text x="118" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Lowest salt use, or a septic system</text>
-<text x="118" y="461" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">SoftPro Elite 32k, about $1,367</text>
+<text x="118" y="461" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">SoftPro Elite 32k</text>
 <path class="ln" d="M560,218 L560,246" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#d32a)"/>
 <rect class="box" x="420" y="250" width="280" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
 <text x="560" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Any iron, manganese or</text>
@@ -40,5 +40,5 @@
 <text x="478" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#dc2626">Yes</text>
 <text x="478" y="461" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Treat it first, or go fine mesh</text>
 <text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Under 3 days on the grid: buy a 48k instead. Over 14 days: set the day override, or size down.</text>
-<text x="30" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Prices are approximate brand-store prices, checked 1 October 2026.</text>
+<text x="30" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Prices change often, so check the current price before buying.</text>
 </svg>

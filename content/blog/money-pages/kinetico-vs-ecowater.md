@@ -27,7 +27,7 @@ faqs:
 
 ## Kinetico vs EcoWater at a Glance
 
-> **Method.** Kinetico figures come from its softener page, its Premier Series product sheet and the Kinetico 2030s data sheet. EcoWater figures come from its current spec sheets, and its regeneration behaviour from an EcoWater EEC1502 owner's manual. No unit was physically tested. The annual use model uses the makers' published numbers and a stated household. Neither brand is sold on Amazon under its own name; the alternatives below were checked against their Amazon listings and brand stores. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Method.** Kinetico figures come from its softener page, its Premier Series product sheet and the Kinetico 2030s data sheet. EcoWater figures come from its current spec sheets, and its regeneration behaviour from an EcoWater EEC1502 owner's manual. No unit was physically tested. The annual use model uses the makers' published numbers and a stated household. Neither brand is sold on Amazon under its own name; the alternatives below were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 | | Kinetico (2030s shown) | EcoWater (ECR3702R40 shown) |
 |---|---|---|
@@ -119,12 +119,12 @@ If you compare a Kinetico against an EcoWater below the Compact and 3700 tier, t
 
 Neither brand sells whole-house softeners on Amazon under its own name. These are the nearest online equivalents to each design:
 
-| Alternative | Which design it mirrors | Approx. price |
+| Alternative | Which design it mirrors | Amazon |
 |---|---|---|
-| [AFWFilters Fleck 9100SXT twin tank, 48k](https://www.amazon.com/dp/B000GE8T6M) | Kinetico's metered twin tank and soft water during regeneration, but electric | About $1,387 on AFW's store (checked 1 October 2026; the store did not load on 2 October) |
-| [GE Smart Water Softener GXSH35W](https://www.amazon.com/dp/B0FWTXRMW6) | EcoWater's app-connected approach: built-in Wi-Fi, low-salt reminders and water-flow alerts in the SmartHQ app; shutoff needs a separate GE valve | $699 on GE's store, listed as temporarily out of stock online there |
+| AFWFilters Fleck 9100SXT twin tank, 48k | Kinetico's metered twin tank and soft water during regeneration, but electric | [Check price on Amazon](https://www.amazon.com/dp/B000GE8T6M) |
+| GE Smart Water Softener GXSH35W | EcoWater's app-connected approach: built-in Wi-Fi, low-salt reminders and water-flow alerts in the SmartHQ app; shutoff needs a separate GE valve | [Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6) |
 
-*Amazon did not show a price on our check for either listing, so compare the Amazon price on the day. GE's older Wi-Fi model, the GXSHC40N, showed as unavailable on Amazon and is not included; the GXSH35W is its successor.*
+*GE's older Wi-Fi model, the GXSHC40N, showed as unavailable on Amazon and is not included; the GXSH35W is its successor.*
 
 The online equivalent of a Kinetico has no non-electric option on Amazon at this size. The Fleck twin matches its continuous soft water and metering, not its independence from power. Both alternatives are self-installed or plumber-installed and come with no dealer service.
 

@@ -10,7 +10,7 @@ featuredImage: "https://images.pexels.com/photos/39885422/pexels-photo-39885422.
 ogImageAlt: "Installer in safety glasses and work gloves fitting wall-mounted copper and PEX water pipes during a plumbing installation"
 faqs:
   - question: "Is the SoftPro Elite worth the money?"
-    answer: "It depends on your water and your drain. The Elite costs about $600 to $700 more than a comparable Fleck 5600SXT system with 10% crosslink resin. On salt alone, that premium takes about 12 years to repay for a family of five on 25 gpg water, about 24 years for a family of four on 15 gpg, and longer than the unit will last for a couple on 10 gpg. It is worth it where low salt use has value beyond the bag price, such as a septic system or a local chloride limit, or where you value the long valve warranty and phone support."
+    answer: "It depends on your water and your drain. The Elite costs considerably more than a comparable Fleck 5600SXT system with 10% crosslink resin. On salt alone, at the prices we saw on 1 October 2026, that premium takes about 12 years to repay for a family of five on 25 gpg water, about 24 years for a family of four on 15 gpg, and longer than the unit will last for a couple on 10 gpg. It is worth it where low salt use has value beyond the bag price, such as a septic system or a local chloride limit, or where you value the long valve warranty and phone support."
   - question: "Does the SoftPro Elite really use 75% less salt?"
     answer: "Not against a modern metered softener. SoftPro's Amazon listing says the Elite saves up to 75% on salt compared with other leading brands. Against a timer softener running a heavy 15 lb per cubic foot dose, an efficient upflow unit uses roughly half the salt. Against a metered downflow unit at a standard setting, the saving in our model is about 28%, and against one tuned to a low dose it is about 12%. A 75% cut against a heavy-dose softener would need more softening per pound of salt than the chemistry allows, so the claim only holds against units that waste capacity."
   - question: "Can I use the SoftPro Elite on well water?"
@@ -34,17 +34,17 @@ What follows is built from SoftPro's product page, warranty document and Amazon 
 | Item | What we found |
 |---|---|
 | Type | Salt-based ion-exchange softener with upflow (counter-current) brining, metered, demand-initiated |
-| Sizes and brand-store prices | 32k about $1,367 · 40k about $1,447 · 48k about $1,457 · 64k about $1,587 (softener only, city water) |
-| Amazon listings | [32,000 grain](https://www.amazon.com/dp/B07KY432XV) · [48,000 grain](https://www.amazon.com/dp/B07KY5SPSJ) · [64,000 grain](https://www.amazon.com/dp/B07KY521BT) |
+| Sizes | 32k, 40k, 48k and 64k (softener only, city water) |
+| Amazon listings | 32,000 grain: [Check price on Amazon](https://www.amazon.com/dp/B07KY432XV) · 48,000 grain: [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) · 64,000 grain: [Check price on Amazon](https://www.amazon.com/dp/B07KY521BT) |
 | Resin | 10% crosslink resin, which resists chlorine better than standard 8% resin |
 | Control features (SoftPro's description) | Soft-water brine refill, "precision brining" that pre-makes about 70% of the brine just before regeneration, a 7-day idle refresh, and an option to skip backwash on clean city water for up to 10 cycles |
 | Plumbing | 1-inch internal plumbing per SoftPro; bypass valve and brine tank included in the listings |
 | Warranty | Lifetime tanks and valve; 5 years on piston, seals and spacers (city water); 7 years on electronics; 10-year prorated resin (city water only) |
 | Returns | 6 months from ship date, no restocking fee, return shipping paid by the buyer |
 
-The "Elite Plus" 48k with KDF-55 media (B07KZPMFWS) showed as currently unavailable on Amazon on 1 October 2026, so this review covers the standard Elite only. SoftPro also sells Gold and Gold+ bundles with a whole-house carbon filter from its own store.
+The "Elite Plus" 48k with KDF-55 media showed as currently unavailable on Amazon on 1 October 2026, so this review covers the standard Elite only. SoftPro also sells Gold and Gold+ bundles with a whole-house carbon filter from its own store.
 
-> **How this review was built.** Specifications, features and warranty terms come from SoftPro's product page, its [warranty, shipping and refund policy](https://www.softprowatersystems.com/pages/warranty-shipping-refund-policies) and the Amazon listings, all read on 1 October 2026. Certification was checked against NSF's public listings the same day. The salt figures are a model, not measurements, and every assumption is stated next to the numbers. Nothing here was physically tested. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying. The Amazon product pages did not display a price to our checks, so the prices above are SoftPro's own store prices.
+> **How this review was built.** Specifications, features and warranty terms come from SoftPro's product page, its [warranty, shipping and refund policy](https://www.softprowatersystems.com/pages/warranty-shipping-refund-policies) and the Amazon listings, all read on 1 October 2026. Certification was checked against NSF's public listings the same day. The salt figures are a model, not measurements, and every assumption is stated next to the numbers. Nothing here was physically tested. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## What Upflow Brining Changes Inside the Elite
 
@@ -111,15 +111,15 @@ Where the efficiency barely matters is the small household on moderate water. A 
 
 ## Does the Saving Pay Back the Premium?
 
-The fair comparison is a metered downflow softener of the same size with the same 10% crosslink resin. AFW's store lists Fleck 5600SXT systems with 10% resin at about $759 for 32k, $785 for 48k and $889 for 64k. Against those, the Elite costs about $600 to $700 more.
+The fair comparison is a metered downflow softener of the same size with the same 10% crosslink resin. AFW's store sells Fleck 5600SXT systems with 10% resin in 32k, 48k and 64k sizes. At the brand-store prices we saw on 1 October 2026, the Elite cost considerably more than each of them, size for size. The payback figures below divide that premium by the yearly salt saving; check both stores' current prices and rerun the sum for your size.
 
 ![Bar chart of the years a SoftPro Elite salt saving takes to repay its price premium for three households](/diagrams/softpro-elite-premium-payback-years-by-household.svg "On salt alone, only the large hard-water household gets close to payback")
 
-| Household | Size compared | Premium | Payback vs metered at 9 lb | Payback vs metered at 6 lb |
-|---|---|---|---|---|
-| Couple, 10 gpg | 32k | about $608 | about 66 years | about 178 years |
-| Family of 4, 15 gpg | 48k | about $672 | about 24 years | about 65 years |
-| Family of 5, 25 gpg | 64k | about $698 | about 12 years | about 33 years |
+| Household | Size compared | Payback vs metered at 9 lb | Payback vs metered at 6 lb |
+|---|---|---|---|
+| Couple, 10 gpg | 32k | about 66 years | about 178 years |
+| Family of 4, 15 gpg | 48k | about 24 years | about 65 years |
+| Family of 5, 25 gpg | 64k | about 12 years | about 33 years |
 
 On salt alone the Elite never pays back for the smaller households. For the large hard-water household it comes close to the 10-year resin warranty against a softener at a standard setting.
 
@@ -164,7 +164,7 @@ That may be a paperwork matter rather than a quality problem. Many softeners are
 
 ## Installation Notes
 
-The Elite installs like any two-tank softener: a bypass valve, inlet and outlet connections to the main line ahead of the water heater, a drain line with an air gap, a brine overflow line and a power outlet. SoftPro rates it as a DIY job of a few hours, with installation videos and phone support. A plumber will charge extra on top of the prices above.
+The Elite installs like any two-tank softener: a bypass valve, inlet and outlet connections to the main line ahead of the water heater, a drain line with an air gap, a brine overflow line and a power outlet. SoftPro rates it as a DIY job of a few hours, with installation videos and phone support. A plumber will charge extra on top of the purchase price.
 
 Two setup choices decide whether you get the savings modeled here:
 
@@ -173,11 +173,11 @@ Two setup choices decide whether you get the savings modeled here:
 
 ## Who Should Not Buy the SoftPro Elite
 
-- **Small households on moderate water** who want to save money. A metered Fleck or similar unit at an efficient setting costs about $600 less, and the Elite's extra salt saving is worth single-digit dollars a year.
+- **Small households on moderate water** who want to save money. A metered Fleck or similar unit at an efficient setting costs considerably less, and the Elite's extra salt saving is worth single-digit dollars a year.
 - **Well owners with iron above about 2 ppm, manganese or sediment** who do not plan to add pre-treatment. The warranty conditions and the upflow design both work against you.
 - **Buyers who need a certification they can verify themselves** before purchase, until SoftPro supplies the listing details.
 - **Anyone shopping on the "75% less salt" figure.** Against a modern metered softener, expect roughly 12 to 28% less salt, depending on how that softener is programmed.
 
 ## The Verdict
 
-The bottom line of this SoftPro Elite review: the Elite does what upflow brining promises. It makes a low salt dose usable, and that saves salt and some water. The saving is worth about $9 to $58 a year against a standard metered softener across our three households, so it does not repay a $600 to $700 premium for most homes on salt alone. Buy the Elite for the warranty, the support, and for homes where low salt use matters for its own sake, such as septic systems, chloride limits and very hard water. If you are buying it to cut a salt bill on moderate water, a well-programmed conventional softener gets most of the way there for less.
+The bottom line of this SoftPro Elite review: the Elite does what upflow brining promises. It makes a low salt dose usable, and that saves salt and some water. The saving is worth about $9 to $58 a year against a standard metered softener across our three households, so it does not repay the Elite's price premium for most homes on salt alone. Buy the Elite for the warranty, the support, and for homes where low salt use matters for its own sake, such as septic systems, chloride limits and very hard water. If you are buying it to cut a salt bill on moderate water, a well-programmed conventional softener gets most of the way there for less.

@@ -20,10 +20,10 @@ faqs:
   - question: "Will an air injection iron filter work with iron bacteria?"
     answer: "Not on its own. Iron bacteria form slime that coats the media and the valve, and the Minnesota Department of Health notes they feed by combining iron with oxygen. Disinfect the well first. If the bacteria keep returning, chlorine injection ahead of a backwashing filter is the usual answer."
   - question: "How long does the media in an air injection filter last?"
-    answer: "Oceanic says its standard filter media lasts about 5 years on average and its Katalox Light version about 7. AFWFilters sells a replacement 1 cubic foot Filter Ag Plus kit for its Silver system for about $195. Heavy iron, short backwashes or chlorinated water shorten media life."
+    answer: "Oceanic says its standard filter media lasts about 5 years on average and its Katalox Light version about 7. AFWFilters sells a replacement 1 cubic foot Filter Ag Plus kit for its Silver system. Heavy iron, short backwashes or chlorinated water shorten media life."
 ---
 
-The **best air injection iron filters** for most wells are the AFWFilters Air Injection Silver 10 for everyday iron, Oceanic's 10x54 AIO if you want the lowest price, and Oceanic's 12x52 AIO for heavy iron with sulfur. All three remove iron, manganese and hydrogen sulfide with air alone, no chemicals. They only work if your well pump can hold their backwash flow, which runs from 5 gpm for the Silver 10 to 10 gpm for the 12x52. Check that first.
+The **best air injection iron filters** for most wells are the AFWFilters Air Injection Silver 10 for everyday iron, Oceanic's 10x54 AIO if you want to spend less, and Oceanic's 12x52 AIO for heavy iron with sulfur. All three remove iron, manganese and hydrogen sulfide with air alone, no chemicals. They only work if your well pump can hold their backwash flow, which runs from 5 gpm for the Silver 10 to 10 gpm for the 12x52. Check that first.
 
 That backwash figure rules out more wells than any ppm rating does. The chart below sets each unit's backwash flow against example pump rates, and the cutaway shows why the single-tank design has replaced the older venturi systems.
 
@@ -31,20 +31,20 @@ That backwash figure rules out more wells than any ppm rating does. The chart be
 
 ## Best Air Injection Iron Filters at a Glance
 
-| Pick | Tank and media | Seller's rating (Fe / Mn / H2S) | Service flow | Minimum backwash | Approx. price | Amazon |
-|---|---|---|---|---|---|---|
-| AFWFilters Air Injection Silver 10 | 10x54, 1 cu ft Filter Ag Plus, Fleck 2510 AiQ | 10 / 2 / 4 ppm | 10 gpm peak | 5 gpm | $1,199 sale, $1,399 regular | [B004FVZHLC](https://www.amazon.com/dp/B004FVZHLC) |
-| Oceanic AIO 10x54 | 10x54, 1 cu ft filter media, Fleck 5600SXT | Not stated for this version | 7 gpm service, 10 peak | 7 gpm | about $1,000 | [B07WBWLB3K](https://www.amazon.com/dp/B07WBWLB3K) |
-| Oceanic AIO 12x52 | 12x52, 1.5 cu ft catalytic carbon, Fleck 5600SXT | 27 / 11 / 17 ppm | 9 gpm service, 15 peak | 10 gpm | about $1,250 | [B0C93PNSS1](https://www.amazon.com/dp/B0C93PNSS1) |
+| Pick | Tank and media | Seller's rating (Fe / Mn / H2S) | Service flow | Minimum backwash | Amazon |
+|---|---|---|---|---|---|
+| AFWFilters Air Injection Silver 10 | 10x54, 1 cu ft Filter Ag Plus, Fleck 2510 AiQ | 10 / 2 / 4 ppm | 10 gpm peak | 5 gpm | [Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC) |
+| Oceanic AIO 10x54 | 10x54, 1 cu ft filter media, Fleck 5600SXT | Not stated for this version | 7 gpm service, 10 peak | 7 gpm | [Check price on Amazon](https://www.amazon.com/dp/B07WBWLB3K) |
+| Oceanic AIO 12x52 | 12x52, 1.5 cu ft catalytic carbon, Fleck 5600SXT | 27 / 11 / 17 ppm | 9 gpm service, 15 peak | 10 gpm | [Check price on Amazon](https://www.amazon.com/dp/B0C93PNSS1) |
 
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Specifications come from each seller's product page, and backwash figures are the minimums the sellers publish. Ratings are quoted as the sellers state them.
 >
-> - **Included:** single-tank air injection oxidation (AIO) filters on an automatic backwashing valve, sold new on Amazon at a normal price of $100 or more, whose seller publishes a minimum backwash flow.
-> - **Ranked on:** backwash flow first, because a unit your well cannot wash will foul whatever its rating. Ratings and price came second.
-> - **Excluded:** units whose backwash flow or price we could not find (listed separately below), AFW's Titanium, Platinum and Gold systems, which we could not match to Amazon listings, and chlorine or permanganate systems, which are not air injection.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our tools, so prices are from AFWFilters (store.afwfilters.com) and Oceanic (oceanicwater.com).
+> - **Included:** complete single-tank air injection oxidation (AIO) filter systems on an automatic backwashing valve, sold new on Amazon, whose seller publishes a minimum backwash flow.
+> - **Ranked on:** backwash flow first, because a unit your well cannot wash will foul whatever its rating. Ratings came second.
+> - **Excluded:** units whose backwash flow we could not find (listed separately below), AFW's Titanium, Platinum and Gold systems, which we could not match to Amazon listings, and chlorine or permanganate systems, which are not air injection.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 These filters belong ahead of any softener in the house. How they fit into the full well setup, with the test panel to run first, is covered in [water softener for well water](/blog/water-softener-for-well-water/).
 
@@ -62,7 +62,7 @@ The numbers in the chart come straight from the sellers:
 - **Oceanic** lists 7 gpm for its 10x54 tank on a Fleck 5600SXT and 10 gpm for its 12x52.
 - **For comparison,** a water softener in a 10-inch tank needs about 2.5 gpm on Pentair's spec sheet. An air injection filter of the same diameter needs about twice that.
 
-**Two things stand out.** First, the cheaper 10-inch Oceanic needs 2 gpm more than AFW's Silver 10 in the same size tank, so the lower price can cost you the fit. Second, the 12x52's 10 gpm is beyond many domestic pumps. A pump that delivers 8 gpm on a quick test can fall well below that after a few minutes of continuous running.
+**Two things stand out.** First, the 10-inch Oceanic needs 2 gpm more than AFW's Silver 10 in the same size tank, so whatever you save on it can cost you the fit. Second, the 12x52's 10 gpm is beyond many domestic pumps. A pump that delivers 8 gpm on a quick test can fall well below that after a few minutes of continuous running.
 
 **How to test your pump.** Fill a 5-gallon bucket from an outside tap with everything else off, time it, and keep repeating for as long as a full backwash runs (the valve manual lists the cycle times). The sustained figure, not the first fill, is the one to compare. [Well pump flow and backwashing](/blog/well-pump-flow-and-backwashing/) walks through both tests and the workarounds if your well falls short.
 
@@ -96,8 +96,9 @@ The trade-off for the single tank is the backwash schedule. The air pocket is us
 - **Seller's rating:** iron up to 10 ppm, hydrogen sulfide up to 4 ppm, manganese up to 2 ppm. 10 gpm recommended peak flow.
 - **Backwash:** 5 gpm minimum, at least every 3 days.
 - **Warranty:** 1 year on the control head, 10 years on the tank, per AFW.
-- **Running cost:** a replacement 1 cu ft Filter Ag Plus kit is about $195 at AFW.
-- **Price:** $1,199 on sale, $1,399 standard, at AFWFilters. [See it on Amazon (B004FVZHLC)](https://www.amazon.com/dp/B004FVZHLC)
+- **Running cost:** AFW sells a replacement 1 cu ft Filter Ag Plus kit when the media wears out.
+
+[Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC)
 
 The Silver 10 has the lowest backwash demand of the three picks, which makes it the one most wells can run. Its ratings cover the commonest well problem: a few ppm of clear-water iron, a trace of manganese and a mild sulfur smell. AFW also describes the 2510-series valve as having stronger backwash ability than the smaller Fleck 5600.
 
@@ -105,16 +106,18 @@ The Silver 10 has the lowest backwash demand of the three picks, which makes it 
 
 **Wrong for:** a pump that cannot hold 5 gpm for the full cycle.
 
-### Oceanic AIO 10x54: lowest price, higher backwash
+### Oceanic AIO 10x54: lower cost, higher backwash
 
 - **Tank and media:** 10x54 tank with 1 cubic foot of filter media, pre-filled, on a Fleck 5600SXT air injection head with bypass.
-- **Seller's rating:** Oceanic does not list ppm ratings for this 5600SXT version. Its 2510SXT version of the same tank is listed at 23 ppm iron, 13 ppm sulfur and 8 ppm manganese, for $1,199.99.
+- **Seller's rating:** Oceanic does not list ppm ratings for this 5600SXT version. Its 2510SXT version of the same tank is listed at 23 ppm iron, 13 ppm sulfur and 8 ppm manganese.
 - **Flow:** up to 7 gpm service, 10 gpm peak for under 10 minutes.
 - **Backwash:** **7 gpm minimum.**
 - **Media life:** about 5 years on average, per Oceanic.
-- **Price:** $999.99 on sale ($1,039.99 regular) at Oceanic. [Amazon listing (B07WBWLB3K)](https://www.amazon.com/dp/B07WBWLB3K): its title names Oceanic and a Fleck 5600SXT AIO, but we could not confirm it is this exact tank, so check the size before ordering.
+- **Amazon listing:** its title names Oceanic and a Fleck 5600SXT AIO, but we could not confirm it is this exact tank, so check the size before ordering.
 
-This is the cheapest complete AIO system we could price, about $200 below the Silver 10. The catch is in the chart: it asks the well for 7 gpm, 2 gpm more than AFW's 10-inch tank. If your pump holds 8 gpm or more, that does not matter. If it holds 5 or 6, the saving is false.
+[Check price on Amazon](https://www.amazon.com/dp/B07WBWLB3K)
+
+This is usually the least expensive of the three picks. The catch is in the chart: it asks the well for 7 gpm, 2 gpm more than AFW's 10-inch tank. If your pump holds 8 gpm or more, that does not matter. If it holds 5 or 6, the lower cost is a false saving.
 
 **Watch for:** the missing ppm ratings on this version. Ask Oceanic to confirm your iron, manganese and sulfide figures before you buy.
 
@@ -122,11 +125,12 @@ This is the cheapest complete AIO system we could price, about $200 below the Si
 
 ### Oceanic AIO 12x52: best for heavy iron and sulfur
 
-- **Tank and media:** 12x52 tank with 1.5 cubic feet of catalytic carbon, pre-loaded, on a Fleck 5600SXT air injection head. Oceanic also sells a 12x52 on a Fleck 2510SXT for $1,359.99.
+- **Tank and media:** 12x52 tank with 1.5 cubic feet of catalytic carbon, pre-loaded, on a Fleck 5600SXT air injection head. Oceanic also sells a 12x52 on a Fleck 2510SXT.
 - **Seller's rating:** iron up to 27 ppm, sulfur up to 17 ppm, manganese up to 11 ppm, on [Oceanic's product page](https://oceanicwater.com/aio-air-injection-oxidizing-water-filter-system-12-x-52-iron-hydrogen-sulfide-sulfur-removal-fleck-5600sxt-catalytic-carbon.html).
 - **Flow:** 9 gpm service, 15 gpm peak for under 10 minutes.
 - **Backwash:** **10 gpm minimum**, daily.
-- **Price:** $1,249.99 on sale ($1,349.99 regular) at Oceanic. [See it on Amazon (B0C93PNSS1)](https://www.amazon.com/dp/B0C93PNSS1)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0C93PNSS1)
 
 The wider tank holds half as much media again as the 10-inch picks, and catalytic carbon adds help with sulfide. That is why its ratings are the highest on this page. For a well with a strong rotten-egg smell and heavy iron, it is the only chemical-free unit here with headroom.
 
@@ -136,11 +140,11 @@ The wider tank holds half as much media again as the 10-inch picks, and catalyti
 
 ## Also Listed on Amazon, Not Ranked
 
-| Listing | What we confirmed | Why it is not ranked |
-|---|---|---|
-| Premier AIO, Fleck 2510SXT ([B071G9L3YK](https://www.amazon.com/dp/B071G9L3YK)) | Listing title: iron, sulfur and manganese, model 10T-FE | Built by Nelsen; we could not reach a maker or retailer page to check price, ratings or backwash flow |
-| DuraWater Air Injection Iron Eater 1.0 ([B078C82XF8](https://www.amazon.com/dp/B078C82XF8)) | Listing title: 1.0 cu ft media for iron, manganese and H2S | No price or backwash figure we could verify. Oceanic sells an "Iron Eater" 10x54 catalytic carbon AIO at $929.99, but we could not confirm it is the same unit |
-| American Water Solutions AIO Heavy Weight ([B079ZLM1HT](https://www.amazon.com/dp/B079ZLM1HT)) | Listing title: Fleck 2510SXT, extended 10-year warranty | No maker page found; price and backwash flow unverified |
+| Listing | What we confirmed | Why it is not ranked | Amazon |
+|---|---|---|---|
+| Premier AIO, Fleck 2510SXT | Listing title: iron, sulfur and manganese, model 10T-FE | Built by Nelsen; we could not reach a maker or retailer page to check ratings or backwash flow | [Check price on Amazon](https://www.amazon.com/dp/B071G9L3YK) |
+| DuraWater Air Injection Iron Eater 1.0 | Listing title: 1.0 cu ft media for iron, manganese and H2S | No backwash figure we could verify. Oceanic sells an "Iron Eater" 10x54 catalytic carbon AIO, but we could not confirm it is the same unit | [Check price on Amazon](https://www.amazon.com/dp/B078C82XF8) |
+| American Water Solutions AIO Heavy Weight | Listing title: Fleck 2510SXT, extended 10-year warranty | No maker page found; ratings and backwash flow unverified | [Check price on Amazon](https://www.amazon.com/dp/B079ZLM1HT) |
 
 If you are drawn to one of these, ask the seller for two numbers in writing before you order: the minimum backwash flow, and the ppm limits for iron, manganese and hydrogen sulfide.
 

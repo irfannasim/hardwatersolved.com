@@ -31,26 +31,26 @@ That is the finding in short. Below, 14 models are checked one at a time, with t
 
 | Model | What the box or listing says | NSF/ANSI 44 check, 2 Oct 2026 | Listed company | NSF flow | Amazon on 1 to 2 Oct |
 |---|---|---|---|---|---|
-| EcoPure EP31 | "NSF-Certified" in Amazon title | **Listed**: hardness reduction, efficiency rated | Water Channel Partners | 7.2 gpm | [Live listing](https://www.amazon.com/dp/B01N5S983U) |
-| EcoPure EP42 | "NSF-Certified" in Amazon listing | **Listed**: hardness reduction, efficiency rated | Water Channel Partners | 8.2 gpm | [Live listing](https://www.amazon.com/dp/B01N5S92DK) |
+| EcoPure EP31 | "NSF-Certified" in Amazon title | **Listed**: hardness reduction, efficiency rated | Water Channel Partners | 7.2 gpm | [Check price on Amazon](https://www.amazon.com/dp/B01N5S983U) |
+| EcoPure EP42 | "NSF-Certified" in Amazon listing | **Listed**: hardness reduction, efficiency rated | Water Channel Partners | 8.2 gpm | [Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK) |
 | EcoPure EPHS | "NSF Certified" in Amazon title | **Listed**: plus barium and radium reduction | Water Channel Partners | 8 gpm | Currently unavailable |
 | Whirlpool WHES33 | "NSF certified" in listing copy | **Listed** | Water Channel Partners | 8 gpm | Currently unavailable on 1 Oct |
 | Whirlpool WHES40E | "NSF certified" in Amazon title | **Listed** as WHES40 | Water Channel Partners | 7.6 gpm | Listing returned 404 on 1 Oct |
 | Morton M34 | NSF certified in manual | **Listed** | Water Channel Partners | per listing | MSD34C currently unavailable |
-| WaterBoss 700 (22,000 grain) | Certified in manual | **Listed**: plus barium and radium | WaterBoss, Groveport, OH | 8 gpm | [22,000-grain listing](https://www.amazon.com/dp/B000R8UN34), model not confirmed |
+| WaterBoss 700 (22,000 grain) | Certified in manual | **Listed**: plus barium and radium | WaterBoss, Groveport, OH | 8 gpm | 22,000-grain listing, model not confirmed: [Check price on Amazon](https://www.amazon.com/dp/B000R8UN34) |
 | WaterBoss 900 | Certified in manual | **Listed** | WaterBoss | 7.5 gpm | Currently unavailable on 1 Oct |
 | GE GXSH40V / GXSH45V | NSF certified | **Listed**; GE flags them obsolete | GE Appliances | per listing | No active offer on 1 Oct |
-| GE GXSH35W | NSF/ANSI 44 in manual | **Not on NSF's list**; manual names IAPMO R&T | GE Appliances (warrantor) | n/a | [Live listing](https://www.amazon.com/dp/B0FWTXRMW6) |
-| SoftPro Elite 48k | "NSF / WQA / ANSI Certified" badge | **No SoftPro entry**; Canature lists its own models | (Canature, reported) | n/a | [Live listing](https://www.amazon.com/dp/B07KY5SPSJ) |
+| GE GXSH35W | NSF/ANSI 44 in manual | **Not on NSF's list**; manual names IAPMO R&T | GE Appliances (warrantor) | n/a | [Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6) |
+| SoftPro Elite 48k | "NSF / WQA / ANSI Certified" badge | **No SoftPro entry**; Canature lists its own models | (Canature, reported) | n/a | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 | SpringWell SS | Not checked for claims | **No matching products** | none | n/a | Currently unavailable on 1 Oct |
 | Aquasure Harmony | Not checked for claims | **No 44 listing**; Aquasure lists only RO membranes under NSF/ANSI 58 | Aquasure Corporation | n/a | Listed |
 | Pelican | Not checked for claims | **No matching products** under 44 | none | n/a | Not checked |
 
 > **How this list was built.** Each model was searched on [NSF's NSF/ANSI 44 listing](https://info.nsf.org/Certified/DWTU/Listings.asp?Standard=044) by trade name and by company on 2 October 2026, and the result recorded as found. Box and listing claims come from the Amazon titles, the maker's page or the owner's manual. Amazon availability is from our checks on 1 and 2 October. Nothing was physically tested.
 >
-> - **Included:** popular softeners sold online or at big-box stores whose typical price is over $100, plus the models in the Amazon titles that say "NSF certified".
+> - **Included:** popular whole-house softeners sold online or at big-box stores, plus the models in the Amazon titles that say "NSF certified".
 > - **Not covered by the check:** WQA's Gold Seal directory. It is a search app that returned no results to our tools, so WQA listings were not confirmed here. Where a maker claims WQA, the table says so and you should search WQA's directory yourself.
-> - **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages did not display prices to our checks, so prices below come from the maker's store or a named retailer. They could not all be re-confirmed on 2 October. **Re-check:** listings change, so this page is re-checked quarterly.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon. **Re-check:** listings change, so this page is re-checked quarterly.
 
 ## What the Listing Check Found
 
@@ -75,7 +75,8 @@ These were the models with both a certification you can look up and a live Amazo
 - **Listing:** Ecopure EP31, NSF/ANSI 44, hardness reduction and efficiency rated, 7.2 gpm, under Water Channel Partners
 - **Capacity:** 31,000 grains; retailer listings give an 8 ppm iron rating
 - **Size:** 15.5 x 19.75 x 47.75 inches
-- **Price:** about $575 to $620 at retailers on 1 October 2026. [See it on Amazon (B01N5S983U)](https://www.amazon.com/dp/B01N5S983U)
+
+[Check price on Amazon](https://www.amazon.com/dp/B01N5S983U)
 
 For one to three people on city water, this is the simplest way to own a softener whose certification you can confirm in a minute. "Efficiency rated" on the listing means it met NSF/ANSI 44's minimum of 3,350 grains of hardness removed per pound of salt, at its lowest salt setting.
 
@@ -85,7 +86,8 @@ For one to three people on city water, this is the simplest way to own a softene
 
 - **Listing:** Ecopure EP42, NSF/ANSI 44, hardness reduction and efficiency rated, 8.2 gpm
 - **Capacity:** 42,000 grains; retailer listings give up to 110 gpg hardness and 11 ppm iron
-- **Price:** about $690 at Ace Hardware on 1 October 2026. [See it on Amazon (B01N5S92DK)](https://www.amazon.com/dp/B01N5S92DK)
+
+[Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK)
 
 The same maker and cabinet format as the EP31, with more capacity. It is the certified cabinet to look at if you would have bought a Whirlpool WHES40 or WHES44 but cannot find one in stock.
 
@@ -96,7 +98,8 @@ The same maker and cabinet format as the EP31, with more capacity. It is the cer
 - **Certification:** IAPMO R&T to NSF/ANSI 44 for hardness reduction and NSF/ANSI 372 for lead content, per the manual; also CSA B483.1
 - **Capacity:** rated 13,311 grains at 2.6 lb of salt, 32,636 at 9.8 lb and 37,065 at 17.1 lb, from 1 cubic foot of resin
 - **Efficiency:** 5,120 grains per pound of salt at the minimum 2.6 lb dose, per the manual's certified data
-- **Price:** about $699 at GE's store on 1 October 2026. [See it on Amazon (B0FWTXRMW6)](https://www.amazon.com/dp/B0FWTXRMW6)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6)
 
 Strong certified data, with capacity published at three salt doses, which is more than most listings show. The name "35,000" is close to the capacity at the heaviest dose. At a normal setting expect nearer 32,600. Using that lower figure for sizing is explained in [advertised vs usable softener capacity](/blog/advertised-vs-usable-softener-capacity/).
 
@@ -105,11 +108,13 @@ Strong certified data, with capacity published at three salt doses, which is mor
 ### WaterBoss 22,000-grain: listed model, unconfirmed listing
 
 - **Listing:** WaterBoss 700, NSF/ANSI 44 with barium and radium reduction, efficiency rated, 8 gpm, under WaterBoss of Groveport, Ohio
-- **Price:** the Model 700 sells for about $490 to $540 at Ace Hardware and Do it Best. [See the Amazon listing (B000R8UN34)](https://www.amazon.com/dp/B000R8UN34)
+- **Where sold:** the Model 700 is sold at Ace Hardware and Do it Best
+
+[Check price on Amazon](https://www.amazon.com/dp/B000R8UN34)
 
 WaterBoss's whole range, from the 220 to the 950, is on NSF's list. The catch is the Amazon listing. It describes a 22,000-grain WaterBoss but we could not confirm that it is the current Model 700. Check that the listing names a model number on NSF's list before you order.
 
-**Watch for:** the Model 900, the one most buyers want. Its Amazon listing showed currently unavailable on 1 October; Home Depot had it at about $541.
+**Watch for:** the Model 900, the one most buyers want. Its Amazon listing showed currently unavailable on 1 October; Home Depot listed it.
 
 ## Certified, but Not on Amazon Right Now
 

@@ -2,7 +2,7 @@
 title: "SpringWell FutureSoft Review: The Scale Claim, the Limits and the Fine Print"
 seoTitle: "SpringWell FutureSoft Review: Salt-Free Claims Checked"
 seoDescription: "This SpringWell FutureSoft review checks its TAC media test data, the hardness and iron limits in its manual, and when it is the wrong choice."
-excerpt: "SpringWell says its FutureSoft salt-free conditioner prevents up to 95% of scale. This review holds that claim against the DVGW W 512 test used by independent researchers, finds that SpringWell publishes no protocol, lab or report behind it, and then lists every water condition SpringWell's own specification table and installation guide exclude. It covers what ships in the box, the real maintenance, the price of each size, the warranty wording, and the homes where FutureSoft is the wrong buy."
+excerpt: "SpringWell says its FutureSoft salt-free conditioner prevents up to 95% of scale. This review holds that claim against the DVGW W 512 test used by independent researchers, finds that SpringWell publishes no protocol, lab or report behind it, and then lists every water condition SpringWell's own specification table and installation guide exclude. It covers what ships in the box, the real maintenance, the sizes and combos, the warranty wording, and the homes where FutureSoft is the wrong buy."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -29,7 +29,7 @@ Whether FutureSoft suits your home comes down to its limits more than its claim.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this review was put together.** Specs, limits and prices are from SpringWell's FutureSoft product page and the [FS1/FS4 installation instructions](https://www.springwellwater.com/wp-content/uploads/2020/01/FS1_FS4-Installation-Instructions.pdf); warranty wording is quoted from SpringWell's [warranty page](https://www.springwellwater.com/warranty/). The independent benchmark is [WateReuse Research Foundation project 08-06](https://watereuse.org/watereuse-research/08-06-evaluation-of-alternatives-to-domestic-ion-exchange-water-softeners/). Nothing here comes from physical testing. Prices checked 1 October 2026 at SpringWell's own store; its Amazon listings showed "Currently unavailable" that day. Check the current price before buying.
+> **How this review was put together.** Specs and limits are from SpringWell's FutureSoft product page and the [FS1/FS4 installation instructions](https://www.springwellwater.com/wp-content/uploads/2020/01/FS1_FS4-Installation-Instructions.pdf); warranty wording is quoted from SpringWell's [warranty page](https://www.springwellwater.com/warranty/). The independent benchmark is [WateReuse Research Foundation project 08-06](https://watereuse.org/watereuse-research/08-06-evaluation-of-alternatives-to-domestic-ion-exchange-water-softeners/). Nothing here comes from physical testing. **Prices are not listed here** because they change often; check the current price on SpringWell's own store. Its Amazon listings showed "Currently unavailable" on 1 October 2026.
 
 ## SpringWell FutureSoft Review: The Short Version
 
@@ -42,7 +42,7 @@ Whether FutureSoft suits your home comes down to its limits more than its claim.
 | Hardness limit | 81 gpg |
 | Zero-tolerance list | Iron, manganese, copper, oil, hydrogen sulfide |
 | Media life | "5+ year lifespan" |
-| Price direct | FS1 about $1,785; FS4 about $1,964; FS+ about $2,321 |
+| Sizes | FS1, FS4 and FS+, sold direct |
 | Warranty | Lifetime against defects; wear and out-of-spec water excluded |
 
 **Good fit:** city water, moderately hard, chlorinated within normal limits, in a home that cannot take a drain line or wants to avoid added sodium and salt bags, and whose main worry is scale in the water heater and pipes.
@@ -108,7 +108,6 @@ In practice: on city water, FutureSoft's limits are usually met. On a private we
 | Tank | 6 x 35 in (39 in with head) | 9 x 48 in (52 in with head) | 13 x 54 in (58 in with head) |
 | Service flow | 12 gpm | 15 gpm | 20 gpm |
 | Flow direction | Upflow | Upflow | Upflow |
-| Price direct, 1 Oct 2026 | about $1,785 (list $2,100) | about $1,964 (list $2,310) | about $2,321 (list $2,730) |
 
 In the box: the conditioner tank, a pre-filter housing with mounting bracket, a sediment cartridge, a spanner wrench, a gasket and lubricant, MNPT fittings and a hose bib assembly. The bypass valve is sold separately on the FS1 and FS4.
 
@@ -154,18 +153,18 @@ That covers defects. It does not cover:
 
 The "6-month money-back guarantee" badge is, in SpringWell's returns policy, a returns window for **uninstalled** products in undamaged packaging, less a 10% restocking fee and both-way shipping. Installed systems get a 6-month "Performance Promise" of troubleshooting and parts, with refunds only for units SpringWell finds defective. Read that before treating the guarantee as a trial period.
 
-## Price, Combos and Amazon Availability
+## Combos and Amazon Availability
 
-| Option | Direct price, 1 Oct 2026 |
+| Option | Sizes sold direct |
 |---|---|
-| FutureSoft FS1 / FS4 / FS+ | about $1,785 / $1,964 / $2,321 |
-| City water filter + FutureSoft combo (CSF1 / CSF4 / CSF+) | about $2,321 / $2,588 / $4,016 |
-| Well water filter + FutureSoft combo (WSSF-1 / WSSF-4) | about $3,213 / $3,749 |
+| FutureSoft on its own | FS1 / FS4 / FS+ |
+| City water filter + FutureSoft combo | CSF1 / CSF4 / CSF+ |
+| Well water filter + FutureSoft combo | WSSF-1 / WSSF-4 |
 
-SpringWell has Amazon listings for the FutureSoft FS1 and for its well water filter plus FutureSoft combo, but both showed "Currently unavailable" when checked on 1 October 2026, with no offer to buy. For now, buy direct from SpringWell at the prices in the table above:
+SpringWell has Amazon listings for the FutureSoft FS1 and for its well water filter plus FutureSoft combo, but both showed "Currently unavailable" when checked on 1 October 2026, with no offer to buy. For now, buy direct from SpringWell and check the current price there:
 
-- **SpringWell FutureSoft salt-free water softener, 1 to 3 bathrooms (FS1).** About $1,785 direct.
-- **SpringWell whole-house well water filter and salt-free conditioner combo.** An iron, sulfur and manganese filter ahead of FutureSoft, which is the configuration SpringWell's own limits call for on most wells. From about $3,213 direct.
+- **SpringWell FutureSoft salt-free water softener, 1 to 3 bathrooms (FS1).** Sold direct.
+- **SpringWell whole-house well water filter and salt-free conditioner combo.** An iron, sulfur and manganese filter ahead of FutureSoft, which is the configuration SpringWell's own limits call for on most wells. Sold direct, at a higher price than FutureSoft alone.
 
 If the Amazon listings come back, check which returns policy applies there. Registration with SpringWell is required for the warranty either way.
 

@@ -29,12 +29,12 @@ A softener has a supply connection, a bypass, a pressurised drain line, a brine 
 
 ## How We Chose
 
-> **Methodology.** Nothing on this page was physically tested. Each system was compared from the maker's product pages and Amazon listings on what it detects, whether it shuts the water off, what it needs to work, and what it costs to own.
+> **Methodology.** Nothing on this page was physically tested. Each system was compared from the maker's product pages and Amazon listings on what it detects, whether it shuts the water off, what it needs to work, and what it takes to own.
 >
-> - **Included:** leak protection that can shut off the water automatically, sold on Amazon.com at a normal price above $100.
+> - **Included:** leak protection that can shut off the water automatically, sold on Amazon.com.
 > - **Ranked on:** which softener leaks it catches, whether it works without the internet, subscription terms and install effort.
-> - **Excluded:** LeakSmart, whose app and hub stopped working when the brand shut down in 2024; alarm-only sensors, which sell under $100 and are covered below as an add-on, not a pick.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our check, so prices come from the makers, as given for each pick.
+> - **Excluded:** LeakSmart, whose app and hub stopped working when the brand shut down in 2024; alarm-only sensors, which do not shut the water off and are covered below as an add-on, not a pick.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## What Actually Leaks on a Softener
 
@@ -51,11 +51,11 @@ The slow ones do the expensive damage. Washington State's insurance regulator no
 
 ## Alarm-Only Sensors vs Automatic Shutoffs
 
-| Type | What it does | Catches | Misses | Approx. cost |
-|---|---|---|---|---|
-| **Alarm-only floor sensor** | Beeps or sends an app alert when wet | Water that reaches the sensor | Everything if nobody hears it; water keeps running | Under $100 each, so not a pick here |
-| **Sensor-triggered shutoff** (Guardian by Elexa) | Closes your existing main valve when a sensor gets wet | Water that reaches a sensor | Leaks away from any sensor, such as inside a wall | About $199 for the starter kit |
-| **Flow-monitoring shutoff** (Moen Flo, Phyn) | Watches flow and pressure on the main; closes on abnormal flow; runs a leak test | Any leak after the valve, including drips and hidden ones | Needs power and Wi-Fi for full function; learns your patterns first | About $499 to $580 |
+| Type | What it does | Catches | Misses |
+|---|---|---|---|
+| **Alarm-only floor sensor** | Beeps or sends an app alert when wet | Water that reaches the sensor | Everything if nobody hears it; water keeps running |
+| **Sensor-triggered shutoff** (Guardian by Elexa) | Closes your existing main valve when a sensor gets wet | Water that reaches a sensor | Leaks away from any sensor, such as inside a wall |
+| **Flow-monitoring shutoff** (Moen Flo, Phyn) | Watches flow and pressure on the main; closes on abnormal flow; runs a leak test | Any leak after the valve, including drips and hidden ones | Needs power and Wi-Fi for full function; learns your patterns first |
 
 An alarm is the right add-on, not the whole answer. If the softener drain line blows out at 2 a.m. while you sleep two floors up, or while you are away, an alarm only tells you about the water afterwards. A shutoff stops it.
 
@@ -63,11 +63,11 @@ An alarm is the right add-on, not the whole answer. If the softener drain line b
 
 ## The Best Leak Detectors for Water Softeners, Pick by Pick
 
-| Pick | Type | Install | Works without internet? | Subscription | Approx. price | Amazon |
-|---|---|---|---|---|---|---|
-| Moen Flo Smart Water Shutoff | Flow-monitoring shutoff | Cut into the main | Shutoff needs power; app needs Wi-Fi | Optional FloProtect | from about $499 (Moen) | [3/4" B00C03D01Q](https://www.amazon.com/dp/B00C03D01Q) / [1" B081HT5LD6](https://www.amazon.com/dp/B081HT5LD6) |
-| Guardian by Elexa kit | Sensor-triggered shutoff | Clamps on an existing ball valve | Yes, per Guardian | None | about $199 (Guardian) | [B07LFQFWX2](https://www.amazon.com/dp/B07LFQFWX2) |
-| Phyn Plus 2nd Gen (now Phyn Protect) | Flow-monitoring shutoff | Cut into the main | Wi-Fi required at install | Not stated on the product page | $579.99 (Phyn) | [B0DZ9SBCPX](https://www.amazon.com/dp/B0DZ9SBCPX) |
+| Pick | Type | Install | Works without internet? | Subscription | Amazon |
+|---|---|---|---|---|---|
+| Moen Flo Smart Water Shutoff | Flow-monitoring shutoff | Cut into the main | Shutoff needs power; app needs Wi-Fi | Optional FloProtect | 3/4": [Check price on Amazon](https://www.amazon.com/dp/B00C03D01Q) / 1": [Check price on Amazon](https://www.amazon.com/dp/B081HT5LD6) |
+| Guardian by Elexa kit | Sensor-triggered shutoff | Clamps on an existing ball valve | Yes, per Guardian | None | [Check price on Amazon](https://www.amazon.com/dp/B07LFQFWX2) |
+| Phyn Plus 2nd Gen (now Phyn Protect) | Flow-monitoring shutoff | Cut into the main | Wi-Fi required at install | Not stated on the product page | [Check price on Amazon](https://www.amazon.com/dp/B0DZ9SBCPX) |
 
 ### Moen Flo Smart Water Shutoff: best whole-house protection
 
@@ -75,7 +75,10 @@ An alarm is the right add-on, not the whole answer. If the softener drain line b
 - **Sizes:** 3/4 inch and 1 inch listings on Amazon, among others. Size it to your main, not smaller.
 - **Install:** a plumber cuts it into the main. Moen asks for an AC outlet within 10 feet, or offers a 25-foot extension cable.
 - **Subscription:** optional. Moen's page describes a FloProtect plan with deductible coverage of up to $5,000 and an extended limited warranty.
-- **Price:** Moen lists the Flo from about $499 depending on size, as checked on 1 October 2026. We could not see a price on the Moen page on 2 October. [3/4 inch on Amazon (B00C03D01Q)](https://www.amazon.com/dp/B00C03D01Q) or [1 inch on Amazon (B081HT5LD6)](https://www.amazon.com/dp/B081HT5LD6)
+
+**3/4 inch:** [Check price on Amazon](https://www.amazon.com/dp/B00C03D01Q)
+
+**1 inch:** [Check price on Amazon](https://www.amazon.com/dp/B081HT5LD6)
 
 This is the one to buy if you want protection for the whole house, not just the spots where you put sensors. It sees a weeping softener fitting through its daily test even if the drops never reach the floor. It also gives you a water-use log, which shows what your softener's regeneration actually uses.
 
@@ -86,7 +89,8 @@ This is the one to buy if you want protection for the whole house, not just the 
 - **What it does:** a motorised controller clamps onto the quarter-turn ball valve already on your main, and wireless sensors sit on the floor. When a sensor gets wet, the controller turns the valve off.
 - **Install:** no pipe cutting, per the Amazon listing title ("No Tools or Invasive Plumbing Required"). Guardian describes the controller as fitting ball valves from 1/2 to 1-1/4 inch.
 - **Works offline:** Guardian says the valve closes without the internet and charges no monthly fee. It also offers an optional battery backup.
-- **Price:** about $199 for the starter kit from Guardian, as checked on 1 October 2026. Guardian's site did not load for our check on 2 October. [See it on Amazon (B07LFQFWX2)](https://www.amazon.com/dp/B07LFQFWX2)
+
+[Check price on Amazon](https://www.amazon.com/dp/B07LFQFWX2)
 
 The local shutoff is the reason this kit is here. After LeakSmart's cloud shut down, a system that keeps working whatever happens to the company is worth a lot. Its limit is that it only reacts to water that reaches a sensor, so placement decides how well it works. Use every sensor in the kit, starting with the spots in the plan below.
 
@@ -97,7 +101,9 @@ The local shutoff is the reason this kit is here. After LeakSmart's cloud shut d
 - **What it does:** an automatic shutoff that learns normal flow and closes during abnormal flow after its initial learning period, with remote shutoff from the app. A Plumbing Check feature runs with the main off and looks for hidden flaws such as poor seals and pinhole leaks, per the [Phyn Protect product page](https://www.phyn.com/products/phyn-protect).
 - **Install:** on main lines 1-1/4 inch or smaller, with 1 inch NPSM threaded ends; adapters sold separately. Wi-Fi is required at the install point, and a power outlet within 12 feet.
 - **Insurance:** Phyn's site says eligible users may save up to 15 percent on insurance premiums. That is Phyn's claim; confirm with your insurer.
-- **Price:** $579.99 at Phyn's store, where the product is now called Phyn Protect. The Amazon listing is still titled "Plus Smart Water Assistant & Shutoff (2nd Gen)". Its availability was not shown to our check, and it showed as unavailable on 1 October 2026, so check before relying on Amazon. [See it on Amazon (B0DZ9SBCPX)](https://www.amazon.com/dp/B0DZ9SBCPX)
+- **Amazon listing:** Phyn's own store now calls the product Phyn Protect, but the Amazon listing is still titled "Plus Smart Water Assistant & Shutoff (2nd Gen)". Its availability was not shown to our check, and it showed as unavailable on 1 October 2026, so check before relying on Amazon.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0DZ9SBCPX)
 
 **Wrong for:** buyers who want an Amazon purchase today, and homes without Wi-Fi at the main.
 

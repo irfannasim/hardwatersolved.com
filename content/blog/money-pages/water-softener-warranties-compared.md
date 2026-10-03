@@ -31,7 +31,7 @@ faqs:
 >
 > - **Included:** the salt-based softener brands the site has reviewed, plus EcoPure, the Whirlpool licensee's own brand.
 > - **Excluded:** Pelican, whose softener warranty text could not be captured while the brand is in transition; Tier1, whose warranty we could not open from the brand's own site; and salt-free conditioners, which are summarised separately at the end.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Where Amazon would not show a price, the price given is from the seller's own store or a named retailer.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Master Table: Water Softener Warranties Compared
 
@@ -138,17 +138,17 @@ If you might sell within the warranty term, only Kinetico's cover is an asset yo
 
 Dealer brands (Culligan, Kinetico, EcoWater, RainSoft, Hague, Rheem) are not sold on Amazon. The online and big-box brands in the table, with their status on 1 and 2 October 2026:
 
-| Product | Amazon | Price, where checked | Warranty headline |
-|---|---|---|---|
-| [AFWFilters Fleck 5600SXT 48k, 10% resin](https://www.amazon.com/dp/B00YFOTWZG) | Listed | $785 on AFW's store, 2 Oct | 5-year head, 10-year tank |
-| [DuraWater Fleck 5600SXT 48k](https://www.amazon.com/dp/B00MYEV6VC) | Listed | Price not confirmed; a related DuraWater 48k listing showed $825 on 1 Oct | 5-year valve (listing) |
-| [Aquasure Harmony 48k](https://www.amazon.com/dp/B07F175C2R) | Listed | $629.99 on Aquasure's store, 2 Oct | 5 years if registered in 60 days |
-| [SoftPro Elite 48k](https://www.amazon.com/dp/B07KY5SPSJ) | Listed | $1,457 on SoftPro's store, 2 Oct | Lifetime tanks and valve, 7-year electronics |
-| SpringWell SS4 | Currently unavailable, 1 Oct | $1,785 on SpringWell's store, 2 Oct | Lifetime tanks, valves and heads; 7-year electronics |
-| WaterBoss 900 | Currently unavailable, 1 Oct | About $540 to $570 at Home Depot and Ace, 1 Oct | 5-year parts, 10-year tank and valve |
-| Whirlpool WHES40E and other models | WHES40E listing removed; others unavailable, 1 Oct | Whirlpool 48K $679.99 at Blain's Farm and Fleet, 2 Oct | 10-year tank, 3-year board |
-| [EcoPure EPH130](https://www.amazon.com/dp/B0GMYSW7MG) | Listed | About $699 on Amazon, 1 Oct | 1-year parts and labor (listing) |
-| [GE GXSH35W](https://www.amazon.com/dp/B0FWTXRMW6) | Listed | About $699 on Amazon, 1 Oct | 1 year full, 3-year monitor, 10-year tank |
+| Product | Warranty headline | Amazon |
+|---|---|---|
+| AFWFilters Fleck 5600SXT 48k, 10% resin | 5-year head, 10-year tank | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) |
+| DuraWater Fleck 5600SXT 48k | 5-year valve (listing) | [Check price on Amazon](https://www.amazon.com/dp/B00MYEV6VC) |
+| Aquasure Harmony 48k | 5 years if registered in 60 days | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| SoftPro Elite 48k | Lifetime tanks and valve, 7-year electronics | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
+| SpringWell SS4 | Lifetime tanks, valves and heads; 7-year electronics | Currently unavailable, 1 Oct |
+| WaterBoss 900 | 5-year parts, 10-year tank and valve | Currently unavailable, 1 Oct |
+| Whirlpool WHES40E and other models | 10-year tank, 3-year board | WHES40E listing removed; others unavailable, 1 Oct |
+| EcoPure EPH130 | 1-year parts and labor (listing) | [Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG) |
+| GE GXSH35W | 1 year full, 3-year monitor, 10-year tank | [Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6) |
 
 If you buy through Amazon, confirm with the brand that its own warranty applies to that order, and register directly with the brand.
 

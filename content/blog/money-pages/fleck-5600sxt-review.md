@@ -18,9 +18,9 @@ faqs:
   - question: "How long does a Fleck 5600SXT valve last?"
     answer: "Pentair does not publish a design life for the valve. The parts that wear, the piston, seals and spacers, are inexpensive and widely sold, and replacing them restores the valve, so its life depends more on service than on age. Seller warranties on the valve are typically five years, with tanks often covered for ten."
   - question: "Should I buy 10% crosslink resin with a Fleck 5600SXT?"
-    answer: "If you are on chlorinated or chloraminated city water, yes. 10% crosslink resin resists chlorine damage noticeably longer than standard 8% resin, and on AFWFilters' store the upgrade costs about $10 on a 48,000-grain system. On a well with no chlorine, standard resin is fine, and fine-mesh resin is the better upgrade if there is dissolved iron."
+    answer: "If you are on chlorinated or chloraminated city water, yes. 10% crosslink resin resists chlorine damage noticeably longer than standard 8% resin, and on AFWFilters' store the upgrade adds only a little to the price of a 48,000-grain system. On a well with no chlorine, standard resin is fine, and fine-mesh resin is the better upgrade if there is dissolved iron."
   - question: "Can I buy just the Fleck 5600SXT head to replace an old valve?"
-    answer: "Yes. Metered softener heads are sold on their own for about $360 at specialist retailers. You also need a bypass or yoke, and the injector and drain flow control must match your tank diameter, which Pentair's manual lists by tank size. If the old valve is a Fleck 5600, a seal and spacer kit may fix it for a fraction of that cost."
+    answer: "Yes. Metered softener heads are sold on their own at specialist retailers and on Amazon. You also need a bypass or yoke, and the injector and drain flow control must match your tank diameter, which Pentair's manual lists by tank size. If the old valve is a Fleck 5600, a seal and spacer kit may fix it for much less than a new head."
 ---
 
 **The Fleck 5600SXT is one of the best-supported softener control valves you can buy, but "Fleck 5600SXT" on a listing tells you about the valve, not the softener.** Pentair makes the valve. A seller adds the resin, the mineral tank, the brine tank, the bypass and the warranty. Two "48,000-grain Fleck 5600SXT" softeners can ship with different resin grades, different brine tanks and different support. Buy the valve for its parts availability and simple programming. Choose the seller on resin grade, tank size and warranty.
@@ -29,7 +29,7 @@ This Fleck 5600SXT review splits those two questions. The valve is rated from Pe
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this review was put together.** Valve specifications from Pentair's [Fleck 5600SXT downflow service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf) and [5600SXT technical sheet](https://pentair.eu/sites/default/files/collaterals/technical_sheet_5600_sxt_en.pdf). System contents from each seller's Amazon listing; prices from the AFWFilters store and Servapure, because the Amazon pages did not display prices when checked. Capacity is compared at a stated salt dose. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **How this review was put together.** Valve specifications from Pentair's [Fleck 5600SXT downflow service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf) and [5600SXT technical sheet](https://pentair.eu/sites/default/files/collaterals/technical_sheet_5600_sxt_en.pdf). System contents from each seller's Amazon listing. Capacity is compared at a stated salt dose. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Fleck 5600SXT Review: The Valve on Its Own
 
@@ -51,7 +51,7 @@ The 5600SXT is a 3/4-inch piston valve with an electronic SXT controller. In a s
 
 ### What the valve does well
 
-**Parts are everywhere.** The 5600 has been in production for decades, and every specialist supplier sells its seal and spacer kits, pistons, injectors, meters and SXT boards. A seal kit costs tens of dollars, not hundreds. That is the single biggest reason to choose it. How these parts wear and how a rebuild is done is covered in [servicing a water softener control valve](/blog/servicing-a-water-softener-control-valve/).
+**Parts are everywhere.** The 5600 has been in production for decades, and every specialist supplier sells its seal and spacer kits, pistons, injectors, meters and SXT boards. A seal kit is a small expense next to a new valve. That is the single biggest reason to choose it. How these parts wear and how a rebuild is done is covered in [servicing a water softener control valve](/blog/servicing-a-water-softener-control-valve/).
 
 **Programming is fully exposed.** Capacity, hardness, reserve, day override, regeneration time and each cycle's length are all set from the front keypad. That matters, because the factory capacity setting is usually the box rating and needs lowering for an efficient salt dose. How the valve uses those numbers is explained in [how a water softener control valve works](/blog/how-a-water-softener-control-valve-works/).
 
@@ -71,7 +71,7 @@ Here is what four Amazon listings for complete 5600SXT softeners say ships in th
 
 | | DuraWater 48k | AFWFilters 48k | AFWFilters 48k, 10% resin | 64k "high flow" |
 |---|---|---|---|---|
-| Amazon listing | [B00MYEV6VC](https://www.amazon.com/dp/B00MYEV6VC) | [B00OGN3162](https://www.amazon.com/dp/B00OGN3162) | [B00YFOTWZG](https://www.amazon.com/dp/B00YFOTWZG) | [B004GET6Z6](https://www.amazon.com/dp/B004GET6Z6) |
+| Amazon listing | [Check price on Amazon](https://www.amazon.com/dp/B00MYEV6VC) | [Check price on Amazon](https://www.amazon.com/dp/B00OGN3162) | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) | [Check price on Amazon](https://www.amazon.com/dp/B004GET6Z6) |
 | Valve | 5600SXT metered | 5600SXT metered | 5600SXT | 5600SXT metered |
 | Resin volume | 1.5 cu ft | 1.5 cu ft (AFW store) | 1.5 cu ft | 2.0 cu ft |
 | Resin grade | "High capacity," grade not stated | 8% high capacity (AFW store) | 10% crosslink | Not stated |
@@ -79,11 +79,10 @@ Here is what four Amazon listings for complete 5600SXT softeners say ships in th
 | Brine tank | 14 x 36 in, safety float | 15 x 34 in, safety float | 14 x 36 in, 250 lb salt | 18 x 33 in round |
 | Bypass / connection | 1 in plastic bypass | Bypass with 1 in threaded yoke | Bypass, 1 in NPT | Bypass included |
 | Warranty stated | 5-year valve (listing) | 5-year valve, 10-year tank (AFW standard) | 5-year valve, 10-year tank (AFW standard) | 5-year head, 10-year tank |
-| Price, 1 Oct 2026 | Not shown on Amazon or DuraWater's site | about $775 (AFW store) | about $785 (AFW store) | comparable AFW 64k about $879 |
 
 What the table shows:
 
-1. **The resin grade is the biggest real difference, and the one most often missing.** On chlorinated city water, 10% crosslink resin lasts noticeably longer. On AFWFilters' own store, the upgrade from 8% to 10% on a 48,000-grain system costs about $10. If a listing does not state the grade, assume standard. The trade-off is set out in [standard vs chlorine-resistant softener resin](/blog/standard-vs-chlorine-resistant-softener-resin/).
+1. **The resin grade is the biggest real difference, and the one most often missing.** On chlorinated city water, 10% crosslink resin lasts noticeably longer. On AFWFilters' own store, the upgrade from 8% to 10% on a 48,000-grain system adds only a little to the price. If a listing does not state the grade, assume standard. The trade-off is set out in [standard vs chlorine-resistant softener resin](/blog/standard-vs-chlorine-resistant-softener-resin/).
 2. **Tank geometry changes the set-up.** The 64,000-grain listing uses a 12-inch tank. Pentair's manual specifies a different injector for 12-inch tanks than for 10-inch ones. A reputable seller ships the valve configured for the tank. Check the injector colour against the manual if you are ever unsure.
 3. **Brine tank size changes how often you add salt.** An 18 x 33 round tank holds more salt than a 14 x 36, which matters on hard water.
 4. **The warranty is the seller's, not Pentair's.** Who honours it, and how quickly, is part of what you are buying.
@@ -123,7 +122,9 @@ Get these two numbers to agree and the 5600SXT runs efficiently. Leave the capac
 
 If you already have a working tank and resin, the head can be bought alone.
 
-**Fleck 5600SXT metered replacement softener valve** ([Amazon](https://www.amazon.com/dp/B004N8ADBQ)). The listing describes a digital, metered, on-demand softener head with a turbine meter and cable, a five-year manufacturer warranty, and notes that a yoke or bypass is sold separately. The Amazon page did not show a price when checked; Servapure lists the same type of metered softener head at about $360.
+**Fleck 5600SXT metered replacement softener valve.** The listing describes a digital, metered, on-demand softener head with a turbine meter and cable, a five-year manufacturer warranty, and notes that a yoke or bypass is sold separately.
+
+[Check price on Amazon](https://www.amazon.com/dp/B004N8ADBQ)
 
 Before replacing a head, consider a rebuild. If the old valve is a 5600 and the problem is leaking to drain, a failure to draw brine, or a stuck cycle, a seal and spacer kit or a new injector usually fixes it for much less. A new head also needs the right injector and drain flow control for your tank diameter.
 
@@ -131,7 +132,7 @@ Before replacing a head, consider a rebuild. If the old valve is a 5600 and the 
 
 | Your water | Pick |
 |---|---|
-| City water, chlorinated | 1.5 cu ft with 10% crosslink resin (AFWFilters B00YFOTWZG type) |
+| City water, chlorinated | 1.5 cu ft with 10% crosslink resin (like the AFWFilters 48k 10% resin system) |
 | City water, chloramine | 10% resin at minimum; consider a carbon stage ahead |
 | Well water, hardness only | Standard 1.5 or 2.0 cu ft system |
 | Well water with low dissolved iron | A fine-mesh resin version of the same valve; standard resin is not the right choice |

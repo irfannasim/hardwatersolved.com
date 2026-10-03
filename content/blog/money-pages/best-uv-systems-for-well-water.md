@@ -2,7 +2,7 @@
 title: "Best UV Systems for Well Water, and the Pretreatment Each One Needs"
 seoTitle: "Best UV Systems for Well Water: 3 Picks and What Comes First"
 seoDescription: "The best UV systems for well water only work on clear water, so iron, hardness and sediment go first. Whole-house UV picks and the pretreatment each needs."
-excerpt: "A UV system disinfects only the water its light can reach, so the stages ahead of it decide whether it works. This guide sets each whole-house pick's flow at a stated UV dose, quotes the water quality limits from the maker's manual, checks each model against NSF's Standard 55 listing, and works out the lamp, sleeve and power cost per year."
+excerpt: "A UV system disinfects only the water its light can reach, so the stages ahead of it decide whether it works. This guide sets each whole-house pick's flow at a stated UV dose, quotes the water quality limits from the maker's manual, checks each model against NSF's Standard 55 listing, and lists the lamp, sleeve and power each one needs per year."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -10,7 +10,7 @@ featuredImage: "https://images.pexels.com/photos/36854312/pexels-photo-36854312.
 ogImageAlt: "Gloved hand filling a glass test tube with a clear water sample, a lab bacteria test that should come before choosing a UV system for a private well"
 faqs:
   - question: "What is the best UV system for well water?"
-    answer: "For most homes, the VIQUA VH410M. It treats 14 gpm at 40 mJ/cm² and adds a UV intensity sensor that warns when the sleeve or lamp needs attention. The VH410 is the same chamber and lamp without the sensor, for about $430 less. Either needs prepared water: VIQUA's manual asks for iron under 0.3 ppm, hardness under 7 gpg and turbidity under 1 NTU, with a 5 micron filter ahead of the chamber."
+    answer: "For most homes, the VIQUA VH410M. It treats 14 gpm at 40 mJ/cm² and adds a UV intensity sensor that warns when the sleeve or lamp needs attention. The VH410 is the same chamber and lamp without the sensor, for less money. Either needs prepared water: VIQUA's manual asks for iron under 0.3 ppm, hardness under 7 gpg and turbidity under 1 NTU, with a 5 micron filter ahead of the chamber."
   - question: "Does a UV system go before or after a water softener?"
     answer: "After. UV should be the last whole-house stage. VIQUA's manual says that if hardness is over 7 gpg the water should be softened, and that the UV should be the final piece of treatment equipment. Scale on the quartz sleeve blocks the light, and media beds after a UV can grow bacteria again."
   - question: "How often do you replace a UV lamp on a well system?"
@@ -23,28 +23,28 @@ faqs:
     answer: "It stops disinfecting. Water passing through an unpowered UV is untreated. VIQUA tells owners not to use water for at least 5 minutes after power returns, and to disinfect the plumbing after the UV whenever it has been off. A solenoid valve on a monitored system can stop flow when UV output is too low."
 ---
 
-The **best UV systems for well water** are the VIQUA VH410M, with a UV sensor, at about $1,310, and the VIQUA VH410 without it at about $880. Both treat 14 gpm at the 40 mJ/cm² dose NSF and EPA use. The iSpring UVF55FS, a 12 gpm unit, is a budget option with no published dose. Any of them only works on water that is already clear. VIQUA's manual sets the limits at the UV: iron under 0.3 ppm, manganese under 0.05 ppm, hardness under 7 gpg, turbidity under 1 NTU and UV transmittance above 75%. It also requires a 5 micron filter in front. On most wells that means the UV comes last, after an iron filter, a softener and a sediment filter.
+The **best UV systems for well water** are the VIQUA VH410M, with a UV sensor, and the lower-cost VIQUA VH410 without it. Both treat 14 gpm at the 40 mJ/cm² dose NSF and EPA use. The iSpring UVF55FS, a 12 gpm unit, is a budget option with no published dose. Any of them only works on water that is already clear. VIQUA's manual sets the limits at the UV: iron under 0.3 ppm, manganese under 0.05 ppm, hardness under 7 gpg, turbidity under 1 NTU and UV transmittance above 75%. It also requires a 5 micron filter in front. On most wells that means the UV comes last, after an iron filter, a softener and a sediment filter.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
 ## Best UV Systems for Well Water at a Glance
 
-| Pick | Flow at 40 mJ/cm² | Flow at 30 mJ/cm² | UV sensor | NSF/ANSI 55 listing | Lamp per year | Approx. price |
-|---|---|---|---|---|---|---|
-| [VIQUA VH410M](https://www.amazon.com/dp/B00LQK8Y06) | 14 gpm | 18 gpm | Yes | VH410M-V version: Class B | from $160 | about $1,310 |
-| [VIQUA VH410](https://www.amazon.com/dp/B0054RB5HG) | 14 gpm | 18 gpm | No (lamp timer and alarm) | VH410-V version: Class B | from $160 | about $880 |
-| [iSpring UVF55FS](https://www.amazon.com/dp/B08HW1VRJC) | not stated | not stated | No (flow sensor) | Not listed | not priced | about $308 to $339 (not reconfirmed) |
+| Pick | Flow at 40 mJ/cm² | Flow at 30 mJ/cm² | UV sensor | NSF/ANSI 55 listing | Amazon |
+|---|---|---|---|---|---|
+| VIQUA VH410M | 14 gpm | 18 gpm | Yes | VH410M-V version: Class B | [Check price on Amazon](https://www.amazon.com/dp/B00LQK8Y06) |
+| VIQUA VH410 | 14 gpm | 18 gpm | No (lamp timer and alarm) | VH410-V version: Class B | [Check price on Amazon](https://www.amazon.com/dp/B0054RB5HG) |
+| iSpring UVF55FS | not stated | not stated | No (flow sensor) | Not listed | [Check price on Amazon](https://www.amazon.com/dp/B08HW1VRJC) |
 
 *VIQUA flows are at 95% UV transmittance at end of lamp life, from the VH410 spec sheet.*
 
 ## How These UV Systems Were Chosen
 
-> **Method.** Nothing on this page was physically tested by us. Each system is compared on its flow at a stated UV dose, the water quality limits in its owner's manual, its standing on NSF's Standard 55 listing, and a yearly running cost from dated replacement prices.
+> **Method.** Nothing on this page was physically tested by us. Each system is compared on its flow at a stated UV dose, the water quality limits in its owner's manual, its standing on NSF's Standard 55 listing, and the replacement parts and power it needs each year.
 >
-> - **Included:** whole-house (point-of-entry) UV systems sold on Amazon at a normal price of $100 or more, with a manual or spec sheet we could read.
+> - **Included:** whole-house (point-of-entry) UV systems sold on Amazon, with a manual or spec sheet we could read.
 > - **Certification check:** we read [NSF's Standard 55 listing](https://info.nsf.org/Certified/DWTU/Listings.asp?Standard=055) on 2 October 2026. A dealer's "NSF 55" claim is not enough, because certification often applies only to a variant with a different suffix.
-> - **Excluded:** the VIQUA IHS22-D4, discontinued on 30 November 2023, and budget 12 gpm UV units with no published dose, no NSF listing and no price we could confirm.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** VIQUA prices are from Fresh Water Systems, which listed the VH410M as backordered and the VH410 as very low stock. We could not reconfirm the iSpring price; the range shown is from retailer listings in our 29 September research.
+> - **Excluded:** the VIQUA IHS22-D4, discontinued on 30 November 2023, and budget 12 gpm UV units with no published dose and no NSF listing.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 How UV fits with the rest of a well system, including a softener's role ahead of it, is covered in [water softener for well water](/blog/water-softener-for-well-water/).
 
@@ -101,7 +101,7 @@ VIQUA's own manual agrees. Its VH-series dose charts are marked "Not performance
 What this means for buying:
 
 - **If the well has never tested positive for bacteria** and you want a safeguard, a VH410 or VH410M is a sound choice. Size it on its 40 mJ/cm² flow.
-- **If the well has tested positive,** the certified choice is a Class A system. VIQUA's PRO series is on the listing as Class A. We could not confirm a PRO model on Amazon at a checkable price, so it is not ranked here. Ask a dealer for the exact model number on NSF's listing.
+- **If the well has tested positive,** the certified choice is a Class A system. VIQUA's PRO series is on the listing as Class A. We could not confirm a PRO model on Amazon, so it is not ranked here. Ask a dealer for the exact model number on NSF's listing.
 
 ## The Picks
 
@@ -111,7 +111,8 @@ What this means for buying:
 - **Monitoring:** UV intensity sensor (part 254NM-C1) with a continuous readout; an optional solenoid valve can stop flow when UV output falls below the set level
 - **Chamber:** 304 stainless steel, 23.5 x 3.5 in, ¾-inch FNPT / 1-inch MNPT combination ports, 60 W, 15 to 125 psi
 - **Warranty (manual):** 10 years on the chamber, 3 years on electrical and hardware, 1 year on lamps, sleeves and UV sensors
-- **Price:** about $1,310 at Fresh Water Systems, listed as backordered. [See it on Amazon (B00LQK8Y06)](https://www.amazon.com/dp/B00LQK8Y06)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00LQK8Y06)
 
 The sensor is the reason to pay more. A lamp timer tells you when a year has passed. A sensor tells you when the light reaching the water has dropped, which is what happens when a sleeve scales up or iron gets past a filter. On a well, where pretreatment can slip as the water changes, that warning is worth having.
 
@@ -122,9 +123,10 @@ The sensor is the reason to pay more. A lamp timer tells you when a year has pas
 - **Flow and chamber:** the same as the VH410M
 - **Controller:** visual lamp-life countdown, audible lamp failure alarm and replacement reminder; no UV sensor
 - **Warranty (manual):** the same 10, 3 and 1 year terms
-- **Price:** about $880 at Fresh Water Systems, listed as very low stock. [See it on Amazon (B0054RB5HG)](https://www.amazon.com/dp/B0054RB5HG)
 
-It is the same disinfection hardware for about $430 less. You give up the warning when output falls, so the routine matters more: replace the lamp every year, inspect and clean the sleeve, and keep the pretreatment maintained.
+[Check price on Amazon](https://www.amazon.com/dp/B0054RB5HG)
+
+It is the same disinfection hardware for less money. You give up the warning when output falls, so the routine matters more: replace the lamp every year, inspect and clean the sleeve, and keep the pretreatment maintained.
 
 **Wrong for:** owners who will not keep a maintenance calendar. Without a sensor, a coated sleeve gives no sign until a bacteria test comes back positive.
 
@@ -133,9 +135,10 @@ It is the same disinfection hardware for about $430 less. You give up the warnin
 - **Listed specs:** 12 gpm, 55 W lamp, 1-inch MNPT connections, with a flow sensor and automatic on/off switch, per its Amazon listing
 - **Dose:** no UV dose or transmittance basis that we could find
 - **NSF:** not on the Standard 55 listing
-- **Price:** about $308 to $339 in retailer listings during our 29 September research; not reconfirmed on 2 October. [See it on Amazon (B08HW1VRJC)](https://www.amazon.com/dp/B08HW1VRJC)
 
-It is a third of the price of the VH410, and for a small household on a well with no bacteria history it may be all that is wanted. The trade is information. Without a stated dose, there is no way to know what 12 gpm delivers, or what it delivers at your water's transmittance.
+[Check price on Amazon](https://www.amazon.com/dp/B08HW1VRJC)
+
+It costs far less than the VH410, and for a small household on a well with no bacteria history it may be all that is wanted. The trade is information. Without a stated dose, there is no way to know what 12 gpm delivers, or what it delivers at your water's transmittance.
 
 **One question to ask before buying:** how long the lamp takes to reach full output after the flow switch turns it on. VIQUA tells owners not to pass water through its systems for at least 5 minutes after power is applied. A lamp that switches on only when water starts to flow may treat the first draw at reduced output. iSpring's answer decides whether the feature suits you.
 
@@ -154,20 +157,18 @@ A correctly sized UV can still leave water untreated if it is plumbed or wired c
 
 None of these costs much at installation. Most are expensive to fix afterwards, especially an outdoor line already teed off ahead of the chamber.
 
-## Lamp, Sleeve and Power: Cost per Year
+## Lamp, Sleeve and Power: What Each Year Takes
 
 | Item | VIQUA VH410 or VH410M | iSpring UVF55FS |
 |---|---|---|
-| Lamp | S410RL-HO, from $160 (Fresh Water Systems), every year | UVB55FS lamp; price not confirmed |
-| Lamp and sleeve together | QL-410 combo, $184 | not confirmed |
-| Sleeve alone | NP-QSO-410, $78, when it will not clean | not confirmed |
+| Lamp | S410RL-HO, every year | UVB55FS lamp; interval not confirmed |
+| Lamp and sleeve together | QL-410 combo | not confirmed |
+| Sleeve alone | NP-QSO-410, when it will not clean | not confirmed |
 | Power | 60 W continuous, about 526 kWh a year | 55 W lamp; less if the flow switch turns it off between draws |
-| Power cost at an assumed 17 cents per kWh | about $89 | up to about $82 |
-| **Typical year, VIQUA** | **about $249 (lamp + power), or about $273 with a new sleeve** | |
 
-*Substitute your own electricity rate. The power figure for VIQUA assumes the controller and lamp run all year, as they should.*
+*Multiply the kWh by your own electricity rate. The power figure for VIQUA assumes the controller and lamp run all year, as they should.*
 
-Over five years, a VH410 costs about $880 plus roughly $1,245 in lamps and power: about $2,125. A VH410M is about $2,555. The difference is the sensor, bought once.
+The VH410 and VH410M use the same lamp, sleeve and power, so their running costs match year after year. The difference between them is the sensor, bought once.
 
 ## When UV Is Not the Answer
 

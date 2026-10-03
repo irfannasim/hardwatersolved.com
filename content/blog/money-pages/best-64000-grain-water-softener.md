@@ -23,11 +23,13 @@ faqs:
     answer: "A fine-mesh model can handle some dissolved, clear-water iron. AFWFilters' Iron Pro 2 64k listing rates it for iron and manganese up to 6 ppm. Standard-resin 64k units are not designed for iron, and some warranties exclude resin damage from iron. Iron you can already see as rust, or levels above the rating, need an iron filter ahead of the softener."
 ---
 
-The **best 64,000 grain water softener** for most large households is a metered Fleck 5600SXT system with 2 cubic feet of resin, at about $879 from AFWFilters. If your well has dissolved iron, the fine-mesh AFWFilters Iron Pro 2 64k, at about $898, is the better choice. But a 64k only makes sense for the right household. At an efficient salt setting it delivers about 40,000 grains per cycle, so it suits roughly four people on 15 gpg water, three on 20 gpg or more, or six on 10 gpg. Below that it is oversized. On a well it also needs about 3 to 3.5 gpm of backwash flow, held for 20 minutes or more.
+The **best 64,000 grain water softener** for most large households is a metered Fleck 5600SXT system with 2 cubic feet of resin from AFWFilters. If your well has dissolved iron, the fine-mesh AFWFilters Iron Pro 2 64k is the better choice. But a 64k only makes sense for the right household. At an efficient salt setting it delivers about 40,000 grains per cycle, so it suits roughly four people on 15 gpg water, three on 20 gpg or more, or six on 10 gpg. Below that it is oversized. On a well it also needs about 3 to 3.5 gpm of backwash flow, held for 20 minutes or more.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How we chose.** Each pick is a complete whole-house system with about 2 cubic feet of resin, metered regeneration and a published warranty, sold on Amazon.com at a normal price above $100. We compared them at the same efficient salt dose, by tank size, the backwash flow that tank needs, resin type and warranty. Two plan candidates, a Fleck 7000SXT 64k and a Fleck 5800SXT 64k, were dropped because their Amazon listings showed as currently unavailable on 1 October 2026. Evidence comes from listings, brand stores, manuals and warranty terms. Nothing was physically tested. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying. Amazon's pages did not show prices to our checks, so prices are from each brand's own store.
+> **How we chose.** Each pick is a complete whole-house system with about 2 cubic feet of resin, metered regeneration and a published warranty, sold on Amazon.com. We compared them at the same efficient salt dose, by tank size, the backwash flow that tank needs, resin type and warranty. Two plan candidates, a Fleck 7000SXT 64k and a Fleck 5800SXT 64k, were dropped because their Amazon listings showed as currently unavailable on 1 October 2026. Evidence comes from listings, brand stores, manuals and warranty terms. Nothing was physically tested.
+>
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 >
 > **Who should buy none of these:** households below the thresholds in the next section, wells that cannot hold a 12-inch tank's backwash flow, and water with visible rust or iron above about 6 ppm.
 
@@ -77,18 +79,16 @@ On city water this is a non-issue. On a well, the pump has to deliver it for the
 
 ### 1. AFWFilters Fleck 5600SXT 64k: Best Overall
 
-[View on Amazon](https://www.amazon.com/dp/B004GET6Z6) · about $879 at AFW's store
-
 **Justified for:** four or more people at 15 gpg, or three at 20 gpg. **Well must hold:** about 3.5 gpm.
 
-The listing pairs the Fleck 5600SXT metered valve with 2 cubic feet of resin in a 12×48 tank, a round 18×33 brine tank and a bypass. Warranty is 5 years on the valve head and 10 on the tank. The 5600SXT is one of the most widely serviced residential valves in the US, which matters over a 15-year life. AFW also sells the same size with 10% crosslink resin for about $889, the better choice on chlorinated city water.
+The listing pairs the Fleck 5600SXT metered valve with 2 cubic feet of resin in a 12×48 tank, a round 18×33 brine tank and a bypass. Warranty is 5 years on the valve head and 10 on the tank. The 5600SXT is one of the most widely serviced residential valves in the US, which matters over a 15-year life. AFW also sells the same size with 10% crosslink resin, the better choice on chlorinated city water.
 
-- **Good:** serviceable valve, 12-inch bed for big-house flow, low price for the size.
+- **Good:** serviceable valve, 12-inch bed for big-house flow, good value for the size.
 - **Watch:** the listing's "up to 16 gpm" is above what design guidance allows for a 12-inch bed continuously. Program capacity from about 40,000 grains, not 64,000.
 
-### 2. AFWFilters Iron Pro 2 64k: Best for Well Water With Iron
+[Check price on Amazon](https://www.amazon.com/dp/B004GET6Z6)
 
-[View on Amazon](https://www.amazon.com/dp/B004LUJ6L4) · about $898 at AFW's store
+### 2. AFWFilters Iron Pro 2 64k: Best for Well Water With Iron
 
 **Justified for:** the same households as above, after adding about 4 gpg per 1 ppm of iron to your hardness. **Well must hold:** about 3.5 gpm, and more if an iron filter backwashes on the same night.
 
@@ -97,9 +97,9 @@ The Iron Pro 2 uses fine-mesh resin with the same Fleck 5600SXT valve. The listi
 - **Good:** handles clear-water iron and manganese in one tank, standard valve.
 - **Watch:** iron that has already oxidized, rust you can see, fouls any softener. Above the rating, or with iron bacteria, put an iron filter first.
 
-### 3. Aquasure Harmony 64k: Best Budget Pick
+[Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4)
 
-[View on Amazon](https://www.amazon.com/dp/B07F1W1JBD) · about $750 at Aquasure's store
+### 3. Aquasure Harmony 64k: Best Budget Pick
 
 **Justified for:** the same thresholds. **Well must hold:** about 3.5 gpm for a 12-inch tank, or 4 to 5 gpm if yours is 13-inch.
 
@@ -107,19 +107,21 @@ The Harmony uses Aquasure's own metered control head, and the listing sizes it f
 
 The warranty is 5 years on the valve, electronics and resin if you register within 60 days, and 2 years without registration. Tanks are covered for 10 years. Resin and internal valve parts are not covered when the softener is used to remove iron or manganese.
 
-- **Good:** lowest price for a 64k here, metered, 10-year tank warranty.
+- **Good:** usually the lowest-cost 64k here, metered, 10-year tank warranty.
 - **Watch:** proprietary valve, tank size to confirm, and the full warranty depends on registration.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07F1W1JBD)
 
 ### 4. SoftPro Elite 64k: Best for Very Hard Water and Low Salt Use
 
-[View on Amazon](https://www.amazon.com/dp/B07KY521BT) · about $1,587 at SoftPro's store
-
 **Justified for:** large households on very hard water, where the salt saving is biggest. **Well must hold:** SoftPro does not publish the tank size or backwash rate, so ask before buying for a weak well.
 
-The Elite brines upflow, which lets it run a lower salt dose without hardness breaking through. It uses 10% crosslink resin and carries the longest warranty here: lifetime on the valve and tanks, 7 years on electronics and a 10-year prorated resin warranty on city water. On a family of five at 25 gpg, an efficient upflow unit saves roughly 330 lb of salt a year against a standard metered softener at 9 lb per cubic foot, about $58 at $7 a bag. That is the household where its roughly $700 premium over the AFW unit comes closest to paying back.
+The Elite brines upflow, which lets it run a lower salt dose without hardness breaking through. It uses 10% crosslink resin and carries the longest warranty here: lifetime on the valve and tanks, 7 years on electronics and a 10-year prorated resin warranty on city water. On a family of five at 25 gpg, an efficient upflow unit saves roughly 330 lb of salt a year against a standard metered softener at 9 lb per cubic foot. That is the household where its price premium over the AFW unit comes closest to paying back.
 
 - **Good:** best salt efficiency, longest warranty, phone support.
 - **Watch:** price, unpublished tank size, and terms that favour clean city water. Its warranty conditions allow up to 2 ppm of iron, and the resin warranty covers city water only.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07KY521BT)
 
 ## Spec Comparison at the Same Salt Dose
 

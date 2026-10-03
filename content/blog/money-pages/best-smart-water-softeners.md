@@ -29,7 +29,7 @@ That split is also the honest answer to "which app features matter". Automatic l
 
 ## How These Picks Were Chosen
 
-> **Methodology.** Every pick is listed on Amazon.com, in stock or shipping, at a normal price above $100. We looked for app-connected softeners first, then for smart shutoffs that protect any softener. Each feature was classed as saving money, preventing damage, or convenience only, from maker listings and product pages. Nothing was physically tested. **Excluded:** products shown as unavailable on Amazon, monitors with no shutoff valve, salt-level sensors under $100, and brands whose cloud service has closed. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Methodology.** Every pick is listed on Amazon.com, in stock or shipping. We looked for app-connected softeners first, then for smart shutoffs that protect any softener. Each feature was classed as saving money, preventing damage, or convenience only, from maker listings and product pages. Nothing was physically tested. **Excluded:** products shown as unavailable on Amazon, monitors with no shutoff valve, add-on salt-level sensors, and brands whose cloud service has closed. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 What we found on Amazon on 1 October 2026:
 
@@ -61,7 +61,15 @@ Two lessons come out of the table.
 
 ## 1. Moen Flo Smart Water Shutoff: Best Whole-House Protection
 
-**Buy it on Amazon:** [Moen Flo Shutoff, 3/4"](https://www.amazon.com/dp/B00C03D01Q) or [Moen Flo, 1"](https://www.amazon.com/dp/B081HT5LD6). Both were in stock on Amazon. Moen lists the Flo from about $499, depending on size.
+**Buy it on Amazon:** the 3/4-inch and 1-inch Moen Flo are sold as separate listings, and both were in stock on Amazon. The price depends on size.
+
+3/4-inch Moen Flo Shutoff:
+
+[Check price on Amazon](https://www.amazon.com/dp/B00C03D01Q)
+
+1-inch Moen Flo:
+
+[Check price on Amazon](https://www.amazon.com/dp/B081HT5LD6)
 
 The Flo is a motorised valve that a plumber cuts into the main line. According to [Moen's Flo page](https://shop.moen.com/pages/flo-smart-water-monitor), internal sensors watch flow, pressure and temperature, a daily MicroLeak test looks for leaks as small as a drop a minute, and the valve closes automatically when it detects a leak. Alerts come by app, text, email or phone call.
 
@@ -77,7 +85,9 @@ The Flo is a motorised valve that a plumber cuts into the main line. According t
 
 ![Water leaking from a taped joint in a white plastic pipe, the slow drip a floor sensor or flow-monitoring shutoff is installed to catch before it reaches a softener room](https://images.pexels.com/photos/15206136/pexels-photo-15206136.jpeg)
 
-**Buy it on Amazon:** [Guardian by Elexa Leak Detection and Prevention Kit](https://www.amazon.com/dp/B07LFQFWX2). About $199 for the starter kit from Guardian; check Amazon's current price.
+**Buy it on Amazon:** the Guardian by Elexa Leak Detection and Prevention Kit.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07LFQFWX2)
 
 Guardian takes a different approach. Instead of a new valve, a motorised controller clamps onto the quarter-turn ball valve already on your main, sized from 1/2 in to 1-1/4 in, with no pipe cutting. Wireless sensors go on the floor where leaks start: beside the softener, under the brine tank overflow, by the water heater. When a sensor gets wet, the controller turns the valve.
 
@@ -89,7 +99,9 @@ Guardian takes a different approach. Instead of a new valve, a motorised control
 
 ## 3. Fleck 5600SXT 48k with 10% Resin: The Softener to Pair Them With
 
-**Buy it on Amazon:** [AFWFilters Fleck 5600SXT Digital Water Softener with 10% Crosslink Resin](https://www.amazon.com/dp/B00YFOTWZG). About $785 on sale at AFWFilters (about $934 regular).
+**Buy it on Amazon:** the AFWFilters Fleck 5600SXT Digital Water Softener with 10% Crosslink Resin.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG)
 
 This softener has no Wi-Fi. It is here because it has the one "smart" feature that saves money: a metered valve that regenerates only when the resin needs it. Paired with either shutoff above, it gives you everything the discontinued GE smart softener offered except a phone button for regeneration, with a valve whose parts are sold everywhere.
 
@@ -118,7 +130,7 @@ A shutoff on the main and a softener share the same plumbing, so a few details a
 
 A low-salt alert stops the softener running out without anyone noticing. That has a cost. Hard water gets back into the pipes and appliances, and the resin can sit unregenerated. But a monthly look in the brine tank does the same job for free. The signs that a softener has already run dry, and how to recover, are in [what happens when a water softener runs out of salt](/blog/water-softener-ran-out-of-salt/).
 
-Salt-level sensors sold as add-ons cost well under $100, so they fall outside this page's picks. If you want one, look for a sensor that works with your brine tank's shape and does not depend on a paid app.
+Salt-level sensors sold as add-ons are inexpensive accessories rather than protection, so they fall outside this page's picks. If you want one, look for a sensor that works with your brine tank's shape and does not depend on a paid app.
 
 ## Subscriptions and the Cloud Risk
 

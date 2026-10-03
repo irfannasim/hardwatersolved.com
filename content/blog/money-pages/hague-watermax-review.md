@@ -29,7 +29,7 @@ This Hague WaterMax review works from Hague's own product pages, its media guide
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this review was put together.** Sources: Hague's [WaterMax product page](https://www.haguewater.com/water-softeners/watermax.html) and [WaterMax media guide](https://www.haguewater.com/water-softeners/watermax/custom-add-ons.html), the 60-series WaterMax owner's manual (specification and capacity tables), and Hague's published warranty wording. Capacity is compared at a stated salt dose, not at a box rating. Hague publishes no prices, so the cost section uses dealer cost guides and owner-reported quotes and labels them as such. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **How this review was put together.** Sources: Hague's [WaterMax product page](https://www.haguewater.com/water-softeners/watermax.html) and [WaterMax media guide](https://www.haguewater.com/water-softeners/watermax/custom-add-ons.html), the 60-series WaterMax owner's manual (specification and capacity tables), and Hague's published warranty wording. Capacity is compared at a stated salt dose, not at a box rating. Hague publishes no prices, so the cost section uses dealer cost guides and owner-reported quotes and labels them as such. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Hague WaterMax Review in Brief
 
@@ -133,7 +133,7 @@ Here is how that compares over ten years with a do-it-yourself combination built
 
 | Ten-year cost item | Hague WaterMax (dealer) | Online softener + separate carbon tank |
 |---|---|---|
-| Equipment and install | about $4,000 to $6,500 | about $1,300 to $1,650 for the combo, plus a plumber's fee if you do not fit it yourself |
+| Equipment and install | about $4,000 to $6,500 | The online combo's current price, plus a plumber's fee if you do not fit it yourself |
 | Salt | Lower per grain at low doses | Standard |
 | Media replacement | Dealer service | Carbon re-bed every few years, DIY |
 | Service labour | Not covered by warranty; dealer call-out rates | Any plumber, standard Fleck parts |
@@ -161,11 +161,17 @@ Hague displays the WQA Gold Seal on the WaterMax page. The 60-series manual says
 
 Hague does not sell the WaterMax on Amazon, and no listing for it was found. These are the closest online options that combine softening with a second treatment, each with the trade-off stated.
 
-**1. Fleck 5600SXT 48,000-grain softener + backwashing carbon filter** ([Amazon](https://www.amazon.com/dp/B088DMT777)). Separate tanks instead of layered media: a 48,000-grain softener with 10% crosslink resin, plus a second 10 x 54 inch tank holding 1.5 cubic feet of activated carbon that backwashes itself. That is several times the carbon a WaterMax compartment holds. The Amazon page did not show a price when checked. Comparable softener and carbon combos on the AFWFilters store run about $1,300 to $1,650. Best for city water with chlorine taste.
+**1. Fleck 5600SXT 48,000-grain softener + backwashing carbon filter.** Separate tanks instead of layered media: a 48,000-grain softener with 10% crosslink resin, plus a second 10 x 54 inch tank holding 1.5 cubic feet of activated carbon that backwashes itself. That is several times the carbon a WaterMax compartment holds. Best for city water with chlorine taste.
 
-**2. AFWFilters Iron Pro 2 combination softener and iron filter, 64,000 grain** ([Amazon](https://www.amazon.com/dp/B004LUJ6L4)). A Fleck 5600SXT valve over 2.0 cubic feet of fine-mesh resin, rated by the seller for ferrous iron up to 6 ppm. It is the closest online match to a WaterMax configured for well water with low dissolved iron, with standard parts. From about $900 on the AFWFilters store; check the Amazon price on the day.
+[Check price on Amazon](https://www.amazon.com/dp/B088DMT777)
 
-**3. EcoPure EPH130 softener and filtration system** ([Amazon](https://www.amazon.com/dp/B0GMYSW7MG)). The only one here that, like the WaterMax, puts softening resin and filtration media in one cabinet. The listing describes a 2-in-1 design aimed at better-tasting water, AutoSense demand regeneration and sizing for households of up to five people. It does not state a grain rating or say what the filtration media is, so confirm both on the spec label before you buy. About $699 (approx.).
+**2. AFWFilters Iron Pro 2 combination softener and iron filter, 64,000 grain.** A Fleck 5600SXT valve over 2.0 cubic feet of fine-mesh resin, rated by the seller for ferrous iron up to 6 ppm. It is the closest online match to a WaterMax configured for well water with low dissolved iron, with standard parts.
+
+[Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4)
+
+**3. EcoPure EPH130 softener and filtration system.** The only one here that, like the WaterMax, puts softening resin and filtration media in one cabinet. The listing describes a 2-in-1 design aimed at better-tasting water, AutoSense demand regeneration and sizing for households of up to five people. It does not state a grain rating or say what the filtration media is, so confirm both on the spec label before you buy.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG)
 
 None of the three includes a water test, installation or a dealer. That is the cost saving, and also the risk.
 

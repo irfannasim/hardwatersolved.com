@@ -1,8 +1,8 @@
 ---
 title: "Best Salt-Free Water Softener for Well Water, and the Pretreatment Each Needs"
 seoTitle: "Best Salt-Free Water Softener for Well Water: 3 Honest Picks"
-seoDescription: "The best salt free water softener for well water must survive iron, manganese and sulfur. 3 setups that work on wells, with the pretreatment and cost."
-excerpt: "No mainstream salt-free conditioner is rated for raw well water with iron, manganese or sulfur. This page starts with each one's limits quoted from its own documents, then shows the three setups that put the right filter in front, what each combined train costs, and which well test result points to which."
+seoDescription: "The best salt free water softener for well water must survive iron, manganese and sulfur. 3 setups that work on wells, with the pretreatment each needs."
+excerpt: "No mainstream salt-free conditioner is rated for raw well water with iron, manganese or sulfur. This page starts with each one's limits quoted from its own documents, then shows the three setups that put the right filter in front, what each combined train includes, and which well test result points to which."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -14,7 +14,7 @@ faqs:
   - question: "What is the best salt-free water softener for well water?"
     answer: "For most wells with iron or sulfur, the SpringWell WSSF combo, which puts an air-injection iron filter rated for up to 7 ppm iron, 1 ppm manganese and 8 ppm hydrogen sulfide ahead of its FutureSoft conditioner. For iron up to 10 ppm, an AFWFilters AIS10 ahead of a FutureSoft. For a well that is already clean but needs disinfection, the Aquasana Rhino well system with UV."
   - question: "How much does a salt-free system for well water cost?"
-    answer: "More than the conditioner alone. On 2 October 2026 the SpringWell WSSF-1 combo was $3,213, plus a required $134 water test. An AFWFilters AIS10 at $1,199 and a FutureSoft FS1 at $1,785 come to $2,984. Aquasana's well system with UV and conditioner was about $2,697 on 1 October, but it removes no iron. Installation and a sediment filter are extra."
+    answer: "More than the conditioner alone. On a well you also pay for the iron and sulfur filter in front of it, and SpringWell's combo requires a paid water test before it ships. Aquasana's well system with UV and conditioner skips the iron filter, but it removes no iron. Installation and a sediment filter are extra. Prices change often, so check the current price of each part before you buy."
   - question: "Do salt-free conditioners remove iron from well water?"
     answer: "No. They do not remove anything. Iron is one of the things that stops them working, because it oxidises onto the media surface. Iron, manganese and hydrogen sulfide have to be taken out by a separate filter before the water reaches the conditioner. Test after that filter, not at the well, because the conditioner only sees what the filter lets through."
   - question: "Is a salt-free conditioner or a water softener better for well water?"
@@ -46,12 +46,12 @@ Those two metals are the usual problem. Penn State Extension's guide to [iron an
 
 ## How We Chose
 
-> **Methodology.** Nothing on this page was physically tested. Limits are quoted from the makers' specifications, manuals and product pages. Combined costs use the makers' own store prices, because Amazon pages did not show prices to our check.
+> **Methodology.** Nothing on this page was physically tested. Limits are quoted from the makers' specifications, manuals and product pages.
 >
-> - **Included:** complete setups, or two-unit builds, sold on Amazon.com at a normal price of $100 or more, in which a salt-free conditioner sits behind pretreatment rated for the well conditions it is sold for.
+> - **Included:** complete setups, or two-unit builds, sold on Amazon.com, in which a salt-free conditioner sits behind pretreatment rated for the well conditions it is sold for.
 > - **Ranked on:** how much iron, manganese and sulfur the pretreatment is rated to remove, how far that pretreatment's output is from the conditioner's limits, flow, and total equipment cost.
 > - **Excluded:** salt-free conditioners sold alone for well use, magnetic and electronic descalers, and any setup without a stated iron or sulfur rating ahead of the media.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** The Aquasana price was recorded on 1 October 2026.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Train That Makes a Pick Viable
 
@@ -65,32 +65,32 @@ Every pick below follows the same order. The reasons for it are set out in [well
 
 Steps 2 and 3 decide whether a salt-free system works on your well. The conditioner itself is the simplest part.
 
-## What Each Setup Costs, All In
+## What Each Setup Includes
 
-![Bar chart of salt-free water softener setups for well water: SpringWell WSSF-1 combo $3,347 with test, the same units bought separately $4,150, AFWFilters AIS10 plus FutureSoft $2,984, Aquasana Rhino well $2,697](/diagrams/salt-free-well-water-setup-combined-cost-bars.svg "On a well, the filter in front usually costs as much as the conditioner, or more")
-
-| Setup | Iron and sulfur stage | Conditioner | Equipment total |
+| Setup | Iron and sulfur stage | Conditioner | Water test |
 |---|---|---|---|
-| SpringWell WSSF-1 combo (up to 3 baths) | included | included | $3,213 (list $3,780), plus a $134.25 water test |
-| SpringWell WSSF-4 combo (4+ baths) | included | included | $3,748.50 (list $4,410), plus the test |
-| SpringWell WS1 + FutureSoft FS1, bought separately | $2,231.25 | $1,785 | $4,016, plus the test |
-| AFWFilters AIS10 + FutureSoft FS1 | $1,199 (list $1,399) | $1,785 | $2,984, plus your own lab test |
-| Aquasana Rhino well with UV and conditioner | none | included | about $2,697 |
+| SpringWell WSSF-1 combo (up to 3 baths) | included | included | required by SpringWell before shipping |
+| SpringWell WSSF-4 combo (4+ baths) | included | included | required by SpringWell before shipping |
+| SpringWell WS1 + FutureSoft FS1, bought separately | separate unit | separate unit | required by SpringWell before shipping |
+| AFWFilters AIS10 + FutureSoft FS1 | separate unit | separate unit | your own lab test |
+| Aquasana Rhino well with UV and conditioner | none | included | your own lab test |
 
-*Store prices: SpringWell and AFWFilters on 2 October 2026; Aquasana on 1 October 2026. Installation, a sediment pre-filter, a neutraliser if needed, and electrical and drain work are not included.*
+*Installation, a sediment pre-filter, a neutraliser if needed, and electrical and drain work are not included in any of these.*
 
-Two things stand out. The SpringWell combo costs about $800 less than the same two units bought separately. And the AFWFilters build is the cheapest route that removes iron, but it leaves the water test, the sediment filter and the compatibility check to you.
+Two things stand out. The SpringWell combo usually costs less than the same two units bought separately. And the AFWFilters build is usually the lowest-cost route that removes iron, but it leaves the water test, the sediment filter and the compatibility check to you.
 
 ## 1. SpringWell WSSF Combo: Best Salt-Free Setup for Most Wells
 
-**Buy it on Amazon:** [SpringWell well water filter + FutureSoft combo (B0FT44VNJR)](https://www.amazon.com/dp/B0FT44VNJR). $3,213 for the WSSF-1 and $3,748.50 for the WSSF-4 on SpringWell's own store. The Amazon page did not load for our check, so confirm the model and size on the listing.
+The Amazon listing is the SpringWell well water filter + FutureSoft combo. The Amazon page did not load for our check, so confirm the model and size on the listing.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0FT44VNJR)
 
 - **Iron and sulfur stage:** SpringWell's air-injection oxidation filter, rated for iron up to 7 ppm, hydrogen sulfide up to 8 ppm and manganese up to 1 ppm
 - **Conditioner:** FutureSoft TAC media
 - **Flow:** 12 gpm (WSSF-1, up to 3 bathrooms) or 20 gpm (WSSF-4, 4 or more)
 - **Pressure:** 25 to 80 psi
 - **Warranty:** lifetime against defects, with a 6-month money-back guarantee, per SpringWell
-- **Required:** a $134.25 Level 1 plus bacteria water test before SpringWell ships
+- **Required:** a paid Level 1 plus bacteria water test before SpringWell ships
 
 **Why it ranks first.** It is the only pick sold as one matched system, with a water test the maker insists on before shipping. That test is the step most well owners skip, and it is the one that decides whether any salt-free setup survives. The iron filter's ratings also cover more wells than any other pick on hydrogen sulfide.
 
@@ -100,7 +100,10 @@ Two things stand out. The SpringWell combo costs about $800 less than the same t
 
 ## 2. AFWFilters AIS10 + FutureSoft: Best for Higher Iron, at the Lowest Cost
 
-**Buy them on Amazon:** [AFWFilters AIS10 air injection filter (B004FVZHLC)](https://www.amazon.com/dp/B004FVZHLC) and [SpringWell FutureSoft (B07NP8JY4G)](https://www.amazon.com/dp/B07NP8JY4G). AFWFilters' store lists the AIS10 at $1,199 on sale ($1,399 list), and SpringWell lists the FutureSoft FS1 at $1,785 ($2,100 list). Together, $2,984.
+The two units are sold on Amazon as separate listings:
+
+- **AFWFilters AIS10 air injection filter:** [Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC)
+- **SpringWell FutureSoft conditioner:** [Check price on Amazon](https://www.amazon.com/dp/B07NP8JY4G)
 
 - **Iron and sulfur stage:** AFWFilters rates it for iron up to 10 ppm, manganese up to 2 ppm and hydrogen sulfide up to 4 ppm
 - **Media and tank:** 1 cubic foot of Filter-Ag Plus on gravel, in a 10 × 54 inch tank
@@ -108,7 +111,7 @@ Two things stand out. The SpringWell combo costs about $800 less than the same t
 - **Flow:** 10 gpm recommended peak
 - **Conditioner:** FutureSoft FS1, the same media as the SpringWell combo
 
-**Why it ranks second.** It handles more iron and manganese than the SpringWell filter, and costs about $230 less than the WSSF-1 before you add a water test. For a well with 7 to 10 ppm of iron and little sulfur, it is the only pick here rated for the job.
+**Why it ranks second.** It handles more iron and manganese than the SpringWell filter, and usually costs less than the WSSF-1, even before you add a water test. For a well with 7 to 10 ppm of iron and little sulfur, it is the only pick here rated for the job.
 
 **What you take on.** Two makers, two warranties, and nobody checking that the units suit each other. SpringWell's instructions say to contact it before installing FutureSoft on well water. Do that, with your lab results and the AIS10 specification in hand. You also arrange your own lab test and sediment filter.
 
@@ -118,7 +121,9 @@ Two things stand out. The SpringWell combo costs about $800 less than the same t
 
 ## 3. Aquasana Rhino Well With UV: Best for Clean Wells That Need Disinfection
 
-**Buy it on Amazon:** [Aquasana Whole House Well Water Filter with UV and salt-free scale control (B00LC1KRKO)](https://www.amazon.com/dp/B00LC1KRKO). The listing is the WH-Well-CT-UVS-B, a 500,000-gallon, 14.7 gpm version with a 5-year warranty. Aquasana's own store priced its well system with UV and conditioner at about $2,697 on 1 October 2026. We could not see the Amazon price.
+The Amazon listing is the Aquasana Whole House Well Water Filter with UV and salt-free scale control, model WH-Well-CT-UVS-B, a 500,000-gallon, 14.7 gpm version with a 5-year warranty.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00LC1KRKO)
 
 - **Stages:** sediment pre-filter, carbon and KDF tank, UV and Aquasana's salt-free conditioner
 - **UV:** Aquasana's data sheet reports testing to NSF/ANSI 55 for 99.99 percent of bacteria and viruses; the lamp is rated for 12 months

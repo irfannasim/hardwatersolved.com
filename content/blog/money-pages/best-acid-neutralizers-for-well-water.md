@@ -2,7 +2,7 @@
 title: "Best Acid Neutralizers for Well Water, Chosen by Starting pH"
 seoTitle: "Best Acid Neutralizers for Well Water: 4 Picks by pH (2026)"
 seoDescription: "The best acid neutralizers for well water raise pH but also add hardness. Picks by starting pH, and how to size the softener that has to follow them."
-excerpt: "An acid neutralizer fixes low pH by dissolving minerals into the water, so it hands the next stage a harder water than your test shows. This guide matches the neutralizer media to the starting pH, works out how much hardness each choice adds, and carries that number through to the softener that has to follow it, with dated prices and the flow ratings sellers tend to leave in the small print."
+excerpt: "An acid neutralizer fixes low pH by dissolving minerals into the water, so it hands the next stage a harder water than your test shows. This guide matches the neutralizer media to the starting pH, works out how much hardness each choice adds, and carries that number through to the softener that has to follow it, with the flow ratings sellers tend to leave in the small print."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -21,29 +21,31 @@ faqs:
     answer: "Size it on your peak flow, not on bathrooms alone. AFWFilters rates its 1.5 cubic foot calcite tanks at 3.2 gpm of service flow, because the water needs contact time with the calcite. If the house regularly draws more than that, choose a larger tank or a high-flow model, or acidic water will slip through during showers and laundry."
 ---
 
-The **best acid neutralizers for well water** are matched to the starting pH. Between about 6.0 and 6.9, a calcite tank does the job. AFWFilters' GreenFlo pH 15 upflow at $658 needs no drain, and its Digital pH 15 backwashing model is $798. Below about 6.0, the same tanks need a calcite and Corosex blend. Below about 5.3, a soda ash feed pump replaces the tank. Every calcite option also adds hardness. On an example well at pH 6.0 that is up to about 5 gpg. The softener after it has to be sized for the water leaving the neutralizer, not the water in the test.
+The **best acid neutralizers for well water** are matched to the starting pH. Between about 6.0 and 6.9, a calcite tank does the job. AFWFilters' GreenFlo pH 15 upflow needs no drain, and its Digital pH 15 is the backwashing alternative. Below about 6.0, the same tanks need a calcite and Corosex blend. Below about 5.3, a soda ash feed pump replaces the tank. Every calcite option also adds hardness. On an example well at pH 6.0 that is up to about 5 gpg. The softener after it has to be sized for the water leaving the neutralizer, not the water in the test.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
 ## Best Acid Neutralizers for Well Water at a Glance
 
-| Pick | Type | Media | Service flow (seller) | Best for | Price |
-|---|---|---|---|---|---|
-| AFWFilters GreenFlo pH 15 | Upflow, no drain or power | 1.5 cu ft calcite | 3.2 gpm max | pH 6.0 to 6.9, small households | $658 |
-| AFWFilters Digital pH 15 | Backwashing, Fleck 5600SXT | 1.5 cu ft calcite, Corosex blend optional | 3.2 gpm; 4.4 gpm backwash | pH down to about 5.3 with the blend | $798 |
-| AFWFilters Digital pH 20 | Backwashing, Fleck 2510SXT | Calcite | "High-flow" | Larger households | $1,119 |
-| AFWFilters 48k softener + backwashing neutralizer | Two tanks, one order | 1.5 cu ft calcite and 1.5 cu ft resin | not stated | Hard and acidic wells | $1,549 |
+| Pick | Type | Media | Service flow (seller) | Best for |
+|---|---|---|---|---|
+| AFWFilters GreenFlo pH 15 | Upflow, no drain or power | 1.5 cu ft calcite | 3.2 gpm max | pH 6.0 to 6.9, small households |
+| AFWFilters Digital pH 15 | Backwashing, Fleck 5600SXT | 1.5 cu ft calcite, Corosex blend optional | 3.2 gpm; 4.4 gpm backwash | pH down to about 5.3 with the blend |
+| AFWFilters Digital pH 20 | Backwashing, Fleck 2510SXT | Calcite | "High-flow" | Larger households |
+| AFWFilters 48k softener + backwashing neutralizer | Two tanks, one order | 1.5 cu ft calcite and 1.5 cu ft resin | not stated | Hard and acidic wells |
 
-AFWFilters sells its calcite neutralizers on Amazon under the listing [AFWFilters Acid Neutralizer for Well Water pH Filter Calcite (B005SR0P6E)](https://www.amazon.com/dp/B005SR0P6E). The listing did not show which tank and valve it ships on our check, so match the model to the table above before ordering.
+AFWFilters sells its calcite neutralizers on Amazon under the listing "AFWFilters Acid Neutralizer for Well Water pH Filter Calcite". The listing did not show which tank and valve it ships on our check, so match the model to the table above before ordering.
+
+[Check price on Amazon](https://www.amazon.com/dp/B005SR0P6E)
 
 ## How These Neutralizers Were Chosen
 
 > **Method.** Nothing on this page was physically tested by us. Picks are compared on the media, service flow and backwash flow their seller publishes, and the added hardness is calculated from the reaction chemistry for an example well.
 >
-> - **Included:** whole-house calcite or calcite-blend neutralizers sold on Amazon at well over $100, with a stated service flow we could read on the seller's own page.
-> - **Not ranked:** the Oceanic Water Systems 1.5 cu ft upflow calcite neutralizer ([B0CJ2SXGXQ](https://www.amazon.com/dp/B0CJ2SXGXQ)) and the LiquaGen 7 gpm automatic backwashing calcite neutralizer ([B0FR69254M](https://www.amazon.com/dp/B0FR69254M)). Both listings are live, but we could not find a price or a service-flow figure for either outside Amazon.
+> - **Included:** whole-house calcite or calcite-blend neutralizers sold on Amazon, with a stated service flow we could read on the seller's own page.
+> - **Not ranked:** the Oceanic Water Systems 1.5 cu ft upflow calcite neutralizer ([Check price on Amazon](https://www.amazon.com/dp/B0CJ2SXGXQ)) and the LiquaGen 7 gpm automatic backwashing calcite neutralizer ([Check price on Amazon](https://www.amazon.com/dp/B0FR69254M)). Both listings are live, but we could not find a service-flow figure for either outside Amazon.
 > - **Dropped:** a Premier 1.5 cu ft manual-backwash calcite listing whose page would not open.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Prices are from the AFWFilters store, because Amazon would not show prices to our check.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Why acidic water needs its own stage at all, and the corrosion signs that confirm it, are covered in [why low-pH well water needs separate treatment](/blog/low-ph-well-water-treatment/). This page is about which unit to buy and what it does to the rest of the system.
 
@@ -100,7 +102,7 @@ Two steps keep the softener right. First, fit a sample tap between the neutraliz
 - **Head:** in-out valve with no moving parts, upflow, no backwash and no wastewater
 - **Service flow:** 3.2 gpm maximum; the seller's guide is 1 to 2 bathrooms and 2 to 4 people
 - **Upkeep:** AFWFilters says the calcite needs replenishing "at least once a year on average"
-- **Price:** $658 at the [AFWFilters store](https://store.afwfilters.com/greenflo-upflow-tank-systems/greenflo-ph-systems/greenflo-ph-15-upflow-system/). AFWFilters' high-flow GreenFlo pH 20 is $829.
+- **Where sold:** the [AFWFilters store](https://store.afwfilters.com/greenflo-upflow-tank-systems/greenflo-ph-systems/greenflo-ph-15-upflow-system/), which also offers a high-flow GreenFlo pH 20
 
 Water enters at the bottom and rises through the bed, which keeps it from packing as fast as a downflow tank would. With no valve, no drain and no outlet, it fits where a drain line is hard to run. Calcite dissolves more slowly as the water nears neutral, which makes it hard to overdo.
 
@@ -112,7 +114,7 @@ Water enters at the bottom and rises through the bed, which keeps it from packin
 - **Valve:** Fleck 5600SXT digital, with LCD display
 - **Service flow:** 3.2 gpm; **backwash flow needed:** at least 4.4 gpm
 - **Seller's guide:** 1 to 2 bathrooms, 2 to 4 people
-- **Price:** $798 at the [AFWFilters store](https://store.afwfilters.com/ph-treatment/digital-ph-15-system-fleck-5600sxt/). The mechanical Fleck 5600 version is $739.
+- **Where sold:** the [AFWFilters store](https://store.afwfilters.com/ph-treatment/digital-ph-15-system-fleck-5600sxt/), which also offers a mechanical Fleck 5600 version
 
 Backwashing lifts and rinses the bed on a schedule. That keeps calcite from cementing together and flushes out the fines and any iron the bed has caught. That suits a blended bed: magnesium oxide is the more reactive media, and regular backwashing keeps the bed from packing. AFWFilters' own page notes that the system adds hardness and that a softener may be recommended afterwards.
 
@@ -121,7 +123,6 @@ Backwashing lifts and rinses the bed on a schedule. That keeps calcite from ceme
 ### AFWFilters Digital pH 20 on a Fleck 2510SXT: best for larger households
 
 - **Tank:** 12x48 calcite tank on a Fleck 2510SXT digital valve, listed by AFWFilters as its "high-flow" system
-- **Price:** $1,119 at the AFWFilters store
 
 The 2510SXT is a larger-bodied valve than the 5600SXT, and the 12-inch tank gives more calcite for contact time at higher flow. Choose it when a 3.2 gpm rating is plainly below your peak. AFWFilters' listing page did not give a service-flow figure for it, so ask for one and compare it with your measured peak before ordering. Its larger tank also needs more backwash flow than the 10-inch models.
 
@@ -129,9 +130,9 @@ The 2510SXT is a larger-bodied valve than the 5600SXT, and the 12-inch tank give
 
 - **Contents:** Fleck 5600SXT 48,000-grain softener with 1.5 cu ft of 10% crosslink resin, a 1.5 cu ft backwashing pH neutralizer and a brine tank with safety float; blended media offered for pH under 6
 - **Warranty:** 5 years on the control head, 10 years on the mineral tank
-- **Price:** $1,549 sale, $1,704 regular at the AFWFilters store. An upflow-neutralizer version is $1,379.
+- **Also offered:** an upflow-neutralizer version
 
-On a well that is both hard and acidic, the pair costs about $35 less than AFWFilters' 48k softener ($785) and Digital pH 15 ($798) bought apart. Its 1.5 cu ft softener is the size the table above favours from pH 6.0 down. **Watch for:** order it with two tanks, not a single "neutralizing softener" that mixes the media in one bed. Two tanks let you test hardness between the stages and reset the softener.
+On a well that is both hard and acidic, the pair cost slightly less than AFWFilters' 48k softener and Digital pH 15 bought apart when we checked. Its 1.5 cu ft softener is the size the table above favours from pH 6.0 down. **Watch for:** order it with two tanks, not a single "neutralizing softener" that mixes the media in one bed. Two tanks let you test hardness between the stages and reset the softener.
 
 ## The Flow Rating Sellers Bury
 
@@ -162,12 +163,12 @@ If the test is more than a year old, or was a strip test, order a lab panel. Str
 
 ## Running Costs
 
-| Item | Dated price or figure | How often |
+| Item | Figure | How often |
 |---|---|---|
-| Calcite top-up | $110 per 0.5 cu ft (AFWFilters) | At least yearly per AFWFilters; Penn State says weeks to months, depending on water |
+| Calcite top-up | sold by AFWFilters in 0.5 cu ft bags | At least yearly per AFWFilters; Penn State says weeks to months, depending on water |
 | Extra softener salt | about 230 lb a year rising to about 380 lb on the pH 6.0 example | Every year the neutralizer runs |
 | Backwash water | 4.4 gpm or more per backwash | On the valve's schedule (backwashing models only) |
-| Soda ash, if used | not priced here | As the solution tank empties |
+| Soda ash, if used | depends on dose | As the solution tank empties |
 
 The calcite cost rises as pH falls. A well at 6.0 has about six times the carbon dioxide of one at 6.8 in the example above. It uses media correspondingly faster, which is why checking the bed level a few months after start-up matters.
 

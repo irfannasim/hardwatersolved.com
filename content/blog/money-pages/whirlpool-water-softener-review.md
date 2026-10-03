@@ -20,7 +20,7 @@ faqs:
   - question: "Do I have to buy Whirlpool cleanser to keep the warranty?"
     answer: "Not for the base warranty. You need it only for the extension. The current WHES30 and WHES33 manual extends the 1-year full warranty to 5 years if you use one bottle of Whirlpool WHE-WSC cleanser every four months and keep proof of purchase. PRO models extend from 2 years to as much as 10 years on the same basis. Any other additive does not count."
   - question: "Is a Whirlpool water softener available on Amazon?"
-    answer: "Not on 1 October 2026. The WHES18, WHES30, WHES33 and WHES48 listings showed as currently unavailable, and the WHES40E listing no longer existed. Water Channel Partners' own EcoPure softeners were listed, including the EcoPure EPH130 at about $699."
+    answer: "Not on 1 October 2026. The WHES18, WHES30, WHES33 and WHES48 listings showed as currently unavailable, and the WHES40E listing no longer existed. Water Channel Partners' own EcoPure softeners were listed, including the EcoPure EPH130."
 ---
 
 This **Whirlpool water softener review** answers the question the box does not: Whirlpool doesn't make it. **Water Channel Partners** of Eagan, Minnesota manufactures and warrants Whirlpool softeners under licence, and sells the same kind of single-tank cabinet softener under its own **EcoPure** brand. What you get at the big-box price is an NSF-certified, very salt-efficient cabinet unit. Its full warranty is short unless you keep buying Whirlpool's cleanser, and parts are sold under Whirlpool part numbers. One more thing changed this year: on 1 October 2026 none of the Whirlpool softener listings on Amazon had an active offer.
@@ -35,7 +35,7 @@ This **Whirlpool water softener review** answers the question the box does not: 
 4. **Warranty:** 1 or 2 years of full cover, extendable to 5 or 10 years only with registration and regular cleanser purchases. Aftermarket parts void it.
 5. **Availability:** no active Whirlpool softener offer on Amazon on 1 October 2026.
 
-> **How this review was built.** It is built from documents rather than a unit on a bench. The sources are Whirlpool's product pages, the current WHES30 and WHES33 owner's manual (revision H, January 2025), Whirlpool's extended-warranty page, NSF's public listings and the Amazon listings. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **How this review was built.** It is built from documents rather than a unit on a bench. The sources are Whirlpool's product pages, the current WHES30 and WHES33 owner's manual (revision H, January 2025), Whirlpool's extended-warranty page, NSF's public listings and the Amazon listings. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Who Makes Whirlpool Water Softeners Under Licence
 
@@ -137,23 +137,31 @@ A Whirlpool softener is a single-tank cabinet unit. The resin tank sits inside t
 
 The compromises are the cabinet's. Most models are certified at about 8 gpm. Resin volumes are small, at 0.82 to 1.33 cubic feet. And the valve and parts are proprietary to one maker. If you are weighing a cabinet unit against a two-tank system, our comparison of [single-tank and twin-tank softeners](/blog/single-tank-vs-twin-tank-water-softeners/) covers the layout trade-offs.
 
-We could not confirm current retail prices for Whirlpool models on 1 October 2026, so none are quoted here. Check the price at your local home-improvement store against the alternatives below.
+Prices are not quoted here because they change often. Check the price at your local home-improvement store against the alternatives below.
 
 ## Amazon Status and Three Alternatives
 
-| Listing | ASIN | Status, 1 Oct 2026 |
-|---|---|---|
-| Whirlpool WHES18 | B09NZ8QFZ1 | Currently unavailable |
-| Whirlpool WHES30 | B07R88X4WN | Currently unavailable |
-| Whirlpool WHES33 | B07WBW42S7 | Currently unavailable |
-| Whirlpool WHES40E | B07R3G7LTD | Listing no longer exists |
-| Whirlpool WHES48 | B004Q0PC08 | Currently unavailable |
+| Listing | Status, 1 Oct 2026 |
+|---|---|
+| Whirlpool WHES18 | Currently unavailable |
+| Whirlpool WHES30 | Currently unavailable |
+| Whirlpool WHES33 | Currently unavailable |
+| Whirlpool WHES40E | Listing no longer exists |
+| Whirlpool WHES48 | Currently unavailable |
 
 These three were active on Amazon on the same day:
 
-1. [EcoPure EPH130 softener and filtration system](https://www.amazon.com/dp/B0GMYSW7MG), about $699. Made by Water Channel Partners, the Whirlpool licensee. A cabinet softener with integrated filtration, sized for up to five people, with a 1-year parts and labor warranty on the listing.
-2. [GE Smart Water Softener GXSH35W](https://www.amazon.com/dp/B0FWTXRMW6), about $699. A 35,000-grain cabinet unit with 1 cubic foot of resin, Wi-Fi alerts and certification to NSF/ANSI 44 by IAPMO R&T, according to its manual.
-3. [Aquasure Harmony 48,000-grain softener](https://www.amazon.com/dp/B07F175C2R), about $630. A two-tank metered system with 1.5 cubic feet of resin, if you have the space and want more capacity and flow than a cabinet gives.
+**1. EcoPure EPH130 softener and filtration system.** Made by Water Channel Partners, the Whirlpool licensee. A cabinet softener with integrated filtration, sized for up to five people, with a 1-year parts and labor warranty on the listing.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG)
+
+**2. GE Smart Water Softener GXSH35W.** A 35,000-grain cabinet unit with 1 cubic foot of resin, Wi-Fi alerts and certification to NSF/ANSI 44 by IAPMO R&T, according to its manual.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6)
+
+**3. Aquasure Harmony 48,000-grain softener.** A two-tank metered system with 1.5 cubic feet of resin, if you have the space and want more capacity and flow than a cabinet gives.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
 
 ## Who a Whirlpool Softener Is Wrong For
 

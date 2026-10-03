@@ -29,7 +29,7 @@ That matters because the parts in a combo wear out on different clocks. A cartri
 
 ## How These Combos Were Chosen
 
-> **Methodology.** Every pick is a salt-based softener sold with a filtration stage as one Amazon.com listing, at a normal price above $100. Only combos where each stage can be serviced on its own were eligible. We compared resin type, carbon or filter type and volume, valve make, and published replacement intervals from listings, manuals and maker product pages. Nothing was physically tested. **Excluded:** hybrid units with carbon sealed inside the softener cabinet, salt-free conditioners, and listings shown as unavailable. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Methodology.** Every pick is a salt-based softener sold with a filtration stage as one Amazon.com listing. Only combos where each stage can be serviced on its own were eligible. We compared resin type, carbon or filter type and volume, valve make, and published replacement intervals from listings, manuals and maker product pages. Nothing was physically tested. **Excluded:** hybrid units with carbon sealed inside the softener cabinet, salt-free conditioners, and listings shown as unavailable. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 Three combos you may see elsewhere are not here:
 
@@ -47,7 +47,7 @@ Three combos you may see elsewhere are not here:
 | Filter stage | 1.5 cu ft activated carbon, 10 × 54 in tank, backwashing | 2 cu ft coconut-shell carbon, 12 × 52 in, upflow | Pleated sediment cartridge |
 | Removes chlorine? | Yes | Yes | No |
 | Filter replacement | No published interval | No published interval | Washable cartridge, change on pressure drop |
-| Approx. price | About $1,445 | Not confirmed | About $770 |
+| Amazon | [Check price on Amazon](https://www.amazon.com/dp/B088DMT777) | [Check price on Amazon](https://www.amazon.com/dp/B0794RLQVC) | [Check price on Amazon](https://www.amazon.com/dp/B0855SBJ7D) |
 
 Size the softener half of any combo from your own hardness and household, not the grain number on the listing. The method is in [how to size a water softener](/blog/how-to-size-a-water-softener/).
 
@@ -65,7 +65,9 @@ A combo that seals carbon and resin into one cabinet ties the shortest-lived par
 
 ## 1. AFWFilters Fleck 5600SXT 48k + Backwashing Carbon: Best for City Water
 
-**Buy it on Amazon:** [Combo Package Fleck 5600SXT 48,000 Grain Softener and Backwashing Carbon Filter](https://www.amazon.com/dp/B088DMT777). About $1,445 on sale at AFWFilters (about $1,553 regular), sold on Amazon through the AFWFilters store.
+**Buy it on Amazon:** the Combo Package Fleck 5600SXT 48,000 Grain Softener and Backwashing Carbon Filter, sold on Amazon through the AFWFilters store.
+
+[Check price on Amazon](https://www.amazon.com/dp/B088DMT777)
 
 This is two complete systems that share one box. The carbon tank is a 10 × 54 in tank with 1.5 cu ft of activated carbon, which AFWFilters says reduces chlorine, herbicides, pesticides and taste and odour chemicals. The softener is a second 10 × 54 in tank with 1.5 cu ft of 10% crosslink resin under a metered Fleck 5600SXT. A separate brine tank comes in 14 in square, 18 × 33 in or 18 × 40 in round.
 
@@ -75,27 +77,33 @@ This is two complete systems that share one box. The carbon tank is a 10 × 54 i
 
 **Warranty.** AFWFilters lists a five-year warranty on the Fleck 5600SXT controls. Its standard tank warranty is ten years.
 
-**Skip it if** your utility uses chloramine. Standard carbon handles it poorly. AFWFilters sells a catalytic carbon version of this combo on its own store for about $1,645, but we could not confirm it on Amazon. The detail is in [how chloramine affects a water softener](/blog/how-chloramine-affects-a-water-softener/).
+**Skip it if** your utility uses chloramine. Standard carbon handles it poorly. AFWFilters sells a catalytic carbon version of this combo on its own store, but we could not confirm it on Amazon. The detail is in [how chloramine affects a water softener](/blog/how-chloramine-affects-a-water-softener/).
 
 ## 2. Oceanic 64k Fleck + Upflow Carbon: Best Where There Is No Spare Drain
 
-**Buy it on Amazon:** [Whole House Fleck Water Softener + Upflow Carbon Filtration System (12" x 52", 64,000 Grain)](https://www.amazon.com/dp/B0794RLQVC). We could not confirm a current price. A comparable 64k Fleck 5600SXT and 2 cu ft upflow carbon package from AFWFilters is about $1,469.
+**Buy it on Amazon:** the Whole House Fleck Water Softener + Upflow Carbon Filtration System (12" x 52", 64,000 Grain).
+
+[Check price on Amazon](https://www.amazon.com/dp/B0794RLQVC)
 
 The Oceanic package pairs a metered Fleck 5600SXT softener with 10% crosslink resin and a separate 12 × 52 in tank holding 2 cu ft of coconut-shell carbon. The carbon tank is upflow: water enters at the bottom and rises through the bed. Oceanic's listing says that means no backwash, no electricity, no drain line and no wastewater from the filter.
 
 **Why it suits some houses better.** A second backwashing tank needs a second drain connection and a second outlet. In a tight utility room that may not exist. An upflow tank needs only the plumbing.
 
-**The trade-off.** An upflow bed is never backwashed, so any sediment that reaches it stays there. On water that carries grit, put a sediment cartridge ahead of the carbon. The listing gives a recommended service flow of up to 14 gpm for households of three to seven. Oceanic also sells a 32k version with a 9 × 48 in, 1 cu ft carbon tank, [B0794YTXRH](https://www.amazon.com/dp/B0794YTXRH), for smaller homes.
+**The trade-off.** An upflow bed is never backwashed, so any sediment that reaches it stays there. On water that carries grit, put a sediment cartridge ahead of the carbon. The listing gives a recommended service flow of up to 14 gpm for households of three to seven. Oceanic also sells a 32k version with a 9 × 48 in, 1 cu ft carbon tank for smaller homes.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0794YTXRH)
 
 **Skip it if** you want a published warranty. We could not find Oceanic's warranty terms. Ask the seller before you buy.
 
 ## 3. Aquasure Harmony 48k Fine Mesh + Pleated Sediment Pre-Filter: Best for Well Water
 
-**Buy it on Amazon:** [Aquasure Harmony Series 48,000 Grain with Fine Mesh Resin and Pleated Sediment Pre-Filter](https://www.amazon.com/dp/B0855SBJ7D). About $770 at Aquasure's own store (AS-HS48FMP).
+**Buy it on Amazon:** the Aquasure Harmony Series 48,000 Grain with Fine Mesh Resin and Pleated Sediment Pre-Filter, model AS-HS48FMP on Aquasure's own store.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0855SBJ7D)
 
 This is a different kind of combo. The filter stage is a pleated sediment cartridge, not carbon, so it does nothing about chlorine. What it does is catch sand, grit and rust flakes before they reach the softener. The softener uses fine-mesh resin, which Aquasure rates for up to 10 ppm of iron, under its Aquatrol metered valve. Aquasure sizes it for three to four bathrooms and up to five people.
 
-**Why it is here.** Each stage is serviced on its own. Aquasure sells its 30-micron pleated replacement cartridges as washable, at about $38 for a two-pack of 10 in cartridges. Confirm which size your bundle takes. The cartridge is changed when the pressure drop across it climbs, not on a calendar.
+**Why it is here.** Each stage is serviced on its own. Aquasure sells its 30-micron pleated replacement cartridges as washable, in two-packs of 10 in cartridges. Confirm which size your bundle takes. The cartridge is changed when the pressure drop across it climbs, not on a calendar.
 
 **Warranty.** The Harmony owner's manual gives two years unregistered and five years on the valve, electronics and resin if you register, plus ten years on the resin and brine tanks. Resin and internal valve parts are not covered when the softener is used to remove iron or manganese above the levels Aquasure specifies. Check your iron result against the manual before relying on that cover.
 

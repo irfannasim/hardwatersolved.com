@@ -16,7 +16,7 @@ faqs:
   - question: "Does a Morton or Whirlpool softener use more water?"
     answer: "The Whirlpool WHES33 uses less at its efficient setting. Its manual gives 1.9 gallons of regeneration water per 1,000 grains of capacity at the minimum salt dose, against 2.3 gallons for the Morton M34. For a family of four on 15 gpg water that is about 2,900 gallons a year against about 3,500. At the maximum salt dose the two are within about 110 gallons a year of each other."
   - question: "Is the Morton M34 or the Whirlpool WHES33 cheaper to buy?"
-    answer: "They were listed at almost the same price on 2 October 2026. Search listings showed the Morton 34,000-grain softener at Menards at $519.99 regular, with a sale price of about $470, and the Whirlpool WHES33 at Lowe's at $519. Both retailers blocked our tools, so check the shelf price before you buy. On Amazon, both listings showed as unavailable."
+    answer: "They were listed at almost the same price when we checked, so a sale usually decides it. The Morton 34,000-grain softener is sold through Menards and the Whirlpool WHES33 through Lowe's, so check the current shelf price at each before you buy. On Amazon, both listings showed as unavailable."
   - question: "Which has the better warranty, Morton or Whirlpool?"
     answer: "Whirlpool's, in the first year. The WHES33 carries one year of full parts and labor, three years on the electronics and ten years on the tanks, extendable to five years with registration and Whirlpool's cleanser. Morton's M20 to M34 manual covers the tanks for ten years and all other parts for one year, with parts shipped free but labor not covered."
   - question: "Should I turn on the salt efficiency setting?"
@@ -31,7 +31,7 @@ faqs:
 >
 > - **Compared:** the Morton M34 and Whirlpool WHES33. They are the two brands' closest twins, with 0.91 and 0.88 cubic feet of resin.
 > - **Not compared:** Whirlpool's 40,000-grain WHES40E. Lowe's no longer sells it, Whirlpool's current brochure no longer lists it and its Amazon listing has gone.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon did not show prices to our tools, and Lowe's and Menards blocked them, so retail prices are as shown in search listings that day.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Morton vs Whirlpool: One Maker, Two Badges
 
@@ -98,7 +98,7 @@ At the efficient setting both softeners regenerate about every three days. The W
 
 ![Bar chart of Morton vs Whirlpool water softener 10-year running cost: M34 about $1,029 and WHES33 about $951 at the lowest salt setting, about $1,440 and $1,447 at the highest](/diagrams/morton-vs-whirlpool-water-softener-10-year-salt-and-water-cost.svg "Pick the salt setting first: it moves the 10-year cost five times more than the brand")
 
-Assumptions: a family of four, 280 gallons a day, 15 gpg, salt at $0.20 a pound (about $8 for a 40 lb bag; Lowe's listed Morton 40 lb pellets at $7.38 to $9.38 that day) and water and sewer together at $12 per 1,000 gallons. Electricity is left out, because both run on the same kind of low-voltage plug-in transformer and the difference rounds to nothing.
+Assumptions: a family of four, 280 gallons a day, 15 gpg, salt at $0.20 a pound and water and sewer together at $12 per 1,000 gallons. Electricity is left out, because both run on the same kind of low-voltage plug-in transformer and the difference rounds to nothing.
 
 | 10-year running cost | Morton M34 | Whirlpool WHES33 | Difference |
 |---|---|---|---|
@@ -128,15 +128,14 @@ If you are coming from an old timer softener, either one will cut salt sharply. 
 | | Morton M34 | Whirlpool WHES33 |
 |---|---|---|
 | Where the brand page sends you | Menards | Lowe's |
-| Listed price, 2 Oct 2026 | $519.99 regular, about $470 on sale | $519 |
 | Tanks | 10 years | 10 years |
 | Electronics | 1 year, as "all other parts" | 3 years |
 | Other parts | 1 year, parts shipped, labor not covered | 1 year full parts and labor |
 | Extension | M34 product page says parts cover extends with Morton cleanser | Up to 5 years with registration and Whirlpool cleanser every four months |
 
-*Prices from search listings for menards.com and lowes.com on 2 October 2026; both stores blocked direct checks. Warranty terms from the manuals, Morton's M34 product page and [Whirlpool's extended-warranty page](https://whirlpoolwatersolutions.com/softener-extended-warranties/).*
+*Warranty terms from the manuals, Morton's M34 product page and [Whirlpool's extended-warranty page](https://whirlpoolwatersolutions.com/softener-extended-warranties/).*
 
-The prices are close enough that a sale decides it. The warranty is not as close. Whirlpool's first year includes labor and its electronics are covered for three years. Morton's manual covers non-tank parts for one year with no labor. If you would rather not fit a replacement circuit board yourself in year two, that tips the choice toward Whirlpool. Whirlpool's extension needs registration and one bottle of its cleanser every four months, and aftermarket parts void it. The way to weigh conditions like that is set out in [how to read a water softener warranty](/blog/how-to-read-a-water-softener-warranty/).
+The two were listed at close enough prices when we checked that a sale decides it. The warranty is not as close. Whirlpool's first year includes labor and its electronics are covered for three years. Morton's manual covers non-tank parts for one year with no labor. If you would rather not fit a replacement circuit board yourself in year two, that tips the choice toward Whirlpool. Whirlpool's extension needs registration and one bottle of its cleanser every four months, and aftermarket parts void it. The way to weigh conditions like that is set out in [how to read a water softener warranty](/blog/how-to-read-a-water-softener-warranty/).
 
 Service life is the same question for both. Tanks outlast valves, and the rotor, seals and board wear first, as covered in [how long a water softener lasts](/blog/how-long-does-a-water-softener-last/). Parts for both come from the same maker.
 
@@ -144,16 +143,16 @@ Service life is the same question for both. Tanks outlast valves, and the rotor,
 
 On 2 October 2026 neither twin could be bought on Amazon:
 
-| Listing | ASIN | Status |
-|---|---|---|
-| Morton MSD34C | B00828F4Q2 | Currently unavailable |
-| Whirlpool WHES33 | B07WBW42S7 | Currently unavailable |
-| Whirlpool WHES40E | B07R3G7LTD | Listing removed (checked 1 October) |
+| Listing | Status |
+|---|---|
+| Morton MSD34C | Currently unavailable |
+| Whirlpool WHES33 | Currently unavailable |
+| Whirlpool WHES40E | Listing removed (checked 1 October) |
 
-If you want to order online, these two come from the same maker and were listed on Amazon at over $100:
+If you want to order online, these two come from the same maker and were listed on Amazon:
 
-- **[EcoPure EPH130 (B0GMYSW7MG)](https://www.amazon.com/dp/B0GMYSW7MG).** About $699 (approx.). A softener-and-filter cabinet with AutoSense demand regeneration, sized for up to five people. The listing gives no grains-per-pound figure, so read the spec label before comparing it with the table above.
-- **[EcoPure EP42 (B01N5S92DK)](https://www.amazon.com/dp/B01N5S92DK).** About $690 at Ace Hardware; Amazon showed no price. Retailer listings give 42,000 grains, up to 110 gpg and 11 ppm of iron, and NSF lists it at 8.2 gpm. That makes it the better fit for a busier house than either twin.
+- **EcoPure EPH130.** A softener-and-filter cabinet with AutoSense demand regeneration, sized for up to five people. The listing gives no grains-per-pound figure, so read the spec label before comparing it with the table above. [Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG)
+- **EcoPure EP42.** Retailer listings give 42,000 grains, up to 110 gpg and 11 ppm of iron, and NSF lists it at 8.2 gpm. That makes it the better fit for a busier house than either twin. [Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK)
 
 ## Morton or Whirlpool: Which to Buy
 

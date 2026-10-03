@@ -27,7 +27,7 @@ faqs:
 
 ## Culligan vs RainSoft at a Glance
 
-> **Method.** Culligan's terms are quoted from its High Efficiency softener owner's guide (document 01021076, revision H, 11/19), its product page and its payment-options and water-testing pages. RainSoft's warranty is quoted from the RainSoft EC5 owner's manual (part 16842, revision J, January 2021). No unit was physically tested and no sales visit was attended. The financing examples are illustrative. Neither brand is sold on Amazon; the alternatives below were checked against their Amazon listings and retailers. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Method.** Culligan's terms are quoted from its High Efficiency softener owner's guide (document 01021076, revision H, 11/19), its product page and its payment-options and water-testing pages. RainSoft's warranty is quoted from the RainSoft EC5 owner's manual (part 16842, revision J, January 2021). No unit was physically tested and no sales visit was attended. The financing examples are illustrative. Neither brand is sold on Amazon; the alternatives below were checked against their Amazon listings and retailers. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 | | Culligan | RainSoft |
 |---|---|---|
@@ -152,12 +152,12 @@ The financing agreement deserves as much attention as the softener. In 2024 the 
 
 Neither Culligan nor RainSoft sells softeners on Amazon. If the in-home quotes were for a softener plus a drinking-water system, these cover the same ground for much less:
 
-| Alternative | What it includes | Approx. price |
+| Alternative | What it includes | Amazon |
 |---|---|---|
-| [Aquasure Harmony 48k](https://www.amazon.com/dp/B07F175C2R) | 48,000-grain metered softener on Aquasure's own valve; add a separate under-sink RO for drinking water | $629.99 on Aquasure's store |
-| [APEC WH-SOFTENER-30-FG](https://www.amazon.com/dp/B0CM8CLZZ4) | 30,000-grain softener plus a 75 GPD alkaline-mineral RO system in one bundle | About $750 at Home Depot (retailer listing; the page did not load for our check) |
+| Aquasure Harmony 48k | 48,000-grain metered softener on Aquasure's own valve; add a separate under-sink RO for drinking water | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| APEC WH-SOFTENER-30-FG | 30,000-grain softener plus a 75 GPD alkaline-mineral RO system in one bundle | [Check price on Amazon](https://www.amazon.com/dp/B0CM8CLZZ4) |
 
-*Amazon did not show a price on our check for either listing, so compare the Amazon price on the day. The Aquasure Harmony 48k and 75 GPD RO bundle (B0H8G7QH1W) showed "Currently unavailable" on Amazon and is not included.*
+*The Aquasure Harmony 48k and 75 GPD RO bundle showed "Currently unavailable" on Amazon and is not included.*
 
 Add a plumber's fee, and either still lands far below a financed in-home package. You give up the dealer relationship and do your own maintenance.
 

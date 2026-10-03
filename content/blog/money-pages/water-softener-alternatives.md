@@ -53,7 +53,7 @@ Read it row by row. If your main complaint sits on a row with no "Yes", no alter
 > - **Included:** one product per alternative type, chosen as the best-documented example of that type that is sold on Amazon at a normal price above $100.
 > - **Swapped:** SpringWell FutureSoft was the first choice for TAC, but its Amazon listings showed no offer when this site checked on 1 October 2026 and its 95% claim names no test. The Watts OneFlow+ replaces it.
 > - **Not picked:** shower filters (most cost under $100, and they target chlorine, not hardness) and magnet clamps (no scientific consensus that they work).
-> - **Prices checked 2 October 2026 where the seller's site would load; Amazon prices change often, so check the current price before buying.** Amazon pages would not load for our check. The Express Water price is from its own store that day. The Watts, NuvoH2O and Waterdrop prices are the figures this site recorded on 1 October 2026, and the Eddy price was seen at Walmart in late September.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## 7 Water Softener Alternatives and the One Product Worth Buying for Each
 
@@ -63,7 +63,9 @@ Read it row by row. If your main complaint sits on a row with no "Yes", no alter
 - **Does not fix:** spotting, lather, laundry, skin feel
 - **Limits:** up to 30 gpg; pH 6.5 to 8.5; iron 0.3 ppm and manganese 0.05 ppm maximum; free chlorine under 2 ppm
 - **Upkeep:** scale cartridge every 3 years or 250,000 gallons; carbon block about yearly
-- **Price:** about $750 on Amazon, sold by Amazon.com, on 1 October 2026. [See it on Amazon (B01H273O4M)](https://www.amazon.com/dp/B01H273O4M)
+- **Seller:** sold on Amazon by Amazon.com on 1 October 2026
+
+[Check price on Amazon](https://www.amazon.com/dp/B01H273O4M)
 
 This is the alternative with the strongest independent support. In a heated DVGW W 512 test, crystal-forming media cut scale formation by more than 88 percent. Watts is also blunt about the limits in its [OneFlow+ specification sheet](https://www.watts.ca/dfsmedia/0533dbba17714b1ab581ab07a4cbb521/23089-source/639214648030000000/es-ofpsys-2631.pdf): "OneFlow is not a water softener", spotting "may occur", and a point-of-use softener should be used where spot-free results are mandatory. Buy it if your water heater is your main worry. If your water fails any of the checks in [when a salt-free conditioner is wrong](/blog/when-a-salt-free-conditioner-is-wrong/), do not.
 
@@ -71,8 +73,10 @@ This is the alternative with the strongest independent support. In a heated DVGW
 
 - **Fixes:** scale, on water between pH 7.3 and 8.5 and up to 25 gpg
 - **Does not fix:** the hardness itself; a test strip reads the same afterwards
-- **Upkeep:** a cartridge about every 6 months or 50,000 gallons, about $108 each at retail in late September
-- **Price:** $1,219.99 at NuvoH2O's store on 1 October 2026; about $800 at Menards in late September. [See it on Amazon (B01ASXMI44)](https://www.amazon.com/dp/B01ASXMI44)
+- **Upkeep:** a cartridge about every 6 months or 50,000 gallons
+- **Where to buy:** NuvoH2O's own store, other retailers and Amazon; retailer prices have been lower than the brand store's
+
+[Check price on Amazon](https://www.amazon.com/dp/B01ASXMI44)
 
 NuvoH2O doses citric acid, which binds calcium and lowers pH toward neutral. Its evidence is a maker-funded study run with Battelle, in which treated tankless heaters on 15 gpg water collected 0.87 g of scale against 45.6 g untreated. It is a good fit for a city home with slightly alkaline water. On a well near pH 7.3 or in a copper-plumbed house, the pH drop is a reason to choose TAC instead.
 
@@ -80,10 +84,12 @@ NuvoH2O doses citric acid, which binds calcium and lowers pH toward neutral. Its
 
 - **Fixes:** some scale, by the maker's claim, in the appliances downstream; no published scale test
 - **Does not fix:** hardness, spotting, total dissolved solids
-- **Upkeep:** the cartridge lasts up to 100,000 gallons or 6 to 12 months; Express Water sells 20-inch polyphosphate replacements from $76.99, so confirm the size that fits this housing
-- **Price:** $159.99 at [Express Water's store](https://www.expresswater.com/products/anti-scale-whole-house-1-stage) on 2 October 2026. [See it on Amazon (B01LQYM5X8)](https://www.amazon.com/dp/B01LQYM5X8)
+- **Upkeep:** the cartridge lasts up to 100,000 gallons or 6 to 12 months; Express Water sells 20-inch polyphosphate replacements, so confirm the size that fits this housing
+- **Where to buy:** [Express Water's store](https://www.expresswater.com/products/anti-scale-whole-house-1-stage) and Amazon
 
-A polyphosphate cartridge slowly dissolves into the water and holds hardness minerals in solution so they are less likely to form scale. It is the cheapest way to protect one appliance, such as a washing machine or a single water heater, and the only alternative here for well under $200. The evidence is the thinnest of the tank-or-cartridge options: Express Water's page describes what it does but cites no test. Its own page also notes it will not reduce total dissolved solids.
+[Check price on Amazon](https://www.amazon.com/dp/B01LQYM5X8)
+
+A polyphosphate cartridge slowly dissolves into the water and holds hardness minerals in solution so they are less likely to form scale. It is the cheapest way to protect one appliance, such as a washing machine or a single water heater, and the cheapest whole-house option here to buy. The evidence is the thinnest of the tank-or-cartridge options: Express Water's page describes what it does but cites no test. Its own page also notes it will not reduce total dissolved solids.
 
 **Do not combine it with TAC.** Watts says not to apply any other antiscalant before or after its media, and caps total phosphates at 3.0 ppm.
 
@@ -92,7 +98,8 @@ A polyphosphate cartridge slowly dissolves into the water and holds hardness min
 - **Fixes:** possibly some scale, and the scale that forms may be softer
 - **Does not fix:** hardness, spotting, lather
 - **Strength:** clamp-on, no plumbing work; a 12-month money-back window on its retail listings
-- **Price:** about $190 at Walmart in late September 2026. [See it on Amazon (B003Z96GR4)](https://www.amazon.com/dp/B003Z96GR4)
+
+[Check price on Amazon](https://www.amazon.com/dp/B003Z96GR4)
 
 In the same independent heated test, electronic and electromagnetic devices cut scale by about 50 percent, against more than 88 percent for TAC. That makes a descaler the right alternative only when you cannot plumb anything in, which usually means renting. Buy it as a trial, test it with a kettle during the refund window, and return it if nothing changes. Eddy's terms come from retail listings; we could not reach its own website on 2 October.
 
@@ -101,7 +108,8 @@ In the same independent heated test, electronic and electromagnetic devices cut 
 - **Fixes:** drinking water, cooking water and kettle scale, at one tap
 - **Does not fix:** anything elsewhere in the house
 - **Catch:** its limited warranty applies only on municipal water under 7 grains per gallon and 750 ppm TDS
-- **Price:** about $439 at Waterdrop's store on 1 October 2026, against a $539 list price. [See it on Amazon (B07P1XFYJP)](https://www.amazon.com/dp/B07P1XFYJP)
+
+[Check price on Amazon](https://www.amazon.com/dp/B07P1XFYJP)
 
 RO is the only alternative here that actually removes hardness, and it does it for a few gallons a day at the kitchen sink. That is enough to end scale in the kettle and coffee maker and to make ice and drinking water taste cleaner. The catch is in the manual. On hard, untreated water the membrane works harder and the warranty no longer applies, so on water much over 7 gpg an RO unit is often bought after a softener rather than instead of one.
 
@@ -130,17 +138,17 @@ The wider choice between keeping hardness in the water and taking it out is set 
 
 ![Stainless steel oven and dishwasher controls in a modern kitchen, the water-using appliances a polyphosphate cartridge or salt-free conditioner is bought to protect from scale](https://images.pexels.com/photos/213162/pexels-photo-213162.jpeg)
 
-The box price is the smaller part of the bill for most of these. Worked for a family of four using about 102,000 gallons a year:
+The box price is the smaller part of the bill for most of these. For a family of four using about 102,000 gallons a year, this is what you keep buying over five years:
 
-| Alternative | Up front | What you replace | Five-year total, approx. |
-|---|---|---|---|
-| Watts OneFlow+ | about $750 | One scale cartridge at year 3; a carbon block about yearly | $750 plus cartridges (current cartridge prices not verified) |
-| NuvoH2O Manor | $1,220 store, about $800 at Menards | About 2 cartridges a year at about $108 | about $1,880 to $2,300 |
-| Express Water WH100SP | $160 | A cartridge every 6 to 12 months, from $76.99 | about $470 to $850 |
-| Eddy descaler | about $190 | Nothing; a little electricity | about $190 |
-| Waterdrop G3P600 | about $439 | Filters, about $145 a year for most households | about $1,165 |
+| Alternative | What you replace over five years |
+|---|---|
+| Watts OneFlow+ | One scale cartridge at year 3; a carbon block about yearly |
+| NuvoH2O Manor | About 2 cartridges a year, so about 10 |
+| Express Water WH100SP | A cartridge every 6 to 12 months, so 5 to 10 |
+| Eddy descaler | Nothing; a little electricity |
+| Waterdrop G3P600 | Filters on the maker's replacement schedule |
 
-*Illustrative. Up-front prices as dated in the methodology box. NuvoH2O cartridge price seen at retail in late September 2026. Waterdrop filter cost from this site's review of the G3P600 at Waterdrop's store prices. Installation is not included.*
+*Illustrative. Multiply the replacements by current part prices, and add the purchase price, to compare your own five-year totals. Installation is not included.*
 
 The cheapest line is the Eddy, and it is also the one with the weakest evidence. The NuvoH2O costs the most over five years because its cartridge is a consumable that dissolves as it works. The Watts sits between them on price and at the top on evidence, which is why it is the default pick for heater scale. And the RO unit's running cost is for a few gallons a day at one tap, not for the house.
 

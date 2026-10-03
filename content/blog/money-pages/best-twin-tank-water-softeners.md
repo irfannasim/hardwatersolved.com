@@ -2,7 +2,7 @@
 title: "Best Twin-Tank Water Softeners: 3 Dual-Tank Picks and How They Switch"
 seoTitle: "Best Twin-Tank Water Softeners for Nonstop Soft Water"
 seoDescription: "The best twin-tank water softeners never go offline, but valve designs switch tanks differently. Top dual-tank systems and who actually needs one."
-excerpt: "A twin-tank softener keeps one tank in service while the other regenerates, so the house never gets hard water. This page compares the three ways twin systems switch tanks and prices the premium over a single tank of the same size. It also explains why a twin is sized per tank, not by the combined number some sellers quote."
+excerpt: "A twin-tank softener keeps one tank in service while the other regenerates, so the house never gets hard water. This page compares the three ways twin systems switch tanks and weighs the premium over a single tank of the same size. It also explains why a twin is sized per tank, not by the combined number some sellers quote."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -21,26 +21,26 @@ faqs:
     answer: "Roughly one more resin tank's width than a single-tank softener of the same size, because both tanks hang off one valve head. A 48,000-grain twin uses two 10-inch tanks about 54 inches tall plus a brine tank. Leave room in front to reach the valve and fill the brine tank, and check the ceiling height, because the valve sits on top of the tanks."
 ---
 
-The **best twin-tank water softeners** for most homes are Fleck 9100SXT dual-tank systems, sized so each tank lasts about five to seven days. One tank always softens while the other regenerates with soft water, so the house never gets a dose of hard water. Our picks are the **AFWFilters 9100SXT twin 48k** for most families, the **32k twin** for smaller homes and the **64k twin** for large or very hard-water households. Each costs roughly $565 to $935 more than a single tank of the same per-tank size, so the first question is whether you need one at all.
+The **best twin-tank water softeners** for most homes are Fleck 9100SXT dual-tank systems, sized so each tank lasts about five to seven days. One tank always softens while the other regenerates with soft water, so the house never gets a dose of hard water. Our picks are the **AFWFilters 9100SXT twin 48k** for most families, the **32k twin** for smaller homes and the **64k twin** for large or very hard-water households. Each costs much more than a single tank of the same per-tank size, close to double at the larger sizes, so the first question is whether you need one at all.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
 ## Top Twin-Tank Picks at a Glance
 
-| Pick | Resin per tank | Service / peak flow | Approx. price | Amazon |
-|---|---|---|---|---|
-| AFWFilters Fleck 9100SXT twin 48k | 1.5 cu ft, 10 x 54 in tanks | 6.5 / 9.8 gpm | about $1,390 | [B000GE8T6M](https://www.amazon.com/dp/B000GE8T6M) |
-| AFWFilters Fleck 9100SXT twin 32k | 1.0 cu ft | 5 / 7.5 gpm | about $1,230 | [B000GE8T6C](https://www.amazon.com/dp/B000GE8T6C) |
-| Fleck 9100SXT twin 64k | 2.0 cu ft, 12 in tanks | 10 / 15 gpm | about $1,710 | [B07T8K6HSP](https://www.amazon.com/dp/B07T8K6HSP) |
+| Pick | Resin per tank | Service / peak flow | Amazon |
+|---|---|---|---|
+| AFWFilters Fleck 9100SXT twin 48k | 1.5 cu ft, 10 x 54 in tanks | 6.5 / 9.8 gpm | [Check price on Amazon](https://www.amazon.com/dp/B000GE8T6M) |
+| AFWFilters Fleck 9100SXT twin 32k | 1.0 cu ft | 5 / 7.5 gpm | [Check price on Amazon](https://www.amazon.com/dp/B000GE8T6C) |
+| Fleck 9100SXT twin 64k | 2.0 cu ft, 12 in tanks | 10 / 15 gpm | [Check price on Amazon](https://www.amazon.com/dp/B07T8K6HSP) |
 
 ## How We Chose
 
-> **Methodology.** Nothing on this page was physically tested. The ranking rests on manufacturer technical sheets, seller specifications and price arithmetic.
+> **Methodology.** Nothing on this page was physically tested. The ranking rests on manufacturer technical sheets, seller specifications and a comparison of store prices.
 >
-> - **Included:** twin alternating ion-exchange softeners with a metered valve, sold on Amazon at a normal price above $100.
+> - **Included:** twin alternating ion-exchange softeners with a metered valve, sold on Amazon.
 > - **Compared like for like:** resin volume per tank, service flow, backwash flow and the price gap to a single tank of the same per-tank size with the same resin.
 > - **Excluded:** pairs of single-tank softeners plumbed side by side without an alternating valve, timer-only twins, and dealer-only systems. Kinetico is described below for comparison but is not sold on Amazon.
-> - **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.** Amazon listings would not load for our check, so prices come from the AFWFilters store. The 64k figure is AFWFilters' price for the same 9100SXT build. We could not confirm who sells the B07T8K6HSP listing.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## How Twin-Tank Water Softeners Switch Tanks
 
@@ -71,7 +71,9 @@ On the Fleck 9100 in its standard downflow setup, Pentair's sheet lists the cycl
 - **Resin:** 1.5 cu ft of 8% crosslink high-capacity resin in each of two 10 x 54 inch tanks
 - **Flow:** 6.5 gpm service, 9.8 gpm peak; each tank needs only 2.7 gpm to backwash
 - **Brine tank:** 14-inch square by default, with 18 x 33 and 18 x 40 inch round options
-- **Price:** about $1,390 at the AFWFilters store. A 10% crosslink resin version for chlorinated water is about $1,575. [See it on Amazon (B000GE8T6M)](https://www.amazon.com/dp/B000GE8T6M)
+- **Resin option:** AFWFilters also sells a 10% crosslink resin version for chlorinated water
+
+[Check price on Amazon](https://www.amazon.com/dp/B000GE8T6M)
 
 At 9 lb of salt per cubic foot, each tank gives about 39,000 usable grains. A family of four on 15 gpg puts about 4,500 grains a day through it, so each tank lasts more than eight days. That is the sweet spot: the bed cycles often enough to stay fresh, and the house never sees hard water.
 
@@ -83,33 +85,30 @@ The low backwash requirement makes it a good fit for a well with a modest pump, 
 
 - **Resin:** 1.0 cu ft per tank
 - **Flow:** 5 gpm service, 7.5 gpm peak; 2.2 gpm backwash
-- **Price:** about $1,230 at the AFWFilters store. [See it on Amazon (B000GE8T6C)](https://www.amazon.com/dp/B000GE8T6C)
+
+[Check price on Amazon](https://www.amazon.com/dp/B000GE8T6C)
 
 This suits a one- or two-bathroom home where someone uses water at night, such as a shift worker or a home with a hair-washing business. Each tank gives about 26,000 usable grains at 9 lb per cubic foot, which is about six days for two people on 30 gpg water.
 
-**Watch for:** 5 gpm service flow. A tub and a shower running together will push it. It costs about 74% more than a single 32k softener with the same resin, which is a lot to pay for a small home unless the round-the-clock supply is genuinely needed.
+**Watch for:** 5 gpm service flow. A tub and a shower running together will push it. It costs much more than a single 32k softener with the same resin, which is a lot to pay for a small home unless the round-the-clock supply is genuinely needed.
 
 ### Fleck 9100SXT twin 64k: best for large or very hard-water households
 
 - **Resin:** 2.0 cu ft per tank, in 12-inch tanks
 - **Flow:** 10 gpm service, 15 gpm peak; 4 gpm backwash
-- **Price:** about $1,710 for AFWFilters' equivalent build. [See it on Amazon (B07T8K6HSP)](https://www.amazon.com/dp/B07T8K6HSP)
+- **Amazon listing:** we could not confirm who sells it, so the details here are for AFWFilters' equivalent 9100SXT build
+
+[Check price on Amazon](https://www.amazon.com/dp/B07T8K6HSP)
 
 Five people on 20 gpg water put about 7,500 grains a day through a softener. Each 2.0 cu ft tank gives about 52,000 usable grains at 9 lb per cubic foot, so roughly seven days per tank. At 30 gpg and above, a twin's lack of reserve starts to save real salt, because a single tank would be recharging a day's capacity it never used every few days.
 
-**Watch for:** the backwash. At 4 gpm per tank, it is fine on city water but worth checking against a well pump. Above about 10,000 grains a day, the same family of systems comes in a 96k size with 3 cu ft per tank, at about $2,830 at the AFWFilters store ([B00A6GSI0M](https://www.amazon.com/dp/B00A6GSI0M) on Amazon).
+**Watch for:** the backwash. At 4 gpm per tank, it is fine on city water but worth checking against a well pump. Above about 10,000 grains a day, the same family of systems comes in a 96k size with 3 cu ft per tank, sold by the AFWFilters store and on Amazon.
+
+[Check price on Amazon](https://www.amazon.com/dp/B00A6GSI0M)
 
 ## What a Twin Costs Over a Single Tank of the Same Size
 
-The fair comparison is per tank. A twin only ever softens with one tank at a time, so a 48k twin replaces a 48k single, not a 96k single. Using AFWFilters store prices for the same Fleck brand and the same 10% crosslink resin on both sides:
-
-| Per-tank size | Single tank (Fleck 5600SXT) | Twin (Fleck 9100SXT) | Premium |
-|---|---|---|---|
-| 32k (1.0 cu ft) | about $759 | about $1,324 | about $565 (74%) |
-| 48k (1.5 cu ft) | about $785 | about $1,575 | about $790 (101%) |
-| 64k (2.0 cu ft) | about $889 | about $1,825 | about $935 (105%) |
-
-*Store prices checked 1 October 2026. Both columns include a brine tank and bypass.*
+The fair comparison is per tank. A twin only ever softens with one tank at a time, so a 48k twin replaces a 48k single, not a 96k single. Comparing AFWFilters store prices for the same Fleck brand and the same 10% crosslink resin on both sides, a Fleck 9100SXT twin cost far more than a Fleck 5600SXT single tank at every per-tank size from 32k to 64k, and roughly double at 48k and 64k. Both sides of that comparison include a brine tank and bypass.
 
 You get part of the premium back in running cost. A single tank holds back a day's load as reserve and recharges it whether or not it was used. A twin runs each tank to exhaustion. The [single tank vs twin tank comparison](/blog/single-tank-vs-twin-tank-water-softeners/) sets out that efficiency case in full. On moderate water the saving is a few dollars of salt a year and never repays the premium. Above about 30 gpg it grows, but the main reason to buy a twin is still the uninterrupted soft water.
 
@@ -152,4 +151,4 @@ Use real usable capacity, not the box rating. At 9 lb of salt per cubic foot, st
 - **Tight utility closets.** If two resin tanks and a brine tank will not fit with service access, a cabinet or single tank is the honest answer.
 - **Renters.** A three-tank system with a drain connection is not something to fit without the owner's permission.
 
-A twin-tank softener is a convenience upgrade, not a softening upgrade. Buy one when nonstop soft water is worth about $600 to $900 to you, and size it one tank at a time.
+A twin-tank softener is a convenience upgrade, not a softening upgrade. Buy one when nonstop soft water is worth close to the price of a second softener to you, and size it one tank at a time.

@@ -10,7 +10,7 @@ featuredImage: "https://images.pexels.com/photos/8486972/pexels-photo-8486972.jp
 ogImageAlt: "Woman in a hard hat and high-visibility vest holding a pipe wrench, the plumbing skill that decides whether buying a water softener online saves money"
 faqs:
   - question: "Is it cheaper to buy a water softener online or from a dealer?"
-    answer: "Online, usually by a wide margin. In our illustrative 15-year model for a family of four, a dealer system installed for $3,500 costs about $5,303 including service and salt, against about $2,728 for a $775 online softener with a $500 plumber install and DIY maintenance. The gap is roughly $170 a year, and most of it is the upfront price."
+    answer: "Online, usually by a wide margin. In our illustrative 15-year model for a family of four, a dealer system installed for $3,500 costs about $5,303 including service and salt, against about $2,728 for an online softener, modelled at $775 of equipment, with a $500 plumber install and DIY maintenance. The gap is roughly $170 a year, and most of it is the upfront price."
   - question: "Are dealer water softeners better quality than online ones?"
     answer: "Not automatically. Many dealer and online systems use similar control valves and resin. Some dealer brands, such as Kinetico's non-electric twin-tank designs, are genuinely different engineering. What a dealer adds for certain is a service relationship: water testing, sizing, installation, warranty labor and a local technician. Judge the quote on the model, resin volume, valve and written service terms, not on the brand name."
   - question: "Can I buy a Culligan or Kinetico softener online?"
@@ -23,15 +23,15 @@ faqs:
     answer: "Owners who will not install or maintain a softener themselves, homes with complex well water that needs a designed treatment train, and anyone who values one phone number for testing, repairs and warranty claims. A good local dealer is worth paying for in those cases. Get an itemized written quote naming the model and resin volume, and compare it with an online system plus a plumber's bid."
 ---
 
-**Dealer vs online water softener comes down to who does the work.** A dealer sells you an installed system and a service relationship. An online seller sells you a box. In our illustrative 15-year model for a family of four, a dealer system at $3,500 installed costs about $5,303 including service and salt. A $775 online softener with a $500 plumber install and DIY upkeep costs about $2,728. That is a premium of about $2,575, or $172 a year. It is worth paying if you will never touch the softener, if your water needs more than softening, or if you have a dealer you trust. It is wasted if you can change a seal kit and program a valve.
+**Dealer vs online water softener comes down to who does the work.** A dealer sells you an installed system and a service relationship. An online seller sells you a box. In our illustrative 15-year model for a family of four, a dealer system at $3,500 installed costs about $5,303 including service and salt. An online softener, modelled at $775 of equipment, with a $500 plumber install and DIY upkeep costs about $2,728. That is a premium of about $2,575, or $172 a year. It is worth paying if you will never touch the softener, if your water needs more than softening, or if you have a dealer you trust. It is wasted if you can change a seal kit and program a valve.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this comparison was built.** No system was physically tested and no dealer was mystery-shopped. Dealer prices are not published by most dealer brands, so the dealer figure is illustrative and placed inside the range owners report. Online prices are from the sellers' own stores. Installation labor is from Fixr's national guide. Every assumption sits beside the table that uses it, so you can swap in your own quotes.
+> **How this comparison was built.** No system was physically tested and no dealer was mystery-shopped. Dealer prices are not published by most dealer brands, so the dealer figure is illustrative and placed inside the range owners report. The online equipment figure is an illustrative model input, not a current listing price. Installation labor is from Fixr's national guide. Every assumption sits beside the table that uses it, so you can swap in your own quotes.
 >
 > - **Compared:** a dealer-installed metered softener against an online metered softener installed by a plumber, and the same online unit installed by the owner.
 > - **Excluded:** rental and lease-to-own plans, which are a separate decision covered in [renting vs buying a water softener](/blog/renting-vs-buying-a-water-softener/), and salt-free conditioners.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon did not show prices to our tools, so online prices are from AFWFilters, Aquasure and SoftPro's own stores that day.
+> - **Prices of the online units are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## What Each Channel Actually Sells You
 
@@ -52,19 +52,19 @@ The last line matters most when you shop. Dealer brands rarely publish prices. K
 
 ## Online Benchmarks: What a Box Costs
 
-These are the online systems the cost model uses as benchmarks. All are metered, sold on Amazon at well over $100, and priced at the sellers' own stores on 2 October 2026.
+These are the online systems the cost model uses as benchmarks. All are metered and sold on Amazon.
 
-| System | Type | Seller's store price | Warranty headline | Amazon |
-|---|---|---|---|---|
-| AFWFilters Fleck 5600SXT 48,000 | Single tank, Pentair Fleck valve | about $775 on sale ($959 regular) | 5-year valve, 10-year tank (AFW standard) | [B00OGN3162](https://www.amazon.com/dp/B00OGN3162) |
-| Aquasure Harmony 48,000 | Two-tank, Aquasure's own valve | $629.99 | 5 years on valve, electronics and resin if registered within 60 days | [B07F175C2R](https://www.amazon.com/dp/B07F175C2R) |
-| SoftPro Elite 48,000 | Upflow single tank | $1,457 | Lifetime tanks and valve; shorter cover on seals and board | [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) |
+| System | Type | Warranty headline | Amazon |
+|---|---|---|---|
+| AFWFilters Fleck 5600SXT 48,000 | Single tank, Pentair Fleck valve | 5-year valve, 10-year tank (AFW standard) | [Check price on Amazon](https://www.amazon.com/dp/B00OGN3162) |
+| Aquasure Harmony 48,000 | Two-tank, Aquasure's own valve | 5 years on valve, electronics and resin if registered within 60 days | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| SoftPro Elite 48,000 | Upflow single tank | Lifetime tanks and valve; shorter cover on seals and board | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 
-*Store prices from store.afwfilters.com, aquasureusa.com and softprowatersystems.com, checked 2 October 2026. Warranty headlines from each seller's published terms; read the full terms before buying.*
+*Warranty headlines from each seller's published terms; read the full terms before buying.*
 
-SpringWell's SS4 softener sells direct at about $1,785, but its Amazon listing showed "currently unavailable" on 1 October 2026, so it is not used as a benchmark here.
+SpringWell's SS4 softener sells direct, but its Amazon listing showed "currently unavailable" on 1 October 2026, so it is not used as a benchmark here.
 
-None of these prices includes installation. A 48,000-grain box sized for a family of four on moderate hardness is the like-for-like match for a typical dealer quote. Check the resin volume on both quotes, though: grain numbers alone hide real differences, as explained in [how to compare water softener spec sheets](/blog/how-to-compare-water-softener-spec-sheets/).
+None of these includes installation. A 48,000-grain box sized for a family of four on moderate hardness is the like-for-like match for a typical dealer quote. Check the resin volume on both quotes, though: grain numbers alone hide real differences, as explained in [how to compare water softener spec sheets](/blog/how-to-compare-water-softener-spec-sheets/).
 
 ![Two labelled shipping boxes left on a doorstep, how an online water softener arrives: in boxes, with installation left to the buyer](https://images.pexels.com/photos/4440887/pexels-photo-4440887.jpeg)
 
@@ -75,7 +75,7 @@ Assumptions, all illustrative:
 - **Household:** a family of four on 15 gpg water, about 1.53 million grains of hardness a year.
 - **Salt:** both softeners metered and set to an efficient 6 lb per cubic foot, about 401 lb a year at $0.20 a pound. That is about $80 a year, or $1,203 over 15 years, for both channels. Regeneration water is treated as equal too.
 - **Dealer:** an installed package at **$3,500**, inside the owner-reported range, plus a **$600** allowance for dealer service visits over 15 years.
-- **Online + plumber:** the AFWFilters Fleck 5600SXT 48k at **$775**, plus **$500** of plumber labor (inside Fixr's $150 to $1,000 range), plus a **$250** DIY parts allowance for a seal kit, injector and resin cleaner over 15 years.
+- **Online + plumber:** a 48k online softener such as the AFWFilters Fleck 5600SXT, modelled at **$775** of equipment, plus **$500** of plumber labor (inside Fixr's $150 to $1,000 range), plus a **$250** DIY parts allowance for a seal kit, injector and resin cleaner over 15 years.
 - **Online, DIY install:** the same unit, **$100** of fittings and materials, and the same $250 parts allowance.
 
 ![Stacked bar chart of dealer vs online water softener 15-year cost: dealer system about $5,303, online with a plumber about $2,728, online with a DIY install about $2,328](/diagrams/dealer-vs-online-water-softener-15-year-cost-by-component.svg "Salt costs the same either way; the gap is the upfront package")

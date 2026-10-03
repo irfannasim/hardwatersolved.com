@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" width="760" height="650" role="img" aria-labelledby="cwp-title cwp-desc">
-<title id="cwp-title">Clack WS1 wear parts: spacer stack, main piston, regenerant piston, injector and drive cap, with replacement costs</title>
-<desc id="cwp-desc">Simplified cross-section of a Clack WS1 water softener control valve showing the five parts its service manual blames most often, the faults each causes, and approximate replacement costs from parts retailers.</desc>
+<title id="cwp-title">Clack WS1 wear parts: spacer stack, main piston, regenerant piston, injector and drive cap, with how each is sold</title>
+<desc id="cwp-desc">Simplified cross-section of a Clack WS1 water softener control valve showing the five parts its service manual blames most often, the faults each causes, and how each part is sold.</desc>
 <rect width="760" height="650" fill="#ffffff"/>
-<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Clack WS1: the parts that wear, and what they cost</text>
-<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Simplified section, not to scale. Faults from the Clack troubleshooting table; prices approximate, checked 1 October 2026.</text>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Clack WS1: the parts that wear, and how they are sold</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Simplified section, not to scale. Faults from the Clack troubleshooting table.</text>
 <rect x="230" y="130" width="330" height="130" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
 <rect x="150" y="160" width="80" height="70" rx="4" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.5"/>
 <rect x="500" y="100" width="34" height="30" rx="3" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.5"/>
@@ -42,17 +42,17 @@
 <text x="30" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">#</text>
 <text x="66" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Part (Clack number)</text>
 <text x="300" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Manual lists it for</text>
-<text x="580" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Approx. cost</text>
+<text x="580" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">How it is sold</text>
 <rect class="box" x="24" y="360" width="712" height="42" rx="4" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
 <text x="30" y="386" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1</text>
 <text x="66" y="386" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Spacer stack, V3005-02</text>
 <text x="300" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Hard water, water to drain, E1</text>
-<text x="580" y="386" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">about $35</text>
+<text x="580" y="386" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">single part</text>
 <rect class="box" x="24" y="408" width="712" height="42" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
 <text x="30" y="434" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2</text>
 <text x="66" y="434" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Main piston, V3011</text>
 <text x="300" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Water to drain, E3 from fouling drag</text>
-<text x="580" y="434" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">kit: under $100</text>
+<text x="580" y="434" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">rebuild kit</text>
 <rect class="box" x="24" y="456" width="712" height="42" rx="4" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
 <text x="30" y="482" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3</text>
 <text x="66" y="482" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Regenerant piston, V3174</text>
@@ -62,11 +62,11 @@
 <text x="30" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4</text>
 <text x="66" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Injector, V3010-1 series</text>
 <text x="300" y="530" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Plugged: no brine draw, salt unused</text>
-<text x="580" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">about $20</text>
+<text x="580" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">sized to your tank</text>
 <rect class="box" x="24" y="552" width="712" height="42" rx="4" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
 <text x="30" y="578" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">5</text>
 <text x="66" y="578" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Drive cap assembly</text>
 <text x="300" y="578" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">No regeneration: broken drive gear</text>
 <text x="580" y="578" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">ask your seller</text>
-<text x="30" y="622" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">A complete replacement WS1 head costs about $400 to $550, so a rebuild is nearly always cheaper.</text>
+<text x="30" y="622" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Most faults need only a rebuild. A complete WS1 head is for a cracked body or failed electronics.</text>
 </svg>

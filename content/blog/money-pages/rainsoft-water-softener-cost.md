@@ -25,7 +25,7 @@ faqs:
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this page was put together.** RainSoft's product names and warranty terms come from its current softener page and the EC5 owner's manual (part 16842, revision J). The price ranges come from published cost guides, not from RainSoft, and no sales visit was attended. The converter is standard loan arithmetic: monthly payment, number of payments and APR give the amount financed. No equipment was physically tested. RainSoft is not sold on Amazon, so the online cash-price anchors below were checked against retailer and brand-store listings. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **How this page was put together.** RainSoft's product names and warranty terms come from its current softener page and the EC5 owner's manual (part 16842, revision J). The price ranges come from published cost guides, not from RainSoft, and no sales visit was attended. The converter is standard loan arithmetic: monthly payment, number of payments and APR give the amount financed. No equipment was physically tested. RainSoft is not sold on Amazon, so the online alternatives below were checked against their Amazon, retailer and brand-store listings. **Prices are not listed here** for individual products because they change often. Use the buttons to see the current price on Amazon.
 
 ## RainSoft Water Softener Cost at a Glance
 
@@ -130,15 +130,15 @@ Once it is paid for, running a RainSoft softener is cheap. The service relations
 
 ## The Cash-Price Benchmark: What Similar Equipment Costs Online
 
-RainSoft softeners are not sold on Amazon; only replacement drinking-water filters and parts are. To judge a RainSoft quote, compare it with what the same class of equipment costs to buy outright. These are cash prices for a softener-plus-drinking-water package or a softener alone:
+RainSoft softeners are not sold on Amazon; only replacement drinking-water filters and parts are. To judge a RainSoft quote, compare it with what the same class of equipment costs to buy outright. These are a softener-plus-drinking-water package or a softener alone, each sold for cash online:
 
-| Online alternative | What it includes | Approx. cash price |
+| Online alternative | What it includes | Amazon |
 |---|---|---|
-| [Aquasure 32,000-grain softener + 75 GPD RO bundle](https://www.amazon.com/dp/B07MC633R1) | Metered softener, triple-purpose whole-house prefilter and under-sink reverse osmosis | About $800 at Home Depot and Walmart (model AS-WHF32D) |
-| [APEC WH-SOFTENER-30-FG](https://www.amazon.com/dp/B0CM8CLZZ4) | 30,000-grain softener plus alkaline-mineral 75 GPD RO; listed as WQA Gold Seal certified | About $750 at Home Depot |
-| [AFWFilters Fleck 5600SXT 48k, 10% resin](https://www.amazon.com/dp/B00YFOTWZG) | Softener only, on a standard Fleck valve with parts from many sellers | About $785 on AFW's store |
+| Aquasure 32,000-grain softener + 75 GPD RO bundle (model AS-WHF32D) | Metered softener, triple-purpose whole-house prefilter and under-sink reverse osmosis; also sold at Home Depot and Walmart | [Check price on Amazon](https://www.amazon.com/dp/B07MC633R1) |
+| APEC WH-SOFTENER-30-FG | 30,000-grain softener plus alkaline-mineral 75 GPD RO; listed as WQA Gold Seal certified | [Check price on Amazon](https://www.amazon.com/dp/B0CM8CLZZ4) |
+| AFWFilters Fleck 5600SXT 48k, 10% resin | Softener only, on a standard Fleck valve with parts from many sellers | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) |
 
-*Amazon pages did not show prices to our check, so these are retailer and brand-store prices. Both Amazon listings for the bundles were live on 2 October 2026.*
+*Both Amazon listings for the bundles were live on 2 October 2026.*
 
 Add a plumber. Fixr puts installation labor at about $150 to $1,000 depending on the plumbing needed, and a house without a loop, drain or outlet sits at the top of that. Even at the high end, an online package installed by a plumber usually comes to $1,000 to $2,000. That does not make a RainSoft quote wrong, because you give up the dealer, the in-home service and the lifetime parts warranty. It does tell you how much of the quote is paying for them.
 

@@ -2,7 +2,7 @@
 title: "Best Water Softener Replacement Valves: Check the Fit, Then Pick the Head"
 seoTitle: "Best Water Softener Replacement Valves: 3 Proven Heads"
 seoDescription: "The best water softener replacement valves revive an old tank if the thread and riser fit. Top replacement heads and how to confirm the fit first."
-excerpt: "A new control head can bring a sound softener tank back to life for about half the price of a new system, but only if six things around it fit: the tank thread, the riser tube, the drain flow control, the brine side, the bypass and the backwash rate your tank diameter needs. This guide gives the measurement checklist first, then matches replacement heads to tank sizes."
+excerpt: "A new control head can bring a sound softener tank back to life for well under the price of a new system, but only if six things around it fit: the tank thread, the riser tube, the drain flow control, the brine side, the bypass and the backwash rate your tank diameter needs. This guide gives the measurement checklist first, then matches replacement heads to tank sizes."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -12,16 +12,16 @@ faqs:
   - question: "Can I put a new valve on my old water softener tank?"
     answer: "Usually, if the tank has the standard 2-1/2 inch, 8 threads per inch neck and a 1.050 inch riser tube, which covers most residential tanks. You also need the right bypass or yoke for the new valve, a drain line flow control sized for the tank diameter, and a brine tank float that suits the new valve. Cabinet softeners with built-in valves are the main exception."
   - question: "What is the best replacement valve for a water softener?"
-    answer: "For tanks from 8 to 12 inches across, a metered Fleck 5600SXT head is the best value and the easiest to find parts for, at about $349 from AFWFilters. For 13 to 16 inch tanks or higher flows, the Fleck 5800SXT is the better fit, because Pentair rates it for backwash on tanks up to 16 inches. The Clack WS1 is a strong alternative but is not sold as a standalone head on Amazon."
+    answer: "For tanks from 8 to 12 inches across, a metered Fleck 5600SXT head is the best value and the easiest to find parts for. For 13 to 16 inch tanks or higher flows, the Fleck 5800SXT is the better fit, because Pentair rates it for backwash on tanks up to 16 inches. The Clack WS1 is a strong alternative but is not sold as a standalone head on Amazon."
   - question: "How much does it cost to replace a water softener control valve?"
-    answer: "The head itself costs about $350 to $400 for a metered Fleck 5600SXT. Add about $65 for a Fleck bypass if the old one does not fit, and a few dollars for a drain line flow control if the head ships without one. A plumber typically adds labour. A complete new 48,000-grain Fleck 5600SXT softener costs about $775 at the same seller, so the head alone is roughly half."
+    answer: "You pay for the head itself, plus a Fleck bypass if the old one does not fit, a drain line flow control if the head ships without one, and labour if a plumber fits it. A metered Fleck 5600SXT head on its own costs well under a complete new 48,000-grain Fleck 5600SXT softener from the same seller. Prices change often, so check the current price of the head and any parts before ordering."
   - question: "Is it worth replacing the valve or the whole water softener?"
     answer: "Replace only the valve when the tank is sound and the resin still works, and the old valve is cracked, its board is obsolete or parts are unavailable. If the resin is also worn out, a new valve plus a rebed approaches the price of a new softener. Try a seal and spacer kit first if the old valve simply leaks internally."
   - question: "Do I need to reprogram a new softener valve?"
     answer: "Yes. A replacement head arrives with factory settings. Set the time, your hardness in grains per gallon, the system capacity for your resin volume at the salt dose you intend to use, and the regeneration time. Use the capacity of the resin you have, not the grain number on the old softener's box."
 ---
 
-The **best water softener replacement valves** for most homes are metered Fleck heads: the **Fleck 5600SXT** for tanks from 8 to 12 inches across, and the **Fleck 5800SXT** for 13 to 16 inch tanks or higher flows. A metered 5600SXT head costs about $349 from AFWFilters, roughly half the price of a complete new softener from the same seller. But a head only works on an old tank if six things around it fit, and most failed swaps go wrong on those, not on the valve itself.
+The **best water softener replacement valves** for most homes are metered Fleck heads: the **Fleck 5600SXT** for tanks from 8 to 12 inches across, and the **Fleck 5800SXT** for 13 to 16 inch tanks or higher flows. A metered 5600SXT head costs well under a complete new softener from the same seller. But a head only works on an old tank if six things around it fit, and most failed swaps go wrong on those, not on the valve itself.
 
 So this page starts with the fit checklist, then matches each replacement head to a tank size.
 
@@ -31,10 +31,10 @@ So this page starts with the fit checklist, then matches each replacement head t
 
 > **Methodology.** Nothing on this page was physically tested. Heads were compared from Pentair's and Clack's published specifications, the sellers' listings and the warranty terms they state.
 >
-> - **Included:** complete metered softener control heads that fit a standard 2-1/2 inch, 8-thread tank neck, sold new on Amazon.com at a normal price above $100.
+> - **Included:** complete metered softener control heads that fit a standard 2-1/2 inch, 8-thread tank neck, sold new on Amazon.com.
 > - **Ranked on:** the tank diameters each head can backwash, parts availability, and what the listing says is included or missing.
-> - **Excluded:** the Fleck 5810SXT (discontinued), timer-only heads, and heads not sold standalone on Amazon, including the Clack WS1 and Fleck 7000SXT. Seal kits and bypass valves sell under $100 and are covered as parts, not picks.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our check, so prices come from the sellers' own stores where we could find them, as given for each pick.
+> - **Excluded:** the Fleck 5810SXT (discontinued), timer-only heads, and heads not sold standalone on Amazon, including the Clack WS1 and Fleck 7000SXT. Seal kits and bypass valves are covered as parts, not picks.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## First, Is It the Valve?
 
@@ -53,7 +53,7 @@ Work through these with the old valve still on the tank where you can, and write
 3. **Riser height.** Each valve sets how far the riser must sit relative to the tank lip, and Fleck's and Clack's figures are not interchangeable. A tube cut for one valve may need trimming, or replacing, for another. Check the new head's manual before you cut.
 4. **Tank diameter.** It decides the backwash rate, which is set by a small washer in the drain fitting called the drain line flow control. For standard resin, the commonly used figures are 1.5 to 2.0 gpm for an 8 inch tank, 2.4 to 3.5 gpm for 10 inch and 3.5 to 5.0 gpm for 12 inch. The new head must ship with, or accept, the right one. Clack's [WS1 service manual](https://www.clackcorp.com/wp-content/uploads/2026/01/V3115-99-WS1-1.25-DRAWINGS-AND-SERVICE-MANUAL.pdf) lists drain flow controls from 0.7 to 10 gpm for its 3/4 inch drain fitting, which shows how wide that choice is.
 5. **The brine side.** Most homes run a 3/8 inch brine line to a safety float in the brine tank. Fleck heads pair with Fleck's 2310 safety float and an air check. Some valves refill by time, others with softened water, and the float must suit the method.
-6. **Bypass or yoke.** Fleck heads connect through a Fleck yoke or bypass, in 3/4 or 1 inch. A Clack WS1 uses its own bypass. Changing valve brand almost always means changing the bypass, about $65 for a Fleck 1 inch bypass at AFWFilters.
+6. **Bypass or yoke.** Fleck heads connect through a Fleck yoke or bypass, in 3/4 or 1 inch. A Clack WS1 uses its own bypass. Changing valve brand almost always means changing the bypass.
 
 Also check the obvious: a power outlet within reach of the transformer cord, and which side of the old valve the supply enters, so the new head and its meter are plumbed the right way round.
 
@@ -71,7 +71,8 @@ Also check the obvious: a power outlet within reach of the transformer cord, and
 - **What it is:** Fleck's 5600SXT digital metered softener head, which measures water use and regenerates on demand, with an LCD display, day override and adjustable cycle times.
 - **Included:** the head and a complete service manual. AFWFilters says the head requires a Fleck yoke or bypass and offers one as an option if you do not have it.
 - **Warranty:** five-year manufacturer's warranty, per AFWFilters.
-- **Price:** $349 at AFWFilters' own store. [See it on Amazon (B0BVGSG7DS)](https://www.amazon.com/dp/B0BVGSG7DS)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0BVGSG7DS)
 
 The 5600SXT is one of the most common residential heads in the US, so seals, pistons, meters and flow controls are easy to find for years. It is the natural replacement for an old Fleck 5600 timer or mechanical meter head, where the yoke, riser and brine float usually carry straight over. On another brand's tank, budget for the Fleck bypass.
 
@@ -80,7 +81,8 @@ The 5600SXT is one of the most common residential heads in the US, so seals, pis
 ### DuraWater Fleck 5600SXT metered head: same valve, a second seller
 
 - **What it is:** the same digital metered Fleck 5600SXT, sold as a replacement head. The listing describes a five-year warranty and a 2-1/2 inch, 8-thread base, and sizes the head for tanks up to 13 inches. It notes a yoke or bypass is sold separately.
-- **Price:** not shown to our check on 2 October 2026. Earlier seller research put it at about $366 to $375. [See it on Amazon (B004N8ADBQ)](https://www.amazon.com/dp/B004N8ADBQ)
+
+[Check price on Amazon](https://www.amazon.com/dp/B004N8ADBQ)
 
 Buy whichever of the two 5600SXT listings is cheaper on the day and ships with the drain line flow control your tank needs. Ask the seller which flow control is fitted before ordering. A head set up for a 10 inch tank will over-backwash an 8 inch one and under-backwash a 12 inch one.
 
@@ -90,7 +92,8 @@ Buy whichever of the two 5600SXT listings is cheaper on the day and ships with t
 
 - **What it is:** Fleck's 5800SXT five-cycle softener meter valve, 12 V DC. The Amazon listing title says it is supplied **without a drain line flow control**, so you must buy one sized to your tank.
 - **Pentair's figures:** a continuous service flow of 21 gpm and a backwash rate of 17 gpm, backwash for tanks up to 16 inches, 3/4 or 1 inch connections, and soft-water refill of the brine tank, per [Pentair's Fleck 5800 page](https://www.pentair.com/en-us/home-water-treatment/valves/fleck-5800-valve.html).
-- **Price:** not shown to our check on 2 October 2026; check the listing. [See it on Amazon (B0BZK1T59B)](https://www.amazon.com/dp/B0BZK1T59B)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0BZK1T59B)
 
 The 5800 is the head to choose when the tank is bigger than a 5600 handles comfortably, or the house has three or more bathrooms in use at once. Soft-water refill keeps hard water out of the brine tank, which some owners prefer.
 
@@ -98,23 +101,23 @@ The 5800 is the head to choose when the tank is bigger than a 5600 handles comfo
 
 ### Not on Amazon as a standalone head
 
-- **Clack WS1.** A highly regarded alternative with a single-piece seal and spacer stack. We found no standalone WS1 head listed on Amazon. Specialist water treatment sellers list it, at roughly $400 to $550 on earlier research; that range was not rechecked today. It needs its own bypass.
+- **Clack WS1.** A highly regarded alternative with a single-piece seal and spacer stack. We found no standalone WS1 head listed on Amazon. Specialist water treatment sellers list it. It needs its own bypass.
 - **Fleck 7000SXT.** A higher-flow valve, sold mainly by specialist stores.
 - **Fleck 5810SXT.** Discontinued. If you have one and it fails, a 5800SXT is the closest current Fleck head, with a new flow control.
 
 ## What a Valve Swap Costs Against a New Softener
 
-All prices are AFWFilters' store prices, checked 2 October 2026, before labour.
+The options below run from least to most expensive, before labour. Prices change often, so check the current price of each before deciding.
 
-| Option | Parts | Approx. cost |
-|---|---|---|
-| Seal and spacer rebuild (Fleck 5800 piston, seals and spacers) | rebuild kit | about $159 |
-| New 5600SXT head on your tank, old Fleck bypass reused | head | about $349 |
-| New 5600SXT head with a new 1 inch Fleck bypass | head plus bypass | about $414 |
-| New 5600SXT head, new bypass and a 1.5 cu ft 10% rebed | head, bypass, resin kit | about $689 |
-| Complete new 48,000-grain Fleck 5600SXT softener, 10% resin | whole system | about $785 |
+| Option | Parts |
+|---|---|
+| Seal and spacer rebuild (Fleck 5800 piston, seals and spacers) | rebuild kit |
+| New 5600SXT head on your tank, old Fleck bypass reused | head |
+| New 5600SXT head with a new 1 inch Fleck bypass | head plus bypass |
+| New 5600SXT head, new bypass and a 1.5 cu ft 10% rebed | head, bypass, resin kit |
+| Complete new 48,000-grain Fleck 5600SXT softener, 10% resin | whole system |
 
-The head on its own is the clear saving. Once the resin also needs replacing, the gap to a whole new softener shrinks to about $100, and the new unit brings a new tank and brine tank as well. The decision rules for that point are in [repair or replace an old water softener](/blog/repair-or-replace-an-old-water-softener/).
+The head on its own is the clear saving. Once the resin also needs replacing, the gap to a whole new softener becomes small, and the new unit brings a new tank and brine tank as well. The decision rules for that point are in [repair or replace an old water softener](/blog/repair-or-replace-an-old-water-softener/).
 
 ## Installing and Setting Up the New Head
 

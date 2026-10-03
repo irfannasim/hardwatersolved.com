@@ -25,7 +25,7 @@ faqs:
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How these figures were built.** This is a cost model, not a lender survey. The $3,500 system, the APRs and the $40 rent are illustrative inputs; replace them with the numbers on your own offer. Loan payments use the standard amortisation formula. The deferred-interest figure is simple monthly interest on each month's balance, which is close to, but slightly below, what a card charging daily interest would bill. Online cash benchmarks are brand-store prices. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not load for our check.
+> **How these figures were built.** This is a cost model, not a lender survey. The $3,500 system, the APRs and the $40 rent are illustrative inputs; replace them with the numbers on your own offer. Loan payments use the standard amortisation formula. The deferred-interest figure is simple monthly interest on each month's balance, which is close to, but slightly below, what a card charging daily interest would bill. The online cash row uses a brand-store price seen on 2 October 2026. **Prices of individual products are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Water Softener Financing: Six Ways to Pay for the Same System
 
@@ -38,7 +38,7 @@ faqs:
 | Rental at $40 a month | $40 | **$4,800** | No |
 | Dealer system, 14.99% APR over 10 years | $56.45 | **about $6,770** | Yes |
 
-*Illustrative. Online row: SoftPro Elite 48,000 at $1,367 (SoftPro store, 2 October 2026) plus about $600 for a swap into an existing loop. Deferred interest at 26.99% APR. Upkeep, salt and repairs are excluded from every row except that the rental includes service.*
+*Illustrative. Online row: an online 48,000-grain-class softener at its brand-store price on 2 October 2026, plus about $600 for a swap into an existing loop. Deferred interest at 26.99% APR. Upkeep, salt and repairs are excluded from every row except that the rental includes service.*
 
 ![Bar chart of the ten-year total cost of one water softener under six payment methods: online cash $1,970, dealer cash $3,500, 0% paid on time $3,500, missed deferred interest $4,315, rental $4,800 and a 14.99% ten-year loan $6,770](/diagrams/water-softener-financing-cash-promo-loan-rental-ten-year-total.svg "The plan with the smallest monthly payment costs the most")
 
@@ -127,14 +127,14 @@ The break-even point depends on how long you stay and what the rent covers. The 
 
 ## Cash-Price Benchmarks Before You Finance Anything
 
-Financing a fair price is one decision. Financing an inflated price is two mistakes. These are dated cash prices for whole-house softeners in the 48,000-grain class, before installation:
+Financing a fair price is one decision. Financing an inflated price is two mistakes. These whole-house softeners in the 48,000-grain class are sold for cash online, so check their current prices before you look at a dealer's offer:
 
-| Benchmark | What it is | Price, 2 Oct 2026 | Amazon |
-|---|---|---|---|
-| Aquasure Harmony 48,000 (AS-HS48D) | Aquasure's own digital metered head, 10 x 54 in tank | about $630 (Aquasure store) | [B07F175C2R](https://www.amazon.com/dp/B07F175C2R) |
-| SoftPro Elite 48,000 | 10% crosslink resin, upflow brining | about $1,367 on sale (SoftPro store) | [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) |
+| Benchmark | What it is | Amazon |
+|---|---|---|
+| Aquasure Harmony 48,000 (AS-HS48D) | Aquasure's own digital metered head, 10 x 54 in tank; also sold at Aquasure's store | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| SoftPro Elite 48,000 | 10% crosslink resin, upflow brining; also sold at SoftPro's store | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 
-*Our original research listed the Harmony 48k under B07F19VL3P, which is unavailable on Amazon; B07F175C2R is the current listing for the same model.*
+*Our original research used an older Amazon listing for the Harmony 48k that is now unavailable; the button links to the current listing for the same model.*
 
 Add installation to either. A swap into an existing loop is a short job; a house that needs a new loop, drain and outlet costs more. The line-by-line ranges are in [water softener installation cost](/blog/water-softener-installation-cost/). If the installed total for a comparable online system is $1,200 to $2,000 and the dealer's cash price is $3,500 or more, ask what the difference buys before you discuss monthly payments.
 

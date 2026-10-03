@@ -12,20 +12,20 @@ faqs:
   - question: "How much does a well water treatment system cost?"
     answer: "It depends on what the well contains. In our four-profile model, equipment runs from about $1,000 for a sediment filter and softener on a hard-only well to about $3,180 for an iron and sulfur filter, softener and UV system. Installation adds roughly $400 to $2,500, and running costs range from about $155 to $475 a year."
   - question: "What is the yearly cost of running a well water treatment system?"
-    answer: "Roughly $155 to $475 a year in our model for a family of four. A softener-only system mainly uses salt and sediment cartridges. A calcite neutralizer adds media top-ups, and a UV system adds a yearly lamp, at about $160 for the VIQUA VH410's lamp, plus about $90 of electricity."
+    answer: "Roughly $155 to $475 a year in our model for a family of four. A softener-only system mainly uses salt and sediment cartridges. A calcite neutralizer adds media top-ups, and a UV system adds a yearly replacement lamp plus about $90 of electricity."
   - question: "How much does a UV system for well water cost?"
-    answer: "A whole-house UV unit such as the VIQUA VH410 was about $880 at AFWFilters' store on 2 October 2026. Budget about $160 a year for a replacement lamp, a quartz sleeve every few years, and around $90 a year of electricity. UV also needs clean, softened water ahead of it, so the stages before it are part of its cost."
+    answer: "In our model, adding a whole-house UV stage such as the VIQUA VH410, with its 5-micron prefilter, takes equipment from about $2,200 for an iron filter and softener to about $3,180. Budget for a replacement lamp every year, a quartz sleeve every few years, and around $90 a year of electricity. UV also needs clean, softened water ahead of it, so the stages before it are part of its cost."
   - question: "Is it cheaper to treat iron with a softener or an iron filter?"
-    answer: "For low iron, a fine-mesh softener alone is cheaper. Above about 3 ppm, or where manganese or hydrogen sulfide is present, an iron filter ahead of the softener is the reliable choice. An air-injection filter such as the AFWFilters Air Injection Silver 10, rated to 10 ppm iron, cost about $1,199 when checked, and uses no chemicals."
+    answer: "For low iron, a fine-mesh softener alone is cheaper. Above about 3 ppm, or where manganese or hydrogen sulfide is present, an iron filter ahead of the softener is the reliable choice. An air-injection filter such as the AFWFilters Air Injection Silver 10, rated to 10 ppm iron, uses no chemicals; in our model, adding an iron filter takes equipment from about $1,000 to about $2,200."
   - question: "How much does an acid neutralizer cost for well water?"
-    answer: "Calcite neutralizer systems were about $658 to $798 for a 1.5 cubic foot unit at AFWFilters' store on 2 October 2026. Calcite dissolves as it works, so budget for top-ups; a 0.5 cubic foot bag of calcite media was $110. The neutralizer adds hardness, so a softener after it may need a higher setting."
+    answer: "Calcite neutralizer systems run about $660 to $800 for a 1.5 cubic foot unit. Calcite dissolves as it works, so budget for top-ups; our model allows one to two 0.5 cubic foot bags of calcite media a year, about $165. The neutralizer adds hardness, so a softener after it may need a higher setting."
 ---
 
-**Well water treatment system cost** depends almost entirely on what your well test shows. A hard-only well needs a sediment filter and a softener, about $1,000 in equipment and roughly $1,700 installed. A well with bacteria, iron and sulfur needs an iron-sulfur filter, a softener and a UV system, about $3,180 in equipment and nearer $5,000 installed. Running costs climb in the same way, from about $155 a year to about $475. Below, each of four common profiles is broken into equipment, installation and annual running cost, with every equipment price dated.
+**Well water treatment system cost** depends almost entirely on what your well test shows. A hard-only well needs a sediment filter and a softener, about $1,000 in equipment and roughly $1,700 installed. A well with bacteria, iron and sulfur needs an iron-sulfur filter, a softener and a UV system, about $3,180 in equipment and nearer $5,000 installed. Running costs climb in the same way, from about $155 a year to about $475. Below, each of four common profiles is broken into equipment, installation and annual running cost.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this page was put together.** Equipment prices are from AFWFilters' own store and other retailers, because Amazon pages did not show prices to our check; each product is linked to its live Amazon listing. Installation ranges are illustrative, built from Fixr's national labor figures for one stage and scaled for extra tanks and an outlet. Running costs use one household: four people, about 300 gallons a day, salt at $0.20 a lb and electricity at about 17 cents per kWh. Nothing was physically tested. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **How this page was put together.** Equipment budgets are rounded from retailer prices in October 2026 and given as a total for each profile, not as the price of any one listing. Installation ranges are illustrative, built from Fixr's national labor figures for one stage and scaled for extra tanks and an outlet. Running costs use one household: four people, about 300 gallons a day, salt at $0.20 a lb and electricity at about 17 cents per kWh. Nothing was physically tested. **Prices of individual products are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Well Water Treatment System Cost at a Glance
 
@@ -52,12 +52,12 @@ The order in which these stages are plumbed matters as much as the price, becaus
 
 The cheapest well to treat. With no iron, manganese or bacteria, the system is a sediment prefilter and a softener.
 
-| Item | Example | Price checked |
-|---|---|---|
-| Sediment prefilter | Standard whole-house housing and cartridge | illustrative $100 |
-| Softener | [AFWFilters Iron Pro 2 64k](https://www.amazon.com/dp/B004LUJ6L4), 2.0 cu ft fine-mesh resin, Fleck 5600SXT | $898 at AFW's store |
-| **Equipment total** | | **about $1,000** |
-| Installation | Loop, drain, outlet; illustrative | $400 to $1,000 |
+| Item | Example | Budget in our model | Amazon |
+|---|---|---|---|
+| Sediment prefilter | Standard whole-house housing and cartridge | illustrative $100 | |
+| Softener | AFWFilters Iron Pro 2 64k, 2.0 cu ft fine-mesh resin, Fleck 5600SXT | in the total | [Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4) |
+| **Equipment total** | | **about $1,000** | |
+| Installation | Loop, drain, outlet; illustrative | $400 to $1,000 | |
 
 **Running cost, about $155 a year.** At 15 gpg and 300 gallons a day, the softener removes about 1.64 million grains a year. At an efficient 6 lb of salt per cubic foot, that is roughly 470 lb of salt, about $94. Add sediment cartridges at about $60.
 
@@ -67,50 +67,52 @@ Fine-mesh resin costs little extra and tolerates traces of iron, which many well
 
 Above about 3 ppm of iron, or with manganese present, a softener alone fouls. An iron filter goes ahead of it.
 
-| Item | Example | Price checked |
-|---|---|---|
-| Sediment prefilter | Standard housing | illustrative $100 |
-| Iron filter | [AFWFilters Air Injection Silver 10, AIS10-25SXT](https://www.amazon.com/dp/B004FVZHLC): up to 10 ppm iron, 2 ppm manganese, 4 ppm hydrogen sulfide, 10 gpm peak | $1,199 at AFW's store |
-| Softener | AFWFilters Iron Pro 2 64k | $898 |
-| **Equipment total** | | **about $2,200** |
-| Installation | Two tanks, two drain connections; illustrative | $700 to $1,500 |
+| Item | Example | Budget in our model | Amazon |
+|---|---|---|---|
+| Sediment prefilter | Standard housing | illustrative $100 | |
+| Iron filter | AFWFilters Air Injection Silver 10, AIS10-25SXT: up to 10 ppm iron, 2 ppm manganese, 4 ppm hydrogen sulfide, 10 gpm peak | in the total | [Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC) |
+| Softener | AFWFilters Iron Pro 2 64k | in the total | [Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4) |
+| **Equipment total** | | **about $2,200** | |
+| Installation | Two tanks, two drain connections; illustrative | $700 to $1,500 | |
 
 **Running cost, about $185 a year.** Salt about $94 and sediment cartridges about $60, as in profile 1, plus an illustrative $30 a year set aside for the iron filter's media, which wears slowly but is eventually replaced. Air injection uses no chemicals, but each backwash sends water to drain, so homes on a low-yield well should check backwash flow first.
 
-**The cheaper route at low iron.** If iron is 3 ppm or less with manganese at 1 ppm or less, two other options cost less up front. A fine-mesh softener alone, like profile 1, handles low dissolved iron. Or a cartridge system such as the [iSpring WGB32BM](https://www.amazon.com/dp/B01FI3BLYM), rated for iron up to 3 ppm and manganese up to 1 ppm and sold at about $300 to $380 in late September 2026, can go ahead of the softener. We could not recheck its price on 2 October. Its cartridges are a yearly cost; the listing rates them at up to 12 months or 100,000 gallons.
+**The cheaper route at low iron.** If iron is 3 ppm or less with manganese at 1 ppm or less, two other options cost less up front. A fine-mesh softener alone, like profile 1, handles low dissolved iron. Or a cartridge system such as the iSpring WGB32BM, rated for iron up to 3 ppm and manganese up to 1 ppm, can go ahead of the softener. Its cartridges are a yearly cost; the listing rates them at up to 12 months or 100,000 gallons.
+
+[Check price on Amazon](https://www.amazon.com/dp/B01FI3BLYM)
 
 ## Profile 3: Acidic Water With Iron
 
 Low pH corrodes copper and leaves blue-green stains, and many iron media work poorly below neutral. A calcite neutralizer raises the pH first.
 
-| Item | Example | Price checked |
-|---|---|---|
-| Sediment prefilter | Standard housing | illustrative $100 |
-| Acid neutralizer | 1.5 cu ft calcite system. AFWFilters' GreenFlo pH 15 upflow is $658 and its Digital pH 15 on a Fleck 5600SXT $798. An [Oceanic Water Systems 1.5 cu ft calcite neutralizer](https://www.amazon.com/dp/B0CJ2SXGXQ) is listed on Amazon; we could not confirm its current price | about $730, mid-range |
-| Iron filter | AFWFilters Air Injection Silver 10 | $1,199 |
-| Softener | AFWFilters Iron Pro 2 64k | $898 |
-| **Equipment total** | | **about $2,930** |
-| Installation | Three tanks; illustrative | $900 to $2,000 |
+| Item | Example | Budget in our model | Amazon |
+|---|---|---|---|
+| Sediment prefilter | Standard housing | illustrative $100 | |
+| Acid neutralizer | 1.5 cu ft calcite system, such as AFWFilters' GreenFlo pH 15 upflow or its Digital pH 15 on a Fleck 5600SXT, or an Oceanic Water Systems 1.5 cu ft calcite neutralizer on Amazon | category range $660 to $800 | [Check price on Amazon](https://www.amazon.com/dp/B0CJ2SXGXQ) |
+| Iron filter | AFWFilters Air Injection Silver 10 | in the total | [Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC) |
+| Softener | AFWFilters Iron Pro 2 64k | in the total | [Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4) |
+| **Equipment total** | | **about $2,930** | |
+| Installation | Three tanks; illustrative | $900 to $2,000 | |
 
-**Running cost, about $370 a year.** This profile costs the most to run per stage, because calcite dissolves as it neutralizes. A 0.5 cubic foot bag of calcite was $110 at AFW's store; the model allows one to two bags a year, about $165. The dissolved calcite adds hardness, so the softener works harder, at about $113 of salt. Add $60 of sediment cartridges and the $30 iron media reserve.
+**Running cost, about $370 a year.** This profile costs the most to run per stage, because calcite dissolves as it neutralizes. The model allows one to two 0.5 cubic foot bags of calcite a year, about $165. The dissolved calcite adds hardness, so the softener works harder, at about $113 of salt. Add $60 of sediment cartridges and the $30 iron media reserve.
 
-Two cost traps. First, the 1.5 cubic foot neutralizers are rated at about 3.2 gpm of service flow, aimed at one to two bathrooms; a larger home needs the 2 cubic foot size, $829 to $1,119 at AFW's store. Second, below pH 6.0, AFW blends calcite with Corosex, a faster media that raises pH more strongly and is used up faster. Retest the pH after the neutralizer before setting the softener.
+Two cost traps. First, the 1.5 cubic foot neutralizers are rated at about 3.2 gpm of service flow, aimed at one to two bathrooms; a larger home needs the 2 cubic foot size, which costs more, about $830 to $1,120. Second, below pH 6.0, AFW blends calcite with Corosex, a faster media that raises pH more strongly and is used up faster. Retest the pH after the neutralizer before setting the softener.
 
 ## Profile 4: Bacteria, Iron and Sulfur
 
 The most expensive profile, because it adds disinfection on top of iron and sulfur removal. UV goes last, and it only works on clean water.
 
-| Item | Example | Price checked |
-|---|---|---|
-| Sediment prefilter | Standard housing | illustrative $100 |
-| Iron and sulfur filter | AFWFilters Air Injection Silver 10, rated to 4 ppm hydrogen sulfide | $1,199 |
-| Softener | AFWFilters Iron Pro 2 64k | $898 |
-| UV prefilter | 5-micron cartridge housing | illustrative $100 |
-| UV system | [VIQUA VH410](https://www.amazon.com/dp/B0054RB5HG): up to 18 gpm at 30 mJ/cm², 60 W, 9,000-hour lamp | $880 at AFW's store |
-| **Equipment total** | | **about $3,180** |
-| Installation | Four stages and an outlet for the UV; illustrative | $1,000 to $2,500 |
+| Item | Example | Budget in our model | Amazon |
+|---|---|---|---|
+| Sediment prefilter | Standard housing | illustrative $100 | |
+| Iron and sulfur filter | AFWFilters Air Injection Silver 10, rated to 4 ppm hydrogen sulfide | in the total | [Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC) |
+| Softener | AFWFilters Iron Pro 2 64k | in the total | [Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4) |
+| UV prefilter | 5-micron cartridge housing | illustrative $100 | |
+| UV system | VIQUA VH410: up to 18 gpm at 30 mJ/cm², 60 W, 9,000-hour lamp | in the total | [Check price on Amazon](https://www.amazon.com/dp/B0054RB5HG) |
+| **Equipment total** | | **about $3,180** | |
+| Installation | Four stages and an outlet for the UV; illustrative | $1,000 to $2,500 | |
 
-**Running cost, about $475 a year.** The UV lamp is the main new line. VIQUA rates the VH410 lamp at 9,000 hours, about a year of continuous running, and the S410RL-HO replacement was $160 at AFW's store. The lamp and quartz sleeve together, QL-410, were $195, for the years the sleeve also needs changing. At 60 W running around the clock, the unit uses about 525 kWh a year, roughly $90. Add salt at about $94, sediment and 5-micron cartridges at about $100, and the iron media reserve. Specifications are on [VIQUA's VH410 page](https://viqua.com/product/vh410/).
+**Running cost, about $475 a year.** The UV lamp is the main new line. VIQUA rates the VH410 lamp at 9,000 hours, about a year of continuous running, so the model budgets one S410RL-HO replacement lamp a year, or the QL-410 lamp-and-sleeve set in the years the sleeve also needs changing. At 60 W running around the clock, the unit uses about 525 kWh a year, roughly $90. Add salt at about $94, sediment and 5-micron cartridges at about $100, and the iron media reserve. Specifications are on [VIQUA's VH410 page](https://viqua.com/product/vh410/).
 
 UV needs the water in front of it to be clean. One UV maker's manual quoted in the treatment-order guide asks for iron below 0.3 ppm, hardness below 7 gpg and manganese below 0.05 ppm. That is why the iron filter and softener sit ahead of it, and why this profile cannot skip them to save money. A well with a positive bacteria test is normally shock-chlorinated and retested before any equipment is chosen. That is a one-off cost, not shown in the chart.
 

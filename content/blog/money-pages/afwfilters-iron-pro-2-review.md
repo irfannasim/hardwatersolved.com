@@ -29,12 +29,12 @@ This **AFWFilters Iron Pro 2 review** comes down to one point: it is a good buy 
 
 The Iron Pro 2 is sold in four resin volumes, all on the same Fleck 5600SXT digital metered valve. The figures below come from AFWFilters' own product pages.
 
-| Model | Resin | Service / peak flow | Brine tank | AFW store price | Amazon |
-|---|---|---|---|---|---|
-| 32k | 1.0 cu ft | 5 / 7.5 gpm | 14" square | about $765 | not confirmed |
-| 48k | 1.5 cu ft | 6.5 / 9.8 gpm | 14" x 14" x 36" | about $799 | [B075ZFYTNH](https://www.amazon.com/dp/B075ZFYTNH) |
-| 64k | 2.0 cu ft | 10 / 15 gpm | 18" x 33" round | about $898 | [B004LUJ6L4](https://www.amazon.com/dp/B004LUJ6L4) |
-| 80k | 2.5 cu ft | 11 / 16 gpm | 18" x 33" round | about $1,099 | [B075ZH2TDR](https://www.amazon.com/dp/B075ZH2TDR) |
+| Model | Resin | Service / peak flow | Brine tank | Amazon |
+|---|---|---|---|---|
+| 32k | 1.0 cu ft | 5 / 7.5 gpm | 14" square | not confirmed |
+| 48k | 1.5 cu ft | 6.5 / 9.8 gpm | 14" x 14" x 36" | [Check price on Amazon](https://www.amazon.com/dp/B075ZFYTNH) |
+| 64k | 2.0 cu ft | 10 / 15 gpm | 18" x 33" round | [Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4) |
+| 80k | 2.5 cu ft | 11 / 16 gpm | 18" x 33" round | [Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR) |
 
 What every size shares:
 
@@ -48,9 +48,9 @@ The 64k model is the one most listings and reviews describe, and the one that se
 
 ## How This Review Was Put Together
 
-> **Method.** No unit was physically tested for this review. It is built from AFWFilters' product pages, the [Pentair Fleck 5600SXT service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf), Penn State Extension's guidance on iron in private wells, and sizing arithmetic using a fixed salt dose of 6 lb per cubic foot of resin (about 21,000 grains per cubic foot). Each Amazon listing was opened to confirm the product page exists. Amazon did not show a price to our tools, so the prices above are AFWFilters' own store prices.
+> **Method.** No unit was physically tested for this review. It is built from AFWFilters' product pages, the [Pentair Fleck 5600SXT service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf), Penn State Extension's guidance on iron in private wells, and sizing arithmetic using a fixed salt dose of 6 lb per cubic foot of resin (about 21,000 grains per cubic foot). Each Amazon listing was opened to confirm the product page exists.
 >
-> Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Iron Pro 2 Removes One Kind of Iron
 
@@ -109,7 +109,9 @@ Both beds last far longer than three days, so the day override does the work. Ei
 
 On capacity alone, the 32k lasts almost exactly the three days iron calls for. Its 5 gpm service flow is the problem. Two showers and a washing machine at once can ask for more than that, and pressure drops. The 48k's 6.5 gpm service and 9.8 gpm peak flow are a better match for a four-person house. With the three-day override it regenerates about 122 times a year at 9 lb, roughly **1,100 lb of salt**. The 64k would also regenerate every three days, but at 12 lb each time, or about **1,460 lb**.
 
-**Pick: the 48k** ([B075ZFYTNH](https://www.amazon.com/dp/B075ZFYTNH)). Choose the 64k only if you have three or more bathrooms that often run together.
+**Pick: the 48k.** Choose the 64k only if you have three or more bathrooms that often run together.
+
+[Check price on Amazon](https://www.amazon.com/dp/B075ZFYTNH)
 
 ### Profile C: Five people, 18 gpg, 5 ppm iron, 0.5 ppm manganese
 
@@ -165,9 +167,9 @@ The Iron Pro 2 ships as a DIY system, with AFW's illustrated instructions and vi
 
 The Iron Pro 2 sits after the pressure tank and before the water heater. If any line is chlorinated before it, the iron will oxidize on the way in, which undoes the reason for buying it.
 
-## Price and Warranty
+## Running Cost and Warranty
 
-At AFWFilters' store on 1 October 2026, the 32k was about $765, the 48k about $799, the 64k about $898 and the 80k about $1,099. The step from 32k to 48k is small, about $34. The real difference is the salt. In Profile A, the bigger bed costs about 370 lb more salt every year, and that is a running cost you will pay long after the purchase price is forgotten.
+The price step from one size to the next is not the real difference. The salt is. In Profile A, the bigger bed costs about 370 lb more salt every year, and that is a running cost you will pay long after the purchase price is forgotten.
 
 The warranty listed by AFWFilters is 5 years on the Fleck control head and 10 years on the mineral tank. We found no separate warranty on the resin. Resin fouled by ferric iron or bacteria is a water-chemistry problem, not a defect, so treat the decision chart above as the real warranty.
 

@@ -21,16 +21,16 @@ faqs:
     answer: "We could not confirm it. On 2 October 2026 pelicanwater.com did not respond, every Pelican listing we checked on Amazon showed as currently unavailable, and Pentair's residential water site sent buyers to a local-dealer search instead of an online store. Pelican was Pentair's direct-to-consumer brand, and Pentair itself still operates. Owners should contact Pentair's residential support for warranty and parts questions."
 ---
 
-**SpringWell vs Pelican comes down to one fact before any spec: on 2 October 2026 only SpringWell was selling.** Both brands built the same two-product range for the same online buyer: a salt-based softener and a salt-free conditioner. SpringWell's SS softener and FutureSoft conditioner were for sale direct at about $1,607 to $2,678. All four Amazon listings, SpringWell's and Pelican's, showed "Currently unavailable", and Pelican's own website was not responding. On paper the two ranges are close. Neither brand has an NSF/ANSI 44 listing. SpringWell's guarantee is narrower than its badge suggests, and Pelican's NaturSoft had the clearest written warranty of the four.
+**SpringWell vs Pelican comes down to one fact before any spec: on 2 October 2026 only SpringWell was selling.** Both brands built the same two-product range for the same online buyer: a salt-based softener and a salt-free conditioner. SpringWell's SS softener and FutureSoft conditioner were for sale direct from SpringWell's own store. All four Amazon listings, SpringWell's and Pelican's, showed "Currently unavailable", and Pelican's own website was not responding. On paper the two ranges are close. Neither brand has an NSF/ANSI 44 listing. SpringWell's guarantee is narrower than its badge suggests, and Pelican's NaturSoft had the clearest written warranty of the four.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this comparison was put together.** Nothing here was physically tested. Specs, prices and terms come from SpringWell's product pages, its [warranty page](https://www.springwellwater.com/warranty/) and [shipping and returns policy](https://www.springwellwater.com/shipping/), the Amazon listings for all four systems, and Pentair's residential water site. Certification was checked on [NSF's public listings](https://info.nsf.org/Certified/DWTU/Listings.asp?TradeName=SpringWell&Standard=044), current as of 2 October 2026. Where a brand does not publish a detail, the table says so instead of filling the gap.
+> **How this comparison was put together.** Nothing here was physically tested. Specs and terms come from SpringWell's product pages, its [warranty page](https://www.springwellwater.com/warranty/) and [shipping and returns policy](https://www.springwellwater.com/shipping/), the Amazon listings for all four systems, and Pentair's residential water site. Certification was checked on [NSF's public listings](https://info.nsf.org/Certified/DWTU/Listings.asp?TradeName=SpringWell&Standard=044), current as of 2 October 2026. Where a brand does not publish a detail, the table says so instead of filling the gap.
 >
 > - **Compared:** each brand's salt-based softener and salt-free conditioner at the mid size, for 4 to 6 bathrooms or about 48,000 grains.
 > - **Normalised:** softener capacity is restated at an efficient salt dose, because neither brand publishes a salt dose behind its grain number.
 > - **Excluded:** each brand's filter combos, UV add-ons and well-water bundles, which change the comparison from softener to treatment train.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** SpringWell prices are from its own store. No Pelican listing had an active offer, so no current Pelican price exists.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon. No Pelican listing had an active offer.
 
 ## SpringWell vs Pelican: The Four-Way Table
 
@@ -48,7 +48,7 @@ This is the whole comparison in one place. The rows that matter most are the las
 | Scale-test evidence | Not applicable | Not applicable | "Up to 95%" claim, no report published | "99.6% by DVGW" claim, no certificate number |
 | Return window | 6 months, uninstalled only, 10% fee | Could not be read | 6 months, uninstalled only, 10% fee | Could not be read |
 | Warranty | Lifetime on tanks, valves, heads against defects; electronics 5 or 7 years | Not on the listing | Lifetime against defects; wear excluded | 12-year limited on tanks, valves, heads, bypass, housings |
-| Price, 2 Oct 2026 | About $1,785 direct | No active offer | About $1,964 direct | No active offer (NS3-P last seen about $1,588) |
+| For sale, 2 Oct 2026 | Direct from SpringWell | No active offer | Direct from SpringWell | No active offer |
 | Amazon, 2 Oct 2026 | Currently unavailable | Currently unavailable | Currently unavailable | Currently unavailable |
 
 Three things stand out. Neither salt-based softener has third-party proof of its capacity. Neither salt-free conditioner has a scale-test report you can read. And the Pelican column is now a historical record, not a shopping list.
@@ -59,14 +59,14 @@ Three things stand out. Neither salt-based softener has third-party proof of its
 
 Both brands sold the same way: direct to the homeowner, shipped to the door, installed by the buyer or their plumber. That model only works while the brand's store and support line are running.
 
-| Listing | ASIN | Amazon, 2 Oct 2026 | Brand store |
-|---|---|---|---|
-| SpringWell salt-based softener | B086Q7NS7S | Currently unavailable | For sale: SS1 $1,607, SS4 $1,785, SS+ $2,678 |
-| SpringWell FutureSoft (FS1) | B07NP8JY4G | Currently unavailable | For sale: FS1 $1,785, FS4 $1,964, FS+ $2,321 |
-| Pentair 35921 (Pelican salt-based) | B09C43F3P3 | Currently unavailable | pelicanwater.com not responding |
-| Pentair Pelican NaturSoft NS3-P | B000NG3YJU | Currently unavailable | pelicanwater.com not responding |
+| Listing | Amazon, 2 Oct 2026 | Brand store |
+|---|---|---|
+| SpringWell salt-based softener | Currently unavailable | For sale: SS1, SS4, SS+ |
+| SpringWell FutureSoft (FS1) | Currently unavailable | For sale: FS1, FS4, FS+ |
+| Pentair 35921 (Pelican salt-based) | Currently unavailable | pelicanwater.com not responding |
+| Pentair Pelican NaturSoft NS3-P | Currently unavailable | pelicanwater.com not responding |
 
-SpringWell's store prices were unchanged from the day before, and each model showed as in stock. SpringWell's prices sit permanently below a crossed-out list price, so treat the sale price as the real price.
+Each SpringWell model showed as in stock. SpringWell's prices sit permanently below a crossed-out list price, so treat the sale price as the real price.
 
 Pelican is harder to call. Pentair still operates, but its residential water softening page leads with "Find a Local Pro" and a dealer locator rather than an online store. We cannot tell from public documents whether Pelican is being retired, renamed or moved to dealers only. We can say you should not buy a Pelican unit from anyone without written confirmation of who honours the warranty and supplies replacement media.
 
@@ -130,7 +130,7 @@ NSF/ANSI 44 is the standard that verifies a softener's capacity and salt efficie
 
 ![Timeline comparing SpringWell vs Pelican warranties: SpringWell six-month uninstalled return window, lifetime defect cover and 5 or 7 year electronics, NaturSoft 12-year limited warranty](/diagrams/springwell-vs-pelican-return-window-and-warranty-timeline.svg "SpringWell's long cover is for defects; its six-month window is for unopened boxes")
 
-**SpringWell's "6-month money-back guarantee"** is, in its own returns policy, a return window for products "in their original, unused condition (uninstalled and in undamaged packaging)". A 10% restocking fee applies, original shipping is not refunded, and return shipping is the buyer's cost. On an SS4 at about $1,785, a boxed return costs roughly $180 in restocking plus freight both ways.
+**SpringWell's "6-month money-back guarantee"** is, in its own returns policy, a return window for products "in their original, unused condition (uninstalled and in undamaged packaging)". A 10% restocking fee applies, original shipping is not refunded, and return shipping is the buyer's cost. On a boxed return you lose a tenth of the price in restocking, plus freight both ways.
 
 Installed systems get a separate six-month "Performance Promise": troubleshooting, replacement parts or other remedies. The policy states: "Installed systems are not eligible for return unless determined defective by SpringWell Water." A softener that works but disappoints you is not a refund case.
 
@@ -151,16 +151,14 @@ A softener with a widely stocked valve can be serviced by any water treatment te
 
 None of the four systems had an active Amazon offer. These are the closest equivalents we could confirm on 2 October 2026:
 
-1. **[Aquasure Harmony 48,000-grain softener](https://www.amazon.com/dp/B07F175C2R)**, about $630. Listing active on Amazon; $629.99 at Aquasure's own store. A two-tank metered softener with 1.5 cubic feet of resin and a proprietary valve, at about a third of the SpringWell SS4's price.
-2. **[DuraWater 48,000-grain Fleck 5600SXT system](https://www.amazon.com/dp/B010MR6T2I)**, about $825, the Amazon price recorded on 1 October. Listing active on 2 October. 1.5 cubic feet of resin on a Fleck valve that most technicians can service, which neither brand's softener offers.
-3. **[Watts Premier OneFlow Plus](https://www.amazon.com/dp/B01H273O4M)**, about $750 when last priced in US dollars on 1 October; in stock on 2 October. A salt-free scale-prevention cartridge with a 20-micron carbon block. It conditions rather than softens, like FutureSoft and NaturSoft, and needs the same clean, iron-free water.
-
-Our 2 October check ran from outside the US, so Amazon showed availability but not US prices. Check the current price before buying.
+1. **Aquasure Harmony 48,000-grain softener.** Listing active on Amazon and also sold at Aquasure's own store. A two-tank metered softener with 1.5 cubic feet of resin and a proprietary valve. [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
+2. **DuraWater 48,000-grain Fleck 5600SXT system.** Listing active on 2 October. 1.5 cubic feet of resin on a Fleck valve that most technicians can service, which neither brand's softener offers. [Check price on Amazon](https://www.amazon.com/dp/B010MR6T2I)
+3. **Watts Premier OneFlow Plus.** In stock on 2 October. A salt-free scale-prevention cartridge with a 20-micron carbon block. It conditions rather than softens, like FutureSoft and NaturSoft, and needs the same clean, iron-free water. [Check price on Amazon](https://www.amazon.com/dp/B01H273O4M)
 
 ## Which to Choose
 
 - **You want soft water, on city water, and value phone support:** the SpringWell SS4, bought direct. Confirm the resin grade and the electronics warranty in writing, and reprogram the capacity to the usable figure.
-- **You want soft water at a lower price, or a valve any technician can fix:** one of the Amazon alternatives above. The Fleck-valved system costs less than half the SS4.
+- **You want soft water at a lower price, or a valve any technician can fix:** one of the Amazon alternatives above. Both softeners cost less than the SS4, and the DuraWater uses a Fleck valve.
 - **You want less scale with no salt, on city water within the limits:** FutureSoft is the salt-free unit you can actually order. Budget for a media change around year five.
 - **You were set on Pelican:** wait for written confirmation of warranty and media supply from Pentair or a dealer. Until then, buy on the function, salt-based or salt-free, not the brand. The first decision is covered in [salt-based vs salt-free water treatment](/blog/salt-based-vs-salt-free-water-treatment/).
 

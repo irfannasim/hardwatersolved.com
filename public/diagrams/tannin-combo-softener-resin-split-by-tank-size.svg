@@ -15,21 +15,21 @@
 <rect x="280" y="128" width="150" height="36" fill="#e2b865"/>
 <text x="205" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">0.5</text>
 <text x="355" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">0.5</text>
-<text x="130" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">16,000 grains · 8 gpm · $1,248</text>
+<text x="130" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">16,000 grains · 8 gpm</text>
 
 <text x="30" y="242" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">1.5 cu ft</text>
 <rect x="130" y="220" width="150" height="36" fill="#3a5a72"/>
 <rect x="280" y="220" width="300" height="36" fill="#e2b865"/>
 <text x="205" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">0.5</text>
 <text x="430" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1.0</text>
-<text x="130" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">32,000 grains · 10 gpm · $1,254</text>
+<text x="130" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">32,000 grains · 10 gpm</text>
 
 <text x="30" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">2.0 cu ft</text>
 <rect x="130" y="312" width="150" height="36" fill="#3a5a72"/>
 <rect x="280" y="312" width="450" height="36" fill="#e2b865"/>
 <text x="205" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">0.5</text>
 <text x="505" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1.5</text>
-<text x="130" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">48,000 grains · 12 gpm · $1,299</text>
+<text x="130" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">48,000 grains · 12 gpm</text>
 
 <path class="ln" d="M130,392 L730,392" stroke="#0b2f4a" stroke-width="2" fill="none"/>
 <text x="130" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>

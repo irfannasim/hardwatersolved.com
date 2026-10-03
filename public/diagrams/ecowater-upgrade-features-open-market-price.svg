@@ -1,47 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="ewf-title ewf-desc">
-<title id="ewf-title">EcoWater water softener cost: what each upgrade feature costs on the open market</title>
-<desc id="ewf-desc">Bar chart for EcoWater water softener cost showing the open-market price of each feature a higher EcoWater tier adds: demand metering is standard, Wi-Fi alerts about $130, built-in carbon about $504 and counter-current brining about $672, plus about $499 for automatic leak shutoff, which no EcoWater tier includes.</desc>
-<rect width="760" height="560" fill="#ffffff"/>
-<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">What each EcoWater upgrade costs on its own</text>
-<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#52697a">Online price of each feature, as a step between two products or bought on its own. Oct 2026.</text>
-<path class="ln" d="M340.0,92 L340.0,476" stroke="#3a5a72" stroke-width="2" fill="none"/>
-<text x="340.0" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
-<path class="ln" d="M385.0,470 L385.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
-<text x="385.0" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$100</text>
-<path class="ln" d="M430.0,470 L430.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
-<text x="430.0" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$200</text>
-<path class="ln" d="M475.0,470 L475.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
-<text x="475.0" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$300</text>
-<path class="ln" d="M520.0,470 L520.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
-<text x="520.0" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$400</text>
-<path class="ln" d="M565.0,470 L565.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
-<text x="565.0" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$500</text>
-<path class="ln" d="M610.0,470 L610.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
-<text x="610.0" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$600</text>
-<path class="ln" d="M655.0,470 L655.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
-<text x="655.0" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$700</text>
-<path class="ln" d="M700.0,470 L700.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
-<text x="700.0" y="492" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$800</text>
-<path class="ln" d="M340,470 L700,470" stroke="#3a5a72" stroke-width="2" fill="none"/>
-<text x="326" y="130" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Demand (metered) control</text>
-<text x="326" y="148" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">Added at: 1500 Series</text>
-<text x="348.0" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">standard</text>
-<rect x="340" y="188" width="58.5" height="26" fill="#0e7490"/>
-<text x="326" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Wi-Fi alerts</text>
-<text x="326" y="218" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">Added at: Compact, 3700</text>
-<text x="406.5" y="206" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">~$130</text>
-<rect x="340" y="258" width="226.8" height="26" fill="#0e7490"/>
-<text x="326" y="270" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Built-in carbon for chlorine</text>
-<text x="326" y="288" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">Added at: 3700 refiner</text>
-<text x="574.8" y="276" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">~$504</text>
-<rect x="340" y="328" width="302.4" height="26" fill="#0e7490"/>
-<text x="326" y="340" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Counter-current brining</text>
-<text x="326" y="358" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">Added at: 3700 Series</text>
-<text x="650.4" y="346" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">~$672</text>
-<rect x="340" y="398" width="224.6" height="26" fill="#dc2626"/>
-<text x="326" y="410" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Automatic leak shutoff</text>
-<text x="326" y="428" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">Not in any EcoWater tier</text>
-<text x="572.5" y="416" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">~$499</text>
-<text x="30" y="520" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#52697a">Pairs: AFW 5600SXT metered ($775); GE GXSH35W vs GXSH40V; AFW 48k with and without carbon tank;</text>
-<text x="30" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#52697a">SoftPro Elite 48k vs AFW 48k 10% resin; Moen Flo shutoff. Illustrative: pairs differ in more than one way.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="ewf-title ewf-desc">
+<title id="ewf-title">EcoWater water softener upgrades: which tier adds each feature, and can you add it separately</title>
+<desc id="ewf-desc">Table diagram of the features each higher EcoWater water softener tier adds: demand control, Wi-Fi alerts, built-in carbon and counter-current brining, plus automatic leak shutoff, which no tier includes, and the 10-year valve warranty, the one upgrade that comes only with the Compact and 3700 Series.</desc>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What each EcoWater upgrade adds, and where else to get it</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Features from EcoWater spec sheets; retail examples are softeners that include the same feature.</text>
+<text x="44" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Feature</text>
+<text x="290" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">EcoWater tier that adds it</text>
+<text x="470" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Get it without that tier?</text>
+<rect class="box" x="30" y="116" width="700" height="58" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="44" y="151" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Demand (metered) control</text>
+<text x="290" y="151" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">1500 Series and up</text>
+<circle cx="478" cy="136" r="7" fill="#52697a"/><text x="494" y="141" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Built into other softeners</text><text x="494" y="160" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">e.g. the Fleck 5600SXT metered valve</text>
+<rect class="box" x="30" y="182" width="700" height="58" rx="6" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="44" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Wi-Fi alerts (HydroLink Plus)</text>
+<text x="290" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Compact, 3700 Series</text>
+<circle cx="478" cy="202" r="7" fill="#52697a"/><text x="494" y="207" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Built into some retail softeners</text><text x="494" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">e.g. the GE GXSH35W Smart</text>
+<rect class="box" x="30" y="248" width="700" height="58" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="44" y="283" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Built-in carbon for chlorine</text>
+<text x="290" y="283" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">3700 refiner</text>
+<circle cx="478" cy="268" r="7" fill="#15803d"/><text x="494" y="273" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Yes: a separate carbon tank</text><text x="494" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">sits in line beside any softener</text>
+<rect class="box" x="30" y="314" width="700" height="58" rx="6" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="44" y="349" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Counter-current brining</text>
+<text x="290" y="349" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">3700 Series</text>
+<circle cx="478" cy="334" r="7" fill="#52697a"/><text x="494" y="339" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Built into some retail softeners</text><text x="494" y="358" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">e.g. the SoftPro Elite upflow</text>
+<rect class="box" x="30" y="380" width="700" height="58" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="44" y="415" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Automatic leak shutoff</text>
+<text x="290" y="405" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">None</text><text x="290" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">no tier has it</text>
+<circle cx="478" cy="400" r="7" fill="#15803d"/><text x="494" y="405" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Yes: a main-line smart shutoff</text><text x="494" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">works with any softener</text>
+<rect class="box" x="30" y="446" width="700" height="58" rx="6" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="44" y="481" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">10-year valve body warranty</text>
+<text x="290" y="471" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Compact, 3700 Series</text><text x="290" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">up from 1 to 3 years</text>
+<circle cx="478" cy="466" r="7" fill="#dc2626"/><text x="494" y="471" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">No: only with those tiers</text><text x="494" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">cannot be bought on its own</text>
+<circle cx="37" cy="534" r="7" fill="#15803d"/><text x="52" y="539" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Add to any softener</text>
+<circle cx="227" cy="534" r="7" fill="#52697a"/><text x="242" y="539" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Comes built into other softeners</text>
+<circle cx="487" cy="534" r="7" fill="#dc2626"/><text x="502" y="539" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Only with the EcoWater tier</text>
+<text x="30" y="576" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">The ten-year valve warranty is the one part of the step you cannot buy elsewhere.</text>
 </svg>

@@ -1,8 +1,8 @@
 ---
 title: "Fleck vs Clack: Inside the Two Valves Behind Most DIY Softeners"
 seoTitle: "Fleck vs Clack Valves: 6 Key Differences and the Smart Pick"
-seoDescription: "Fleck vs Clack: the two valves behind most DIY softeners, compared on internal design, flow, programming, wear-part prices and the repairs you can do."
-excerpt: "Fleck's 5600SXT and Clack's WS1 do the same job by different routes. The Fleck runs a vertical piston through loose seals and spacers; the Clack runs a screw-driven horizontal piston through a one-piece stack. This comparison opens both service manuals, prices the parts that wear out on each, walks through the repairs a homeowner can do, and explains why either is a safer buy than a proprietary valve."
+seoDescription: "Fleck vs Clack: the two valves behind most DIY softeners, compared on internal design, flow, programming, wear parts and the repairs you can do."
+excerpt: "Fleck's 5600SXT and Clack's WS1 do the same job by different routes. The Fleck runs a vertical piston through loose seals and spacers; the Clack runs a screw-driven horizontal piston through a one-piece stack. This comparison opens both service manuals, lists the parts that wear out on each, walks through the repairs a homeowner can do, and explains why either is a safer buy than a proprietary valve."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Comparisons"
@@ -14,18 +14,18 @@ faqs:
   - question: "Can a Clack valve replace a Fleck valve?"
     answer: "Yes, on most residential tanks. Both the Fleck 5600SXT and the Clack WS1 mount on the standard 2.5-inch, 8-thread tank opening. You need the Clack's own bypass and connectors, an injector and drain line flow control sized for your tank diameter, and a distributor tube cut to the right height. The plumbing connections are different, so plan for new fittings at the inlet and outlet."
   - question: "How much does it cost to rebuild a Fleck 5600SXT?"
-    answer: "At the AFWFilters store on 2 October 2026, a seal and spacer kit (60125) was about $49, a piston assembly about $89, and a complete rebuild kit for the 5600SXT softener valve about $137. A brine piston was about $22 and an injector nozzle and throat about $19. A new metered 5600SXT head was about $349, so a rebuild usually makes sense unless the body is cracked or the electronics have failed."
+    answer: "It depends on which parts have worn. The cheapest fixes are an injector nozzle and throat or a brine piston; next come the seal and spacer kit (60125) and the piston assembly; a complete rebuild kit for the 5600SXT softener valve replaces all of them at once. Even the full kit costs much less than a new metered 5600SXT head, so a rebuild usually makes sense unless the body is cracked or the electronics have failed. Parts prices change often, so check current prices with a parts supplier."
   - question: "How much does it cost to rebuild a Clack WS1?"
-    answer: "At the AFWFilters store on 2 October 2026, a Clack WS1 interior kit bundle with the seal pack and brine piston was about $59, the V3005-02 spacer stack alone about $39.99, and a WS1 injector about $14. A replacement five-button circuit board was about $139. Complete WS1 heads sell for about $400 to $550 at parts specialists, so the interior kit is the first fix for most leaks to drain."
+    answer: "Most WS1 rebuilds need only the interior kit, a bundle of the seal pack and brine piston, or the V3005-02 spacer stack on its own. A WS1 injector is the cheapest part; a replacement five-button circuit board costs more. A complete WS1 head from a parts specialist costs far more than any of these, so the interior kit is the first fix for most leaks to drain. Parts prices change often, so check current prices with a parts supplier."
   - question: "Is a Clack valve easier to repair than a Fleck?"
     answer: "Usually, yes. Clack designed the WS1 to come apart without screws: caps and nuts seal on o-rings and need only hand tightening, and the one-piece spacer stack pulls out by hand once the drive cap and pistons are out. A Fleck 5600SXT needs the covers and powerhead removed and the screws and end plug plate undone before the piston comes out, then each seal and spacer comes out separately. Neither job needs special skills."
 ---
 
-**In the Fleck vs Clack choice, the Clack WS1 is the better-engineered valve and the Fleck 5600SXT is the easier one to get serviced.** The WS1 passes 27 gpm at a 15 psi drop against the 5600SXT's 20 gpm, backwashes at up to 27 gpm against 7, and comes apart by hand. The 5600SXT has the larger installed base, cheaper heads and parts on almost every supplier's shelf. Inside, they wear differently. The Fleck's piston runs through five loose seals and four spacers. The Clack's runs through one moulded stack. Both are rebuildable for under $140 in parts, and that is the real reason either beats a proprietary valve.
+**In the Fleck vs Clack choice, the Clack WS1 is the better-engineered valve and the Fleck 5600SXT is the easier one to get serviced.** The WS1 passes 27 gpm at a 15 psi drop against the 5600SXT's 20 gpm, backwashes at up to 27 gpm against 7, and comes apart by hand. The 5600SXT has the larger installed base, cheaper heads and parts on almost every supplier's shelf. Inside, they wear differently. The Fleck's piston runs through five loose seals and four spacers. The Clack's runs through one moulded stack. Both can be rebuilt with an inexpensive parts kit, and that is the real reason either beats a proprietary valve.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this comparison was put together.** Nothing here was physically tested. Valve specifications come from Pentair's [Fleck 5600SXT downflow service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf) and specification sheet, and Clack's [WS1 and WS1.25 drawings and service manual](https://www.clackcorp.com/wp-content/uploads/2026/01/V3115-99-WS1-1.25-DRAWINGS-AND-SERVICE-MANUAL.pdf) (form V3115-99). Repair steps are paraphrased from those manuals. Parts prices are from the AFWFilters store, which stocks both families, so the two price lists come from one seller on one day. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages did not show US prices to our check, so system prices are from the seller's own store.
+> **How this comparison was put together.** Nothing here was physically tested. Valve specifications come from Pentair's [Fleck 5600SXT downflow service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf) and specification sheet, and Clack's [WS1 and WS1.25 drawings and service manual](https://www.clackcorp.com/wp-content/uploads/2026/01/V3115-99-WS1-1.25-DRAWINGS-AND-SERVICE-MANUAL.pdf) (form V3115-99). Repair steps are paraphrased from those manuals. Parts were checked at the AFWFilters store, which stocks both families. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Fleck vs Clack at a Glance
 
@@ -44,7 +44,7 @@ faqs:
 | Meter | 3/4 in turbine, 0.25 to 15 gpm, ±5% | Optional meter assembly (V3003) |
 | Working pressure | 20 to 125 psi | 20 to 125 psi |
 | Temperature | 34 to 110°F | 40 to 110°F |
-| Bare head, 2 Oct 2026 | About $349 (metered softener head) | About $400 to $550 at parts specialists |
+| Bare head | The cheaper of the two | Sold by parts specialists |
 
 Pentair's sheet says the 5600SXT valve is tested and certified by the WQA to NSF/ANSI 44 and to NSF/ANSI 372 for lead-free compliance. That covers the valve as tested, not any particular seller's finished softener, so a system built on either valve still needs its own listing if certification matters to you.
 
@@ -52,7 +52,7 @@ Pentair's sheet says the 5600SXT valve is tested and certified by the WQA to NSF
 
 Both valves are piston valves. A piston slides inside a bore, and its position decides where the water goes: service, backwash, brine draw, rinse or refill. The difference is what the piston slides through, and that decides how each valve wears and how you fix it. The positions themselves are explained in [how a water softener control valve works](/blog/how-a-water-softener-control-valve-works/).
 
-![Cutaway comparison of Fleck vs Clack softener valves: Fleck 5600SXT vertical piston through five loose seals and four spacers, Clack WS1 horizontal piston through a one-piece spacer stack, with part prices](/diagrams/fleck-vs-clack-valve-internals-seal-spacer-stack-vs-one-piece-stack.svg "The Fleck's seals come out one at a time; the Clack's stack comes out in one piece")
+![Cutaway comparison of Fleck vs Clack softener valves: Fleck 5600SXT vertical piston through five loose seals and four spacers, Clack WS1 horizontal piston through a one-piece spacer stack, with wear-part numbers](/diagrams/fleck-vs-clack-valve-internals-seal-spacer-stack-vs-one-piece-stack.svg "The Fleck's seals come out one at a time; the Clack's stack comes out in one piece")
 
 **Fleck 5600SXT.** The piston moves up and down, driven by a yoke from the powerhead's main gear. It runs through an alternating stack of **five seals and four spacers**, sold together as kit 60125. The seals are loose parts that sit in the bore. When one wears, water slips past it into the wrong port, which shows up as a drain that runs or hard water in service. The manual lists the drive motor and switches among the culprits when the valve will not find its position.
 
@@ -64,24 +64,24 @@ What this means in practice:
 - **Clack swaps one part, Fleck swaps nine.** A Clack rebuild replaces the stack as a unit. A Fleck rebuild means pulling and refitting each seal and spacer in order, which is easy but fiddly.
 - **Fleck has more electromechanical parts to fail.** Switches can wear on the Fleck. The Clack has fewer moving electrical parts, but its circuit board and optical sensor are more specialised.
 
-## Which Parts Fail, and What They Cost
+## Which Parts Fail
 
-Both manuals' troubleshooting tables point at the same small group of parts. Here is what each one cost from one seller on one day.
+Both manuals' troubleshooting tables point at the same small group of parts. Here is what each one is called, and what fails when it wears.
 
 | Part | Fleck 5600SXT | Clack WS1 | Symptom when it fails |
 |---|---|---|---|
-| Seals and spacers | Kit 60125, about $49 | Spacer stack V3005-02, about $39.99 | Water running to drain; hard water in service; high salt use |
-| Main piston | 60102 series, about $89 | Sold in interior kits | Leak to drain, motor stalling, error codes |
-| Brine (regenerant) piston | 60032, about $22 | Included in the interior kit | Will not draw brine; too much water in the brine tank |
-| Interior or rebuild kit | Rebuild kit for 5600SXT softener, about $137 | Interior kit (seal pack and brine piston), about $59 | All of the above |
-| Injector | Nozzle and throat set, about $19 | V3010 injector, about $14 | No brine draw; salt level never drops |
-| Drive motor | 24 V timer motor, about $49 | Not priced | Valve will not move between positions |
-| Controller | Front panel with circuit board, about $239 | Five-button circuit board V3108, about $139 | Blank display, lost programme, will not respond |
-| Complete head | Metered softener head, about $349 | About $400 to $550 | Only for a cracked body or failed drive |
+| Seals and spacers | Kit 60125 | Spacer stack V3005-02 | Water running to drain; hard water in service; high salt use |
+| Main piston | 60102 series | Sold in interior kits | Leak to drain, motor stalling, error codes |
+| Brine (regenerant) piston | 60032 | Included in the interior kit | Will not draw brine; too much water in the brine tank |
+| Interior or rebuild kit | Rebuild kit for 5600SXT softener | Interior kit (seal pack and brine piston) | All of the above |
+| Injector | Nozzle and throat set | V3010 injector | No brine draw; salt level never drops |
+| Drive motor | 24 V timer motor | Drive motor | Valve will not move between positions |
+| Controller | Front panel with circuit board | Five-button circuit board V3108 | Blank display, lost programme, will not respond |
+| Complete head | Metered softener head | Complete WS1 head | Only for a cracked body or failed drive |
 
-*Prices from the AFWFilters store, 2 October 2026, except the Clack head, which AFWFilters does not list; that range is from parts specialists. These are sub-$100 parts, so we don't link them as picks.*
+*Part names from the service manuals and the AFWFilters store, which stocks both families; Clack heads come from parts specialists. Prices are not listed because they change often. Most of these are small, inexpensive parts, so we don't link them as picks.*
 
-Two patterns stand out. The Clack's interior kit is less than half the price of the Fleck's rebuild kit, because it is fewer parts. The Fleck's complete head is cheaper than the Clack's, so a badly damaged Fleck is cheaper to replace outright. A plugged injector is the cheapest fault on either. Before ordering anything for a softener that will not draw brine, clean it using [how to clean a water softener injector](/blog/how-to-clean-a-water-softener-injector/).
+Two patterns stand out. The Clack's interior kit costs less than the Fleck's rebuild kit, because it is fewer parts. The Fleck's complete head is cheaper than the Clack's, so a badly damaged Fleck is cheaper to replace outright. A plugged injector is the cheapest fault on either. Before ordering anything for a softener that will not draw brine, clean it using [how to clean a water softener injector](/blog/how-to-clean-a-water-softener-injector/).
 
 ## The Repairs a Homeowner Can Do on Each
 
@@ -139,7 +139,7 @@ The gap matters in two cases:
 
 Several online and big-box softeners use valves made for one brand only, with parts sold only by that brand. That works while the brand is in business and keeps stocking parts. The Fleck and Clack families are different in three ways:
 
-1. **Open parts supply.** Seals, pistons, injectors and boards for both are sold by many independent suppliers, at the prices above.
+1. **Open parts supply.** Seals, pistons, injectors and boards for both are sold by many independent suppliers.
 2. **Published manuals.** Pentair and Clack publish full service manuals with exploded drawings, part numbers and troubleshooting tables. Most single-brand valves do not.
 3. **Any technician can work on them.** A water treatment technician who has never seen your softener has almost certainly seen its valve.
 
@@ -158,14 +158,14 @@ So compare the seller's written warranty, not the valve brand. Our checklist for
 
 ![Open toolbox holding assorted screws, wrenches and hand tools on a wooden surface, the kit needed to swap seals or a spacer stack in a softener valve](https://images.pexels.com/photos/5853930/pexels-photo-5853930.jpeg)
 
-| Product | ASIN | Amazon, 2 Oct 2026 | Price |
-|---|---|---|---|
-| AFWFilters Fleck 5600SXT 48,000-grain system | [B00OGN3162](https://www.amazon.com/dp/B00OGN3162) | Listing active | About $775 at the AFWFilters store |
-| DuraWater Fleck 5600SXT 48,000-grain system | [B010MR6T2I](https://www.amazon.com/dp/B010MR6T2I) | Listing active | About $825, Amazon price recorded 1 October |
-| Fleck 5600SXT metered softener head | [B004N8ADBQ](https://www.amazon.com/dp/B004N8ADBQ) | Listing active | Same type about $349 at the AFWFilters store |
-| Clack WS1 48,000-grain softener | B0DCF2FQRD | Currently unavailable | Dropped |
+| Product | Amazon, 2 Oct 2026 | Amazon |
+|---|---|---|
+| AFWFilters Fleck 5600SXT 48,000-grain system | Listing active | [Check price on Amazon](https://www.amazon.com/dp/B00OGN3162) |
+| DuraWater Fleck 5600SXT 48,000-grain system | Listing active | [Check price on Amazon](https://www.amazon.com/dp/B010MR6T2I) |
+| Fleck 5600SXT metered softener head | Listing active | [Check price on Amazon](https://www.amazon.com/dp/B004N8ADBQ) |
+| Clack WS1 48,000-grain softener | Currently unavailable | Dropped |
 
-**AFWFilters Fleck 5600SXT 48k.** 1.5 cubic feet of resin in a 10 x 54 inch Pentair tank, a bypass with a 1-inch yoke, and AFWFilters' 5-year valve and 10-year tank terms. A 10% crosslink version for chlorinated water was about $785 on the same day.
+**AFWFilters Fleck 5600SXT 48k.** 1.5 cubic feet of resin in a 10 x 54 inch Pentair tank, a bypass with a 1-inch yoke, and AFWFilters' 5-year valve and 10-year tank terms. AFWFilters also sells a 10% crosslink version for chlorinated water.
 
 **DuraWater Fleck 5600SXT 48k.** 1.5 cubic feet of resin preloaded, a 1-inch bypass and a 14 x 36 inch brine tank with a safety float. The listing gives a 5-year valve warranty.
 

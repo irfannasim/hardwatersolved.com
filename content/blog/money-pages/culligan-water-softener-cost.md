@@ -18,7 +18,7 @@ faqs:
   - question: "What does a Culligan softener cost to run in the first year?"
     answer: "Salt is the main running cost and it is modest. Using the figures in Culligan's own owner's guide, a family of four on 15 gpg water would use roughly 330 to 370 lb of salt a year on an efficient setting, about $65 to $75 at $0.20 per pound. Salt delivery, a service plan or a rental fee, if you choose them, usually cost more than the salt."
   - question: "Is Culligan more expensive than buying a softener online?"
-    answer: "Yes, typically two to four times as much for the same resin volume. A 48,000-grain Fleck 5600SXT softener with 10% crosslink resin cost $785 on AFWFilters' store on 2 October 2026, or about $935 to $1,785 with a plumber. The Culligan price buys local installation, a dealer who handles warranty claims and service, and Culligan's own valve and long tank and resin warranty."
+    answer: "Yes, typically two to four times as much for the same resin volume. A 48,000-grain Fleck 5600SXT softener with 10% crosslink resin, bought online and fitted by a plumber, carries the same resin volume as Culligan's 10-inch model. The Culligan price buys local installation, a dealer who handles warranty claims and service, and Culligan's own valve and long tank and resin warranty."
   - question: "Can you negotiate a Culligan water softener price?"
     answer: "Often, because the dealer sets the price. Get a second quote from another Culligan dealer or another brand, ask for the cash price rather than a monthly payment, and ask which add-ons can be removed. Dropping a bundled reverse osmosis unit or a prepaid service plan often lowers the total more than haggling over the softener itself."
 ---
@@ -39,7 +39,7 @@ faqs:
 | Rental | From $14.95/month (San Diego); from $32/month plus installation (Oklahoma City); $55 to $120/month (New York owner) | Dealer pages and owner account |
 | Culligan's own guide | $500 to $10,000 for softeners in general; about $5,000 for professional grade | [Culligan, updated 7 May 2026](https://www.culligan.com/blog/water-softener-cost-considerations) |
 
-> **How this page was put together.** Nothing was physically tested. Culligan publishes no price list, so the series figures are public survey and owner-reported numbers, each dated. The Modernize figures are as cited by Mid Atlantic Water in September 2026; Modernize's own page would not load for our check. Rental offers were read on the dealers' own pages on 2 October 2026. Hardware and warranty facts come from Culligan's High Efficiency softener owner's guide. Culligan is not sold on Amazon; the online comparison prices are from the AFWFilters and SoftPro stores. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **How this page was put together.** Nothing was physically tested. Culligan publishes no price list, so the series figures are public survey and owner-reported numbers, each dated. The Modernize figures are as cited by Mid Atlantic Water in September 2026; Modernize's own page would not load for our check. Rental offers were read on the dealers' own pages on 2 October 2026. Hardware and warranty facts come from Culligan's High Efficiency softener owner's guide. Culligan is not sold on Amazon; the online comparison units are AFWFilters and SoftPro models. **Prices of the online units are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Why Every Culligan Quote Is Different
 
@@ -53,7 +53,7 @@ So the same Smart HE can cost noticeably more in one town than the next, and two
 
 The equipment line should name the exact model and tank size. Culligan's current single-tank softener, the Aquasential Smart High Efficiency, comes in 9, 10, 12 and 14 inch tanks, with a twin-tank version and an HE Municipal version that adds carbon for chlorine taste and odor. An older name on the quote, such as Medallist or Gold Series, is a reason to ask which owner's guide and warranty apply.
 
-Tank size is where you can check the price. Culligan's owner's guide prints NSF/ANSI 44 performance for each size. The 10-inch model holds 1.5 cubic feet of Cullex resin and is rated at 26,781 grains at 6 lb of salt (downflow) and 30,081 grains upflow. That is the same resin volume an online "48,000-grain" softener carries. Divide the installed quote by the capacity at the salt setting the dealer will program, and you have a price per grain you can compare across brands. At a reported $3,200 to $3,600 for an HE model, that is about $119 to $134 per 1,000 usable grains. A comparable online unit with a plumber is about $40.
+Tank size is where you can check the price. Culligan's owner's guide prints NSF/ANSI 44 performance for each size. The 10-inch model holds 1.5 cubic feet of Cullex resin and is rated at 26,781 grains at 6 lb of salt (downflow) and 30,081 grains upflow. That is the same resin volume an online "48,000-grain" softener carries. Divide the installed quote by the capacity at the salt setting the dealer will program, and you have a price per grain you can compare across brands. At a reported $3,200 to $3,600 for an HE model, that is about $119 to $134 per 1,000 usable grains. Run the same sum on a comparable online unit plus a plumber's fee, using today's price, and set the two side by side.
 
 The equipment line also carries Culligan's warranty, which is a real part of what you pay for:
 
@@ -116,7 +116,7 @@ Here is how the three-part split works on a package quote. The figures are illus
 | Two-year prepaid service plan | Not shown separately | $500 |
 | **Total** | **$5,200, or "$89 a month"** | **$5,200** |
 
-Once the parts are visible, the decisions are separate ones. If your water test shows nothing that calls for RO and you are happy with the taste, dropping it takes $900 off. If the dealer's service plan covers visits the warranty already covers in year one, the $500 buys mainly year two. And the $3,800 for the softener can now be set against the same capacity elsewhere: $785 for a 48k online unit with 10% resin, plus $150 to $1,000 for a plumber.
+Once the parts are visible, the decisions are separate ones. If your water test shows nothing that calls for RO and you are happy with the taste, dropping it takes $900 off. If the dealer's service plan covers visits the warranty already covers in year one, the $500 buys mainly year two. And the $3,800 for the softener can now be set against the same capacity elsewhere: the current price of a 48k online unit with 10% resin, plus $150 to $1,000 for a plumber.
 
 None of this means the bundle is a bad deal. It means the reader should see what each piece costs before agreeing to all of them, and that the monthly figure should never be the first number on the page.
 
@@ -144,12 +144,12 @@ With that page in hand, get a second quote, from another Culligan dealer if one 
 
 ## What the Same Capacity Costs Online
 
-Culligan softeners are not sold on Amazon. If you want to set a Culligan quote against the open market, these are the closest equivalents by resin volume and design, with prices from the makers' stores:
+Culligan softeners are not sold on Amazon. If you want to set a Culligan quote against the open market, these are the closest equivalents by resin volume and design:
 
-| Alternative | Why it compares | Price, 2 Oct 2026 |
+| Alternative | Why it compares | Amazon |
 |---|---|---|
-| [AFWFilters Fleck 5600SXT 48k, 10% resin](https://www.amazon.com/dp/B00YFOTWZG) | 1.5 cubic feet of chlorine-tolerant resin, the same volume as Culligan's 10-inch, on a metered Fleck valve | $785 at AFWFilters |
-| [SoftPro Elite 48k](https://www.amazon.com/dp/B07KY5SPSJ) | Upflow brining aimed at the same salt efficiency as Culligan's upflow models, with a long valve warranty | $1,457 at SoftPro (city model) |
+| AFWFilters Fleck 5600SXT 48k, 10% resin | 1.5 cubic feet of chlorine-tolerant resin, the same volume as Culligan's 10-inch, on a metered Fleck valve | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) |
+| SoftPro Elite 48k | Upflow brining aimed at the same salt efficiency as Culligan's upflow models, with a long valve warranty | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 
 Neither comes with a dealer. You or a plumber install and program them, and you handle warranty claims by phone or mail. That is the trade a Culligan quote is asking you to price.
 

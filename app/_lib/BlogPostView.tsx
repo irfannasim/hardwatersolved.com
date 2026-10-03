@@ -23,10 +23,12 @@ import {
 import styles from '@/app/blog/[...slug]/page.module.css';
 import GithubSlugger from 'github-slugger';
 import React from 'react';
+import { ExternalLink, ShoppingCart } from 'lucide-react';
 
 const SITE_DOMAIN = process.env.NEXT_PUBLIC_SITE_URL || '';
 const AUTHOR_NAME = 'Irfan Nasim';
-const COMMERCIAL_CATEGORIES = new Set(['Best Picks', 'Reviews', 'Comparisons', 'Prices and Buying']);
+const AMAZON_LINK_PATTERN = /^https?:\/\/(www\.)?(amazon\.com\/(.*\/)?(dp|gp\/product)\/|amzn\.to\/)/;
+const COMMERCIAL_CATEGORIES =new Set(['Best Picks', 'Reviews', 'Comparisons', 'Prices and Buying']);
 const AUTHOR_URL = `${SITE_DOMAIN}/author/irfan-nasim/`;
 const AUTHOR_BIO =
     'Irfan Nasim writes and edits Hard Water Solved. He is not a certified water-treatment professional — he researches each topic against primary sources like the EPA, CDC, NSF, and USGS before writing it up, so the site stays grounded in evidence rather than sales claims.';
@@ -389,6 +391,24 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
 
         a: ({ href = '', children, ...props }) => {
             const linkHref = typeof href === 'string' ? href : '';
+
+            // Amazon product links are written as [Check price on Amazon](url) and
+            // render as a button, so no product code or price appears in the text.
+            if (AMAZON_LINK_PATTERN.test(linkHref)) {
+                return (
+                    <a
+                        {...props}
+                        href={linkHref}
+                        className={styles.amazonButton}
+                        target="_blank"
+                        rel="sponsored nofollow noopener noreferrer"
+                    >
+                        <ShoppingCart size={16} aria-hidden="true" />
+                        <span>{children}</span>
+                        <ExternalLink size={14} aria-hidden="true" />
+                    </a>
+                );
+            }
 
             return (
                 <a {...props} href={linkHref} className={styles.articleContentLink}>

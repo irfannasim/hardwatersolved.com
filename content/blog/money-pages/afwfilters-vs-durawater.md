@@ -10,18 +10,18 @@ featuredImage: "https://images.pexels.com/photos/4506241/pexels-photo-4506241.jp
 ogImageAlt: "Person slitting the tape on a large cardboard shipping box with a red utility knife, the moment to check an online water softener's box contents against the listing"
 faqs:
   - question: "Is AFWFilters the same company as DuraWater?"
-    answer: "We could not confirm any corporate link, and neither company states one. What we did find is that their own websites name some of the same Amazon listings. AFWFilters' 48k store page lists ASIN B00OGN3162, and so does a DuraWater product page. A DuraWater-branded Iron Blaster listing, B0761Y6G1K, appears on AFWFilters' Iron Pro 48k page. Check the Ships from and Sold by lines on Amazon before you compare prices."
+    answer: "We could not confirm any corporate link, and neither company states one. What we did find is that their own websites name some of the same Amazon listings. AFWFilters' 48k store page names an Amazon listing that a DuraWater product page also names. A DuraWater-branded Iron Blaster listing appears on AFWFilters' Iron Pro 48k page. Check the Ships from and Sold by lines on Amazon before you compare prices."
   - question: "Which is better, AFWFilters or DuraWater?"
     answer: "The hardware is close to identical: the same Fleck 5600SXT valve, 1.5 cubic feet of resin and a 10 x 54 inch tank at 48,000 grains. AFWFilters is the easier seller to buy from because its own store publishes prices, install booklets and videos, replacement parts, a 120-day money-back policy and warranty terms. DuraWater's website publishes specifications but no prices or warranty details."
   - question: "What warranty do AFWFilters and DuraWater give?"
     answer: "AFWFilters' FAQ states a 5-year warranty on Fleck controls and parts and 10 years on the brine and mineral tanks. DuraWater's website says its products are backed by a warranty but gives no terms. Its Amazon listings have described a 5-year valve warranty. Ask DuraWater for the tank and valve terms in writing before ordering."
   - question: "How much does a 48,000 grain AFWFilters softener cost?"
-    answer: "On 2 October 2026, AFWFilters' own store listed the 48k system with 10% crosslink resin at $785 on sale, against a $934 list price. The standard 8% resin version was $775 and the Iron Pro 48k fine-mesh version $799. DuraWater does not publish prices on its website, so compare its Amazon listing price on the day you buy."
+    answer: "The price depends mostly on the resin and the options you pick. When we checked, the standard 8% resin version cost a little less than the 10% crosslink version, and the fine-mesh Iron Pro 48k a little more. A larger round brine tank or a stainless steel bypass adds to the total. AFWFilters publishes its current prices on its own store. DuraWater does not publish prices on its website, so compare its Amazon listing price on the day you buy."
   - question: "Do AFWFilters and DuraWater use real Fleck valves?"
     answer: "Both sellers name the Pentair Fleck 5600SXT digital metered valve, and DuraWater mentions Pentair's Scan and Service app. The valve itself carries Pentair's design, and Pentair publishes its manual. What each seller chooses is everything around it: resin, tanks, brine tank, bypass and warranty."
 ---
 
-**AFWFilters vs DuraWater is a choice between two sellers, not two softeners.** For the 48,000-grain system with 10% crosslink resin, both ship a Pentair Fleck 5600SXT metered valve, 1.5 cubic feet of resin and a 10 x 54 inch mineral tank. What differs is the brine tank, the bypass options, and above all what each seller tells you in writing. AFWFilters publishes its price, $785 on 2 October 2026, along with install guides, a parts store, warranty terms and a 120-day return policy on its own site. DuraWater's website gives specifications and a phone number, but no prices and no warranty terms. On that basis, AFWFilters is the easier one to buy from. Both sites also name some of the same Amazon listings, which changes how you should compare prices.
+**AFWFilters vs DuraWater is a choice between two sellers, not two softeners.** For the 48,000-grain system with 10% crosslink resin, both ship a Pentair Fleck 5600SXT metered valve, 1.5 cubic feet of resin and a 10 x 54 inch mineral tank. What differs is the brine tank, the bypass options, and above all what each seller tells you in writing. AFWFilters publishes its prices, install guides, a parts store, warranty terms and a 120-day return policy on its own site. DuraWater's website gives specifications and a phone number, but no prices and no warranty terms. On that basis, AFWFilters is the easier one to buy from. Both sites also name some of the same Amazon listings, which changes how you should compare prices.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
@@ -29,7 +29,7 @@ faqs:
 
 | Item | AFWFilters 48k, 10% resin | DuraWater 48k, 10% resin |
 |---|---|---|
-| Amazon listing | [B00YFOTWZG](https://www.amazon.com/dp/B00YFOTWZG) | [B09NF2D5GB](https://www.amazon.com/dp/B09NF2D5GB) |
+| Amazon listing | [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG) | [Check price on Amazon](https://www.amazon.com/dp/B09NF2D5GB) |
 | Control valve | Fleck 5600SXT digital metered | Fleck 5600SXT digital metered |
 | Meter | Not specified beyond "metered" | "Upgraded paddle wheel meter" (DuraWater's 48k pages) |
 | Resin | 1.5 cu ft, 10% crosslink | 10% resin, per the Amazon title; volume 1.5 cu ft on DuraWater's 48k pages |
@@ -40,15 +40,14 @@ faqs:
 | Rated flow | 6.5 gpm service, 9.8 gpm peak; 2.7 gpm backwash | Not stated on DuraWater's site |
 | Extras offered | Salt grid; whole-house prefilter | Pentair Scan and Service app access |
 | Warranty | 5 years Fleck controls and parts, 10 years tanks | "Backed by a warranty", no terms on site; listing has described 5 years on the valve |
-| Price, 2 Oct 2026 | $785 sale ($934 list), AFWFilters store | Not published; Amazon price not visible to our tools |
 
-DuraWater's website has no page for the 48k 10% system. It has pages for its 32k and 64k 10% resin systems and for its standard 48k systems. The DuraWater column therefore combines the Amazon title for B09NF2D5GB with DuraWater's own 48k pages. Confirm the brine tank, bypass and resin volume with DuraWater for that listing before you order.
+DuraWater's website has no page for the 48k 10% system. It has pages for its 32k and 64k 10% resin systems and for its standard 48k systems. The DuraWater column therefore combines the title of its 10% resin Amazon listing with DuraWater's own 48k pages. Confirm the brine tank, bypass and resin volume with DuraWater for that listing before you order.
 
 ## How This Comparison Was Built
 
-> **Method.** No unit was physically tested. AFWFilters' specifications, prices and policies come from its store's product pages and [FAQ](https://store.afwfilters.com/faq). DuraWater's come from its [own product pages](https://www.durawater.com/pentair-fleck-48000-grain) and the Amazon listing titles. Valve facts come from Pentair's [Fleck 5600SXT downflow service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf). Each Amazon listing was opened to confirm the product page exists and to read its title. Amazon did not show prices to our tools.
+> **Method.** No unit was physically tested. AFWFilters' specifications and policies come from its store's product pages and [FAQ](https://store.afwfilters.com/faq). DuraWater's come from its [own product pages](https://www.durawater.com/pentair-fleck-48000-grain) and the Amazon listing titles. Valve facts come from Pentair's [Fleck 5600SXT downflow service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf). Each Amazon listing was opened to confirm the product page exists and to read its title.
 >
-> Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Valve Is the Same; Everything Around It Is the Seller's
 
@@ -88,26 +87,26 @@ This is where the two sellers differ most. A softener bought online is a 10-year
 | Warranty terms in writing | 5 years on Fleck controls and parts, 10 years on tanks (FAQ) | "Backed by a warranty and support", no terms |
 | Returns | 120-day money-back if unused and in original packaging | Not stated on site |
 | Support | Phone, email and live chat, Mon to Fri, 8 am to 4 pm Central | Phone, Mon to Fri, 9 am to 5 pm Eastern; Saturday by appointment |
-| Shipping | Free over $100 in the contiguous US; ships in 1 to 2 business days | Not stated on site |
+| Shipping | Free above a minimum order in the contiguous US; ships in 1 to 2 business days | Not stated on site |
 | Where else it sells | Amazon, eBay and Walmart, per its FAQ | Amazon listings under the DuraWater name |
 
 None of this says DuraWater's hardware is worse. The specifications it does publish match AFW's closely. It means that with DuraWater, the warranty terms, return terms and parts supply are things you have to ask for, and get in writing, rather than read before you buy. The Fleck valve itself softens that risk. Its seal kits, pistons and boards are sold by many independent suppliers, so you are not tied to either seller for valve parts.
 
 ## Both Sites Name Some of the Same Amazon Listings
 
-Each AFWFilters product page has an "Additional Information" tab listing the Amazon ASINs it applies to. Several DuraWater product pages list ASINs too. Set side by side, they overlap.
+Each AFWFilters product page has an "Additional Information" tab listing the Amazon listings it applies to. Several DuraWater product pages list Amazon listings too. Set side by side, they overlap.
 
-![Map of Amazon ASINs named on AFWFilters store pages and DuraWater site pages for 48,000-grain Fleck 5600SXT softeners, linking three listings shared between the two sellers](/diagrams/afwfilters-vs-durawater-shared-amazon-listings-map.svg "Three Amazon listings appear on, or carry the name of, both sellers")
+![Map of Amazon listings named on AFWFilters store pages and DuraWater site pages for 48,000-grain Fleck 5600SXT softeners, linking three listings shared between the two sellers](/diagrams/afwfilters-vs-durawater-shared-amazon-listings-map.svg "Three Amazon listings appear on, or carry the name of, both sellers")
 
-- **B00OGN3162** is listed on AFWFilters' standard 48k page and on DuraWater's "Pentair Fleck 48,000 grain" page.
-- **B004LYGBWM** is listed on AFWFilters' standard 48k page and on DuraWater's 48,000-grain Iron Blaster page. One describes standard resin and the other fine mesh.
-- **B0761Y6G1K** carries the DuraWater name in its Amazon title, "DuraWater Fleck 5600 SXT 48K Water Softener/Iron Filter … with Fine Mesh Resin". It is listed on AFWFilters' Iron Pro 48k page.
+- **Shared listing A** is listed on AFWFilters' standard 48k page and on DuraWater's "Pentair Fleck 48,000 grain" page.
+- **Shared listing B** is listed on AFWFilters' standard 48k page and on DuraWater's 48,000-grain Iron Blaster page. One describes standard resin and the other fine mesh.
+- **A DuraWater Iron Blaster listing** carries the DuraWater name in its Amazon title, "DuraWater Fleck 5600 SXT 48K Water Softener/Iron Filter … with Fine Mesh Resin". It is listed on AFWFilters' Iron Pro 48k page.
 
 We could not find a statement from either company explaining this, and we do not assume a corporate relationship. Amazon listings can carry several sellers, and either company may simply be pointing at a listing it also sells on. The practical point is narrower:
 
 1. **The brand name on a listing does not tell you who ships it.** Read the "Ships from" and "Sold by" lines.
 2. **Compare the listing with the seller's own price.** AFW's store price is public, so it is the reference point for any listing that AFW sells through.
-3. **Match the resin to the listing, not the brand.** The same ASIN described as standard resin on one site and fine mesh on the other is a reason to ask the seller which resin ships, before you order.
+3. **Match the resin to the listing, not the brand.** The same listing described as standard resin on one site and fine mesh on the other is a reason to ask the seller which resin ships, before you order.
 
 ## The Iron Versions: Iron Pro 2 48k vs Iron Blaster 48k
 
@@ -115,23 +114,18 @@ For well water with dissolved iron, each seller has a fine-mesh 48k on the same 
 
 | | AFWFilters Iron Pro 2 48k | DuraWater Iron Blaster 48k |
 |---|---|---|
-| Amazon listing | [B075ZFYTNH](https://www.amazon.com/dp/B075ZFYTNH) | [B0761Y6G1K](https://www.amazon.com/dp/B0761Y6G1K) |
+| Amazon listing | [Check price on Amazon](https://www.amazon.com/dp/B075ZFYTNH) | [Check price on Amazon](https://www.amazon.com/dp/B0761Y6G1K) |
 | Resin | 1.5 cu ft fine mesh | 1.5 cu ft fine mesh, per DuraWater's page |
 | Tanks | 10 x 54 in resin tank; 14 x 14 x 36 in brine tank | 10 x 54 in resin tank; 14 x 14 x 34 in brine tank with safety float |
 | Stated iron limit | Up to 6 ppm of ferrous iron | Not stated on DuraWater's page |
 | Rated flow | 6.5 gpm service, 9.8 gpm peak | Not stated |
 | Warranty | 5 years head, 10 years tank | Not stated on site |
-| Price, 2 Oct 2026 | $799 sale ($1,001 list), AFWFilters store | Not published |
 
-AFW states its iron limit; DuraWater's page does not. That matters, because the iron rating, the form of the iron and the regeneration override decide whether either unit works on your well at all. Before choosing either, check that the iron is dissolved rather than already rusted. Then size the bed on compensated hardness, adding about 4 gpg for each ppm of iron and manganese. And remember the B0761Y6G1K listing sits on AFW's Iron Pro page as well, so compare its price with AFW's $799 before ordering.
+AFW states its iron limit; DuraWater's page does not. That matters, because the iron rating, the form of the iron and the regeneration override decide whether either unit works on your well at all. Before choosing either, check that the iron is dissolved rather than already rusted. Then size the bed on compensated hardness, adding about 4 gpg for each ppm of iron and manganese. And remember the DuraWater Iron Blaster listing sits on AFW's Iron Pro page as well, so compare its price with AFW's own store price before ordering.
 
-## Price: What We Could and Could Not Confirm
+## Comparing Prices on the Day You Buy
 
-- **AFWFilters 48k, 10% resin:** $785 on sale, $934 list, on AFW's store, 2 October 2026. The standard 8% version was $775 and the Iron Pro 48k $799.
-- **DuraWater 48k, 10% resin:** we could not confirm a price. DuraWater's site shows none, and Amazon did not display one to our tools. A DuraWater 48,000-grain Fleck listing (B010MR6T2I) showed about $825 on Amazon when this site checked it on 1 October 2026.
-- **DuraWater Iron Blaster 48k:** price not confirmed.
-
-All of these sit well above the $100 floor this site uses for recommended products. The only DuraWater 48k price we could see, about $825 for a different listing a day earlier, was about $40 above AFW's 10% resin system. Check the DuraWater 10% listing on the day you buy.
+**Prices are not listed here** because they change often. AFWFilters publishes current prices for its 10% resin, standard 8% resin and Iron Pro 48k systems on its own store. DuraWater's website shows no prices, so its Amazon listings are the only place to see one. Check both on the day you buy, and compare like with like: the same resin grade, brine tank and bypass.
 
 ## Check the Box When It Arrives
 

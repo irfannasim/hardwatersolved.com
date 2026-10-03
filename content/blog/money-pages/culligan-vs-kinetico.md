@@ -27,7 +27,7 @@ The **Culligan vs Kinetico** choice comes down to two things: design and the dea
 
 ## Culligan vs Kinetico at a Glance
 
-> **Method.** Specifications come from Culligan's High Efficiency softener owner's guide (document 01021076, revision H, 11/19) and current product page, and from Kinetico's softener page and its 2030s data sheet. No unit was physically tested and no sales visit was attended. The two quotes below are illustrative, built in the price ranges owners have published. Neither brand is sold on Amazon. The online alternatives were checked against their Amazon listings and brand stores. **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Method.** Specifications come from Culligan's High Efficiency softener owner's guide (document 01021076, revision H, 11/19) and current product page, and from Kinetico's softener page and its 2030s data sheet. No unit was physically tested and no sales visit was attended. The two quotes below are illustrative, built in the price ranges owners have published. Neither brand is sold on Amazon. The online alternatives were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 | | Culligan Aquasential Smart HE | Kinetico Premier and Signature |
 |---|---|---|
@@ -153,14 +153,12 @@ In either case the dealer matters as much as the hardware. A good local dealer w
 
 Neither Culligan nor Kinetico sells whole-house softeners on Amazon. If both quotes are more than you want to spend, these are the closest online equivalents:
 
-| Alternative | Why it compares | Approx. price |
+| Alternative | Why it compares | Amazon |
 |---|---|---|
-| [AFWFilters Fleck 9100SXT twin tank, 48k](https://www.amazon.com/dp/B000GE8T6M) | Metered twin tank with soft water around the clock, like a Kinetico, but electric. Standard Fleck parts | About $1,387 on AFW's store (checked 1 October 2026; the store did not load on 2 October) |
-| [SoftPro Elite 48k](https://www.amazon.com/dp/B07KY5SPSJ) | Single tank with upflow brining and soft-water refill, aimed at the same salt efficiency as Culligan's upflow HE | $1,367 on SoftPro's store |
+| AFWFilters Fleck 9100SXT twin tank, 48k | Metered twin tank with soft water around the clock, like a Kinetico, but electric. Standard Fleck parts | [Check price on Amazon](https://www.amazon.com/dp/B000GE8T6M) |
+| SoftPro Elite 48k | Single tank with upflow brining and soft-water refill, aimed at the same salt efficiency as Culligan's upflow HE | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 
-*Amazon did not show a price on our check for either listing, so compare the Amazon price on the day.*
-
-Neither comes with a dealer. You or a plumber install and program it, and you buy parts from any seller. Add a plumber's fee and either still costs less than the equipment line alone on both illustrative quotes. Run the Fleck at an efficient salt dose, or its running costs rise.
+Neither comes with a dealer. You or a plumber install and program it, and you buy parts from any seller. Even with a plumber's fee added, either usually costs less than the equipment line alone on both illustrative quotes. Run the Fleck at an efficient salt dose, or its running costs rise.
 
 ## Who Should Choose Neither
 

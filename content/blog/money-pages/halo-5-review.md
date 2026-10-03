@@ -2,7 +2,7 @@
 title: "HALO 5 Review: Each Stage, What It Costs to Run, and What Replaced It"
 seoTitle: "HALO 5 Review: Salt-Free Filter and Conditioner Checked"
 seoDescription: "This HALO 5 review breaks down each filtration and salt-free stage, its replacement interval and cost, and the water it is not built for."
-excerpt: "The HALO 5 is a single-tank carbon filter with a permanent magnetic module on the end. The carbon stages do real work on chlorine, taste and odour. The conditioning stage removes no hardness and rests on the weakest evidence in salt-free treatment. And on 1 October 2026 the maker's website was offline and both Amazon listings were unavailable. This review breaks the system down stage by stage, prices each stage over 10 years, and sets it against two pairings you can still buy."
+excerpt: "The HALO 5 is a single-tank carbon filter with a permanent magnetic module on the end. The carbon stages do real work on chlorine, taste and odour. The conditioning stage removes no hardness and rests on the weakest evidence in salt-free treatment. And on 1 October 2026 the maker's website was offline and both Amazon listings were unavailable. This review breaks the system down stage by stage, sets out what each stage needs over 10 years, and sets it against two pairings you can still buy."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -18,7 +18,7 @@ faqs:
   - question: "Does magnetic water conditioning work?"
     answer: "The evidence is weak and mixed. The most cited independent test, a WateReuse Research Foundation study, found electromagnetic and electrically induced devices cut scale formation by about 50 percent under its heated test, against more than 88 percent for template assisted crystallization media. Other studies of magnetic devices found no effect. None of these devices removes hardness."
   - question: "How much does a HALO 5 cost?"
-    answer: "HALO sold through dealers under minimum advertised pricing, so there is no public list price. One Colorado plumbing company estimates $1,500 to $3,500 for the unit and $2,000 to $5,000 installed. For comparison, an Aquasure Harmony 48,000-grain softener and a Fortitude Pro 1.5 cubic foot carbon filter cost about $1,430 together at Aquasure's own store on 1 October 2026, before installation."
+    answer: "HALO sold through dealers under minimum advertised pricing, so there is no public list price. One Colorado plumbing company estimates $1,500 to $3,500 for the unit and $2,000 to $5,000 installed. For comparison, check the current price of a salt softener and carbon filter pair you can still order, such as an Aquasure Harmony 48,000-grain softener with a Fortitude Pro 1.5 cubic foot carbon filter, and add installation."
   - question: "Does the HALO 5 use salt or electricity?"
     answer: "The current HALO 5 description calls it salt-free and chemical-free, and no salt is needed for the carbon or magnetic stages. Installers describe an automatic backwashing control head on the tank, and electronic heads of that kind run from a plug-in transformer, so expect to need an outlet. Backwashing also sends some water to a drain."
 ---
@@ -29,14 +29,14 @@ So the HALO 5 is now mainly a system you will be quoted by a plumber, not one yo
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How this review was built.** HALO's own product description, FAQ and warranty are taken from archived copies of halowatersystems.com, because the live site no longer resolves. Amazon status comes from the two HALO 5 listings. Installer prices come from a plumbing company's published guide. Comparison prices come from Aquasure's and AFW's own stores. Nothing here was physically tested. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **How this review was built.** HALO's own product description, FAQ and warranty are taken from archived copies of halowatersystems.com, because the live site no longer resolves. Amazon status comes from the two HALO 5 listings. Installer prices come from a plumbing company's published guide. Nothing here was physically tested. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Can You Still Buy a HALO 5?
 
 | Check, 1 October 2026 | Result |
 |---|---|
-| Amazon, HALO 5 1-inch (B00CYURNDG) | "Currently unavailable", no seller |
-| Amazon, HALO 5 1-1/4-inch (B00CYUROQ2) | "Currently unavailable", no seller |
+| Amazon, HALO 5 1-inch listing | "Currently unavailable", no seller |
+| Amazon, HALO 5 1-1/4-inch listing | "Currently unavailable", no seller |
 | halowatersystems.com | Domain no longer resolves; archived copies from 2025 redirect to a placeholder page |
 | Installers | Some plumbers still publish HALO 5 pricing and install guides |
 | Published price | None. Dealers sold under minimum advertised pricing |
@@ -81,11 +81,11 @@ Whether you need scale control or true softening is the first decision, ahead of
 
 The HALO 5's running costs are low, because only the carbon stages wear out and they wear out slowly. HALO's FAQ worked it out using 22,500 gallons per person per year. At the 75 gallons per person per day used across this site, a family of four uses about 109,500 gallons a year.
 
-| Stage | Life for a family of four | Replacement cost basis |
+| Stage | Life for a family of four | What gets replaced |
 |---|---|---|
-| Carbon, stages 1 and 2 (1.5 cu ft in a 1-inch unit) | About 5.5 to 11 years, at 400,000 to 800,000 gallons per cubic foot | Catalytic carbon lists at about $283 per cubic foot and $163 per half cubic foot at AFW's store, so about $446 for 1.5 cubic feet of media alone |
+| Carbon, stages 1 and 2 (1.5 cu ft in a 1-inch unit) | About 5.5 to 11 years, at 400,000 to 800,000 gallons per cubic foot | 1.5 cubic feet of catalytic carbon media, plus labour if a dealer fits it |
 | Filter-Ag Plus and garnet | Usually renewed at the same re-bed | Small extra media cost plus labour |
-| Magnetic module | No consumable | $0 |
+| Magnetic module | No consumable | Nothing |
 | Backwash water | Every backwash sends water to drain | Not published for the HALO 5 |
 
 HALO's archived FAQ answer on media life is the source for the carbon figures. It also advised testing the water every year, or simply waiting until chlorine taste or odour returns. With HALO's own replacement media no longer sold, a re-bed means generic carbon of equivalent grade, installed by a dealer or a confident DIYer.
@@ -94,27 +94,24 @@ The same pattern of "maintenance-free" claims hiding a real replacement schedule
 
 ## HALO 5 vs a Softener and Carbon Pair Over 10 Years
 
-The fair comparison for a HALO 5 is not a softener alone. It is what the same money buys in two tanks you can still order. We priced two pairings for a family of four on 15 gpg city water:
+The fair comparison for a HALO 5 is not a softener alone. It is what two tanks you can still order would do instead. We compared two pairings for a family of four on 15 gpg city water:
 
-- **Salt softener plus carbon filter:** [Aquasure Harmony 48,000 grain](https://www.amazon.com/dp/B07F175C2R) (about $630 at Aquasure's store) with an [Aquasure Fortitude Pro 1.5 cu ft KDF/GAC filter](https://www.amazon.com/dp/B07G3N721S) (about $800, rated by Aquasure at 1,000,000 gallons). Together about $1,430.
-- **Salt-free plus carbon bundle:** [Aquasure Serene 10 GPM salt-free bundle with Fortitude Pro and a pleated sediment pre-filter](https://www.amazon.com/dp/B0CFGDTFPX) (about $1,850 at Aquasure's store). Aquasure rates the Serene for city water below 25 grains per gallon and calls its anti-scale media a 10-year media.
+- **Salt softener plus carbon filter:** Aquasure Harmony 48,000 grain ([Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)) with an Aquasure Fortitude Pro 1.5 cu ft KDF/GAC filter, rated by Aquasure at 1,000,000 gallons ([Check price on Amazon](https://www.amazon.com/dp/B07G3N721S)).
+- **Salt-free plus carbon bundle:** Aquasure Serene 10 GPM salt-free bundle with Fortitude Pro and a pleated sediment pre-filter ([Check price on Amazon](https://www.amazon.com/dp/B0CFGDTFPX)). Aquasure rates the Serene for city water below 25 grains per gallon and calls its anti-scale media a 10-year media.
 
-![Line chart of 10-year cumulative cost for a HALO 5 against a salt softener with carbon filter and a salt-free bundle with carbon filter](/diagrams/halo-5-vs-softener-carbon-pair-10-year-cost.svg "Over 10 years the softener pair costs about the same as a mid-priced HALO 5, and it is the only one that softens")
-
-| 10-year cost, before installation | HALO 5 | Softener + carbon pair | Salt-free + carbon bundle |
+| 10 years of ownership, before installation | HALO 5 | Softener + carbon pair | Salt-free + carbon bundle |
 |---|---|---|---|
-| Equipment | $1,500 to $3,500 (installer estimate) | about $1,430 | about $1,850 |
-| Salt, at 2,890 grains per lb and $7 a bag | $0 | about $990 | $0 |
-| Regeneration or backwash water | Not published | about $360 | $0 |
-| Carbon replacement | about $446 of media, around year 8 | about $580 replacement media tank, around year 9 | about $580, around year 9 |
-| Sediment cartridges, assumed one a year at about $28 | none listed | about $280 | about $280 |
-| **10-year total** | **about $1,950 to $3,950** | **about $3,640** | **about $2,710** |
+| Equipment | $1,500 to $3,500 (installer estimate) | Two tanks; check the current price | One bundle; check the current price |
+| Salt | None | Ongoing, and the largest running cost | None |
+| Regeneration or backwash water | Not published | Every regeneration sends water to drain | None |
+| Carbon replacement | 1.5 cu ft media re-bed, around year 8 | Replacement media tank, around year 9 | Replacement media tank, around year 9 |
+| Sediment cartridges, assumed one a year | None listed | About 10 over 10 years | About 10 over 10 years |
 | Removes hardness? | No | Yes | No |
 | Scale-control evidence | Magnetic, about 50% at best in WateReuse testing | Hardness removed | Aquasure's anti-scale media; ask for the test protocol |
 
-*Illustrative. The softener salt figure assumes a standard 9 lb per cubic foot dose; programming it for efficiency lowers it. Carbon life depends on your chlorine level and water use.*
+*Illustrative. The softener's salt use assumes a standard 9 lb per cubic foot dose; programming it for efficiency lowers it. Carbon life depends on your chlorine level and water use.*
 
-The pattern is clear. At the low end of its price range a HALO 5 is cheap to own, but it buys filtration plus the weakest kind of scale control. At the high end it costs more over 10 years than a softener and carbon pair that removes the hardness completely. The salt-free bundle sits between them, with scale-control media that is at least a different technology from a magnet.
+The pattern is clear. A HALO 5 is cheap to keep running, because only its carbon wears out, but it buys filtration plus the weakest kind of scale control. The softener pair has the highest running costs, mostly salt, and it is the only one of the three that removes the hardness completely. The salt-free bundle avoids salt, with scale-control media that is at least a different technology from a magnet. Set the current prices of the pairings against your installer's HALO quote before deciding.
 
 Installation is excluded from every column. A HALO 5 is one tank to plumb in, and each pairing is two or three. Expect the pairings to cost a little more to install.
 
@@ -141,4 +138,4 @@ The terms matter less than the question of who would honor them. With the manufa
 
 ## The Verdict
 
-The bottom line of this HALO 5 review: its carbon stages are a sound whole-house filter for chlorine, chloramine, taste and odour, and its running costs are low. Its conditioning stage is a permanent magnet that removes no hardness, backed by the weakest evidence in salt-free treatment. Add a vanished manufacturer and no Amazon availability, and it is hard to recommend over two tanks you can buy today. If you want soft water, a salt softener and carbon filter pair costs about the same over 10 years and actually removes the hardness. If you only want filtration and some scale control without salt, a salt-free bundle with a named media and a carbon stage is the more supportable choice.
+The bottom line of this HALO 5 review: its carbon stages are a sound whole-house filter for chlorine, chloramine, taste and odour, and its running costs are low. Its conditioning stage is a permanent magnet that removes no hardness, backed by the weakest evidence in salt-free treatment. Add a vanished manufacturer and no Amazon availability, and it is hard to recommend over two tanks you can buy today. If you want soft water, a salt softener and carbon filter pair is the option that actually removes the hardness. If you only want filtration and some scale control without salt, a salt-free bundle with a named media and a carbon stage is the more supportable choice.

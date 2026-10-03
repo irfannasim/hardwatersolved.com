@@ -14,7 +14,7 @@ faqs:
   - question: "Can you regenerate a portable water softener with table salt?"
     answer: "Yes. On The Go's instructions use ordinary table salt: two boxes for the 16,000-grain double and one box for the 8,000-grain standard. The salt goes into the tank and fresh water is then flushed through, following the maker's instructions. The maker quotes under 30 minutes for the double. It is the amount of salt, more than the type, that limits how much capacity comes back."
   - question: "Is a portable water softener worth it for an RV?"
-    answer: "Usually, if you camp regularly in hard-water areas. Scale builds fastest in the RV water heater and on shower heads and faucets, and campground water in some hard-water regions can be well over 15 gpg. A portable softener costs about $165 to $265 and regenerates for the price of a couple of boxes of salt. If you mostly stay at sites with soft water, it adds little."
+    answer: "Usually, if you camp regularly in hard-water areas. Scale builds fastest in the RV water heater and on shower heads and faucets, and campground water in some hard-water regions can be well over 15 gpg. A portable softener is a one-off purchase and regenerates for the price of a couple of boxes of salt. If you mostly stay at sites with soft water, it adds little."
   - question: "Which is better, an 8,000 or 16,000 grain portable softener?"
     answer: "The 16,000-grain double, for most RVers. It holds about twice the resin, so it goes about twice as long between regenerations. That matters on hard water, where the 8,000-grain model gives only about 275 gallons per regeneration at 20 gpg on our estimate. The 8,000-grain standard makes sense for a solo traveller on short trips with limited storage. It weighs about 18 lb against 32 lb."
   - question: "Can a portable water softener be used in a house?"
@@ -27,20 +27,20 @@ The **best portable water softeners** for RVs are the On The Go 16,000-grain dou
 
 ## Best Portable Water Softeners at a Glance
 
-| Pick | Capacity (maker) | Resin | Size and weight | Flow | Approx. price | Amazon |
-|---|---|---|---|---|---|---|
-| On The Go double, OTG4-DBLSOFT | 16,000 grains | 0.52 cu ft | 22 x 9.5 in, 32 lb | 3 gpm | about $192 sale, $260 regular | [B00KVPNVJ6](https://www.amazon.com/dp/B00KVPNVJ6) |
-| On The Go double with brass adapters, OTG4-VM-DBLSOFT | 16,000 grains | 0.52 cu ft | 22 x 9.5 in, 32 lb | 3 gpm | about $195 sale, $265 regular | [B085Q2LBJV](https://www.amazon.com/dp/B085Q2LBJV) |
-| On The Go standard | 8,000 grains | 0.25 cu ft | 22 x 6.75 in, 18 lb | 2 gpm | about $165 | [B00KVPNURO](https://www.amazon.com/dp/B00KVPNURO) |
+| Pick | Capacity (maker) | Resin | Size and weight | Flow | Amazon |
+|---|---|---|---|---|---|
+| On The Go double, OTG4-DBLSOFT | 16,000 grains | 0.52 cu ft | 22 x 9.5 in, 32 lb | 3 gpm | [Check price on Amazon](https://www.amazon.com/dp/B00KVPNVJ6) |
+| On The Go double with brass adapters, OTG4-VM-DBLSOFT | 16,000 grains | 0.52 cu ft | 22 x 9.5 in, 32 lb | 3 gpm | [Check price on Amazon](https://www.amazon.com/dp/B085Q2LBJV) |
+| On The Go standard | 8,000 grains | 0.25 cu ft | 22 x 6.75 in, 18 lb | 2 gpm | [Check price on Amazon](https://www.amazon.com/dp/B00KVPNURO) |
 
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Specifications come from the maker's product pages, and the gallons-per-regeneration figures are recalculated from published resin performance at a stated salt dose.
 >
-> - **Included:** ion-exchange portable softeners with hose connections, regenerated with salt and no power, sold on Amazon at a normal price above $100.
+> - **Included:** ion-exchange portable softeners with hose connections, regenerated with salt and no power, sold on Amazon.
 > - **Normalised:** capacity is re-stated at the salt dose the instructions actually use, one or two boxes of table salt, rather than the headline grain rating.
-> - **Excluded:** salt-free "RV conditioners" (they do not remove hardness), sub-$100 units we could not price, and the Watts Flow-Pur RV-Pro 10,000, which was listed as out of stock on Flow-Pur's own store on the day we checked.
-> - **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not load for our check, so prices are from the maker's store, On The Go (portablewatersoftener.com).
+> - **Excluded:** salt-free "RV conditioners" (they do not remove hardness), and the Watts Flow-Pur RV-Pro 10,000, which was listed as out of stock on Flow-Pur's own store on the day we checked.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Gallons per Regeneration: The Maker's Table vs the Salt You Use
 
@@ -83,7 +83,8 @@ Two things stand out. First, the 8,000-grain standard turns into an every-few-da
 - **Size:** 22 inches tall, 9.5 inches across, 32 lb
 - **Regeneration:** two boxes of table salt, under 30 minutes, per the maker
 - **In the box:** inlet and outlet hose adapters, a back-flush adapter, a 4-foot white drinking-water hose and storage caps, per the maker
-- **Price:** about $192 on sale, $260 regular at On The Go. [See it on Amazon (B00KVPNVJ6)](https://www.amazon.com/dp/B00KVPNVJ6)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00KVPNVJ6)
 
 This is the pick for two or more people or for campsites harder than about 15 gpg. It has twice the resin of the standard model, which means half as many regenerations. The 3 gpm flow is enough for one shower at a time. At 32 lb it needs a bay or a corner of the campsite, not a cupboard.
 
@@ -92,11 +93,12 @@ This is the pick for two or more people or for campsites harder than about 15 gp
 ### On The Go double with brass adapters: best for the drinking-water hose
 
 - **Item:** OTG4-VM-DBLSOFT, the same 16,000-grain, 0.52 cu ft tank with brass inlet and outlet hose adapters
-- **Price:** about $195 on sale, $265 regular at On The Go. [See it on Amazon (B085Q2LBJV)](https://www.amazon.com/dp/B085Q2LBJV)
+
+[Check price on Amazon](https://www.amazon.com/dp/B085Q2LBJV)
 
 The only difference On The Go lists is the brass hose adapters. They are harder to cross-thread or crack than plastic at a campground spigot you connect to every few days. On The Go's page does not make a lead-free or certification claim for the brass. If your drinking water passes through it and that matters to you, ask the seller for the fitting specification before you buy.
 
-**Watch for:** paying more for an Amazon listing than the maker charges. The two versions are only a few dollars apart at On The Go.
+**Watch for:** paying more for an Amazon listing than the maker charges. On The Go prices the two versions close together on its own store, so compare before ordering.
 
 ### On The Go 8,000-grain standard: best for solo and weekend trips
 
@@ -104,9 +106,10 @@ The only difference On The Go lists is the brass hose adapters. They are harder 
 - **Flow:** 2 gpm
 - **Size:** 22 inches tall, 6.75 inches across, 18 lb
 - **Regeneration:** one box of table salt, under 15 minutes, per the [maker's product page](https://www.portablewatersoftener.com/shop/water-softeners/portable-standard-water-softener)
-- **Price:** about $165 at On The Go. [See it on Amazon (B00KVPNURO)](https://www.amazon.com/dp/B00KVPNURO)
 
-At 6.75 inches across and 18 lb, the standard fits a storage hatch the double will not. For one person on 10 to 15 gpg water it lasts a week or two between regenerations on our estimate. It costs only about $30 less than the double on sale, so buy it for the size, not the saving.
+[Check price on Amazon](https://www.amazon.com/dp/B00KVPNURO)
+
+At 6.75 inches across and 18 lb, the standard fits a storage hatch the double will not. For one person on 10 to 15 gpg water it lasts a week or two between regenerations on our estimate. It usually costs only a little less than the double, so buy it for the size, not the saving.
 
 **Watch for:** 2 gpm. It will make a shower feel weak if the park's pressure is low, and on 30 gpg water it needs salt every few days for two people.
 

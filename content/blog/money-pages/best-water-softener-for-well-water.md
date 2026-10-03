@@ -33,23 +33,23 @@ That makes the iron result the first number to read on a well test, ahead of har
 
 > **Method.** No unit here was physically tested by us. Each pick is judged from its seller's spec page, owner's manual and warranty wording, with iron ratings quoted as the seller states them and set against extension-service guidance.
 >
-> **Included:** complete salt-based softeners sold new on Amazon.com at $100 or more, with **fine-mesh resin**, a metered valve and a stated iron rating or warranty position on iron.
+> **Included:** complete salt-based softeners sold new on Amazon.com, with **fine-mesh resin**, a metered valve and a stated iron rating or warranty position on iron.
 >
 > **Excluded:** any unit without a fine-mesh option, however high its iron claim. Standard resin with an iron claim is the combination most likely to foul on a well. Also excluded: combination well systems whose Amazon listing we could not open to confirm what is in the box.
 >
-> **Prices** are the sellers' own store prices, because Amazon does not show prices to research tools. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 How softeners behave on wells in general, including the full test panel and treatment order, is covered in [water softener for well water](/blog/water-softener-for-well-water/). This page assumes you have that test and need to choose a unit.
 
 ## Best Water Softener for Well Water: The Three Iron Bands
 
-| Dissolved iron | What to buy | Pick | Approx. price |
+| Dissolved iron | What to buy | Pick | Amazon |
 |---|---|---|---|
-| Under 1 ppm | Fine-mesh softener, 1.5 cu ft for most homes | [AFWFilters Iron Pro 48k](https://www.amazon.com/dp/B075ZFYTNH) | about $799 |
-| Under 1 ppm, lowest cost | Fine-mesh softener with sediment pre-filter | [Aquasure Harmony 48k fine mesh + pre-filter](https://www.amazon.com/dp/B0855SBJ7D) | about $700 |
-| 1 to 3 ppm | Fine-mesh softener, larger bed, shorter cycles | [AFWFilters Iron Pro 2 64k](https://www.amazon.com/dp/B004LUJ6L4) | about $898 |
-| 1 to 3 ppm, large household | Same, 2.5 cu ft in a 13 in tank | [AFWFilters Iron Pro 2 80k](https://www.amazon.com/dp/B075ZH2TDR) | about $1,099 |
-| Over 3 ppm, or rusty water | Iron filter first, then a softener sized on hardness | None of these alone | n/a |
+| Under 1 ppm | Fine-mesh softener, 1.5 cu ft for most homes | AFWFilters Iron Pro 48k | [Check price on Amazon](https://www.amazon.com/dp/B075ZFYTNH) |
+| Under 1 ppm, lowest cost | Fine-mesh softener with sediment pre-filter | Aquasure Harmony 48k fine mesh + pre-filter | [Check price on Amazon](https://www.amazon.com/dp/B0855SBJ7D) |
+| 1 to 3 ppm | Fine-mesh softener, larger bed, shorter cycles | AFWFilters Iron Pro 2 64k | [Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4) |
+| 1 to 3 ppm, large household | Same, 2.5 cu ft in a 13 in tank | AFWFilters Iron Pro 2 80k | [Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR) |
+| Over 3 ppm, or rusty water | Iron filter first, then a softener sized on hardness | None of these alone | – |
 
 ![Best water softener for well water by dissolved iron level: under 1 ppm and 1 to 3 ppm map to fine-mesh picks, over 3 ppm needs an iron filter first](/diagrams/best-water-softener-for-well-water-iron-level-bands.svg "The cut-off sits at 3 ppm, below most sellers' ratings, because cleaners rarely keep up past 1 to 2 mg/L")
 
@@ -82,18 +82,20 @@ At under 1 ppm, iron adds little to the load and a standard 1.5 cubic foot bed s
 
 ### AFWFilters Iron Pro 48k (fine mesh)
 
-**About $799 (AFWFilters store). [View on Amazon](https://www.amazon.com/dp/B075ZFYTNH).**
+[Check price on Amazon](https://www.amazon.com/dp/B075ZFYTNH)
 
 - **What it is:** 1.5 cubic feet of fine-mesh resin in a 10x54 tank on a Fleck 5600SXT metered valve, with a brine tank and bypass. The seller quotes 6.5 gpm service flow and 9.8 gpm peak.
 - **Stated iron rating:** "low levels of iron (up to 6 ppm)", ferrous only. AFW's instructions add 4 grains of compensated hardness for each ppm of iron and manganese.
 - **Warranty (seller):** 5 years on the control head, 10 years on the mineral tank.
-- **Same system, second listing:** AFWFilters links this product page to the DuraWater "Iron Blaster" 48k listing ([B0761Y6G1K](https://www.amazon.com/dp/B0761Y6G1K)) as well. Compare the two prices on the day you buy.
+- **Same system, second listing:** AFWFilters links this product page to the DuraWater "Iron Blaster" 48k listing as well ([Check price on Amazon](https://www.amazon.com/dp/B0761Y6G1K)). Compare the two listings on the day you buy.
 
 **Wrong for:** households whose busiest moment regularly passes about 8 gpm. A 10-inch bed handles roughly that much at its peak design guideline.
 
 ### Aquasure Harmony 48k, Fine Mesh With Sediment Pre-Filter
 
-**About $700 for the fine-mesh unit on Aquasure's store. The Amazon bundle adds a pleated sediment pre-filter. [View on Amazon](https://www.amazon.com/dp/B0855SBJ7D).**
+The Amazon bundle adds a pleated sediment pre-filter to the fine-mesh unit.
+
+[Check price on Amazon](https://www.amazon.com/dp/B0855SBJ7D)
 
 - **What it is:** Aquasure's Aquatrol metered head on a 10x54 tank of fine-mesh resin, with a sediment pre-filter in the box. Aquasure does not state the resin volume.
 - **Stated iron rating:** none that we could find. Aquasure markets the unit for iron reduction without a ppm ceiling.
@@ -118,7 +120,7 @@ The bed size then follows from the compensated load. These examples use 58.6 gal
 
 ### AFWFilters Iron Pro 2 64k
 
-**About $898 (AFWFilters store). [View on Amazon](https://www.amazon.com/dp/B004LUJ6L4).**
+[Check price on Amazon](https://www.amazon.com/dp/B004LUJ6L4)
 
 - **What it is:** 2.0 cubic feet of fine-mesh resin in a 12-inch tank on a Fleck 5600SXT, with an 18x33 round brine tank and 1-inch connections. Seller flow: 10 gpm service, 15 gpm peak.
 - **Stated iron rating:** "ferrous iron up to 6ppm." The seller adds that ferric iron, the kind that is discoloured when drawn, needs "a dedicated iron filter."
@@ -130,14 +132,14 @@ The bed size then follows from the compensated load. These examples use 58.6 gal
 
 ### AFWFilters Iron Pro 2 80k
 
-**About $1,099 (AFWFilters store). [View on Amazon](https://www.amazon.com/dp/B075ZH2TDR).**
+[Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR)
 
 - **What it is:** 2.5 cubic feet of fine-mesh resin in a 13x54 tank on a Fleck 5600SXT. Seller flow: 11 gpm service, 16 gpm peak. Backwash flow: 4.5 gpm.
 - **Stated iron rating:** "up to 6 ppm of ferrous iron without additional systems required. If ferric iron or higher levels of iron are present a separate iron filter is recommended."
 
 **Who it suits:** larger households, or harder water with iron near the top of the band. **Wrong for:** a well pump that cannot deliver 4.5 gpm for the whole backwash while the house draws water. Note that the 13-inch tank still sits on a 5600SXT valve, so the seller quotes 11 gpm service for it. A 2510-class valve on the same tank is quoted higher.
 
-A DuraWater "Iron Blaster" 80k fine-mesh listing ([B075ZCNBVM](https://www.amazon.com/dp/B075ZCNBVM)) also exists. We could not find a current price for it outside Amazon, so it is not ranked here.
+A DuraWater "Iron Blaster" 80k fine-mesh listing also exists ([Check price on Amazon](https://www.amazon.com/dp/B075ZCNBVM)). We could not check it against a seller's own store page, so it is not ranked here.
 
 ## Over 3 ppm: Buy None of These Alone
 

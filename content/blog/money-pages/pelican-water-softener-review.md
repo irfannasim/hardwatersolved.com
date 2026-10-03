@@ -18,9 +18,9 @@ faqs:
   - question: "Is the Pelican water softener NSF certified?"
     answer: "We found no NSF/ANSI 44 listing under the Pelican trade name in NSF's public listings, current as of 30 September 2026. NSF/ANSI 44 covers ion-exchange softeners, so it would apply to the salt-based unit, not to NaturSoft. NaturSoft's listings cite a 99.6 percent result attributed to DVGW, but the wording does not identify a W 512 certificate we could check."
   - question: "What is a good alternative to the Pelican salt-based softener?"
-    answer: "On Amazon, the Aquasure Harmony 48,000-grain softener was about $630 and the DuraWater 48,000-grain Fleck 5600SXT system about $825 on 1 October 2026. Both are two-tank, metered, salt-based systems of similar size to the Pentair 35921. Check resin volume, valve and warranty against your water test before choosing."
+    answer: "On Amazon, the Aquasure Harmony 48,000-grain softener and the DuraWater 48,000-grain Fleck 5600SXT system were both available on 1 October 2026. Both are two-tank, metered, salt-based systems of similar size to the Pentair 35921. Check resin volume, valve and warranty against your water test before choosing."
   - question: "What is a good alternative to Pelican NaturSoft?"
-    answer: "The Watts Premier OneFlow Plus was about $750 on Amazon, sold by Amazon.com, on 1 October 2026. It pairs a scale-prevention cartridge rated for 250,000 gallons or three years with a 20-micron carbon block. Like NaturSoft, it reduces scale without softening, and it needs the same clean, iron-free water."
+    answer: "The Watts Premier OneFlow Plus, sold on Amazon by Amazon.com, was the closest equivalent we could confirm on 1 October 2026. It pairs a scale-prevention cartridge rated for 250,000 gallons or three years with a 20-micron carbon block. Like NaturSoft, it reduces scale without softening, and it needs the same clean, iron-free water."
 ---
 
 This **Pelican water softener review** has to start with availability, because the answer to "which Pelican should I buy?" changed this year. On 1 October 2026, every Pelican and Pentair-branded softener and NaturSoft listing we checked on Amazon showed "Currently unavailable", and pelicanwater.com was refusing connections. On paper the two lines were good at different jobs. The salt-based unit, sold on Amazon as the Pentair 35921, is a 48,600-grain softener that removes hardness. NaturSoft is a salt-free conditioner that leaves hardness in and aims to stop scale. Pick the line your water test points to, then buy the equivalent that is actually for sale.
@@ -29,19 +29,19 @@ This **Pelican water softener review** has to start with availability, because t
 
 ## Pelican Water Softener Review: The Status Check
 
-| Listing | ASIN | Amazon status, 1 Oct 2026 |
-|---|---|---|
-| Pentair 35921 salt-based softener, 48,600 grains | B09C43F3P3 | Currently unavailable |
-| Pentair Pelican NaturSoft NS3-P (1 to 3 bathrooms) | B000NG3YJU | Currently unavailable |
-| Pentair Pelican NaturSoft NS6-P (4 to 6 bathrooms) | B075DG5F97 | Currently unavailable |
-| NaturSoft NS3 and NS6 with UV | B09944VKR8, B09943SJKW | Currently unavailable |
-| Carbon filter + NaturSoft + UV, PSE1800 and PSE2000 | B09944B2FZ, B0992RYKM2 | Currently unavailable |
+| Listing | Amazon status, 1 Oct 2026 |
+|---|---|
+| Pentair 35921 salt-based softener, 48,600 grains | Currently unavailable |
+| Pentair Pelican NaturSoft NS3-P (1 to 3 bathrooms) | Currently unavailable |
+| Pentair Pelican NaturSoft NS6-P (4 to 6 bathrooms) | Currently unavailable |
+| NaturSoft NS3 and NS6 with UV | Currently unavailable |
+| Carbon filter + NaturSoft + UV, PSE1800 and PSE2000 | Currently unavailable |
 
 Three other signals point the same way. The Pelican website did not respond on the day of writing. Pentair's [residential water softening page](https://www.pentair.com/en-us/home-water-treatment/water-softening-systems.html) now routes buyers to a "find a local pro" dealer search rather than a direct-to-consumer store. And at least one water-treatment dealer has written about what happened to the Pelican brand.
 
 We cannot tell you from the documents whether Pelican is being retired, renamed or moved to dealers only. We can tell you that you should not buy a Pelican unit today without written confirmation, from whoever sells it, of who will honour the warranty and supply replacement media.
 
-> **How this review was built.** It is a document review: the Amazon listings and their specifications, Pentair's residential site, NSF's public certification listings and published guidance on hardness and salt-free treatment. Nothing was tested in a lab. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying. No price was visible for any Pelican listing, because none had an active offer.
+> **How this review was built.** It is a document review: the Amazon listings and their specifications, Pentair's residential site, NSF's public certification listings and published guidance on hardness and salt-free treatment. Nothing was tested in a lab. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon. No Pelican listing had an active offer.
 
 ## The Two Pelican Lines Side by Side
 
@@ -58,7 +58,6 @@ Pelican marketed both products to the same buyer, someone tired of scale, and th
 | Water it needs | Tolerates small amounts of dissolved iron | Iron, manganese, sulfide and tannins removed first |
 | Hardness test afterward | Near zero | Unchanged |
 | Warranty | Not captured from the listing | 12-year limited on tanks, valves, heads, bypass and housings |
-| Last seen price | Not visible | About $1,588 for the NS3-P at a filter retailer, late September 2026 |
 
 The NaturSoft column is not a weaker softener. It is a different product. Pentair's own listing called it a "water softener alternative", and the honest version of that phrase is in our explainer on [whether a salt-free system actually softens water](/blog/does-a-salt-free-system-actually-soften-water/). It does not. It can reduce scale in heated equipment, which is a narrower and still useful job.
 
@@ -118,12 +117,12 @@ Because no Pelican product had an active Amazon offer, these are the closest equ
 
 **Instead of the salt-based Pelican:**
 
-1. [Aquasure Harmony 48,000-grain softener](https://www.amazon.com/dp/B07F175C2R), about $630. A two-tank metered softener with 1.5 cubic feet of resin. Budget-priced, with a proprietary valve and a five-year warranty once registered.
-2. [DuraWater 48,000-grain Fleck 5600SXT system](https://www.amazon.com/dp/B010MR6T2I), about $825. 1.5 cubic feet of resin preloaded, a widely serviced Fleck valve, and a brine tank with a safety float.
+1. **Aquasure Harmony 48,000-grain softener.** A two-tank metered softener with 1.5 cubic feet of resin. Budget-priced, with a proprietary valve and a five-year warranty once registered. [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
+2. **DuraWater 48,000-grain Fleck 5600SXT system.** 1.5 cubic feet of resin preloaded, a widely serviced Fleck valve, and a brine tank with a safety float. [Check price on Amazon](https://www.amazon.com/dp/B010MR6T2I)
 
 **Instead of NaturSoft:**
 
-3. [Watts Premier OneFlow Plus](https://www.amazon.com/dp/B01H273O4M), about $750, sold by Amazon.com. A compact salt-free scale-prevention cartridge rated for 250,000 gallons or three years, paired with a 20-micron carbon block for chlorine taste and odour. No electricity, drain or wastewater. It conditions rather than softens, exactly like NaturSoft, and needs the same pre-treated water.
+3. **Watts Premier OneFlow Plus**, sold by Amazon.com. A compact salt-free scale-prevention cartridge rated for 250,000 gallons or three years, paired with a 20-micron carbon block for chlorine taste and odour. No electricity, drain or wastewater. It conditions rather than softens, exactly like NaturSoft, and needs the same pre-treated water. [Check price on Amazon](https://www.amazon.com/dp/B01H273O4M)
 
 None of these is a Pelican clone, and each has its own trade-offs. They are the products in the same class that you can actually order today.
 

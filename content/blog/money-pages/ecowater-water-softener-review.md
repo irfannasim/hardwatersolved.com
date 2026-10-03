@@ -31,7 +31,7 @@ EcoWater is a dealer brand, part of Berkshire Hathaway's Marmon Group, and publi
 
 ## The Verdict in One Table
 
-> **Method.** Every feature and warranty term below is taken from EcoWater's current spec sheets on ecowater.com, with each sheet's revision date. No unit was physically tested. EcoWater softeners are not sold on Amazon under the EcoWater name; the alternatives below were checked against their Amazon listings and retailer prices. **Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.**
+> **Method.** Every feature and warranty term below is taken from EcoWater's current spec sheets on ecowater.com, with each sheet's revision date. No unit was physically tested. EcoWater softeners are not sold on Amazon under the EcoWater name; the alternatives below were checked against their Amazon listings. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 | Series | Regeneration control | Wi-Fi (HydroLink Plus) | Salt alert | Valve body warranty | Electronics warranty | Tanks |
 |---|---|---|---|---|---|---|
@@ -105,11 +105,11 @@ Divide the price difference by the extra years of valve and electronics coverage
 
 No softener is sold on Amazon under the EcoWater name. If you want similar engineering without a dealer, or the smart protection without a new softener, these are the options:
 
-| Alternative | How it compares | Approx. price |
+| Alternative | How it compares | Amazon |
 |---|---|---|
-| [EcoPure EP42, 42,000 grain](https://www.amazon.com/dp/B01N5S92DK) | Retail sibling with predictive "AutoSense" regeneration; NSF certified per its listing; no Wi-Fi | About $690 to $720 at Ace and other hardware stores |
-| [EcoPure EPH130 softener and filter](https://www.amazon.com/dp/B0GMYSW7MG) | Same maker's hybrid cabinet with softening resin and filtration media in one unit; AutoSense regeneration; listed for households of up to 5 people. Its grain rating is not given in the listing title, so confirm it before you buy | About $699 |
-| [Moen Flo smart water shutoff](https://www.amazon.com/dp/B00C03D01Q) | Adds what HydroLink Plus lacks: automatic shutoff on a detected leak, for any softener | About $500 at Moen and Home Depot |
+| EcoPure EP42, 42,000 grain | Retail sibling with predictive "AutoSense" regeneration; NSF certified per its listing; no Wi-Fi | [Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK) |
+| EcoPure EPH130 softener and filter | Same maker's hybrid cabinet with softening resin and filtration media in one unit; AutoSense regeneration; listed for households of up to 5 people. Its grain rating is not given in the listing title, so confirm it before you buy | [Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG) |
+| Moen Flo smart water shutoff | Adds what HydroLink Plus lacks: automatic shutoff on a detected leak, for any softener | [Check price on Amazon](https://www.amazon.com/dp/B00C03D01Q) |
 
 The Wi-Fi softener most often suggested as an online equivalent, GE's smart cabinet model, is listed by GE as no longer manufactured, so it is not included. If insurance is part of the reason you want leak alerts, check what your policy says about softener leaks first; [homeowners insurance and water softener leaks](/blog/homeowners-insurance-water-softener-leak/) covers the usual wording.
 

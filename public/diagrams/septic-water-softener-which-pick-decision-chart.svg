@@ -17,7 +17,7 @@
 <text x="232" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
 <rect class="box" x="30" y="190" width="380" height="64" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
 <text x="48" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">Lowest discharge matters most,</text>
-<text x="48" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">and the budget allows $1,350+?</text>
+<text x="48" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">and budget is not the main limit?</text>
 <rect class="box" x="480" y="190" width="250" height="64" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
 <text x="498" y="217" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">SoftPro Elite 48k or 32k</text>
 <text x="498" y="237" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">upflow, precision brining</text>
@@ -30,7 +30,7 @@
 <text x="48" y="337" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start" fill="#0b2f4a">water needed around the clock?</text>
 <rect class="box" x="480" y="290" width="250" height="64" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
 <text x="498" y="317" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Fleck 9100SXT twin 48k</text>
-<text x="498" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no reserve, about $1,390</text>
+<text x="498" y="337" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">no reserve, soft-water regeneration</text>
 <path class="ln" d="M410,322 L472,322" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sdc-a)"/>
 <text x="441" y="312" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Yes</text>
 <path class="ln" d="M220,354 L220,382" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#sdc-a)"/>

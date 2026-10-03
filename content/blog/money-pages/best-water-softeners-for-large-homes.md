@@ -29,9 +29,9 @@ So this guide starts with a worksheet that turns your fixtures into a minimum fl
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **Method.** No unit here was physically tested by us. Each candidate's flow was judged two ways: the seller's quoted service flow, and the flow its resin bed carries at the design guideline of 10 gpm per square foot continuous and 15 gpm per square foot peak. Bed area is the tank diameter in inches squared, divided by 183, from *Water Conditioning & Purification*'s [surface-loading guidance](https://wcponline.com/2014/03/17/giving-square-foot-little-respect-gpmft2-matters-softening/). A unit qualifies when its bed peak covers the house's busiest moment. Only salt-based systems sold new on Amazon.com at $100 or more were considered.
+> **Method.** No unit here was physically tested by us. Each candidate's flow was judged two ways: the seller's quoted service flow, and the flow its resin bed carries at the design guideline of 10 gpm per square foot continuous and 15 gpm per square foot peak. Bed area is the tank diameter in inches squared, divided by 183, from *Water Conditioning & Purification*'s [surface-loading guidance](https://wcponline.com/2014/03/17/giving-square-foot-little-respect-gpmft2-matters-softening/). A unit qualifies when its bed peak covers the house's busiest moment. Only salt-based systems sold new on Amazon.com were considered.
 >
-> **Prices** are the sellers' own store prices, because Amazon does not show prices to research tools. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying.
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Step One: The Fixture Worksheet
 
@@ -79,39 +79,40 @@ Two parts of a softener limit flow. The **resin bed** limits it by its cross-sec
 
 ## The Best Water Softeners for Large Homes, by Busiest Moment
 
-| Busiest moment | Pick | Tank and valve | Approx. price |
+| Busiest moment | Pick | Tank and valve | Amazon |
 |---|---|---|---|
-| Up to about 9 gpm (large but quiet house) | [AFWFilters Fleck 5600SXT 64k](https://www.amazon.com/dp/B000GC2LL8) | 2.0 cu ft, 12 in, 5600SXT | about $879 |
-| Up to about 12 gpm, well with iron under 3 ppm | [AFWFilters Iron Pro 2 80k](https://www.amazon.com/dp/B075ZH2TDR) | 2.5 cu ft fine mesh, 13x54, 5600SXT | about $1,099 |
-| Up to about 12 gpm | [80k softener with Fleck 2510SXT](https://www.amazon.com/dp/B00F3CAHR6) | 2.5 cu ft, 13x54, 1 in 2510SXT | about $1,425 |
-| Above about 14 gpm | Two of the 80k 2510SXT units, in parallel | 2 x 13x54 | about $2,850 plus plumbing |
+| Up to about 9 gpm (large but quiet house) | AFWFilters Fleck 5600SXT 64k | 2.0 cu ft, 12 in, 5600SXT | [Check price on Amazon](https://www.amazon.com/dp/B000GC2LL8) |
+| Up to about 12 gpm, well with iron under 3 ppm | AFWFilters Iron Pro 2 80k | 2.5 cu ft fine mesh, 13x54, 5600SXT | [Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR) |
+| Up to about 12 gpm | 80k softener with Fleck 2510SXT | 2.5 cu ft, 13x54, 1 in 2510SXT | [Check price on Amazon](https://www.amazon.com/dp/B00F3CAHR6) |
+| Above about 14 gpm | Two of the 80k 2510SXT units, in parallel, plus plumbing | 2 x 13x54 | [Check price on Amazon](https://www.amazon.com/dp/B00F3CAHR6) |
 
 ### Best Overall for Large Homes: 80k Softener With Fleck 2510SXT
 
-**About $1,425 (AFWFilters store, listed there as the Fleck 2510AiQ, formerly 2510SXT). [View on Amazon](https://www.amazon.com/dp/B00F3CAHR6).**
-
 - **What it is:** 2.5 cubic feet of high-capacity resin in a 13x54 tank on the 1-inch Fleck 2510SXT metered valve, with an 18x33 round brine tank that holds about 250 lb of salt.
+- **Name at the seller's store:** AFWFilters lists it as the Fleck 2510AiQ, formerly 2510SXT.
 - **Flow:** the seller quotes 20 gpm service. The 13-inch bed carries about 9.2 gpm continuous and 13.9 gpm at peak, and that is the figure to plan on. The 2510's 1-inch internal ports pass more water than a 5600-class valve, so the valve is not the limit here. The bed is.
 - **Fits:** House B, a busiest moment of about 11 gpm, with headroom.
 - **Wrong for:** iron wells (standard resin), busiest moments above about 14 gpm, and buyers who want warranty terms on paper. The listing says only "manufacturer warranty", so ask the seller before ordering.
 
-### Best for Large Homes on Iron Wells: AFWFilters Iron Pro 2 80k
+[Check price on Amazon](https://www.amazon.com/dp/B00F3CAHR6)
 
-**About $1,099 (AFWFilters store). [View on Amazon](https://www.amazon.com/dp/B075ZH2TDR).**
+### Best for Large Homes on Iron Wells: AFWFilters Iron Pro 2 80k
 
 - **What it is:** 2.5 cubic feet of fine-mesh resin in a 13x54 tank on a Fleck 5600SXT. The seller rates it for ferrous iron up to 6 ppm and quotes 11 gpm service, 16 gpm peak and 4.5 gpm backwash.
 - **The valve is the visible difference.** It shares the 13-inch bed of the 2510SXT pick, but the seller's service figure is 11 gpm against 20. Plan on the bed either way, and treat this unit as the choice for wells where fine-mesh resin matters more than the last few gpm.
 - **Warranty (seller):** 5 years on the control head, 10 years on the mineral tank.
 - **Wrong for:** iron above 3 ppm or any rusty water (iron filter first), and well pumps that cannot hold 4.5 gpm for the backwash while the house draws water.
 
-### Best for Large but Quiet Houses: AFWFilters Fleck 5600SXT 64k
+[Check price on Amazon](https://www.amazon.com/dp/B075ZH2TDR)
 
-**About $879 (AFWFilters store). [View on Amazon](https://www.amazon.com/dp/B000GC2LL8).**
+### Best for Large but Quiet Houses: AFWFilters Fleck 5600SXT 64k
 
 - **What it is:** 2.0 cubic feet of standard 8 percent resin in a 12-inch tank on a Fleck 5600SXT, with an 18x33 brine tank. The seller quotes 10 gpm service and 15 gpm peak.
 - **Fits:** a large floor area with few people, or a household that rarely runs more than two showers and an appliance together. That is House A, at about 8.5 gpm.
 - **Warranty (seller):** 5 years on the control head, 10 years on the mineral tank.
 - **Wrong for:** House B and above, and any house where guests or teenagers regularly stack showers.
+
+[Check price on Amazon](https://www.amazon.com/dp/B000GC2LL8)
 
 ### Above About 14 gpm: Two Tanks in Parallel
 
@@ -135,7 +136,7 @@ The alternative to two 13-inch tanks is one much larger tank on a high-flow valv
 | Backwash demand on a well | One tank's backwash at a time | The whole large bed at once, which needs much more flow |
 | If a valve fails | Half the softening keeps working | No softening until repaired |
 | Parts | Two of everything, both standard residential | One of everything, larger and less common |
-| Availability as complete systems on Amazon | Yes, using the 80k 2510SXT twice | We found no complete 14-inch-plus system with a verifiable price |
+| Availability as complete systems on Amazon | Yes, using the 80k 2510SXT twice | We found no complete 14-inch-plus system we could verify |
 
 **Parallel wins** on wells with a modest pump, in houses that cannot be without soft water, and wherever you want standard parts any supplier stocks. **One large tank wins** where the supply easily covers the backwash, space is short and an installer wants one valve to program.
 
@@ -143,7 +144,7 @@ The alternative to two 13-inch tanks is one much larger tank on a high-flow valv
 
 ## Considered and Not Picked
 
-- **Fleck 7000SXT systems on Amazon** (64k in a 12x52 tank and 48k in a 10x54). Both Amazon listings showed "currently unavailable" on 1 October 2026. Even when in stock, the 7000 valve's 28 gpm is wasted on these tanks: a 12-inch bed carries about 11.8 gpm at peak and a 10-inch bed about 8.2 gpm. We also could not find a current price outside Amazon for either listing.
+- **Fleck 7000SXT systems on Amazon** (64k in a 12x52 tank and 48k in a 10x54). Both Amazon listings showed "currently unavailable" on 1 October 2026. Even when in stock, the 7000 valve's 28 gpm is wasted on these tanks: a 12-inch bed carries about 11.8 gpm at peak and a 10-inch bed about 8.2 gpm.
 - **SpringWell salt-based SS+.** SpringWell's site lists an 80,000-grain model in a 13-inch tank rated at 20 gpm. We could not open its Amazon listing to confirm which sizes it carries, so it is not ranked.
 - **Dealer systems.** Culligan, Kinetico, EcoWater and RainSoft sell high-flow residential softeners through dealers, not on Amazon. A local quote is the way to compare them.
 

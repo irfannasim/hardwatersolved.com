@@ -1,7 +1,7 @@
 ---
 title: "On The Go Portable Water Softener Review: A Trip Planner for Real Campsite Water"
 seoTitle: "On The Go Portable Water Softener Review: 3 Honest Limits"
-seoDescription: "This On The Go portable water softener review works out gallons per regeneration at your campsite hardness, salt cost per trip and real setup time."
+seoDescription: "This On The Go portable water softener review works out gallons per regeneration at your campsite hardness, salt use per trip and real setup time."
 excerpt: "On The Go sells its 16,000-grain double on a range of 640 to 1,600 gallons per regeneration. This review turns that range into a trip planner: how many days two people get between regenerations at 10, 20 and 30 gpg, how many boxes of table salt a trip takes, and how long setup and regeneration really take by the maker's own instructions."
 date: "2026-10-02"
 author: "Irfan Nasim"
@@ -21,7 +21,7 @@ faqs:
     answer: "Not in the tank itself, which is designed around boxes of table salt poured through the top. The On The Go salt regeneration kit, sold separately and in a bundle with the double, holds salt in a dispenser basket and accepts either table salt or softener pellets, so the resin never touches the salt directly. Pellets cost far less per pound than boxed table salt."
 ---
 
-This **On The Go portable water softener review** comes down to one number: the gallons you get between regenerations at the water you actually camp on. On The Go rates its 16,000-grain double at 640 to 1,600 gallons per regeneration, and that is true only if two boxes of table salt restore the full 16,000 grains. They restore closer to two-thirds. For two people using 40 gallons a day, that means a regeneration about every 28 days at 10 gpg, every 14 days at 20 gpg and every 9 days at 30 gpg. At about $192 on sale, with no power, no tools and a one-year warranty, it is a sound RV softener. Just plan your trip on the adjusted numbers, not the box.
+This **On The Go portable water softener review** comes down to one number: the gallons you get between regenerations at the water you actually camp on. On The Go rates its 16,000-grain double at 640 to 1,600 gallons per regeneration, and that is true only if two boxes of table salt restore the full 16,000 grains. They restore closer to two-thirds. For two people using 40 gallons a day, that means a regeneration about every 28 days at 10 gpg, every 14 days at 20 gpg and every 9 days at 30 gpg. With no power, no tools and a one-year warranty, it is a sound RV softener. Just plan your trip on the adjusted numbers, not the box.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
@@ -33,17 +33,17 @@ This **On The Go portable water softener review** comes down to one number: the 
 - **Limit 2, time:** the listing says regeneration takes less than 30 minutes. The maker's own rinse times for the double add up to 30 to 38 minutes before you drain, add salt or test.
 - **Limit 3, cover:** one year of warranty, voided by alterations such as fitting it to a shower.
 
-> **How this review was built.** Nothing here was physically tested. The evidence is On The Go's product pages, its setup, regeneration, back-flush, storage and warranty pages, the Amazon listings, and a trip planner built from published resin performance at a stated salt dose. **Prices checked 2 October 2026**, from On The Go's own store (portablewatersoftener.com), because Amazon's prices did not load for our check. Amazon prices change often, so check the current price before buying.
+> **How this review was built.** Nothing here was physically tested. The evidence is On The Go's product pages, its setup, regeneration, back-flush, storage and warranty pages, the Amazon listings, and a trip planner built from published resin performance at a stated salt dose. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## What You Get for the Money
 
 On The Go sells the double in three forms that matter to buyers. All three use the same 16,000-grain tank.
 
-| Version | What differs | Price at On The Go, 2 Oct 2026 | Amazon |
-|---|---|---|---|
-| Double Standard, OTG4-DBLSOFT | Plastic hose adapters | $192 sale, $260 regular | [B00KVPNVJ6](https://www.amazon.com/dp/B00KVPNVJ6) |
-| Double Standard (Brass), OTG4-VM-DBLSOFT | Brass inlet and outlet hose adapters | $195 sale, $265 regular | [B085Q2LBJV](https://www.amazon.com/dp/B085Q2LBJV) |
-| Double Softener and Salt Regeneration Kit | Adds a 10 x 2.5 in housing with carbon cartridge, salt dispenser basket, stand and 4 ft hose | $275 | [B0FMYSFNFT](https://www.amazon.com/dp/B0FMYSFNFT) |
+| Version | What differs | Amazon |
+|---|---|---|
+| Double Standard, OTG4-DBLSOFT | Plastic hose adapters | [Check price on Amazon](https://www.amazon.com/dp/B00KVPNVJ6) |
+| Double Standard (Brass), OTG4-VM-DBLSOFT | Brass inlet and outlet hose adapters | [Check price on Amazon](https://www.amazon.com/dp/B085Q2LBJV) |
+| Double Softener and Salt Regeneration Kit | Adds a 10 x 2.5 in housing with carbon cartridge, salt dispenser basket, stand and 4 ft hose | [Check price on Amazon](https://www.amazon.com/dp/B0FMYSFNFT) |
 
 The [maker's product page](https://www.portablewatersoftener.com/shop/water-softeners/portable-double-standard-water-softener) lists the core specification: 16,000 grains, 0.52 cubic feet of resin, 3 gpm, 22 inches tall by 9.5 inches across and 32 lb. In the box are hardness test strips, inlet and outlet caps, a carrying handle, hose adapters, a back-flush adapter, a 4-foot white drinking-water hose and a base cradle that keeps it level on uneven ground. The Amazon listing adds that it is assembled in Indiana.
 
@@ -96,13 +96,13 @@ Test before you trust a park's description. The strips in the box take a minute.
 
 Each regeneration of the double takes two full 26 oz boxes of iodised or non-iodised table salt, according to the [maker's regeneration instructions](https://www.portablewatersoftener.com/regeneration). The salt bill is small, but it scales with hardness, and the boxes take up pantry space.
 
-| 30-day trip, two people | Regenerations | Boxes of table salt | At $1.50 a box | Pellets in the regeneration kit, at $0.24/lb |
-|---|---|---|---|---|
-| 10 gpg | 1 | 2 | ~$3 | ~$0.80 |
-| 20 gpg | 2 | 4 | ~$6 | ~$1.55 |
-| 30 gpg | 3 | 6 | ~$9 | ~$2.30 |
+| 30-day trip, two people | Regenerations | Boxes of table salt | Or pellets in the regeneration kit |
+|---|---|---|---|
+| 10 gpg | 1 | 2 | about 3.25 lb |
+| 20 gpg | 2 | 4 | about 6.5 lb |
+| 30 gpg | 3 | 6 | about 9.75 lb |
 
-*Illustrative. The $1.50 box price is an assumption, because grocery prices vary. The pellet column uses Morton 40 lb softener salt crystals at $9.49 (Hemlock Hardware, 2 October 2026) and assumes the same 3.25 lb per regeneration, which On The Go does not state for the kit.*
+*Illustrative. The pellet column assumes the same 3.25 lb per regeneration as two 26 oz boxes, which On The Go does not state for the kit. Pellets bought by the 40 lb bag cost far less per pound than boxed table salt.*
 
 Either way, salt is a rounding error next to the price of the unit. The real cost of hard water on the road is scale in the water heater, which is what the softener is protecting.
 
@@ -127,13 +127,13 @@ Two other routine jobs:
 
 ## Which Version Is Worth Buying
 
-**The standard double at $192** is the value pick. It has everything the softener needs.
+**The standard double** is the value pick. It has everything the softener needs.
 
-**The brass version at $195** costs $3 more at On The Go. Brass adapters are harder to cross-thread or crack at a spigot you connect to every few days. That is worth $3. Check that an Amazon seller is not charging much more than the maker.
+**The brass version** cost only a few dollars more at On The Go when we checked. Brass adapters are harder to cross-thread or crack at a spigot you connect to every few days. That is worth a small premium. Check that an Amazon seller is not charging much more than the maker.
 
-**The regeneration-kit bundle at $275** changes how you regenerate. Salt sits in a dispenser basket inside a filter housing, so the resin never contacts the salt directly, and the basket accepts table salt or softener pellets. The kit also adds a carbon cartridge for taste and odour. If you regenerate often on hard water, pellets bought by the 40 lb bag make the kit pay back slowly. If you camp mostly on moderate water, the extra $83 buys convenience, not savings.
+**The regeneration-kit bundle** changes how you regenerate. Salt sits in a dispenser basket inside a filter housing, so the resin never contacts the salt directly, and the basket accepts table salt or softener pellets. The kit also adds a carbon cartridge for taste and odour. If you regenerate often on hard water, pellets bought by the 40 lb bag make the kit pay back slowly. If you camp mostly on moderate water, the extra cost buys convenience, not savings.
 
-If you travel solo with limited storage, On The Go's 8,000-grain standard model ($165) is about half the size. It also needs regenerating twice as often.
+If you travel solo with limited storage, On The Go's 8,000-grain standard model is about half the size. It also needs regenerating twice as often.
 
 ## Living With It: Storage, Freezing, Resin Life and Warranty
 
@@ -147,9 +147,9 @@ If you travel solo with limited storage, On The Go's 8,000-grain standard model 
 
 ## How It Compares With the Flow-Pur RV-Pro 10,000
 
-The other name RVers compare is the Flow-Pur RV-Pro 10,000 (M7002). It is a 10,000-grain unit, 20.25 inches tall and 24 lb, with garden-hose connections and a multi-port drain valve, and it also regenerates with table salt. On 2 October 2026 one outdoor retailer listed it at $279.99 but sold out, and we could not confirm a current in-stock price elsewhere.
+The other name RVers compare is the Flow-Pur RV-Pro 10,000 (M7002). It is a 10,000-grain unit, 20.25 inches tall and 24 lb, with garden-hose connections and a multi-port drain valve, and it also regenerates with table salt. On 2 October 2026 one outdoor retailer listed it but was sold out, and we could not confirm current stock elsewhere.
 
-On paper the comparison is short. The On The Go double holds 16,000 grains against 10,000, so it goes about 60 percent longer between regenerations, and it costs less at its maker's sale price. The RV-Pro is lighter and slightly shorter. Unless storage is the deciding factor, the double is the better buy, and that is before availability.
+On paper the comparison is short. The On The Go double holds 16,000 grains against 10,000, so it goes about 60 percent longer between regenerations, and it cost less at its maker's sale price when we checked. The RV-Pro is lighter and slightly shorter. Unless storage is the deciding factor, the double is the better buy, and that is before availability.
 
 ## Who the On The Go Softener Is Wrong For
 
@@ -159,4 +159,4 @@ On paper the comparison is short. The On The Go double holds 16,000 grains again
 - **Sites with iron, a sulfur smell or cloudy water.** A small resin bed fouls quickly. Filter first, or skip softening at that stop.
 - **Anyone hoping a softener will remove chlorine or contaminants.** It removes hardness. The carbon cartridge in the kit helps with taste, and salt-free "conditioners" do something different again, as explained in [salt-based vs salt-free water treatment](/blog/salt-based-vs-salt-free-water-treatment/).
 
-For everyone else, the On The Go double does its one job well. Buy the $192 standard or the $195 brass version, and plan your regenerations on about 555 gallons at 20 gpg, not 800. Carry two spare boxes of salt in the bay.
+For everyone else, the On The Go double does its one job well. Buy the standard or the brass version, and plan your regenerations on about 555 gallons at 20 gpg, not 800. Carry two spare boxes of salt in the bay.

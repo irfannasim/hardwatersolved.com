@@ -23,23 +23,25 @@ faqs:
     answer: "Yes, if the well test shows no iron, manganese or sediment problem. Hardness alone is fine. If the test finds iron or manganese, choose a fine-mesh resin unit or treat the iron first, because standard resin fouls. Some warranties, including Aquasure's, exclude resin and valve parts when the softener is used to remove iron or manganese."
 ---
 
-The **best 32,000 grain water softener** for most small homes is a metered unit with about 1 cubic foot of resin, a reputable valve and a resin suited to your water. For chlorinated city water, our pick is the AFWFilters Fleck 5600SXT with 10% crosslink resin, at about $759. On a tight budget, the Aquasure Harmony 32k costs about $540. Size it from the right number, though. At an efficient salt setting a "32,000 grain" softener delivers about 20,000 grains per cycle. That suits two or three people on moderate water. It is a false economy for four people on hard water.
+The **best 32,000 grain water softener** for most small homes is a metered unit with about 1 cubic foot of resin, a reputable valve and a resin suited to your water. For chlorinated city water, our pick is the AFWFilters Fleck 5600SXT with 10% crosslink resin. On a tight budget, the Aquasure Harmony 32k is usually the lowest-cost complete system here. Size it from the right number, though. At an efficient salt setting a "32,000 grain" softener delivers about 20,000 grains per cycle. That suits two or three people on moderate water. It is a false economy for four people on hard water.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
-> **How we chose.** Every pick is a complete whole-house system sold on Amazon.com at a normal price above $100, with metered (demand-initiated) regeneration and a stated resin volume or tank size. We compared them on capacity at the same efficient salt dose, the flow their tank can handle, resin type, valve and published warranty. We excluded timer-only units, units with no stated resin volume or tank size, and cabinet models we could not confirm on Amazon. Evidence comes from Amazon listings, brand stores, owner's manuals and warranty documents. Nothing was physically tested. Prices checked 1 October 2026; Amazon prices change often, so check the current price before buying. Amazon's pages did not show prices to our checks, so the prices below are from each brand's own store.
+> **How we chose.** Every pick is a complete whole-house system sold on Amazon.com, with metered (demand-initiated) regeneration and a stated resin volume or tank size. We compared them on capacity at the same efficient salt dose, the flow their tank can handle, resin type, valve and published warranty. We excluded timer-only units, units with no stated resin volume or tank size, and cabinet models we could not confirm on Amazon. Evidence comes from Amazon listings, brand stores, owner's manuals and warranty documents. Nothing was physically tested.
+>
+> **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 >
 > **Who should buy none of these:** households of four or more on hard water (a 32k regenerates too often), one person on water under about 15 gpg (it is already too large), and well owners whose test shows iron or manganese.
 
 ## Quick Picks
 
-| Pick | Best for | Valve | Resin | Price, approx |
+| Pick | Best for | Valve | Resin | Amazon |
 |---|---|---|---|---|
-| [AFWFilters Fleck 5600SXT 32k, 10% resin](https://www.amazon.com/dp/B071JCX9NK) | Chlorinated city water | Fleck 5600SXT | 1.0 cu ft, 10% crosslink | about $759 (AFW store) |
-| [Aquasure Harmony 32k](https://www.amazon.com/dp/B07F18VG8L) | Lowest price | Aquasure "Aquatrol" metered | About 1.0 cu ft in an 8×44 tank | about $540 (Aquasure store) |
-| [SoftPro Elite 32k](https://www.amazon.com/dp/B07KY432XV) | Lowest salt use, septic | Upflow metered | 10% crosslink | about $1,367 (SoftPro store) |
-| [DuraWater Fleck 5600SXT 32k](https://www.amazon.com/dp/B010E88YBE) | Clean well water, no chlorine | Fleck 5600SXT | 1.0 cu ft high-capacity (standard) | See listing; not published elsewhere |
-| [Oceanic Fleck 5800SXT 32k](https://www.amazon.com/dp/B077BNRG9B) | Newer Fleck valve | Fleck 5800SXT | 1.0 cu ft, 10% crosslink | See listing; not published elsewhere |
+| AFWFilters Fleck 5600SXT 32k, 10% resin | Chlorinated city water | Fleck 5600SXT | 1.0 cu ft, 10% crosslink | [Check price on Amazon](https://www.amazon.com/dp/B071JCX9NK) |
+| Aquasure Harmony 32k | Lowest price | Aquasure "Aquatrol" metered | About 1.0 cu ft in an 8×44 tank | [Check price on Amazon](https://www.amazon.com/dp/B07F18VG8L) |
+| SoftPro Elite 32k | Lowest salt use, septic | Upflow metered | 10% crosslink | [Check price on Amazon](https://www.amazon.com/dp/B07KY432XV) |
+| DuraWater Fleck 5600SXT 32k | Clean well water, no chlorine | Fleck 5600SXT | 1.0 cu ft high-capacity (standard) | [Check price on Amazon](https://www.amazon.com/dp/B010E88YBE) |
+| Oceanic Fleck 5800SXT 32k | Newer Fleck valve | Fleck 5800SXT | 1.0 cu ft, 10% crosslink | [Check price on Amazon](https://www.amazon.com/dp/B077BNRG9B) |
 
 ## What a 32,000 Grain Softener Really Delivers
 
@@ -89,49 +91,53 @@ The flow column uses *Water Conditioning & Purification*'s guidance on [surface 
 
 ### 1. AFWFilters Fleck 5600SXT 32k with 10% Resin: Best for City Water
 
-[View on Amazon](https://www.amazon.com/dp/B071JCX9NK) · about $759 at AFW's store
-
 The Fleck 5600SXT is one of the most widely serviced residential valves in the US, and that is the main reason this pick sits at the top. Parts, manuals and installers who know it are easy to find. The Amazon listing pairs it with 1 cubic foot of 10% crosslink resin, preloaded in a 9-inch tank, an 11-inch brine tank and a 3/4-inch bypass. It also includes a hardness test and an install kit. The 10% resin resists oxidation by chlorine better than standard 8% resin, which matters on city water over a 10 to 15 year life.
 
 - **Good:** serviceable valve, chlorine-resistant resin, 5-year valve and 10-year tank warranty on the listing.
 - **Watch:** the listing's "up to 12 gpm" is well above what a 9-inch bed handles continuously. Program it from 20,000 grains, not 32,000.
 
+[Check price on Amazon](https://www.amazon.com/dp/B071JCX9NK)
+
 ### 2. Aquasure Harmony 32k: Best Budget Pick
 
-[View on Amazon](https://www.amazon.com/dp/B07F18VG8L) · about $540 at Aquasure's store
-
-The Harmony is the cheapest complete 32k system here by about $200. It uses Aquasure's own metered control head, not a Fleck or Clack valve. Aquasure sells the 32k resin tank as 1 cubic foot in an 8×44 tank, and its 2019 owner's manual lists the same tank size.
+The Harmony is usually the least expensive complete 32k system here. It uses Aquasure's own metered control head, not a Fleck or Clack valve. Aquasure sells the 32k resin tank as 1 cubic foot in an 8×44 tank, and its 2019 owner's manual lists the same tank size.
 
 Two details from the [Harmony owner's manual](https://images.thdstatic.com/catalog/pdfImages/d3/d38453b1-ce56-4e0a-859c-27e296a759d7.pdf) matter. First, its worked programming example divides the full 32,000 grains by your hardness, so following it literally overstates the capacity unless you run the higher salt setting. Program from about 20,000 instead. Second, the warranty runs 5 years on the valve, electronics and resin only if you register within 60 days. Without registration it is 2 years. Resin and internal valve parts are not covered when the softener is used to remove iron or manganese, or on water with very high chlorine.
 
 - **Good:** lowest price, metered, 10-year tank warranty.
 - **Watch:** narrower 8-inch tank means less flow, and the proprietary valve means parts come from Aquasure only.
 
-### 3. SoftPro Elite 32k: Best for Low Salt Use
+[Check price on Amazon](https://www.amazon.com/dp/B07F18VG8L)
 
-[View on Amazon](https://www.amazon.com/dp/B07KY432XV) · about $1,367 at SoftPro's store
+### 3. SoftPro Elite 32k: Best for Low Salt Use
 
 The Elite brines upflow (counter-current), which lets it run a lower salt dose without hardness slipping through, and it uses 10% crosslink resin. It also has the longest warranty here: lifetime on the valve and tanks, 7 years on the electronics and a 10-year prorated resin warranty on city water.
 
-At this size the salt saving is small. For a couple on 10 gpg water, an efficient upflow unit saves roughly 50 lb of salt a year against a standard metered softener, about $9. That never repays the roughly $600 premium over the AFW unit. Buy the Elite at 32k for the warranty, the support, or a septic system where every pound of salt and gallon of regeneration water matters.
+At this size the salt saving is small. For a couple on 10 gpg water, an efficient upflow unit saves roughly 50 lb of salt a year against a standard metered softener. That saving never repays its price premium over the AFW unit. Buy the Elite at 32k for the warranty, the support, or a septic system where every pound of salt and gallon of regeneration water matters.
 
 - **Good:** most efficient brining, longest warranty, phone support.
-- **Watch:** about $600 more than a Fleck unit of the same size. We could not find an NSF/ANSI 44 listing under the SoftPro name on 1 October 2026.
+- **Watch:** costs considerably more than a Fleck unit of the same size. We could not find an NSF/ANSI 44 listing under the SoftPro name on 1 October 2026.
+
+[Check price on Amazon](https://www.amazon.com/dp/B07KY432XV)
 
 ### 4. DuraWater Fleck 5600SXT 32k: Best for Clean Well Water
 
-[View on Amazon](https://www.amazon.com/dp/B010E88YBE) · price on the listing only
-
-DuraWater's 32k uses the same Fleck 5600SXT valve with 1 cubic foot of standard high-capacity resin in a 9×48 tank, a 14×36 brine tank, a 1-inch yoke bypass and an upgraded paddle-wheel meter. On a well with no chlorine, standard resin is all you need. Chlorine is what wears it out, so the 10% upgrade earns less there. DuraWater also lists a [10% resin version](https://www.amazon.com/dp/B075XTFHR2) for chlorinated supplies.
+DuraWater's 32k uses the same Fleck 5600SXT valve with 1 cubic foot of standard high-capacity resin in a 9×48 tank, a 14×36 brine tank, a 1-inch yoke bypass and an upgraded paddle-wheel meter. On a well with no chlorine, standard resin is all you need. Chlorine is what wears it out, so the 10% upgrade earns less there. DuraWater also lists a 10% resin version for chlorinated supplies.
 
 - **Good:** standard Fleck platform, well suited to chlorine-free water.
-- **Watch:** DuraWater does not publish prices off Amazon, so compare the listing price with AFW's 32k units at about $749 to $759 before buying.
+- **Watch:** DuraWater does not publish prices off Amazon, so compare the listing price with AFW's 32k units before buying.
+
+[Check price on Amazon](https://www.amazon.com/dp/B010E88YBE)
+
+The 10% resin version has its own listing:
+
+[Check price on Amazon](https://www.amazon.com/dp/B075XTFHR2)
 
 ### 5. Oceanic Fleck 5800SXT 32k: Also Worth Comparing
 
-[View on Amazon](https://www.amazon.com/dp/B077BNRG9B) · price on the listing only
-
 This unit uses the Fleck 5800SXT, a newer valve in the same family, with 1 cubic foot of 10% crosslink resin preloaded in a 9×48 tank and a 3/4-inch bypass. The listing sizes it for 1 to 3 people and 1 to 2 bathrooms, which matches our grid. We could not find a published warranty on the listing, so ask the seller before ordering.
+
+[Check price on Amazon](https://www.amazon.com/dp/B077BNRG9B)
 
 ## Which 32k Pick for Which Water
 

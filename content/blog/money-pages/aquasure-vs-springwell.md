@@ -1,8 +1,8 @@
 ---
 title: "Aquasure vs SpringWell: What Ships in the Box and the True Installed Price"
-seoTitle: "Aquasure vs SpringWell: The $1,200 Installed Price Gap"
+seoTitle: "Aquasure vs SpringWell: Budget vs Mid-Range Softener"
 seoDescription: "Aquasure vs SpringWell: budget vs mid-range online softeners compared on valve, resin, box contents, support and true installed price, checked 2 Oct 2026."
-excerpt: "The Aquasure Harmony 48k and the SpringWell SS4 are both 48,000-grain, 10 x 54 inch online softeners, yet one costs about $630 and the other about $1,785. This comparison lists what ships in each box, what you still have to buy, what each one costs plumbed in, and what the extra $1,200 actually buys in valve, warranty, returns and support."
+excerpt: "The Aquasure Harmony 48k and the SpringWell SS4 are both 48,000-grain, 10 x 54 inch online softeners, yet the SpringWell costs far more. This comparison lists what ships in each box, what you still have to buy, what installation adds to each, and what the extra money actually buys in valve, warranty, returns and support."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Comparisons"
@@ -10,30 +10,29 @@ featuredImage: "https://images.pexels.com/photos/7363199/pexels-photo-7363199.jp
 ogImageAlt: "Cardboard shipping box and padded mailers left on a front doorstep, how online water softeners such as Aquasure and SpringWell arrive for self-installation"
 faqs:
   - question: "Is SpringWell better than Aquasure?"
-    answer: "SpringWell offers more after the sale: a lifetime warranty on tanks, valves and heads against defects, 7 years on the electronic head on its warranty page, a 6-month return window on unused units and a higher stated service flow. Aquasure's Harmony 48k softens the same 1.5 cubic feet or so of resin in the same 10 x 54 inch tank for about $1,155 less in the box. For a confident DIY installer on city water, Aquasure is the better value; SpringWell is for buyers who will pay for longer cover and support."
+    answer: "SpringWell offers more after the sale: a lifetime warranty on tanks, valves and heads against defects, 7 years on the electronic head on its warranty page, a 6-month return window on unused units and a higher stated service flow. Aquasure's Harmony 48k softens the same 1.5 cubic feet or so of resin in the same 10 x 54 inch tank for much less in the box. For a confident DIY installer on city water, Aquasure is the better value; SpringWell is for buyers who will pay for longer cover and support."
   - question: "What comes in the Aquasure Harmony box?"
     answer: "The owner's manual lists the Aquatrol metered control valve, bypass valve, 1-inch connection adapter, a 10 x 54 inch resin tank with resin, a brine tank with grid plate and brine well, 5 feet of brine line, 14 feet of drain line and a power transformer. Salt, shutoff valves, pipe and fittings, and a drain air gap are not included."
   - question: "What comes in the SpringWell salt-based softener box?"
-    answer: "SpringWell's product page lists the softener tank shipped with media inside, the brine tank, a drain line, MNPT fittings, the electronic head, a power supply and a hose clamp. The bypass valve is a separate item, $58.79 on 2 October 2026. Salt, shutoffs, pipe and an air gap are not included."
+    answer: "SpringWell's product page lists the softener tank shipped with media inside, the brine tank, a drain line, MNPT fittings, the electronic head, a power supply and a hose clamp. The bypass valve is a separate item. Salt, shutoffs, pipe and an air gap are not included."
   - question: "How much does it cost to install an Aquasure or SpringWell softener?"
-    answer: "Installed yourself into an existing loop, our estimate is about $740 to $845 for the Aquasure Harmony 48k and about $1,975 to $2,090 for the SpringWell SS4 including its bypass. With a plumber charging within Fixr's $150 to $1,000 national labor range, it is about $890 to $1,740 for the Aquasure and $2,120 to $2,970 for the SpringWell. New loops, drains or outlets add the same to either."
+    answer: "Installed yourself into an existing loop, our estimate is the box price plus about $110 to $215 in salt, fittings, air gap and grounding for the Aquasure Harmony 48k, and about $130 to $245 plus the separately sold bypass for the SpringWell SS4. A plumber adds labor within Fixr's $150 to $1,000 national range to either. New loops, drains or outlets add the same to either."
   - question: "Are Aquasure and SpringWell softeners NSF certified?"
     answer: "Neither salt-based softener shows an NSF/ANSI 44 listing. NSF's public listings show Aquasure certified only for reverse-osmosis membrane components, and SpringWell's product page shows no NSF/ANSI 44 or WQA Gold Seal listing for its SS range. Program either from a realistic capacity rather than the box rating."
   - question: "Can I return an Aquasure or SpringWell softener?"
     answer: "Aquasure's refund policy gives 30 days from receipt to request a return, for items unused and in original packaging. SpringWell accepts returns within six months for products in original, unused, uninstalled condition, with a 10% restocking fee and return shipping at the buyer's cost. Installed SpringWell systems are refunded only if SpringWell finds them defective."
 ---
 
-**Aquasure vs SpringWell** comes down to about $1,200. The Aquasure Harmony 48k costs **$629.99** and the SpringWell SS4 **$1,785** at each brand's own store on 2 October 2026. Both ship a 48,000-grain softener in a 10 x 54 inch tank, and both need the same shutoffs, fittings, air gap and salt before they soften anything. Installed yourself, that makes the true price about **$740 to $845** for the Aquasure and **$1,975 to $2,090** for the SpringWell, because SpringWell sells the bypass separately. The extra money buys SpringWell's longer warranty, a six-month return window and a higher flow rating. It does not buy more resin, a standard valve or a certification. For a careful DIY installer on city water, the Aquasure is the better value.
+**Aquasure vs SpringWell** comes down to box price. The SpringWell SS4 costs far more than the Aquasure Harmony 48k at each brand's own store. Both ship a 48,000-grain softener in a 10 x 54 inch tank, and both need the same shutoffs, fittings, air gap and salt before they soften anything. SpringWell also sells the bypass separately, so installed yourself, the gap stays about as wide as it is in the box. The extra money buys SpringWell's longer warranty, a six-month return window and a higher flow rating. It does not buy more resin, a standard valve or a certification. For a careful DIY installer on city water, the Aquasure is the better value.
 
 *Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
 
 ## Aquasure vs SpringWell at a Glance
 
-> **Method.** Box contents come from the Aquasure Harmony owner's manual (version 3.4) and SpringWell's salt-based softener product page and SS1/SS4 installation guide. Warranty and return terms are quoted from Aquasure's [product warranty page](https://aquasureusa.com/pages/product-warranty) and refund policy, and from SpringWell's [warranty page](https://www.springwellwater.com/warranty/) and [shipping and returns policy](https://www.springwellwater.com/shipping/), all read on 2 October 2026. Add-on and labor costs are illustrative estimates. Nothing was physically tested. **Prices checked 2 October 2026 on each brand's own store; Amazon prices change often, so check the current price before buying.**
+> **Method.** Box contents come from the Aquasure Harmony owner's manual (version 3.4) and SpringWell's salt-based softener product page and SS1/SS4 installation guide. Warranty and return terms are quoted from Aquasure's [product warranty page](https://aquasureusa.com/pages/product-warranty) and refund policy, and from SpringWell's [warranty page](https://www.springwellwater.com/warranty/) and [shipping and returns policy](https://www.springwellwater.com/shipping/), all read on 2 October 2026. Add-on and labor costs are illustrative estimates. Nothing was physically tested. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 | | Aquasure Harmony 48k (AS-HS48D) | SpringWell SS4 |
 |---|---|---|
-| Box price, 2 Oct 2026 | $629.99 | $1,785 (list $2,100) |
 | Rated capacity | 48,000 grains | 48,000 grains |
 | Mineral tank | 10 x 54 in | 10 x 54 in (63 in with head) |
 | Resin | 1.5 cu ft, listed as prefilled | Not published; tank and rating match about 1.5 cu ft |
@@ -53,7 +52,7 @@ This is the comparison neither product page lays out side by side.
 | Item | Aquasure Harmony 48k | SpringWell SS4 |
 |---|---|---|
 | Control valve | Yes, Aquatrol | Yes, electronic head |
-| Bypass valve | **Included** | **Sold separately, $58.79** |
+| Bypass valve | **Included** | **Sold separately** |
 | Inlet and outlet connectors | 1-inch male NPT adapter, plastic | MNPT fittings |
 | Resin tank, with resin | Yes | Yes, shipped with media inside |
 | Brine tank | Yes, with grid plate and brine well | Yes, 18 x 33 inch round |
@@ -76,13 +75,13 @@ Both softeners need the same site parts. The costs are illustrative DIY estimate
 
 | Item | Why | Aquasure | SpringWell |
 |---|---|---|---|
-| Bypass valve | Isolate the softener for service | Included | $58.79 |
+| Bypass valve | Isolate the softener for service | Included | Extra, sold by SpringWell |
 | Salt at start-up | Aquasure's manual asks for 80 lb; SpringWell's guide says 4 to 5 bags | About $20 | About $40 to $50 |
 | Shutoffs, pipe and fittings | Reach the 1-inch connections | About $60 to $150 | About $60 to $150 |
 | Drain air gap | Code and both manuals; never a direct connection to a waste pipe | About $15 to $30 | About $15 to $30 |
 | Grounding jumper | Plastic valves break continuity on copper or galvanized pipe | About $15 | About $15 |
 | Pressure-reducing valve | Only if house pressure exceeds 80 psi | Usually $0 | Usually $0, but SpringWell's limit is 80 psi |
-| Carbon prefilter | Chlorine over 2 ppm (Aquasure's limit), or chloramine | About $70 extra for Aquasure's prefilter bundle | SpringWell sells a filter-plus-softener combo, about $2,499 for the SS4 size on 1 October 2026 |
+| Carbon prefilter | Chlorine over 2 ppm (Aquasure's limit), or chloramine | Extra; Aquasure sells a prefilter bundle | Extra; SpringWell sells a filter-plus-softener combo in the SS4 size |
 
 The pressure line is easy to miss. SpringWell rates the SS range for **25 to 80 psi**. Aquasure's valve takes up to 125 psi, though its manual also asks for a pressure-reducing valve above 80 psi. If your static pressure reads above 80, budget for a regulator either way.
 
@@ -94,19 +93,16 @@ Most DIY failures with either box happen in the same places: the drain connected
 
 Add the box, the bypass and the site parts, and the price gap barely moves.
 
-| | Aquasure Harmony 48k | SpringWell SS4 | Difference |
-|---|---|---|---|
-| Box price | $630 | $1,785 | $1,155 |
-| Bypass | $0 | $59 | $59 |
-| Salt, fittings, air gap, ground | $110 to $215 | $130 to $245 | $20 to $30 |
-| **Installed yourself** | **about $740 to $845** | **about $1,975 to $2,090** | **about $1,235 to $1,245** |
-| **Plumber installed** | **about $890 to $1,740** | **about $2,120 to $2,970** | **about $1,230** |
+| | Aquasure Harmony 48k | SpringWell SS4 |
+|---|---|---|
+| Box price | Lower | Much higher |
+| Bypass | Included | Bought separately |
+| Salt, fittings, air gap, ground | $110 to $215 | $130 to $245 |
+| Plumber's labor, if hired | $150 to $1,000 | $150 to $1,000 |
 
-![Stacked bar chart of Aquasure vs SpringWell 48,000-grain true installed price: box price, bypass, add-ons and plumber labor, about 740 to 1,740 dollars vs 1,975 to 2,970 dollars](/diagrams/aquasure-vs-springwell-48k-box-price-add-ons-and-labor.svg "The add-ons and labor cost the same for either box; the gap is almost all box price")
+*Labor is the national range from Fixr, as used in the site's [water softener installation cost](/blog/water-softener-installation-cost/) breakdown. A house that needs a new loop, drain run or outlet adds the same amount to either softener.*
 
-*Hired figures add the $150 to $1,000 national labor range from Fixr to the low end of the parts list, as used in the site's [water softener installation cost](/blog/water-softener-installation-cost/) breakdown. A house that needs a new loop, drain run or outlet adds the same amount to either softener.*
-
-The labor and parts cost the same whichever box is on the floor, so the gap stays at about $1,230 whether you install it yourself or not. As a share of the total, though, it shrinks: about 62 percent of the SpringWell's DIY price, but about 41 percent of a $2,970 hired job.
+The labor and parts cost the same whichever box is on the floor, so the gap is almost all box price, whether you install it yourself or not. As a share of the total, though, it shrinks when a plumber is involved, because the labor adds the same to both.
 
 ## Capacity: Both Are Sold, and Programmed, on the Box Number
 
@@ -153,16 +149,16 @@ Aquasure's main trap is the 60-day registration. Miss it and the five years beco
 
 ## Amazon Availability
 
-| Listing | Status | Where to buy instead |
-|---|---|---|
-| [Aquasure Harmony 48k, B07F175C2R](https://www.amazon.com/dp/B07F175C2R) | Live listing; the 1 October 2026 Amazon offer price matched Aquasure's store at $629.99 | Aquasure's store, $629.99 on 2 October |
-| [SpringWell salt-based softener, B086Q7NS7S](https://www.amazon.com/dp/B086Q7NS7S) | Showed "Currently unavailable" on 1 October 2026; our 2 October check could not load the page | SpringWell's store: SS1 $1,606.50, SS4 $1,785, SS+ $2,677.50 |
+| Listing | Status | Where to buy instead | Amazon |
+|---|---|---|---|
+| Aquasure Harmony 48k | Live listing on 1 October 2026 | Aquasure's store | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| SpringWell salt-based softener | Showed "Currently unavailable" on 1 October 2026; our 2 October check could not load the page | SpringWell's store, which sells the SS1, SS4 and SS+ | [Check price on Amazon](https://www.amazon.com/dp/B086Q7NS7S) |
 
-The older Harmony 48k listing, B07F19VL3P, is unavailable; use B07F175C2R. If you buy either through Amazon, register directly with the brand anyway, because both warranties depend on registration.
+An older Harmony 48k listing is unavailable; use the one linked above. If you buy either through Amazon, register directly with the brand anyway, because both warranties depend on registration.
 
 ## Which One to Buy
 
-**Buy the Aquasure Harmony 48k if** you will install it yourself, you are on city water with chlorine under 2 ppm (or will add the prefilter), and you will register it within 60 days. It is the cheapest complete two-tank kit here, and the money saved pays for a plumber's afternoon if you get stuck.
+**Buy the Aquasure Harmony 48k if** you will install it yourself, you are on city water with chlorine under 2 ppm (or will add the prefilter), and you will register it within 60 days. It is the lower-cost complete two-tank kit here, and the money saved pays for a plumber's afternoon if you get stuck.
 
 **Buy the SpringWell SS4 if** you value a lifetime defects warranty on the tank, valve and head, want a 13 gpm flow rating for a larger house, and are happy to program from a phone app. Confirm the resin grade and the electronics term in writing before you order.
 

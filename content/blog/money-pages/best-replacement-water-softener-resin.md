@@ -2,7 +2,7 @@
 title: "Best Replacement Water Softener Resin: Which Grade, and How Much Your Tank Needs"
 seoTitle: "Best Replacement Water Softener Resin: 4 Proven Picks"
 seoDescription: "The best replacement water softener resin depends on your water: standard, 10% crosslink or fine mesh. Which to buy and how much your tank needs."
-excerpt: "Replacement resin is sold by the cubic foot, but most owners shop by grain rating and buy the wrong amount or the wrong grade. This guide picks the grade from your water source and chlorine test, prices each option per cubic foot, and gives the quantity for common tank sizes so a 1.5 cubic foot tank does not end up with two full bags."
+excerpt: "Replacement resin is sold by the cubic foot, but most owners shop by grain rating and buy the wrong amount or the wrong grade. This guide picks the grade from your water source and chlorine test, compares each option's pack size, and gives the quantity for common tank sizes so a 1.5 cubic foot tank does not end up with two full bags."
 date: "2026-10-02"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -14,14 +14,14 @@ faqs:
   - question: "How much resin do I need to rebed my water softener?"
     answer: "Match the volume the tank already holds. Common pairings are 1.0 cubic foot in a 9x48 or 10x44 tank, 1.5 cubic feet in a 10x54 and 2.0 cubic feet in a 12x48. The tank label or manual gives the figure. Leave the headspace above the bed empty, because the resin needs room to lift during backwash."
   - question: "Is 10 percent crosslink resin worth the extra cost?"
-    answer: "On city water with a measurable chlorine residual, usually yes. On current prices the 10 percent grade costs only a little more per cubic foot than standard high-capacity resin, and the site's cost model shows it paying back at residuals above about 0.2 mg/L. On a chlorine-free well it adds little, because something other than oxidation usually ends the bed's life."
+    answer: "On city water with a measurable chlorine residual, usually yes. The 10 percent grade usually costs only a little more per cubic foot than standard high-capacity resin, and the site's cost model shows it paying back at residuals above about 0.2 mg/L. On a chlorine-free well it adds little, because something other than oxidation usually ends the bed's life."
   - question: "Can I put fine mesh resin in my existing softener?"
     answer: "Often, but check the drain line flow control and the distributor basket first. Fine beads need a lower backwash rate than standard resin, and the basket slots must be narrow enough to hold them. We found no fine mesh resin pack confirmed on Amazon, so most buyers get it inside a complete well softener or from a specialist seller's own store."
   - question: "How long does replacement softener resin last?"
     answer: "On clean water with no chlorine, ten to fifteen years is a fair planning figure. On city water with about 1 mg/L of free chlorine and no carbon filter, expect roughly five to eight years from standard resin, and longer from 10 percent crosslink. Iron and chloramine shorten both, which is why the grade should follow your water test."
 ---
 
-The **best replacement water softener resin** is the grade your water calls for, bought in the volume your tank already holds. For most homes on chlorinated city water that means a 10 percent crosslink resin, such as ResinTech CG10 at about $181 a cubic foot or AFWFilters' 1.5 cubic foot 10 percent refill kit at about $275. Clean, chlorine-free wells do just as well on standard 8 percent resin. Wells with dissolved iron suit fine mesh. On chloramine, no resin grade is enough without carbon in front of it.
+The **best replacement water softener resin** is the grade your water calls for, bought in the volume your tank already holds. For most homes on chlorinated city water that means a 10 percent crosslink resin, such as ResinTech CG10 or AFWFilters' 1.5 cubic foot 10 percent refill kit. Clean, chlorine-free wells do just as well on standard 8 percent resin. Wells with dissolved iron suit fine mesh. On chloramine, no resin grade is enough without carbon in front of it.
 
 The usual mistakes are buying by grain rating instead of cubic feet, and buying the cheapest grade for water that will wear it out in a few years. This page fixes both.
 
@@ -29,12 +29,12 @@ The usual mistakes are buying by grain rating instead of cubic feet, and buying 
 
 ## How We Chose
 
-> **Methodology.** Nothing on this page was physically tested. Each resin was compared on crosslink percentage, pack size and price per cubic foot, using the sellers' product pages and published resin data.
+> **Methodology.** Nothing on this page was physically tested. Each resin was compared on crosslink percentage and pack size, using the sellers' product pages and published resin data.
 >
-> - **Included:** strong acid cation softening resin sold on Amazon.com in packs at a normal price above $100, with a named brand or seller.
-> - **Normalised:** every price is re-stated per cubic foot, because packs range from 1 to 2 cubic feet and kits add a funnel.
-> - **Excluded:** half-cubic-foot bags (about $77 to $100 at AFWFilters, so under the price floor), resin cleaners, and fine mesh resin, which we could not confirm as a pack on Amazon.
-> - **Prices checked 2 October 2026; Amazon prices change often, so check the current price before buying.** Amazon pages would not show prices to our check, so prices come from the sellers' own stores or named retailers, as given for each pick.
+> - **Included:** strong acid cation softening resin sold on Amazon.com in packs of 1 cubic foot or more, with a named brand or seller.
+> - **Normalised:** every pack is matched to tank sizes by cubic feet, because packs range from 1 to 2 cubic feet and kits add a funnel.
+> - **Excluded:** half-cubic-foot bags, resin cleaners, and fine mesh resin, which we could not confirm as a pack on Amazon.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Pick the Grade From Your Water, Not the Box
 
@@ -71,30 +71,32 @@ Resin is sold by the cubic foot, and the tank holds a set volume of it. The grai
 
 ## The Best Replacement Water Softener Resin, Pick by Pick
 
-| Pick | Grade | Pack | Approx. price | Per cu ft | Amazon |
-|---|---|---|---|---|---|
-| ResinTech CG10 | 10% crosslink | 1 cu ft | about $181 (WECO) | about $181 | [B01N7G2UHT](https://www.amazon.com/dp/B01N7G2UHT) |
-| AFWFilters 10% refill kit | 10% crosslink | 1.5 cu ft + funnel | about $275 (AFWFilters) | about $183 | [B09KYGS915](https://www.amazon.com/dp/B09KYGS915) |
-| Aldex C-800x10 | 10% crosslink | 1 cu ft | US price not verified | not verified | [B0DKPHHNM4](https://www.amazon.com/dp/B0DKPHHNM4) |
-| LiquaGen softening resin + funnel | Crosslink not stated | 2 cu ft + funnel | price not verified | not verified | [B00KO0CSN8](https://www.amazon.com/dp/B00KO0CSN8) |
+| Pick | Grade | Pack | Amazon |
+|---|---|---|---|
+| ResinTech CG10 | 10% crosslink | 1 cu ft | [Check price on Amazon](https://www.amazon.com/dp/B01N7G2UHT) |
+| AFWFilters 10% refill kit | 10% crosslink | 1.5 cu ft + funnel | [Check price on Amazon](https://www.amazon.com/dp/B09KYGS915) |
+| Aldex C-800x10 | 10% crosslink | 1 cu ft | [Check price on Amazon](https://www.amazon.com/dp/B0DKPHHNM4) |
+| LiquaGen softening resin + funnel | Crosslink not stated | 2 cu ft + funnel | [Check price on Amazon](https://www.amazon.com/dp/B00KO0CSN8) |
 
 ### ResinTech CG10: best single bag for city water
 
 - **What it is:** ResinTech's premium 10 percent crosslinked strong acid cation resin in sodium form, 1 cubic foot, 53 to 55 lb.
 - **Seller data:** 2.20 meq/mL total capacity, 93 percent minimum sphericity, rated to 280°F, and stated to conform to the FDA's food additive rule for potable water (21 CFR 173.25), per the [WECO product page](https://www.wecofilters.com/cg10-1cuft.html).
-- **Price:** $181.27 at WECO, listed in stock. [See it on Amazon (B01N7G2UHT)](https://www.amazon.com/dp/B01N7G2UHT)
 
-CG10 is the pick for buyers who want a named resin maker and a published spec on the bag. It suits 1.0 and 2.0 cubic foot tanks, which take whole bags. For a 1.5 cubic foot tank the second bag is half wasted, which pushes the job to about $363.
+[Check price on Amazon](https://www.amazon.com/dp/B01N7G2UHT)
 
-**Wrong for:** a 1.5 cubic foot tank on a tight budget, where the kit below costs about $88 less, and chlorine-free wells, where you are paying for protection you will not use.
+CG10 is the pick for buyers who want a named resin maker and a published spec on the bag. It suits 1.0 and 2.0 cubic foot tanks, which take whole bags. For a 1.5 cubic foot tank the second bag is half wasted, which raises the cost of the job.
+
+**Wrong for:** a 1.5 cubic foot tank on a tight budget, where the kit below avoids paying for a half-used second bag, and chlorine-free wells, where you are paying for protection you will not use.
 
 ### AFWFilters 10% Crosslink Refill Kit, 1.5 cu ft: best for the common 48,000-grain tank
 
 - **What it is:** 1.5 cubic feet of 10 percent crosslink resin with a loading funnel. AFWFilters notes the resin may arrive in generic bags, and the listing does not name the resin maker.
-- **Sizes:** the same kit comes in 1, 2, 2.5 and 3 cubic foot versions at AFWFilters, about $185 to $500.
-- **Price:** $274.99 at AFWFilters' own store. [See it on Amazon (B09KYGS915)](https://www.amazon.com/dp/B09KYGS915)
+- **Sizes:** the same kit comes in 1, 2, 2.5 and 3 cubic foot versions at AFWFilters.
 
-This is the pick for the most common residential size, a 10x54 tank with 1.5 cubic feet of resin. It costs about the same per cubic foot as CG10 and you buy exactly the volume you need. The funnel matters more than it sounds: it keeps beads out of the riser tube while you pour.
+[Check price on Amazon](https://www.amazon.com/dp/B09KYGS915)
+
+This is the pick for the most common residential size, a 10x54 tank with 1.5 cubic feet of resin. You buy exactly the volume you need. The funnel matters more than it sounds: it keeps beads out of the riser tube while you pour.
 
 **Wrong for:** buyers who want a named resin manufacturer on the bag, and anyone who needs a published data sheet for the exact resin they are loading.
 
@@ -102,16 +104,18 @@ This is the pick for the most common residential size, a 10x54 tank with 1.5 cub
 
 - **What it is:** Aldex's 10 percent crosslinked version of its C-800 gel resin, in 1 cubic foot bags. Aquatell, a Canadian seller, describes it as resistant to iron fouling and chlorine breakdown compared with 8 percent grades.
 - **Certification:** seller pages describe Aldex's C-800 resin as certified to NSF/ANSI 44 and 61 and tested under WQA's Gold Seal programme. We could not match the 10 percent grade to a listing ourselves, so check [NSF's certified product search](https://info.nsf.org/Certified/DWTU/) or ask the seller for the certificate before relying on it.
-- **Price:** not verified in US dollars. Aquatell lists it at CA$199.99 a cubic foot. [See it on Amazon (B0DKPHHNM4)](https://www.amazon.com/dp/B0DKPHHNM4)
+
+[Check price on Amazon](https://www.amazon.com/dp/B0DKPHHNM4)
 
 Aldex publishes the clearest salt-dose figures of any resin here. For its C-800 family it quotes about 30,000 grains per cubic foot at 15 lb of salt and about 20,000 at 6 lb. That is a useful reminder when you reprogram the valve after a rebed: the efficient 6 lb setting gives about two-thirds of the headline capacity.
 
-**Wrong for:** anyone who needs a verified US price today, and 1.5 cubic foot tanks, where whole bags again leave half a cubic foot over.
+**Wrong for:** buyers who want the 10 percent grade's certificate confirmed before ordering, and 1.5 cubic foot tanks, where whole bags again leave half a cubic foot over.
 
 ### LiquaGen 2 cu ft with funnel: for chlorine-free wells
 
 - **What it is:** two cubic feet of high-capacity cation softening resin plus a loading funnel, per the Amazon listing. The listing does not state a crosslink percentage, so treat it as standard 8 percent resin.
-- **Price:** not verified. For comparison, AFWFilters lists its own standard high-capacity resin at $149 a cubic foot and a 1.5 cubic foot high-capacity kit at $262. [See it on Amazon (B00KO0CSN8)](https://www.amazon.com/dp/B00KO0CSN8)
+
+[Check price on Amazon](https://www.amazon.com/dp/B00KO0CSN8)
 
 Standard resin is the sensible buy where nothing in the water attacks it: a well with no chlorinator and no iron. Two cubic feet fills a 12x48 tank in one purchase.
 
@@ -119,22 +123,22 @@ Standard resin is the sensible buy where nothing in the water attacks it: a well
 
 ## Fine Mesh Resin: Why It Is Not on This List
 
-We found no fine mesh resin pack confirmed on Amazon on the day we checked. Fine mesh is mostly sold inside complete well-water softeners, or from specialist sellers' own stores. AFWFilters, for example, lists fine mesh refill kits at about $240 for 1 cubic foot, $339 for 1.5 and $445 for 2.
+We found no fine mesh resin pack confirmed on Amazon on the day we checked. Fine mesh is mostly sold inside complete well-water softeners, or from specialist sellers' own stores. AFWFilters, for example, lists fine mesh refill kits in 1, 1.5 and 2 cubic foot sizes.
 
 Fine mesh only helps when the iron is dissolved and stays dissolved until it reaches the bed. It also needs a lower drain line flow control rate than standard resin in the same tank, or the backwash lifts the small beads out to the drain. If your well passes the conditions set out in [standard vs fine mesh resin](/blog/standard-vs-fine-mesh-resin/), buy fine mesh from a seller who will also supply the matching flow control.
 
-## What a Rebed Costs, Grade by Grade
+## What a Rebed Takes, Grade by Grade
 
-Here is the media cost for a 1.5 cubic foot tank, the most common size, before shipping and labour. Prices are from the sellers named above, checked 2 October 2026.
+Here is what you buy for a 1.5 cubic foot tank, the most common size, from the sellers named above.
 
-| Option | What you buy | Media cost | Left over |
-|---|---|---|---|
-| Standard high-capacity kit (AFWFilters) | 1.5 cu ft + funnel | about $262 | none |
-| 10% crosslink kit (AFWFilters) | 1.5 cu ft + funnel | about $275 | none |
-| ResinTech CG10 | two 1 cu ft bags | about $363 | 0.5 cu ft |
-| Fine mesh kit (AFWFilters store) | 1.5 cu ft + funnel | about $339 | none |
+| Option | What you buy | Left over |
+|---|---|---|
+| Standard high-capacity kit (AFWFilters) | 1.5 cu ft + funnel | none |
+| 10% crosslink kit (AFWFilters) | 1.5 cu ft + funnel | none |
+| ResinTech CG10 | two 1 cu ft bags | 0.5 cu ft |
+| Fine mesh kit (AFWFilters store) | 1.5 cu ft + funnel | none |
 
-At AFWFilters' prices the step from standard to 10 percent is about $13 on a 1.5 cubic foot rebed. On any city supply with a measurable residual, that premium is the easiest money in the job. The bigger cost decision is whether to rebed at all, or replace the softener. The site's guide to [water softener resin life and replacement](/blog/water-softener-resin-life-and-replacement/) works the crossover: once a rebed costs more than about two-thirds of a comparable new unit and the valve is past eight years old, replace the unit.
+At AFWFilters' store the step from the standard kit to the 10 percent kit is small on a 1.5 cubic foot rebed. On any city supply with a measurable residual, that premium is the easiest money in the job. The bigger cost decision is whether to rebed at all, or replace the softener. The site's guide to [water softener resin life and replacement](/blog/water-softener-resin-life-and-replacement/) works the crossover: once a rebed costs more than about two-thirds of a comparable new unit and the valve is past eight years old, replace the unit.
 
 ## Before You Order
 
