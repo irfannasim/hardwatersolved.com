@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" width="760" height="610" role="img" aria-labelledby="kvr-title kvr-desc">
+<title id="kvr-title">Kinetico vs RainSoft: decision chart by warranty conditions</title>
+<desc id="kvr-desc">Decision chart for Kinetico vs RainSoft softeners: selling the house or lacking power points to Kinetico, whose warranty transfers and which needs no electricity; staying long with a trusted dealer points to RainSoft's lifetime parts cover for the first owner; otherwise the written price decides.</desc>
+<defs>
+<marker id="kvr-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="610" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Kinetico vs RainSoft: let the warranty terms decide</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">From Kinetico warranty 16662D (2021) and the RainSoft EC5 manual, rev. J; read 2 October 2026</text>
+
+<rect class="box" x="200" y="82" width="360" height="40" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="107" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Two written dealer quotes in hand</text>
+<path class="ln" d="M220,122 L220,150" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#kvr-ah)"/>
+
+<rect class="box" x="30" y="156" width="380" height="58" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="46" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Could you sell the house in the</text>
+<text x="46" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">next 10 years?</text>
+<path class="ln" d="M410,185 L446,185" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#kvr-ah)"/>
+<text x="418" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<rect class="box" x="452" y="150" width="278" height="70" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="466" y="173" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Lean Kinetico</text>
+<text x="466" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Its warranty passes to the buyer</text>
+<text x="466" y="209" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">if the unit stays at the house</text>
+<path class="ln" d="M220,214 L220,250" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#kvr-ah)"/>
+<text x="240" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="256" width="380" height="58" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="46" y="280" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. No outlet near the softener, or</text>
+<text x="46" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">frequent power cuts?</text>
+<path class="ln" d="M410,285 L446,285" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#kvr-ah)"/>
+<text x="418" y="273" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<rect class="box" x="452" y="250" width="278" height="70" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="466" y="273" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Lean Kinetico</text>
+<text x="466" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Runs on water pressure; the EC5</text>
+<text x="466" y="309" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">needs its 24 VDC power supply</text>
+<path class="ln" d="M220,314 L220,350" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#kvr-ah)"/>
+<text x="240" y="338" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="356" width="380" height="58" rx="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="46" y="380" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Staying 15+ years, with a dealer</text>
+<text x="46" y="400" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">you already trust?</text>
+<path class="ln" d="M410,385 L446,385" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#kvr-ah)"/>
+<text x="418" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<rect class="box" x="452" y="350" width="278" height="70" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="466" y="373" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Lean RainSoft</text>
+<text x="466" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Lifetime parts cover for you as</text>
+<text x="466" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">first owner, vs 10 years on Premier</text>
+<path class="ln" d="M220,414 L220,450" fill="none" stroke="#3a5a72" stroke-width="5" marker-end="url(#kvr-ah)"/>
+<text x="240" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="456" width="700" height="48" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="485" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Neither wins on paper: decide on the written total price, labor rate and visit charge</text>
+
+<rect class="box" x="30" y="522" width="700" height="70" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="46" y="545" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Either way, on chlorinated city water</text>
+<text x="46" y="565" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Kinetico covers the resin only on named models, or behind a Kinetico dechlorinator or CRS.</text>
+<text x="46" y="583" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">RainSoft's EC5 manual sets a 4 ppm chlorine or chloramine limit and excludes iron-fouled resin.</text>
+</svg>

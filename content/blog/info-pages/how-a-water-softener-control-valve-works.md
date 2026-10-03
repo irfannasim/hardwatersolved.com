@@ -50,7 +50,7 @@ Residential valves reach the same five positions by different mechanical routes.
 
 Many retail cabinet softeners use a fourth design, a rotating disc driven through a cam and switch. The water paths are the same.
 
-If you are choosing a softener rather than repairing one, the valve design is worth weighing too. [The Fleck 5600SXT review separates the valve's parts support from what each seller ships with it](/blog/fleck-5600sxt-review/).
+If you are choosing a softener rather than repairing one, the valve design is worth weighing too. [The Fleck 5600SXT review separates the valve's parts support from what each seller ships with it](/blog/fleck-5600sxt-review/). [Choosing between Fleck and Clack on internal design, wear-part prices and the repairs you can do yourself](/blog/fleck-vs-clack/) follows the first two rows of the table into a purchase, and [the Tier1 review weighs a ceramic-disc valve](/blog/tier1-water-softener-review/), a design that sits outside all three.
 
 When the drive or the position sensing fails, the valve stops partway through the cycle. That failure has its own guide: [why a water softener is stuck in regeneration](/blog/water-softener-stuck-in-regeneration/).
 

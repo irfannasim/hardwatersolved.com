@@ -131,6 +131,6 @@ Work through it in this order:
 1. **Get dissolved and total iron measured separately**, along with manganese, pH and hardness. What to order is in [test iron and manganese before sizing a softener](/blog/test-iron-and-manganese-before-sizing/).
 2. **Check all six conditions above.** Any failure means the softener cannot be the iron treatment.
 3. **Compare your dissolved iron with the lowest applicable rating**, not the highest one you found. If you are shopping, [choosing a well-water softener by iron band](/blog/best-water-softener-for-well-water/) sets each model's stated iron rating beside the conditions it leaves out.
-4. **If you fall outside the range**, the choice between a filter, a softener or both is covered in [water softener vs iron filter](/blog/water-softener-vs-iron-filter/).
+4. **If you fall outside the range**, the choice between a filter, a softener or both is covered in [water softener vs iron filter](/blog/water-softener-vs-iron-filter/). Once a filter is the answer, [choosing an iron filter by iron level, pH and form](/blog/best-iron-filters-for-well-water/) sorts the options by your test result.
 
 The honest summary is that a softener can remove iron, but only within narrow conditions. If you rely on it outside those conditions, you will be replacing resin before the rest of the unit wears out.

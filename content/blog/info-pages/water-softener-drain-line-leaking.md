@@ -166,6 +166,8 @@ This is where a leak repair can create a bigger problem. The discharge end of a 
 6. **Check it again after a week.** Clamps settle and tubing relaxes.
 7. **Then add it to your routine** — a look along the drain line once or twice a year fits naturally into the [water softener maintenance schedule](/blog/water-softener-maintenance-schedule/).
 
+Because the line only carries water during regeneration, usually overnight, the next leak may still go unseen. [Choosing a leak sensor or automatic shutoff, and where to place it](/blog/best-leak-detectors-for-water-softeners/), covers the valve outlet and the discharge end.
+
 ## What This Repair Will Not Fix
 
 - **Water running to drain constantly.** That is an internal valve leak, not a line fault.

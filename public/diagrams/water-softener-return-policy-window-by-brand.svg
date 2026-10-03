@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="rwt-title rwt-desc">
+<title id="rwt-title">Water softener return policies: return window length by brand</title>
+<desc id="rwt-desc">Bar chart of water softener return policies read on 2 October 2026: Aquasure, AquaTru and Amazon allow 30 days, NuvoH2O and ScaleBlaster 90 days, SpringWell and SoftPro 6 months and the Eddy descaler 12 months, coloured by whether an installed, used unit can be sent back.</desc>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">How long you have to send it back</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Return window as written in each policy, read 2 October 2026</text>
+<text x="205" y="110" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Aquasure (direct)</text>
+<rect x="220" y="94" width="32.5" height="22" rx="3" fill="#dc2626"/>
+<text x="262.5" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">30 days · unused, in original packaging</text>
+<text x="205" y="150" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">AquaTru</text>
+<rect x="220" y="134" width="32.5" height="22" rx="3" fill="#0e7490"/>
+<text x="262.5" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">30 days · shipping and handling deducted</text>
+<text x="205" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Amazon (most items)</text>
+<rect x="220" y="174" width="32.5" height="22" rx="3" fill="#dc2626"/>
+<text x="262.5" y="190" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">30 days · bulky items may cost to ship</text>
+<text x="205" y="230" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">NuvoH2O</text>
+<rect x="220" y="214" width="97.5" height="22" rx="3" fill="#0e7490"/>
+<text x="327.5" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">90 days · 20% restocking fee</text>
+<text x="205" y="270" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">ScaleBlaster</text>
+<rect x="220" y="254" width="97.5" height="22" rx="3" fill="#3a5a72"/>
+<text x="327.5" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">90 days · conditions not published</text>
+<text x="205" y="310" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">SpringWell</text>
+<rect x="220" y="294" width="195" height="22" rx="3" fill="#dc2626"/>
+<text x="425" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">6 months · uninstalled only · 10% fee</text>
+<text x="205" y="350" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">SoftPro</text>
+<rect x="220" y="334" width="195" height="22" rx="3" fill="#0e7490"/>
+<text x="425" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">6 months · no restocking fee</text>
+<text x="205" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Eddy descaler</text>
+<rect x="220" y="374" width="390" height="22" rx="3" fill="#0e7490"/>
+<text x="232" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#ffffff">12 months · no-quibble full refund</text>
+<path class="ln" d="M220,420 L610,420" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M220,420 L220,426" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="220" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<path class="ln" d="M317.5,420 L317.5,426" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="317.5" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">3 mo</text>
+<path class="ln" d="M415,420 L415,426" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="415" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6 mo</text>
+<path class="ln" d="M512.5,420 L512.5,426" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="512.5" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">9 mo</text>
+<path class="ln" d="M610,420 L610,426" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="610" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">12 mo</text>
+<rect x="30" y="472" width="16" height="16" rx="2" fill="#0e7490"/>
+<text x="54" y="485" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Used or installed unit accepted</text>
+<rect x="270" y="472" width="16" height="16" rx="2" fill="#dc2626"/>
+<text x="294" y="485" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Unused or uninstalled only</text>
+<rect x="490" y="472" width="16" height="16" rx="2" fill="#3a5a72"/>
+<text x="514" y="485" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Conditions not published</text>
+<text x="30" y="518" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Amazon's window covers the Amazon order. A brand's own guarantee may differ, so confirm both.</text>
+</svg>

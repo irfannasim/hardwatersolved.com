@@ -119,7 +119,7 @@ Skin goes through a shorter version of the same adjustment. There is less to cle
 
 **What softening does not change:** water temperature, shower length, soap chemistry, indoor humidity, and any skin condition you already had. Hot water and long showers strip skin oils whether the water is hard or soft. If skin is still dry after three weeks of lower doses, the reason is almost always one of those factors. Take it one variable at a time, as set out in [why dry skin can continue after installing a softener](/blog/dry-skin-after-installing-a-softener/).
 
-Softened water also does not remove chlorine or chloramine from city water. Penn State Extension's guide to [water softening](https://extension.psu.edu/water-softening) is blunt about it: a softener "simply removes hardness minerals". If your hair or skin reacts to chlorine, that needs carbon treatment, not a softener adjustment.
+Softened water also does not remove chlorine or chloramine from city water. Penn State Extension's guide to [water softening](https://extension.psu.edu/water-softening) is blunt about it: a softener "simply removes hardness minerals". If your hair or skin reacts to chlorine, that needs carbon treatment, not a softener adjustment. [Choosing a softener and carbon setup for each cause of dryness](/blog/best-water-softener-for-hair-and-skin/) covers that combination.
 
 ## When It Is Not the Adjustment Period
 

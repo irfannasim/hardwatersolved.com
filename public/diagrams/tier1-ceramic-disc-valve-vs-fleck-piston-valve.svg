@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="tcd-title tcd-desc">
+<title id="tcd-title">Tier1 ceramic disc control valve vs Fleck piston valve: what wears</title>
+<desc id="tcd-desc">Side-by-side anatomy for a Tier1 water softener review: a Fleck-style piston valve slides a piston through a stack of rubber seals and spacers that are sold as rebuild kits, while the Tier1 ceramic disc valve turns one ceramic disc against a fixed ported disc, so there is no seal stack, though O-rings remain at the tank, bypass and connectors.</desc>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Piston valve vs Tier1 ceramic disc valve</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Simplified side views. Both route water to service, backwash, brine draw, refill and rinse.</text>
+<text x="190" y="100" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Piston valve (Fleck 5600 type)</text>
+<text x="570" y="100" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Ceramic disc valve (Tier1)</text>
+<rect x="80" y="125" width="70" height="300" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<rect x="80" y="140" width="70" height="14" fill="#0b2f4a"/>
+<rect x="80" y="154" width="70" height="38" fill="#e2e8f0"/>
+<rect x="80" y="192" width="70" height="14" fill="#0b2f4a"/>
+<rect x="80" y="206" width="70" height="38" fill="#e2e8f0"/>
+<rect x="80" y="244" width="70" height="14" fill="#0b2f4a"/>
+<rect x="80" y="258" width="70" height="38" fill="#e2e8f0"/>
+<rect x="80" y="296" width="70" height="14" fill="#0b2f4a"/>
+<rect x="80" y="310" width="70" height="38" fill="#e2e8f0"/>
+<rect x="80" y="348" width="70" height="14" fill="#0b2f4a"/>
+<rect x="80" y="362" width="70" height="38" fill="#e2e8f0"/>
+<rect x="80" y="400" width="70" height="14" fill="#0b2f4a"/>
+<rect x="104" y="110" width="22" height="270" rx="4" fill="#94a3b8" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M150,147 L190,147" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="198" y="152" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Rubber seals (dark)</text>
+<path class="ln" d="M150,225 L190,225" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="198" y="230" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Spacers between them</text>
+<path class="ln" d="M126,278 L190,278" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="198" y="275" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Piston slides up and</text>
+<text x="198" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">down through the stack</text>
+<rect class="box" x="30" y="448" width="330" height="96" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="46" y="474" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Wears: seals, spacers, piston</text>
+<text x="46" y="496" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Rubbing seals wear with every cycle.</text>
+<text x="46" y="516" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Fix: a generic rebuild kit, widely sold</text>
+<text x="46" y="536" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">for a standard, non-proprietary valve.</text>
+<rect x="470" y="120" width="60" height="34" rx="4" fill="#94a3b8" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M500,154 L500,190" fill="none" stroke="#3a5a72" stroke-width="5"/>
+<rect x="430" y="190" width="140" height="22" rx="3" fill="#0e7490"/>
+<rect x="430" y="214" width="140" height="22" rx="3" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="444" y="216" width="16" height="18" fill="#ffffff"/>
+<rect x="492" y="216" width="16" height="18" fill="#ffffff"/>
+<rect x="540" y="216" width="16" height="18" fill="#ffffff"/>
+<rect x="430" y="236" width="140" height="150" fill="#f1f5f9" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M452,236 L452,386 M500,236 L500,386 M548,236 L548,386" fill="none" stroke="#cbd5e1" stroke-width="10"/>
+<path class="ln" d="M530,137 L590,137" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="598" y="142" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Motor turns the disc</text>
+<path class="ln" d="M570,201 L590,201" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="598" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0e7490">Rotating ceramic</text>
+<text x="598" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0e7490">disc</text>
+<path class="ln" d="M570,232 L590,248" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="598" y="250" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Fixed disc with</text>
+<text x="598" y="267" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">ports (white)</text>
+<path class="ln" d="M570,330 L590,330" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="598" y="317" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Channels to tank,</text>
+<text x="598" y="334" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">drain and brine</text>
+<text x="598" y="351" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">line</text>
+<text x="500" y="414" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Flat, hard faces seal against each other</text>
+<rect class="box" x="400" y="448" width="330" height="96" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="416" y="474" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">No seal stack to rebuild</text>
+<text x="416" y="496" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">O-rings remain at the tank, bypass</text>
+<text x="416" y="516" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">and connectors. Parts are proprietary:</text>
+<text x="416" y="536" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">a failed head usually means Tier1's.</text>
+<text x="30" y="580" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Tier1's warranty lists O-rings and seals as normal wear items that it does not cover.</text>
+</svg>

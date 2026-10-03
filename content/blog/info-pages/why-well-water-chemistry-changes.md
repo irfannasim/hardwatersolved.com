@@ -124,7 +124,7 @@ For a well that feeds a softener or iron filter, add **hardness, iron and mangan
 
 **If hardness or iron is up modestly**, reprogram the softener's hardness setting to the new compensated figure. That is often the whole fix. Use the higher of your recent readings if the well swings with the seasons.
 
-**If the new numbers exceed a rating**, reprogramming is not enough. Examples are iron above what the softener is rated to handle, or pH below what an iron filter's media tolerates. That usually means adding a stage, and the order matters. See [well water treatment train order](/blog/well-water-treatment-train-order/).
+**If the new numbers exceed a rating**, reprogramming is not enough. Examples are iron above what the softener is rated to handle, or pH below what an iron filter's media tolerates. That usually means adding a stage, and the order matters. See [well water treatment train order](/blog/well-water-treatment-train-order/). If the new numbers call for rebuilding the whole train, [complete systems for the most common well water profiles](/blog/best-whole-house-well-water-systems/) shows what a matched set costs.
 
 **If bacteria or surface water are involved**, find and fix the well defect before changing any treatment. Disinfection added downstream of a cracked casing treats the symptom and leaves the well open to contamination.
 

@@ -131,7 +131,7 @@ The backwash table above explains why the iron filter should be chosen based on 
 2. Open the tank-tee drain or the nearest hose bib fully and time how long it takes to fill a 5-gallon bucket.
 3. Divide 300 by the seconds. That's gallons per minute. (20 seconds = 15 gpm. 40 seconds = 7.5 gpm.)
 
-Compare that number with the iron filter's backwash requirement. If the pump can't supply it, a larger tank won't backwash properly. A smaller-diameter tank, a different media with a lower backwash rate, or a non-backwashing approach is a better fit. How to choose between an iron filter and a softener in the first place, or decide you need both, is in [water softener vs iron filter](/blog/water-softener-vs-iron-filter/).
+Compare that number with the iron filter's backwash requirement. If the pump can't supply it, a larger tank won't backwash properly. A smaller-diameter tank, a different media with a lower backwash rate, or a non-backwashing approach is a better fit. How to choose between an iron filter and a softener in the first place, or decide you need both, is in [water softener vs iron filter](/blog/water-softener-vs-iron-filter/). If you do need both, [buying the iron filter and softener as a matched pair](/blog/best-water-softener-and-iron-filter-combo/) saves sizing them separately, provided each half still passes the pump and water-test checks above.
 
 ## What Pretreatment Cannot Do
 

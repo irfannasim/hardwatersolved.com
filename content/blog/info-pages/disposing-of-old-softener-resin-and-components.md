@@ -32,7 +32,7 @@ Before you take anything apart, check whether you need to dispose of it at all.
 Three options avoid the disposal job entirely:
 
 - **Installer haul-away.** If a replacement is being installed, the installer will usually take the old unit away. It is often included in the price or offered for a small fee. Get it written into the quote.
-- **Re-bedding.** If the problem is worn resin but the tanks and valve are sound, replacing only the resin keeps everything else in service. [Water softener resin life and replacement](/blog/water-softener-resin-life-and-replacement/) covers how to tell whether the resin is really the problem.
+- **Re-bedding.** If the problem is worn resin but the tanks and valve are sound, replacing only the resin keeps everything else in service. [Water softener resin life and replacement](/blog/water-softener-resin-life-and-replacement/) covers how to tell whether the resin is really the problem, and [pricing a re-bed by tank size, DIY or by a pro](/blog/water-softener-resin-replacement-cost/) tells you whether it beats a new unit.
 - **Selling or giving away a working unit.** A softener that works but no longer fits the house, such as one removed during a remodel, can go to someone who will use it. Be honest about its age and hardness setting.
 
 If you are still deciding whether the old unit is worth keeping, [repair or replace an old water softener](/blog/repair-or-replace-an-old-water-softener/) works through that decision first.

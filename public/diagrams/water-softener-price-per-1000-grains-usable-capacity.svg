@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 566" width="760" height="566" role="img" aria-labelledby="wpg-title wpg-desc">
+<title id="wpg-title">Water softener prices per 1,000 grains of usable capacity</title>
+<desc id="wpg-desc">Bar chart of water softener prices divided by usable capacity at 6 lb of salt per cubic foot: online single-tank softeners fall from about $36 per 1,000 grains at 32k to about $20 at 80k, twin and upflow units cost about $44 to $46, and a dealer-installed Culligan HE about $127 against about $40 for an installed online 48k.</desc>
+<rect width="760" height="566" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Price per 1,000 grains of usable capacity</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="start" fill="#52697a">Capacity re-stated at 6 lb of salt per cu ft (about 21,000 grains per cu ft). Prices checked 2 Oct 2026.</text>
+<path class="ln" d="M350.0,92 L350.0,476" stroke="#3a5a72" stroke-width="2" fill="none"/>
+<text x="350.0" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<path class="ln" d="M400.0,470 L400.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="400.0" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$20</text>
+<path class="ln" d="M450.0,470 L450.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="450.0" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$40</text>
+<path class="ln" d="M500.0,470 L500.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="500.0" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$60</text>
+<path class="ln" d="M550.0,470 L550.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="550.0" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$80</text>
+<path class="ln" d="M600.0,470 L600.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="600.0" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$100</text>
+<path class="ln" d="M650.0,470 L650.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="650.0" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$120</text>
+<path class="ln" d="M700.0,470 L700.0,476" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="700.0" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$140</text>
+<path class="ln" d="M350,470 L700,470" stroke="#3a5a72" stroke-width="2" fill="none"/>
+<text x="30" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Online, equipment only</text>
+<rect x="350" y="122" width="90.4" height="22" fill="#0e7490"/>
+<text x="338" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13.5" text-anchor="end" fill="#0b2f4a">32k single tank, 1.0 cu ft, $759</text>
+<text x="448.4" y="138" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" text-anchor="start" fill="#0b2f4a">$36</text>
+<rect x="350" y="156" width="61.5" height="22" fill="#0e7490"/>
+<text x="338" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13.5" text-anchor="end" fill="#0b2f4a">48k single tank, 1.5 cu ft, $775</text>
+<text x="419.5" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" text-anchor="start" fill="#0b2f4a">$25</text>
+<rect x="350" y="190" width="52.3" height="22" fill="#0e7490"/>
+<text x="338" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13.5" text-anchor="end" fill="#0b2f4a">64k single tank, 2.0 cu ft, $879</text>
+<text x="410.3" y="206" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" text-anchor="start" fill="#0b2f4a">$21</text>
+<rect x="350" y="224" width="49.2" height="22" fill="#0e7490"/>
+<text x="338" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13.5" text-anchor="end" fill="#0b2f4a">80k single tank, 2.5 cu ft, $1,034</text>
+<text x="407.2" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" text-anchor="start" fill="#0b2f4a">$20</text>
+<rect x="350" y="258" width="83.2" height="22" fill="#0e7490"/>
+<text x="338" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13.5" text-anchor="end" fill="#0b2f4a">35k cabinet (GE GXSH35W), $699</text>
+<text x="441.2" y="274" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" text-anchor="start" fill="#0b2f4a">$33</text>
+<rect x="350" y="292" width="110.1" height="22" fill="#0e7490"/>
+<text x="338" y="308" font-family="Arial, Helvetica, sans-serif" font-size="13.5" text-anchor="end" fill="#0b2f4a">48k twin tank, per tank, $1,387</text>
+<text x="468.1" y="308" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" text-anchor="start" fill="#0b2f4a">$44</text>
+<rect x="350" y="326" width="115.6" height="22" fill="#0e7490"/>
+<text x="338" y="342" font-family="Arial, Helvetica, sans-serif" font-size="13.5" text-anchor="end" fill="#0b2f4a">48k upflow (SoftPro Elite), $1,457</text>
+<text x="473.6" y="342" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" text-anchor="start" fill="#0b2f4a">$46</text>
+<text x="30" y="378" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Installed</text>
+<rect x="350" y="384" width="101.2" height="22" fill="#3a5a72"/>
+<text x="338" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13.5" text-anchor="end" fill="#0b2f4a">Online 48k + $500 plumber, $1,275</text>
+<text x="459.2" y="400" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" text-anchor="start" fill="#0b2f4a">$40</text>
+<rect x="350" y="418" width="317.4" height="22" fill="#3a5a72"/>
+<text x="338" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13.5" text-anchor="end" fill="#0b2f4a">Culligan HE 10-inch, ~$3,400</text>
+<text x="675.4" y="434" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="bold" text-anchor="start" fill="#0b2f4a">$127</text>
+<text x="30" y="522" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#52697a">Culligan: midpoint of a reported $3,200 to $3,600 installed, divided by 26,781 grains at 6 lb (owner's guide).</text>
+<text x="30" y="542" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" fill="#52697a">Salt-free conditioners remove no hardness, so they have no grain capacity and are not shown.</text>
+</svg>

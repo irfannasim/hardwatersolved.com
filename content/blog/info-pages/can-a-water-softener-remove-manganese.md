@@ -148,6 +148,6 @@ If the numbers say your softener can carry the manganese, a few settings decide 
 2. **Order a lab test** for manganese, total and dissolved iron, pH and hardness, from both the raw water and a softened tap.
 3. **Compare the softened result with 0.05, 0.1 and 0.3 mg/L.** Staining, infants and lifetime health are three different lines.
 4. **If the softener passes, keep it passing.** Tighten the regeneration schedule and add a manganese-rated resin cleaner. When to use one is covered in [resin and iron cleaners](/blog/water-softener-resin-and-iron-cleaners/).
-5. **If it does not, price an oxidizing filter ahead of it**, and check the pH floor of whatever media you are quoted.
+5. **If it does not, price an oxidizing filter ahead of it**, and check the pH floor of whatever media you are quoted. [Comparing manganese filters by the pH and oxidation each one needs](/blog/best-manganese-filters-for-well-water/) makes that check easier.
 
 So can a water softener remove manganese? Yes, when it stays dissolved and within what the bed can carry. Black stains are the sign that some of it is not staying dissolved, and at that point greensand or another oxidizing filter is the tool that fixes the problem at its source.

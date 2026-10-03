@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="ofs-title ofs-desc">
+<title id="ofs-title">Watts OneFlow Plus: what its WQA certification covers and what it does not</title>
+<desc id="ofs-desc">The Watts OneFlow Plus system and both cartridges are WQA-certified to NSF/ANSI/CAN 372 for lead-free materials only. Its chlorine taste and odour, scale prevention and sediment figures are the maker's own claims, with no performance listing found.</desc>
+<defs><marker id="ofs-ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#0b2f4a">What the OneFlow Plus certification covers</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">WQA certified-product listing for OFPSYS, OFPSP and OFPRFC, checked 2 October 2026</text>
+<text x="30" y="94" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">WHAT IS CLAIMED</text><text x="340" y="94" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">WHAT BACKS IT</text>
+<rect class="box" x="30" y="104" width="260" height="76" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="136" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Lead-free materials</text><text x="46" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Parts that touch the water</text>
+<path class="ln" d="M290,142 L332,142" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#ofs-ar)"/>
+<rect class="box" x="340" y="104" width="390" height="76" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="356" y="136" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#15803d">WQA listing: NSF/ANSI/CAN 372</text><text x="356" y="158" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Certified for the system and both cartridges</text>
+<rect class="box" x="30" y="198" width="260" height="76" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="230" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Chlorine taste and odour</text><text x="46" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">20 micron carbon block</text>
+<path class="ln" d="M290,236 L332,236" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#ofs-ar)"/>
+<rect class="box" x="340" y="198" width="390" height="76" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="356" y="230" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Maker figure: 50,000 gal at 3 gpm</text><text x="356" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">No NSF/ANSI 42 listing found</text>
+<rect class="box" x="30" y="292" width="260" height="76" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="324" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Scale prevention</text><text x="46" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">OneFlow cartridge, MAC media</text>
+<path class="ln" d="M290,330 L332,330" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#ofs-ar)"/>
+<rect class="box" x="340" y="292" width="390" height="76" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="356" y="324" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Maker figure: 250,000 gal or 3 years</text><text x="356" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">No scale-performance listing found</text>
+<rect class="box" x="30" y="386" width="260" height="76" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="418" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Sediment</text><text x="46" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The same carbon block</text>
+<path class="ln" d="M290,424 L332,424" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#ofs-ar)"/>
+<rect class="box" x="340" y="386" width="390" height="76" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="356" y="418" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Maker figure: 20 micron, holds 2.2 lb</text><text x="356" y="440" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Not part of any listing</text>
+<rect x="30" y="486" width="16" height="16" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/><text x="54" y="499" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Third-party certified</text>
+<rect x="230" y="486" width="16" height="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/><text x="254" y="499" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Maker&#8217;s claim only</text>
+<text x="30" y="532" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">A lead-free listing checks the lead content of wetted parts. It says nothing about scale.</text>
+</svg>

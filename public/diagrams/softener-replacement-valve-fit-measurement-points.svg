@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="rvf-title rvf-desc">
+<title id="rvf-title">Six fit checks before buying a water softener replacement valve</title>
+<desc id="rvf-desc">Cutaway of a softener mineral tank top with a replacement control valve, marking six measurement points: inlet and outlet yoke or bypass, drain port and drain line flow control, brine port, the 2-1/2 inch 8-thread tank neck, the 1.050 inch riser tube and the tank diameter that sets the backwash rate.</desc>
+<defs>
+<pattern id="rvf-resin" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#f6ead2"/><circle cx="5" cy="5" r="3" fill="#e2b865"/></pattern>
+<marker id="rvf-d" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker>
+<clipPath id="rvf-clip"><rect x="91" y="297" width="158" height="232" rx="39"/></clipPath>
+</defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Measure these six points before you buy a valve</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Most fit problems come from the parts around the head, not the head itself</text>
+<rect x="125" y="94" width="20" height="16" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="195" y="94" width="20" height="16" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="100" y="110" width="140" height="152" rx="10" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="112" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">New valve</text>
+<rect x="240" y="132" width="24" height="16" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="240" y="207" width="18" height="14" fill="#cbd5e1" stroke="#7c3aed" stroke-width="1.5"/>
+<rect x="90" y="296" width="160" height="234" rx="40" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="91" y="380" width="158" height="150" fill="url(#rvf-resin)" clip-path="url(#rvf-clip)"/>
+<rect x="97" y="441" width="44" height="21" fill="#ffffff"/>
+<rect x="140" y="262" width="60" height="40" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<path d="M142,270 L198,274 M142,278 L198,282 M142,286 L198,290 M142,294 L198,298" stroke="#3a5a72" stroke-width="1.2" fill="none"/>
+<rect x="164" y="262" width="12" height="262" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="100" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Tank</text>
+<text x="100" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Resin</text>
+<path class="ln" d="M96,546 L244,546" stroke="#52697a" stroke-width="1.5" fill="none" marker-start="url(#rvf-d)" marker-end="url(#rvf-d)"/>
+<circle cx="215" cy="100" r="4" fill="#0b2f4a"/>
+<circle cx="264" cy="140" r="4" fill="#0b2f4a"/>
+<circle cx="258" cy="214" r="4" fill="#0b2f4a"/>
+<circle cx="200" cy="282" r="4" fill="#0b2f4a"/>
+<circle cx="176" cy="420" r="4" fill="#0b2f4a"/>
+<circle cx="250" cy="546" r="4" fill="#0b2f4a"/>
+<path class="ln" d="M219,100 L318,117" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<path class="ln" d="M268,141 L318,191" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<path class="ln" d="M262,216 L318,265" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<path class="ln" d="M204,284 L318,339" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<path class="ln" d="M180,419 L318,413" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<path class="ln" d="M254,544 L318,487" stroke="#52697a" stroke-width="1.2" fill="none"/>
+<rect class="box" x="320" y="84" width="410" height="66" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="334" y="106" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Inlet and outlet</text>
+<text x="334" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Fleck heads need a Fleck yoke or bypass, 3/4 or 1 inch.</text>
+<text x="334" y="142" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">A Clack WS1 uses its own. Changing brand means a new bypass.</text>
+<rect class="box" x="320" y="158" width="410" height="66" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="334" y="180" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Drain port and flow control</text>
+<text x="334" y="199" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">The flow control is sized to the tank diameter (point 6).</text>
+<text x="334" y="216" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Some heads ship without one: check before you install.</text>
+<rect class="box" x="320" y="232" width="410" height="66" rx="8" fill="#f8fafc" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="334" y="254" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Brine port</text>
+<text x="334" y="273" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">3/8 inch brine line on most homes. The float and air check</text>
+<text x="334" y="290" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">in the brine tank must suit the new valve's refill method.</text>
+<rect class="box" x="320" y="306" width="410" height="66" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="334" y="328" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4. Tank neck thread</text>
+<text x="334" y="347" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">2-1/2 inch, 8 threads per inch on most residential tanks.</text>
+<text x="334" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Larger 4 inch openings take commercial valves.</text>
+<rect class="box" x="320" y="380" width="410" height="66" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="334" y="402" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">5. Riser tube</text>
+<text x="334" y="421" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">1.050 inch outside diameter on common home valves.</text>
+<text x="334" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Its height at the tank lip is set by the new valve&apos;s manual.</text>
+<rect class="box" x="320" y="454" width="410" height="66" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="334" y="476" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">6. Tank diameter sets the backwash rate</text>
+<text x="334" y="495" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Standard resin: 8 in 1.5–2.0 gpm, 10 in 2.4–3.5 gpm,</text>
+<text x="334" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">12 in 3.5–5.0 gpm. The valve must pass it.</text>
+</svg>

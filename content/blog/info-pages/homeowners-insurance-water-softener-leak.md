@@ -95,7 +95,7 @@ If the wording is unclear, the Washington commissioner's advice applies everywhe
 
 Every measure below works the same way: it keeps a failure small and sudden rather than large and slow.
 
-- **Floor leak sensors** beside the mineral tank and brine tank. The cheapest measure, and they tell you within minutes rather than weeks.
+- **Floor leak sensors** beside the mineral tank and brine tank. The cheapest measure, and they tell you within minutes rather than weeks. [Choosing leak sensors for a softener and where to place them](/blog/best-leak-detectors-for-water-softeners/) covers the options.
 - **An automatic shut-off valve** on the main, triggered by those sensors. It closes the supply while you are asleep or away. [Choosing a smart shutoff or sensor kit to pair with a softener](/blog/best-smart-water-softeners/) compares the add-ons that do this for any unit.
 - **A pressure-reducing valve** if house pressure runs high. Softener warranties commonly exclude damage above a stated pressure, and over-pressure strains every connector.
 - **A secured drain line with an air gap,** and a brine tank overflow line run to a drain rather than left open.

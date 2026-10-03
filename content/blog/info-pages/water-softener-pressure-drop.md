@@ -89,7 +89,7 @@ Then the drop at any flow is:
 | Fleck 5600SXT valve alone: 15 psi at 20 gpm | 5.2 | 2.4 psi | 5.4 psi |
 | Fleck 7000 valve alone: 15 psi at 28 gpm | 7.2 | 1.2 psi | 2.8 psi |
 
-The valve figures come from Pentair's published ratings: 20 gpm at 15 psi for the 5600SXT valve alone and 28 gpm at 15 psi for the [Fleck 7000 valve alone](https://www.pentair.com/content/dam/extranet/web/nam/fleck/data-sheets/english/42802-fleck-7000-spec-sheet.pdf), which also lists 36 gpm at a 25 psi drop. They are the valve body only. A complete softener built on the same valve always has a lower Cv, because the resin bed and distributor add their own loss.
+The valve figures come from Pentair's published ratings: 20 gpm at 15 psi for the 5600SXT valve alone and 28 gpm at 15 psi for the [Fleck 7000 valve alone](https://www.pentair.com/content/dam/extranet/web/nam/fleck/data-sheets/english/42802-fleck-7000-spec-sheet.pdf), which also lists 36 gpm at a 25 psi drop. They are the valve body only. A complete softener built on the same valve always has a lower Cv, because the resin bed and distributor add their own loss. Whether that gap justifies the larger valve's price is the question in [choosing between a 5600SXT and a 7000SXT for your peak flow](/blog/fleck-5600sxt-vs-7000sxt/).
 
 Higher Cv is better, at every flow. It is the single most useful number for comparing the hydraulic side of two softeners. In a house with several bathrooms it sets the shortlist, which is where [choosing a softener for a large home by the peak flow it sustains](/blog/best-water-softeners-for-large-homes/) starts.
 

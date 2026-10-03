@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="ewc-title ewc-desc">
+<title id="ewc-title">EcoPure vs Whirlpool sibling water softeners: capacity at the middle salt dose</title>
+<desc id="ewc-desc">Bar chart for an EcoPure water softener review: the EcoPure EP31 and Whirlpool WHES30 both give about 26,000 grains at under 8 lb of salt from about 0.8 cubic feet of resin, the EP42 and WHES44 about 35,000 grains, and the EPHS hybrid 29,800 grains against 24,700 for the Whirlpool WHESFC hybrid with the same 0.98 cubic feet of resin.</desc>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">EcoPure vs its Whirlpool siblings, same maker</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Rated capacity at each model's middle salt dose, from the current owner's manuals and product pages</text>
+<rect x="30" y="80" width="16" height="16" fill="#0e7490"/>
+<text x="54" y="93" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">EcoPure</text>
+<rect x="130" y="80" width="16" height="16" fill="#3a5a72"/>
+<text x="154" y="93" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Whirlpool</text>
+<text x="30" y="132" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Small cabinets</text>
+<text x="190" y="162" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">EcoPure EP31</text>
+<rect x="200" y="145" width="288.2" height="24" fill="#0e7490"/>
+<text x="496" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">26,200 at 7.7 lb</text>
+<text x="190" y="194" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Whirlpool WHES30</text>
+<rect x="200" y="177" width="292.6" height="24" fill="#3a5a72"/>
+<text x="500" y="194" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">26,600 at 7.8 lb</text>
+<text x="200" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Resin 0.81 vs 0.82 cu ft · iron 8 vs 8 ppm · flow 7.2 vs 7.6 gpm</text>
+<text x="30" y="262" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Large cabinets</text>
+<text x="190" y="292" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">EcoPure EP42</text>
+<rect x="200" y="275" width="388.3" height="24" fill="#0e7490"/>
+<text x="596" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">35,300 at 10.3 lb</text>
+<text x="190" y="324" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Whirlpool WHES44</text>
+<rect x="200" y="307" width="382.8" height="24" fill="#3a5a72"/>
+<text x="591" y="324" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">34,800 at 9.7 lb</text>
+<text x="200" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Resin 1.09 vs 1.23 cu ft · iron 11 vs 12 ppm · flow 8.2 vs 8.2 gpm</text>
+<text x="30" y="392" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Softener plus carbon hybrids</text>
+<text x="190" y="422" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">EcoPure EPHS</text>
+<rect x="200" y="405" width="327.8" height="24" fill="#0e7490"/>
+<text x="536" y="422" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0e7490">29,800 at 9.3 lb</text>
+<text x="190" y="454" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Whirlpool WHESFC</text>
+<rect x="200" y="437" width="271.7" height="24" fill="#3a5a72"/>
+<text x="480" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">24,700 at 7.8 lb</text>
+<text x="200" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Resin 0.98 vs 0.98 cu ft · iron 3 vs 3 ppm · flow 8.0 vs 8 gpm</text>
+<path class="ln" d="M200,500 L640,500" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M200,500 L200,507 M310,500 L310,507 M420,500 L420,507 M530,500 L530,507 M640,500 L640,507" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="200" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="310" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10,000</text>
+<text x="420" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">20,000</text>
+<text x="530" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">30,000</text>
+<text x="640" y="524" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">40,000 grains</text>
+<text x="30" y="548" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Salt figures are pounds per regeneration. Whirlpool data as published; WHES44 figures from its product page.</text>
+</svg>

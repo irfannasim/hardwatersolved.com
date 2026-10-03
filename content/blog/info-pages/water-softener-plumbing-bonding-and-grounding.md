@@ -115,7 +115,7 @@ Installing a jumper across a softener on plain copper, with no grounding conduct
 - **anyone has felt a tingle or shock** from a faucet, tub, shower or pipe. That is a live-fault symptom and a same-day call.
 - **your jurisdiction requires an electrical permit** for bonding work
 
-An electrician can measure continuity across the softener and confirm the bonding at the service, which a plumber normally cannot sign off.
+An electrician can measure continuity across the softener and confirm the bonding at the service, which a plumber normally cannot sign off. Whether the jumper is in the quote is also one of the [questions to put to anyone you are hiring to install a softener](/blog/how-to-choose-a-water-softener-installer/).
 
 ## What a Jumper Does Not Do
 

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-labelledby="cpf-title cpf-desc">
+<title id="cpf-title">Carbon prefilter flow protected on chlorine vs chloramine</title>
+<desc id="cpf-desc">Illustrative bar chart of the flow in gallons per minute each carbon prefilter for a water softener can treat with enough contact time: on free chlorine 5 to 7.5 gpm, on chloramine about 0.75 and 1.1 gpm for standard carbon and about 3.7 gpm for 1.5 cubic feet of catalytic carbon, against a typical 8 gpm household peak.</desc>
+<rect width="760" height="540" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Flow each prefilter can protect: chlorine vs chloramine</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Gallons per minute that still get enough contact time. Illustrative, from media volume</text>
+<rect x="260" y="80" width="14" height="14" fill="#0e7490"/><text x="282" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Free chlorine</text>
+<rect x="400" y="80" width="14" height="14" fill="#3a5a72"/><text x="422" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Chloramine</text>
+<line x1="260" y1="130" x2="260" y2="432" stroke="#e2e8f0" stroke-width="1"/>
+<text x="260" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<line x1="340" y1="130" x2="340" y2="432" stroke="#e2e8f0" stroke-width="1"/>
+<text x="340" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2</text>
+<line x1="420" y1="130" x2="420" y2="432" stroke="#e2e8f0" stroke-width="1"/>
+<text x="420" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">4</text>
+<line x1="500" y1="130" x2="500" y2="432" stroke="#e2e8f0" stroke-width="1"/>
+<text x="500" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6</text>
+<line x1="580" y1="130" x2="580" y2="432" stroke="#e2e8f0" stroke-width="1"/>
+<text x="580" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">8</text>
+<line x1="660" y1="130" x2="660" y2="432" stroke="#e2e8f0" stroke-width="1"/>
+<text x="660" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10</text>
+<text x="460" y="474" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">gallons per minute</text>
+<line x1="580" y1="116" x2="580" y2="432" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="574" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">Typical household peak, 8 gpm</text>
+<text x="30" y="156" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Oceanic 1 cu ft GAC</text>
+<text x="30" y="175" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">standard carbon, backwashing</text>
+<rect x="260" y="140" width="200" height="18" fill="#0e7490"/>
+<text x="466" y="154" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">5.0</text>
+<rect x="260" y="164" width="30" height="18" fill="#3a5a72"/>
+<text x="296" y="178" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">0.75</text>
+<text x="30" y="234" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Aquasure Fortitude Pro</text>
+<text x="30" y="253" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">1.5 cu ft KDF/GAC</text>
+<rect x="260" y="218" width="300" height="18" fill="#0e7490"/>
+<text x="554" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">7.5</text>
+<rect x="260" y="242" width="44" height="18" fill="#3a5a72"/>
+<text x="310" y="256" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">1.1</text>
+<text x="30" y="312" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">AFW catalytic 1.5 cu ft</text>
+<text x="30" y="331" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">catalytic carbon, backwashing</text>
+<rect x="260" y="296" width="300" height="18" fill="#0e7490"/>
+<text x="554" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">7.5</text>
+<rect x="260" y="320" width="148" height="18" fill="#3a5a72"/>
+<text x="414" y="334" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">3.7</text>
+<text x="30" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Aquasana Rhino EQ-1000</text>
+<text x="30" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">maker's flow rating</text>
+<rect x="260" y="374" width="280" height="18" fill="#0e7490"/>
+<text x="534" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#ffffff">7.0</text>
+<text x="266" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" font-style="italic" fill="#dc2626">not rated for chloramine</text>
+<line x1="260" y1="130" x2="260" y2="432" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="30" y="500" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Contact time used: 1.5 minutes for free chlorine; for chloramine, 10 minutes on standard carbon</text>
+<text x="30" y="519" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">(WQA) and about 3 minutes on catalytic carbon. One cubic foot of media is 7.48 gallons.</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="rrs-title rrs-desc">
+<title id="rrs-title">Replacement water softener resin selector by water source and chlorine</title>
+<desc id="rrs-desc">Selector for the best replacement water softener resin: city water at 0.2 mg/L chlorine or less takes standard 8 percent resin, above 0.2 mg/L takes 10 percent crosslink, near 2 mg/L or chloramine adds carbon ahead of it; clear well water takes standard resin, dissolved iron takes fine mesh, and rust or iron bacteria need an iron filter first.</desc>
+<defs>
+<marker id="rrs-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+<marker id="rrs-r" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+</defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="38" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Which replacement resin for your water</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Test at a tap before the softener, then pick the row that matches</text>
+<rect class="box" x="230" y="82" width="300" height="40" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="107" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Where does the water come from?</text>
+<path class="ln" d="M300,122 L200,150" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#rrs-a)"/>
+<path class="ln" d="M460,122 L560,150" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#rrs-a)"/>
+<rect class="box" x="30" y="156" width="340" height="36" rx="8" fill="#0b2f4a" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="200" y="180" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">City or utility water</text>
+<rect class="box" x="390" y="156" width="340" height="36" rx="8" fill="#0b2f4a" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="560" y="180" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#ffffff">Private well</text>
+<rect class="box" x="30" y="210" width="172" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="42" y="236" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Free chlorine at the tap</text>
+<text x="42" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">0.2 mg/L or less</text>
+<path class="ln" d="M202,241 L226,241" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#rrs-a)"/>
+<rect class="box" x="232" y="210" width="138" height="62" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="301" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Standard 8%</text>
+<text x="301" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">cheapest grade</text>
+<rect class="box" x="30" y="288" width="172" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="42" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Free chlorine above</text>
+<text x="42" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">0.2 mg/L</text>
+<path class="ln" d="M202,319 L226,319" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#rrs-a)"/>
+<rect class="box" x="232" y="288" width="138" height="62" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="301" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">10% crosslink</text>
+<text x="301" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">best for most cities</text>
+<rect class="box" x="30" y="366" width="172" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="42" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Near 2 mg/L or above,</text>
+<text x="42" y="411" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">or any chloramine</text>
+<path class="ln" d="M202,397 L226,397" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#rrs-a)"/>
+<rect class="box" x="232" y="366" width="138" height="62" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="301" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">10% + carbon</text>
+<text x="301" y="411" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">catalytic if chloramine</text>
+<rect class="box" x="390" y="210" width="172" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="402" y="236" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Clear water, no iron,</text>
+<text x="402" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">no chlorinator</text>
+<path class="ln" d="M562,241 L586,241" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#rrs-a)"/>
+<rect class="box" x="592" y="210" width="138" height="62" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="661" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Standard 8%</text>
+<text x="661" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">high capacity</text>
+<rect class="box" x="390" y="288" width="172" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="402" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Dissolved iron, no air</text>
+<text x="402" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">ahead of the softener</text>
+<path class="ln" d="M562,319 L586,319" fill="none" stroke="#3a5a72" stroke-width="3" marker-end="url(#rrs-a)"/>
+<rect class="box" x="592" y="288" width="138" height="62" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="661" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Fine mesh</text>
+<text x="661" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">lower backwash rate</text>
+<rect class="box" x="390" y="366" width="172" height="62" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="402" y="392" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Rust particles or</text>
+<text x="402" y="411" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">iron bacteria</text>
+<path class="ln" d="M562,397 L586,397" fill="none" stroke="#dc2626" stroke-width="3" marker-end="url(#rrs-r)"/>
+<rect class="box" x="592" y="366" width="138" height="62" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="661" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Iron filter first</text>
+<text x="661" y="411" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">no resin fixes this</text>
+<rect class="box" x="30" y="452" width="700" height="80" rx="8" fill="#fffbeb" stroke="#b45309" stroke-width="1.5"/>
+<text x="46" y="476" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Well with a chlorinator? Use the city column at the residual you measure.</text>
+<text x="46" y="498" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Quantity: buy the cubic feet your tank already holds (label or manual), not a number</text>
+<text x="46" y="517" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">worked back from the grain rating on the box.</text>
+</svg>

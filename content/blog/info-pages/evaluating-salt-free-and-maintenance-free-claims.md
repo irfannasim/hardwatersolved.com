@@ -103,6 +103,8 @@ Decoding is not the same as disbelieving. These signs mark a claim you can reaso
 - **It matches independent results.** A TAC scale-reduction figure near the WateReuse finding, or a softener capacity quoted at a stated salt dose, is in line with what testing shows.
 - **It states its own limits.** A salt-free seller who says "this will not stop spots on glass", or a softener seller who quotes the salt setting behind the capacity number, is usually being straight about the rest.
 
+Those four signs are how to shortlist actual products. [Choosing a salt-free conditioner by its published scale evidence and water limits](/blog/best-salt-free-water-conditioners/) grades units on them, and [comparing TAC media with a citric-acid system on scale control and cartridge cost](/blog/springwell-futuresoft-vs-nuvo-h2o/) shows the same checks applied to two very different designs.
+
 ## What No Marketing Claim Changes
 
 Whatever the brochure says, a few facts stay fixed.

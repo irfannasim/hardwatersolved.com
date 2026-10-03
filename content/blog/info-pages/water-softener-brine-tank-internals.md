@@ -89,7 +89,7 @@ On a float-controlled valve, every inch of float travel is salt. These three num
 
 ## Adjusting a Water Softener Brine Float Assembly
 
-This applies to float-controlled valves, and to resetting the safety float's height on a timed valve after a brine well or tank has been replaced.
+This applies to float-controlled valves, and to resetting the safety float's height on a timed valve after a brine well or tank has been replaced. If you are still [choosing a replacement brine tank whose well and float fit your valve](/blog/best-replacement-brine-tanks/), confirm those parts match before you buy.
 
 1. **Find the target in your manual.** For a dose-setting float that is a height or "A dimension" for your salt setting and tank. For a backstop float, the shutoff must sit clearly above the programmed refill level and clearly below the overflow elbow.
 2. **Put the softener in bypass** so no refill can start while your hands are in the well.

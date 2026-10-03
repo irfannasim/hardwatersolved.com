@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="hspr-title hspr-desc">
+<title id="hspr-title">Hydrogen sulfide levels: extension guidance vs filter seller ratings</title>
+<desc id="hspr-desc">Scale of hydrogen sulfide from 0 to 18 ppm comparing Penn State Extension's normal ranges for activated carbon, aeration, oxidizing filters and chlorination with the ratings sellers give three sulfur filters: 4, 10 and 17 ppm.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Seller ratings run well past the guidance</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Hydrogen sulfide, ppm (mg/L). Top: where Penn State says each method is normally used.</text>
+
+<text x="300" y="88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">2 ppm</text>
+<text x="400" y="88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">6 ppm</text>
+
+<text x="30" y="116" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Penn State guidance</text>
+<text x="240" y="143" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">Activated carbon</text>
+<rect x="250" y="130" width="25" height="18" fill="#0e7490"/>
+<text x="240" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">Aeration</text>
+<rect x="250" y="160" width="50" height="18" fill="#0e7490"/>
+<text x="240" y="203" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">Oxidizing filter</text>
+<rect x="250" y="190" width="75" height="18" fill="#0e7490"/>
+<text x="240" y="233" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">Chlorination</text>
+<rect x="250" y="220" width="150" height="18" fill="#a5d8e3"/>
+<rect x="400" y="220" width="300" height="18" fill="#0e7490"/>
+
+<text x="30" y="276" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Seller's rating (best case)</text>
+<text x="240" y="303" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">AFW Silver Series AIO</text>
+<rect x="250" y="290" width="100" height="18" fill="#52697a"/>
+<text x="240" y="333" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">AFW catalytic carbon 10</text>
+<rect x="250" y="320" width="250" height="18" fill="#52697a"/>
+<text x="240" y="363" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">Oceanic AIO 12x52</text>
+<rect x="250" y="350" width="425" height="18" fill="#52697a"/>
+
+<path class="ln" d="M300,96 L300,384" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="5 4"/>
+<path class="ln" d="M400,96 L400,384" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="5 4"/>
+
+<path class="ln" d="M250,384 L700,384" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M250,384 L250,390 M300,384 L300,390 M350,384 L350,390 M400,384 L400,390 M450,384 L450,390 M500,384 L500,390 M550,384 L550,390 M600,384 L600,390 M650,384 L650,390 M700,384 L700,390" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="300" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2</text>
+<text x="350" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">4</text>
+<text x="400" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6</text>
+<text x="450" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">8</text>
+<text x="500" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10</text>
+<text x="550" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">12</text>
+<text x="600" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">14</text>
+<text x="650" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">16</text>
+<text x="700" y="406" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">18</text>
+<text x="475" y="428" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Hydrogen sulfide, ppm</text>
+
+<text x="30" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Penn State: carbon under about 1 mg/L, aeration rarely above about 2, oxidizing filters up to 2 to 3;</text>
+<text x="30" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">chlorination works at any level (pale) and is most often used above 6. Seller ratings lean on the</text>
+<text x="30" y="500" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">media as well as air. Buy with margin below them, not at the line.</text>
+</svg>

@@ -87,7 +87,7 @@ A hardness strip alone cannot answer the question this page asks. You need a pan
 
 1. **Get the full panel.** Ask a certified lab for total hardness, iron, manganese, copper, pH, TDS, silica and, on city water, free and total chlorine. Many basic panels include hardness, iron and pH but not manganese or silica, so tick those boxes deliberately. On city water, your utility's annual water quality report will give chlorine or chloramine and often hardness. Check whether it reports hardness in mg/L or grains before you compare.
 2. **Convert hardness to grains.** Divide mg/L as CaCO₃ by 17.1. A reading of 380 mg/L is 22 gpg.
-3. **Pick the strictest sheet for the product you are pricing.** A OneFlow cartridge in front of a tankless heater lives by the 30-grain cartridge limit, not the 75-grain tank figure. A ScaleStop buyer on city water lives by the 0.5 ppm chlorine condition.
+3. **Pick the strictest sheet for the product you are pricing.** A OneFlow cartridge in front of a tankless heater lives by the 30-grain cartridge limit, not the 75-grain tank figure. A ScaleStop buyer on city water lives by the 0.5 ppm chlorine condition. If you are still choosing a product, [comparing salt-free conditioners on the water limits and scale evidence each publishes](/blog/best-salt-free-water-conditioners/) lets you start from the strictest column on your panel.
 4. **Mark every column where you exceed the limit.** One red column is enough to stop.
 5. **For each red column, price the fix.** An iron filter, a carbon tank or a polyphosphate feeder removal each change the cost, and sometimes the answer.
 

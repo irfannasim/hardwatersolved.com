@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 660" width="760" height="660" role="img" aria-labelledby="whf-title whf-desc">
+<title id="whf-title">Decision chart: best whole-house filter for hard water, by water test result</title>
+<desc id="whf-desc">Decision chart for choosing a whole-house filter for hard water: iron, manganese or sulfur, a wish for soft-feeling water, or hardness over 30 gpg all point to a softener; 15 to 30 gpg points to the Watts OneFlow Plus or NuvoH2O Home Duo; under 15 gpg any scale-control filter on the page fits.</desc>
+<defs><marker id="whf-ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="whf-an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="660" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Which whole-house filter can control your scale</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Start from a water test. Every pick conditions scale; none of them lowers the hardness reading.</text>
+
+<rect class="box" x="30" y="95" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Iron over 0.3 ppm, manganese over</text>
+<text x="195" y="144" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">0.05 ppm, or a rotten-egg smell?</text>
+<rect class="box" x="440" y="89" width="290" height="82" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
+<text x="585" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">None of these yet</text>
+<text x="585" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Treat iron and sulfur first,</text>
+<text x="585" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">or choose a softener</text>
+<path class="ln" d="M360,130 L436,130" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#whf-an)"/>
+<text x="400" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">Yes</text>
+<path class="ln" d="M195,165 L195,201" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#whf-an)"/>
+<text x="207" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="205" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Do you want slippery soft water</text>
+<text x="195" y="254" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">or spot-free glass and showers?</text>
+<rect class="box" x="440" y="199" width="290" height="82" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
+<text x="585" y="227" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">A water softener</text>
+<text x="585" y="245" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Only ion exchange removes</text>
+<text x="585" y="263" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">calcium and magnesium</text>
+<path class="ln" d="M360,240 L436,240" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#whf-an)"/>
+<text x="400" y="228" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">Yes</text>
+<path class="ln" d="M195,275 L195,311" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#whf-an)"/>
+<text x="207" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="315" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="355" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Hardness over 30 gpg?</text>
+<rect class="box" x="440" y="309" width="290" height="82" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
+<text x="585" y="337" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">A water softener</text>
+<text x="585" y="355" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Above every published</text>
+<text x="585" y="373" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">scale-control limit here</text>
+<path class="ln" d="M360,350 L436,350" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#whf-an)"/>
+<text x="400" y="338" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">Yes</text>
+<path class="ln" d="M195,385 L195,421" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#whf-an)"/>
+<text x="207" y="410" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="425" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="465" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Hardness 15 to 30 gpg?</text>
+<rect class="box" x="440" y="419" width="290" height="82" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="585" y="447" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Watts OneFlow Plus</text>
+<text x="585" y="465" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">rated to 30 gpg, or NuvoH2O</text>
+<text x="585" y="483" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Home Duo to 25 gpg</text>
+<path class="ln" d="M360,460 L436,460" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#whf-ag)"/>
+<text x="400" y="448" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<path class="ln" d="M195,495 L195,531" stroke="#0e7490" stroke-width="4" fill="none" marker-end="url(#whf-ag)"/>
+<text x="207" y="520" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">No: under 15 gpg</text>
+
+<rect class="box" x="30" y="535" width="700" height="90" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="380" y="563" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Any pick on this page fits. Choose on the other job:</text>
+<text x="380" y="585" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Chlorine taste is the priority: Aquasana Rhino with salt-free conditioner</text>
+<text x="380" y="607" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Lowest cost, mostly cold-water fixtures: iSpring WGB32B-DS or Express Water</text>
+</svg>

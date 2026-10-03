@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="crb-title crb-desc">
+<title id="crb-title">Culligan water softener rental vs buying: cumulative cost and crossover month</title>
+<desc id="crb-desc">Illustrative line chart over six years. Renting at $50 a month passes the cost of a $1,400 online softener installed by a plumber at about month 33, and the cost of an illustrative $2,500 Culligan dealer purchase at about month 59, with $7 a month of owner upkeep added to both purchases.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Rent at $50 a month vs buy: running total</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Illustrative. Purchases include $7 a month owner upkeep; salt is excluded on both sides.</text>
+<path d="M90,440 L620,440" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="80" y="445" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$0</text>
+<path d="M90,360 L620,360" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="80" y="365" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$1,000</text>
+<path d="M90,280 L620,280" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="80" y="285" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$2,000</text>
+<path d="M90,200 L620,200" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="80" y="205" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$3,000</text>
+<path d="M90,120 L620,120" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="80" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$4,000</text>
+<text x="90.0" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="178.3" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">12</text>
+<text x="266.7" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">24</text>
+<text x="355.0" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">36</text>
+<text x="443.3" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">48</text>
+<text x="531.7" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">60</text>
+<text x="620.0" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">72</text>
+<text x="355" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Months since installation</text>
+<path class="ln" d="M90.0,440.0 L620.0,152.0" stroke="#0b2f4a" stroke-width="5" fill="none"/>
+<path class="ln" d="M90.0,328.0 L620.0,287.7" stroke="#0e7490" stroke-width="5" fill="none"/>
+<path class="ln" d="M90.0,240.0 L620.0,199.7" stroke="#3a5a72" stroke-width="5" fill="none"/>
+<text x="630" y="157.0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Rent, $50/mo</text>
+<text x="630" y="196.7" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#3a5a72">Culligan buy</text>
+<text x="630" y="213.7" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">$2,500</text>
+<text x="630" y="284.7" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">Online buy</text>
+<text x="630" y="301.7" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">$1,400 installed</text>
+<circle cx="330.0" cy="309.6" r="7" fill="#ffffff" stroke="#15803d" stroke-width="3"/>
+<circle cx="517.7" cy="207.4" r="7" fill="#ffffff" stroke="#15803d" stroke-width="3"/>
+<text x="342.0" y="350" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#15803d">Month 33</text>
+<text x="342.0" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">online purchase now cheaper</text>
+<text x="507.7" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#15803d">Month 59</text>
+<text x="507.7" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">dealer purchase now cheaper</text>
+<text x="30" y="508" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#52697a">Flat rent assumed; any rate increase moves both crossovers earlier. Install fees on the rental are not included.</text>
+</svg>

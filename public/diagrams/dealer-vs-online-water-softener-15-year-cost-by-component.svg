@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="dvo-title dvo-desc">
+<title id="dvo-title">Dealer vs online water softener: 15-year cost by component</title>
+<desc id="dvo-desc">Illustrative 15-year cost of a dealer vs online water softener for a family of four on 15 gpg water: dealer system about $5,303, online softener with a hired plumber about $2,728, and online with a DIY install about $2,328, split into equipment, installation, service or parts, and salt.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">15-year cost by channel (illustrative)</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Family of four, 15 gpg, both softeners metered and set efficiently</text>
+<rect x="30" y="84" width="16" height="14" fill="#0b2f4a"/><text x="52" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Equipment (dealer: installed package)</text>
+<rect x="360" y="84" width="16" height="14" fill="#3a5a72"/><text x="382" y="96" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Installation</text>
+<rect x="30" y="106" width="16" height="14" fill="#94a3b8"/><text x="52" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Service visits or DIY parts</text>
+<rect x="360" y="106" width="16" height="14" fill="#7c3aed"/><text x="382" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Salt, 15 years</text>
+<text x="198" y="166" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Dealer system</text>
+<text x="198" y="184" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">installed package</text>
+<rect x="210.0" y="148" width="262.5" height="30" fill="#0b2f4a" stroke="#ffffff" stroke-width="1"/>
+<text x="341.3" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">$3,500</text>
+<rect x="472.5" y="148" width="45.0" height="30" fill="#94a3b8" stroke="#ffffff" stroke-width="1"/>
+<text x="495.0" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">$600</text>
+<rect x="517.5" y="148" width="90.2" height="30" fill="#7c3aed" stroke="#ffffff" stroke-width="1"/>
+<text x="562.6" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">$1,203</text>
+<text x="617.7" y="168" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$5,303</text>
+<text x="198" y="240" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Online + plumber</text>
+<text x="198" y="258" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">Fleck 5600SXT 48k</text>
+<rect x="210.0" y="222" width="58.1" height="30" fill="#0b2f4a" stroke="#ffffff" stroke-width="1"/>
+<text x="239.1" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">$775</text>
+<rect x="268.1" y="222" width="37.5" height="30" fill="#3a5a72" stroke="#ffffff" stroke-width="1"/>
+<text x="286.9" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">$500</text>
+<rect x="305.6" y="222" width="18.8" height="30" fill="#94a3b8" stroke="#ffffff" stroke-width="1"/>
+<rect x="324.4" y="222" width="90.2" height="30" fill="#7c3aed" stroke="#ffffff" stroke-width="1"/>
+<text x="369.5" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">$1,203</text>
+<text x="424.6" y="242" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$2,728</text>
+<text x="198" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Online, DIY install</text>
+<text x="198" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">same unit</text>
+<rect x="210.0" y="296" width="58.1" height="30" fill="#0b2f4a" stroke="#ffffff" stroke-width="1"/>
+<text x="239.1" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">$775</text>
+<rect x="268.1" y="296" width="7.5" height="30" fill="#3a5a72" stroke="#ffffff" stroke-width="1"/>
+<rect x="275.6" y="296" width="18.8" height="30" fill="#94a3b8" stroke="#ffffff" stroke-width="1"/>
+<rect x="294.4" y="296" width="90.2" height="30" fill="#7c3aed" stroke="#ffffff" stroke-width="1"/>
+<text x="339.5" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#ffffff">$1,203</text>
+<text x="394.6" y="316" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$2,328</text>
+<path class="ln" d="M210,346 L660,346" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M210,346 L210,352" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="210" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<path class="ln" d="M285,346 L285,352" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="285" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$1,000</text>
+<path class="ln" d="M360,346 L360,352" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="360" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$2,000</text>
+<path class="ln" d="M435,346 L435,352" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="435" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$3,000</text>
+<path class="ln" d="M510,346 L510,352" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="510" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$4,000</text>
+<path class="ln" d="M585,346 L585,352" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="585" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$5,000</text>
+<path class="ln" d="M660,346 L660,352" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<text x="660" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$6,000</text>
+<rect class="box" x="30" y="390" width="700" height="84" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="416" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">The dealer premium here: about $2,575 over 15 years, about $172 a year</text>
+<text x="380" y="438" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">It buys testing, sizing, installation, warranty labor and service visits.</text>
+<text x="380" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">A $2,500 quote cuts the gap to about $1,575; a $5,000 quote raises it to about $4,075.</text>
+</svg>

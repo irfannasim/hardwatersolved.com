@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="sfel-title sfel-desc">
+<title id="sfel-title">Evidence ladder for the best salt-free water conditioners</title>
+<desc id="sfel-desc">Five rungs of scale-reduction evidence for salt-free water conditioners, from a product-specific lab report at the top to a maker's own figure at the bottom, with NuvoH2O Manor, Watts OneFlow+ and Aquasana placed on the rung their documents reach and SpringWell and Aquasure excluded.</desc>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">How strong is each conditioner's scale evidence?</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Strongest evidence at the top. Each product sits on the best rung its maker's documents reach.</text>
+<rect class="box" x="30" y="88" width="250" height="74" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="119" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">A. Product test report</text>
+<text x="46" y="141" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Lab, protocol and water named</text>
+<rect class="box" x="296" y="88" width="434" height="74" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="312" y="119" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No pick reaches this rung</text>
+<text x="312" y="141" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Pelican cited a DVGW result; no certificate found</text>
+<rect class="box" x="30" y="176" width="250" height="74" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="207" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">B. Product study</text>
+<text x="46" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Maker-funded, method published</text>
+<rect class="box" x="296" y="176" width="434" height="74" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="312" y="207" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">NuvoH2O Manor (citric acid)</text>
+<text x="312" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Study with Battelle: tankless heaters on 15 gpg water</text>
+<rect class="box" x="30" y="264" width="250" height="74" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="295" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">C. Media type tested</text>
+<text x="46" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">DVGW W 512-based, not this unit</text>
+<rect class="box" x="296" y="264" width="434" height="74" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="312" y="295" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Watts OneFlow+ (crystal-forming media)</text>
+<text x="312" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Watts tank sheet: over 95%. ASU study of TAC: over 88%</text>
+<rect class="box" x="30" y="352" width="250" height="74" rx="8" fill="#f8fafc" stroke="#52697a" stroke-width="2"/>
+<text x="46" y="383" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">D. "Independently tested"</text>
+<text x="46" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">No lab, standard or figure</text>
+<rect class="box" x="296" y="352" width="434" height="74" rx="8" fill="#f8fafc" stroke="#52697a" stroke-width="1.5"/>
+<text x="312" y="383" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Aquasana Rhino + salt-free conditioner</text>
+<text x="312" y="405" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Limits published: 15 gpg, pH 8.3, iron 0.3 ppm</text>
+<rect class="box" x="30" y="440" width="250" height="74" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="471" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">E. Maker's own claim</text>
+<text x="46" y="493" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">No test or report behind it</text>
+<rect class="box" x="296" y="440" width="434" height="74" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="312" y="471" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Excluded: SpringWell FutureSoft, Aquasure Serene</text>
+<text x="312" y="493" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">"Up to 95%" with no report; no limits on the Serene page</text>
+<text x="30" y="548" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Rungs reflect the makers' documents as checked on 2 October 2026. A higher rung is better evidence,</text>
+<text x="30" y="566" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">not a guarantee of results on your water.</text>
+</svg>

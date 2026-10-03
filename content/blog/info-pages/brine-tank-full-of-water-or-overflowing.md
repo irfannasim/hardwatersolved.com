@@ -130,7 +130,7 @@ This is the part of the system whose only job is to stop the brine tank overflow
 
 **The hand test.** During a refill — or with the valve stepped to the refill stage — reach into the brine well and lift the float by hand. The flow into the tank should stop. If water keeps coming in, the shutoff is not working.
 
-**Resetting the height.** Most floats clip onto the rod at an adjustable position. The shutoff point should be comfortably below the overflow fitting. If you replaced the tank or brine well at any point, the float height may never have been set for the new geometry.
+**Resetting the height.** Most floats clip onto the rod at an adjustable position. The shutoff point should be comfortably below the overflow fitting. If you replaced the tank or brine well at any point, the float height may never have been set for the new geometry. A cracked brine well or a waterlogged float that cannot be cleaned is a parts job, and [matching a replacement brine tank and float to your valve](/blog/best-replacement-brine-tanks/) covers the dimensions that have to agree.
 
 **Why a working float can still hide a fault.** If the injector is not drawing, a healthy float will stop the tank at its shutoff level — full, but not overflowing. That is the float doing its job, and it means the real fault is Cause 1.
 

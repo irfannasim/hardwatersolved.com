@@ -108,7 +108,7 @@ If your pressure is marginal already, check the softener's rated pressure drop a
 
 ## Re-Bedding an Existing Softener With Fine Mesh
 
-Swapping standard resin for fine mesh during a re-bed is common, and usually done without the checks below. Work through them first:
+Swapping standard resin for fine mesh during a re-bed is common, and usually done without the checks below. Work through them first, then [choose the resin grade and the volume your tank needs](/blog/best-replacement-water-softener-resin/):
 
 1. **Test the water.** Confirm the iron is dissolved, check pH and manganese, and look for iron bacteria. If any of those fail, stop here and plan filtration.
 2. **Match the DLFC.** Ask the resin or valve supplier for the fine mesh flow control for your tank diameter, and fit it.

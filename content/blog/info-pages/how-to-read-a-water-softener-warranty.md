@@ -60,6 +60,8 @@ Sources: A. O. Smith's [softener owner's manual](https://www.aosmithatlowes.com/
 - **"Entire system: one year."** Hellenbrand lists longer terms for named parts, but the system as a whole is covered for one year. Anything not named falls under that.
 - **Conditional extensions.** Morton extends the one-year parts term to five years only if you use its own cleanser every four months and keep proof of purchase.
 
+If you are still choosing a softener, [comparing warranties across brands component by component](/blog/water-softener-warranties-compared/) applies the same reading to the wider market.
+
 ## The Seven Exclusions That Decide Most Claims
 
 | Exclusion | What the documents say | What it means for you |
@@ -80,7 +82,7 @@ The last row catches people out most. If a failed tank floods a finished basemen
 
 **Limited.** Under the federal Magnuson-Moss Warranty Act, a written warranty is either *full* or *limited*. The FTC's [businessperson's guide to federal warranty law](https://www.ftc.gov/business-guidance/resources/businesspersons-guide-federal-warranty-law) lists what a full warranty must do. It must serve anyone who owns the product during the term, provide service free of charge, and offer a replacement or refund if repair fails after a reasonable number of attempts. A warranty that falls short of any of those must be called limited. Every softener warranty we read was limited, which is why conditions like "original owner" and "labour excluded" are allowed.
 
-**Lifetime.** When a softener is sold with a "lifetime" warranty, read which parts it applies to, whose lifetime (yours, the product's, or the time you own the house), and what conditions sit behind it, such as dealer servicing or registration. A lifetime term on a tank is worth less than it sounds, because tanks rarely fail.
+**Lifetime.** When a softener is sold with a "lifetime" warranty, read which parts it applies to, whose lifetime (yours, the product's, or the time you own the house), and what conditions sit behind it, such as dealer servicing or registration. A lifetime term on a tank is worth less than it sounds, because tanks rarely fail. In-home dealer sales lean hardest on that word, and [comparing Culligan and RainSoft on warranty and total cost](/blog/culligan-vs-rainsoft/) shows what sits behind two such offers.
 
 **Implied warranties.** The same FTC guide says a seller who offers a written warranty cannot disclaim implied warranties, though a limited warranty may limit how long they last. That is what the "some states do not allow limitations on how long an implied warranty lasts" sentence is about. Your rights can vary by state.
 
@@ -112,7 +114,7 @@ The FTC says sellers must make written warranties available to buyers before pur
 8. **Is it the manufacturer's warranty or the dealer's?** A dealer's promise depends on the dealer staying in business.
 9. **Are valve parts sold openly,** or only through one dealer network? That decides repair costs once the warranty ends.
 
-Some of the answers are on the spec sheet rather than in the warranty, including the valve model, the tank size and the rated iron limit. [How to compare water softener spec sheets](/blog/how-to-compare-water-softener-spec-sheets/) shows where to find them.
+Some of the answers are on the spec sheet rather than in the warranty, including the valve model, the tank size and the rated iron limit. [How to compare water softener spec sheets](/blog/how-to-compare-water-softener-spec-sheets/) shows where to find them. A warranty covers defects, not a unit that proves wrong for your house, so also [check the return window and restocking fee](/blog/water-softener-return-policies/) before you order.
 
 ## Making a Claim That Gets Paid
 

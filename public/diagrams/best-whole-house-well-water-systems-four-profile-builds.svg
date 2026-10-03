@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" width="760" height="650" role="img" aria-labelledby="bwws-title bwws-desc">
+<title id="bwws-title">Best whole-house well water systems for four common well profiles</title>
+<desc id="bwws-desc">Four rows, one per well water profile: hard only, hard plus iron, acidic plus iron, and bacteria plus iron plus sulfur. Each row shows the treatment stages in order from the pressure tank to the taps, with the equipment cost and an illustrative fitted cost range for that whole-house well water system.</desc>
+<defs><marker id="bwws-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="650" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Four well water profiles, four complete builds</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Water flows left to right toward the taps. In build 4, chlorine is fed in ahead of the pressure tank.</text>
+<text x="30" y="102" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">1. Hard only</text>
+<text x="730" y="102" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">Kit about $1,000 · fitted $1,300 to $3,000</text>
+<text x="30" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Hardness 15 gpg · pH 7.4 · iron under 0.3 ppm · no bacteria</text>
+<rect class="box" x="30" y="136" width="94" height="50" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="77" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Spin-down</text>
+<text x="77" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">50 µm screen</text>
+<path class="ln" d="M126,161 L149,161" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwws-a)"/>
+<rect class="box" x="152" y="136" width="94" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="199" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="199" y="174" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">1.5 cu ft</text>
+<text x="30" y="228" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">2. Hard + iron</text>
+<text x="730" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">Kit about $1,300 · fitted $1,600 to $3,300</text>
+<text x="30" y="248" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Hardness 15 gpg · pH 7.2 · dissolved iron 2 ppm · no bacteria</text>
+<rect class="box" x="30" y="262" width="94" height="50" rx="6" fill="#fff7ed" stroke="#b45309" stroke-width="1.5"/>
+<text x="77" y="283" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Cartridge</text>
+<text x="77" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">iron filter</text>
+<path class="ln" d="M126,287 L149,287" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwws-a)"/>
+<rect class="box" x="152" y="262" width="94" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="199" y="283" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="199" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">fine mesh</text>
+<text x="30" y="354" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">3. Acidic + iron</text>
+<text x="730" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">Kit about $2,260 · fitted $2,700 to $5,300</text>
+<text x="30" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Hardness 8 gpg · pH 6.3 · dissolved iron 3 ppm</text>
+<rect class="box" x="30" y="388" width="94" height="50" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="77" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Calcite</text>
+<text x="77" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">neutralizer</text>
+<path class="ln" d="M126,413 L149,413" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwws-a)"/>
+<rect class="box" x="152" y="388" width="94" height="50" rx="6" fill="#fff7ed" stroke="#b45309" stroke-width="1.5"/>
+<text x="199" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Air-injection</text>
+<text x="199" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">iron filter</text>
+<path class="ln" d="M248,413 L271,413" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwws-a)"/>
+<rect class="box" x="274" y="388" width="94" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="321" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="321" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">set after test</text>
+<text x="386" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#15803d">Sample port between</text>
+<text x="386" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#15803d">neutralizer and softener</text>
+<text x="30" y="480" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">4. Bacteria + iron + sulfur</text>
+<text x="730" y="480" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">Kit about $5,440 · fitted $6,300 to $11,400</text>
+<text x="30" y="500" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Hardness 12 gpg · iron 4 ppm · hydrogen sulfide · coliform positive</text>
+<rect class="box" x="30" y="514" width="94" height="50" rx="6" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="77" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Chlorine</text>
+<text x="77" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">feed pump</text>
+<path class="ln" d="M126,539 L149,539" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwws-a)"/>
+<rect class="box" x="152" y="514" width="94" height="50" rx="6" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="199" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Mixing</text>
+<text x="199" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">tank</text>
+<path class="ln" d="M248,539 L271,539" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwws-a)"/>
+<rect class="box" x="274" y="514" width="94" height="50" rx="6" fill="#fff7ed" stroke="#b45309" stroke-width="1.5"/>
+<text x="321" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Filox</text>
+<text x="321" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">iron filter</text>
+<path class="ln" d="M370,539 L393,539" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwws-a)"/>
+<rect class="box" x="396" y="514" width="94" height="50" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="443" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Carbon</text>
+<text x="443" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">filter</text>
+<path class="ln" d="M492,539 L515,539" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwws-a)"/>
+<rect class="box" x="518" y="514" width="94" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="565" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="565" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">48k</text>
+<path class="ln" d="M614,539 L637,539" fill="none" stroke="#3a5a72" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bwws-a)"/>
+<rect class="box" x="640" y="514" width="94" height="50" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="687" y="535" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">5 µm + UV</text>
+<text x="687" y="552" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">VIQUA VH410</text>
+<rect x="30" y="596" width="16" height="16" rx="3" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="52" y="609" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">pH correction</text>
+<rect x="171.60000000000002" y="596" width="16" height="16" rx="3" fill="#fff7ed" stroke="#b45309" stroke-width="1.5"/>
+<text x="193.60000000000002" y="609" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Iron removal</text>
+<rect x="306" y="596" width="16" height="16" rx="3" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="328" y="609" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Chlorination</text>
+<rect x="440.4" y="596" width="16" height="16" rx="3" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="462.4" y="609" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Softening / UV</text>
+<rect x="589.2" y="596" width="16" height="16" rx="3" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="611.2" y="609" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Sediment / carbon</text>
+<text x="30" y="638" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Fitted range adds $150 to $1,000 of labour per stage (Fixr’s softener base-labour range). Illustrative.</text>
+</svg>

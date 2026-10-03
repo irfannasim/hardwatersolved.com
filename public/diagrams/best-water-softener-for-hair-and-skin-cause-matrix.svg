@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 474" width="760" height="474" role="img" aria-labelledby="hsm-title hsm-desc">
+<title id="hsm-title">Best water softener for hair and skin: setup by cause matrix</title>
+<desc id="hsm-desc">Matrix choosing the best water softener setup for hair and skin: hard water without chlorine needs a softener only, hard chlorinated water needs a softener plus carbon, chlorinated water that is not hard needs whole-house carbon, and water that is neither needs no equipment. Iron is treated first.</desc>
+<defs></defs>
+<rect width="760" height="474" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Hair and skin: match the setup to the cause</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Find your row from a hardness test and your column from the utility report.</text>
+<rect class="box" x="210" y="84" width="255" height="50" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="337" y="105" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">No chlorine or chloramine</text>
+<text x="337" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">most private wells</text>
+<rect class="box" x="475" y="84" width="255" height="50" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="602" y="105" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Chlorinated city water</text>
+<text x="602" y="124" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">chlorine or chloramine</text>
+<rect class="box" x="30" y="144" width="170" height="110" rx="6" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/>
+<text x="46" y="192" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#c2410c">Hard water</text>
+<text x="46" y="212" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">above 7 gpg</text>
+<rect class="box" x="30" y="264" width="170" height="110" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="312" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Not hard</text>
+<text x="46" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">7 gpg or below</text>
+<rect class="box" x="210" y="144" width="255" height="110" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="226" y="174" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">Softener only</text>
+<text x="226" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">e.g. SoftPro Elite 48k</text>
+<text x="226" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Carbon adds nothing</text>
+<text x="226" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">when there is no chlorine</text>
+<rect class="box" x="475" y="144" width="255" height="110" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="491" y="174" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">Softener + carbon</text>
+<text x="491" y="200" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">e.g. Fleck 5600SXT 48k</text>
+<text x="491" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">with backwashing carbon</text>
+<text x="491" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Carbon first, then resin</text>
+<rect class="box" x="210" y="264" width="255" height="110" rx="6" fill="#ffffff" stroke="#52697a" stroke-width="2"/>
+<text x="226" y="294" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">No equipment</text>
+<text x="226" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Check shower heat, soap</text>
+<text x="226" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">dose and skin conditions</text>
+<text x="226" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">before buying anything</text>
+<rect class="box" x="475" y="264" width="255" height="110" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="491" y="294" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">Whole-house carbon</text>
+<text x="491" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">e.g. Aquasana Rhino</text>
+<text x="491" y="340" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Or test a shower filter</text>
+<text x="491" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">first; no softener needed</text>
+<rect class="box" x="30" y="390" width="700" height="54" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="46" y="413" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#dc2626">Iron or manganese in the test? Treat that first.</text>
+<text x="46" y="433" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Iron tints light hair orange, and a softener alone does not fix it.</text>
+</svg>

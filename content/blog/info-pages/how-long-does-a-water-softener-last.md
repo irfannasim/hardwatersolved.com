@@ -87,7 +87,7 @@ Oxidation and fouling are different kinds of damage. Chlorine breaks the cross-l
 
 Fibreglass-wrapped mineral tanks and polyethylene brine tanks have no wear-out mechanism in a heated indoor room. They fail from events: a freeze, a pressure spike, a vacuum that collapses a liner, a knock from a lawn mower in a garage, or years of sun on an outdoor unit.
 
-The warranty documents show how confident makers are about this. A.O. Smith's softener manual covers mechanical and electronic parts for five years but the media tank and brine cabinet for ten, and [excludes the media altogether](https://www.aosmithatlowes.com/media/1670/ao-wh-soft-300_ownersmanual.pdf). Other published terms follow the same pattern. Tanks carry the longest coverage, and the resin gets the least, either a short "all other parts" term or none at all.
+The warranty documents show how confident makers are about this. A.O. Smith's softener manual covers mechanical and electronic parts for five years but the media tank and brine cabinet for ten, and [excludes the media altogether](https://www.aosmithatlowes.com/media/1670/ao-wh-soft-300_ownersmanual.pdf). Other published terms follow the same pattern, as the [component-by-component warranty terms in the EcoPure review](/blog/ecopure-water-softener-review/) show for one retail range. Tanks carry the longest coverage, and the resin gets the least, either a short "all other parts" term or none at all.
 
 The exclusions in those same documents list what actually kills tanks:
 
@@ -124,7 +124,7 @@ Same box, same install date, and a decade apart in life. The difference is the w
 Because each part can be replaced, a softener rarely dies outright. People replace the whole unit when one of these is true:
 
 1. **Two clocks run out together.** The resin is spent and the valve needs a rebuild in the same year. Paying for both often costs close to a new unit.
-2. **The parts are gone.** An obsolete or proprietary valve with no seal kits available turns a routine repair into a replacement. Before buying a retail cabinet unit, check who supplies its parts; [the Whirlpool review traces who makes and warrants those softeners](/blog/whirlpool-water-softener-review/).
+2. **The parts are gone.** An obsolete or proprietary valve with no seal kits available turns a routine repair into a replacement. Before buying a retail cabinet unit, check who supplies its parts; [the Whirlpool review traces who makes and warrants those softeners](/blog/whirlpool-water-softener-review/), and [comparing Whirlpool and GE on parts availability and warranty](/blog/whirlpool-vs-ge-water-softener/) shows how far two similar-looking cabinets can differ.
 3. **It is a timer model.** Older clock-based units regenerate on a schedule whether or not the resin is used up. A modern demand-initiated unit regenerates only when needed. Over years, the salt and water saved can change the arithmetic, which is the subject of [whether to repair or replace an old water softener](/blog/repair-or-replace-an-old-water-softener/).
 4. **The household or the water changed.** A unit sized for two people on 10 gpg water is wrong for five people on 25 gpg, however healthy it is.
 5. **A tank failed.** A bulging or cracked mineral tank is replaced, and at that point the valve and resin usually go with it.

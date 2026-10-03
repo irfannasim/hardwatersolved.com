@@ -53,7 +53,7 @@ Four common goals depend on removing that hardness, so a conditioner cannot meet
 
 **4. A hardness test that reads near zero.** Test strips and titration kits measure dissolved hardness. After a conditioner, the reading will be about the same as before, because the minerals are still there. If you, a home inspector or a buyer will judge the system by a test kit, it will look as though it is not working.
 
-The honest summary: a salt-free conditioner addresses scale on hot surfaces and in pipes. It does not address the hard-water symptoms you notice every day.
+The honest summary: a salt-free conditioner addresses scale on hot surfaces and in pipes. It does not address the hard-water symptoms you notice every day. If a whole-house softener is also off the table, [matching a narrower alternative to the one symptom that bothers you](/blog/water-softener-alternatives/) is the better route.
 
 ## Water Disqualifiers: Chemistry That Defeats the Media
 

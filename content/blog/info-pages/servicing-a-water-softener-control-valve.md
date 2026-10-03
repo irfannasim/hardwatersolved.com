@@ -167,6 +167,8 @@ None of these three manuals gives a torque figure for the parts you touch in a r
 - **Parts are no longer made** for a proprietary valve.
 - **Several things are failing at once**, such as motor, board and resin. Price the whole system before you rebuild piece by piece.
 
+Replacing the valve does not have to mean replacing the softener. [Choosing a replacement head that matches your tank's thread and riser](/blog/best-water-softener-replacement-valves/) keeps a sound tank and resin in service.
+
 If you do replace, the two valves serviced above are where most buyers land. The [Fleck 5600SXT review compares what four complete softeners built on it actually ship](/blog/fleck-5600sxt-review/), and the [Clack WS1 review covers its programming menus and what its service parts cost](/blog/clack-ws1-water-softener-review/).
 
 If the job gets beyond what you want to take on, [calling a water softener technician](/blog/when-to-call-a-water-softener-technician/) with the valve model and the symptom already identified shortens the visit.

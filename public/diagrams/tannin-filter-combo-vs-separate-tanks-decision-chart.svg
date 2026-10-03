@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="tds-title tds-desc">
+<title id="tds-title">Decision chart: best tannin filter, combo tank or separate tanks</title>
+<desc id="tds-desc">Decision chart for choosing a tannin filter. A glass test showing sediment means iron, not tannin. Low pH or low alkalinity needs a neutralizer first. Hardness over 15 gpg, iron over 3 ppm, alkalinity over 250 ppm or tannin over 3 ppm calls for a softener followed by a separate tannin tank. Otherwise a combination tannin softener fits.</desc>
+<defs>
+<marker id="tds-ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<marker id="tds-an" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker>
+<marker id="tds-ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+</defs>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Which tannin filter: combo tank or separate tanks?</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Work down and stop at the first yes</text>
+
+<rect class="box" x="30" y="90" width="330" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">24-hour glass test: colour settles</text>
+<text x="195" y="142" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">as sediment, or stains a filter?</text>
+<rect class="box" x="440" y="90" width="290" height="76" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="585" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Not tannin: iron or manganese</text>
+<text x="585" y="142" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Buy an iron filter instead</text>
+<path class="ln" d="M360,128 L434,128" stroke="#dc2626" stroke-width="5" fill="none" marker-end="url(#tds-ar)"/>
+<text x="398" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Yes</text>
+<path class="ln" d="M195,166 L195,200" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#tds-an)"/>
+<text x="207" y="190" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="206" width="330" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">pH below about 6.8, or</text>
+<text x="195" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">alkalinity under about 50 ppm?</text>
+<rect class="box" x="440" y="206" width="290" height="76" rx="8" fill="#f1f5f9" stroke="#52697a" stroke-width="2"/>
+<text x="585" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Neutralizer first</text>
+<text x="585" y="258" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">then softener, then tannin tank</text>
+<path class="ln" d="M360,244 L434,244" stroke="#52697a" stroke-width="5" fill="none" marker-end="url(#tds-an)"/>
+<text x="398" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">Yes</text>
+<path class="ln" d="M195,282 L195,316" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#tds-an)"/>
+<text x="207" y="306" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="322" width="330" height="96" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="352" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Hardness over 15 gpg, iron over</text>
+<text x="195" y="372" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">3 ppm, alkalinity over 250 ppm,</text>
+<text x="195" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">or tannin over 3 ppm?</text>
+<rect class="box" x="440" y="322" width="290" height="96" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="585" y="352" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Separate tanks</text>
+<text x="585" y="372" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Softener first, tannin tank after;</text>
+<text x="585" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">iron filter ahead if iron is high</text>
+<path class="ln" d="M360,370 L434,370" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#tds-ag)"/>
+<text x="398" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<path class="ln" d="M195,418 L195,452" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#tds-an)"/>
+<text x="207" y="442" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="458" width="330" height="76" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="490" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Peak flow regularly</text>
+<text x="195" y="510" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">above 8 gpm?</text>
+<rect class="box" x="440" y="458" width="290" height="76" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="585" y="490" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Combo tank, 1.5 or 2.0 cu ft</text>
+<text x="585" y="510" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">for 10 or 12 gpm of flow</text>
+<path class="ln" d="M360,496 L434,496" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#tds-ag)"/>
+<text x="398" y="484" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<path class="ln" d="M195,534 L195,568" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#tds-an)"/>
+<text x="207" y="558" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+
+<rect class="box" x="30" y="574" width="700" height="50" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="380" y="605" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Combo tank, 1.0 cu ft: enough softening for three days in most homes</text>
+</svg>

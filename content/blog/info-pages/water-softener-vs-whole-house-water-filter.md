@@ -55,7 +55,7 @@ Cartridge filters look different: a clear or opaque housing with a replaceable c
 These are the naming patterns that cause most wrong purchases:
 
 - **"Salt-free water softener."** Usually a template-assisted crystallization (TAC) conditioner, sometimes just a carbon filter. It adds no salt because it removes no hardness. TAC media changes how calcium behaves so it is less likely to form scale, but a hardness test after the unit reads the same as before. Scale-reduction devices are tested under their own protocols, such as Germany's DVGW W 512, not under the softener standard.
-- **"Whole house filtration system."** Some of these are a carbon tank plus a softener tank sold as one package. That can be a perfectly good system. But if you are comparing it with a plain carbon filter, you are comparing one unit with two.
+- **"Whole house filtration system."** Some of these are a carbon tank plus a softener tank sold as one package. That can be a perfectly good system. But if you are comparing it with a plain carbon filter, you are comparing one unit with two. If you want one package that handles both, [check which whole-house filters carry a real scale-control stage](/blog/best-whole-house-filter-for-hard-water/) before buying.
 - **"Filter-softener combo" in one tank.** A layer of carbon or other media sits on top of softener resin. It softens, but the thin carbon layer has far less contact time than a dedicated carbon tank, so chlorine performance is limited.
 - **"Water conditioner."** Older softener marketing used this word for true softeners. Newer marketing uses it for salt-free devices. On its own, the word tells you nothing.
 - **"Descaler," electronic or magnetic units.** Neither a softener nor a filter. Nothing is removed from the water.

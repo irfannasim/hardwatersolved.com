@@ -110,7 +110,7 @@ Given all that, there are still situations where a descaler is a reasonable purc
 - **You cannot install a softener.** A rental, a condo with no drain access, or a home where the main line is in a finished wall. A coil needs no plumbing work and moves with you.
 - **Your hardness is moderate and your concern is one appliance.** A single water heater on 8 to 12 gpg water, where "less and softer scale" is a meaningful win.
 - **Local rules restrict brine discharge.** Some areas limit or ban self-regenerating softeners, which removes the best-performing option.
-- **You accept an uncertain result for a low price.** At a few hundred dollars and pennies a year to run, some people treat it as a low-cost experiment and track the heater to see what happens.
+- **You accept an uncertain result for a low price.** At a few hundred dollars and pennies a year to run, some people treat it as a low-cost experiment and track the heater to see what happens. If that is your plan, [pick a unit with a long refund window and claims you can check](/blog/best-electronic-water-descalers/).
 
 It is the wrong purchase when you want what soft water does: spot-free glass, less soap, softer laundry, a slippery feel. It is also the wrong purchase on very hard well water (roughly 20 gpg and above), or when iron or manganese is present. Neither a coil nor a magnet addresses those, and scale loads at that level overwhelm a partial reduction.
 
@@ -134,7 +134,7 @@ A few checks separate a seller making careful claims from one making impossible 
 - **"Softens water" or "removes hardness."** This is a red flag. The device cannot do it, and a seller who says so either does not understand the product or is counting on you not testing.
 - **"Tested by an independent lab."** Ask which lab, which protocol (DVGW W 512 is the recognised one for scale devices), and for the report itself rather than a summary.
 - **A certification logo.** NSF/ANSI 44 is the standard for ion-exchange softeners, not for coils or magnets, so a descaler showing a softener certification badge deserves a hard look. Ask exactly which standard the device is listed to. A listing claim you cannot find in a public database is marketing. Our guide on [how to verify a softener certification](/blog/how-to-verify-a-softener-certification/) shows how to check any logo in a couple of minutes.
-- **A money-back window.** Scale builds over months. A 30-day guarantee expires long before you could tell whether anything changed. Look for 12 months or more.
+- **A money-back window.** Scale builds over months. A 30-day guarantee expires long before you could tell whether anything changed. Look for 12 months or more. [Comparing Eddy and ScaleBlaster on hardness limit, refund window and warranty](/blog/eddy-vs-scaleblaster/) runs these checks on the two best-known clamp-on units.
 
 ## What to Do Next
 

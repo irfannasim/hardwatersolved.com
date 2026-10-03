@@ -88,7 +88,7 @@ How to tell what you have:
 - **Test before and after** with a strip on a new cartridge and again halfway through its life. Resin cartridges show a drop at first that fades.
 - **Watch the kettle.** If it still furs up at the same rate on filtered water, the filter is not doing anything useful for hardness.
 
-The CDC's overview of [home water treatment systems](https://www.cdc.gov/drinking-water/about/about-home-water-treatment-systems.html) sets out the division: filters remove particles and some chemicals, while water softeners are the systems that "remove minerals, primarily calcium and magnesium, from water". A pitcher is also a point-of-use device. Even one that softens does nothing for the shower, the laundry or the water heater.
+The CDC's overview of [home water treatment systems](https://www.cdc.gov/drinking-water/about/about-home-water-treatment-systems.html) sets out the division: filters remove particles and some chemicals, while water softeners are the systems that "remove minerals, primarily calcium and magnesium, from water". A pitcher is also a point-of-use device. Even one that softens does nothing for the shower, the laundry or the water heater. Whole-house filters mostly share the same limit, so [checking whether a whole-house filter has a genuine scale-control stage](/blog/best-whole-house-filter-for-hard-water/) matters before you buy one for hard water.
 
 ## Claim 3: My Water Heater Softens the Water
 

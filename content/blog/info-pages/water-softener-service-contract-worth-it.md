@@ -64,7 +64,7 @@ If you reach the bottom, the contract is paying for work you could do yourself.
 
 ## The Arithmetic: What You Are Really Paying For
 
-Contract prices vary by region and company, so use the price on your own quote. The method works for any price.
+Contract prices vary by region and company, so use the price on your own quote. The method works for any price. If the service is folded into monthly payments, as it often is in [a RainSoft quote and its cash equivalent](/blog/rainsoft-water-softener-cost/), separate the service share from the equipment first.
 
 **Step 1. Take out what you would spend anyway.** An owner doing the schedule spends about $25 a year on test strips, resin cleaner and small parts, plus salt. Salt costs the same either way unless the contract includes it.
 
@@ -106,7 +106,7 @@ In practice:
 - **If it names a specific company and that service is not free,** ask the warrantor to confirm the requirement in writing before you pay for a contract to satisfy it.
 - **If a contract comes free for the warranty period,** take it. Then decide on renewal using the four questions.
 
-How to read the coverage, exclusions and claim terms of a softener warranty is covered in [how to read a water softener warranty](/blog/how-to-read-a-water-softener-warranty/).
+How to read the coverage, exclusions and claim terms of a softener warranty is covered in [how to read a water softener warranty](/blog/how-to-read-a-water-softener-warranty/). If you are choosing between two dealers, [Culligan's and EcoWater's warranty clauses quoted side by side](/blog/culligan-vs-ecowater/) show what each still charges for service.
 
 ### Owners who cannot do the work
 
@@ -129,7 +129,7 @@ The FTC's advice on [extended warranties and service contracts](https://consumer
 7. **Does it renew automatically,** and what does it cost to cancel?
 8. **Does it transfer if you sell the house,** or end without a refund?
 
-A contract with a short task list, labour only, resin and valve excluded, and automatic renewal is a thin contract. It is paying someone to clean a brine tank once a year.
+A contract with a short task list, labour only, resin and valve excluded, and automatic renewal is a thin contract. It is paying someone to clean a brine tank once a year. The questions work best on two quotes at once, as in [comparing a Culligan and a Kinetico dealer quote line by line](/blog/culligan-vs-kinetico/).
 
 ## What No Contract Changes
 

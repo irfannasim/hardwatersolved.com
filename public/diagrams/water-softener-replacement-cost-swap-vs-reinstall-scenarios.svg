@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="wrs-title wrs-desc">
+<title id="wrs-title">Water softener replacement cost by scenario, DIY and professional</title>
+<desc id="wrs-desc">Illustrative range chart. Resin only costs 180 to 330 dollars DIY or 480 to 930 by a pro. Valve only costs 290 to 400 DIY or 580 to 880 by a pro. A like-for-like swap into existing plumbing costs 660 to 915 DIY or 910 to 1,570 by a pro. A full reinstall with a new loop, drain and outlet costs 1,310 to 2,970, and an upgrade swap with a premium softener and carbon prefilter 2,070 to 3,070.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What a replacement costs depends on what changes</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative ranges; 48,000-grain class softener, prices checked 2 October 2026</text>
+
+<text x="30" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">1. Resin only</text>
+<text x="30" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">valve and tanks stay</text>
+<rect x="281" y="100" width="17" height="16" fill="#0e7490"/>
+<text x="306" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0e7490">DIY $180–$330</text>
+<rect x="315" y="122" width="51" height="16" fill="#3a5a72"/>
+<text x="375" y="135" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Pro $480–$930</text>
+
+<text x="30" y="178" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">2. Valve only</text>
+<text x="30" y="196" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">new head on the old tank</text>
+<rect x="293" y="166" width="13" height="16" fill="#0e7490"/>
+<text x="314" y="179" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0e7490">DIY $290–$400</text>
+<rect x="326" y="188" width="34" height="16" fill="#3a5a72"/>
+<text x="369" y="201" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Pro $580–$880</text>
+
+<text x="30" y="244" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">3. Like-for-like swap</text>
+<text x="30" y="262" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">loop, drain, outlet reused</text>
+<rect x="335" y="232" width="29" height="16" fill="#0e7490"/>
+<text x="373" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0e7490">DIY $660–$915</text>
+<rect x="364" y="254" width="75" height="16" fill="#3a5a72"/>
+<text x="448" y="267" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Pro $910–$1,570</text>
+
+<text x="30" y="310" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">4. Full reinstall</text>
+<text x="30" y="328" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">new loop, drain run, outlet</text>
+<rect x="410" y="309" width="189" height="16" fill="#3a5a72"/>
+<text x="608" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">$1,310–$2,970</text>
+
+<text x="30" y="376" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">5. Upgrade swap</text>
+<text x="30" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">premium unit, carbon prefilter</text>
+<rect x="497" y="375" width="114" height="16" fill="#3a5a72"/>
+<text x="619" y="388" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">$2,070–$3,070</text>
+
+<path class="ln" d="M260,426 L700,426" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M260,426 L260,433" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M374,426 L374,433" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M489,426 L489,433" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M603,426 L603,433" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="260" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<text x="374" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$1,000</text>
+<text x="489" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$2,000</text>
+<text x="603" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$3,000</text>
+
+<rect x="30" y="472" width="14" height="14" fill="#0e7490"/>
+<text x="52" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">do it yourself</text>
+<rect x="190" y="472" width="14" height="14" fill="#3a5a72"/>
+<text x="212" y="484" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">professional, labor at $100 an hour plus a service call</text>
+<text x="30" y="508" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Reusing the plumbing avoids roughly $400 to $1,400 of the work a first install pays for.</text>
+</svg>

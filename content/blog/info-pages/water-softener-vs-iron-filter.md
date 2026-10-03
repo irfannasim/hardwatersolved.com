@@ -46,7 +46,7 @@ This page is the decision and its cost. How to identify the form of your iron is
 
 The row that decides most cases is the one for oxidized iron. A softener has no way of dealing with particles. It can only strain them out, and they foul the resin. [Penn State Extension](https://extension.psu.edu/iron-and-manganese-in-private-water-systems) is explicit that oxidized iron and manganese will foul softener resin, and that raw water must not contact air or chlorine before it reaches the softener.
 
-"Iron filter" covers several designs: greensand and other manganese-oxide media, air-oxidation units, and chlorine-fed systems. They differ in cost and upkeep, but for this decision they all do the same job. They take iron out and leave the hardness behind.
+"Iron filter" covers several designs: greensand and other manganese-oxide media, air-oxidation units, and chlorine-fed systems. They differ in cost and upkeep, but for this decision they all do the same job. They take iron out and leave the hardness behind. Which design fits a given iron level, form and pH is covered in [choosing an iron filter type from your test result](/blog/best-iron-filters-for-well-water/).
 
 ## The Decision Matrix: Four Possible Answers
 

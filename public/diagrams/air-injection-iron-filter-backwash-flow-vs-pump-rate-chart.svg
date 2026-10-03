@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 530" width="760" height="530" role="img" aria-labelledby="aibw-title aibw-desc">
+<title id="aibw-title">Air injection iron filter backwash flow compared with well pump rate</title>
+<desc id="aibw-desc">Bar chart of the minimum backwash flow sellers list for air injection iron filters, from 4 gpm for a 10-inch Katalox-type tank to 10 gpm for Oceanic's 12x52, with a 10-inch softener at 2.5 gpm for comparison. Dashed lines mark example sustained pump rates of 5 and 8 gpm.</desc>
+<rect width="760" height="530" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Can your well pump backwash it?</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Minimum backwash flow from each seller's page. A bar past your pump's line will not wash clean.</text>
+
+<text x="430" y="84" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">5 gpm pump</text>
+<text x="538" y="84" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">8 gpm pump</text>
+
+<text x="240" y="110" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#52697a">Softener, 10-inch tank</text>
+<text x="240" y="126" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">for comparison (Pentair)</text>
+<rect x="250" y="100" width="90" height="24" fill="#cbd5e1"/>
+<text x="730" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#52697a">2.5 gpm</text>
+
+<text x="240" y="154" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">AFW Titanium 10</text>
+<text x="240" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">10x54, KL media</text>
+<rect x="250" y="144" width="144" height="24" fill="#0e7490"/>
+<text x="730" y="161" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">4 gpm</text>
+
+<text x="240" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">AFW Silver 10</text>
+<text x="240" y="214" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">10x54, Filter Ag Plus</text>
+<rect x="250" y="188" width="180" height="24" fill="#0e7490"/>
+<text x="730" y="205" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">5 gpm</text>
+
+<text x="240" y="242" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">AFW Gold 15</text>
+<text x="240" y="258" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">12x52, catalytic carbon</text>
+<rect x="250" y="232" width="230" height="24" fill="#0e7490"/>
+<text x="730" y="249" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">6.4 gpm</text>
+
+<text x="240" y="286" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">AFW Platinum 10</text>
+<text x="240" y="302" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">10x54, Filox</text>
+<rect x="250" y="276" width="234" height="24" fill="#0e7490"/>
+<text x="730" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">6.5 gpm</text>
+
+<text x="240" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">Oceanic AIO 10x54</text>
+<text x="240" y="346" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">5600SXT, filter media</text>
+<rect x="250" y="320" width="252" height="24" fill="#0e7490"/>
+<text x="730" y="337" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">7 gpm</text>
+
+<text x="240" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">Oceanic AIO 12x52</text>
+<text x="240" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">catalytic carbon</text>
+<rect x="250" y="364" width="360" height="24" fill="#0e7490"/>
+<text x="730" y="381" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">10 gpm</text>
+
+<path class="ln" d="M430,94 L430,404" fill="none" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+<path class="ln" d="M538,94 L538,404" fill="none" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+
+<path class="ln" d="M250,404 L682,404" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M250,404 L250,410 M322,404 L322,410 M394,404 L394,410 M466,404 L466,410 M538,404 L538,410 M610,404 L610,410 M682,404 L682,410" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="322" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2</text>
+<text x="394" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">4</text>
+<text x="466" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6</text>
+<text x="538" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">8</text>
+<text x="610" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10</text>
+<text x="682" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">12</text>
+<text x="466" y="448" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Minimum backwash flow, gpm</text>
+
+<text x="30" y="482" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Dashed lines are examples, not typical figures: measure your pump's sustained flow with a bucket.</text>
+<text x="30" y="500" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">AFW's figures are for its 1 cu ft systems; larger tanks need more. Leave headroom for a tap</text>
+<text x="30" y="518" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">running during the cycle.</text>
+</svg>

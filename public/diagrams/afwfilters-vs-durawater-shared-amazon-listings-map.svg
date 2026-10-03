@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="avd-title avd-desc">
+<title id="avd-title">AFWFilters vs DuraWater: Amazon listings named on both sellers' own pages</title>
+<desc id="avd-desc">Map of the Amazon ASINs that AFWFilters' store pages and DuraWater's website pages name for their 48,000-grain Fleck 5600SXT softeners, showing three listings that appear on, or are branded for, both sellers.</desc>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#0b2f4a">Which Amazon listings each seller's own site names</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">48,000-grain Fleck 5600SXT pages, checked 2 October 2026</text>
+<rect class="box" x="30" y="100" width="250" height="136" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">AFWFilters store page</text>
+<text x="44" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">48k, standard 8% resin</text>
+<text x="44" y="164" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">B004GEFKN8</text>
+<text x="44" y="184" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">B000GBZ2P6</text>
+<text x="44" y="204" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">B00OGN3162</text>
+<text x="44" y="224" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">B004LYGBWM</text>
+<rect class="box" x="30" y="256" width="250" height="116" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="278" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">AFWFilters store page</text>
+<text x="44" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Iron Pro 48k, fine mesh</text>
+<text x="44" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">B075ZFYTNH</text>
+<text x="44" y="340" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">B075ZJ21TK</text>
+<text x="44" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">B0761Y6G1K</text>
+<rect class="box" x="30" y="392" width="250" height="76" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="44" y="414" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">AFWFilters store page</text>
+<text x="44" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">48k, 10% crosslink resin</text>
+<text x="44" y="456" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">B00YFOTWZG</text>
+<rect class="box" x="480" y="100" width="250" height="76" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="494" y="122" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">DuraWater site page</text>
+<text x="494" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Pentair Fleck 48,000 grain</text>
+<text x="494" y="164" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">B00OGN3162</text>
+<rect class="box" x="480" y="196" width="250" height="76" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="494" y="218" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">DuraWater site page</text>
+<text x="494" y="236" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">48,000 grain Iron Blaster</text>
+<text x="494" y="260" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">B004LYGBWM</text>
+<rect class="box" x="480" y="292" width="250" height="76" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="494" y="314" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Amazon listing title</text>
+<text x="494" y="332" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">DuraWater 48K, fine mesh resin</text>
+<text x="494" y="356" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">B0761Y6G1K</text>
+<rect class="box" x="480" y="392" width="250" height="76" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="494" y="414" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">DuraWater site page</text>
+<text x="494" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">48,000 grain softener</text>
+<text x="494" y="456" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">B00MYEV6VC, B01M19XLGE</text>
+<path class="ln" d="M280,199 L480,159" fill="none" stroke="#0e7490" stroke-width="3"/>
+<path class="ln" d="M280,219 L480,255" fill="none" stroke="#0e7490" stroke-width="3"/>
+<path class="ln" d="M280,355 L480,351" fill="none" stroke="#0e7490" stroke-width="3"/>
+<text x="30" y="506" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Teal lines: the same Amazon listing appears on, or carries the name of, both sellers.</text>
+<text x="30" y="530" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">On Amazon, read Ships from and Sold by before you compare prices.</text>
+</svg>

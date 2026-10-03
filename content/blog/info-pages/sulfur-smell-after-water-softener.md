@@ -135,6 +135,8 @@ If the raw water genuinely contains hydrogen sulfide, the treatment is chosen on
 | Above 6 mg/L | Continuous oxidation then filtration | Chlorine or another oxidiser plus a filter |
 | Any level with iron or manganese | Oxidation and filtration sized for all three | One system, correctly sequenced |
 
+In the middle band, and wherever iron or manganese come with the sulfide, [an air injection filter that oxidises all three without chemicals](/blog/best-air-injection-iron-filters/) is the usual choice, provided the well can supply its backwash.
+
 **The ordering rule that matters more than the choice of method: sulfide treatment goes ahead of the softener, always.** There are two reasons, and both are expensive to learn the hard way.
 
 1. Sulfide corrodes and fouls resin. Anything that removes it upstream extends the life of the bed.
@@ -168,7 +170,7 @@ Also worth knowing what the water is, chemically, before you treat it: high sulf
 4. **Test the raw water** for hydrogen sulfide, sulfate, iron, manganese, pH and coliform bacteria. All six.
 5. **Sanitise the softener and clean the brine tank** if the evidence points at the bed — then time how long the improvement lasts.
 6. **Smell returns within a month?** Shock chlorinate the well and retest for bacteria.
-7. **Sulfide confirmed in the raw water?** Choose treatment on concentration: carbon, aeration or oxidation plus filtration.
+7. **Sulfide confirmed in the raw water?** Choose treatment on concentration: carbon, aeration or oxidation plus filtration, [matched to your hydrogen sulfide level](/blog/best-filters-for-sulfur-smell-in-well-water/).
 8. **Install it ahead of the softener**, with filtration and carbon protecting the resin from any oxidiser.
 9. **Retest and re-smell after four weeks**, and again after a week away from the house — standing time is the real test.
 

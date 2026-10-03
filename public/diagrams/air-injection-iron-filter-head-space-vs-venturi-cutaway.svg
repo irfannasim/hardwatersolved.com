@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="aihv-title aihv-desc">
+<title id="aihv-title">Air injection iron filter designs: head-space air pocket vs external venturi</title>
+<desc id="aihv-desc">Cutaway comparison of two air injection iron filter designs. Left, a single tank keeps an air pocket at the top that oxidizes iron before the media bed traps it, and the pocket is refreshed at each backwash. Right, a venturi on the inlet pipe draws air into the water, an aeration tank vents the excess air, and a second tank filters out the oxidized iron.</desc>
+<defs>
+<marker id="aihv-u" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="aihv-t" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<marker id="aihv-m" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker>
+<pattern id="aihv-media" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#e7e5e4"/><circle cx="3" cy="3" r="1.6" fill="#b45309"/><circle cx="9" cy="8" r="1.6" fill="#a8a29e"/></pattern>
+</defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Two ways to add the air</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Both oxidize dissolved iron with air and then filter it. They differ in where the air goes.</text>
+<path class="ln" d="M380,84 L380,540" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+<text x="195" y="98" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Head-space air pocket</text>
+<text x="195" y="116" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">one tank (AFW, Oceanic, SpringWell)</text>
+
+<rect x="130" y="176" width="130" height="300" rx="28" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<path d="M132,250 L132,204 Q132,178 158,178 L232,178 Q258,178 258,204 L258,250 Z" fill="#f8fafc"/>
+<path class="ln" d="M132,250 L258,250" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-dasharray="5 4"/>
+<rect x="132" y="336" width="126" height="122" fill="url(#aihv-media)"/>
+<rect x="189" y="182" width="12" height="270" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<rect x="160" y="140" width="70" height="36" rx="4" fill="#0b2f4a"/>
+<path class="ln" d="M40,152 L154,152" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#aihv-u)"/>
+<text x="40" y="140" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#c2410c">Well water in</text>
+<path class="ln" d="M230,158 L344,158" fill="none" stroke="#0e7490" stroke-width="5" marker-end="url(#aihv-t)"/>
+<text x="344" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">Filtered out</text>
+<path class="ln" d="M160,190 L160,318" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#aihv-u)"/>
+<path class="ln" d="M195,440 L195,196" fill="none" stroke="#0e7490" stroke-width="5" marker-end="url(#aihv-t)"/>
+<path class="ln" d="M116,214 L150,214" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="110" y="210" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">Air pocket:</text>
+<text x="110" y="227" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">iron oxidizes</text>
+<path class="ln" d="M116,398 L140,398" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="110" y="394" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">Media bed</text>
+<text x="110" y="411" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">traps rust</text>
+<path class="ln" d="M205,300 L272,300" fill="none" stroke="#52697a" stroke-width="1.2"/>
+<text x="278" y="296" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Riser</text>
+<text x="278" y="313" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">tube</text>
+<text x="195" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">The valve draws air in during each</text>
+<text x="195" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">backwash, refreshing the pocket.</text>
+<text x="195" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">No separate vent or second tank.</text>
+
+<text x="570" y="98" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">External venturi</text>
+<text x="570" y="116" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">older two-tank design</text>
+
+<path class="ln" d="M440,166 L440,190" fill="none" stroke="#52697a" stroke-width="2" marker-end="url(#aihv-m)"/>
+<text x="404" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Air drawn in</text>
+<path d="M426,194 L454,194 L446,202 L454,210 L426,210 L434,202 Z" fill="#cbd5e1" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M400,202 L424,202" fill="none" stroke="#c2410c" stroke-width="5"/>
+<path class="ln" d="M456,202 L492,202" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#aihv-u)"/>
+<text x="440" y="232" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Venturi</text>
+
+<rect x="498" y="176" width="90" height="260" rx="22" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="533" y="160" width="20" height="16" fill="#3a5a72"/>
+<text x="543" y="150" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Vent</text>
+<circle cx="520" cy="250" r="5" fill="#ffffff" stroke="#3a5a72"/>
+<circle cx="560" cy="230" r="4" fill="#ffffff" stroke="#3a5a72"/>
+<circle cx="540" cy="300" r="5" fill="#ffffff" stroke="#3a5a72"/>
+<circle cx="568" cy="340" r="4" fill="#ffffff" stroke="#3a5a72"/>
+<circle cx="518" cy="370" r="4" fill="#ffffff" stroke="#3a5a72"/>
+<circle cx="552" cy="395" r="3" fill="#b45309"/>
+<circle cx="530" cy="410" r="3" fill="#b45309"/>
+<path class="ln" d="M588,416 L607,416 L607,200 L620,200" fill="none" stroke="#c2410c" stroke-width="5" stroke-linejoin="round" marker-end="url(#aihv-u)"/>
+<rect x="626" y="176" width="90" height="260" rx="22" fill="#dbeafe" stroke="#3a5a72" stroke-width="2"/>
+<rect x="628" y="330" width="86" height="88" fill="url(#aihv-media)"/>
+<rect x="665" y="182" width="12" height="232" fill="#ffffff" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M650,214 L650,316" fill="none" stroke="#c2410c" stroke-width="5" marker-end="url(#aihv-u)"/>
+<path class="ln" d="M671,404 L671,192" fill="none" stroke="#0e7490" stroke-width="5" marker-end="url(#aihv-t)"/>
+<path class="ln" d="M671,176 L671,140 L728,140" fill="none" stroke="#0e7490" stroke-width="5" marker-end="url(#aihv-t)"/>
+<text x="730" y="128" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">Filtered out</text>
+<text x="543" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Aeration tank</text>
+<text x="671" y="458" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Filter tank</text>
+<text x="570" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Air is added whenever water flows.</text>
+<text x="570" y="521" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Excess air must be vented, or it</text>
+<text x="570" y="538" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">spits from taps. Two tanks to plumb.</text>
+
+<line x1="40" y1="574" x2="76" y2="574" stroke="#c2410c" stroke-width="5"/>
+<text x="84" y="579" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Untreated water</text>
+<line x1="220" y1="574" x2="256" y2="574" stroke="#0e7490" stroke-width="5"/>
+<text x="264" y="579" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Filtered water</text>
+<circle cx="404" cy="574" r="4" fill="#b45309"/>
+<text x="416" y="579" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Oxidized iron</text>
+<circle cx="540" cy="574" r="5" fill="#ffffff" stroke="#3a5a72"/>
+<text x="552" y="579" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Air bubbles</text>
+</svg>

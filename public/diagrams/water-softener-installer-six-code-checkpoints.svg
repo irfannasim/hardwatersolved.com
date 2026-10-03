@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="wcp-title wcp-desc">
+<title id="wcp-title">Water softener installer code checkpoints on a finished installation</title>
+<desc id="wcp-desc">Schematic of a finished water softener installation with six numbered checkpoints for judging an installer: bypass and shutoffs, bonding jumper across the bypass, supply-side backflow device where required, drain air gap above the standpipe, separate brine overflow line, and outdoor taps left on hard water.</desc>
+<defs><marker id="wcp-s" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="wcp-d" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#78716c"/></marker></defs>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Six places to judge an installer’s work</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Numbers match the hiring questions in the article.</text>
+<path class="ln" d="M30,170 L196,170" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M252,170 L300,170" fill="none" stroke="#c2410c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="30" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#c2410c">Water main in</text>
+<path class="ln" d="M150,170 L150,112" fill="none" stroke="#c2410c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="box" x="100" y="84" width="150" height="28" rx="6" fill="#ffffff" stroke="#c2410c" stroke-width="1.5"/>
+<text x="175" y="103" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#c2410c">Outdoor taps</text>
+<rect class="box" x="196" y="154" width="56" height="32" rx="6" fill="#ffffff" stroke="#3a5a72" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="224" y="175" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">BFP</text>
+<rect class="box" x="300" y="148" width="120" height="44" rx="6" fill="#e2e8f0" stroke="#3a5a72" stroke-width="2"/>
+<text x="360" y="175" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Bypass</text>
+<path class="ln" d="M420,170 L722,170" fill="none" stroke="#0e7490" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wcp-s)"/>
+<text x="730" y="156" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">To house</text>
+<rect x="330" y="210" width="60" height="220" rx="26" fill="#f6ead2" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M345,192 L345,210" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M375,192 L375,210" fill="none" stroke="#3a5a72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="440" y="300" width="100" height="130" rx="4" fill="#ede9fe" stroke="#3a5a72" stroke-width="2"/>
+<path class="ln" d="M390,330 L440,330" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="274" y="161" width="12" height="18" fill="#0b2f4a"/>
+<rect x="434" y="161" width="12" height="18" fill="#0b2f4a"/>
+<path class="ln" d="M280,161 C280,80 440,80 440,161" fill="none" stroke="#0b2f4a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<path class="ln" d="M390,240 L680,240 L680,392" fill="none" stroke="#78716c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wcp-d)"/>
+<rect x="668" y="412" width="24" height="70" rx="2" fill="#e7e5e4" stroke="#78716c" stroke-width="2"/>
+<path class="ln" d="M540,320 L600,320 L600,452" fill="none" stroke="#78716c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wcp-d)"/>
+<rect x="578" y="470" width="44" height="8" fill="#78716c"/>
+<circle cx="360" cy="128" r="13" fill="#0b2f4a"/>
+<text x="360" y="133" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<circle cx="360" cy="80" r="13" fill="#0b2f4a"/>
+<text x="360" y="85" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<circle cx="224" cy="128" r="13" fill="#0b2f4a"/>
+<text x="224" y="133" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<circle cx="712" cy="414" r="13" fill="#0b2f4a"/>
+<text x="712" y="419" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<circle cx="626" cy="440" r="13" fill="#0b2f4a"/>
+<text x="626" y="445" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<circle cx="80" cy="98" r="13" fill="#c2410c"/>
+<text x="80" y="103" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">6</text>
+<text x="664" y="407" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="end" fill="#52697a">air gap</text>
+<rect class="box" x="30" y="238" width="280" height="196" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="46" y="270" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">1</text>
+<text x="66" y="270" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Bypass and shutoffs, reachable</text>
+<text x="46" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2</text>
+<text x="66" y="300" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Bonding jumper on listed clamps</text>
+<text x="46" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3</text>
+<text x="66" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Supply backflow device, only if required</text>
+<text x="46" y="360" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4</text>
+<text x="66" y="360" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Air gap: 2× drain line, 1 in minimum</text>
+<text x="46" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">5</text>
+<text x="66" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Overflow on its own line to a drain</text>
+<text x="46" y="420" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">6</text>
+<text x="66" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#0b2f4a">Outdoor taps left on hard water</text>
+<text x="360" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Resin tank</text>
+<text x="490" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">Brine tank</text>
+<text x="30" y="470" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Dashed box: device only some utilities require.</text>
+<text x="30" y="490" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#52697a">Orange = hard water, teal = softened, grey = to drain.</text>
+</svg>

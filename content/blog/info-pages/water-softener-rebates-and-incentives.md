@@ -131,7 +131,7 @@ How the payment arrives matters too. The MPCA guide notes that a cash payout may
 
 A rebate reduces the price, but the purchase has to make sense without it. Two numbers matter more than the rebate itself.
 
-**The installed price.** A $500 rebate is a large share of a basic metered unit and a small share of a complex installation with new plumbing and a drain run. Typical installed costs and what drives them are in [water softener installation cost](/blog/water-softener-installation-cost/).
+**The installed price.** A $500 rebate is a large share of a basic metered unit and a small share of a complex installation with new plumbing and a drain run. Typical installed costs and what drives them are in [water softener installation cost](/blog/water-softener-installation-cost/). If the balance after the rebate still has to be paid over time, [compare what cash, 0% and dealer loans add to the total](/blog/water-softener-financing/) before signing.
 
 **The running savings.** An upgrade from a timer to a metered valve saves salt every year, not just once. The Marshall figures show how much a badly set timer can waste. The size of the saving in your house depends on how wastefully the old timer was set and how much water you use.
 

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="tfd-title tfd-desc">
+<title id="tfd-title">Is a Tier1 water softener right for your water? Decision chart</title>
+<desc id="tfd-desc">Decision chart from the Tier1 water softener manual's inlet limits: chlorine above 0.1 ppm calls for carbon ahead of the softener, ferrous iron above 0.3 ppm calls for an iron filter or a well-rated softener, pressure outside the stated range needs a pressure valve or booster pump, otherwise a Tier1 fits and should be sized at a real salt dose.</desc>
+<defs><marker id="tfd-n" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="tfd-r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker><marker id="tfd-g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Does a Tier1 softener suit your water?</text>
+<text x="30" y="63" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Limits from the Tier1 WS-165-150 owner's manual. Resin damage beyond them is excluded from the warranty.</text>
+<rect class="box" x="30" y="90" width="330" height="78" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="121" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Chlorine above 0.1 ppm?</text>
+<text x="195" y="141" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Typical of chlorinated city water</text>
+<rect class="box" x="440" y="90" width="290" height="78" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="585" y="119" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Put carbon ahead of it</text>
+<text x="585" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Tier1's carbon bundle, or a softener</text>
+<text x="585" y="157" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">with chlorine-resistant resin</text>
+<path class="ln" d="M360,129 L436,129" fill="none" stroke="#dc2626" stroke-width="5" marker-end="url(#tfd-r)"/>
+<text x="398" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Yes</text>
+<path class="ln" d="M195,168 L195,206" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#tfd-n)"/>
+<text x="207" y="192" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="30" y="210" width="330" height="78" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="241" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Ferrous iron above 0.3 ppm?</text>
+<text x="195" y="261" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Common on private wells</text>
+<rect class="box" x="440" y="210" width="290" height="78" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="585" y="239" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Not this softener alone</text>
+<text x="585" y="259" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Iron filter first, or a softener</text>
+<text x="585" y="277" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">rated for your iron level</text>
+<path class="ln" d="M360,249 L436,249" fill="none" stroke="#dc2626" stroke-width="5" marker-end="url(#tfd-r)"/>
+<text x="398" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Yes</text>
+<path class="ln" d="M195,288 L195,326" fill="none" stroke="#52697a" stroke-width="4" marker-end="url(#tfd-n)"/>
+<text x="207" y="312" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="30" y="330" width="330" height="78" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="361" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Pressure over 80 psi or</text>
+<text x="195" y="381" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">under 20 psi?</text>
+<rect class="box" x="440" y="330" width="290" height="78" rx="8" fill="#f8fafc" stroke="#52697a" stroke-width="1.5"/>
+<text x="585" y="359" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Fix the pressure first</text>
+<text x="585" y="379" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Reducing valve above 80 psi,</text>
+<text x="585" y="397" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">booster pump below 20 psi</text>
+<path class="ln" d="M360,369 L436,369" fill="none" stroke="#52697a" stroke-width="5" marker-end="url(#tfd-n)"/>
+<text x="398" y="357" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#52697a">Yes</text>
+<path class="ln" d="M195,408 L195,446" fill="none" stroke="#0e7490" stroke-width="4" marker-end="url(#tfd-g)"/>
+<text x="207" y="432" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">No</text>
+<rect class="box" x="30" y="450" width="700" height="78" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="380" y="481" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">A Tier1 fits your water</text>
+<text x="380" y="503" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Size it on resin volume at a real salt dose, not on the grain number in the listing title</text>
+</svg>

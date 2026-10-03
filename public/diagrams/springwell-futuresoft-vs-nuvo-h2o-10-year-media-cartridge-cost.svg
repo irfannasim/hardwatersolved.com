@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="sfc-title sfc-desc">
+<title id="sfc-title">SpringWell FutureSoft vs Nuvo H2O: 10-year cost for a family of four</title>
+<desc id="sfc-desc">Illustrative 10-year cumulative cost of SpringWell FutureSoft vs Nuvo H2O Manor for a family of four using about 102,000 gallons a year: NuvoH2O Manor reaches about $3,427 with autoship cartridges, FutureSoft FS1 about $2,629 with two 10-inch sediment cartridges a year, or $3,145 with 20-inch cartridges, before a media change whose price SpringWell does not publish.</desc>
+<defs><marker id="sfc-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker></defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">10-year purchase and cartridge cost (illustrative)</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Family of four, about 102,000 gallons a year through the system</text>
+<path d="M100,470 L520,470" stroke="#3a5a72" stroke-width="2" fill="none"/>
+<text x="90" y="475" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$0</text>
+<path d="M100,385 L520,385" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="390" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$1,000</text>
+<path d="M100,300 L520,300" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$2,000</text>
+<path d="M100,215 L520,215" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$3,000</text>
+<path d="M100,130 L520,130" stroke="#e2e8f0" stroke-width="1" fill="none"/>
+<text x="90" y="135" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$4,000</text>
+<text x="100" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="184" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2</text>
+<text x="268" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">4</text>
+<text x="352" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6</text>
+<text x="436" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">8</text>
+<text x="520" y="490" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">10</text>
+<text x="310" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Years after purchase</text>
+<path class="ln" d="M100,318.3 L520,202.7" stroke="#0e7490" stroke-width="3" fill="none" stroke-linecap="round" stroke-dasharray="8 6"/>
+<path class="ln" d="M100,366.3 L520,178.7" stroke="#0b2f4a" stroke-width="4" fill="none" stroke-linecap="round" />
+<path class="ln" d="M100,318.3 L520,246.6" stroke="#0e7490" stroke-width="4" fill="none" stroke-linecap="round" />
+<text x="534" y="164.67902400000003" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">NuvoH2O Manor</text>
+<text x="534" y="182.67902400000003" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">about $3,427, autoship</text>
+<text x="534" y="218.70899999999995" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">FutureSoft, 20-in cartridges</text>
+<text x="534" y="236.70899999999995" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">about $3,145</text>
+<text x="534" y="260.55199999999996" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">FutureSoft, 10-in cartridges</text>
+<text x="534" y="278.55199999999996" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">about $2,629</text>
+<circle cx="274.0" cy="288.6" r="6" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<path class="ln" d="M268.0,258.6 L272.0,278.6" stroke="#52697a" stroke-width="1.2" fill="none" marker-end="url(#sfc-ah)"/>
+<text x="266.0" y="250.6" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">lines cross near year 4.1</text>
+<path class="ln" d="M310,290.4 L310,334.4" stroke="#dc2626" stroke-width="1.5" fill="none" stroke-dasharray="4 3"/>
+<text x="310" y="352.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">FutureSoft media change due ("5+ years")</text>
+<text x="310" y="370.4" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#dc2626">price not published, not included</text>
+<rect class="box" x="30" y="520" width="700" height="44" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="380" y="547" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">On 10-inch cartridges, FutureSoft wins over 10 years if its media change costs under about $800</text>
+</svg>

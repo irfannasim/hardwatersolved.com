@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 638" width="760" height="638" role="img" aria-labelledby="cvr-title cvr-desc">
+<title id="cvr-title">Culligan vs RainSoft sales visit: five questions and the walk-away answers</title>
+<desc id="cvr-desc">Decision chain for an in-home Culligan or RainSoft water softener sales visit. Five questions in order: model and capacity at the programmed salt setting, cash price per item, financing APR and total of payments, warranty exclusions and service cost, and whether the price holds next week. Each has a walk-away answer; passing all five leads to taking the quote away for a second quote.</desc>
+<defs><marker id="wg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#15803d"/></marker><marker id="wr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="638" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Five questions for either sales visit</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Ask them in order. A walk-away answer on any one ends the visit without signing.</text>
+<rect class="box" x="30" y="92" width="400" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">1. Which model, and its capacity at the</text>
+<text x="46" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">salt setting you will program?</text>
+<rect class="box" x="520" y="92" width="210" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="625" y="117" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">"Our best system", no model</text>
+<text x="625" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">number or data sheet</text>
+<path class="ln" d="M430,121 L516,121" stroke="#dc2626" stroke-width="4" fill="none" marker-end="url(#wr)"/>
+<text x="475" y="109" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">Walk away</text>
+<path class="ln" d="M150,150 L150,180" stroke="#15803d" stroke-width="4" fill="none" marker-end="url(#wg)"/>
+<text x="162" y="172" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#15803d">Clear, written answer</text>
+<rect class="box" x="30" y="184" width="400" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="209" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">2. What is the cash price of</text>
+<text x="46" y="228" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">each item, separately?</text>
+<rect class="box" x="520" y="184" width="210" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="625" y="209" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Only a monthly payment,</text>
+<text x="625" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">or one package price</text>
+<path class="ln" d="M430,213 L516,213" stroke="#dc2626" stroke-width="4" fill="none" marker-end="url(#wr)"/>
+<text x="475" y="201" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">Walk away</text>
+<path class="ln" d="M150,242 L150,272" stroke="#15803d" stroke-width="4" fill="none" marker-end="url(#wg)"/>
+<text x="162" y="264" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#15803d">Clear, written answer</text>
+<rect class="box" x="30" y="276" width="400" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="301" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">3. If financed: APR, term, total of</text>
+<text x="46" y="320" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">payments, any deferred interest?</text>
+<rect class="box" x="520" y="276" width="210" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="625" y="301" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">Will not write down</text>
+<text x="625" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">the total of payments</text>
+<path class="ln" d="M430,305 L516,305" stroke="#dc2626" stroke-width="4" fill="none" marker-end="url(#wr)"/>
+<text x="475" y="293" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">Walk away</text>
+<path class="ln" d="M150,334 L150,364" stroke="#15803d" stroke-width="4" fill="none" marker-end="url(#wg)"/>
+<text x="162" y="356" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#15803d">Clear, written answer</text>
+<rect class="box" x="30" y="368" width="400" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="393" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">4. What does the warranty exclude,</text>
+<text x="46" y="412" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">and what does a service visit cost?</text>
+<rect class="box" x="520" y="368" width="210" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="625" y="393" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">"Lifetime, everything</text>
+<text x="625" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">is covered"</text>
+<path class="ln" d="M430,397 L516,397" stroke="#dc2626" stroke-width="4" fill="none" marker-end="url(#wr)"/>
+<text x="475" y="385" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">Walk away</text>
+<path class="ln" d="M150,426 L150,456" stroke="#15803d" stroke-width="4" fill="none" marker-end="url(#wg)"/>
+<text x="162" y="448" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#15803d">Clear, written answer</text>
+<rect class="box" x="30" y="460" width="400" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="485" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">5. Is this price still good</text>
+<text x="46" y="504" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">next week?</text>
+<rect class="box" x="520" y="460" width="210" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="625" y="485" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">"Today only"</text>
+<text x="625" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#0b2f4a">or a same-day discount</text>
+<path class="ln" d="M430,489 L516,489" stroke="#dc2626" stroke-width="4" fill="none" marker-end="url(#wr)"/>
+<text x="475" y="477" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#dc2626">Walk away</text>
+<path class="ln" d="M150,518 L150,548" stroke="#15803d" stroke-width="4" fill="none" marker-end="url(#wg)"/>
+<text x="162" y="540" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="start" fill="#15803d">Clear, written answer</text>
+<rect class="box" x="30" y="552" width="700" height="62" rx="8" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/>
+<text x="46" y="578" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">All five answered in writing: take the quote away and get a second one.</text>
+<text x="46" y="598" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Signed at home anyway? The FTC Cooling-Off Rule generally allows 3 business days to cancel.</text>
+</svg>

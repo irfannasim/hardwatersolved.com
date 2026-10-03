@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="cvw-title cvw-desc">
+<title id="cvw-title">Culligan vs Whirlpool water softener: cost per year of expected life</title>
+<desc id="cvw-desc">Illustrative bar chart of Culligan vs Whirlpool water softener cost per year of expected life: a Whirlpool 48K at about 98 dollars a year installed yourself or 138 dollars hired over 10 years, against a Culligan at about 217, 283 or 383 dollars a year over 15 years at installed quotes of 2,500, 3,500 and 5,000 dollars.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Cost per year of expected life (illustrative)</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Purchase, installation and repair allowance, divided by assumed years of service. Salt and water excluded.</text>
+
+<text x="30" y="100" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Whirlpool 48K, $680, assumed 10 years</text>
+<text x="235" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Installed yourself</text>
+<rect x="250" y="117" width="111" height="26" fill="#0e7490"/>
+<text x="371" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">$98 a year</text>
+<text x="235" y="172" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">Plumber installed</text>
+<rect x="250" y="155" width="157" height="26" fill="#0e7490"/>
+<text x="417" y="173" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0e7490">$138 a year</text>
+
+<text x="30" y="220" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Culligan, dealer installed, assumed 15 years</text>
+<text x="235" y="254" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$2,500 quote</text>
+<rect x="250" y="237" width="246" height="26" fill="#3a5a72"/>
+<text x="506" y="255" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#3a5a72">$217 a year</text>
+<text x="235" y="292" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$3,500 quote</text>
+<rect x="250" y="275" width="321" height="26" fill="#3a5a72"/>
+<text x="581" y="293" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#3a5a72">$283 a year</text>
+<text x="235" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="end" fill="#0b2f4a">$5,000 quote</text>
+<rect x="250" y="313" width="435" height="26" fill="#3a5a72"/>
+<text x="675" y="331" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#ffffff">$383 a year</text>
+
+<path class="ln" d="M250,356 L704,356" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M250,356 L250,362 M363,356 L363,362 M477,356 L477,362 M590,356 L590,362 M704,356 L704,362" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="250" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<text x="363" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$100</text>
+<text x="477" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$200</text>
+<text x="590" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$300</text>
+<text x="704" y="378" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$400</text>
+
+<rect class="box" x="30" y="398" width="700" height="86" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="421" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#0b2f4a">Assumptions</text>
+<text x="46" y="441" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Whirlpool: $100 DIY supplies or $500 plumber, plus $200 for parts over 10 years.</text>
+<text x="46" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Culligan: quote includes installation, plus five paid dealer visits at $150 over 15 years.</text>
+<text x="46" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Service lives are assumptions; neither maker publishes one.</text>
+</svg>

@@ -126,3 +126,5 @@ No listing does not prove a softener is bad. Many units use the same valves and 
 - **The warranty terms** on tank, valve and resin.
 
 If a seller insists a product is certified and you cannot find it in any of the three databases, ask for the certifier, the standard and the listing link. A certified product has all three, and a seller should be able to give them in one sentence. For this check applied to one brand's whole range, the [Pelican review runs its salt-based softener through the NSF listing and its salt-free conditioner's DVGW claim](/blog/pelican-water-softener-review/) before weighing whether either is worth buying.
+
+If you would rather shortlist only certified units, start by [choosing from softeners already checked model by model against the NSF listing](/blog/nsf-certified-water-softeners/).

@@ -121,7 +121,7 @@ The first three columns below multiply those rates by each tank's bed area. The 
 
 - **Well water is usually cool**, so the 50 to 59°F columns are the realistic ones for most US wells. That works slightly in a weak well's favor.
 - **Your valve's flow control is what counts.** The manufacturer picks a flow control near these figures. The number stamped on it, or printed in the spec sheet, is what the valve will draw from your well.
-- **Add everything that regenerates at the same hour.** An iron filter needs far more backwash than a softener, and two units backwashing together can ask for 10 gpm or more. Staggering them is covered in [pretreatment order before a softener](/blog/iron-filter-before-water-softener/).
+- **Add everything that regenerates at the same hour.** An iron filter needs far more backwash than a softener, and two units backwashing together can ask for 10 gpm or more. Staggering them is covered in [pretreatment order before a softener](/blog/iron-filter-before-water-softener/). If you are choosing an iron filter, [compare the backwash flow each air injection unit needs](/blog/best-air-injection-iron-filters/) with the flow your well held in Test 2.
 - **Leave headroom.** A household that runs a tap or flushes a toilet during regeneration takes water from the same pump.
 
 ## Reading the Result

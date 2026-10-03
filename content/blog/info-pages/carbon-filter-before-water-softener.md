@@ -145,7 +145,7 @@ A softener cannot remove chlorine by itself, whatever the salt, setting or resin
 3. **Free chlorine only?** Put your own re-bed or replacement quote and carbon price into the payback table.
 4. **Under about 0.5 mg/L:** skip whole-house carbon, and specify higher cross-link resin at the next re-bed.
 5. **Around 1 mg/L and above:** carbon usually pays, and pays sooner if you would replace the whole unit.
-6. **Size on contact time at your real peak flow**, using about 1.5 minutes for free chlorine.
+6. **Size on contact time at your real peak flow**, using about 1.5 minutes for free chlorine. Use the same yardstick when [comparing cartridge and tank carbon prefilters on capacity, flow and yearly cost](/blog/best-carbon-prefilters-for-water-softeners/).
 7. **Do not oversize.** Keep the backwash scheduled and flush after time away.
 8. **Install the carbon first, then the softener**, and do it before the next resin bed goes in, not after.
 

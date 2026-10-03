@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 486" width="760" height="486" role="img" aria-labelledby="rsm-title rsm-desc">
+<title id="rsm-title">RainSoft water softener cost: what a $149 monthly quote over 10 years is worth in cash at each APR</title>
+<desc id="rsm-desc">Illustrative stacked bar chart. A $149 monthly payment for 120 months totals $17,880 at every rate, but the cash price it pays off falls from $17,880 at 0% to about $13,427 at 5.99%, $11,280 at 9.99%, $9,239 at 14.99% and $8,272 at 17.99% APR; the rest is interest.</desc>
+<rect width="760" height="486" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">$149 a month for 10 years: the cash price behind it</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Every bar is $17,880 of payments. Only the split between price and interest changes.</text>
+<rect x="230" y="84" width="16" height="16" fill="#0e7490"/>
+<text x="254" y="97" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Cash price it pays off</text>
+<rect x="430" y="84" width="16" height="16" fill="#dc2626"/>
+<text x="454" y="97" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Interest</text>
+<text x="30" y="141" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">0% APR</text>
+<text x="30" y="159" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">promotional, if repaid on time</text>
+<rect class="box" x="230" y="124" width="480.0" height="38" fill="#0e7490"/>
+<text x="240" y="148" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">$17,880 cash</text>
+<text x="30" y="205" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">5.99% APR</text>
+<rect class="box" x="230" y="188" width="360.5" height="38" fill="#0e7490"/>
+<text x="240" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">$13,427 cash</text>
+<rect class="box" x="590.5" y="188" width="119.5" height="38" fill="#dc2626"/>
+<text x="600.5" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">$4,453</text>
+<text x="30" y="269" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">9.99% APR</text>
+<rect class="box" x="230" y="252" width="302.8" height="38" fill="#0e7490"/>
+<text x="240" y="276" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">$11,280 cash</text>
+<rect class="box" x="532.8" y="252" width="177.2" height="38" fill="#dc2626"/>
+<text x="542.8" y="276" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">$6,600</text>
+<text x="30" y="333" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">14.99% APR</text>
+<rect class="box" x="230" y="316" width="248.0" height="38" fill="#0e7490"/>
+<text x="240" y="340" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">$9,239 cash</text>
+<rect class="box" x="478.0" y="316" width="232.0" height="38" fill="#dc2626"/>
+<text x="488.0" y="340" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">$8,641</text>
+<text x="30" y="397" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">17.99% APR</text>
+<rect class="box" x="230" y="380" width="222.1" height="38" fill="#0e7490"/>
+<text x="240" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">$8,272 cash</text>
+<rect class="box" x="452.1" y="380" width="257.9" height="38" fill="#dc2626"/>
+<text x="462.1" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">$9,608</text>
+<path class="ln" d="M710,112 L710,436" stroke="#52697a" stroke-width="1.5" stroke-dasharray="5 4" fill="none"/>
+<text x="730" y="456" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">$17,880 paid in every case</text>
+<text x="30" y="476" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#52697a">Illustrative. Standard amortized loan, 120 payments; fees and deferred-interest terms change the split.</text>
+</svg>

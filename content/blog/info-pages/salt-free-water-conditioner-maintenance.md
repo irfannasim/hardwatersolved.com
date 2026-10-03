@@ -76,7 +76,7 @@ Each of these appears after the media has already lost ground. That is why the m
 
 ## Real Annual Cost: Salt-Free vs an Equivalent Softener
 
-Here is the comparison worked in full, so you can swap in your own prices. The household is four people on city water, using about 300 gallons a day (roughly 110,000 gallons a year). Only running costs are counted. Purchase and installation are left out, because they depend heavily on the product and installer.
+Here is the comparison worked in full, so you can swap in your own prices. The household is four people on city water, using about 300 gallons a day (roughly 110,000 gallons a year). Only running costs are counted. Purchase and installation are left out, because they depend heavily on the product and installer. The [purchase and install prices for salt-free systems](/blog/salt-free-water-conditioner-cost/) are worked through separately.
 
 **Salt-free (whole-house tank system):**
 
@@ -116,7 +116,7 @@ That is the honest answer to "which is cheaper to maintain". Neither side of the
 Several things push the comparison one way or the other.
 
 - **Well water adds a filter to the salt-free side.** An iron and manganese filter in front of the conditioner brings its own media, servicing and sometimes electricity. The ownership cost can double. [City and well water change the salt-free picture](/blog/salt-free-conditioners-city-vs-well-water/) more than any other factor.
-- **Cartridge systems cost more per gallon.** A small inline cartridge replaced every 12 months treats far fewer gallons per dollar than a whole-house tank. They make sense protecting one appliance, not a house.
+- **Cartridge systems cost more per gallon.** A small inline cartridge replaced every 12 months treats far fewer gallons per dollar than a whole-house tank. They make sense protecting one appliance, not a house. [Watts' OneFlow Plus, which pairs a scale cartridge with a carbon block](/blog/watts-oneflow-plus-review/), shows how two cartridge schedules add up.
 - **Potassium chloride changes the softener side.** Households that use potassium instead of sodium pay considerably more per bag. That can move the crossover well below 25 grains.
 - **Chlorine level decides the carbon line.** If your utility's residual sits under your media's limit, the $80 carbon line disappears. Some systems build the carbon into the main tank instead, and the [HALO 5 review prices each of its stages over ten years, including a magnetic conditioning stage that removes no hardness](/blog/halo-5-review/).
 - **DIY or dealer service.** Media changes and cartridge swaps are within most owners' reach. Some warranties require an authorised dealer, and a service visit can cost more than the media itself.

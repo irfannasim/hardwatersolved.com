@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" width="760" height="570" role="img" aria-labelledby="wrv-title wrv-desc">
+<title id="wrv-title">Water softener resin replacement cost: rebed or replace by control valve age</title>
+<desc id="wrv-desc">Decision chart. First confirm the resin is the fault, then fix chlorine, chloramine or iron upstream. Then the control valve's age decides: under 8 years, rebed for about 255 to 330 dollars DIY or 555 to 930 dollars by a pro; 8 to 12 years, rebed only under about 715 dollars; over 12 years or after a valve repair, replace the softener for about 1,075 to 1,375 dollars.</desc>
+<defs>
+<marker id="wrv-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+</defs>
+<rect width="760" height="570" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Rebed or replace? Let the valve's age decide</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">1.5 cu ft tank, illustrative prices from the article</text>
+
+<rect class="box" x="30" y="88" width="330" height="58" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="112" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">1. Is the resin really the fault?</text>
+<text x="46" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Hard water early in each cycle, brine drawn</text>
+<path class="ln" d="M360,117 L444,117" stroke="#0b2f4a" stroke-width="2" fill="none" marker-end="url(#wrv-ah)"/>
+<text x="388" y="106" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="450" y="88" width="280" height="58" rx="6" fill="#ffffff" stroke="#78716c" stroke-width="1.5"/>
+<text x="466" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Fix the injector, salt bridge</text>
+<text x="466" y="132" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">or settings first. Skip the resin.</text>
+
+<path class="ln" d="M195,146 L195,174" stroke="#0b2f4a" stroke-width="2" fill="none" marker-end="url(#wrv-ah)"/>
+<text x="206" y="166" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Yes</text>
+
+<rect class="box" x="30" y="180" width="330" height="58" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="204" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">2. Is the cause fixed upstream?</text>
+<text x="46" y="226" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Chlorine, chloramine or iron treated</text>
+<path class="ln" d="M360,209 L444,209" stroke="#0b2f4a" stroke-width="2" fill="none" marker-end="url(#wrv-ah)"/>
+<text x="388" y="198" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="450" y="180" width="280" height="58" rx="6" fill="#ffffff" stroke="#dc2626" stroke-width="1.5"/>
+<text x="466" y="204" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Budget carbon or iron treatment</text>
+<text x="466" y="224" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">too, or pay to rebed again</text>
+
+<path class="ln" d="M195,238 L195,266" stroke="#0b2f4a" stroke-width="2" fill="none" marker-end="url(#wrv-ah)"/>
+<text x="206" y="258" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#52697a">Yes</text>
+
+<rect class="box" x="30" y="272" width="330" height="58" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="296" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">3. How old is the control valve?</text>
+<text x="46" y="318" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Date code, receipt or install record</text>
+
+<path class="ln" d="M195,330 L195,366" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<path class="ln" d="M143,366 L617,366" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<path class="ln" d="M143,366 L143,394" stroke="#0b2f4a" stroke-width="2" fill="none" marker-end="url(#wrv-ah)"/>
+<path class="ln" d="M380,366 L380,394" stroke="#0b2f4a" stroke-width="2" fill="none" marker-end="url(#wrv-ah)"/>
+<path class="ln" d="M617,366 L617,394" stroke="#0b2f4a" stroke-width="2" fill="none" marker-end="url(#wrv-ah)"/>
+
+<rect class="box" x="30" y="400" width="226" height="116" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="46" y="424" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Under 8 years</text>
+<text x="46" y="448" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0e7490">Rebed</text>
+<text x="46" y="472" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">DIY $255 to $330</text>
+<text x="46" y="494" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Pro $555 to $930</text>
+
+<rect class="box" x="267" y="400" width="226" height="116" rx="6" fill="#f8fafc" stroke="#3a5a72" stroke-width="2"/>
+<text x="283" y="424" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">8 to 12 years</text>
+<text x="283" y="448" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#3a5a72">Get both quoted</text>
+<text x="283" y="472" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Rebed only under $715,</text>
+<text x="283" y="494" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">2/3 of a new unit</text>
+
+<rect class="box" x="504" y="400" width="226" height="116" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="520" y="424" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Over 12 or repaired</text>
+<text x="520" y="448" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">Replace the softener</text>
+<text x="520" y="472" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">$1,075 to $1,375</text>
+<text x="520" y="494" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">into existing plumbing</text>
+
+<text x="30" y="548" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Labor at $100 an hour plus a $100 to $150 service call. Use the rates on your own quote.</text>
+</svg>

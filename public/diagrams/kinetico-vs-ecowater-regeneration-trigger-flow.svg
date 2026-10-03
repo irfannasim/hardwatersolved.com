@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 654" width="760" height="654" role="img" aria-labelledby="kve-title kve-desc">
+<title id="kve-title">Kinetico vs EcoWater: what triggers each softener to regenerate</title>
+<desc id="kve-desc">Side-by-side flow chart. Kinetico: a water-driven turbine meter counts gallons, and at the set volume water pressure switches to the standby tank and regenerates the used tank with soft water, with no electricity. EcoWater: a meter reports to a 120 volt controller that learns daily use, and when reserve is too low for the next day it regenerates at a set time, default 2 AM, sending hard water to the taps meanwhile.</desc>
+<defs><marker id="ka" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="kn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="kr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker></defs>
+<rect width="760" height="654" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">What triggers a regeneration: Kinetico vs EcoWater</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Kinetico 2030s data sheet and an EcoWater demand softener owner's manual</text>
+<text x="30" y="96" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0e7490">Kinetico: water-powered meter</text>
+<rect class="box" x="30" y="110" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="175" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water flows to the house</text>
+<text x="175" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">through the tank in service</text>
+<path class="ln" d="M175,166 L175,192" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ka)"/>
+<rect class="box" x="30" y="196" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="175" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Turbine meter counts gallons</text>
+<text x="175" y="239" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">turned by the water itself, no power</text>
+<path class="ln" d="M175,252 L175,278" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ka)"/>
+<rect class="box" x="30" y="282" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="175" y="306" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Set volume reached</text>
+<text x="175" y="325" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">fixed by the meter disc for your hardness</text>
+<path class="ln" d="M175,338 L175,364" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ka)"/>
+<rect class="box" x="30" y="368" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="175" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water pressure switches tanks</text>
+<text x="175" y="411" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">standby tank goes into service at once</text>
+<path class="ln" d="M175,424 L175,450" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ka)"/>
+<rect class="box" x="30" y="454" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="175" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Used tank regenerates</text>
+<text x="175" y="497" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">with soft water: 29 gal, 40 minutes</text>
+<path class="ln" d="M175,510 L175,536" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#ka)"/>
+<rect class="box" x="30" y="540" width="290" height="56" rx="8" fill="#ecfeff" stroke="#15803d" stroke-width="2"/>
+<text x="175" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Soft water continues</text>
+<text x="175" y="583" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">No hard-water bypass, no electricity</text>
+<text x="390" y="96" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#3a5a72">EcoWater: electronic demand control</text>
+<rect class="box" x="390" y="110" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="535" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Water flows to the house</text>
+<text x="535" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">through the single resin tank</text>
+<path class="ln" d="M535,166 L535,192" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#kn)"/>
+<rect class="box" x="390" y="196" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="535" y="220" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Meter reports gallons</text>
+<text x="535" y="239" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">to a 120 V electronic controller</text>
+<path class="ln" d="M535,252 L535,278" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#kn)"/>
+<rect class="box" x="390" y="282" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="535" y="306" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Controller learns daily use</text>
+<text x="535" y="325" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">and predicts the next day's need</text>
+<path class="ln" d="M535,338 L535,364" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#kn)"/>
+<rect class="box" x="390" y="368" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="535" y="392" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Reserve too low for tomorrow?</text>
+<text x="535" y="411" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">if not, it keeps counting</text>
+<path class="ln" d="M535,424 L535,450" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#kn)"/>
+<rect class="box" x="390" y="454" width="290" height="56" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="535" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Regenerates at the set time</text>
+<text x="535" y="497" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">default 2:00 AM, about 2 hours</text>
+<path class="ln" d="M535,510 L535,536" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#kn)"/>
+<rect class="box" x="390" y="540" width="290" height="56" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="2"/>
+<text x="535" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Hard water to taps meanwhile</text>
+<text x="535" y="583" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">No regeneration during a power cut</text>
+<path class="ln" d="M680,396 L710,396 L710,224 L684,224" stroke="#52697a" stroke-width="3" fill="none" marker-end="url(#kn)"/>
+<text x="718" y="315" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">No</text>
+<text x="547" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Yes</text>
+<text x="30" y="632" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Kinetico sizes each regeneration by gallons; EcoWater by predicted need. Both regenerate on use, not on a calendar.</text>
+</svg>

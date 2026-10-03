@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="wsic-title wsic-desc">
+<title id="wsic-title">Water softener and iron filter combo: days the softener half lasts</title>
+<desc id="wsic-desc">Illustrative bar chart of days between regenerations for the softener half of six water softener and iron filter combo packages, for a four-person home at 15 gpg with 2.3 ppm of iron and manganese and a six-person home at 20 gpg with 3 ppm of iron. Single-tank units carry the iron load; two-stage packages remove it first. A dashed line marks about three days.</desc>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">How long the softener half lasts</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative. Capacity at 6 lb salt per cu ft; 75 gallons per person per day; iron counted at 4 gpg per ppm.</text>
+<rect x="30" y="76" width="16" height="12" fill="#0e7490"/>
+<text x="54" y="87" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">4 people, 15 gpg, 2.3 ppm iron + manganese</text>
+<rect x="400" y="76" width="16" height="12" fill="#a5d8e3" stroke="#0e7490" stroke-width="1"/>
+<text x="424" y="87" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">6 people, 20 gpg, 3 ppm iron</text>
+
+<text x="260" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">AFW Iron Pro 32k</text>
+<text x="260" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.0 cu ft, one tank, 2510 AiQ</text>
+<rect x="270" y="106" width="144" height="16" fill="#0e7490"/>
+<rect x="270" y="126" width="73" height="16" fill="#a5d8e3" stroke="#0e7490" stroke-width="1"/>
+<text x="735" y="119" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">2.9 days</text>
+<text x="735" y="139" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">1.5 days</text>
+
+<text x="260" y="176" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">AFW Iron Pro 48k</text>
+<text x="260" y="194" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">1.5 cu ft, one tank</text>
+<rect x="270" y="164" width="217" height="16" fill="#0e7490"/>
+<rect x="270" y="184" width="110" height="16" fill="#a5d8e3" stroke="#0e7490" stroke-width="1"/>
+<text x="735" y="177" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">4.3 days</text>
+<text x="735" y="197" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">2.2 days</text>
+
+<text x="260" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">AFW Iron Pro 2 64k</text>
+<text x="260" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">2.0 cu ft, one tank</text>
+<rect x="270" y="222" width="290" height="16" fill="#0e7490"/>
+<rect x="270" y="242" width="146" height="16" fill="#a5d8e3" stroke="#0e7490" stroke-width="1"/>
+<text x="735" y="235" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">5.8 days</text>
+<text x="735" y="255" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">2.9 days</text>
+
+<text x="260" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">AFW Iron Pro 80k</text>
+<text x="260" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">2.5 cu ft, one tank</text>
+<rect x="270" y="280" width="362" height="16" fill="#0e7490"/>
+<rect x="270" y="300" width="183" height="16" fill="#a5d8e3" stroke="#0e7490" stroke-width="1"/>
+<text x="735" y="293" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">7.2 days</text>
+<text x="735" y="313" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">3.6 days</text>
+
+<text x="260" y="350" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">SpringWell Core</text>
+<text x="260" y="368" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">iron filter + about 1.0 cu ft</text>
+<rect x="270" y="338" width="234" height="16" fill="#0e7490"/>
+<rect x="270" y="358" width="117" height="16" fill="#a5d8e3" stroke="#0e7490" stroke-width="1"/>
+<text x="735" y="351" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">4.7 days</text>
+<text x="735" y="371" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">2.3 days</text>
+
+<text x="260" y="408" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0b2f4a">SpringWell Pro</text>
+<text x="260" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">iron filter + about 1.5 cu ft</text>
+<rect x="270" y="396" width="350" height="16" fill="#0e7490"/>
+<rect x="270" y="416" width="175" height="16" fill="#a5d8e3" stroke="#0e7490" stroke-width="1"/>
+<text x="735" y="409" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">7.0 days</text>
+<text x="735" y="429" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#0b2f4a">3.5 days</text>
+
+<path class="ln" d="M420,100 L420,450" fill="none" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+<path class="ln" d="M270,450 L670,450" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M270,450 L270,456 M320,450 L320,456 M370,450 L370,456 M420,450 L420,456 M470,450 L470,456 M520,450 L520,456 M570,450 L570,456 M620,450 L620,456 M670,450 L670,456" fill="none" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="270" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="320" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">1</text>
+<text x="370" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">2</text>
+<text x="420" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">3</text>
+<text x="470" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">4</text>
+<text x="520" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">5</text>
+<text x="570" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6</text>
+<text x="620" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">7</text>
+<text x="670" y="472" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">8</text>
+<text x="470" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Days of softening before the bed is spent</text>
+
+<text x="30" y="528" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Red line: about 3 days. Shorter than that, the softener half is undersized for that home.</text>
+<text x="30" y="546" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Single tanks carry the iron as extra hardness; SpringWell's iron filter removes it first, so its</text>
+<text x="30" y="564" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">softener sees hardness only. SpringWell does not publish resin volume; volumes are estimates.</text>
+</svg>

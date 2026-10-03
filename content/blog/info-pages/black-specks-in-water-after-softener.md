@@ -140,7 +140,7 @@ Also worth knowing: **black specks after mains work** on municipal supply are us
 1. **Catch a sample** in a strainer or coffee filter on a cold tap. Nothing can be diagnosed from memory.
 2. **Run the identification key** — crush, light, vinegar, tissue.
 3. **Log the timing** against the regeneration schedule for a week. Bursts after cycles means valve seals.
-4. **Fit a five-micron sediment cartridge downstream** as containment while you work — and note how fast it loads.
+4. **Fit a five-micron sediment cartridge downstream** as containment while you work — and note how fast it loads. On a well, a cartridge that keeps clogging means grit or oxidised manganese is arriving in the raw water, and [choosing a permanent sediment filter by micron rating and service interval](/blog/best-sediment-filters-for-well-water/) is the next decision.
 5. **If manganese:** test the raw water for manganese and iron, and treat ahead of the softener if it is above 0.3 mg/L. Do not expect the softener to cope.
 6. **If resin fragments:** open the tank and inspect. Fines and volume loss mean rebedding; fit carbon ahead of the unit on chlorinated supply or the new bed will go the same way.
 7. **If rubber:** order the seal and piston kit for your valve model, or book the service.

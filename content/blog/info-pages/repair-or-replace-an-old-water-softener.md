@@ -63,11 +63,11 @@ The thresholds are rounded down on purpose. A repaired old softener still has ot
 
 The mineral tank is a fibreglass-wrapped pressure vessel. On clean water it often outlasts two control valves. If the tank is dry, straight and firm, a failed valve is a valve problem, not a softener problem.
 
-Start with the cheapest fix. Worn seals, spacers and pistons cause most valve faults, and a rebuild kit costs far less than a new head. If the valve body is cracked, the board is obsolete, or parts are unavailable, a whole new valve head goes onto the old tank. Choose a metered, demand-initiated valve if the old one was a timer. That repair also fixes the efficiency problem described below.
+Start with the cheapest fix. Worn seals, spacers and pistons cause most valve faults, and a rebuild kit costs far less than a new head. If the valve body is cracked, the board is obsolete, or parts are unavailable, a whole new valve head goes onto the old tank. Choose a metered, demand-initiated valve if the old one was a timer, and [confirm the tank thread and riser fit before choosing a replacement valve head](/blog/best-water-softener-replacement-valves/). That repair also fixes the efficiency problem described below.
 
 ### Failed tank: replace
 
-A bulge, a crack, or water weeping from the base or neck of the mineral tank cannot be repaired safely. The tank is under full mains pressure. A new tank plus resin, gravel and labour costs most of a new softener, and it leaves you with an old valve on a new tank. Replace the whole unit.
+A bulge, a crack, or water weeping from the base or neck of the mineral tank cannot be repaired safely. The tank is under full mains pressure. A new tank plus resin, gravel and labour costs most of a new softener, and it leaves you with an old valve on a new tank. Replace the whole unit, and [price the replacement for your situation](/blog/water-softener-replacement-cost/), including removal of the old one, before taking quotes.
 
 ### Worn-out resin: depends on the valve
 

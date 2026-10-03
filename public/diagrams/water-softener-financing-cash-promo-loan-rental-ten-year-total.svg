@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="wfr-title wfr-desc">
+<title id="wfr-title">Water softener financing: ten-year total for one system under six ways to pay</title>
+<desc id="wfr-desc">Illustrative bar chart for a 3,500 dollar dealer water softener. An online softener plus installer for cash costs about 1,970 dollars. Dealer cash and a 0% plan paid on time cost 3,500 dollars. A deferred-interest plan with 350 dollars left at month 18 costs about 4,315 dollars. Renting at 40 dollars a month costs 4,800 dollars over ten years. A 14.99% ten-year loan costs about 6,770 dollars.</desc>
+<rect width="760" height="520" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">One softener, six ways to pay: 10-year total</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative: $3,500 dealer system, prices checked 2 October 2026</text>
+
+<text x="30" y="110" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Online unit + installer</text>
+<text x="30" y="127" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">cash</text>
+<rect x="260" y="96" width="113" height="34" fill="#0e7490"/>
+<text x="383" y="118" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$1,970</text>
+
+<text x="30" y="168" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Dealer system</text>
+<text x="30" y="185" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">cash</text>
+<rect x="260" y="154" width="200" height="34" fill="#3a5a72"/>
+<text x="470" y="176" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$3,500</text>
+
+<text x="30" y="226" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">0% APR for 18 months</text>
+<text x="30" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">paid off on time</text>
+<rect x="260" y="212" width="200" height="34" fill="#3a5a72"/>
+<text x="470" y="234" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$3,500</text>
+
+<text x="30" y="284" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Deferred interest</text>
+<text x="30" y="301" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">$350 left at month 18</text>
+<rect x="260" y="270" width="200" height="34" fill="#3a5a72"/>
+<rect x="460" y="270" width="47" height="34" fill="#dc2626"/>
+<text x="517" y="292" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">$4,315</text>
+
+<text x="30" y="342" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Rental at $40 a month</text>
+<text x="30" y="359" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">service included, never owned</text>
+<rect x="260" y="328" width="274" height="34" fill="#78716c"/>
+<text x="544" y="350" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$4,800</text>
+
+<text x="30" y="400" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">14.99% loan, 10 years</text>
+<text x="30" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">$56.45 a month</text>
+<rect x="260" y="386" width="200" height="34" fill="#3a5a72"/>
+<rect x="460" y="386" width="187" height="34" fill="#dc2626"/>
+<text x="657" y="408" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">$6,770</text>
+
+<path class="ln" d="M260,440 L700,440" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M260,440 L260,447" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M374,440 L374,447" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M489,440 L489,447" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M603,440 L603,447" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="260" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<text x="374" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$2,000</text>
+<text x="489" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$4,000</text>
+<text x="603" y="464" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$6,000</text>
+
+<rect x="30" y="482" width="14" height="14" fill="#3a5a72"/>
+<text x="52" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">$3,500 system price</text>
+<rect x="210" y="482" width="14" height="14" fill="#dc2626"/>
+<text x="232" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">interest</text>
+<rect x="320" y="482" width="14" height="14" fill="#0e7490"/>
+<text x="342" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">online alternative</text>
+<rect x="490" y="482" width="14" height="14" fill="#78716c"/>
+<text x="512" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">rent paid</text>
+</svg>

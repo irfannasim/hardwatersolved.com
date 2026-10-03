@@ -135,7 +135,7 @@ Disinfectant choice is not permanent. Utilities change it, and softener owners r
 
 1. **Confirm the disinfectant** from the utility and with a free and total chlorine test.
 2. **If it is chloramine, specify catalytic carbon**, sized at about three minutes of contact at your peak flow as a starting point, and more if your residual is high or your water is cold.
-3. **Ask for the tested contact time and the NSF/ANSI 42 chloramine claim** for the specific model.
+3. **Ask for the tested contact time and the NSF/ANSI 42 chloramine claim** for the specific model. [Comparing carbon prefilters on capacity, flow and yearly cost](/blog/best-carbon-prefilters-for-water-softeners/) gives you a shortlist to hold to those two numbers.
 4. **Check the backwash flow** the larger tank needs against your valve and supply.
 5. **Test total chlorine after the carbon** every few months, and replace the media when it appears.
 6. **Watch for utility notices.** A switch from chlorine to chloramine turns a correctly sized filter into an undersized one overnight.

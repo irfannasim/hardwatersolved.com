@@ -67,7 +67,7 @@ A micron rating describes the size of particle a cartridge is designed to stop. 
 
 **Too coarse.** A 100-micron screen on its own lets fine silt straight through to the bed, and that silt is what builds the crust on top of the resin.
 
-**Staging beats picking one.** On a dirty well, fit a coarse spin-down or 50-micron stage first and a 20-micron cartridge after it. Each one then handles the particle size it is suited to, and the fine stage lasts many times longer because the coarse one takes the bulk.
+**Staging beats picking one.** On a dirty well, fit a coarse spin-down or 50-micron stage first and a 20-micron cartridge after it. Each one then handles the particle size it is suited to, and the fine stage lasts many times longer because the coarse one takes the bulk. If you are buying those stages for a well, [compare spin-down, cartridge and backwashing filters by micron rating and service interval](/blog/best-sediment-filters-for-well-water/).
 
 **Nominal versus absolute.** Most household cartridges are rated "nominal", which means they catch most, not all, particles of the stated size. Two cartridges both labelled 20 micron can behave differently. That is one more reason to judge the change by measuring pressure drop rather than trusting the label's service life.
 

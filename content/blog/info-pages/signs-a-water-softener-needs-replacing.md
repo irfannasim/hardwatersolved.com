@@ -101,7 +101,7 @@ One repair is maintenance. A string of them is information. The trap is judging 
 | 11 | Circuit board | $300 | $550 | 28% |
 | 12 | Resin re-bed, quoted | $550 | $1,100 | **55%** |
 
-Each repair looked reasonable on its own. The third takes the total past half the price of a new unit, on a 12-year-old valve that has already had two failures. Replacing now also buys a new warranty and, often, better salt efficiency. Your own numbers will differ, and [typical water softener repair costs](/blog/water-softener-repair-costs/) gives current ranges to plug in.
+Each repair looked reasonable on its own. The third takes the total past half the price of a new unit, on a 12-year-old valve that has already had two failures. Replacing now also buys a new warranty and, often, better salt efficiency. Check [what each brand's warranty covers, component by component](/blog/water-softener-warranties-compared/), because a lifetime tank means little if the valve gets three years. Your own numbers will differ, and [typical water softener repair costs](/blog/water-softener-repair-costs/) gives current ranges to plug in.
 
 **Two situations move the gate lower:**
 
@@ -151,7 +151,7 @@ If nothing is urgent, two months of records will settle the question.
 3. **Test the tap the day before a regeneration** at least twice.
 4. **Clean the brine tank and injector** so a blockage is not mimicking decline.
 5. **Try one resin cleaning** if the supply carries iron or manganese, and see whether the gallons recover.
-6. **Add up the last five years of repair invoices** and get one quote for the repair and one for a replacement.
+6. **Add up the last five years of repair invoices** and get one quote for the repair and one for a replacement. [What a replacement typically costs, with removal fees](/blog/water-softener-replacement-cost/), gives you a range to check that second quote against.
 7. **Check the tank** in good light for bulges, blisters and weeping.
 
 At the end of it you will know which of the four signs you have, if any. That makes the decision a matter of arithmetic rather than a salesperson's opinion.

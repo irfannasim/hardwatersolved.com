@@ -44,7 +44,7 @@ The softener goes on the main cold line after the main shutoff and after the bra
 
 Put the mineral tank and brine tank where you can reach the salt lid and the bypass, on a flat, solid floor. **Do not shim under the brine tank.** Morton warns the weight of a full salt tank can crack it at the shim. Level the floor area instead.
 
-Open the box and check the parts: the bypass valve, its clips, the drain hose and clamp, the overflow elbow, and the power supply. Anything missing is better discovered now than with the water off.
+Open the box and check the parts: the bypass valve, its clips, the drain hose and clamp, the overflow elbow, and the power supply. Anything missing is better discovered now than with the water off. Online brands differ in what they ship, and some do not name every part. [The SpringWell review](/blog/springwell-water-softener-review/) is one example of checking a box list against the manual before install day.
 
 ## Step 2: Shut Off the Water and Relieve Pressure (Flood Point 1)
 
@@ -151,6 +151,8 @@ A realistic split for a competent DIYer:
 | A shutoff that will not close | Hand off | Needs a curb shutoff or a valve replacement under pressure |
 | New drain line, standpipe or code questions | Hand off | Receptor sizing and the air gap are code items |
 | Ground jumper | Yes, to code | Simple, but it is electrical safety; ask if unsure |
+
+If most of your rows land in the hand-off column, buying with installation included may be simpler. [Comparing Home Depot and Lowe's install terms](/blog/home-depot-vs-lowes-water-softeners/) shows what each store's package covers, and [weighing a dealer-installed Culligan against a DIY Whirlpool](/blog/culligan-vs-whirlpool-water-softener/) shows what the dealer premium actually buys.
 
 Most failed DIY installs are not bad joints. They come from skipped steps: a drain line left unsecured, a bypass opened too fast, or pipes connected backwards. The patterns are collected in [common water softener installation mistakes](/blog/common-water-softener-installation-mistakes/).
 

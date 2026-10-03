@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 644" width="760" height="644" role="img" aria-labelledby="wbg-title wbg-desc">
+<title id="wbg-title">Water softener buying guide: seven-step purchase flow</title>
+<desc id="wbg-desc">Seven-step water softener buying guide flow: test the water, choose the type, size it, pick a channel and budget, get quotes, check certification, then install and start up, with the decision each step produces.</desc>
+<defs><marker id="wbg-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="644" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Water softener buying guide: seven steps</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Each step ends in one decision. Do them in order.</text>
+<text x="30" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Step</text>
+<text x="400" y="92" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="start" fill="#52697a">Decision it produces</text>
+<rect class="box" x="30" y="104" width="320" height="54" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="56" cy="131" r="14" fill="#0b2f4a"/>
+<text x="56" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+<text x="82" y="127" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Test the water</text>
+<text x="82" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">hardness, iron, chlorine, pH, TDS</text>
+<path class="ln" d="M350,131 L392,131" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="400" y="104" width="330" height="54" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="127" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Whether to soften, and what</text>
+<text x="416" y="146" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">has to go ahead of the softener</text>
+<path class="ln" d="M190,158 L190,174" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="30" y="180" width="320" height="54" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="56" cy="207" r="14" fill="#0b2f4a"/>
+<text x="56" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+<text x="82" y="203" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Choose the type</text>
+<text x="82" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">salt-based, salt-free, twin tank</text>
+<path class="ln" d="M350,207 L392,207" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="400" y="180" width="330" height="54" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="203" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Salt-based to remove hardness;</text>
+<text x="416" y="222" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">a conditioner only limits scale</text>
+<path class="ln" d="M190,234 L190,250" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="30" y="256" width="320" height="54" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="56" cy="283" r="14" fill="#0b2f4a"/>
+<text x="56" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+<text x="82" y="279" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Size it</text>
+<text x="82" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">daily load at a stated salt dose</text>
+<path class="ln" d="M350,283 L392,283" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="400" y="256" width="330" height="54" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="279" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Resin volume in cubic feet</text>
+<text x="416" y="298" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">and the peak flow it must carry</text>
+<path class="ln" d="M190,310 L190,326" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="30" y="332" width="320" height="54" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="56" cy="359" r="14" fill="#0b2f4a"/>
+<text x="56" y="364" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+<text x="82" y="355" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Pick a channel and budget</text>
+<text x="82" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">dealer, online or big-box</text>
+<path class="ln" d="M350,359 L392,359" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="400" y="332" width="330" height="54" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="355" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">A 10-year cost ceiling,</text>
+<text x="416" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">not just a purchase price</text>
+<path class="ln" d="M190,386 L190,402" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="30" y="408" width="320" height="54" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="56" cy="435" r="14" fill="#0b2f4a"/>
+<text x="56" y="440" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+<text x="82" y="431" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Get quotes</text>
+<text x="82" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">two or three, itemised</text>
+<path class="ln" d="M350,435 L392,435" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="400" y="408" width="330" height="54" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="431" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Prices you can compare</text>
+<text x="416" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">line by line</text>
+<path class="ln" d="M190,462 L190,478" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="30" y="484" width="320" height="54" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="56" cy="511" r="14" fill="#0b2f4a"/>
+<text x="56" y="516" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">6</text>
+<text x="82" y="507" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Check certification</text>
+<text x="82" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">NSF/ANSI 44 or WQA listing</text>
+<path class="ln" d="M350,511 L392,511" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="400" y="484" width="330" height="54" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="507" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">A listing you looked up</text>
+<text x="416" y="526" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">yourself, not a logo</text>
+<path class="ln" d="M190,538 L190,554" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="30" y="560" width="320" height="54" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<circle cx="56" cy="587" r="14" fill="#0b2f4a"/>
+<text x="56" y="592" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">7</text>
+<text x="82" y="583" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#0b2f4a">Install and start up</text>
+<text x="82" y="602" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">code items, hardness setting</text>
+<path class="ln" d="M350,587 L392,587" fill="none" stroke="#3a5a72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#wbg-a)"/>
+<rect class="box" x="400" y="560" width="330" height="54" rx="6" fill="#ffffff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="583" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0e7490">Soft water confirmed</text>
+<text x="416" y="602" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">by a test at the tap</text>
+</svg>

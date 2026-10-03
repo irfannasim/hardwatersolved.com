@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 640" width="760" height="640" role="img" aria-labelledby="wsa-title wsa-desc">
+<title id="wsa-title">Water softener alternatives: which one fixes your symptom</title>
+<desc id="wsa-desc">Decision chart matching seven hard water symptoms to one water softener alternative each: TAC conditioner, citric acid, polyphosphate, electronic descaler or under-sink RO, and showing that spotting, soap scum and shower skin feel are fixed by no alternative.</desc>
+<defs><marker id="wsa-ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="wsa-ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="640" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Pick the symptom, get one product type</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Left: what bothers you most. Right: the alternative that addresses it, or the fact that none does.</text>
+<rect class="box" x="30" y="92" width="300" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Spots on glass, soap scum,</text>
+<text x="46" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">poor lather, stiff laundry</text>
+<path class="ln" d="M330,121 L392,121" stroke="#dc2626" stroke-width="5" fill="none" marker-end="url(#wsa-ar)"/>
+<rect class="box" x="400" y="92" width="330" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="416" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">No alternative fixes this</text>
+<text x="416" y="136" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Hardness must come out: a softener</text>
+<rect class="box" x="30" y="164" width="300" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="189" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Scale in the water heater</text>
+<text x="46" y="208" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">and pipes, no salt or drain</text>
+<path class="ln" d="M330,193 L392,193" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#wsa-ag)"/>
+<rect class="box" x="400" y="164" width="330" height="58" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="189" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">TAC conditioner: Watts OneFlow+</text>
+<text x="416" y="208" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Up to 30 gpg; iron under 0.3 ppm</text>
+<rect class="box" x="30" y="236" width="300" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="261" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">The same, on water between</text>
+<text x="46" y="280" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">pH 7.3 and 8.5, under 25 gpg</text>
+<path class="ln" d="M330,265 L392,265" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#wsa-ag)"/>
+<rect class="box" x="400" y="236" width="330" height="58" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="261" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Citric acid: NuvoH2O Manor</text>
+<text x="416" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Cartridge about every 6 months</text>
+<rect class="box" x="30" y="308" width="300" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="333" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Scale in one appliance,</text>
+<text x="46" y="352" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">on a small budget</text>
+<path class="ln" d="M330,337 L392,337" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#wsa-ag)"/>
+<rect class="box" x="400" y="308" width="330" height="58" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="333" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Polyphosphate: Express WH100SP</text>
+<text x="416" y="352" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Cartridge: 100,000 gal or 6-12 months</text>
+<rect class="box" x="30" y="380" width="300" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="405" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Renting, and no plumbing</text>
+<text x="46" y="424" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">changes allowed</text>
+<path class="ln" d="M330,409 L392,409" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#wsa-ag)"/>
+<rect class="box" x="400" y="380" width="330" height="58" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="405" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Electronic descaler: Eddy</text>
+<text x="416" y="424" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Weakest evidence; test in refund window</text>
+<rect class="box" x="30" y="452" width="300" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="477" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Kettle scale and the taste</text>
+<text x="46" y="496" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">of drinking water</text>
+<path class="ln" d="M330,481 L392,481" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#wsa-ag)"/>
+<rect class="box" x="400" y="452" width="330" height="58" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="416" y="477" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Under-sink RO: Waterdrop G3P600</text>
+<text x="416" y="496" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">One tap; warranty needs under 7 gpg</text>
+<rect class="box" x="30" y="524" width="300" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="46" y="549" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Dry skin or hair</text>
+<text x="46" y="568" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">after showering</text>
+<path class="ln" d="M330,553 L392,553" stroke="#dc2626" stroke-width="5" fill="none" marker-end="url(#wsa-ar)"/>
+<rect class="box" x="400" y="524" width="330" height="58" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="416" y="549" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Shower filter: no hardness fix</text>
+<text x="416" y="568" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Aimed at chlorine; calcium passes</text>
+<text x="30" y="608" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Two red rows need hardness removed at the tap or the main line, which only ion exchange or RO does.</text>
+<text x="30" y="626" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Limits are from each maker's own documents; check them against your water test before buying.</text>
+</svg>

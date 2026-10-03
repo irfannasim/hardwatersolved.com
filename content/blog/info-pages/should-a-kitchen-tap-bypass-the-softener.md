@@ -71,7 +71,7 @@ For most healthy adults this is a small share of total intake. Food supplies the
 - **Very hard water.** At 30 gpg the added sodium starts to become noticeable. EPA's advisory says sodium between 30 and 60 mg/L is where taste-sensitive people start to notice it.
 - **Infant formula and cooking.** Mixing formula or reducing stocks concentrates whatever the water carries.
 
-If anyone in the house is under medical advice about sodium, treat the drinking water as their doctor's decision, not a plumbing preference. [How much sodium a water softener adds](/blog/sodium-in-softened-water/) goes further into the figures, including potassium chloride as an alternative.
+If anyone in the house is under medical advice about sodium, treat the drinking water as their doctor's decision, not a plumbing preference. [How much sodium a water softener adds](/blog/sodium-in-softened-water/) goes further into the figures, including potassium chloride as an alternative. For a household that has to cut it, [compare potassium, RO and a bypassed kitchen line on sodium removed and 10-year cost](/blog/water-softener-for-low-sodium-diets/).
 
 ## The Flaw in the Bypass Approach
 
@@ -129,7 +129,7 @@ This is the default in most installations, and for many households it is fine. T
 - The water test found something besides hardness that you want reduced at the drinking tap.
 - Hardness is high enough that softened water tastes salty.
 
-**Why a softener and RO work well together:** the softener protects the RO membrane from scale, and the RO removes most of the sodium the softener added. [How reverse osmosis and a water softener work together](/blog/reverse-osmosis-and-water-softener-together/) covers the membrane-life side of that pairing.
+**Why a softener and RO work well together:** the softener protects the RO membrane from scale, and the RO removes most of the sodium the softener added. [How reverse osmosis and a water softener work together](/blog/reverse-osmosis-and-water-softener-together/) covers the membrane-life side of that pairing. When you get to [choosing an RO unit to run on softened water](/blog/best-ro-systems-to-pair-with-a-water-softener/), start with its NSF/ANSI 58 listing.
 
 **The trade-offs:**
 

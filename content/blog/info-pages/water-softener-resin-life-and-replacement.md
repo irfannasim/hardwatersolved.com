@@ -108,7 +108,7 @@ The resin is a consumable. The tank is close to indestructible. The control valv
 2. **A new unit may pay back part of the difference in salt.** Efficiency figures have improved, and the EPA's overview of [cation exchange water softeners](https://www.epa.gov/watersense/cation-exchange-water-softeners) covers the demand-initiated and high-efficiency features that reduce salt and regeneration water use against older timer-based units.
 3. **Pretreatment is a separate line item and it is not optional.** If iron or chlorine caused the failure, budget for the filter in the same job. Installing new resin on the water that killed the old resin is the most reliably wasted money in this category.
 
-**The calculation, in one line:** if the re-bed costs more than roughly two thirds of a comparable new unit and the valve is past eight years, replace the unit.
+**The calculation, in one line:** if the re-bed costs more than roughly two thirds of a comparable new unit and the valve is past eight years, replace the unit. [Re-bed prices by tank size, DIY and professional](/blog/water-softener-resin-replacement-cost/) give you the first half of that comparison. If re-bedding wins, [match standard, 10% crosslink or fine mesh resin to the water that wore out the old bed](/blog/best-replacement-water-softener-resin/).
 
 ## What Actually Extends Resin Life
 

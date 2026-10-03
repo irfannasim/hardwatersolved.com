@@ -131,7 +131,7 @@ The label "salt-free water softener" is used for several unrelated technologies,
 
 - **TAC and similar nucleation media.** What this article describes. The best-documented salt-free route to scale reduction.
 - **Polyphosphate feeders.** A cartridge dissolves a small amount of phosphate into the water to keep hardness in solution. Useful on specific appliances; not interchangeable with TAC and, per Watts, not to be combined with it.
-- **Citric acid conditioners.** A cartridge doses a little citric acid, which binds calcium so it does not form scale and lowers pH slightly. [The Nuvo H2O review covers where that approach suits and where it does not](/blog/nuvo-h2o-review/).
+- **Citric acid conditioners.** A cartridge doses a little citric acid, which binds calcium so it does not form scale and lowers pH slightly. [The Nuvo H2O review covers where that approach suits and where it does not](/blog/nuvo-h2o-review/), and if you are choosing between the two routes, [weighing TAC media against citric acid on scale control and cartridge cost](/blog/springwell-futuresoft-vs-nuvo-h2o/) sets one of each side by side.
 - **Electronic and magnetic descalers.** Coils or magnets on the outside of a pipe. Independent results are weaker and more variable.
 - **Potassium chloride softeners.** Sometimes marketed as "salt-free" because they use no sodium chloride. They are ordinary ion-exchange softeners with a different regenerant.
 

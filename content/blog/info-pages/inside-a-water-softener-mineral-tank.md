@@ -125,6 +125,8 @@ Open ten old softeners and one or two will have a layer of small stones under th
 
 **The rule that ends the debate:** do what the tank was built with. Adding gravel to a basket designed without it steals freeboard. Leaving it out of a tank designed for it can leave the basket unprotected.
 
+Some dealer systems go further and split the tank itself. [The Hague WaterMax review](/blog/hague-watermax-review/) shows a three-compartment tank where only one compartment holds softening resin and the others hold carbon, KDF or other media. On a tank like that, the layer order above does not apply as drawn.
+
 ## What You Can Check Without Emptying the Tank
 
 With the softener in bypass, depressurised and the valve lifted off:

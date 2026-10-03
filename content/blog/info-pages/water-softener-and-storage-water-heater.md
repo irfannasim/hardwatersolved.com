@@ -99,7 +99,7 @@ If you are comfortable with basic plumbing, this is a half-hour job. If not, it 
 6. **Judge it.** A rod with its full diameter and some pitting is fine. Exposed steel core wire over much of the length means replace it.
 7. **Fit the replacement** with thread sealant approved for potable water, refill with a hot tap open until water runs, then restore power or gas.
 
-**Low ceiling?** Segmented, flexible anodes go in where a rigid rod will not. **Rotten-egg smell?** That is sulfate-reducing bacteria reacting with the anode. Bradford White's manual says an alternative anode can reduce the odour while still protecting the tank. Removing the anode is not the fix.
+**Low ceiling?** Segmented, flexible anodes go in where a rigid rod will not. **Rotten-egg smell?** That is sulfate-reducing bacteria reacting with the anode. Bradford White's manual says an alternative anode can reduce the odour while still protecting the tank. Removing the anode is not the fix. If the cold taps smell too, the sulfide is coming from the supply, and the answer is [a filter matched to your hydrogen sulfide level](/blog/best-filters-for-sulfur-smell-in-well-water/), not a different rod.
 
 ## Does Softened Water Corrode the Tank?
 

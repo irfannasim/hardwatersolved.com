@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="wqs-title wqs-desc">
+<title id="wqs-title">Water softener quotes: two $3,200 quotes split by line item</title>
+<desc id="wqs-desc">Illustrative stacked bars. Quote A totals 3,200 dollars: 1,400 for a 1.5 cubic foot softener, 600 for a carbon prefilter, 800 for installation with a new loop and drain, and 400 for five years of service. Quote B also totals 3,200 dollars: 2,700 for a dealer softener package and 500 for basic installation. An online 48,000 grain softener with 10% resin sold for about 785 dollars before installation.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Same $3,200 total, two different systems</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Illustrative water softener quotes, split by line item</text>
+
+<text x="30" y="116" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Quote A</text>
+<text x="30" y="134" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">independent installer</text>
+<rect x="200" y="100" width="200" height="40" fill="#0e7490"/>
+<rect x="400" y="100" width="86" height="40" fill="#3a5a72"/>
+<rect x="486" y="100" width="114" height="40" fill="#0b2f4a"/>
+<rect x="600" y="100" width="57" height="40" fill="#52697a"/>
+<text x="300" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">$1,400</text>
+<text x="443" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">$600</text>
+<text x="543" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">$800</text>
+<text x="628" y="125" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">$400</text>
+<text x="667" y="125" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">$3,200</text>
+<text x="200" y="162" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">1.5 cu ft, Fleck valve, carbon prefilter, 5 years of service</text>
+
+<text x="30" y="206" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Quote B</text>
+<text x="30" y="224" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">in-home dealer visit</text>
+<rect x="200" y="190" width="386" height="40" fill="#0e7490"/>
+<rect x="586" y="190" width="71" height="40" fill="#0b2f4a"/>
+<text x="393" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">$2,700 softener package</text>
+<text x="621" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">$500</text>
+<text x="667" y="215" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#dc2626">$3,200</text>
+<text x="200" y="252" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">About 1 cu ft, proprietary valve, no pretreatment, basic hookup</text>
+
+<text x="30" y="296" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">Online benchmark</text>
+<text x="30" y="314" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">48k, 10% resin, Fleck</text>
+<rect x="200" y="280" width="112" height="40" fill="#0e7490" fill-opacity="0.55"/>
+<text x="256" y="305" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">$785</text>
+<text x="322" y="305" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">equipment only, before installation</text>
+
+<path class="ln" d="M200,350 L700,350" stroke="#3a5a72" stroke-width="1.5" fill="none"/>
+<path class="ln" d="M200,350 L200,357" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M343,350 L343,357" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M486,350 L486,357" stroke="#3a5a72" stroke-width="1.5"/>
+<path class="ln" d="M629,350 L629,357" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="200" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$0</text>
+<text x="343" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$1,000</text>
+<text x="486" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$2,000</text>
+<text x="629" y="374" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">$3,000</text>
+
+<rect x="30" y="400" width="14" height="14" fill="#0e7490"/>
+<text x="52" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">softener equipment</text>
+<rect x="210" y="400" width="14" height="14" fill="#3a5a72"/>
+<text x="232" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">carbon prefilter</text>
+<rect x="370" y="400" width="14" height="14" fill="#0b2f4a"/>
+<text x="392" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">installation</text>
+<rect x="500" y="400" width="14" height="14" fill="#52697a"/>
+<text x="522" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">service visits</text>
+<text x="30" y="454" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">The total hides the split. Ask every company to price these lines separately.</text>
+<text x="30" y="476" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Benchmark: AFWFilters store price on 2 October 2026.</text>
+</svg>

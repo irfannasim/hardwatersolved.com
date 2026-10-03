@@ -141,7 +141,7 @@ On that last row, a reverse osmosis unit at one tap removes tannin color and tas
 1. **Confirm it is tannin**, using the glass and filter tests in the yellow water guide.
 2. **Order a lab test that covers the design numbers**: tannin in ppm, hardness, iron, manganese, pH, alkalinity and total dissolved solids. Sample in spring if your color is seasonal.
 3. **Place the tannin unit after the softener** unless the water is already soft and iron-free.
-4. **Check any combination unit against its published limits** before you buy, and choose separate tanks if you are outside them.
+4. **Check any combination unit against its published limits** before you buy, and choose separate tanks if you are outside them. When you reach the equipment, [comparing standalone tannin units with combination tanks](/blog/best-tannin-filters/) sets each against those limits.
 5. **Plan for pH.** If alkalinity is low, expect the pH dip and budget for correction.
 6. **Set regeneration on the tannin schedule**, every two to three days, and keep chlorine away from the resins.
 

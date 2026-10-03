@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="evs-title evs-desc">
+<title id="evs-title">Eddy vs ScaleBlaster: refund windows and a kettle-scale test timeline</title>
+<desc id="evs-desc">Timeline in months from purchase comparing the ScaleBlaster SB-75 90-day money-back window, which ends when its manual says full results should show, with the Eddy 12-month window, and where an untreated baseline and treated kettle-scale runs fit inside each.</desc>
+<rect width="760" height="560" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#0b2f4a">Fit the kettle test inside the refund window</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Months from purchase. Run the untreated baseline before you order.</text>
+<text x="165" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#52697a">Before order</text>
+<text x="230" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="350" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">3</text>
+<text x="470" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">6</text>
+<text x="590" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">9</text>
+<text x="710" y="100" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">12</text>
+<text x="30" y="132" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">ScaleBlaster SB-75: money-back window</text>
+<rect class="box" x="230" y="142" width="120" height="28" rx="4" fill="#0b2f4a"/>
+<text x="290" y="161" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">90 days</text>
+<text x="30" y="200" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#0b2f4a">ScaleBlaster manual: allow up to 90 days for full benefits</text>
+<rect class="box" x="230" y="210" width="120" height="28" rx="4" fill="#dbeafe" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="290" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Same 90 days</text>
+<text x="368" y="229" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Results and refund deadline arrive together</text>
+<text x="30" y="268" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#0b2f4a">Kettle test for the SB-75</text>
+<rect class="box" x="110" y="278" width="110" height="28" rx="4" fill="#c2410c"/>
+<text x="165" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Baseline 3 wks</text>
+<rect class="box" x="240" y="278" width="76" height="28" rx="4" fill="#0e7490"/>
+<text x="278" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Treated</text>
+<path class="ln" d="M330,276 L330,310" fill="none" stroke="#dc2626" stroke-width="3"/>
+<text x="340" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#dc2626">Decide by day 75</text>
+<text x="30" y="352" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">Eddy: money-back window</text>
+<rect class="box" x="230" y="362" width="480" height="28" rx="4" fill="#0b2f4a"/>
+<text x="470" y="381" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">12 months</text>
+<text x="30" y="420" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#0b2f4a">Kettle test for the Eddy</text>
+<rect class="box" x="110" y="430" width="110" height="28" rx="4" fill="#c2410c"/>
+<text x="165" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Baseline 3 wks</text>
+<rect class="box" x="240" y="430" width="76" height="28" rx="4" fill="#0e7490"/>
+<text x="278" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Run 1</text>
+<rect class="box" x="430" y="430" width="76" height="28" rx="4" fill="#0e7490"/>
+<text x="468" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">Run 2</text>
+<path class="ln" d="M670,428 L670,462" fill="none" stroke="#dc2626" stroke-width="3"/>
+<text x="660" y="449" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#dc2626">Decide by month 11</text>
+<rect x="30" y="494" width="16" height="16" fill="#c2410c"/>
+<text x="54" y="507" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Untreated baseline</text>
+<rect x="200" y="494" width="16" height="16" fill="#0e7490"/>
+<text x="224" y="507" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Treated kettle run</text>
+<rect x="370" y="494" width="16" height="16" fill="#0b2f4a"/>
+<text x="394" y="507" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Refund window</text>
+<text x="30" y="540" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Day 75 leaves about two weeks to arrange a return before day 90. Windows run from the purchase date.</text>
+</svg>

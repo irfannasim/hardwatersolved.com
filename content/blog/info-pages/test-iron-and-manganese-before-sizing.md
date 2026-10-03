@@ -134,7 +134,7 @@ Ask the laboratory for these five, drawn from the same sample: **total hardness,
 Then apply the numbers in this order:
 
 1. **Decide whether iron needs its own stage** using the threshold table above. Do this before any sizing arithmetic, because the answer changes what the softener sees.
-2. **If an iron filter goes in front**, size the softener on hardness plus a small residual iron allowance, not the raw figure. The filter is doing the heavy work.
+2. **If an iron filter goes in front**, size the softener on hardness plus a small residual iron allowance, not the raw figure. The filter is doing the heavy work. If manganese is part of that load, [choose a filter rated for manganese](/blog/best-manganese-filters-for-well-water/), because it needs a higher pH and stronger oxidation than iron.
 3. **If the softener is carrying the iron**, calculate compensated hardness with the formula, using the high end of your seasonal hardness range.
 4. **Program the valve with the compensated figure**, plus a small reserve. Do not enter raw hardness and assume the reserve will cover the iron; it will not, and the two allowances are for different things.
 5. **Write the numbers and the date on a label inside the softener cabinet.** The next person to service it — possibly you, five years from now — will otherwise have no idea what the setting was based on.

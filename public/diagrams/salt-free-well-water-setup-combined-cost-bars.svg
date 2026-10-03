@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" width="760" height="500" role="img" aria-labelledby="swc-title swc-desc">
+<title id="swc-title">Combined cost of a salt-free water softener setup for well water, by route</title>
+<desc id="swc-desc">Bar chart of salt-free water softener setups for well water: SpringWell WSSF-1 combo about $3,347 with its required water test, the same two SpringWell units bought separately about $4,150, an AFWFilters AIS10 iron filter plus FutureSoft about $2,984, and the Aquasana Rhino well system with UV and conditioner about $2,697 with no iron removal.</desc>
+<rect width="760" height="500" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">What a salt-free setup costs on a well</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Equipment at the makers' store prices, 2 October 2026. Installation and sediment filters not included.</text>
+
+<rect x="30" y="84" width="16" height="16" fill="#b45309"/>
+<text x="54" y="97" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Iron and sulfur filter</text>
+<rect x="215" y="84" width="16" height="16" fill="#0e7490"/>
+<text x="239" y="97" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Conditioner</text>
+<rect x="350" y="84" width="16" height="16" fill="#3a5a72"/>
+<text x="374" y="97" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Package price</text>
+<rect x="500" y="84" width="16" height="16" fill="#cbd5e1"/>
+<text x="524" y="97" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#0b2f4a">Required water test</text>
+
+<!-- scale: x0 = 200, 0.11 px per dollar -->
+<line class="ln" x1="200" y1="125" x2="200" y2="430" stroke="#3a5a72" stroke-width="1.5"/>
+
+<text x="190" y="152" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">SpringWell WSSF-1</text>
+<text x="190" y="170" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">iron filter + FutureSoft combo</text>
+<rect x="200" y="140" width="353" height="36" fill="#3a5a72"/>
+<rect x="553" y="140" width="15" height="36" fill="#cbd5e1"/>
+<text x="578" y="164" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$3,347</text>
+
+<text x="190" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">SpringWell WS1 + FS1</text>
+<text x="190" y="240" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">same units bought separately</text>
+<rect x="200" y="210" width="245" height="36" fill="#b45309"/>
+<rect x="445" y="210" width="196" height="36" fill="#0e7490"/>
+<rect x="641" y="210" width="15" height="36" fill="#cbd5e1"/>
+<text x="666" y="234" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$4,150</text>
+
+<text x="190" y="292" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">AFWFilters AIS10</text>
+<text x="190" y="310" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">+ SpringWell FutureSoft FS1</text>
+<rect x="200" y="280" width="132" height="36" fill="#b45309"/>
+<rect x="332" y="280" width="196" height="36" fill="#0e7490"/>
+<text x="538" y="304" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$2,984 + your lab test</text>
+
+<text x="190" y="362" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#0b2f4a">Aquasana Rhino well</text>
+<text x="190" y="380" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">UV + salt-free conditioner</text>
+<rect x="200" y="350" width="297" height="36" fill="#3a5a72"/>
+<text x="507" y="374" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#0b2f4a">$2,697, no iron stage</text>
+
+<text x="30" y="460" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Aquasana price recorded 1 October 2026. The Aquasana system removes no iron, so it suits only wells</text>
+<text x="30" y="478" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">already under 0.3 ppm iron and 15 gpg. SpringWell requires its $134 water test before it ships.</text>
+</svg>

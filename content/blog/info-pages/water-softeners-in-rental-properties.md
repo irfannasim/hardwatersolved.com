@@ -65,6 +65,8 @@ Set it up so the tenant's part is as small as possible:
 - **Keep the outdoor taps on hard water.** It saves salt and keeps softened water off the lawn.
 - **Check it at every unit inspection and turnover.** Look at the salt level, check for leaks and test a softened tap. A salt bridge or an empty tank is easy to fix before it becomes a hardness complaint.
 
+If you would rather not own the unit at all, a dealer rental moves repairs onto the dealer; [what a Culligan rental costs each month and what the agreement covers](/blog/culligan-water-softener-rental-cost/) shows when that beats buying.
+
 **In a multi-unit building**, a single shared softener changes the arrangement. The owner usually buys the salt, and the softener lives in an owner-access room. That setup, and how to size it, is covered in [one softener for multiple units](/blog/one-water-softener-for-multiple-units/).
 
 ## For Tenants: What You May Install

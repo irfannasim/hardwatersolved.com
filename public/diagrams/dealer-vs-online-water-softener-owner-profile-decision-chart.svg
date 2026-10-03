@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 590" width="760" height="590" role="img" aria-labelledby="dop-title dop-desc">
+<title id="dop-title">Dealer vs online water softener: which channel suits which owner</title>
+<desc id="dop-desc">Decision chart for choosing a dealer vs online water softener: owners who cannot install or have complex water go to a dealer or water specialist, owners who will not maintain the unit go online with a plumber and a call-out budget, and hands-on owners with simple hard water buy online.</desc>
+<defs>
+<marker id="dop-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker>
+</defs>
+<rect width="760" height="590" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Which buying channel fits you?</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Answer from the top; the first No decides.</text>
+
+<rect class="box" x="30" y="90" width="380" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="220" y="119" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1. Can you install and program it,</text>
+<text x="220" y="141" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">or do you have a plumber you trust?</text>
+
+<rect class="box" x="30" y="220" width="380" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="220" y="249" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">2. Is it mainly hardness, confirmed</text>
+<text x="220" y="271" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">by a test, with little or no iron?</text>
+
+<rect class="box" x="30" y="350" width="380" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="220" y="379" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">3. Will you do the yearly checks</text>
+<text x="220" y="401" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">and small repairs yourself?</text>
+
+<rect class="box" x="480" y="90" width="250" height="70" rx="8" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="605" y="119" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Dealer</text>
+<text x="605" y="141" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">one firm tests, fits and services</text>
+
+<rect class="box" x="480" y="220" width="250" height="70" rx="8" fill="#ffffff" stroke="#0b2f4a" stroke-width="2"/>
+<text x="605" y="249" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Dealer or water specialist</text>
+<text x="605" y="271" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">lab test, then a designed system</text>
+
+<rect class="box" x="480" y="350" width="250" height="70" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="2"/>
+<text x="605" y="379" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Online + plumber</text>
+<text x="605" y="401" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">budget for technician call-outs</text>
+
+<rect class="box" x="30" y="480" width="380" height="70" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="220" y="509" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0e7490">Online softener</text>
+<text x="220" y="531" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">lowest 15-year cost; DIY install if you can</text>
+
+<path class="ln" d="M410,125 L474,125" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dop-ah)"/>
+<text x="442" y="113" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<path class="ln" d="M410,255 L474,255" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dop-ah)"/>
+<text x="442" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+<path class="ln" d="M410,385 L474,385" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dop-ah)"/>
+<text x="442" y="373" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">No</text>
+
+<path class="ln" d="M220,160 L220,214" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dop-ah)"/>
+<text x="234" y="192" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<path class="ln" d="M220,290 L220,344" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dop-ah)"/>
+<text x="234" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+<path class="ln" d="M220,420 L220,474" stroke="#3a5a72" stroke-width="5" fill="none" marker-end="url(#dop-ah)"/>
+<text x="234" y="452" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#15803d">Yes</text>
+</svg>

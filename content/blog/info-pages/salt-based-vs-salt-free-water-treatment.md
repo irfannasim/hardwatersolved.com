@@ -124,7 +124,7 @@ If your answer is "both" in the sense that you want the softened feel and you li
 | Parts that wear | Control valve seals, injector, resin over many years | Media |
 | Installation needs | Drain, power outlet, bypass valve | Bypass valve; prefilter often recommended |
 
-Neither needs much attention if it is sized and installed properly, but the attention each one needs is different. A salt-based softener fails loudly: hard water comes back and the owner notices. A conditioner that has passed the end of its media life fails quietly, and scale builds up slowly before anyone knows.
+Neither needs much attention if it is sized and installed properly, but the attention each one needs is different. A salt-based softener fails loudly: hard water comes back and the owner notices. A conditioner that has passed the end of its media life fails quietly, and scale builds up slowly before anyone knows. In money terms, [pricing a salt-free conditioner's media changes over ten years against a salt softener](/blog/salt-free-water-conditioner-cost/) shows when going salt-free actually saves money.
 
 ## What Neither System Does
 
@@ -139,7 +139,7 @@ Whether your house needs either system at all is a separate question, worked thr
 
 ## The Short Answer
 
-Choose salt-based when you want the hardness gone and can see the evidence in your glasses, showers and laundry. Choose salt-free when the goal is protecting equipment from scale, you cannot discharge brine, or you want as little upkeep as possible, and your water sits inside the conditioner's stated limits. Test your hardness, iron and manganese first. The right answer comes from the test, not from either sales pitch. The [Pelican review sets one brand's salt-based softener and salt-free conditioner side by side against a water test](/blog/pelican-water-softener-review/), which is this choice applied to two real products.
+Choose salt-based when you want the hardness gone and can see the evidence in your glasses, showers and laundry. Choose salt-free when the goal is protecting equipment from scale, you cannot discharge brine, or you want as little upkeep as possible, and your water sits inside the conditioner's stated limits. Test your hardness, iron and manganese first. The right answer comes from the test, not from either sales pitch. The [Pelican review sets one brand's salt-based softener and salt-free conditioner side by side against a water test](/blog/pelican-water-softener-review/), which is this choice applied to two real products. If the test points to salt-free, [choosing a conditioner that publishes its scale evidence and water limits](/blog/best-salt-free-water-conditioners/) is the next step.
 
 ## Related Comparisons
 

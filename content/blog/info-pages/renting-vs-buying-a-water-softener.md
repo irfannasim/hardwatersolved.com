@@ -44,7 +44,7 @@ Break-even in months = installed purchase price ÷ (monthly rent − owner's mon
 
 **A worked example.** A rental at $40 a month against a $1,500 installed purchase: $1,500 ÷ ($40 − $7) = 45 months, or about 3.8 years. Stay five years and buying saves about $480. Stay ten and it saves about $2,460, before the owner's softener still has years of life left.
 
-The rents in the table span the range typically advertised for standard residential softeners, and they are illustrative, not survey data. Local rents and purchase prices vary widely, which is why the method matters more than any single cell. What goes into an installed price, and why two quotes differ, is covered in [how much water softener installation costs](/blog/water-softener-installation-cost/).
+The rents in the table span the range typically advertised for standard residential softeners, and they are illustrative, not survey data. Local rents and purchase prices vary widely, which is why the method matters more than any single cell. What goes into an installed price, and why two quotes differ, is covered in [how much water softener installation costs](/blog/water-softener-installation-cost/). If your rental quote is from Culligan, [checking it against typical Culligan rental rates](/blog/culligan-water-softener-rental-cost/) tells you whether the number going into the formula is fair.
 
 ## What Rent Usually Covers, and What It Leaves to You
 
@@ -93,6 +93,8 @@ Before signing any monthly-payment agreement, find out:
 - **What is the interest rate and the total repayable?** Compare the total with the cash price of the same system.
 - **Who is the lender?** It is often a finance company, not the dealer.
 - **Will anything be recorded against your home?** Ask directly, and ask how it is cleared if you sell.
+
+If you would rather buy on credit openly, [comparing cash, 0%, deferred-interest and dealer-loan totals](/blog/water-softener-financing/) shows what each one adds to the price.
 
 ## Your Three-Day Right to Cancel an In-Home Sale
 

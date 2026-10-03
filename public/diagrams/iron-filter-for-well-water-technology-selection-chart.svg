@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 700" width="760" height="700" role="img" aria-labelledby="ifts-title ifts-desc">
+<title id="ifts-title">Iron filter for well water: technology selection chart</title>
+<desc id="ifts-desc">Decision chart for choosing the best iron filter for well water. Five checks in order: iron bacteria, pH below 6.8, iron plus manganese over 10 ppm, hydrogen sulfide, and manganese over 2 ppm. Each yes leads to a technology and a pick; wells that pass every check go to an air injection filter.</desc>
+<defs><marker id="ifts-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="700" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Which iron filter technology fits your well</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Answer from a lab test, top to bottom. Stop at the first yes.</text>
+
+<rect class="box" x="30" y="86" width="330" height="62" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Slime, red gel or swampy smell?</text>
+<text x="195" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">(signs of iron bacteria)</text>
+<path class="ln" d="M360,117 L414,117" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="387" y="105" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<rect class="box" x="420" y="86" width="310" height="62" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="575" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">Disinfect the well first</text>
+<text x="575" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">If it returns: chlorine injection + filter</text>
+
+<path class="ln" d="M195,148 L195,176" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="206" y="167" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="182" width="330" height="62" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="208" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Is the pH below 6.8?</text>
+<text x="195" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">(greensand works poorly below it)</text>
+<path class="ln" d="M360,213 L414,213" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="387" y="201" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<rect class="box" x="420" y="182" width="310" height="62" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="575" y="207" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Katalox Light: WECO KL-1054</text>
+<text x="575" y="227" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">pH floor 5.8, or raise the pH first</text>
+
+<path class="ln" d="M195,244 L195,272" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="206" y="263" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="278" width="330" height="62" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="304" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Iron + manganese over 10 ppm?</text>
+<text x="195" y="324" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">(above Penn State's greensand range)</text>
+<path class="ln" d="M360,309 L414,309" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="387" y="297" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<rect class="box" x="420" y="278" width="310" height="62" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="575" y="303" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Chlorine injection + backwash filter</text>
+<text x="575" y="323" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Chemical-free: Oceanic AIO 12x52</text>
+
+<path class="ln" d="M195,340 L195,368" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="206" y="359" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="374" width="330" height="62" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="400" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Rotten-egg smell from cold taps?</text>
+<text x="195" y="420" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">(hydrogen sulfide in the well)</text>
+<path class="ln" d="M360,405 L414,405" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="387" y="393" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<rect class="box" x="420" y="374" width="310" height="62" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="575" y="399" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Over 4 ppm: Oceanic AIO 12x52</text>
+<text x="575" y="419" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Up to 4 ppm: AFW Silver 10</text>
+
+<path class="ln" d="M195,436 L195,464" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="206" y="455" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="470" width="330" height="62" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="496" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Manganese over 2 ppm?</text>
+<text x="195" y="516" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">(above the Silver 10's rating)</text>
+<path class="ln" d="M360,501 L414,501" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="387" y="489" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<rect class="box" x="420" y="470" width="310" height="62" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="575" y="495" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0e7490">Greensand Plus 15 (Mn to 15 ppm)</text>
+<text x="575" y="515" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">or Filox 10 (Mn to 3 ppm)</text>
+
+<path class="ln" d="M195,532 L195,560" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#ifts-a)"/>
+<text x="206" y="551" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="566" width="330" height="62" rx="6" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="195" y="591" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#15803d">Iron up to 10 ppm, little else</text>
+<text x="195" y="611" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">AFW Air Injection Silver 10</text>
+
+<text x="30" y="660" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Ratings are the sellers' own. Every pick backwashes at 5 to 10 gpm, so check your pump's</text>
+<text x="30" y="678" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">sustained flow before ordering any of them.</text>
+</svg>

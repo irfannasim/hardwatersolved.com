@@ -135,7 +135,7 @@ A useful rule when reading ratings: choose a system whose **rated service flow i
 Many houses have a 1-inch service line, and many softeners are sold with 3/4-inch connections. On a small house that rarely matters. On a large one it can.
 
 - **Match the loop to the main.** If the house has a 1-inch main, plumb the softener loop, the bypass and the connectors in 1-inch. A loop necked down to 3/4-inch or run through long, narrow flexible connectors can lose more pressure than the softener.
-- **Pick a valve with 1-inch ports** when the fixture-unit peak is in the high teens. The difference between a 5600SXT-class valve and a 7000-class valve in the figures above is about 8 gpm at the same pressure drop. [Comparing large-home softeners on tank diameter and valve size](/blog/best-water-softeners-for-large-homes/) starts from this same peak-flow figure.
+- **Pick a valve with 1-inch ports** when the fixture-unit peak is in the high teens. The difference between a 5600SXT-class valve and a 7000-class valve in the figures above is about 8 gpm at the same pressure drop, and [deciding whether your peak justifies a 7000SXT over a 5600SXT](/blog/fleck-5600sxt-vs-7000sxt/) turns on that gap. [Comparing large-home softeners on tank diameter and valve size](/blog/best-water-softeners-for-large-homes/) starts from this same peak-flow figure.
 - **Check the bypass.** The bypass valve sits in the same flow path. A restrictive bypass costs pressure in service and in bypass alike, which makes it easy to miss.
 
 ## High-Flow Fixture Cases

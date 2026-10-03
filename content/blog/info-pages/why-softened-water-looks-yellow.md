@@ -156,7 +156,7 @@ Two rules hold across all of them:
 - **Iron removal always precedes both resins.** Getting this backwards is one of the more expensive well water mistakes there is, and it is covered from the softener side in [why water turns brown after softener regeneration](/blog/brown-water-after-softener-regeneration/).
 - **Never install a tannin unit ahead of an unprotected softener on iron-bearing water** on the theory that it will catch everything first. It will catch iron, blind, and stop removing colour within a season.
 
-**A note on sizing.** Tannin resin is dosed against the measured tannin concentration in ppm as tannic acid, not against hardness, and contact time matters as much as tank volume — undersized units on high flow give partial colour removal that owners then report as a faulty unit. Get the lab number before anyone quotes you equipment. The general argument for measuring rather than guessing is made in [home water test kit versus certified laboratory test](/blog/home-water-test-vs-lab-test/).
+**A note on sizing.** Tannin resin is dosed against the measured tannin concentration in ppm as tannic acid, not against hardness, and contact time matters as much as tank volume — undersized units on high flow give partial colour removal that owners then report as a faulty unit. Get the lab number before anyone quotes you equipment, then use it for [choosing a tannin unit and deciding whether a combo tank makes sense](/blog/best-tannin-filters/). The general argument for measuring rather than guessing is made in [home water test kit versus certified laboratory test](/blog/home-water-test-vs-lab-test/).
 
 ## Alternatives, and Where They Genuinely Fit
 

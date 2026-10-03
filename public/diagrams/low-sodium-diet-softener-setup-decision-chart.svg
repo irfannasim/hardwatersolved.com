@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="lsd-title lsd-desc">
+<title id="lsd-title">Decision chart: which water softener setup for a low-sodium diet</title>
+<desc id="lsd-desc">Decision chart for a water softener on a low-sodium diet: anyone also told to limit potassium skips potassium chloride, homes with other treatment or a well choose reverse osmosis at the kitchen tap, and homes with an easy cold line before the softener can run a hard bypass line.</desc>
+<defs><marker id="lsdg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker><marker id="lsdn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52697a"/></marker><marker id="lsdr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Which low-sodium setup fits your house</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Start with the sodium limit from the clinician managing the diet, then work down</text>
+<rect class="box" x="30" y="95" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="126" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Has a clinician also told anyone</text>
+<text x="195" y="144" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">in the house to limit potassium?</text>
+<rect class="box" x="440" y="89" width="290" height="82" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="585" y="117" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Skip potassium chloride</text>
+<text x="585" y="135" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Use RO at the tap, or a hard</text>
+<text x="585" y="153" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">line, and keep salt in the softener</text>
+<path class="ln" d="M360,130 L436,130" stroke="#dc2626" stroke-width="5" fill="none" marker-end="url(#lsdr)"/>
+<text x="400" y="118" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Yes</text>
+<path class="ln" d="M195,165 L195,211" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#lsdn)"/>
+<text x="207" y="195" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="30" y="215" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="246" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Is the water treated for more than</text>
+<text x="195" y="264" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">hardness (well, iron, filters)?</text>
+<rect class="box" x="440" y="209" width="290" height="82" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="585" y="237" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">RO at the kitchen tap</text>
+<text x="585" y="255" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Removes added and raw sodium;</text>
+<text x="585" y="273" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">a hard line would skip the filters</text>
+<path class="ln" d="M360,250 L436,250" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#lsdg)"/>
+<text x="400" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<path class="ln" d="M195,285 L195,331" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#lsdn)"/>
+<text x="207" y="315" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="30" y="335" width="330" height="70" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="366" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Can a plumber reach a cold line</text>
+<text x="195" y="384" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">before the softener easily?</text>
+<rect class="box" x="440" y="329" width="290" height="82" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="585" y="357" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Hard bypass line</text>
+<text x="585" y="375" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">No sodium added, no filters to buy;</text>
+<text x="585" y="393" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">the tap runs hard water</text>
+<path class="ln" d="M360,370 L436,370" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#lsdg)"/>
+<text x="400" y="358" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Yes</text>
+<path class="ln" d="M195,405 L195,451" stroke="#52697a" stroke-width="4" fill="none" marker-end="url(#lsdn)"/>
+<text x="207" y="435" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#52697a">No</text>
+<rect class="box" x="30" y="455" width="700" height="82" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="380" y="483" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">RO at the kitchen tap, the usual answer</text>
+<text x="380" y="501" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">Potassium chloride instead only if you want low-sodium water at every tap</text>
+<text x="380" y="519" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" fill="#0b2f4a">and accept a running cost several times that of an RO unit</text>
+<text x="30" y="574" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">This chart picks equipment. It does not set a sodium limit: that comes from the clinician.</text>
+</svg>

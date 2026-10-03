@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 532" width="760" height="532" role="img" aria-labelledby="bsfw-title bsfw-desc">
+<title id="bsfw-title">Best sediment filters for well water by micron rating: sand, silt and fine turbidity</title>
+<desc id="bsfw-desc">Log-scale chart of particle size from 1 to 1,000 microns with bands for fine turbidity and clay under 4 µm, silt from about 4 to 63 µm and sand above 63 µm. Bars show which sizes each sediment filter for well water catches: a 90 µm self-cleaning screen, a 50 µm spin-down, a 20 µm backwashing Filter-Ag tank and a 5 µm cartridge.</desc>
+<defs></defs>
+<rect width="760" height="532" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start" fill="#0b2f4a">Which sediment filter catches which particles</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Particle size on a log scale. Each bar runs from the filter’s micron rating up through larger particles.</text>
+<rect class="box" x="90" y="84" width="126.4325981788721" height="48" rx="0" fill="#f1f5f9" stroke="#52697a" stroke-width="1.5"/>
+<text x="153.21629908943606" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Fine turbidity</text>
+<text x="153.21629908943606" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">and clay, &lt; 4 µm</text>
+<rect class="box" x="216.4325981788721" y="84" width="251.42891720638008" height="48" rx="0" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+<text x="342.1470567820621" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Silt</text>
+<text x="342.1470567820621" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">about 4 to 63 µm</text>
+<rect class="box" x="467.8615153852522" y="84" width="252.13848461474782" height="48" rx="0" fill="#fde8d7" stroke="#c2410c" stroke-width="1.5"/>
+<text x="593.9307576926261" y="104" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sand</text>
+<text x="593.9307576926261" y="122" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">over about 63 µm</text>
+<path class="ln" d="M90,150 L720,150" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ln" d="M90,150 L90,157" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="90" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">1 µm</text>
+<path class="ln" d="M236.78370091056397,150 L236.78370091056397,157" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="236.78370091056397" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">5</text>
+<path class="ln" d="M300,150 L300,157" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="300" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">10</text>
+<path class="ln" d="M363.21629908943606,150 L363.21629908943606,157" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="363.21629908943606" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">20</text>
+<path class="ln" d="M446.78370091056394,150 L446.78370091056394,157" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="446.78370091056394" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">50</text>
+<path class="ln" d="M510,150 L510,157" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="510" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">100</text>
+<path class="ln" d="M656.783700910564,150 L656.783700910564,157" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="656.783700910564" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">500</text>
+<path class="ln" d="M720,150 L720,157" fill="none" stroke="#3a5a72" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="720" y="173" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" fill="#52697a">1,000 µm</text>
+<text x="30" y="202" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Self-cleaning screen, 90 µm (50 µm option)</text>
+<text x="30" y="220" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">WECO SEDFLUSH · manual or automatic flush · catches sand</text>
+<rect x="500.3909269822582" y="230" width="219.60907301774182" height="20" rx="3" fill="#a5d8e3" stroke="#0e7490" stroke-width="1.5"/>
+<text x="492.3909269822582" y="245" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">90 µm</text>
+<text x="30" y="274" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Auto-flush spin-down, 50 µm</text>
+<text x="30" y="292" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">iSpring WSP50ARB · timed flush to drain · catches sand and coarse silt</text>
+<rect x="446.78370091056394" y="302" width="273.21629908943606" height="20" rx="3" fill="#a5d8e3" stroke="#0e7490" stroke-width="1.5"/>
+<text x="438.78370091056394" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">50 µm</text>
+<text x="30" y="346" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Backwashing Filter-Ag tank, 20 µm</text>
+<text x="30" y="364" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">AFWFilters · backwashes itself · catches most silt</text>
+<rect x="363.21629908943606" y="374" width="356.78370091056394" height="20" rx="3" fill="#a5d8e3" stroke="#0e7490" stroke-width="1.5"/>
+<text x="355.21629908943606" y="389" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">20 µm</text>
+<text x="30" y="418" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="start" fill="#0b2f4a">Cartridge, 5 µm</text>
+<text x="30" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Pleated or spun · swapped by hand · catches fine silt; VIQUA requires one before UV</text>
+<rect x="236.78370091056397" y="446" width="483.216299089436" height="20" rx="3" fill="#a5d8e3" stroke="#0e7490" stroke-width="1.5"/>
+<text x="228.78370091056397" y="461" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="end" fill="#0e7490">5 µm</text>
+<text x="30" y="494" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">Stage coarse to fine: each coarser stage keeps the finer one from clogging. VIQUA suggests a 20 µm</text>
+<text x="30" y="512" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#52697a">filter followed by a 5 µm filter where sediment keeps getting through.</text>
+</svg>

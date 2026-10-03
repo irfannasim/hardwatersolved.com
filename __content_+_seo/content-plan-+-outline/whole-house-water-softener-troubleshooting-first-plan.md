@@ -3664,7 +3664,7 @@ These add to the Part 1 writer rules; they do not replace them.
 
 ---
 
-### 277. Best Salt-Free Water Conditioners
+### 277. Best Salt-Free Water Conditioners ✅ Published — 2026-10-02 — /blog/best-salt-free-water-conditioners/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — salt-free buyer
 - **Focus keyword:** `best salt-free water conditioners`
@@ -3681,7 +3681,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Aquasure Serene 10 gpm bundle — [B0CFGDTFPX](https://www.amazon.com/dp/B0CFGDTFPX) — price unverified
 - **Feeders:** `/blog/salt-based-vs-salt-free-water-treatment/`, `/blog/evaluating-salt-free-and-maintenance-free-claims/`, `/blog/hardness-limits-for-salt-free-conditioners/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/does-a-salt-free-system-actually-soften-water/`, `/blog/how-does-a-salt-free-water-conditioner-work/`, `/blog/evaluating-salt-free-and-maintenance-free-claims/`, `/blog/hardness-limits-for-salt-free-conditioners/`
-### 278. Best Electronic Water Descalers
+### 278. Best Electronic Water Descalers ✅ Published — 2026-10-02 — /blog/best-electronic-water-descalers/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — buyer considering a clamp-on descaler
 - **Focus keyword:** `best electronic water descalers`
@@ -3697,7 +3697,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Excluded: iSpring ED2000 (seen at $98.16, below the floor)
 - **Feeders:** `/blog/water-softener-vs-electronic-descaler/`, `/blog/scale-prevention-vs-hardness-removal/`
 - **Links (informational only):** up `/blog/how-to-size-a-water-softener/` (H6); across `/blog/water-softener-vs-electronic-descaler/`, `/blog/scale-prevention-vs-hardness-removal/`
-### 279. Water Softener Alternatives Worth Buying
+### 279. Water Softener Alternatives Worth Buying ✅ Published — 2026-10-02 — /blog/water-softener-alternatives/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — buyer looking for anything other than a salt softener
 - **Focus keyword:** `water softener alternatives`
@@ -3714,7 +3714,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Waterdrop G3P600 tankless RO — [B07P1XFYJP](https://www.amazon.com/dp/B07P1XFYJP) — price unverified — drinking-water-only fix
 - **Feeders:** `/blog/do-you-need-a-whole-house-water-softener/`, `/blog/when-a-salt-free-conditioner-is-wrong/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/do-you-need-a-whole-house-water-softener/`, `/blog/when-a-salt-free-conditioner-is-wrong/`
-### 280. Best Whole-House Water Filter for Hard Water
+### 280. Best Whole-House Water Filter for Hard Water ✅ Published — 2026-10-02 — /blog/best-whole-house-filter-for-hard-water/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — buyer who assumes a filter will fix hardness
 - **Focus keyword:** `best whole-house filter for hard water`
@@ -3731,7 +3731,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - NuvoH2O Home Duo (citric + carbon) — [B0CKJ49ZNV](https://www.amazon.com/dp/B0CKJ49ZNV) — $1,999.99 MSRP
 - **Feeders:** `/blog/water-softener-vs-whole-house-water-filter/`, `/blog/does-boiling-or-filtering-soften-water/`
 - **Links (informational only):** up `/blog/how-to-size-a-water-softener/` (H6); across `/blog/water-softener-vs-whole-house-water-filter/`, `/blog/does-boiling-or-filtering-soften-water/`
-### 281. Best Reverse Osmosis Systems to Pair With a Softener
+### 281. Best Reverse Osmosis Systems to Pair With a Softener ✅ Published — 2026-10-02 — /blog/best-ro-systems-to-pair-with-a-water-softener/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — drinking-water upgrade after softening
 - **Focus keyword:** `best RO systems to pair with a water softener`
@@ -3748,7 +3748,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Express Water ROALKUV10M — [B01N0OERWZ](https://www.amazon.com/dp/B01N0OERWZ) — ~$270–$299 — NSF 372 only (no NSF 58 claim)
 - **Feeders:** `/blog/reverse-osmosis-and-water-softener-together/`, `/blog/sodium-in-softened-water/`, `/blog/should-a-kitchen-tap-bypass-the-softener/`
 - **Links (informational only):** up `/blog/sodium-in-softened-water/` (H11); across `/blog/reverse-osmosis-and-water-softener-together/`, `/blog/water-softener-vs-reverse-osmosis/`, `/blog/should-a-kitchen-tap-bypass-the-softener/`
-### 282. Best Salt-Free Water Conditioner for Well Water
+### 282. Best Salt-Free Water Conditioner for Well Water ✅ Published — 2026-10-02 — /blog/best-salt-free-water-softener-for-well-water/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — well owner avoiding salt
 - **Focus keyword:** `best salt free water softener for well water`
@@ -3771,7 +3771,7 @@ These add to the Part 1 writer rules; they do not replace them.
 
 ---
 
-### 283. Best Iron Filters for Well Water
+### 283. Best Iron Filters for Well Water ✅ Published — 2026-10-02 — /blog/best-iron-filters-for-well-water/
 - **Hub:** CH5 (cluster pillar — see Linking Rules)
 - **Intent:** Commercial investigation — iron above what a softener handles
 - **Focus keyword:** `best iron filters for well water`
@@ -3788,7 +3788,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - WECO KL-1054 Katalox Light — [B075QW4RJY](https://www.amazon.com/dp/B075QW4RJY) — ~$1,951 (wecofilters.com) — min backwash 5.6 gpm
 - **Feeders:** `/blog/water-softener-vs-iron-filter/`, `/blog/dissolved-vs-oxidized-iron-in-well-water/`, `/blog/can-a-water-softener-remove-iron/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/water-softener-vs-iron-filter/`, `/blog/iron-filter-before-water-softener/`, `/blog/dissolved-vs-oxidized-iron-in-well-water/`, `/blog/can-a-water-softener-remove-iron/`
-### 284. Best Air Injection Iron Filters
+### 284. Best Air Injection Iron Filters ✅ Published — 2026-10-02 — /blog/best-air-injection-iron-filters/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — chemical-free iron and sulfur removal
 - **Focus keyword:** `best air injection iron filters`
@@ -3806,7 +3806,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - American Water Solutions AIO Heavy Weight (Katalox Light) — [B079ZLM1HT](https://www.amazon.com/dp/B079ZLM1HT) — price unverified — Fe/H2S ≤15, Mn ≤5 ppm
 - **Feeders:** `/blog/well-pump-flow-and-backwashing/`, `/blog/sulfur-smell-after-water-softener/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/well-pump-flow-and-backwashing/`, `/blog/sulfur-smell-after-water-softener/`
-### 285. Best Filters for Sulfur Smell in Well Water
+### 285. Best Filters for Sulfur Smell in Well Water ✅ Published — 2026-10-02 — /blog/best-filters-for-sulfur-smell-in-well-water/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — rotten-egg odour removal
 - **Focus keyword:** `best filters for sulfur smell in well water`
@@ -3823,7 +3823,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Abundant Flow catalytic carbon backwashing — [B00D0HQE64](https://www.amazon.com/dp/B00D0HQE64) — price unverified — low H2S without air
 - **Feeders:** `/blog/sulfur-smell-after-water-softener/`, `/blog/water-softener-and-storage-water-heater/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/sulfur-smell-after-water-softener/`, `/blog/water-softener-and-storage-water-heater/`
-### 286. Best Water Softener and Iron Filter Combos
+### 286. Best Water Softener and Iron Filter Combos ✅ Published — 2026-10-02 — /blog/best-water-softener-and-iron-filter-combo/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — buying the well train as one package
 - **Focus keyword:** `water softener and iron filter combo`
@@ -3839,7 +3839,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - SpringWell Salt & Well Water System — [B0FT423F94](https://www.amazon.com/dp/B0FT423F94) — price unverified — true two-stage (filter + softener)
 - **Feeders:** `/blog/iron-filter-before-water-softener/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/iron-filter-before-water-softener/`, `/blog/how-iron-changes-water-softener-sizing/`
-### 287. Best Whole-House Well Water Filtration Systems
+### 287. Best Whole-House Well Water Filtration Systems ✅ Published — 2026-10-02 — /blog/best-whole-house-well-water-systems/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — full treatment system for a private well
 - **Focus keyword:** `best whole-house well water systems`
@@ -3856,7 +3856,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Tank-based trains: describe the iron, pH and UV stages and link `/blog/well-water-treatment-train-order/` for the order; do not link #283, #289 or #290
 - **Feeders:** `/blog/well-water-treatment-train-order/`, `/blog/water-test-panel-before-treatment/`, `/blog/why-well-water-chemistry-changes/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/well-water-treatment-train-order/`, `/blog/water-test-panel-before-treatment/`, `/blog/why-well-water-chemistry-changes/`
-### 288. Best Sediment Filters for Well Water
+### 288. Best Sediment Filters for Well Water ✅ Published — 2026-10-02 — /blog/best-sediment-filters-for-well-water/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — protecting downstream equipment from sand and silt
 - **Focus keyword:** `best sediment filters for well water`
@@ -3873,7 +3873,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Cheap manual spin-downs are excluded (below the $100 floor)
 - **Feeders:** `/blog/sediment-prefilter-before-a-softener/`, `/blog/black-specks-in-water-after-softener/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/sediment-prefilter-before-a-softener/`, `/blog/black-specks-in-water-after-softener/`
-### 289. Best Acid Neutralizers for Low pH Well Water
+### 289. Best Acid Neutralizers for Low pH Well Water ✅ Published — 2026-10-02 — /blog/best-acid-neutralizers-for-well-water/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — acidic well water causing blue-green stains
 - **Focus keyword:** `best acid neutralizers for well water`
@@ -3889,7 +3889,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - LiquaGen automatic backwashing calcite, 7 gpm — [B0FR69254M](https://www.amazon.com/dp/B0FR69254M) — price unverified
 - **Feeders:** `/blog/low-ph-well-water-treatment/`, `/blog/interpreting-ph-and-hardness-together/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/water-softener-vs-acid-neutralizer/`, `/blog/low-ph-well-water-treatment/`, `/blog/interpreting-ph-and-hardness-together/`
-### 290. Best UV Water Purifiers for Well Water
+### 290. Best UV Water Purifiers for Well Water ✅ Published — 2026-10-02 — /blog/best-uv-systems-for-well-water/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — bacteria control on a private well
 - **Focus keyword:** `best UV systems for well water`
@@ -3905,7 +3905,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Excluded: VIQUA IHS22-D4 (discontinued 2023-11-30); budget 12 gpm UV units without NSF 55 and without price proof
 - **Feeders:** `/blog/shock-chlorination-and-water-softener/`, `/blog/iron-bacteria-in-well-water/`, `/blog/boil-water-notice-and-your-water-softener/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/shock-chlorination-and-water-softener/`, `/blog/iron-bacteria-in-well-water/`, `/blog/boil-water-notice-and-your-water-softener/`
-### 291. Best Chlorine Injection Systems for Well Water
+### 291. Best Chlorine Injection Systems for Well Water ✅ Published — 2026-10-02 — /blog/best-chlorine-injection-systems-for-well-water/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — iron bacteria, heavy iron or sulfur
 - **Focus keyword:** `best chlorine injection systems`
@@ -3921,7 +3921,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - AFWFilters catalytic carbon backwashing (dechlorination stage) — [B00D0I7WN2](https://www.amazon.com/dp/B00D0I7WN2) — ~$975
 - **Feeders:** `/blog/iron-bacteria-in-well-water/`, `/blog/how-chlorine-damages-softener-resin/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/iron-bacteria-in-well-water/`, `/blog/how-chlorine-damages-softener-resin/`
-### 292. Best Tannin Filters for Well Water
+### 292. Best Tannin Filters for Well Water ✅ Published — 2026-10-02 — /blog/best-tannin-filters/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — tea-coloured water
 - **Focus keyword:** `best tannin filters`
@@ -3936,7 +3936,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Tannin removal + softener — [B07DX8G39Q](https://www.amazon.com/dp/B07DX8G39Q) — price unverified — tannin ≤2 ppm
 - **Feeders:** `/blog/can-a-water-softener-remove-tannins/`, `/blog/why-softened-water-looks-yellow/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/can-a-water-softener-remove-tannins/`, `/blog/why-softened-water-looks-yellow/`
-### 293. Best Manganese Filters for Well Water
+### 293. Best Manganese Filters for Well Water ✅ Published — 2026-10-02 — /blog/best-manganese-filters-for-well-water/
 - **Hub:** CH5
 - **Intent:** Commercial investigation — black staining and manganese above guidelines
 - **Focus keyword:** `best manganese filters for well water`
@@ -4319,7 +4319,7 @@ These add to the Part 1 writer rules; they do not replace them.
 
 ---
 
-### 316. Culligan vs Kinetico
+### 316. Culligan vs Kinetico ✅ Published — 2026-10-02 — /blog/culligan-vs-kinetico/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — choosing between two dealer quotes
 - **Focus keyword:** `culligan vs kinetico`
@@ -4334,7 +4334,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - SoftPro Elite 48k — [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) — ~$1,457
 - **Feeders:** `/blog/water-softener-service-contract-worth-it/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/renting-vs-buying-a-water-softener/`, `/blog/electric-vs-non-electric-water-softeners/`, `/blog/water-softener-service-contract-worth-it/`
-### 317. Culligan vs EcoWater
+### 317. Culligan vs EcoWater ✅ Published — 2026-10-02 — /blog/culligan-vs-ecowater/
 - **Hub:** CH3
 - **Intent:** Commercial investigation
 - **Focus keyword:** `culligan vs ecowater`
@@ -4349,7 +4349,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - GE GXSHC40N Smart 40k — [B083ZM2SWC](https://www.amazon.com/dp/B083ZM2SWC) — ~$656–$749 — discontinued
 - **Feeders:** `/blog/metered-vs-timer-based-water-softeners/`, `/blog/water-softener-service-contract-worth-it/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/metered-vs-timer-based-water-softeners/`, `/blog/water-softener-service-contract-worth-it/`
-### 318. Kinetico vs EcoWater
+### 318. Kinetico vs EcoWater ✅ Published — 2026-10-02 — /blog/kinetico-vs-ecowater/
 - **Hub:** CH3
 - **Intent:** Commercial investigation
 - **Focus keyword:** `kinetico vs ecowater`
@@ -4364,7 +4364,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - GE GXSHC40N Smart 40k (EcoWater-style app features) — [B083ZM2SWC](https://www.amazon.com/dp/B083ZM2SWC) — ~$656–$749 — discontinued
 - **Feeders:** `/blog/electric-vs-non-electric-water-softeners/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/electric-vs-non-electric-water-softeners/`, `/blog/metered-vs-timer-based-water-softeners/`
-### 319. Culligan vs RainSoft
+### 319. Culligan vs RainSoft ✅ Published — 2026-10-02 — /blog/culligan-vs-rainsoft/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — two high-pressure sales channels
 - **Focus keyword:** `culligan vs rainsoft`
@@ -4379,7 +4379,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - APEC WH-SOFTENER-30-FG — [B0CM8CLZZ4](https://www.amazon.com/dp/B0CM8CLZZ4) — ~$750
 - **Feeders:** `/blog/how-to-read-a-water-softener-warranty/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/how-to-read-a-water-softener-warranty/`, `/blog/renting-vs-buying-a-water-softener/`
-### 320. SpringWell vs Pelican
+### 320. SpringWell vs Pelican ✅ Published — 2026-10-02 — /blog/springwell-vs-pelican/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — two leading online brands
 - **Focus keyword:** `springwell vs pelican`
@@ -4395,7 +4395,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Pentair Pelican NaturSoft NS3-P — [B000NG3YJU](https://www.amazon.com/dp/B000NG3YJU) — ~$1,588
 - **Feeders:** `/blog/advertised-vs-usable-softener-capacity/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/advertised-vs-usable-softener-capacity/`
-### 321. Fleck vs Clack Softener Valves
+### 321. Fleck vs Clack Softener Valves ✅ Published — 2026-10-02 — /blog/fleck-vs-clack/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — DIY buyer choosing a valve
 - **Focus keyword:** `fleck vs clack`
@@ -4410,7 +4410,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Fleck 5600SXT head — [B004N8ADBQ](https://www.amazon.com/dp/B004N8ADBQ) — ~$366–$375 (no Clack WS1 head on Amazon; ~$397–$551 elsewhere)
 - **Feeders:** `/blog/how-a-water-softener-control-valve-works/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/how-a-water-softener-control-valve-works/`, `/blog/servicing-a-water-softener-control-valve/`
-### 322. Fleck 5600SXT vs 7000SXT
+### 322. Fleck 5600SXT vs 7000SXT ✅ Published — 2026-10-02 — /blog/fleck-5600sxt-vs-7000sxt/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — flow-led valve choice
 - **Focus keyword:** `fleck 5600sxt vs 7000sxt`
@@ -4426,7 +4426,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Fleck 7000SXT 80k, 1.25" — [B000GC6HYU](https://www.amazon.com/dp/B000GC6HYU) — price unverified
 - **Feeders:** `/blog/grain-capacity-vs-peak-flow-rate/`, `/blog/water-softener-pressure-drop/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/grain-capacity-vs-peak-flow-rate/`, `/blog/water-softener-pressure-drop/`
-### 323. Whirlpool vs GE Water Softener
+### 323. Whirlpool vs GE Water Softener ✅ Published — 2026-10-02 — /blog/whirlpool-vs-ge-water-softener/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — big-box aisle decision
 - **Focus keyword:** `whirlpool vs ge water softener`
@@ -4443,7 +4443,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - GE GXSF30V — [B00BT9UCMM](https://www.amazon.com/dp/B00BT9UCMM) — ~$455–$499 — discontinued
 - **Feeders:** `/blog/how-long-does-a-water-softener-last/`, `/blog/water-softener-error-code-or-blank-display/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/how-long-does-a-water-softener-last/`, `/blog/water-softener-error-code-or-blank-display/`
-### 324. Morton vs Whirlpool Water Softener
+### 324. Morton vs Whirlpool Water Softener ✅ Published — 2026-10-02 — /blog/morton-vs-whirlpool-water-softener/
 - **Hub:** CH3
 - **Intent:** Commercial investigation
 - **Focus keyword:** `morton vs whirlpool water softener`
@@ -4459,7 +4459,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Whirlpool WHES40E — [B07R3G7LTD](https://www.amazon.com/dp/B07R3G7LTD) — ~$670
 - **Feeders:** `/blog/water-softener-salt-efficiency/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/water-softener-salt-efficiency/`, `/blog/how-long-does-a-water-softener-last/`
-### 325. Dealer vs Online Water Softeners
+### 325. Dealer vs Online Water Softeners ✅ Published — 2026-10-02 — /blog/dealer-vs-online-water-softener/
 - **Hub:** CH3 (cluster pillar — see Linking Rules)
 - **Intent:** Commercial investigation — channel decision before brand decision
 - **Focus keyword:** `dealer vs online water softener`
@@ -4475,7 +4475,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - SpringWell SS — [B086Q7NS7S](https://www.amazon.com/dp/B086Q7NS7S) — price conflicting
 - **Feeders:** `/blog/water-softener-installation-cost/`, `/blog/when-to-call-a-water-softener-technician/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/renting-vs-buying-a-water-softener/`, `/blog/when-to-call-a-water-softener-technician/`
-### 326. Home Depot vs Lowe's Water Softeners
+### 326. Home Depot vs Lowe's Water Softeners ✅ Published — 2026-10-02 — /blog/home-depot-vs-lowes-water-softeners/
 - **Hub:** CH3
 - **Intent:** Commercial / transactional — big-box shopping
 - **Focus keyword:** `Home Depot vs Lowe's water softeners`
@@ -4492,7 +4492,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - APEC WH-SOFTENER-30-FG — [B0CM8CLZZ4](https://www.amazon.com/dp/B0CM8CLZZ4) — ~$750 at homedepot.com
 - **Feeders:** `/blog/how-to-install-a-whole-house-water-softener/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/how-to-install-a-whole-house-water-softener/`
-### 327. SpringWell FutureSoft vs Nuvo H2O
+### 327. SpringWell FutureSoft vs Nuvo H2O ✅ Published — 2026-10-02 — /blog/springwell-futuresoft-vs-nuvo-h2o/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — two salt-free technologies
 - **Focus keyword:** `SpringWell FutureSoft vs Nuvo H2O`
@@ -4506,7 +4506,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - NuvoH2O Manor — [B01ASXMI44](https://www.amazon.com/dp/B01ASXMI44) — ~$798–$1,049 — plus ~$108 cartridge every ~6 months
 - **Feeders:** `/blog/how-does-a-salt-free-water-conditioner-work/`, `/blog/evaluating-salt-free-and-maintenance-free-claims/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/how-does-a-salt-free-water-conditioner-work/`, `/blog/evaluating-salt-free-and-maintenance-free-claims/`
-### 328. Kinetico vs RainSoft
+### 328. Kinetico vs RainSoft ✅ Published — 2026-10-02 — /blog/kinetico-vs-rainsoft/
 - **Hub:** CH3
 - **Intent:** Commercial investigation
 - **Focus keyword:** `kinetico vs rainsoft`
@@ -4521,7 +4521,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - SoftPro Elite 48k — [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) — ~$1,457
 - **Feeders:** `/blog/electric-vs-non-electric-water-softeners/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/how-to-read-a-water-softener-warranty/`, `/blog/electric-vs-non-electric-water-softeners/`
-### 329. Culligan vs Whirlpool Water Softener
+### 329. Culligan vs Whirlpool Water Softener ✅ Published — 2026-10-02 — /blog/culligan-vs-whirlpool-water-softener/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — dealer vs big-box decision on specific brands
 - **Focus keyword:** `culligan vs whirlpool water softener`
@@ -4536,7 +4536,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Whirlpool WHES48 — [B004Q0PC08](https://www.amazon.com/dp/B004Q0PC08) — ~$750 (verify)
 - **Feeders:** `/blog/how-to-install-a-whole-house-water-softener/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/renting-vs-buying-a-water-softener/`
-### 330. Aquasure vs SpringWell
+### 330. Aquasure vs SpringWell ✅ Published — 2026-10-02 — /blog/aquasure-vs-springwell/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — budget vs mid-range online
 - **Focus keyword:** `aquasure vs springwell`
@@ -4550,7 +4550,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - SpringWell SS — [B086Q7NS7S](https://www.amazon.com/dp/B086Q7NS7S) — price conflicting
 - **Feeders:** `/blog/advertised-vs-usable-softener-capacity/`, `/blog/common-water-softener-installation-mistakes/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/advertised-vs-usable-softener-capacity/`, `/blog/common-water-softener-installation-mistakes/`
-### 331. Water Softener Warranties Compared
+### 331. Water Softener Warranties Compared ✅ Published — 2026-10-02 — /blog/water-softener-warranties-compared/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — warranty as a buying factor
 - **Focus keyword:** `water softener warranties compared`
@@ -4580,7 +4580,7 @@ These add to the Part 1 writer rules; they do not replace them.
 
 ---
 
-### 332. Water Softener Prices by Type, Size and Brand
+### 332. Water Softener Prices by Type, Size and Brand ✅ Published — 2026-10-02 — /blog/water-softener-prices/
 - **Hub:** CH4 (cluster pillar — see Linking Rules)
 - **Intent:** Commercial — equipment price shopping
 - **Focus keyword:** `water softener prices`
@@ -4598,7 +4598,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Softener + iron: AFWFilters Iron Pro 2 64k — [B004LUJ6L4](https://www.amazon.com/dp/B004LUJ6L4) — ~$875
 - **Feeders:** `/blog/water-softener-installation-cost/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/total-cost-of-owning-a-water-softener/`
-### 333. Culligan Water Softener Cost
+### 333. Culligan Water Softener Cost ✅ Published — 2026-10-02 — /blog/culligan-water-softener-cost/
 - **Hub:** CH4
 - **Intent:** Commercial — brand price research
 - **Focus keyword:** `culligan water softener cost`
@@ -4612,7 +4612,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - SoftPro Elite 48k — [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) — ~$1,457
 - **Feeders:** `/blog/water-softener-installation-cost/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/renting-vs-buying-a-water-softener/`
-### 334. Kinetico Water Softener Cost
+### 334. Kinetico Water Softener Cost ✅ Published — 2026-10-02 — /blog/kinetico-water-softener-cost/
 - **Hub:** CH4
 - **Intent:** Commercial — brand price research
 - **Focus keyword:** `kinetico water softener cost`
@@ -4625,7 +4625,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - AFWFilters Fleck 9100SXT twin 48k — [B000GE8T6M](https://www.amazon.com/dp/B000GE8T6M) — ~$1,367 — twin-tank price anchor for the payback chart
 - **Feeders:** `/blog/total-cost-of-owning-a-water-softener/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/electric-vs-non-electric-water-softeners/`, `/blog/total-cost-of-owning-a-water-softener/`
-### 335. EcoWater Water Softener Cost
+### 335. EcoWater Water Softener Cost ✅ Published — 2026-10-02 — /blog/ecowater-water-softener-cost/
 - **Hub:** CH4
 - **Intent:** Commercial — brand price research
 - **Focus keyword:** `ecowater water softener cost`
@@ -4639,7 +4639,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - EcoPure EP42 — [B01N5S92DK](https://www.amazon.com/dp/B01N5S92DK) — price unverified
 - **Feeders:** `/blog/metered-vs-timer-based-water-softeners/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/metered-vs-timer-based-water-softeners/`, `/blog/total-cost-of-owning-a-water-softener/`
-### 336. RainSoft Water Softener Cost
+### 336. RainSoft Water Softener Cost ✅ Published — 2026-10-02 — /blog/rainsoft-water-softener-cost/
 - **Hub:** CH4
 - **Intent:** Commercial — brand price research
 - **Focus keyword:** `rainsoft water softener cost`
@@ -4653,7 +4653,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - APEC WH-SOFTENER-30-FG — [B0CM8CLZZ4](https://www.amazon.com/dp/B0CM8CLZZ4) — ~$750
 - **Feeders:** `/blog/water-softener-service-contract-worth-it/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/water-softener-service-contract-worth-it/`, `/blog/how-to-read-a-water-softener-warranty/`
-### 337. Culligan Water Softener Rental Cost
+### 337. Culligan Water Softener Rental Cost ✅ Published — 2026-10-02 — /blog/culligan-water-softener-rental-cost/
 - **Hub:** CH4
 - **Intent:** Commercial — rental price and terms
 - **Focus keyword:** `Culligan water softener rental`
@@ -4667,7 +4667,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - AFWFilters 48k — [B00OGN3162](https://www.amazon.com/dp/B00OGN3162) — ~$765
 - **Feeders:** `/blog/renting-vs-buying-a-water-softener/`, `/blog/water-softeners-in-rental-properties/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/renting-vs-buying-a-water-softener/`, `/blog/water-softeners-in-rental-properties/`
-### 338. Salt-Free Water Conditioner Cost
+### 338. Salt-Free Water Conditioner Cost ✅ Published — 2026-10-02 — /blog/salt-free-water-conditioner-cost/
 - **Hub:** CH4
 - **Intent:** Commercial — price research for salt-free systems
 - **Focus keyword:** `salt free water conditioner cost`
@@ -4683,7 +4683,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Pentair Pelican NS3-P — [B000NG3YJU](https://www.amazon.com/dp/B000NG3YJU) — ~$1,588 — tank 1 media 5 yr / 600k gal
 - **Feeders:** `/blog/salt-free-water-conditioner-maintenance/`, `/blog/salt-based-vs-salt-free-water-treatment/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/salt-free-water-conditioner-maintenance/`
-### 339. Well Water Treatment System Cost
+### 339. Well Water Treatment System Cost ✅ Published — 2026-10-02 — /blog/well-water-treatment-system-cost/
 - **Hub:** CH4
 - **Intent:** Commercial — whole treatment train budget
 - **Focus keyword:** `well water treatment system cost`
@@ -4700,7 +4700,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - iSpring WGB32BM cartridge system — [B01FI3BLYM](https://www.amazon.com/dp/B01FI3BLYM) — ~$297–$379
 - **Feeders:** `/blog/well-water-treatment-train-order/`, `/blog/water-softener-for-well-water/`
 - **Links (informational only):** up `/blog/water-softener-for-well-water/` (H5); across `/blog/well-water-treatment-train-order/`
-### 340. Water Softener Resin Replacement Cost
+### 340. Water Softener Resin Replacement Cost ✅ Published — 2026-10-02 — /blog/water-softener-resin-replacement-cost/
 - **Hub:** CH4
 - **Intent:** Commercial — rebed vs replace pricing
 - **Focus keyword:** `water softener resin replacement cost`
@@ -4716,7 +4716,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - 10% crosslink refill kit, 1.5 cu ft — [B09KYGS915](https://www.amazon.com/dp/B09KYGS915) — price unverified
 - **Feeders:** `/blog/water-softener-resin-life-and-replacement/`, `/blog/disposing-of-old-softener-resin-and-components/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/water-softener-resin-life-and-replacement/`, `/blog/disposing-of-old-softener-resin-and-components/`
-### 341. How to Compare Water Softener Quotes
+### 341. How to Compare Water Softener Quotes ✅ Published — 2026-10-02 — /blog/water-softener-quotes/
 - **Hub:** CH4
 - **Intent:** Commercial — buyer holding dealer quotes
 - **Focus keyword:** `water softener quotes`
@@ -4731,7 +4731,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - SoftPro Elite 48k — [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) — ~$1,457
 - **Feeders:** `/blog/how-to-compare-water-softener-spec-sheets/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/how-to-compare-water-softener-spec-sheets/`
-### 342. Water Softener Financing
+### 342. Water Softener Financing ✅ Published — 2026-10-02 — /blog/water-softener-financing/
 - **Hub:** CH4
 - **Intent:** Commercial — payment decision
 - **Focus keyword:** `water softener financing`
@@ -4745,7 +4745,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - SoftPro Elite 48k — [B07KY5SPSJ](https://www.amazon.com/dp/B07KY5SPSJ) — ~$1,457
 - **Feeders:** `/blog/renting-vs-buying-a-water-softener/`, `/blog/water-softener-rebates-and-incentives/`
 - **Links (informational only):** up `/blog/water-softener-installation-cost/` (H10); across `/blog/renting-vs-buying-a-water-softener/`, `/blog/water-softener-rebates-and-incentives/`
-### 343. Water Softener Replacement Cost
+### 343. Water Softener Replacement Cost ✅ Published — 2026-10-02 — /blog/water-softener-replacement-cost/
 - **Hub:** CH4
 - **Intent:** Commercial — owner pricing a replacement unit
 - **Focus keyword:** `water softener replacement cost`
@@ -4770,7 +4770,7 @@ These add to the Part 1 writer rules; they do not replace them.
 
 ---
 
-### 344. Best Replacement Water Softener Resin
+### 344. Best Replacement Water Softener Resin ✅ Published — 2026-10-02 — /blog/best-replacement-water-softener-resin/
 - **Hub:** CH6
 - **Intent:** Transactional — DIY rebed
 - **Focus keyword:** `best replacement water softener resin`
@@ -4787,7 +4787,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - No fine-mesh resin pack confirmed on Amazon — say so and tell well owners fine-mesh resin usually ships inside complete well softeners, linking `/blog/standard-vs-fine-mesh-resin/` (no link to #262)
 - **Feeders:** `/blog/water-softener-resin-life-and-replacement/`, `/blog/standard-vs-fine-mesh-resin/`
 - **Links (informational only):** up `/blog/water-softener-not-using-salt/` (H4); across `/blog/standard-vs-chlorine-resistant-softener-resin/`, `/blog/standard-vs-fine-mesh-resin/`, `/blog/water-softener-resin-life-and-replacement/`
-### 345. Best Replacement Water Softener Control Valves
+### 345. Best Replacement Water Softener Control Valves ✅ Published — 2026-10-02 — /blog/best-water-softener-replacement-valves/
 - **Hub:** CH6 (cluster pillar — see Linking Rules)
 - **Intent:** Transactional — valve swap on an existing tank
 - **Focus keyword:** `best water softener replacement valves`
@@ -4803,7 +4803,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Not on Amazon as heads: Fleck 5810SXT (discontinued), Fleck 7000SXT, Clack WS1 (~$397–$551 elsewhere)
 - **Feeders:** `/blog/servicing-a-water-softener-control-valve/`, `/blog/repair-or-replace-an-old-water-softener/`
 - **Links (informational only):** up `/blog/water-softener-not-using-salt/` (H4); across `/blog/servicing-a-water-softener-control-valve/`, `/blog/repair-or-replace-an-old-water-softener/`
-### 346. Best Replacement Brine Tanks
+### 346. Best Replacement Brine Tanks ✅ Published — 2026-10-02 — /blog/best-replacement-brine-tanks/
 - **Hub:** CH6
 - **Intent:** Transactional — cracked or undersized brine tank
 - **Focus keyword:** `best replacement brine tanks`
@@ -4819,7 +4819,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - AFWFilters blue 18x33 with salt grid — [B0FS86PSGH](https://www.amazon.com/dp/B0FS86PSGH) — price unverified
 - **Feeders:** `/blog/water-softener-brine-tank-internals/`, `/blog/brine-tank-full-of-water-or-overflowing/`
 - **Links (informational only):** up `/blog/water-softener-not-using-salt/` (H4); across `/blog/water-softener-brine-tank-internals/`, `/blog/brine-tank-full-of-water-or-overflowing/`
-### 347. Best Water Leak Detectors for Water Softeners
+### 347. Best Water Leak Detectors for Water Softeners ✅ Published — 2026-10-02 — /blog/best-leak-detectors-for-water-softeners/
 - **Hub:** CH6
 - **Intent:** Transactional — protecting against softener leaks
 - **Focus keyword:** `leak detectors for water softeners`
@@ -4835,7 +4835,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Excluded: LeakSmart (brand discontinued 2024, cloud shut down); alarm-only sensors under $100
 - **Feeders:** `/blog/homeowners-insurance-water-softener-leak/`, `/blog/water-softener-drain-line-leaking/`
 - **Links (informational only):** up `/blog/water-softener-not-using-salt/` (H4); across `/blog/homeowners-insurance-water-softener-leak/`, `/blog/water-softener-drain-line-leaking/`
-### 348. Best Carbon Prefilter Before a Water Softener
+### 348. Best Carbon Prefilter Before a Water Softener ✅ Published — 2026-10-02 — /blog/best-carbon-prefilters-for-water-softeners/
 - **Hub:** CH6
 - **Intent:** Transactional — resin protection on chlorinated water
 - **Focus keyword:** `best carbon prefilters`
@@ -4858,7 +4858,7 @@ These add to the Part 1 writer rules; they do not replace them.
 
 ---
 
-### 349. How to Choose a Water Softener Installer
+### 349. How to Choose a Water Softener Installer ✅ Published — 2026-10-02 — /blog/how-to-choose-a-water-softener-installer/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — hiring
 - **Focus keyword:** `water softener installer`
@@ -4870,7 +4870,7 @@ These add to the Part 1 writer rules; they do not replace them.
 - **Amazon products:** none — service page. No links to equipment pages; link `/blog/how-to-install-a-whole-house-water-softener/` for what a correct install involves.
 - **Feeders:** `/blog/common-water-softener-installation-mistakes/`, `/blog/water-softener-plumbing-bonding-and-grounding/`
 - **Links (informational only):** up `/blog/how-to-size-a-water-softener/` (H6); across `/blog/common-water-softener-installation-mistakes/`, `/blog/do-you-need-a-permit-for-a-water-softener/`, `/blog/water-softener-plumbing-bonding-and-grounding/`
-### 350. Water Softener Buying Guide
+### 350. Water Softener Buying Guide ✅ Published — 2026-10-02 — /blog/water-softener-buying-guide/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — step-by-step purchase path
 - **Focus keyword:** `water softener buying guide`
@@ -4882,7 +4882,7 @@ These add to the Part 1 writer rules; they do not replace them.
 - **Amazon products:** none on this page. Steps 3 and 4 link to the informational sizing and cost pages (`/blog/how-to-size-a-water-softener/`, `/blog/total-cost-of-owning-a-water-softener/`), not to the CH1 or CH4 pillars.
 - **Feeders:** `/blog/do-you-need-a-whole-house-water-softener/`, `/blog/water-test-panel-before-treatment/`
 - **Links (informational only):** up `/blog/how-to-size-a-water-softener/` (H6); across `/blog/how-to-compare-water-softener-spec-sheets/`, `/blog/do-you-need-a-whole-house-water-softener/`, `/blog/water-test-panel-before-treatment/`
-### 351. Best Water Softener for Hair and Skin
+### 351. Best Water Softener for Hair and Skin ✅ Published — 2026-10-02 — /blog/best-water-softener-for-hair-and-skin/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — beauty-led buyer
 - **Focus keyword:** `best water softener for hair and skin`
@@ -4899,7 +4899,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Shower filters are left out: the category sells under $100
 - **Feeders:** `/blog/washing-hair-and-skin-with-soft-water/`, `/blog/hard-water-and-hair/`
 - **Links (informational only):** up `/blog/how-to-size-a-water-softener/` (H6); across `/blog/washing-hair-and-skin-with-soft-water/`, `/blog/dry-skin-after-installing-a-softener/`, `/blog/hard-water-and-hair/`
-### 352. Water Softener Trial Periods and Return Policies
+### 352. Water Softener Trial Periods and Return Policies ✅ Published — 2026-10-02 — /blog/water-softener-return-policies/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — buyer protection
 - **Focus keyword:** `water softener return policies`
@@ -4919,7 +4919,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Also state Amazon's own return window, which can differ from the brand's
 - **Feeders:** `/blog/how-to-read-a-water-softener-warranty/`
 - **Links (informational only):** up `/blog/how-to-size-a-water-softener/` (H6); across `/blog/how-to-read-a-water-softener-warranty/`
-### 353. Best Water Softener for Low-Sodium Diets
+### 353. Best Water Softener for Low-Sodium Diets ✅ Published — 2026-10-02 — /blog/water-softener-for-low-sodium-diets/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — sodium-restricted household
 - **Focus keyword:** `water softener for low-sodium diets`
@@ -4935,7 +4935,7 @@ These add to the Part 1 writer rules; they do not replace them.
   - Aquasure Harmony 32k + RO bundle — [B07MC633R1](https://www.amazon.com/dp/B07MC633R1) — ~$680
 - **Feeders:** `/blog/sodium-in-softened-water/`, `/blog/should-a-kitchen-tap-bypass-the-softener/`
 - **Links (informational only):** up `/blog/sodium-in-softened-water/` (H11); across `/blog/is-softened-water-safe-to-drink/`, `/blog/should-a-kitchen-tap-bypass-the-softener/`
-### 354. NSF and WQA Certified Water Softeners
+### 354. NSF and WQA Certified Water Softeners ✅ Published — 2026-10-02 — /blog/nsf-certified-water-softeners/
 - **Hub:** CH1
 - **Intent:** Commercial investigation — certification-led shortlist
 - **Focus keyword:** `nsf certified water softeners`
@@ -5167,7 +5167,7 @@ These add to the Part 1 writer rules; they do not replace them.
 - **Feeders:** `/blog/water-softener-for-condo-or-apartment/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/water-softener-for-condo-or-apartment/`
 
-### 367. On The Go Portable Water Softener Review
+### 367. On The Go Portable Water Softener Review ✅ Published — 2026-10-02 — /blog/on-the-go-portable-water-softener-review/
 - **Hub:** CH2
 - **Intent:** Commercial investigation — best-known RV softener
 - **Focus keyword:** `on the go portable water softener review`
@@ -5184,7 +5184,7 @@ These add to the Part 1 writer rules; they do not replace them.
 - **Feeders:** `/blog/portable-exchange-tank-vs-installed-softener/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/portable-exchange-tank-vs-installed-softener/`
 
-### 368. Tier1 Water Softener Review
+### 368. Tier1 Water Softener Review ✅ Published — 2026-10-02 — /blog/tier1-water-softener-review/
 - **Hub:** CH2
 - **Intent:** Commercial investigation — Amazon brand-store softener
 - **Focus keyword:** `tier1 water softener review`
@@ -5201,7 +5201,7 @@ These add to the Part 1 writer rules; they do not replace them.
 - **Feeders:** `/blog/how-a-water-softener-control-valve-works/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/how-a-water-softener-control-valve-works/`
 
-### 369. EcoPure Water Softener Review
+### 369. EcoPure Water Softener Review ✅ Published — 2026-10-02 — /blog/ecopure-water-softener-review/
 - **Hub:** CH2
 - **Intent:** Commercial investigation — retail cabinet softener
 - **Focus keyword:** `ecopure water softener review`
@@ -5218,7 +5218,7 @@ These add to the Part 1 writer rules; they do not replace them.
 - **Feeders:** `/blog/how-long-does-a-water-softener-last/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/how-long-does-a-water-softener-last/`
 
-### 370. Eddy vs ScaleBlaster
+### 370. Eddy vs ScaleBlaster ✅ Published — 2026-10-02 — /blog/eddy-vs-scaleblaster/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — two leading electronic descalers
 - **Focus keyword:** `eddy vs scaleblaster`
@@ -5234,7 +5234,7 @@ These add to the Part 1 writer rules; they do not replace them.
 - **Feeders:** `/blog/water-softener-vs-electronic-descaler/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/water-softener-vs-electronic-descaler/`
 
-### 371. AFWFilters vs DuraWater
+### 371. AFWFilters vs DuraWater ✅ Published — 2026-10-02 — /blog/afwfilters-vs-durawater/
 - **Hub:** CH3
 - **Intent:** Commercial investigation — two Fleck system sellers on Amazon
 - **Focus keyword:** `afwfilters vs durawater`
@@ -5251,7 +5251,7 @@ These add to the Part 1 writer rules; they do not replace them.
 - **Feeders:** `/blog/how-to-compare-water-softener-spec-sheets/`
 - **Links (informational only):** up `/blog/salt-based-vs-salt-free-water-treatment/` (H7); across `/blog/how-to-compare-water-softener-spec-sheets/`
 
-### 372. Watts OneFlow Plus Review
+### 372. Watts OneFlow Plus Review ✅ Published — 2026-10-02 — /blog/watts-oneflow-plus-review/
 - **Hub:** CH2
 - **Intent:** Commercial investigation — compact salt-free system
 - **Focus keyword:** `watts oneflow plus review`

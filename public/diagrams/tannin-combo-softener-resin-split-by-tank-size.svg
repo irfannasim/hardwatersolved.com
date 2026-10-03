@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 450" width="760" height="450" role="img" aria-labelledby="trs-title trs-desc">
+<title id="trs-title">Tannin softener resin split by tank size: tannin resin stays at 0.5 cubic feet</title>
+<desc id="trs-desc">Stacked bar chart of AFWFilters combination tannin softeners in 1.0, 1.5 and 2.0 cubic foot sizes. Each holds 0.5 cubic feet of tannin resin; the larger sizes add only softening resin, raising hardness capacity from 16,000 to 32,000 and 48,000 grains and flow from 8 to 10 and 12 gpm.</desc>
+<rect width="760" height="450" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Bigger combo tank, same tannin resin</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">AFWFilters Fleck 5600 tannin softeners, resin by type (seller's product pages)</text>
+
+<rect x="30" y="82" width="30" height="14" rx="2" fill="#3a5a72"/>
+<text x="68" y="94" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Tannin (anion) resin</text>
+<rect x="230" y="82" width="30" height="14" rx="2" fill="#e2b865" stroke="#b08a3a" stroke-width="1"/>
+<text x="268" y="94" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0b2f4a">Softening (cation) resin</text>
+
+<text x="30" y="150" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">1.0 cu ft</text>
+<rect x="130" y="128" width="150" height="36" fill="#3a5a72"/>
+<rect x="280" y="128" width="150" height="36" fill="#e2b865"/>
+<text x="205" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">0.5</text>
+<text x="355" y="151" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">0.5</text>
+<text x="130" y="186" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">16,000 grains · 8 gpm · $1,248</text>
+
+<text x="30" y="242" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">1.5 cu ft</text>
+<rect x="130" y="220" width="150" height="36" fill="#3a5a72"/>
+<rect x="280" y="220" width="300" height="36" fill="#e2b865"/>
+<text x="205" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">0.5</text>
+<text x="430" y="243" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1.0</text>
+<text x="130" y="278" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">32,000 grains · 10 gpm · $1,254</text>
+
+<text x="30" y="334" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#0b2f4a">2.0 cu ft</text>
+<rect x="130" y="312" width="150" height="36" fill="#3a5a72"/>
+<rect x="280" y="312" width="450" height="36" fill="#e2b865"/>
+<text x="205" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">0.5</text>
+<text x="505" y="335" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#0b2f4a">1.5</text>
+<text x="130" y="370" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">48,000 grains · 12 gpm · $1,299</text>
+
+<path class="ln" d="M130,392 L730,392" stroke="#0b2f4a" stroke-width="2" fill="none"/>
+<text x="130" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0</text>
+<text x="280" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">0.5</text>
+<text x="430" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">1.0</text>
+<text x="580" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">1.5</text>
+<text x="726" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" fill="#52697a">2.0</text>
+<text x="430" y="436" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Cubic feet of resin. All three sizes are rated for up to 3 ppm of tannin.</text>
+</svg>

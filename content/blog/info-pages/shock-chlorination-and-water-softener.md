@@ -123,6 +123,7 @@ A single shock after a well repair, a flood or a positive coliform test is manag
 - **Bypass every time**, not just the first time.
 - **If shocks keep failing**, the cause is usually a persistent source such as a failed well cap, a cracked casing or iron bacteria established in the formation. Virginia Tech makes the same point: shocking does not fix a continuing source of contamination. What that means for treatment is in [iron bacteria in well water](/blog/iron-bacteria-in-well-water/).
 - **If the answer is continuous chlorination**, the softener then sees chlorine every day. Hellenbrand's troubleshooting table lists chlorine as a cause of resin "mushing" and recommends a dechlorination system ahead of the softener.
+- **UV is the chemical-free alternative** for continuous disinfection. It adds nothing the resin can react with, but it only works on clear water, so it sits after the softener. [Choosing a UV system and the pretreatment it needs](/blog/best-uv-systems-for-well-water/) depends on your iron, hardness and sediment.
 
 ## What Bypassing the Softener Does Not Protect
 

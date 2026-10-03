@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" width="760" height="600" role="img" aria-labelledby="sswf-title sswf-desc">
+<title id="sswf-title">Choosing a filter for sulfur smell in well water</title>
+<desc id="sswf-desc">Decision chart for the best filter for sulfur smell in well water. A smell only from hot taps points to the water heater anode rod. A smell only on softened lines points to bacteria to sanitize. Otherwise a hydrogen sulfide test sorts the well into under 2 ppm, 2 to 6 ppm and over 6 ppm, each with its own treatment.</desc>
+<defs><marker id="sswf-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3a5a72"/></marker></defs>
+<rect width="760" height="600" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Find the source before you buy a filter</text>
+<text x="30" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Sniff the cold and hot taps separately, then test. Stop at the first yes.</text>
+
+<rect class="box" x="30" y="86" width="330" height="62" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Smell only from the hot taps?</text>
+<text x="195" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">(cold water smells clean)</text>
+<path class="ln" d="M360,117 L414,117" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#sswf-a)"/>
+<text x="387" y="105" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<rect class="box" x="420" y="86" width="310" height="62" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="575" y="111" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">Water heater anode, not the well</text>
+<text x="575" y="131" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Swap the magnesium rod. No filter.</text>
+
+<path class="ln" d="M195,148 L195,176" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#sswf-a)"/>
+<text x="206" y="167" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="182" width="330" height="62" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="208" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Unsoftened cold tap clean?</text>
+<text x="195" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">(outside tap or a line before the softener)</text>
+<path class="ln" d="M360,213 L414,213" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#sswf-a)"/>
+<text x="387" y="201" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#3a5a72">Yes</text>
+<rect class="box" x="420" y="182" width="310" height="62" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="575" y="207" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#dc2626">Bacteria in softener or pipes</text>
+<text x="575" y="227" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Sanitize first; a filter will not fix it</text>
+
+<path class="ln" d="M195,244 L195,272" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#sswf-a)"/>
+<text x="206" y="263" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" fill="#3a5a72">No</text>
+
+<rect class="box" x="30" y="278" width="330" height="54" rx="6" fill="#f1f5f9" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="195" y="301" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sulfide is in the well: test it</text>
+<text x="195" y="320" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">on site, or a preserved lab sample</text>
+
+<path class="ln" d="M150,332 L140,374" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#sswf-a)"/>
+<path class="ln" d="M240,332 L370,374" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#sswf-a)"/>
+<path class="ln" d="M330,332 L610,374" fill="none" stroke="#3a5a72" stroke-width="2.5" marker-end="url(#sswf-a)"/>
+
+<rect class="box" x="30" y="380" width="220" height="140" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="140" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Under 2 ppm</text>
+<text x="140" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Oxygen 4 mg/L or more:</text>
+<text x="140" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">catalytic carbon</text>
+<text x="140" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">(Abundant Flow CC10)</text>
+<text x="140" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Low oxygen or iron too:</text>
+<text x="140" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">AFW Silver Series AIO</text>
+
+<rect class="box" x="270" y="380" width="220" height="140" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="380" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">2 to 6 ppm</text>
+<text x="380" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Air injection with</text>
+<text x="380" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">catalytic carbon</text>
+<text x="380" y="462" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">(Oceanic AIO 12x52)</text>
+<text x="380" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Needs 10 gpm</text>
+<text x="380" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">of backwash flow</text>
+
+<rect class="box" x="510" y="380" width="220" height="140" rx="6" fill="#ecfeff" stroke="#0e7490" stroke-width="1.5"/>
+<text x="620" y="404" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0e7490">Over 6 ppm</text>
+<text x="620" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Chlorine feed, contact</text>
+<text x="620" y="444" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">tank, filter, then carbon</text>
+<text x="620" y="468" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Chemical-free option:</text>
+<text x="620" y="486" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">Oceanic 12x52, only</text>
+<text x="620" y="504" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#0b2f4a">well inside its rating</text>
+
+<text x="30" y="556" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Bands follow Penn State Extension: aeration is rarely used above about 2 mg/L, and chlorination</text>
+<text x="30" y="574" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">is most often used above 6 mg/L. Picks are the sellers' rated units for each band.</text>
+</svg>

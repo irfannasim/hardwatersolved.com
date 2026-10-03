@@ -113,6 +113,6 @@ The practical sequence for a well owner:
 
 1. Get a lab panel that includes iron, manganese, pH, hydrogen sulfide and hardness. Not strips.
 2. Compare it with the limits of the specific media you are quoting.
-3. If anything is over, price the pretreatment first, then the conditioner.
+3. If anything is over, price the pretreatment first, then the conditioner, ideally as [a complete salt-free setup matched to well water](/blog/best-salt-free-water-softener-for-well-water/).
 4. Price a softener setup for the same water, including any iron handling it needs.
 5. Choose on total cost plus the outcome you actually want. For many wells, that is soft water, not conditioned water.

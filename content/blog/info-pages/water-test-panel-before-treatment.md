@@ -122,10 +122,12 @@ The results are read in the order the water meets the equipment, and hardness co
 6. **Hardness.** Now size the softener, using compensated hardness: raw hardness, plus any hardness a neutralizer adds, plus the iron allowance from the manual.
 7. **TDS.** Record it as a baseline. A softener does not lower it, so it is only a sizing input if reverse osmosis is added later.
 
+On a well, those results usually add up to several stages rather than one unit. [Complete systems for the four most common well water profiles](/blog/best-whole-house-well-water-systems/) shows what each sequence looks like and costs.
+
 ## What a Test Panel Cannot Tell You
 
 - **Whether your water is safe to drink.** This panel is built to choose softening equipment. A health panel adds lead, arsenic, uranium and other contaminants, depending on your area. A softener treats none of them.
 - **How the water changes over the year.** Well chemistry moves with rainfall and pumping. One test is a snapshot, so retest yearly and whenever the water changes.
 - **Your household's water use.** Sizing needs gallons a day as well as grains per gallon. Read the water meter or bill.
 - **What is wrong with an existing softener.** Testing softened water measures the softener's output. To diagnose a softener, test the raw and softened water side by side.
-- **Which brand to buy.** The panel sets the specification. Check any softener you shortlist against the iron, pH, chlorine and sediment limits in its own spec sheet.
+- **Which brand to buy.** The panel sets the specification. Check any softener you shortlist against the iron, pH, chlorine and sediment limits in its own spec sheet. [Going from test results to type, size, quotes and certification](/blog/water-softener-buying-guide/) covers the steps after this one.

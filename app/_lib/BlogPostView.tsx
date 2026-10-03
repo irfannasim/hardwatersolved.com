@@ -26,6 +26,7 @@ import React from 'react';
 
 const SITE_DOMAIN = process.env.NEXT_PUBLIC_SITE_URL || '';
 const AUTHOR_NAME = 'Irfan Nasim';
+const COMMERCIAL_CATEGORIES = new Set(['Best Picks', 'Reviews', 'Comparisons', 'Prices and Buying']);
 const AUTHOR_URL = `${SITE_DOMAIN}/author/irfan-nasim/`;
 const AUTHOR_BIO =
     'Irfan Nasim writes and edits Hard Water Solved. He is not a certified water-treatment professional — he researches each topic against primary sources like the EPA, CDC, NSF, and USGS before writing it up, so the site stays grounded in evidence rather than sales claims.';
@@ -516,7 +517,16 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
                             {data.faqs && data.faqs.length > 0 && <FAQSection faqs={data.faqs} />}
 
                             {(() => {
-                                const allPosts = getBlogPosts();
+                                // Commercial pages never link to each other (plan Part 2 linking
+                                // rules), so on a commercial page Previous/Next skip other
+                                // commercial pages and step through informational ones only.
+                                const isCommercial = (category?: string) =>
+                                    COMMERCIAL_CATEGORIES.has(category || '');
+                                const allPosts = isCommercial(data.category)
+                                    ? getBlogPosts().filter(
+                                          (p) => p.slug === slugPath || !isCommercial(p.category),
+                                      )
+                                    : getBlogPosts();
                                 const currentIndex = allPosts.findIndex((p) => p.slug === slugPath);
                                 const nextPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
                                 const prevPost =

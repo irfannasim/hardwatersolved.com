@@ -106,6 +106,8 @@ The break-even table assumes you could buy and install a softener. Sometimes you
 
 **You will leave before break-even.** A 12-month contract in a two-person household on 10 gpg water costs less than buying. The move itself also costs money if you own: a softener needs uninstalling, draining and reinstalling, and the new home may not suit it.
 
+**One case exchange service does not cover: an RV or camper.** A softener that moves with you is a different product, a small tank you regenerate yourself with table salt and a hose. [Portable softeners for RVs and small spaces](/blog/best-portable-water-softeners/) compares the options by gallons between regenerations, and [the On The Go review](/blog/on-the-go-portable-water-softener-review/) turns the best-known one into a trip planner.
+
 ## What Exchange Service Does Not Fix
 
 A tank of softening resin is still a softener, with a softener's limits.

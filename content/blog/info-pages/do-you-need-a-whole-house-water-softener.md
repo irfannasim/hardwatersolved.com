@@ -100,7 +100,7 @@ A demand-initiated unit set to the right hardness beats those salt and water ass
 | P | Installed price, from a written quote | $2,000 (assumption) |
 | Q | **Payback years = P ÷ N** | **8.7 years** |
 
-If N is zero or negative, it never pays back. If Q is longer than the years you'll stay, it doesn't pay back *for you*. Leave resale value out: there's no reliable evidence a softener raises what buyers pay.
+If N is zero or negative, it never pays back. If Q is longer than the years you'll stay, it doesn't pay back *for you*. Leave resale value out: there's no reliable evidence a softener raises what buyers pay. Line P only means something if it comes from a real installed quote, and [working from your water test through sizing to written quotes](/blog/water-softener-buying-guide/) shows how to get one you can compare.
 
 ### Where the savings percentages come from
 
@@ -146,7 +146,7 @@ A "no" to a whole-house system doesn't mean living with every symptom. Most comp
 | Drinking-water taste | An under-sink or countertop filter, which a softener isn't |
 | Stiff laundry | A detergent with a water-softening builder, dosed for your hardness |
 
-Sometimes the right answer is nothing. Water under 3.5 gpg, a symptom that turns out to be iron, or the odd faucet spot doesn't justify a salt chore. Be sceptical of shower filters sold as softeners, too. Most use carbon or KDF media aimed at chlorine and don't remove meaningful hardness.
+Sometimes the right answer is nothing. Water under 3.5 gpg, a symptom that turns out to be iron, or the odd faucet spot doesn't justify a salt chore. Be sceptical of shower filters sold as softeners, too. Most use carbon or KDF media aimed at chlorine and don't remove meaningful hardness. If you do want equipment short of a softener, [matching an alternative such as a conditioner, descaler or point-of-use unit to your one symptom](/blog/water-softener-alternatives/) keeps you from paying for more than the problem needs.
 
 ## Years in the Home: The Input Most Guides Ignore
 

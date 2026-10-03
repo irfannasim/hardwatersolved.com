@@ -92,6 +92,8 @@ Train: **1 → 2 → 4 → 5.** An aeration tank strips the radon and, as a side
 
 Two points apply to all four trains. **Every stage number comes from a lab result**, and none is there as a precaution. **The softener is always sized on the water that reaches it**, which in trains B and C is not the water that came out of the ground.
 
+When you get to buying, [complete systems matched to these four well profiles](/blog/best-whole-house-well-water-systems/) shows the equipment for each train, and [the installed and yearly running cost of each train](/blog/well-water-treatment-system-cost/) shows what it costs to own.
+
 ## Aeration and the Retention Tank: The Two Most Often Misplaced
 
 ![Two well water layouts compared: an atmospheric aeration tank with vent and booster pump ahead of the pressure tank, and a chlorine feed pump injecting before the pressure tank followed by a retention tank and filters](/diagrams/well-water-aeration-and-retention-tank-placement.svg "Aeration needs its own pump; chlorination needs contact time before the filter")
@@ -142,7 +144,7 @@ Two cautions apply to UV even in the right position. It does not treat water tha
 
 **Tannin resin** is an anion exchange stage. It usually sits right after the softener, or shares its tank as a mixed bed, and always comes before UV, since tannins cut UV transmittance. See [can a water softener remove tannins](/blog/can-a-water-softener-remove-tannins/).
 
-**The softener** comes after everything that would foul or damage the resin, and before the stages that scale shortens the life of: the UV sleeve, the RO membrane and the water heater.
+**The softener** comes after everything that would foul or damage the resin, and before the stages that scale shortens the life of: the UV sleeve, the RO membrane and the water heater. A salt-free conditioner in position 10 needs the same protection ahead of it; [salt-free setups that hold up on well water](/blog/best-salt-free-water-softener-for-well-water/) lists the pretreatment each one depends on.
 
 ## Outdoor Taps, Bypasses and Backwash Water
 

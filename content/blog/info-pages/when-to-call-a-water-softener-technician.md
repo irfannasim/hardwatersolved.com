@@ -129,7 +129,7 @@ A service visit is usually charged by the hour or by the call. Every question th
 7. **Bring your maintenance log.** Gallons between regenerations over recent months often points straight at the cause.
 8. **Clear access** to the valve, both tanks, the drain and the bypass.
 
-**Choosing who to call.** For a dealer-sold unit, check whether the warranty requires that dealer. Otherwise, an independent water treatment specialist who stocks parts for your valve brand is usually a better first call than a general plumber for internal faults. A plumber is the right call for relocation, reconnection, drain and air-gap work. Ask whether the technician holds a Water Quality Association certification, and ask for a quote that separates parts from labour.
+**Choosing who to call.** For a dealer-sold unit, check whether the warranty requires that dealer. Otherwise, an independent water treatment specialist who stocks parts for your valve brand is usually a better first call than a general plumber for internal faults. A plumber is the right call for relocation, reconnection, drain and air-gap work. Ask whether the technician holds a Water Quality Association certification, and ask for a quote that separates parts from labour. If the unit is past saving and you are buying again, who will service it belongs in [the choice between a dealer system and an online one](/blog/dealer-vs-online-water-softener/).
 
 ## When to Call a Water Softener Technician: The Line, In Order
 

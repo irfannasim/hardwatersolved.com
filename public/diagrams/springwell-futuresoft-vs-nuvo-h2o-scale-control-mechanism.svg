@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 660" width="760" height="660" role="img" aria-labelledby="sfn-title sfn-desc">
+<title id="sfn-title">SpringWell FutureSoft vs Nuvo H2O: how each controls scale</title>
+<desc id="sfn-desc">Side-by-side mechanism of SpringWell FutureSoft vs Nuvo H2O: FutureSoft passes water through a sediment pre-filter and TAC media that forms microscopic crystals with nothing added, while NuvoH2O doses citric acid that binds calcium as calcium citrate and lowers pH. Both leave the hardness test unchanged.</desc>
+<defs><marker id="sfn-ah-h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker><marker id="sfn-ah-t" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker></defs>
+<rect width="760" height="660" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Two salt-free mechanisms, same hard water in</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Neither removes hardness; they change how calcium behaves</text>
+<text x="197.5" y="98" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0b2f4a">SpringWell FutureSoft</text>
+<text x="197.5" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">template-assisted crystallization (TAC)</text>
+<path class="ln" d="M197.5,130 L197.5,166" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#sfn-ah-h)"/>
+<text x="211.5" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#c2410c">hard water</text>
+<rect class="box" x="30" y="170" width="335" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.8"/>
+<text x="197.5" y="194" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Sediment pre-filter</text>
+<text x="197.5" y="214" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">catches grit before the media</text>
+<path class="ln" d="M197.5,228 L197.5,262" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#sfn-ah-h)"/>
+<rect class="box" x="30" y="266" width="335" height="96" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.8"/>
+<text x="197.5" y="290" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">TAC media bed, upflow</text>
+<text x="197.5" y="310" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">calcium and magnesium form</text>
+<text x="197.5" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">microscopic crystals on the media</text>
+<text x="197.5" y="350" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">nothing is added to the water</text>
+<path class="ln" d="M197.5,362 L197.5,396" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#sfn-ah-t)"/>
+<text x="211.5" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0e7490">conditioned</text>
+<rect class="box" x="30" y="400" width="335" height="78" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="1.8"/>
+<text x="197.5" y="424" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Out: hardness test unchanged</text>
+<text x="197.5" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">crystals are less likely to</text>
+<text x="197.5" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">stick as new scale</text>
+<rect class="box" x="30" y="500" width="335" height="100" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.8"/>
+<text x="197.5" y="524" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Uses up: sediment cartridges;</text>
+<text x="197.5" y="544" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">media rated "5+ year lifespan"</text>
+<text x="197.5" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">Limits: up to 81 gpg, pH 7.0 to 9.5,</text>
+<text x="197.5" y="584" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">iron and manganese 0 ppm</text>
+<text x="562.5" y="98" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#0b2f4a">NuvoH2O Manor</text>
+<text x="562.5" y="118" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">citric acid chelation</text>
+<path class="ln" d="M562.5,130 L562.5,166" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#sfn-ah-h)"/>
+<text x="576.5" y="153" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#c2410c">hard water</text>
+<rect class="box" x="395" y="170" width="335" height="58" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.8"/>
+<text x="562.5" y="194" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">CitraCharge cartridge</text>
+<text x="562.5" y="214" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">dissolves slowly as water passes</text>
+<path class="ln" d="M562.5,228 L562.5,262" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#sfn-ah-h)"/>
+<rect class="box" x="395" y="266" width="335" height="96" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.8"/>
+<text x="562.5" y="290" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Citric acid in the water</text>
+<text x="562.5" y="310" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">citrate binds calcium as</text>
+<text x="562.5" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">calcium citrate; pH moves</text>
+<text x="562.5" y="350" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">down toward neutral</text>
+<path class="ln" d="M562.5,362 L562.5,396" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#sfn-ah-t)"/>
+<text x="576.5" y="384" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#0e7490">conditioned</text>
+<rect class="box" x="395" y="400" width="335" height="78" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="1.8"/>
+<text x="562.5" y="424" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Out: hardness test unchanged</text>
+<text x="562.5" y="444" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">lower pH; calcium citrate</text>
+<text x="562.5" y="464" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">does not form scale</text>
+<rect class="box" x="395" y="500" width="335" height="100" rx="8" fill="#ffffff" stroke="#3a5a72" stroke-width="1.8"/>
+<text x="562.5" y="524" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Uses up: the cartridge, about</text>
+<text x="562.5" y="544" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">6 months or 50,000 gallons</text>
+<text x="562.5" y="564" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">Limits: up to 25 gpg,</text>
+<text x="562.5" y="584" font-family="Arial, Helvetica, sans-serif" font-size="14"  text-anchor="middle" fill="#52697a">pH 7.3 to 8.5</text>
+<text x="380" y="636" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">Limits from SpringWell's specification table and NuvoH2O's Manor product page</text>
+</svg>

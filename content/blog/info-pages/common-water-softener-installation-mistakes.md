@@ -57,7 +57,7 @@ Two of the twelve have no symptom at all until something else fails. A missing a
 
 **Wrong:** the softener is hard-piped with no bypass valve. Or a three-valve bypass is left with the middle valve partly open. **Right:** there is a bypass valve, or a three-valve loop, and it sits fully in service.
 
-**Symptom later:** with no bypass, there is no way to keep water flowing to the house during service. The first repair means shutting off the whole house. With a bypass cracked open, untreated water blends with softened water. The water tests partly hard even though the softener is working perfectly.
+**Symptom later:** with no bypass, there is no way to keep water flowing to the house during service. The first repair means shutting off the whole house. Not every online softener ships with one, so check the box list before you buy; [comparing what ships with an Aquasure and a SpringWell](/blog/aquasure-vs-springwell/) shows how far apart two similar units can be. With a bypass cracked open, untreated water blends with softened water. The water tests partly hard even though the softener is working perfectly.
 
 **Check:** move the lever or valves fully to service until they stop. On a three-valve loop, inlet and outlet should be open and the middle valve closed. A partial bypass is one of the first things to rule out in [why water is still hard after installing a softener](/blog/water-still-hard-after-installing-softener/).
 
@@ -113,6 +113,8 @@ Water-Right warns that heat from soldering can damage these parts. It says solde
 
 **Symptom later:** O-rings that swell, soften or crack, then leak at the bypass. It often looks like a failed bypass when it is really a damaged seal.
 
+Budget online units make this mistake more likely, because the adapters you solder are often ones you bought separately. [The Aquasure Harmony box-contents audit](/blog/aquasure-harmony-review/) lists which fittings ship with one of the cheapest two-tank softeners and which you still have to buy before the water goes off.
+
 ## Electrical Mistake
 
 ### 9. No bonding jumper on metal pipe
@@ -154,4 +156,4 @@ These are not in the twelve because they depend on the manual, but they are wort
 
 A visual check finds every mistake on this list except the hardness setting, and a hardness test finds that. It cannot tell you whether the softener was the right size for the house, or whether the water needed a softener at all rather than a different treatment. A softener removes hardness and some dissolved iron. It does not remove bacteria, sediment, most chemical contaminants or oxidized iron. A perfectly installed unit on the wrong water problem is still the wrong unit.
 
-If you have a symptom, find its column in the matrix above and check each mistake in that column, starting with the ones you can see. If you are about to install, work down the list before the water goes on. Most water softener installation mistakes take minutes to fix before startup and a service call to fix after.
+If you have a symptom, find its column in the matrix above and check each mistake in that column, starting with the ones you can see. If you are about to install, work down the list before the water goes on. If someone else is doing the work, the same list doubles as your questions when [choosing between a plumber, a dealer and a big-box installer](/blog/how-to-choose-a-water-softener-installer/). Most water softener installation mistakes take minutes to fix before startup and a service call to fix after.

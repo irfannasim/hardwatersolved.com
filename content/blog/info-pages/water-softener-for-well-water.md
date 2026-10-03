@@ -129,7 +129,7 @@ Once the decision tree has told you which stages you need, the order follows one
 7. Disinfection (UV), if needed
 8. Drinking-water polishing at the kitchen tap, such as reverse osmosis
 
-Most wells need only some of these. A hard well with clean chemistry might need only stages 1, 2, 3 and 6. The exact position of the softener relative to the pressure tank, the outdoor taps and the water heater is laid out in [where to install a softener on a well system](/blog/where-to-install-softener-on-well-system/). The order and thresholds for the filters that protect it are in [iron filter before water softener: pretreatment order](/blog/iron-filter-before-water-softener/).
+Most wells need only some of these. A hard well with clean chemistry might need only stages 1, 2, 3 and 6. [What each combination costs installed, plus its yearly running cost](/blog/well-water-treatment-system-cost/), is worth pricing before you commit to a train. The exact position of the softener relative to the pressure tank, the outdoor taps and the water heater is laid out in [where to install a softener on a well system](/blog/where-to-install-softener-on-well-system/). The order and thresholds for the filters that protect it are in [iron filter before water softener: pretreatment order](/blog/iron-filter-before-water-softener/).
 
 ## What Changes About the Softener Itself on a Well
 

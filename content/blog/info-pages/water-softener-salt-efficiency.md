@@ -110,7 +110,7 @@ When a softener is described as "high efficiency", run through these questions.
 5. **Is regeneration demand-initiated?** A timer softener wastes salt whatever its rated efficiency, because it regenerates whether the resin needs it or not.
 6. **Is the rating achievable on your water?** Rated figures come from lab tests on clean water. Hellenbrand's manual notes that operating efficiency "is typically less than the tested efficiency." Iron, manganese and high hardness push real efficiency down.
 
-A claim that passes all six is a real efficiency number. A claim that fails the first two is usually a capacity-marketing number with an efficiency label on it. [Checking Morton's salt-savings claim against a well-set metered softener](/blog/morton-water-softener-review/) applies these questions to one brand.
+A claim that passes all six is a real efficiency number. A claim that fails the first two is usually a capacity-marketing number with an efficiency label on it. [Checking Morton's salt-savings claim against a well-set metered softener](/blog/morton-water-softener-review/) applies these questions to one brand, and [comparing Morton and Whirlpool on annual salt and 10-year running cost](/blog/morton-vs-whirlpool-water-softener/) applies them to two units from the same maker.
 
 ## What an Efficient Setting Costs You
 

@@ -85,7 +85,7 @@ Copy this into a spreadsheet or onto paper. Fill in one column per unit. Anythin
 | Certification listing | NSF or WQA database | | | Exact model found, Standard 44 |
 | Warranty: tank / valve / electronics | Warranty document | | | Separate terms stated, not "lifetime" alone |
 
-Two units that tie on the first six rows are genuinely comparable, and then price and installer quality decide it. If one unit leaves half the rows blank, that is usually the decision made for you.
+Two units that tie on the first six rows are genuinely comparable, and then price and installer quality decide it. Two online sellers of the same Fleck valve are the classic case, and [choosing between AFWFilters and DuraWater](/blog/afwfilters-vs-durawater/) comes down to exactly these lower rows: resin, tank, bypass and warranty. If one unit leaves half the rows blank, that is usually the decision made for you.
 
 ## How to Find the Real Valve Maker Behind a Rebranded Unit
 
@@ -140,4 +140,4 @@ A softener also cannot do everything. It removes calcium and magnesium, and mode
 2. **Fill in the worksheet**, writing "not stated" wherever a figure is missing.
 3. **Identify the valve maker** for each unit using two clues from the diagram.
 4. **Look up each model** in the NSF and WQA databases and note exactly what is listed.
-5. **Compare capacity at the same efficient salt dose**, then choose between the units that survive, on price and installer.
+5. **Compare capacity at the same efficient salt dose**, then choose between the units that survive, on price and installer. If installers are quoting, [line their quotes up against the same template](/blog/water-softener-quotes/) so two equal totals are not hiding different systems.

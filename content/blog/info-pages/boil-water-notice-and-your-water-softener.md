@@ -128,7 +128,7 @@ The softener is one of several devices that held water during the notice. Each h
 
 Boil-water notices come from public water systems. A private well gets no notice. The equivalent event is a positive coliform test, flooding at the wellhead or a well repair.
 
-The softener steps are similar: bypass, disinfect the source, flush, then sanitize the softener. The well is treated by shock chlorination, which uses a chlorine dose far above what resin should see, so the softener must be bypassed throughout. The full sequence is in [shock chlorination and your water softener](/blog/shock-chlorination-and-water-softener/).
+The softener steps are similar: bypass, disinfect the source, flush, then sanitize the softener. The well is treated by shock chlorination, which uses a chlorine dose far above what resin should see, so the softener must be bypassed throughout. The full sequence is in [shock chlorination and your water softener](/blog/shock-chlorination-and-water-softener/). If coliform keeps returning after shocking, the well needs continuous disinfection, and [choosing a whole-house UV system along with the pretreatment it depends on](/blog/best-uv-systems-for-well-water/) is where that decision starts.
 
 If your city supply lost pressure because of a main break rather than a detected contamination, the same bypass and flush approach applies. [Water main breaks and supply outages](/blog/water-main-break-and-your-water-softener/) covers the sediment and pressure surge side of that.
 

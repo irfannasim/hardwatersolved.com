@@ -78,7 +78,9 @@ Within the same brand, three things move the equipment price most:
 2. **Single or twin tank.** A twin-tank unit keeps soft water flowing during regeneration and costs roughly twice as much. Fixr's installed ranges show the gap.
 3. **Valve.** A metered, demand-initiated valve from a mainstream control-valve maker is the sensible default. Proprietary dealer valves often cost more and can be harder to get parts for later.
 
-Where you buy changes the price more than any of these. Fixr lists retailer installation packages ranging from about $1,000 to $2,800 at one big-box chain up to $4,000 to $6,000 at a warehouse club. Dealer in-home packages that bundle long warranties and service visits can go higher. What you should get for the money is a written quote showing the resin volume and valve model, so you can compare like with like.
+To price the box itself before any site work, see [dated equipment prices for each softener type and size](/blog/water-softener-prices/).
+
+Where you buy changes the price more than any of these. Fixr lists retailer installation packages ranging from about $1,000 to $2,800 at one big-box chain up to $4,000 to $6,000 at a warehouse club. Dealer in-home packages that bundle long warranties and service visits can go higher, as [what a Culligan quote typically includes](/blog/culligan-water-softener-cost/) shows. Whether that bundle is worth it over a cheaper online unit comes down to [weighing a dealer package against buying online and maintaining it yourself](/blog/dealer-vs-online-water-softener/). What you should get for the money is a written quote showing the resin volume and valve model, so you can compare like with like.
 
 ## How to Compare Two Bids
 

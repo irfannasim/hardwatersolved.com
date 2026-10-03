@@ -137,7 +137,7 @@ If your glass does either of these things, go no further with the ferrous and fe
 ## What Your Result Means for Equipment
 
 - **Dissolved only, at a low concentration, pH above 6.7.** A softener may be able to carry it. The conditions and published limits are in [can a water softener remove iron](/blog/can-a-water-softener-remove-iron/), and one fine-mesh unit built for this case is weighed in [our review of the AFWFilters Iron Pro 2 for clear-water iron up to about 5 ppm](/blog/afwfilters-iron-pro-2-review/).
-- **Any oxidized iron, or a mix.** Filtration comes first. The order of stages and the backwash conflicts are in [should an iron filter go before a water softener](/blog/iron-filter-before-water-softener/).
+- **Any oxidized iron, or a mix.** Filtration comes first. The order of stages and the backwash conflicts are in [should an iron filter go before a water softener](/blog/iron-filter-before-water-softener/), and [choosing an iron filter for your iron level and pH](/blog/best-iron-filters-for-well-water/) sorts the media by test result.
 - **Choosing between them, or deciding you need both.** The decision matrix and costs are in [water softener vs iron filter](/blog/water-softener-vs-iron-filter/).
 
 Photograph the glass before you phone anyone for a quote. It is the cheapest test in water treatment, and it narrows the choice of equipment more than any other single test.

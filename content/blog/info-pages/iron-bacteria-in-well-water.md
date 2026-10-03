@@ -125,7 +125,9 @@ Iron bacteria are a system problem, not a water problem. Each of these places ca
 | Pasteurization | Holds the well at 140°F for 30 minutes with steam or hot water | Effective but expensive; a contractor job |
 | Well cleaning and rehabilitation | Physically removes slime from casing, screen and pump | Needs repeating over years on badly infested wells |
 
-Whichever you choose, the softener goes **after** the disinfection and filtration stages, and carbon goes between chlorine and the softener's resin. Where the softener sits in a well treatment train is covered in [pretreatment order: sediment and iron filters before a softener](/blog/iron-filter-before-water-softener/).
+If shocking has to be repeated more than twice a year, continuous chlorination is usually the next step, and [choosing a chlorine injection system with its contact tank and carbon stage](/blog/best-chlorine-injection-systems-for-well-water/) is where the sizing starts.
+
+Whichever you choose, the softener goes **after** the disinfection and filtration stages, and carbon goes between chlorine and the softener's resin. Where the softener sits in a well treatment train is covered in [pretreatment order: sediment and iron filters before a softener](/blog/iron-filter-before-water-softener/). If you also want UV as a final barrier against bacteria, it goes last, on water already cleared of iron and slime. [Choosing a UV system and the pretreatment it needs](/blog/best-uv-systems-for-well-water/) gives each unit's water-quality limits.
 
 ## When the Resin Has to Go
 

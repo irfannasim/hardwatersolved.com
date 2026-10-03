@@ -148,6 +148,8 @@ Whichever you choose, three things decide whether it works:
 - **Media level.** Calcite dissolves as it works, so the bed gets shorter. The pH at the outlet falls gradually as the level drops. Check the level and top it up on a schedule, not only when stains come back.
 - **A sample tap after the tank.** Place one between the neutralizer and the softener. It is the only way to check the neutralizer's output pH and the hardness it adds, and both numbers change as the bed is used up.
 
+With the pH, the flow and the drain question answered, [comparing neutralizer tanks by starting pH](/blog/best-acid-neutralizers-for-well-water/) narrows the choice to a few models.
+
 ## Where the Neutralizer Sits in the System
 
 The neutralizer goes after the pressure tank, where Penn State says it is usually installed, and before the softener. Two other stages can change that:

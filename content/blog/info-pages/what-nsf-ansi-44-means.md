@@ -96,7 +96,7 @@ Put the pieces together and you can rank any certification claim you see on a so
 4. **A full Standard 44 listing with Hardness Reduction.** The softener as a system is safe, structurally sound and delivers its published capacity at its stated salt doses.
 5. **Standard 44 with Efficiency Rated.** All of the above, plus it meets the 3,350 grains per pound and 5 gallons per 1,000 grains floors at the listed setting.
 
-Most of the value sits in the jump from rung 3 to rung 4. That is where the certification starts telling you about performance rather than materials. How to confirm which rung a specific model is on, using the public databases, is the subject of [how to verify a softener certification and performance claim](/blog/how-to-verify-a-softener-certification/).
+Most of the value sits in the jump from rung 3 to rung 4. That is where the certification starts telling you about performance rather than materials. How to confirm which rung a specific model is on, using the public databases, is the subject of [how to verify a softener certification and performance claim](/blog/how-to-verify-a-softener-certification/). If you are shortlisting, [popular softeners checked model by model against the NSF listing](/blog/nsf-certified-water-softeners/) shows which reach rung 4 and which have no listing at all.
 
 ## Which Claims Matter Most for Your House
 

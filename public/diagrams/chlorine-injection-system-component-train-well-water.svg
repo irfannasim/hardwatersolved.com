@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 580" width="760" height="580" role="img" aria-labelledby="cit-title cit-desc">
+<title id="cit-title">Chlorine injection system for well water: the components in plumbing order</title>
+<desc id="cit-desc">Plumbing order of a chlorine injection system on a private well: well pump, injection point fed by a metering pump that runs only with the well pump, pressure tank, contact tank, backwashing iron filter, catalytic carbon tank that removes the chlorine, then the water softener and the house.</desc>
+<defs>
+<marker id="cit-a-raw" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/></marker>
+<marker id="cit-a-ok" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/></marker>
+<marker id="cit-a-ink" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0b2f4a"/></marker>
+</defs>
+<rect width="760" height="580" fill="#ffffff"/>
+<text x="30" y="40" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" fill="#0b2f4a">Chlorine injection system: the four parts in order</text>
+<text x="30" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#52697a">Inject, hold, filter, dechlorinate, and only then soften</text>
+
+<rect class="box" x="210" y="88" width="145" height="58" rx="8" fill="#f8fafc" stroke="#0b2f4a" stroke-width="1.5"/>
+<text x="282" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Metering pump</text>
+<text x="282" y="132" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">+ solution tank</text>
+<text x="372" y="112" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Wired to the pressure switch:</text>
+<text x="372" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">runs only when the well pump runs</text>
+<path class="ln" d="M282,146 L282,174" stroke="#0b2f4a" stroke-width="3" stroke-dasharray="6 4" fill="none" marker-end="url(#cit-a-ink)"/>
+
+<rect class="box" x="30" y="180" width="145" height="90" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="102" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Well pump</text>
+<text x="102" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">raw well water</text>
+
+<rect class="box" x="210" y="180" width="145" height="90" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="282" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Injection point</text>
+<text x="282" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">chlorine enters</text>
+
+<rect class="box" x="390" y="180" width="145" height="90" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="462" y="216" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Pressure tank</text>
+<text x="462" y="238" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">too little time alone</text>
+
+<rect class="box" x="570" y="180" width="160" height="90" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="650" y="208" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Contact tank</text>
+<text x="650" y="230" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">minutes =</text>
+<text x="650" y="250" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">gallons ÷ peak gpm</text>
+
+<path class="ln" d="M175,225 L204,225" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cit-a-raw)"/>
+<path class="ln" d="M355,225 L384,225" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cit-a-raw)"/>
+<path class="ln" d="M535,225 L564,225" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cit-a-raw)"/>
+<path class="ln" d="M650,270 L650,354" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cit-a-raw)"/>
+<text x="664" y="306" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">particles +</text>
+<text x="664" y="324" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">chlorine</text>
+
+<rect class="box" x="570" y="360" width="160" height="90" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="650" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Iron filter</text>
+<text x="650" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">backwashing; catches</text>
+<text x="650" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">oxidized iron, sulfur</text>
+
+<rect class="box" x="390" y="360" width="145" height="90" rx="8" fill="#ecfeff" stroke="#0e7490" stroke-width="2"/>
+<text x="462" y="390" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Carbon tank</text>
+<text x="462" y="412" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">catalytic carbon;</text>
+<text x="462" y="432" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">removes chlorine</text>
+
+<rect class="box" x="210" y="360" width="145" height="90" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="282" y="396" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">Softener</text>
+<text x="282" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">sees no chlorine</text>
+
+<rect class="box" x="30" y="360" width="145" height="90" rx="8" fill="#f8fafc" stroke="#3a5a72" stroke-width="1.5"/>
+<text x="102" y="396" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#0b2f4a">House</text>
+<text x="102" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#52697a">treated water</text>
+
+<path class="ln" d="M570,405 L541,405" stroke="#c2410c" stroke-width="5" fill="none" marker-end="url(#cit-a-raw)"/>
+<path class="ln" d="M390,405 L361,405" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#cit-a-ok)"/>
+<path class="ln" d="M210,405 L181,405" stroke="#0e7490" stroke-width="5" fill="none" marker-end="url(#cit-a-ok)"/>
+
+<rect class="box" x="30" y="474" width="700" height="44" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="380" y="502" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#dc2626">Never let chlorine reach the softener: test total chlorine at the carbon outlet</text>
+
+<rect x="30" y="542" width="34" height="8" rx="3" fill="#c2410c"/>
+<text x="72" y="551" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Raw or chlorinated water</text>
+<path class="ln" d="M262,546 L300,546" stroke="#0b2f4a" stroke-width="3" stroke-dasharray="6 4" fill="none"/>
+<text x="308" y="551" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Chlorine feed</text>
+<rect x="440" y="542" width="34" height="8" rx="3" fill="#0e7490"/>
+<text x="482" y="551" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#52697a">Dechlorinated water</text>
+</svg>
