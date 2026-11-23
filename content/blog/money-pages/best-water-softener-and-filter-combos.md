@@ -25,8 +25,6 @@ faqs:
 
 That matters because the parts in a combo wear out on different clocks. A cartridge lasts months, carbon lasts years, and resin protected by carbon can outlast the decade. A combo that seals carbon and resin into one cabinet makes you live with the shortest life of the two.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How These Combos Were Chosen
 
 > **Methodology.** Every pick is a salt-based softener sold with a filtration stage as one Amazon.com listing. Only combos where each stage can be serviced on its own were eligible. We compared resin type, carbon or filter type and volume, valve make, and published replacement intervals from listings, manuals and maker product pages. Nothing was physically tested. **Excluded:** hybrid units with carbon sealed inside the softener cabinet, salt-free conditioners, and listings shown as unavailable. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

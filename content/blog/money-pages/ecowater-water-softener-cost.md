@@ -25,8 +25,6 @@ faqs:
 
 **EcoWater water softener cost** is set by the local dealer, and EcoWater publishes no prices. Owner-reported installed quotes run from **about $3,600 to $10,000**, with the 3700 Series refiners at the top: reports put a refiner at about $3,600 to $6,000 installed, and one 2026 replacement quote reached $6,750. What the step between series buys can be checked, though. Each higher tier adds features such as Wi-Fi alerts, built-in carbon or counter-current brining, and most of those come built into other softeners or can be added separately. The step that adds Wi-Fi also raises the valve body warranty from one to three years to ten, and that is usually the best reason to pay it.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## EcoWater Water Softener Cost: What Has Been Reported
 
 No EcoWater series has a public price. These are owner-reported figures, as compiled by Mid Atlantic Water in September 2026, so they show the range rather than the price you will be offered.

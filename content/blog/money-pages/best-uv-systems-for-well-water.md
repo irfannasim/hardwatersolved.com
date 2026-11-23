@@ -25,8 +25,6 @@ faqs:
 
 The **best UV systems for well water** are the VIQUA VH410M, with a UV sensor, and the lower-cost VIQUA VH410 without it. Both treat 14 gpm at the 40 mJ/cm² dose NSF and EPA use. The iSpring UVF55FS, a 12 gpm unit, is a budget option with no published dose. Any of them only works on water that is already clear. VIQUA's manual sets the limits at the UV: iron under 0.3 ppm, manganese under 0.05 ppm, hardness under 7 gpg, turbidity under 1 NTU and UV transmittance above 75%. It also requires a 5 micron filter in front. On most wells that means the UV comes last, after an iron filter, a softener and a sediment filter.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best UV Systems for Well Water at a Glance
 
 | Pick | Flow at 40 mJ/cm² | Flow at 30 mJ/cm² | UV sensor | NSF/ANSI 55 listing | Amazon |

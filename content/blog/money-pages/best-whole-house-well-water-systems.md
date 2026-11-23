@@ -25,8 +25,6 @@ faqs:
 
 The **best whole-house well water systems** are not single products. They are short sequences of equipment chosen from your water test. Four profiles cover most private wells. Hard water alone needs a spin-down filter and a softener. Hard water with up to 3 ppm of dissolved iron needs a cartridge iron filter ahead of a fine-mesh softener. Acidic, iron-bearing water needs a neutralizer, an iron filter and a softener. A well with bacteria, iron and sulfur needs chlorination, filtration, a softener and UV. The order matters as much as the parts.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Whole-House Well Water Systems at a Glance
 
 | Well profile | Typical test | Build, in order |

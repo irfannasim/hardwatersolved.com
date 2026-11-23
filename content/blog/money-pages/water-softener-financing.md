@@ -23,8 +23,6 @@ faqs:
 
 **Water softener financing** can cost nothing or nearly double the price, depending on the plan. Take one $3,500 dealer-installed system. Paid in cash, or on a true 0% plan cleared on time, it costs $3,500. On a deferred-interest promotion with $350 left at the deadline, it costs about $4,315. Spread over ten years at 14.99% APR, it costs about $6,770. Renting the same kind of system at $40 a month costs $4,800 over ten years, and you own nothing at the end. Before you compare plans, get the cash price. A comparable online softener plus an independent installer came to about $1,970 in our example.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How these figures were built.** This is a cost model, not a lender survey. The $3,500 system, the APRs and the $40 rent are illustrative inputs; replace them with the numbers on your own offer. Loan payments use the standard amortisation formula. The deferred-interest figure is simple monthly interest on each month's balance, which is close to, but slightly below, what a card charging daily interest would bill. The online cash row uses a brand-store price seen on 2 October 2026. **Prices of individual products are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Water Softener Financing: Six Ways to Pay for the Same System

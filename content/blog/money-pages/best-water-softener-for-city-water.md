@@ -27,8 +27,6 @@ The **best water softener for city water** is one built to survive the chlorine 
 
 Which of those is cheaper depends on one number from your utility's annual water quality report. So this guide starts there, then ranks three picks on what they are likely to cost over ten years.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Step One: Find Your Disinfectant in the Consumer Confidence Report
 
 Every community water system in the US publishes an annual Consumer Confidence Report, and the EPA's [CCR page](https://www.epa.gov/ccr) explains how to find yours. You need three things from it:

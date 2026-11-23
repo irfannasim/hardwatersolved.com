@@ -27,8 +27,6 @@ A **Culligan water softener review** has to review two things: the softener and 
 
 That split decides whether Culligan is good value for you. Where the local dealer is responsive and fairly priced, you are paying a premium for a well-supported system. Where it is not, the same softener becomes an expensive unit you can only fix through one company.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Short Verdict
 
 > **Method.** This review is built from Culligan's current product page, its High Efficiency softener owner's guide (document 01021076, revision H, 11/19), and the certification statements printed in it. No unit was physically tested. Culligan is not sold on Amazon; the alternatives below were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

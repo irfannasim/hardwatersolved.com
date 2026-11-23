@@ -27,8 +27,6 @@ This **EcoWater water softener review** starts from the thing most quotes skip: 
 
 EcoWater is a dealer brand, part of Berkshire Hathaway's Marmon Group, and publishes no prices, so this review maps what each tier unlocks and leaves the price comparison to two quotes from the same dealer.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Verdict in One Table
 
 > **Method.** Every feature and warranty term below is taken from EcoWater's current spec sheets on ecowater.com, with each sheet's revision date. No unit was physically tested. EcoWater softeners are not sold on Amazon under the EcoWater name; the alternatives below were checked against their Amazon listings. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

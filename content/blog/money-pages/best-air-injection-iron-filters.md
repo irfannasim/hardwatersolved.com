@@ -27,8 +27,6 @@ The **best air injection iron filters** for most wells are the AFWFilters Air In
 
 That backwash figure rules out more wells than any ppm rating does. The chart below sets each unit's backwash flow against example pump rates, and the cutaway shows why the single-tank design has replaced the older venturi systems.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Air Injection Iron Filters at a Glance
 
 | Pick | Tank and media | Seller's rating (Fe / Mn / H2S) | Service flow | Minimum backwash | Amazon |

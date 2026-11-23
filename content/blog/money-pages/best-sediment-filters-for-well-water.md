@@ -25,8 +25,6 @@ faqs:
 
 The **best sediment filters for well water** depend on what size of particle your well sheds. For sand, the pick is a 50 micron automatic-flush spin-down such as the iSpring WSP50ARB. For higher flow and almost no upkeep, WECO's SEDFLUSH self-cleaning screen is the choice. For silt and cloudiness, a 20 micron backwashing Filter-Ag tank works, as long as the house's flow fits its rating. A 5 micron cartridge belongs last, where a UV system or a fussy valve needs it. Most wells need one coarse stage. Some need two, staged coarse to fine.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Sediment Filters for Well Water at a Glance
 
 | Pick | Rating | Catches | Service | Routine parts | Amazon |

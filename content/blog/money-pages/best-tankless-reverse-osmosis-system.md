@@ -27,8 +27,6 @@ The **best tankless reverse osmosis system** for a hard-water home is the Waterd
 
 On hard water, the choice matters less than the feed. Waterdrop's manuals set a feed limit of 7 grains per gallon, and the rated membrane life assumes you stay under it. A softener upstream keeps you there.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Picked: Membrane Life, Filter Life and Drain Ratio
 
 > **Method.** Each system was compared on its maker's rated filter and membrane life, its published feed water limits, how often its cartridges need replacing, its pure-to-drain ratio, and the certifications listed for it. Evidence comes from product pages, manuals and certification listings. Nothing was physically tested.

@@ -25,8 +25,6 @@ faqs:
 
 **Culligan water softener cost** is set by your local dealer, not by Culligan, so there is no national price. Published figures put an installed Culligan at roughly **$1,800 to $2,300 for the entry Aquasential Select, $3,200 to $4,100 for High Efficiency and Smart HE models, and $4,500 to $6,500 for a twin-tank system**, with rentals advertised from about $15 to $32 a month in two markets. Culligan's own buyer's guide calls $5,000 "a more standard cost for a professional-grade water softener". A quote makes sense only once it is split into its three parts: the equipment, the installation, and what the first year of service will cost you.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Culligan Water Softener Cost at a Glance
 
 | Option | Reported price | Source and date |

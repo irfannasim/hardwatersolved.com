@@ -25,8 +25,6 @@ faqs:
 
 The **best salt-free water conditioners** are the Watts OneFlow+ for most city homes, the NuvoH2O Manor for moderately hard water above pH 7.3, and the Aquasana Rhino with its salt-free conditioner if you also want chlorine filtered and your water is under 15 gpg. They earn their places on two things buyers rarely get: evidence you can trace and water limits you can check. None of them publishes a full test report for its own unit, and that is true of every salt-free conditioner we looked at. The picks below are the ones whose makers come closest, and whose manuals tell you plainly which water will defeat them.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Best Salt-Free Water Conditioners at a Glance
 
 | Pick | Media | Best evidence published | Hardness limit | Media life | Amazon |

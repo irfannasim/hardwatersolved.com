@@ -27,8 +27,6 @@ The **best water softener brands** for most homeowners are the online brands bui
 
 Grain ratings and app features get the attention, but the control valve is the part that wears, and who makes it decides whether a year-ten repair means a seal kit you fit yourself, a dealer visit or a new softener. This ranking groups every major brand by sales channel and valve, then ranks them on what owning one actually involves.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How These Brands Were Ranked
 
 > **Method.** Brands are ranked on ownership, not on headline features: (1) who makes the control valve, (2) whether a homeowner can buy its parts, (3) warranty terms quoted from the brand's current warranty document or product page, (4) published NSF/ANSI 44 or WQA certification, and (5) price. Grain ratings were not used to rank anything, because a box rating says nothing about the capacity at the salt dose you will run (see [advertised vs usable softener capacity](/blog/advertised-vs-usable-softener-capacity/)). No unit was physically tested; the evidence is manuals, warranty documents, spec sheets and listings.

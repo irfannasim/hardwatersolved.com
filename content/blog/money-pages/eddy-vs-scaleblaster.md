@@ -23,8 +23,6 @@ faqs:
 
 **Eddy vs ScaleBlaster comes down to how long each one gives you to find out whether it works.** Both are wire coils wrapped around your main water pipe, driven by a plug-in box. Neither removes hardness, and neither maker publishes an independent scale test of its own unit. So the sensible purchase is a trial. On that basis the Eddy is the safer one to try: it costs about the same but comes with a 12-month money-back guarantee and lifetime repair or replacement. The ScaleBlaster SB-75 gives you 90 days, and its own manual says the full results can take that long to show.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Eddy vs ScaleBlaster at a Glance
 
 | | Eddy ED6002P-US | ScaleBlaster SB-75 |

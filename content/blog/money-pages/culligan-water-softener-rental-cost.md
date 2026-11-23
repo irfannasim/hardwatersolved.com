@@ -25,8 +25,6 @@ faqs:
 
 A **Culligan water softener rental** usually costs about $50 a month, before salt, at the dealers whose prices are published, and introductory offers can start far lower. That monthly fee buys the softener, its installation and its service, with no large upfront payment. What it costs over time depends on how long you stay. At $50 a month, renting costs more than buying an online softener installed by a plumber in under three years, and more than a typical Culligan purchase in about five. Before you sign, the agreement terms matter as much as the rate.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this page was put together.** Rental rates come from Culligan dealer location pages on culliganwater.com and from published owner reports. The crossover chart is a simple cumulative cost model, using the purchase prices stated below and an owner upkeep allowance from our [renting vs buying a water softener](/blog/renting-vs-buying-a-water-softener/) guide. Warranty conditions are from Culligan's high efficiency softener owner's guide. No dealer was visited and no equipment was physically tested. Culligan is not sold on Amazon, so the purchase alternatives were checked against retailer and brand-store listings. **Prices of individual online softeners are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## What Culligan Rental Costs per Month

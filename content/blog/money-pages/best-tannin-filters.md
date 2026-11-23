@@ -27,8 +27,6 @@ The **best tannin filters** are anion resin tanks that regenerate with salt, the
 
 Before buying either, spend two minutes confirming that the colour really is tannin. Iron causes the same yellow water, and a tannin filter does nothing for it.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Tannin Filters at a Glance
 
 | Pick | Type | Tannin resin | Hardness capacity | Rated tannin | Amazon |

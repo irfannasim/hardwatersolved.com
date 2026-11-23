@@ -23,8 +23,6 @@ faqs:
 
 The **best portable water softeners** for RVs are the On The Go 16,000-grain double for most travellers, its brass-fitting version if you want metal hose adapters, and the 8,000-grain standard for solo or weekend trips. All three regenerate with table salt and a garden hose, with no electricity. What the boxes do not tell you is that the makers' gallons-per-regeneration tables assume a fuller recharge than two boxes of table salt give. Re-worked at the real salt dose, a 16,000-grain unit softens about 555 gallons at 20 gpg, not 800. That is still about two weeks for a couple.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Portable Water Softeners at a Glance
 
 | Pick | Capacity (maker) | Resin | Size and weight | Flow | Amazon |

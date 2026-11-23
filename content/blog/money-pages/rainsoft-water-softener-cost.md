@@ -23,8 +23,6 @@ faqs:
 
 **RainSoft water softener cost** is set by each independent dealer and almost always quoted as a monthly payment, so the number that matters is one the presentation rarely shows: the cash price. RainSoft publishes no price list. Published 2026 cost guides put installed RainSoft systems at roughly $4,000 to $6,000 for a softener-led package and $6,000 to $11,000 or more once a drinking-water system is added. Your quote may land anywhere in that range. The converter below turns any monthly figure into the total you will pay and the cash price it pays off, so you can compare it with a second quote.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this page was put together.** RainSoft's product names and warranty terms come from its current softener page and the EC5 owner's manual (part 16842, revision J). The price ranges come from published cost guides, not from RainSoft, and no sales visit was attended. The converter is standard loan arithmetic: monthly payment, number of payments and APR give the amount financed. No equipment was physically tested. RainSoft is not sold on Amazon, so the online alternatives below were checked against their Amazon, retailer and brand-store listings. **Prices are not listed here** for individual products because they change often. Use the buttons to see the current price on Amazon.
 
 ## RainSoft Water Softener Cost at a Glance

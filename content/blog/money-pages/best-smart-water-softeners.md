@@ -25,8 +25,6 @@ faqs:
 
 That split is also the honest answer to "which app features matter". Automatic leak shutoff prevents damage. Flow monitoring can save money by finding leaks. Salt alerts and remote regeneration are convenience. The feature that saves the most salt, demand metering, needs no Wi-Fi at all.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How These Picks Were Chosen
 
 > **Methodology.** Every pick is listed on Amazon.com; check the current price and availability there before you order. We looked for app-connected softeners first, then for smart shutoffs that protect any softener. Each feature was classed as saving money, preventing damage, or convenience only, from maker listings and product pages. Nothing was physically tested. **Excluded:** products shown as unavailable on Amazon, monitors with no shutoff valve, add-on salt-level sensors, and brands whose cloud service has closed. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

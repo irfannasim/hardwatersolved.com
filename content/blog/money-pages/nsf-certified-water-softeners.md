@@ -25,8 +25,6 @@ faqs:
 
 That is the finding in short. Below, 14 models are checked one at a time, with the date, the listed company and what the listing does and does not prove.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## NSF Certified Water Softeners: The Model-by-Model Check
 
 | Model | What the box or listing says | NSF/ANSI 44 check, 2 Oct 2026 | Listed company | NSF flow | Amazon on 1 to 2 Oct |

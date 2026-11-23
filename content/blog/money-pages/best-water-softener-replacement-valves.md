@@ -25,8 +25,6 @@ The **best water softener replacement valves** for most homes are metered Fleck 
 
 So this page starts with the fit checklist, then matches each replacement head to a tank size.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Heads were compared from Pentair's and Clack's published specifications, the sellers' listings and the warranty terms they state.

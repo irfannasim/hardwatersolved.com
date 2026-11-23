@@ -25,8 +25,6 @@ The **best replacement water softener resin** is the grade your water calls for,
 
 The usual mistakes are buying by grain rating instead of cubic feet, and buying the cheapest grade for water that will wear it out in a few years. This page fixes both.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Each resin was compared on crosslink percentage and pack size, using the sellers' product pages and published resin data.

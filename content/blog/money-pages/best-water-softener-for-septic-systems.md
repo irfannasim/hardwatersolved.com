@@ -25,8 +25,6 @@ faqs:
 
 Research funded by the water treatment industry found efficient softeners do not harm a working septic system, and very inefficient ones do. So the choice comes down to efficiency: how often a softener regenerates, how much water each cycle uses, and how much salt it wastes.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How These Picks Were Ranked
 
 > **Methodology.** Every pick is a demand-initiated, salt-based softener listed on Amazon.com. Picks are ranked on estimated regeneration water sent to the drain each year by a family of four using 300 gallons a day on 15 gpg water. Fleck figures use the per-cycle volumes worked out in our guide to [how much water regeneration uses](/blog/how-much-water-does-regeneration-use/), based on one maker's published cycle times. SoftPro's figure uses the per-cycle volume on SoftPro's own product page. Warranty terms come from the makers' pages. Nothing was physically tested. **Excluded:** timer-only softeners and units shown as unavailable on Amazon. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

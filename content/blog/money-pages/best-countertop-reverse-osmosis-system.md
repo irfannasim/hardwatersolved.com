@@ -25,8 +25,6 @@ faqs:
 
 The **best countertop reverse osmosis system** for most renters is the AquaTru Classic. It needs no plumbing, and it is certified by IAPMO to NSF/ANSI 42, 53, 58 and 401, covering what AquaTru counts as 84 contaminants. That is the widest certification on any unit we checked. APEC's ROCT-PLUS needs one filter a year instead of three, makes about twice as much water per fill and dispenses it hot, but APEC states no certification for it. APEC's ROCT-C1 also uses a single yearly filter and chills the water. Any of them fixes the water you drink. None does anything about the scale on your shower.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Chose: Certification Scope, Refills and Filter Changes
 
 > **Method.** Each unit was compared on what its certification covers and who issued it, how many times a day a household has to fill it, and how many filters it needs and how often. Evidence comes from product pages, filter pages, certification listings and manuals. Nothing was physically tested.

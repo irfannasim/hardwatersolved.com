@@ -27,8 +27,6 @@ faqs:
 
 The bigger problem is availability. The Morton MSD34C shows as currently unavailable on Amazon, so this review also covers two in-stock alternatives from the same maker.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Morton Water Softener Review: The Short Verdict
 
 - **Salt efficiency:** genuinely good on paper. The lab rating sits well above the 3,350 grains-per-pound floor that NSF/ANSI 44 sets for an efficiency-rated softener.

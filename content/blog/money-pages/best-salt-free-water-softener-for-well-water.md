@@ -25,8 +25,6 @@ faqs:
 
 The conditioner is the cheaper half of every one of these. On a well, most of the money goes on the filter in front of it.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Exclusion List: Every Mainstream Unit's Well Water Limits
 
 Start here, because this table rules out almost every salt-free conditioner on its own. Each limit is quoted from the maker's own specification, manual or product page.

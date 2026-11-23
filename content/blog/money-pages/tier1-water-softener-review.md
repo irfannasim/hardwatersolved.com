@@ -23,8 +23,6 @@ faqs:
 
 This **Tier1 water softener review** starts with the part Tier1 sells hardest: a patented ceramic-disc control valve with no seals, spacers or piston to rebuild. That is a real design advantage over a piston valve. What the listings say less clearly is what surrounds it. The valve, bypass and electronics carry one year of warranty, extendable to five only if you register and buy four bottles of Tier1 cleaner every year. The manual expects chlorine below 0.1 ppm and iron below 0.3 ppm. And a "48,000-grain" Tier1 delivers about 31,500 to 40,000 grains at the salt doses most owners will run. The 32,000 and 48,000-grain two-tank models are fairly priced for a metered softener, but only for water inside those limits.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this review was built.** Nothing here was physically tested. The evidence is the [Tier1 WS-165-150 owner's manual](https://tier1water.com/wp-content/uploads/2024/12/tier1_ws_165_150_hkcrft.pdf), Tier1's Everyday Series warranty document, the product pages on DiscountFilterStore.com (Tier1's own store), the Amazon listings, and NSF's public softener listings. Capacity is restated at a stated salt dose using standard resin performance. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## 4 Catches in This Tier1 Water Softener Review

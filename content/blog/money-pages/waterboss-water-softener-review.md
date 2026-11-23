@@ -27,8 +27,6 @@ faqs:
 
 Inside that window, it is one of the most salt-efficient cabinet softeners on paper, at 5,510 grains per pound of salt.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## WaterBoss Water Softener Review: The Models and the Numbers
 
 WaterBoss sells three cabinet softeners for homes. The figures below come from the [WaterBoss 700, 900 and 950 owner's manual](https://images.homedepot-static.com/catalog/pdfImages/e7/e7fd47ae-4b0a-43f1-902e-b5bea4a3bfa0.pdf), which also states that the units are certified to NSF/ANSI 44 for barium and radium reduction and efficiency rated to the same standard.

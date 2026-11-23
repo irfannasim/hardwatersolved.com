@@ -25,8 +25,6 @@ faqs:
 
 This **GE water softener review** has two answers, because there are now two GE ranges. The softeners most reviews describe, the GXSF30V, GXSH40V, GXSH45V, GXSHC40N and GXMH31H, are flagged as **obsolete** in GE's own product data, and none had an active Amazon offer on 1 October 2026. GE replaced them in October 2025 with a Wi-Fi range: the **GXSH35W**, **GXSH45W** and **GXMD30W**. The old and new units are close relatives. Both are NSF/ANSI 44 certified cabinet softeners with very high salt efficiency and GE's one-year full warranty. If you find leftover stock, the new model is the benchmark its clearance price has to beat.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## GE Water Softener Review: Which Models Are Current
 
 | Model | Type | GE status | First sold | Amazon |

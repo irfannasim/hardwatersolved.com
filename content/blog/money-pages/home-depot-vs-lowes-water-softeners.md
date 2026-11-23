@@ -23,8 +23,6 @@ faqs:
 
 **Home Depot vs Lowe's water softeners is mostly a question of brands, not stores, because the two shelves barely overlap.** On 2 October 2026 Home Depot's listings were built around Rheem, GE, WaterBoss, Aquasure and APEC. Lowe's was built around Whirlpool and A.O. Smith. The price bands overlap almost completely. The most useful thing to know is that some models are twins under different badges. Home Depot's Rheem RHS32 and Lowe's Whirlpool WHES33 publish the same capacity figures and come from the same maker. Both stores install through independent contractors, so the store's name is not the installer's.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this lineup map was built.** No unit was physically tested. Both stores block automated tools, so the lineup is taken from each store's product listings as they appeared in search results on 2 October 2026, cross-checked against the makers' own pages and manuals. Installation terms are quoted from each store's service pages as indexed that day. Treat the lineup as a snapshot.
 >
 > - **Included:** whole-house salt-based softeners listed by either store.

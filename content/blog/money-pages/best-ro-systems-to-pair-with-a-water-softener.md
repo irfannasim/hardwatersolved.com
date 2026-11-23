@@ -25,8 +25,6 @@ faqs:
 
 The pairing works because each unit covers the other's weakness. The softener keeps calcium and magnesium off the membrane, which is one of the main causes of early membrane failure. The membrane then removes most of the sodium the softener added. On softened 20 gpg water, that takes the added sodium from about 158 mg/L down to about 10 mg/L at the drinking tap.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Certifications were checked against the certifier's listing or the maker's certification statement on the day of writing. Output, waste ratio, filter life and warranty terms are taken from the manuals and performance data sheets.

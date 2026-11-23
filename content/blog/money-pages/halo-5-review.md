@@ -27,8 +27,6 @@ This **HALO 5 review** finds a capable carbon filter attached to a conditioning 
 
 So the HALO 5 is now mainly a system you will be quoted by a plumber, not one you can order. What follows covers what each stage does, what it costs to keep running, and how it compares over 10 years with two pairings you can still buy.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this review was built.** HALO's own product description, FAQ and warranty are taken from archived copies of halowatersystems.com, because the live site no longer resolves. Amazon status comes from the two HALO 5 listings. Installer prices come from a plumbing company's published guide. Nothing here was physically tested. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Can You Still Buy a HALO 5?

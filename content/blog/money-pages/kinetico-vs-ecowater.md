@@ -23,8 +23,6 @@ faqs:
 
 **Kinetico vs EcoWater** is a choice between two design philosophies. Kinetico's softeners run on water pressure alone: a turbine meter counts the gallons, and the flow itself switches to a fresh tank. There is no electricity, no circuit board and no app. EcoWater's softeners are built around an electronic controller that learns how your household uses water, predicts tomorrow's demand and, on the Compact and 3700 Series, reports to your phone through HydroLink Plus. For the same family, the makers' own data puts their annual salt and water costs within about $25 of each other. So the decision rests on power, soft water during regeneration, alerts and the dealer's quote.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Kinetico vs EcoWater at a Glance
 
 > **Method.** Kinetico figures come from its softener page, its Premier Series product sheet and the Kinetico 2030s data sheet. EcoWater figures come from its current spec sheets, and its regeneration behaviour from an EcoWater EEC1502 owner's manual. No unit was physically tested. The annual use model uses the makers' published numbers and a stated household. Neither brand is sold on Amazon under its own name; the alternatives below were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

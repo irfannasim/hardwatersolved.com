@@ -27,8 +27,6 @@ The **best water softener** for a whole house is the one matched to your water s
 
 The five picks below are grouped by those situations. Every one is re-stated at the same salt dose and judged on flow by its tank size, so a "48,000-grain" label means the same thing from one listing to the next.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How These Picks Were Chosen
 
 > **Method.** No unit here was physically tested by us. The picks come from the sellers' own spec pages, owner's manuals and warranty documents, with each capacity re-stated at 6 lb of salt per cubic foot of resin and each flow checked against the tank's bed area.

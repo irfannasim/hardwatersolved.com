@@ -23,8 +23,6 @@ faqs:
 
 The **best acid neutralizers for well water** are matched to the starting pH. Between about 6.0 and 6.9, a calcite tank does the job. AFWFilters' GreenFlo pH 15 upflow needs no drain, and its Digital pH 15 is the backwashing alternative. Below about 6.0, the same tanks need a calcite and Corosex blend. Below about 5.3, a soda ash feed pump replaces the tank. Every calcite option also adds hardness. On an example well at pH 6.0 that is up to about 5 gpg. The softener after it has to be sized for the water leaving the neutralizer, not the water in the test.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Acid Neutralizers for Well Water at a Glance
 
 | Pick | Type | Media | Service flow (seller) | Best for |

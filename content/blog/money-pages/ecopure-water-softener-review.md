@@ -23,8 +23,6 @@ faqs:
 
 This **EcoPure water softener review** answers what the price tag cannot: an EcoPure and a Whirlpool cabinet softener come from the same factory. **Water Channel Partners** of Minnesota makes and warrants both, and the current manuals show the EcoPure EP31 and the Whirlpool WHES30 with the same resin volume, the same capacity within 2 percent and the same iron rating. So what the difference in badge buys is not hardware. It is where you can buy it, and on the larger and hybrid models a few real differences in capacity and warranty. Of the three EcoPure models reviewed, the **EP42** is the best value for most households, the **EP31** suits one to four people, and the **EPHS hybrid** makes sense only if you understand that its "never replace" carbon has a rated life.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this review was built.** Nothing here was physically tested. The sources are the current [EP31 and EP42 owner's manual](https://ecopure.com/wp-content/uploads/2025/06/7393268Eng_F-1.pdf) (revision F, January 2025), the EPHS manual (revisions C and F), EcoPure's extended-warranty page, [NSF's EcoPure softener listing](https://info.nsf.org/Certified/DWTU/Listings.asp?TradeName=EcoPure&Standard=044), the Amazon listings and published Whirlpool specifications. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Three EcoPure Models at a Glance

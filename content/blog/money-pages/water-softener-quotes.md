@@ -23,8 +23,6 @@ faqs:
 
 **Water softener quotes** can only be compared once they describe the same things. Ask each company to fill in nine lines: capacity at a stated salt dose, resin volume and grade, control valve, certification, installation scope, pretreatment, warranty, service terms and the cash price. Two quotes with the same total often buy very different systems. Then hold each quote against an online benchmark. In October 2026, comparable online 48,000-grain softeners sold for about $630 to $1,370 before installation.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this page was built.** No softener or installer was tested. The template is built from what manufacturers' spec sheets and warranty documents actually state, and from the line items installers use. The worked example is illustrative. The benchmark range comes from the brands' own stores in October 2026. **Prices of individual products are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Water Softener Quotes Comparison Template

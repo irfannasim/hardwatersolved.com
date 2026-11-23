@@ -25,8 +25,6 @@ faqs:
 
 This **Pelican water softener review** has to start with availability, because the answer to "which Pelican should I buy?" changed this year. On 1 October 2026, every Pelican and Pentair-branded softener and NaturSoft listing we checked on Amazon showed "Currently unavailable", and pelicanwater.com was refusing connections. On paper the two lines were good at different jobs. The salt-based unit, sold on Amazon as the Pentair 35921, is a 48,600-grain softener that removes hardness. NaturSoft is a salt-free conditioner that leaves hardness in and aims to stop scale. Pick the line your water test points to, then buy the equivalent that is actually for sale.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Pelican Water Softener Review: The Status Check
 
 | Listing | Amazon status, 1 Oct 2026 |

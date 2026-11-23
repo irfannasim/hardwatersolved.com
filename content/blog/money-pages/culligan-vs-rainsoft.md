@@ -23,8 +23,6 @@ faqs:
 
 **Culligan vs RainSoft** is less a contest between two softeners than between two sales visits. Both brands sell certified equipment through local dealers who test your water at home, publish no prices, and offer to spread the cost. Culligan offers purchase, financing or rental. RainSoft is usually sold at an in-home appointment as a financed package with a lifetime warranty. To compare them, ask each rep the same questions, and convert every offer into a cash price per item and a total of all payments. A few answers should end the visit.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Culligan vs RainSoft at a Glance
 
 > **Method.** Culligan's terms are quoted from its High Efficiency softener owner's guide (document 01021076, revision H, 11/19), its product page and its payment-options and water-testing pages. RainSoft's warranty is quoted from the RainSoft EC5 owner's manual (part 16842, revision J, January 2021). No unit was physically tested and no sales visit was attended. The financing examples are illustrative. Neither brand is sold on Amazon; the alternatives below were checked against their Amazon listings and retailers. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

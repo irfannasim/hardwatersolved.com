@@ -25,8 +25,6 @@ faqs:
 
 This **Clack WS1 water softener review** starts with the answer: the WS1 is an excellent valve that is awkward to buy. It is a 1-inch, piston-type control valve made by Clack Corporation in Windsor, Wisconsin, and one of the two valves most online softeners are built around. Judged on its own service manual, it earns its reputation. It passes 27 gpm at a 15 psi pressure drop, keeps its programme in nonvolatile memory, and comes apart for a rebuild with three wear parts that are sold together as one inexpensive kit. Its limits are practical, not mechanical. Clack's warranty goes to the system builder, not to you. The menus are dense. And the only complete Clack WS1 system on Amazon was showing as unavailable on 1 October 2026.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Clack WS1 Water Softener Review Verdict: 5 Strengths, 3 Limits
 
 **Strengths**

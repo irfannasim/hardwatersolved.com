@@ -25,8 +25,6 @@ faqs:
 
 **An honest Aquasana water softener review starts by saying Aquasana does not sell a water softener.** It sells the Rhino whole-house filter and a salt-free scale conditioner that can be added to it. The filtration half is well documented: Aquasana publishes NSF/ANSI 42 test data showing more than 97 percent chlorine reduction across the filter's full 1,000,000-gallon rating. The scale half rests on a different kind of evidence: a statement that the conditioner is "independently tested", with no named standard, laboratory or data sheet. It also works only within tight limits, below 15 gpg of hardness and pH 8.3. Buy the Rhino for chlorine. Treat the conditioner as a separate decision.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## What Aquasana Actually Sells
 
 | System | What it contains | Amazon |

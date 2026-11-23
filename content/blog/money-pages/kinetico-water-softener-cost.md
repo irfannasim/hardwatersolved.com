@@ -23,8 +23,6 @@ faqs:
 
 **Kinetico water softener cost** sits at the top of the market: owner-reported quotes run from **about $2,900 for a refurbished Signature unit to about $6,000 for a new Premier softener**, and packages with filtration or reverse osmosis have gone past $10,000. Kinetico's efficiency savings are real but small. Against an installed online Fleck 9100SXT twin-tank, a Kinetico 2030s repays its premium within 15 years only if it is quoted at no more than **about $3 above the online twin at 7 gpg, $287 above at 15 gpg or $642 above at 25 gpg**. Every reported quote was well above that when we checked, so anyone paying the premium is paying for the design and the dealer, not for a return.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Kinetico Water Softener Cost by Model
 
 Kinetico sells only through its dealers and does not publish prices. These are quotes owners have posted, as compiled by Mid Atlantic Water in September 2026. Treat them as a sense of range, not a price list.

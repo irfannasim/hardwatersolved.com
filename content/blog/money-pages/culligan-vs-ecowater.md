@@ -23,8 +23,6 @@ faqs:
 
 **Culligan vs EcoWater** is a closer contest than most dealer comparisons. Both sell certified, demand-regenerating softeners with Wi-Fi alerts through local dealers, and both publish no prices. The difference is packaging. Culligan's current softener, the Aquasential Smart HE, comes with its app, sensor and long warranty built in. EcoWater sells a ladder of series, and its HydroLink Plus Wi-Fi and 10-year valve warranty arrive only from the Compact and 3700 Series up. A fair comparison is therefore Culligan against an EcoWater Compact or 3700, with both warranties read clause by clause.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Culligan vs EcoWater at a Glance
 
 > **Method.** Culligan's terms are quoted from its High Efficiency softener owner's guide (document 01021076, revision H, 11/19) and current product page. EcoWater's tier terms come from its current spec sheets, and its warranty clauses from the Advantage Warranty printed in an EcoWater EEC1502 owner's manual. No unit was physically tested. Neither brand is sold on Amazon under its own name; the alternatives below were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

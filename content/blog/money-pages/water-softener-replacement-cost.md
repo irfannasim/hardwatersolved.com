@@ -23,8 +23,6 @@ faqs:
 
 **Water softener replacement cost** is about **$910 to $1,570 for a professional like-for-like swap** when the existing loop, drain line and outlet are reused, and about $660 to $915 if you do the swap yourself. That is far below a first installation. If nothing can be reused, the job becomes a full reinstall at roughly $1,310 to $2,970. Sometimes the whole unit does not need replacing at all. A new control valve is about $580 to $880 installed, and a resin rebed $480 to $930. Price only what is actually changing.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How these figures were built.** Nothing here was physically tested or installed by us. Equipment ranges come from brands' own stores in October 2026; labor uses the site's standard placeholder of a $100 to $150 service call plus $100 an hour, and the plumbing lines use the illustrative ranges in the site's installation cost guide. Replace them with the figures on your own quotes. **Prices of individual products are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Water Softener Replacement Cost by Scenario

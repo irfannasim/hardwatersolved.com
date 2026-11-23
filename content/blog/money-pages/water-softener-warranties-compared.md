@@ -25,8 +25,6 @@ faqs:
 
 **Water softener warranties compared** side by side show one pattern: the number on the box is almost always the tank, and the tank is the part that rarely fails. The valve and electronics, which do fail, get anything from one year to a lifetime, and labor after the first year or two is excluded by every brand we read. A Whirlpool's tank has 10 years and its control board 3. A Culligan has a lifetime tank and 10 years on the board. Kinetico's Premier cover is 10 years on everything, and it is the only warranty we read that says it transfers when you sell. Compare the valve and electronics terms, the labor clause and the main exclusion, not the headline.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this comparison was built.** Every term below is taken from the brand's own warranty document, owner's manual, spec sheet or product page. Documents marked "2 Oct" were opened and re-read on 2 October 2026; those marked "1 Oct" were read on 1 October 2026 for the site's individual brand reviews. Nothing was physically tested.
 >
 > - **Included:** the salt-based softener brands the site has reviewed, plus EcoPure, the Whirlpool licensee's own brand.

@@ -23,8 +23,6 @@ faqs:
 
 This **APEC ROES-50 review** comes down to one fit. The ROES-50 is a plain five-stage tank RO system with no mineral stage. APEC's manual says it is certified by WQA to NSF/ANSI 58 for TDS reduction. In a home that already softens, that simplicity is an advantage. The membrane removes most of the sodium the softener added, and softened feed is what APEC's own manual recommends for long membrane life. The trade-offs are real: the "4 gallon" tank holds 2.5 to 3.1 gallons at typical pressures, and under NSF test conditions it sends about 7.5 gallons to drain for every gallon you drink.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## APEC ROES-50 at a Glance
 
 | Item | Figure | Source |

@@ -23,8 +23,6 @@ faqs:
 
 The **Culligan vs Kinetico** choice comes down to two things: design and the dealer's quote. Culligan's Aquasential Smart HE is an electric single-tank softener with an Aqua-Sensor probe, Wi-Fi alerts and a lifetime tank and resin warranty. Kinetico's softeners are non-electric twin-tank units that run on water pressure, keep soft water flowing during regeneration and carry a 10-year warranty on the Premier XP line. Both are sold only through local dealers who set the price. So the useful comparison is two written, itemized quotes for your house, read line by line. On our illustrative pair, Kinetico's premium sits almost entirely in the equipment line.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Culligan vs Kinetico at a Glance
 
 > **Method.** Specifications come from Culligan's High Efficiency softener owner's guide (document 01021076, revision H, 11/19) and current product page, and from Kinetico's softener page and its 2030s data sheet. No unit was physically tested and no sales visit was attended. The two quotes below are illustrative, built in the price ranges owners have published. Neither brand is sold on Amazon. The online alternatives were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

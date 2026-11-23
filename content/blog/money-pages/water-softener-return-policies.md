@@ -25,8 +25,6 @@ faqs:
 
 Below, seven brands' policies are compared clause by clause from their own documents, alongside Amazon's standard window and the federal rule that covers softeners sold in your home.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Water Softener Return Policies Compared
 
 | Brand | Window | Restocking fee | Return shipping | Installed or used unit? | Amazon |

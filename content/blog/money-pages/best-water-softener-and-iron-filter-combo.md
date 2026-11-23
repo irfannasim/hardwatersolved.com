@@ -25,8 +25,6 @@ The **best water softener and iron filter combo** depends on which half has to w
 
 Every package has two halves, and both have to suit your water. Below, each one is checked twice: is the iron half right for your iron form, and is the softener half sized for hardness plus the iron it carries? Two of the packages on sale have a half that is smaller than the price suggests.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Water Softener and Iron Filter Combos at a Glance
 
 | Pick | Type | Iron half | Softener half | Amazon |

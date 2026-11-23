@@ -25,8 +25,6 @@ faqs:
 
 The **best electronic water descalers** are the ones that let you get your money back if they do nothing, because the evidence that they work in a given house is thin and mixed. On that basis, the Eddy ED6002P-US ranks first, with a 12-month money-back window on its retail listings, and it is usually the least expensive of the three. The HydroFLOW Pearl Plus is second, with the longest warranty at five years. The ScaleBlaster SB-75 is third: its 90-day refund ends before its own "long-term results" timeline does. None of them softens water. Independent testing found devices like these cut scale by about half, so buy one only to test it, and run the kettle test below before the window closes.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Best Electronic Water Descalers at a Glance
 
 | Rank | Model | Refund window | Stated hardness limit | Independent study cited by maker | Warranty | Amazon |

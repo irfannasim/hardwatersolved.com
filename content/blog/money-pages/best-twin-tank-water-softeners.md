@@ -23,8 +23,6 @@ faqs:
 
 The **best twin-tank water softeners** for most homes are Fleck 9100SXT dual-tank systems, sized so each tank lasts about five to seven days. One tank always softens while the other regenerates with soft water, so the house never gets a dose of hard water. Our picks are the **AFWFilters 9100SXT twin 48k** for most families, the **32k twin** for smaller homes and the **64k twin** for large or very hard-water households. Each costs much more than a single tank of the same per-tank size, close to double at the larger sizes, so the first question is whether you need one at all.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Top Twin-Tank Picks at a Glance
 
 | Pick | Resin per tank | Service / peak flow | Amazon |

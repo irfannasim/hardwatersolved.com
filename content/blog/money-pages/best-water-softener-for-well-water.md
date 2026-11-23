@@ -27,8 +27,6 @@ The **best water softener for well water** is a fine-mesh resin softener whose s
 
 That makes the iron result the first number to read on a well test, ahead of hardness. The picks below are sorted into three iron bands, with each model's stated iron rating set beside what that rating leaves out.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How These Well Water Picks Were Chosen
 
 > **Method.** No unit here was physically tested by us. Each pick is judged from its seller's spec page, owner's manual and warranty wording, with iron ratings quoted as the seller states them and set against extension-service guidance.

@@ -25,8 +25,6 @@ faqs:
 
 The **best 80,000 grain water softener** for most large households is the AFWFilters Iron Pro 2 80k. It has 2.5 cubic feet of fine-mesh resin in a 13×54 tank on a Fleck 5600SXT valve, and it was the lowest-cost per usable grain of the units we compared. An 80k makes sense for a daily hardness load of about 5,600 to 12,500 grains, but it needs a well that can hold about 4.6 gpm of backwash. If yours cannot, or the load is higher, a Fleck 9100SXT twin with two 10-inch tanks is the better buy. It costs considerably more per usable grain, needs only about 2.7 gpm, and never sends hard water to the taps.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How we chose.** Each single-tank pick is a complete metered system rated at 80,000 grains, sold on Amazon.com, with a published tank size. We compared them on usable capacity at the same efficient salt dose, the backwash flow they ask of a well, service flow and warranty, then set them against a 9100SXT twin. We dropped three plan candidates whose Amazon listings showed as currently unavailable on 1 October 2026: two Fleck 7000SXT 80k systems and the SoftPro Elite Ultimate 80k. Evidence comes from listings, AFWFilters' published specifications and design guidance. Nothing was physically tested.
 >
 > **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

@@ -25,8 +25,6 @@ The **best carbon prefilters** for a water softener depend on one thing first: w
 
 Gallon ratings are chlorine figures. On chloramine the same tank protects a fraction of the flow, and this page shows how much.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Each prefilter was compared from the maker's or seller's product page on media type and volume, rated capacity and flow.

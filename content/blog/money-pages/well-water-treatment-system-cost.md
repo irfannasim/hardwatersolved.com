@@ -23,8 +23,6 @@ faqs:
 
 **Well water treatment system cost** depends almost entirely on what your well test shows. A hard-only well needs a sediment filter and a softener, about $1,000 in equipment and roughly $1,700 installed. A well with bacteria, iron and sulfur needs an iron-sulfur filter, a softener and a UV system, about $3,180 in equipment and nearer $5,000 installed. Running costs climb in the same way, from about $155 a year to about $475. Below, each of four common profiles is broken into equipment, installation and annual running cost.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this page was put together.** Equipment budgets are rounded from retailer prices in October 2026 and given as a total for each profile, not as the price of any one listing. Installation ranges are illustrative, built from Fixr's national labor figures for one stage and scaled for extra tanks and an outlet. Running costs use one household: four people, about 300 gallons a day, salt at $0.20 a lb and electricity at about 17 cents per kWh. Nothing was physically tested. **Prices of individual products are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Well Water Treatment System Cost at a Glance

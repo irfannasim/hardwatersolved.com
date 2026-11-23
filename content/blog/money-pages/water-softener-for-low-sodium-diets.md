@@ -25,8 +25,6 @@ The best **water softener for low-sodium diets** is an ordinary, well-sized salt
 
 The sodium limit itself is a medical question. Ask the clinician who manages the diet for the number, then use the figures below to pick the setup that meets it.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Three Setups at a Glance
 
 | Setup | Sodium the softener adds, at the drinking tap | Raw-water sodium | Taps covered | Up-front cost | Ongoing cost | Effort |

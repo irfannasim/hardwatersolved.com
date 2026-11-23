@@ -23,8 +23,6 @@ faqs:
 
 The **best water softener for very hard water** is a large-capacity, metered unit that still lasts four days or more between regenerations at a moderate salt setting. For most homes at 20 to 40 grains per gallon, that means 2.5 cubic feet of resin or more. Our three picks are the **AFWFilters Iron Pro 2 80k** for wells and households of four, the **Fleck 9100SXT twin-tank 96k** above 30 gpg or for five or more people, and the **SoftPro Elite 64k** for smaller households on chlorinated city water. Above 20 gpg, the bigger bed is also the cheaper one to run, and the chart below shows why.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Three Picks at a Glance
 
 | Pick | Best for | Resin | Amazon |

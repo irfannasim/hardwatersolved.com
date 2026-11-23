@@ -25,8 +25,6 @@ faqs:
 
 **Aquasure vs SpringWell** comes down to box price. The SpringWell SS4 costs far more than the Aquasure Harmony 48k at each brand's own store. Both ship a 48,000-grain softener in a 10 x 54 inch tank, and both need the same shutoffs, fittings, air gap and salt before they soften anything. SpringWell also sells the bypass separately, so installed yourself, the gap stays about as wide as it is in the box. The extra money buys SpringWell's longer warranty, a six-month return window and a higher flow rating. It does not buy more resin, a standard valve or a certification. For a careful DIY installer on city water, the Aquasure is the better value.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Aquasure vs SpringWell at a Glance
 
 > **Method.** Box contents come from the Aquasure Harmony owner's manual (version 3.4) and SpringWell's salt-based softener product page and SS1/SS4 installation guide. Warranty and return terms are quoted from Aquasure's [product warranty page](https://aquasureusa.com/pages/product-warranty) and refund policy, and from SpringWell's [warranty page](https://www.springwellwater.com/warranty/) and [shipping and returns policy](https://www.springwellwater.com/shipping/), all read on 2 October 2026. Add-on and labor costs are illustrative estimates. Nothing was physically tested. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

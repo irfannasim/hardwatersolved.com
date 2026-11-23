@@ -25,8 +25,6 @@ faqs:
 
 This **Aquasure Harmony review** comes down to what the box price covers and what it does not. For a budget price, the 48,000-grain model buys a complete two-tank system, with valve, resin tank, resin, brine tank, bypass, drain line and brine line. It does not buy the shutoffs and fittings that connect it, the air gap the drain needs, or the salt to start it. It is a sound budget softener for a homeowner who will install and program it carefully. It is a poor one for anyone who needs a plumber, a certified product or iron removal under warranty.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Aquasure Harmony Review at a Glance
 
 | Model | Resin | Tank | Amazon |

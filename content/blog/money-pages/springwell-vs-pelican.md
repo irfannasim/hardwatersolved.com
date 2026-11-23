@@ -23,8 +23,6 @@ faqs:
 
 **SpringWell vs Pelican comes down to one fact before any spec: on 2 October 2026 only SpringWell was selling.** Both brands built the same two-product range for the same online buyer: a salt-based softener and a salt-free conditioner. SpringWell's SS softener and FutureSoft conditioner were for sale direct from SpringWell's own store. All four Amazon listings, SpringWell's and Pelican's, showed "Currently unavailable", and Pelican's own website was not responding. On paper the two ranges are close. Neither brand has an NSF/ANSI 44 listing. SpringWell's guarantee is narrower than its badge suggests, and Pelican's NaturSoft had the clearest written warranty of the four.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this comparison was put together.** Nothing here was physically tested. Specs and terms come from SpringWell's product pages, its [warranty page](https://www.springwellwater.com/warranty/) and [shipping and returns policy](https://www.springwellwater.com/shipping/), the Amazon listings for all four systems, and Pentair's residential water site. Certification was checked on [NSF's public listings](https://info.nsf.org/Certified/DWTU/Listings.asp?TradeName=SpringWell&Standard=044), current as of 2 October 2026. Where a brand does not publish a detail, the table says so instead of filling the gap.
 >
 > - **Compared:** each brand's salt-based softener and salt-free conditioner at the mid size, for 4 to 6 bathrooms or about 48,000 grains.

@@ -25,8 +25,6 @@ The **best manganese filters for well water** are chosen by pH before they are c
 
 The sellers' headline numbers, from 2 to 11 ppm of manganese, almost never say what pH they assume. The chart below fills that gap from maker and extension figures.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Manganese Filters at a Glance
 
 | Pick | Media | Stated manganese rating | pH guidance found | Amazon |

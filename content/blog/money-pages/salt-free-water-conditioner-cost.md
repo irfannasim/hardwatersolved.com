@@ -23,8 +23,6 @@ faqs:
 
 **Salt free water conditioner cost** runs from about $750 to $1,800 for the equipment, plus a modest installation and then a steady spend on replacement cartridges or media. There is no salt, drain line or electricity to pay for, but over ten years the cartridges add up. In our model for a family of four, the conditioners priced here cost about $2,835 to $3,430 over a decade before installation. A budget salt softener costs about $1,760 on moderately hard water and about $3,010 on very hard water. Going salt-free is rarely the cheaper choice. It is the choice for scale control without salt, and it does not soften water.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this page was put together.** The cost model uses equipment and replacement prices from brand stores and retailers, and replacement intervals from each maker's product page. The 10-year model uses a single household: four people at 70 gallons each a day, about 102,000 gallons a year. Salt softener running costs reuse the worked example in our [salt-free water conditioner maintenance](/blog/salt-free-water-conditioner-maintenance/) guide. Nothing was physically tested. **Individual product prices are not listed here** because they change often; the ranges and 10-year totals use prices seen on 2 October 2026. Use the buttons to see the current price on Amazon.
 
 ## Salt-Free Water Conditioner Cost at a Glance

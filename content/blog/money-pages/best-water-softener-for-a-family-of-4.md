@@ -27,8 +27,6 @@ The **best water softener for a family of 4** holds about 1.0 cubic foot of resi
 
 So instead of one "best for four people" answer, this page runs the sizing once at three hardness levels and names one pick for each. The arithmetic is short and shown in full, so you can check it against your own water report.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **Method.** No unit here was physically tested by us. Each pick is the complete system whose stated resin volume matches the sized requirement, judged from the seller's spec page and warranty wording. It had to be a salt-based, metered softener sold new on Amazon.com. Capacity is re-stated at 6 lb of salt per cubic foot, not the box rating.
 >
 > **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

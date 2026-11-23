@@ -25,8 +25,6 @@ faqs:
 
 The **best 32,000 grain water softener** for most small homes is a metered unit with about 1 cubic foot of resin, a reputable valve and a resin suited to your water. For chlorinated city water, our pick is the AFWFilters Fleck 5600SXT with 10% crosslink resin. On a tight budget, the Aquasure Harmony 32k is usually the lowest-cost complete system here. Size it from the right number, though. At an efficient salt setting a "32,000 grain" softener delivers about 20,000 grains per cycle. That suits two or three people on moderate water. It is a false economy for four people on hard water.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How we chose.** Every pick is a complete whole-house system sold on Amazon.com, with metered (demand-initiated) regeneration and a stated resin volume or tank size. We compared them on capacity at the same efficient salt dose, the flow their tank can handle, resin type, valve and published warranty. We excluded timer-only units, units with no stated resin volume or tank size, and cabinet models we could not confirm on Amazon. Evidence comes from Amazon listings, brand stores, owner's manuals and warranty documents. Nothing was physically tested.
 >
 > **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

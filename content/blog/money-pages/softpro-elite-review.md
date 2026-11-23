@@ -27,8 +27,6 @@ This **SoftPro Elite review** comes down to one finding. The Elite is a solid up
 
 What follows is built from SoftPro's product page, warranty document and Amazon listings, a check of NSF's public listings, and a cost model for three households. It is not a hands-on test.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## SoftPro Elite at a Glance
 
 | Item | What we found |

@@ -25,8 +25,6 @@ faqs:
 
 So this page starts by narrowing the field. Only systems with a stage that acts on scale are listed, and each is marked with the mechanism it uses. None of them removes hardness. If you want water that feels soft and leaves no spots, skip to the end: you need a softener, and no filter on this page will do that job.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Limits, flow rates and cartridge lives come from the makers' engineering specifications, performance data sheets and product pages. Each pick is marked with the scale mechanism it uses and the hardness ceiling its maker publishes.

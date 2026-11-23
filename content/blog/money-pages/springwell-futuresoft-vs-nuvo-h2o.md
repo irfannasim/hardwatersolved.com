@@ -25,8 +25,6 @@ faqs:
 
 **SpringWell FutureSoft vs Nuvo H2O is a choice between two opposite ways of keeping hardness from turning into scale.** FutureSoft passes water over TAC media that turns some calcium into microscopic crystals and adds nothing to the water. NuvoH2O releases citric acid from a cartridge, which binds calcium as calcium citrate and lowers pH. Neither softens: a hardness test reads the same before and after both. FutureSoft accepts harder water (81 gpg against 25 gpg) and usually costs less to run. Over 10 years a family of four replaces about 20 NuvoH2O Manor cartridges, against about 20 sediment filters and one media change for FutureSoft, whose media price SpringWell does not publish. NuvoH2O is cheaper to buy and has published scale data on water heaters, but it depends on a cartridge every six months and on starting pH.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this comparison was built.** Neither system was physically tested. Specs and limits come from SpringWell's [FutureSoft product page](https://www.springwellwater.com/product/water-softeners/salt-free-water-softeners/) and installation guide, and from NuvoH2O's Manor product page and its [Manor cartridge page](https://nuvoh2o.com/manor-cartridge/). The 10-year replacement count uses each brand's published cartridge and media ratings and the assumptions listed beside it.
 >
 > - **Compared:** the SpringWell FutureSoft FS1 (1 to 3 bathrooms) and the NuvoH2O Manor (homes over 1,500 sq ft), the two models a typical family would choose.

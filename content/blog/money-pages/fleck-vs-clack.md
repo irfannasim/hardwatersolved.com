@@ -23,8 +23,6 @@ faqs:
 
 **In the Fleck vs Clack choice, the Clack WS1 is the better-engineered valve and the Fleck 5600SXT is the easier one to get serviced.** The WS1 passes 27 gpm at a 15 psi drop against the 5600SXT's 20 gpm, backwashes at up to 27 gpm against 7, and comes apart by hand. The 5600SXT has the larger installed base, cheaper heads and parts on almost every supplier's shelf. Inside, they wear differently. The Fleck's piston runs through five loose seals and four spacers. The Clack's runs through one moulded stack. Both can be rebuilt with an inexpensive parts kit, and that is the real reason either beats a proprietary valve.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this comparison was put together.** Nothing here was physically tested. Valve specifications come from Pentair's [Fleck 5600SXT downflow service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf) and specification sheet, and Clack's [WS1 and WS1.25 drawings and service manual](https://www.clackcorp.com/wp-content/uploads/2026/01/V3115-99-WS1-1.25-DRAWINGS-AND-SERVICE-MANUAL.pdf) (form V3115-99). Repair steps are paraphrased from those manuals. Parts were checked at the AFWFilters store, which stocks both families. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Fleck vs Clack at a Glance

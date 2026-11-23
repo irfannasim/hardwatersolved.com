@@ -27,8 +27,6 @@ The **best alkaline reverse osmosis system** for most kitchens is the iSpring RC
 
 Every alkaline RO system works the same way. The membrane strips the water, and a cartridge after it dissolves some mineral back in. The cartridge is a small, cheap part. Certification and running cost are what actually separate these systems.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Picked: Mineral Stage, Certification, Running Cost
 
 > **Method.** Each system was compared on what its maker says the mineral stage adds, which certification the system carries and from whom, its published feed limits, and its filter replacement schedule. Evidence comes from product pages, filter pages and certification listings. Nothing was physically tested.

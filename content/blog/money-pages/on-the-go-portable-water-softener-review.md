@@ -23,8 +23,6 @@ faqs:
 
 This **On The Go portable water softener review** comes down to one number: the gallons you get between regenerations at the water you actually camp on. On The Go rates its 16,000-grain double at 640 to 1,600 gallons per regeneration, and that is true only if two boxes of table salt restore the full 16,000 grains. They restore closer to two-thirds. For two people using 40 gallons a day, that means a regeneration about every 28 days at 10 gpg, every 14 days at 20 gpg and every 9 days at 30 gpg. With no power, no tools and a one-year warranty, it is a sound RV softener. Just plan your trip on the adjusted numbers, not the box.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## On The Go Portable Water Softener Review: The Verdict in Brief
 
 - **What it is:** a 22-inch, 32 lb tank of softening resin with garden-hose fittings that sits between the campground spigot and your RV's fresh-water inlet.

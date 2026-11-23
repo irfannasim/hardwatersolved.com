@@ -25,8 +25,6 @@ The **best water softener for hair and skin** depends on which problem your wate
 
 The research supports a narrow claim. Hard water leaves soap and shampoo residue on skin and hair, and softening reduces it. It does not support softeners as an eczema treatment, and it says little about chlorine at tap-water levels. The cause table below keeps the two apart, so you buy the equipment for the problem you have.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Water Softeners for Hair and Skin at a Glance
 
 | Pick | Best for | What it removes | Amazon |

@@ -23,8 +23,6 @@ faqs:
 
 **In the Fleck 5600SXT vs 7000SXT choice, the 7000SXT only earns its place in a house whose busiest moment runs past about 12 to 15 gpm, roughly five or six fixtures at once.** Pentair rates the 3/4 inch 5600SXT at 20 gpm and the 1-1/4 inch 7000SXT at 28 gpm, both at a 15 psi drop, so the bigger valve loses about half the pressure at any flow. But the 5600SXT is rated only for softener tanks up to 12 inches, and its meter's stated accuracy ends at 15 gpm. That, not the valve body, is where it becomes the bottleneck. Below that, a 7000SXT on the same tank buys nothing you will feel. And on 2 October 2026, no complete 7000SXT system was for sale on Amazon.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this comparison was put together.** Nothing here was physically tested. Valve figures come from Pentair's [Fleck 7000 specification sheet](https://www.pentair.com/content/dam/extranet/web/nam/fleck/data-sheets/english/42802-fleck-7000-spec-sheet.pdf), its [Fleck 5600SXT specification sheet](https://goodwaterwarehouse.com/manuals-specs-brochures/5600sxt-spec-sheet-42749.pdf) and the [Fleck 7000SXT service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42775-fleck-7000sxt-manual.pdf). Pressure-drop curves are calculated from Pentair's rated points and marked illustrative. Resin-bed flow limits use the published design guideline of 15 gpm per square foot of bed at peak. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Fleck 5600SXT vs 7000SXT: The Spec Sheets Side by Side

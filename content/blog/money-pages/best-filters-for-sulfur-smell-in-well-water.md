@@ -27,8 +27,6 @@ The **best filters for sulfur smell in well water** are chosen by how much hydro
 
 Before any of that, smell the hot and cold taps separately. If only the hot water smells, the cause is almost always the water heater's anode rod, and a whole-house filter will not touch it.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Filters for Sulfur Smell at a Glance
 
 | H2S level | Best approach | Pick | Seller's H2S rating | Amazon |

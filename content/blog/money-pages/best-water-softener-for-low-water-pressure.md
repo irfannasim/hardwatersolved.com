@@ -25,8 +25,6 @@ faqs:
 
 Two numbers decide whether a softener works in a low-pressure house: how much pressure it loses at your peak flow, and the minimum inlet pressure its valve needs. This page puts every published figure on one chart, so you can see which units simply will not work for you.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How These Picks Were Ranked
 
 > **Methodology.** Every pick is a metered, salt-based softener listed on Amazon.com. Pressure-drop figures come from manufacturer spec sheets, manuals and listings, scaled to a 12 gpm household peak with the square of the flow ratio, the method set out in our guide to [water softener pressure drop](/blog/water-softener-pressure-drop/). Minimum inlet pressures come from the same documents. Nothing was physically tested. **Excluded:** units shown as unavailable on Amazon, and units with no published pressure range. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

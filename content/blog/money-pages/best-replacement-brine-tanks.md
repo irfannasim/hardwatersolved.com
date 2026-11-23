@@ -25,8 +25,6 @@ The **best replacement brine tanks** for most homes are 18 inch round tanks, 33 
 
 So this guide sizes the tank on salt capacity and refill interval, then lists the parts that have to match.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Tanks were compared on footprint, salt capacity as stated by the seller, and the internal parts supplied, from sellers' product pages.

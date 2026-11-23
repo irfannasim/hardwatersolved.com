@@ -25,8 +25,6 @@ faqs:
 
 **Morton vs Whirlpool water softener is a closer contest than the two brand names suggest: the same company builds both, and their nearest models use almost exactly the same salt.** The Morton M34 is rated at 5,060 grains of hardness per pound of salt and the Whirlpool WHES33 at 5,094. For a family of four on 15 gpg water, that is about 303 lb against 301 lb of salt a year. The real difference is regeneration water. At the efficient setting the Whirlpool uses about 600 fewer gallons a year, which is worth about $80 over ten years. Your salt setting changes the 10-year running cost by $410 to $500. The badge changes it by less than $80.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this comparison was built.** No softener was physically tested. Every capacity, salt and water figure comes from the two owner's manuals: the [Morton System Saver manual for models M20 to M34](https://inspectapedia.com/plumbing/Morton_manual-m20-27-30-34.pdf) and the [Whirlpool WHES30 and WHES33 manual](https://whirlpoolwatersolutions.com/wp-content/uploads/2015/05/7392301Eng_H.pdf) (revision H, January 2025). The maker is confirmed on NSF's public listings. The running-cost model uses those rated figures and the assumptions stated beside each table, so you can rerun it for your own house.
 >
 > - **Compared:** the Morton M34 and Whirlpool WHES33. They are the two brands' closest twins, with 0.91 and 0.88 cubic feet of resin.

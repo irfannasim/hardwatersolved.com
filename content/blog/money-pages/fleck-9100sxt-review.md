@@ -27,8 +27,6 @@ faqs:
 
 This Fleck 9100SXT review works from Pentair's technical sheet and SXT manual, the sellers' Amazon listings and the AFWFilters store. The capacity and cost figures are worked examples. Nothing here comes from physical testing.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this review was put together.** Valve data from Pentair's [Fleck 9100 technical sheet](https://pentair.eu/sites/default/files/collaterals/technical_sheet_9100_en.pdf); controller behaviour from Pentair's [Fleck 5600SXT service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf), which covers the SXT controller's two-tank setting. System contents from the Amazon listings. Capacity is stated at 6 lb of salt per cubic foot of resin; salt at $7 per 40 lb bag. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## How the 9100SXT Alternates Its Tanks

@@ -25,8 +25,6 @@ faqs:
 
 This **Whirlpool water softener review** answers the question the box does not: Whirlpool doesn't make it. **Water Channel Partners** of Eagan, Minnesota manufactures and warrants Whirlpool softeners under licence, and sells the same kind of single-tank cabinet softener under its own **EcoPure** brand. What you get at the big-box price is an NSF-certified, very salt-efficient cabinet unit. Its full warranty is short unless you keep buying Whirlpool's cleanser, and parts are sold under Whirlpool part numbers. One more thing changed this year: on 1 October 2026 none of the Whirlpool softener listings on Amazon had an active offer.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## 5 Facts Checked in This Whirlpool Water Softener Review
 
 1. **Maker:** Water Channel Partners, under licence from Whirlpool. Earlier documents named Ecodyne Water Systems.

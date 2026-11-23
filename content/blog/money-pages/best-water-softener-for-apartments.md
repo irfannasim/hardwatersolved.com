@@ -23,8 +23,6 @@ faqs:
 
 The **best water softener for apartments** is the one that clears three renter blockers before it ever softens a gallon: it has to fit the space, it needs a drain for regeneration, and you have to be allowed to install it and take it out again. If you have written permission, a drain and an outlet, the **Aquasure Harmony Lite 34k** is the narrowest whole-unit pick at 10.5 inches wide, and the **EcoPure EP31** suits a slightly wider space. If you have none of those, the **On The Go double portable** softens the washer or shower feed with hose threads and leaves with you.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Three Renter Blockers, Scored
 
 Most "best softener" lists rank on grain capacity. In an apartment, capacity is rarely the problem. A one- or two-bedroom unit uses little water, and almost any softener has enough capacity for it. What stops the install is space, drainage and the lease. So every pick here is scored against those three first.

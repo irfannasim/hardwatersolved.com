@@ -23,8 +23,6 @@ faqs:
 
 **AFWFilters vs DuraWater is a choice between two sellers, not two softeners.** For the 48,000-grain system with 10% crosslink resin, both ship a Pentair Fleck 5600SXT metered valve, 1.5 cubic feet of resin and a 10 x 54 inch mineral tank. What differs is the brine tank, the bypass options, and above all what each seller tells you in writing. AFWFilters publishes its prices, install guides, a parts store, warranty terms and a 120-day return policy on its own site. DuraWater's website gives specifications and a phone number, but no prices and no warranty terms. On that basis, AFWFilters is the easier one to buy from. Both sites also name some of the same Amazon listings, which changes how you should compare prices.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## AFWFilters vs DuraWater: The 48k 10% Resin Box, Side by Side
 
 | Item | AFWFilters 48k, 10% resin | DuraWater 48k, 10% resin |

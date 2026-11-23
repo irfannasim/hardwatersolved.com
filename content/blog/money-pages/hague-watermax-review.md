@@ -27,8 +27,6 @@ faqs:
 
 This Hague WaterMax review works from Hague's own product pages, its media guide, its warranty text and the specification tables in its owner's manual. Nothing here comes from physical testing. Where a number comes from an older manual, it says so.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this review was put together.** Sources: Hague's [WaterMax product page](https://www.haguewater.com/water-softeners/watermax.html) and [WaterMax media guide](https://www.haguewater.com/water-softeners/watermax/custom-add-ons.html), the 60-series WaterMax owner's manual (specification and capacity tables), and Hague's published warranty wording. Capacity is compared at a stated salt dose, not at a box rating. Hague publishes no prices, so the cost section uses dealer cost guides and owner-reported quotes and labels them as such. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Hague WaterMax Review in Brief

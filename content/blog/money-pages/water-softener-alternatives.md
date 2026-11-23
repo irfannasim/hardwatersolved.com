@@ -25,8 +25,6 @@ faqs:
 
 **Water softener alternatives** each fix one part of the hard-water problem, and none fixes all of it. A salt-free crystal-forming conditioner cuts scale in water heaters and pipes. A citric acid cartridge does a similar job on slightly alkaline water. A polyphosphate cartridge protects one appliance cheaply. An electronic descaler suits a renter who cannot change the plumbing. An under-sink reverse osmosis system fixes drinking water and kettle scale at one tap. Shower filters and magnets fix nothing about hardness. And two of the most common complaints, spotting and soap scum, are fixed by no alternative at all. Find your main symptom below and buy for that one.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Symptom-to-Product Matrix
 
 Each column is one alternative; each row is a symptom. "Yes" means independent or maker-published evidence supports it for that symptom. "Partly" means a reduced or unproven effect. "No" means it does not address it.

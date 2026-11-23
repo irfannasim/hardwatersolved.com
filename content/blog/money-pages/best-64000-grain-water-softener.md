@@ -25,8 +25,6 @@ faqs:
 
 The **best 64,000 grain water softener** for most large households is a metered Fleck 5600SXT system with 2 cubic feet of resin from AFWFilters. If your well has dissolved iron, the fine-mesh AFWFilters Iron Pro 2 64k is the better choice. But a 64k only makes sense for the right household. At an efficient salt setting it delivers about 40,000 grains per cycle, so it suits roughly four people on 15 gpg water, three on 20 gpg or more, or six on 10 gpg. Below that it is oversized. On a well it also needs about 3 to 3.5 gpm of backwash flow, held for 20 minutes or more.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How we chose.** Each pick is a complete whole-house system with about 2 cubic feet of resin, metered regeneration and a published warranty, sold on Amazon.com. We compared them at the same efficient salt dose, by tank size, the backwash flow that tank needs, resin type and warranty. Two plan candidates, a Fleck 7000SXT 64k and a Fleck 5800SXT 64k, were dropped because their Amazon listings showed as currently unavailable on 1 October 2026. Evidence comes from listings, brand stores, manuals and warranty terms. Nothing was physically tested.
 >
 > **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

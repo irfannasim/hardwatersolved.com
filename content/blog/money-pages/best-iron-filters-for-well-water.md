@@ -27,8 +27,6 @@ The **best iron filters for well water** are picked by technology first and bran
 
 Four lab results decide which of those you are: iron plus manganese, pH, hydrogen sulfide and any sign of iron bacteria. The chart below runs them in order, and each pick lists its oxidant, the backwash flow your well must supply and the lowest pH its maker states.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Iron Filters for Well Water at a Glance
 
 | Pick | Technology | Oxidant | Seller's rating (Fe / Mn / H2S) | Backwash flow | Lowest pH stated | Amazon |

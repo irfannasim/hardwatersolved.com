@@ -23,8 +23,6 @@ faqs:
 
 The **best water softener for tankless water heaters** is any properly sized salt-based softener that brings your water under the heater maker's warranty limit. That limit is about 12 grains per gallon (200 mg/L) for Navien, Noritz, Rinnai and Rheem, and 7 grains for Takagi. Our picks are the **SoftPro Elite 48k** if you want the longest valve warranty and upflow efficiency, and the **AFWFilters Fleck 5600SXT 48k with 10% resin** for the same job at a noticeably lower price. The **Express Water WH100SP** polyphosphate system is only for water that is already under the limit. Start with the heater's paperwork, because the manufacturer's clause sets the spec.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## What Five Tankless Makers Actually Require
 
 Each line below is quoted from a current manufacturer document, checked on 1 October 2026. Wording changes between models and editions, so the manual and warranty that came with your heater are the ones that count.

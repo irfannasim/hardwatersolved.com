@@ -23,8 +23,6 @@ faqs:
 
 This **AquaTru Classic review** comes down to a trade. You pay more per gallon than you would for an under-sink RO system, and in return you get certified reverse osmosis with no plumbing, no drilling and no drain connection. That makes it one of the best options for renters. Over three years, counting the purchase and the replacement filters, it costs roughly twice as much per gallon as an under-sink system at the prices we compared, and each gallon gets cheaper the more you drink. And on water over 10 grains per gallon, AquaTru itself says the membrane will scale unless the water is softened or the unit is descaled regularly.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## AquaTru Classic at a Glance
 
 | Item | Figure | Source |

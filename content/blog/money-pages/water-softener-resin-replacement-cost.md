@@ -23,8 +23,6 @@ faqs:
 
 **Water softener resin replacement cost** is about **$180 to $430 if you do it yourself** and roughly **$480 to $1,130 for a professional rebed**, depending on whether the tank holds 1, 1.5 or 2 cubic feet. The resin itself sells for about $150 to $200 a cubic foot online, and premium 10% crosslink grades such as ResinTech CG10 sit inside that range. Labor and the service call are most of a pro's bill. Rebedding makes sense when the control valve is under about 8 years old. Past about 12 years, new resin under an old head is usually a false economy.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How these numbers were built.** Nothing on this page was physically tested. Resin price ranges come from retailer listings and the makers' product pages; labor figures are illustrative placeholders using the same method as the site's repair-cost pages: a $100 to $150 service call plus labor at $100 an hour. Replace them with the rates on your own quote.
 >
 > - **Included:** whole 1 cubic foot bags of 10% crosslink cation softening resin from a named resin maker.

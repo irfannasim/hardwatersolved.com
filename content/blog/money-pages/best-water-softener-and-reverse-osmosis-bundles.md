@@ -29,8 +29,6 @@ A **water softener and reverse osmosis bundle** saves a little over buying the s
 - **Lowest price:** Aquasure Harmony 32k + Premier 75 GPD. A sound softener with a cheaper RO whose product page names no system certification.
 - **For higher hardness loads:** APEC Hydro Express 45 + ROES-PH75. The same RO with 1.5 cu ft of resin.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How These Bundles Were Chosen
 
 > **Method.** Each bundle was priced against its own two halves bought separately, and each half was checked on its own terms. The softener half was checked on resin volume and capacity at an efficient 6 lb/cu ft salt setting, not the box rating. The RO half was checked on whether the system, and not just its faucet, carries a reverse osmosis certification. Evidence comes from brand spec pages, warranty statements and certification listings. Nothing was physically tested.

@@ -23,8 +23,6 @@ faqs:
 
 This **Waterdrop G3P600 review** comes down to one condition. The G3P600 is a well-built tankless RO system with a fast 600 GPD rating, a 2:1 pure-to-drain ratio and a TDS readout on the faucet. Most households replace its filters on the time schedule, not the gallon limits. But its warranty only holds on municipal water under 7 grains per gallon of hardness and under 750 ppm TDS. On soft or softened city water it is easy to recommend. On hard, unsoftened water, its 24-month RO filter rating and its warranty both stop applying.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Waterdrop G3P600 Specs, Checked Against the Paperwork
 
 Listings repeat the headline numbers. This table puts each one next to what Waterdrop's own documents actually say.

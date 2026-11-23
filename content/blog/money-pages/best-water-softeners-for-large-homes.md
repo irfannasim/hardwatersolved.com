@@ -27,8 +27,6 @@ The **best water softeners for large homes** are chosen for flow before capacity
 
 So this guide starts with a worksheet that turns your fixtures into a minimum flow, then lists only the softeners whose tank and valve can carry it.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **Method.** No unit here was physically tested by us. Each candidate's flow was judged two ways: the seller's quoted service flow, and the flow its resin bed carries at the design guideline of 10 gpm per square foot continuous and 15 gpm per square foot peak. Bed area is the tank diameter in inches squared, divided by 183, from *Water Conditioning & Purification*'s [surface-loading guidance](https://wcponline.com/2014/03/17/giving-square-foot-little-respect-gpmft2-matters-softening/). A unit qualifies when its bed peak covers the house's busiest moment. Only salt-based systems sold new on Amazon.com were considered.
 >
 > **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

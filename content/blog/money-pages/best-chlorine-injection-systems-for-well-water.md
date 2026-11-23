@@ -25,8 +25,6 @@ The **best chlorine injection systems** for well water are built from four parts
 
 The parts matter more than the brand. A pump too small for your chlorine demand, or a contact tank too small for your flow, will not do the job, however good the badge.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Best Chlorine Injection Systems: Parts at a Glance
 
 | Stage | Pick | What decides it | Amazon |

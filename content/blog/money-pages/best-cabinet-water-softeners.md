@@ -25,8 +25,6 @@ faqs:
 
 That trade is the whole buying decision. A cabinet that holds 80 lb of salt needs a refill about every 9 weeks for a family of four. One that holds about 200 lb goes about 22 weeks. This page ranks each pick on that number, on floor space, and on what servicing it involves, not on the grain rating printed on the box.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How These Picks Were Chosen
 
 > **Methodology.** Every pick is a salt-based, ion-exchange cabinet softener listed on Amazon.com, with an owner's manual or maker spec sheet available. We compared salt storage, the salt dose behind the grain rating, floor area, valve type and warranty terms, taken from manuals and listings. Nothing was physically tested. **Excluded:** salt-free conditioners, two-tank systems, and units that are discontinued or showed as unavailable on Amazon.

@@ -23,8 +23,6 @@ faqs:
 
 **Water softener prices** run from about $500 for a small cabinet to about $1,100 for an 80,000-grain single-tank softener bought online, $1,230 to $1,710 for a twin tank, and $1,785 to $2,320 for a salt-free conditioner. Dealer brands such as Culligan, Kinetico and EcoWater are sold installed, and their reported quotes usually fall between about $1,800 and $6,500, with bundled packages higher. The fairest way to compare those numbers is price per 1,000 grains of capacity you can actually use. On that scale, larger online softeners cost about $20, twin and upflow units about $44 to $46, and a dealer-installed system several times more.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Water Softener Prices at a Glance: the Price Matrix
 
 Every cell below is either a rounded online price for that type and size or a published quote range, with the source in the notes. Online prices are equipment only. Dealer prices include installation, because dealers do not sell the box on its own.

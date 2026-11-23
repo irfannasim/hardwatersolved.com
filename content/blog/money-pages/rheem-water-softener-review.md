@@ -27,8 +27,6 @@ faqs:
 
 Rheem softeners are not sold on Amazon, so this review also names the closest Amazon alternatives.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Rheem Preferred Series at a Glance
 
 The figures below come from the RHS32, RHS42 and RHW42 owner's manuals, and the flow ratings broadly match NSF's [NSF/ANSI 44 listing for Rheem softeners](https://info.nsf.org/Certified/DWTU/Listings.asp?TradeName=Rheem&Standard=044), which also certifies all three for barium and radium reduction.

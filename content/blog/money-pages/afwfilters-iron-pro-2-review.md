@@ -23,8 +23,6 @@ faqs:
 
 This **AFWFilters Iron Pro 2 review** comes down to one point: it is a good buy for one specific well, with dissolved, clear-water iron up to about 5 ppm, a pH above 6.7 and moderate hardness. It is a Fleck 5600SXT metered softener with fine-mesh resin, so it removes iron the same way it removes hardness, by ion exchange. It cannot remove iron that has already rusted, and it is no answer to iron bacteria. Size it on compensated hardness, not on the grain number in its name. On iron water, the right model is usually smaller than the one you would pick by instinct.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## AFWFilters Iron Pro 2 at a Glance
 
 The Iron Pro 2 is sold in four resin volumes, all on the same Fleck 5600SXT digital metered valve. The figures below come from AFWFilters' own product pages.

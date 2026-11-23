@@ -25,8 +25,6 @@ faqs:
 
 **A Nuvo H2O review has to start with what the system is: a citric acid scale conditioner, not a water softener.** Its cartridge releases a small, steady dose of citric acid. That binds calcium as calcium citrate, which does not form scale, and it lowers the water's pH toward neutral. Hardness stays in the water, so a test strip reads the same as before. On moderately hard city water above pH 7.3, it is a compact, salt-free way to cut scale. Below 7.3, on copper plumbing in soft-leaning water, or where you need hardness actually removed, it is the wrong tool. The running cost is the cartridge, typically two or more a year.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The Nuvo H2O Range
 
 The Home, Manor and Home Duo are listed on Amazon. We could not confirm on 1 October 2026 that the Manor Trio is available on Amazon, so it is not linked. It was seen at Lowe's in late September (see below).

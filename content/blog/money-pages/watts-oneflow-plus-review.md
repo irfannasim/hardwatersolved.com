@@ -23,8 +23,6 @@ faqs:
 
 **This Watts OneFlow Plus review comes down to three checks, and the system passes only the first on independent evidence.** The OneFlow+ (model OFPSYS) is a compact, salt-free unit that combines a 20-micron carbon block with a scale-prevention cartridge. Its third-party certification is real but narrow: NSF/ANSI 372, which covers the lead content of the parts that touch your water. Its scale prevention and chlorine reduction are Watts' own claims. The bigger surprise is the running cost. The carbon block is rated for 50,000 gallons, so a family of four replaces it about every five and a half months. Over a few years, the cartridges cost more than the system itself.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Watts OneFlow Plus at a Glance
 
 | Spec | What Watts' catalog says |

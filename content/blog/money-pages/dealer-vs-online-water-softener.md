@@ -25,8 +25,6 @@ faqs:
 
 **Dealer vs online water softener comes down to who does the work.** A dealer sells you an installed system and a service relationship. An online seller sells you a box. In our illustrative 15-year model for a family of four, a dealer system at $3,500 installed costs about $5,303 including service and salt. An online softener, modelled at $775 of equipment, with a $500 plumber install and DIY upkeep costs about $2,728. That is a premium of about $2,575, or $172 a year. It is worth paying if you will never touch the softener, if your water needs more than softening, or if you have a dealer you trust. It is wasted if you can change a seal kit and program a valve.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this comparison was built.** No system was physically tested and no dealer was mystery-shopped. Dealer prices are not published by most dealer brands, so the dealer figure is illustrative and placed inside the range owners report. The online equipment figure is an illustrative model input, not a current listing price. Installation labor is from Fixr's national guide. Every assumption sits beside the table that uses it, so you can swap in your own quotes.
 >
 > - **Compared:** a dealer-installed metered softener against an online metered softener installed by a plumber, and the same online unit installed by the owner.

@@ -27,8 +27,6 @@ faqs:
 
 This Fleck 5600SXT review splits those two questions. The valve is rated from Pentair's service manual and technical sheet. The systems are compared from what each seller's own listing says ships in the box. Nothing here comes from physical testing.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 > **How this review was put together.** Valve specifications from Pentair's [Fleck 5600SXT downflow service manual](https://www.pentair.com/content/dam/extranet/web/nam/fleck/manuals/42684-fleck-5600sxt-downflow-manual.pdf) and [5600SXT technical sheet](https://pentair.eu/sites/default/files/collaterals/technical_sheet_5600_sxt_en.pdf). System contents from each seller's Amazon listing. Capacity is compared at a stated salt dose. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Fleck 5600SXT Review: The Valve on Its Own

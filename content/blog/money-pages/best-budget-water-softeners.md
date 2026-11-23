@@ -25,8 +25,6 @@ faqs:
 
 That is the point of ranking on ownership cost. Over a decade, salt, regeneration water and power cost a family of four on 15 gpg water about $1,830, far more than the box costs. Two budget softeners with the same resin use the same salt. What separates them is what happens when the warranty ends.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How the Ten-Year Cost Was Worked Out
 
 > **Methodology.** Every pick is a metered, salt-based softener listed on Amazon.com. Each one is costed for a family of four on 15 gpg chlorinated city water, using the same inputs as our [total cost of owning a water softener](/blog/total-cost-of-owning-a-water-softener/) model: 300 gallons a day, 3,000 grains removed per pound of salt, $7 a bag and $12 per 1,000 gallons of water and sewer. Installation is an illustrative $400 for a plumber fitting the unit into an existing loop. Parts were costed from the brand's own parts store. Nothing was physically tested. **Excluded:** timer-only units, salt-free conditioners, and units shown as unavailable on Amazon.

@@ -25,8 +25,6 @@ The best **leak detectors for water softeners** are automatic shutoffs, not alar
 
 A softener has a supply connection, a bypass, a pressurised drain line, a brine line and an overflow, and it usually regenerates at 2 a.m. That is the case for something that closes the water, not just beeps.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## How We Chose
 
 > **Methodology.** Nothing on this page was physically tested. Each system was compared from the maker's product pages and Amazon listings on what it detects, whether it shuts the water off, what it needs to work, and what it takes to own.

@@ -25,8 +25,6 @@ faqs:
 
 This **Kinetico water softener review** comes down to one number: the installed price. The engineering is excellent. Kinetico softeners run on water pressure with no electricity, use two tanks so one is always in service, regenerate by meter with soft water, and carry a 10-year warranty on the Premier XP series. Over 15 years, though, their running costs are close to those of a well-programmed metered Fleck twin-tank. On running costs alone, a Kinetico pays for its premium only if it is quoted within about $290 of an installed online twin-tank. Above that, you are paying for no electricity, no circuit board and a dealer relationship, which can still be worth it.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## Kinetico at a Glance
 
 > **Method.** This review uses Kinetico's own published material: its softener lineup page, its Premier Series product sheet (part 16274C, 10/2023) and the [Kinetico 2030s data sheet](https://watercenterplaza.com/wp-content/uploads/2019/12/Datasheet_Kinetico_2030s.pdf) as hosted by a Kinetico dealer. No unit was physically tested. The cost model uses those figures plus stated assumptions, so you can swap in your own. Kinetico is not sold on Amazon. **Prices are not listed here** for the online alternatives because they change often. Use the buttons to see the current price on Amazon.

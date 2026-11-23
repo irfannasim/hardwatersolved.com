@@ -23,8 +23,6 @@ faqs:
 
 This **iSpring RCC7AK review** comes down to a format decision more than a brand one. The RCC7AK is a six-stage tank RO with an alkaline remineralization filter. It is certified to NSF/ANSI 58 by NSF International and needs no electricity. Over five years it costs less to own than a popular tankless system. In return, you wait 1 to 3 hours for the tank to refill after it runs dry, and iSpring publishes no waste-water ratio. If those trade-offs suit your kitchen, it is one of the best-value RO systems you can buy.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## The iSpring RCC7AK in One Table
 
 | Item | Figure | Source |

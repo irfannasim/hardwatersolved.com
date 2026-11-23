@@ -25,8 +25,6 @@ faqs:
 
 This **RainSoft water softener review** is mainly about the sale, because that is where the decision gets made. The equipment itself is certified: RainSoft's EC5 series is tested and certified by NSF International to NSF/ANSI 44. But RainSoft is sold through in-home appointments by independent dealers, with no published prices, often as a package with financing and a lifetime warranty. That warranty is real, but it covers parts, not labor, applies to the first purchaser only, requires genuine RainSoft parts, and depends on returning a signed registration card. Know those conditions, and the total you will pay, before you sign anything.
 
-*Disclosure: Hard Water Solved may earn a commission if you buy through links on this page, at no extra cost to you. It does not change which products we include or how we rank them. [Read our disclaimer](/disclaimer/).*
-
 ## RainSoft at a Glance
 
 > **Method.** Warranty language is quoted from the RainSoft EC5 owner's manual (part 16842, revision J, January 2021). Product names come from RainSoft's current water softener page on rainsoft.com. No unit was physically tested, and no sales visit was attended. RainSoft is not sold on Amazon; the alternatives below were checked against their Amazon listings and brand stores. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
