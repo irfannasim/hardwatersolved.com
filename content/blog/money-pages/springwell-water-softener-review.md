@@ -147,7 +147,7 @@ Read together, the guarantee works like this:
 
 On a boxed return you lose a tenth of the price in restocking, plus freight both ways. An installed unit that "works" but leaves you dissatisfied, for example because of the hard-water gap described above, does not qualify for a refund. That is the most important thing to understand before relying on the badge.
 
-These terms are written for purchases from SpringWell's own store, which is where the softener is sold for now: its Amazon listing showed "Currently unavailable" on 1 October 2026.
+These terms are written for purchases from SpringWell's own store, which is where the softener was sold when we checked: its Amazon listing showed "Currently unavailable" on 1 October 2026.
 
 ## The Lifetime Warranty, Word for Word
 
@@ -186,9 +186,9 @@ For context, a generic online 48,000-grain softener on a Fleck 5600SXT valve fro
 
 SpringWell designs the SS for DIY installation. The guide covers cutting into the main line, fitting the bypass and MNPT connectors, running the drain line, filling the brine tank with 4 to 5 bags of salt pellets, pairing the app, and running a 90-minute first regeneration during which the house has no water. The general method, including where to put it and how to plumb the drain, is in [how to install a whole-house water softener](/blog/how-to-install-a-whole-house-water-softener/). Many areas require a licensed plumber for work on the main supply, so check before you cut.
 
-## Buying Direct (Amazon Listings Unavailable)
+## Buying Direct From SpringWell
 
-SpringWell has Amazon listings for this softener and for its softener-plus-filter combo, but both showed "Currently unavailable" when checked on 1 October 2026, with no offer to buy. For now, buy direct from SpringWell and check the current price there:
+SpringWell has Amazon listings for this softener and for its softener-plus-filter combo, but both showed "Currently unavailable" when checked on 1 October 2026, with no offer to buy. Buy direct from SpringWell and check the current price there:
 
 - **SpringWell salt-based water softener system.** SS1, SS4 and SS+ sizes, sold direct.
 - **SpringWell water filter and salt softener combo.** The softener plus a whole-house carbon filter, sold direct in three sizes.

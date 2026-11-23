@@ -103,7 +103,7 @@ A Fleck valve is the easiest replacement to live with. Parts and service manuals
 
 [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
 
-The cheapest way to put a new metered softener into an existing loop. The trade-off is the valve: it is Aquasure's own design rather than a Fleck or Clack, so parts come through one company. *The listing in our original research is unavailable on Amazon; the button goes to the current listing for the same model.*
+The cheapest way to put a new metered softener into an existing loop. The trade-off is the valve: it is Aquasure's own design rather than a Fleck or Clack, so parts come through one company.
 
 ### Fleck 5600SXT replacement head: when only the valve has failed
 

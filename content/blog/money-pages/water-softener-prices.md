@@ -43,7 +43,7 @@ Every cell below is either a rounded online price for that type and size or a pu
 > **How we built the matrix.** Nothing was physically tested. Online figures are equipment-only prices from makers' and sellers' own stores in early October 2026, rounded to set a range for each type and size rather than to price any one listing. Dealer ranges are published owner quotes and cost surveys, cited where used, because no dealer brand publishes a price list.
 >
 > - **Normalised:** capacity is re-stated at 6 lb of salt per cubic foot of resin, an efficient setting, not the box rating.
-> - **Excluded:** the Whirlpool WHES18 cabinet and the GE GXSHC40N, both "Currently unavailable" on Amazon on 2 October 2026; GE lists the GXSHC40N as obsolete. SpringWell's FutureSoft Amazon listing also showed "Currently unavailable" that day.
+> - **Excluded:** the Whirlpool WHES18 cabinet and the GE GXSHC40N, both "Currently unavailable" on Amazon on 2 October 2026; GE lists the GXSHC40N as obsolete.
 > - **Prices of individual products are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## Prices by Capacity: Bigger Tanks Cost Less per Grain
@@ -117,7 +117,7 @@ Two resin tanks alternate, so one is always in service and soft water never runs
 
 A template-assisted conditioner changes how hardness minerals behave; it does not remove them. It has no grain capacity, so it cannot be priced per grain.
 
-**SpringWell FutureSoft.** Sold in FS1, FS4 and FS+ sizes by bathroom count. Its Amazon listing showed "Currently unavailable" on 2 October 2026, so it may have to be bought direct. Running costs are close to zero. Whether it suits your water is a different question from price, covered in [salt-based vs salt-free water treatment](/blog/salt-based-vs-salt-free-water-treatment/).
+**SpringWell FutureSoft.** Sold in FS1, FS4 and FS+ sizes by bathroom count. Check the current price and availability on Amazon before you order, or buy it direct from SpringWell. Running costs are close to zero. Whether it suits your water is a different question from price, covered in [salt-based vs salt-free water treatment](/blog/salt-based-vs-salt-free-water-treatment/).
 
 [Check price on Amazon](https://www.amazon.com/dp/B07NP8JY4G)
 

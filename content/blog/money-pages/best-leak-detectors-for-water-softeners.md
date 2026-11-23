@@ -99,7 +99,7 @@ The local shutoff is the reason this kit is here. After LeakSmart's cloud shut d
 - **What it does:** an automatic shutoff that learns normal flow and closes during abnormal flow after its initial learning period, with remote shutoff from the app. A Plumbing Check feature runs with the main off and looks for hidden flaws such as poor seals and pinhole leaks, per the [Phyn Protect product page](https://www.phyn.com/products/phyn-protect).
 - **Install:** on main lines 1-1/4 inch or smaller, with 1 inch NPSM threaded ends; adapters sold separately. Wi-Fi is required at the install point, and a power outlet within 12 feet.
 - **Insurance:** Phyn's site says eligible users may save up to 15 percent on insurance premiums. That is Phyn's claim; confirm with your insurer.
-- **Amazon listing:** Phyn's own store now calls the product Phyn Protect, but the Amazon listing is still titled "Plus Smart Water Assistant & Shutoff (2nd Gen)". Its availability was not shown to our check, and it showed as unavailable on 1 October 2026, so check before relying on Amazon.
+- **Amazon listing:** Phyn's own store now calls the product Phyn Protect, but the Amazon listing is still titled "Plus Smart Water Assistant & Shutoff (2nd Gen)". Check the current price and availability on Amazon before you order.
 
 [Check price on Amazon](https://www.amazon.com/dp/B0DZ9SBCPX)
 

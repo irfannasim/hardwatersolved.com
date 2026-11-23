@@ -42,7 +42,7 @@ Below, seven brands' policies are compared clause by clause from their own docum
 >
 > - **Included:** brands with whole-house or full-size units sold on Amazon, whose returns terms could be read online. Eddy and ScaleBlaster are electronic descalers and AquaTru is a drinking-water RO unit. They are included because shoppers compare their guarantees with softener guarantees, not because they soften water.
 > - **Excluded:** dealer brands such as Culligan, Kinetico, EcoWater, RainSoft and Hague, which sell through local dealers on contracts that vary by dealer. They are covered in the dealer section below.
-> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon. SpringWell's Amazon listing would not load when we checked, and its Amazon listings showed "Currently unavailable" on 1 October, so buying direct may be the only option.
+> - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon. For SpringWell, check the current price and availability on Amazon before you order, or buy direct from SpringWell.
 
 ![Bar chart of water softener return policies by brand: 30 days for Aquasure, AquaTru and Amazon, 90 days for NuvoH2O and ScaleBlaster, 6 months for SpringWell and SoftPro, 12 months for Eddy](/diagrams/water-softener-return-policy-window-by-brand.svg "The colour matters more than the length: only some windows cover a unit you have installed")
 

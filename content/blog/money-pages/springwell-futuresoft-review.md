@@ -161,7 +161,7 @@ The "6-month money-back guarantee" badge is, in SpringWell's returns policy, a r
 | City water filter + FutureSoft combo | CSF1 / CSF4 / CSF+ |
 | Well water filter + FutureSoft combo | WSSF-1 / WSSF-4 |
 
-SpringWell has Amazon listings for the FutureSoft FS1 and for its well water filter plus FutureSoft combo, but both showed "Currently unavailable" when checked on 1 October 2026, with no offer to buy. For now, buy direct from SpringWell and check the current price there:
+SpringWell has Amazon listings for the FutureSoft FS1 and for its well water filter plus FutureSoft combo, but both showed "Currently unavailable" when checked on 1 October 2026, with no offer to buy. Buy direct from SpringWell and check the current price there:
 
 - **SpringWell FutureSoft salt-free water softener, 1 to 3 bathrooms (FS1).** Sold direct.
 - **SpringWell whole-house well water filter and salt-free conditioner combo.** An iron, sulfur and manganese filter ahead of FutureSoft, which is the configuration SpringWell's own limits call for on most wells. Sold direct, at a higher price than FutureSoft alone.

@@ -132,8 +132,6 @@ Financing a fair price is one decision. Financing an inflated price is two mista
 | Aquasure Harmony 48,000 (AS-HS48D) | Aquasure's own digital metered head, 10 x 54 in tank; also sold at Aquasure's store | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
 | SoftPro Elite 48,000 | 10% crosslink resin, upflow brining; also sold at SoftPro's store | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 
-*Our original research used an older Amazon listing for the Harmony 48k that is now unavailable; the button links to the current listing for the same model.*
-
 Add installation to either. A swap into an existing loop is a short job; a house that needs a new loop, drain and outlet costs more. The line-by-line ranges are in [water softener installation cost](/blog/water-softener-installation-cost/). If the installed total for a comparable online system is $1,200 to $2,000 and the dealer's cash price is $3,500 or more, ask what the difference buys before you discuss monthly payments.
 
 ## Cheaper Ways to Spread the Cost

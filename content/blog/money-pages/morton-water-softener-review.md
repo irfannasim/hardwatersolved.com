@@ -2,7 +2,7 @@
 title: "Morton Water Softener Review: Do the Salt Savings Add Up?"
 seoTitle: "Morton Water Softener Review: Salt Savings Claims Checked"
 seoDescription: "This Morton water softener review checks the salt-savings claim with a worked calculation, and covers what owners replace first."
-excerpt: "Morton's System Saver softeners are efficiency-rated demand units with a strong lab salt rating. Against a timer or a heavily dosed softener, the savings are real and large. Against a well-set conventional metered softener, the gap shrinks to a couple of bags a year. This review works the numbers at your hardness, lists the parts owners replace first, and names in-stock alternatives now that the MSD34C is unavailable on Amazon."
+excerpt: "Morton's System Saver softeners are efficiency-rated demand units with a strong lab salt rating. Against a timer or a heavily dosed softener, the savings are real and large. Against a well-set conventional metered softener, the gap shrinks to a couple of bags a year. This review works the numbers at your hardness, lists the parts owners replace first, and names two alternatives from the same maker."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -10,7 +10,7 @@ featuredImage: "https://images.pexels.com/photos/30732968/pexels-photo-30732968.
 ogImageAlt: "Worker carrying a heavy sack of white salt across a salt field, the yearly salt load a Morton water softener promises to reduce"
 faqs:
   - question: "Is a Morton water softener any good?"
-    answer: "On paper, yes. The Morton System Saver models are certified by NSF International against NSF/ANSI 44 for hardness reduction and efficiency, and the M34 manual rates it at 5,060 grains of hardness per pound of salt at its minimum dose. The weak points are a one-year warranty on non-tank parts for the standard models, and availability: the MSD34C currently shows as unavailable on Amazon."
+    answer: "On paper, yes. The Morton System Saver models are certified by NSF International against NSF/ANSI 44 for hardness reduction and efficiency, and the M34 manual rates it at 5,060 grains of hardness per pound of salt at its minimum dose. The weak points are a one-year warranty on non-tank parts for the standard models, and availability: the MSD34C showed as unavailable on Amazon when we checked on 1 October 2026."
   - question: "How much salt does a Morton water softener use?"
     answer: "For a family of four on 15 gpg water, the M34's best lab rating works out to about 303 lb of salt a year. With the High Efficiency setting on, Morton guarantees at least 4,000 grains per pound, or about 383 lb a year. Real use runs higher than lab figures, because of the reserve and partial regenerations, so log what you actually pour in."
   - question: "Who makes Morton water softeners?"
@@ -25,7 +25,7 @@ faqs:
 
 **A Morton water softener review comes down to one question: does the salt saving hold up?** Partly. The Morton System Saver softeners are NSF/ANSI 44 efficiency-rated demand units, and the M34's manual rates it at 5,060 grains per pound of salt at its minimum dose. Against a timer softener or a conventional unit on a heavy salt dose, that saves several hundred pounds of salt a year. Against a well-set conventional metered softener, the gap is about 100 lb a year at best, roughly two and a half bags.
 
-The bigger problem is availability. The Morton MSD34C shows as currently unavailable on Amazon, so this review also covers two in-stock alternatives from the same maker.
+The bigger problem is availability. The Morton MSD34C showed as unavailable on Amazon when we checked on 1 October 2026, so this review also covers two alternatives from the same maker.
 
 ## Morton Water Softener Review: The Short Verdict
 
@@ -33,7 +33,7 @@ The bigger problem is availability. The Morton MSD34C shows as currently unavail
 - **Salt savings in practice:** large against timers and heavy doses, small against a modern metered softener set to an efficient dose.
 - **Build and support:** NSF-certified for hardness reduction and efficiency. Parts are shipped to your home, but non-tank parts carry only a one-year warranty on the standard models.
 - **Iron:** the M34 is rated for up to 9 ppm of clear-water iron, backed by WQA test data. Red-water and bacterial iron are out of scope.
-- **Availability:** the MSD34C is listed on Amazon as unavailable. Buy only from stock you can see, and check that the seller still supports parts.
+- **Availability:** the MSD34C showed as unavailable on Amazon when we checked on 1 October 2026. Buy only from stock you can see, and check that the seller still supports parts.
 
 > **How this review was put together.** No softener was physically tested. The review uses the Morton System Saver manual for models M20 to M34, the M45C manual, the current NSF certification listing, and the salt-use formula from this site's guide to [how much salt a water softener uses](/blog/how-much-salt-does-a-water-softener-use/). The conventional reference figures come from the Hellenbrand ProMate 6.0 capacity table used in that guide. Each Amazon listing was opened to confirm the page exists.
 >
@@ -124,11 +124,11 @@ The manual's troubleshooting section lists the causes of a softener that will no
 
 **Warranty.** The M20 to M34 manual covers the salt tank and fibreglass mineral tank for 10 years against rust, corrosion, leaks and bursting, and all other parts for one year. Parts are shipped free, but labour is not covered. On the M45C, Morton offers an extended warranty if you use its MWSC cleanser, and using any other softener additive voids that extension.
 
-## In-Stock Alternatives on Amazon
+## Alternatives on Amazon
 
-Because the MSD34C is unavailable, the realistic choice is a close relative. Both of these come from the same company that makes Morton's softeners.
+If you cannot find the MSD34C, the realistic choice is a close relative. Both of these come from the same company that makes Morton's softeners.
 
-**EcoPure EPH130: the in-stock cabinet from Morton's maker.** It is not a like-for-like M34: the listing describes a 2-in-1 cabinet that combines softening resin with filtration media for better-tasting water, AutoSense demand regeneration with up to 40% less salt than traditional systems, and sizing for households of up to five people. The listing title does not give a grain rating, and we could not confirm a grains-per-pound figure, so read the spec label and the manual before you compare it with the M34's 5,060 grains per pound.
+**EcoPure EPH130: the current cabinet from Morton's maker.** It is not a like-for-like M34: the listing describes a 2-in-1 cabinet that combines softening resin with filtration media for better-tasting water, AutoSense demand regeneration with up to 40% less salt than traditional systems, and sizing for households of up to five people. The listing title does not give a grain rating, and we could not confirm a grains-per-pound figure, so read the spec label and the manual before you compare it with the M34's 5,060 grains per pound.
 
 [Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG)
 

@@ -20,7 +20,7 @@ faqs:
   - question: "How much salt does a WaterBoss use with iron?"
     answer: "Much more than on hardness alone, because each ppm of iron adds 5 grains per gallon to the setting. For a family of four on 15 gpg water at the 8.5 lb dose, salt use rises from about 440 lb a year with no iron to about 1,160 lb at 5 ppm and roughly 1,890 lb at 10 ppm, before the powerClean cycles are added."
   - question: "Is the WaterBoss sold on Amazon?"
-    answer: "Not the Model 900 at the moment. Its Amazon listing showed \"currently unavailable\" on 1 October 2026, so buy it from Home Depot, which sells it. A 22,000-grain WaterBoss is listed on Amazon; check that the listing names the model number you want before you buy."
+    answer: "The Model 900 was not when we checked. Its Amazon listing showed \"currently unavailable\" on 1 October 2026, so buy it from Home Depot, which sells it. A 22,000-grain WaterBoss is listed on Amazon; check that the listing names the model number you want before you buy."
 ---
 
 **This WaterBoss water softener review tests one claim: that a compact cabinet softener also takes care of iron and sediment.** It does, inside a narrower window than the box suggests. The WaterBoss 900's manual rates it for up to 10 ppm of iron, but only clear-water (ferrous) iron, at pH 7 or above, and only while your hardness plus 5 grains per gallon for every ppm of iron stays under 90. Its filter layer handles fine dirt, not sand. Above 5 ppm of iron, with any iron that has already oxidised, or with sand in the water, a separate filter is still needed.

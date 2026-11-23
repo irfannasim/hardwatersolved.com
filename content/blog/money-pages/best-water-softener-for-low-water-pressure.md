@@ -32,8 +32,8 @@ Two numbers decide whether a softener works in a low-pressure house: how much pr
 Some well-known high-flow and low-loss units are not ranked:
 
 - **Fleck 7000SXT systems with 1.25 in ports.** The 7000 is Pentair's high-flow valve and the natural choice for big homes on weak supplies. Every 7000SXT system listing we checked on Amazon showed as currently unavailable.
-- **WaterBoss 900.** It is one of the few cabinet units to publish a system figure, 10 gpm at a 15 psi drop. Its Amazon listing shows as currently unavailable.
-- **SpringWell salt-based softener.** The brand lists a 25 to 80 psi operating range and 11 to 20 gpm by size. Its Amazon listing shows as currently unavailable.
+- **WaterBoss 900.** It is one of the few cabinet units to publish a system figure, 10 gpm at a 15 psi drop. Its Amazon listing showed as unavailable when we checked.
+- **SpringWell salt-based softener.** The brand lists a 25 to 80 psi operating range and 11 to 20 gpm by size. Its Amazon listing showed as unavailable when we checked.
 
 ## Best Water Softener for Low Water Pressure: Loss at a Real Peak
 

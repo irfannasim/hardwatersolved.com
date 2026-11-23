@@ -31,7 +31,7 @@ Grain ratings and app features get the attention, but the control valve is the p
 
 > **Method.** Brands are ranked on ownership, not on headline features: (1) who makes the control valve, (2) whether a homeowner can buy its parts, (3) warranty terms quoted from the brand's current warranty document or product page, (4) published NSF/ANSI 44 or WQA certification, and (5) price. Grain ratings were not used to rank anything, because a box rating says nothing about the capacity at the salt dose you will run (see [advertised vs usable softener capacity](/blog/advertised-vs-usable-softener-capacity/)). No unit was physically tested; the evidence is manuals, warranty documents, spec sheets and listings.
 >
-> **Excluded:** salt-free conditioners (a different technology), GE (GE lists its softeners as no longer manufactured), the Morton MSD34C (shown as unavailable), and SpringWell and Hague, whose valve maker or current warranty document could not be confirmed for this page.
+> **Excluded:** salt-free conditioners (a different technology), GE (GE lists its softeners as no longer manufactured), the Morton MSD34C (shown as unavailable when we checked), and SpringWell and Hague, whose valve maker or current warranty document could not be confirmed for this page.
 >
 > **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon. Dealer brands publish no prices.
 

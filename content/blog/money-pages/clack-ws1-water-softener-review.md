@@ -2,7 +2,7 @@
 title: "Clack WS1 Water Softener Review: Programming, Parts and Repairs"
 seoTitle: "Clack WS1 Water Softener Review: 5 Strengths, 3 Limits"
 seoDescription: "This Clack WS1 water softener review compares flow, programming and repair against Fleck, and shows which parts fail most and how to fix them."
-excerpt: "The Clack WS1 is one of the two control valves most online softeners are built around. This review reads its service manual instead of its sales copy: what the 27 gpm rating means in a real system, how to program the four menus, and which parts the manual blames when things go wrong. It also covers why the one complete Clack system on Amazon is not a buy right now."
+excerpt: "The Clack WS1 is one of the two control valves most online softeners are built around. This review reads its service manual instead of its sales copy: what the 27 gpm rating means in a real system, how to program the four menus, and which parts the manual blames when things go wrong. It also covers why the one complete Clack system we found on Amazon was not a buy when we checked."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -39,7 +39,7 @@ This **Clack WS1 water softener review** starts with the answer: the WS1 is an e
 
 1. **No consumer warranty from Clack.** The five-year Clack warranty is given to the system builder. Your cover is whatever the seller writes.
 2. **The menus assume an installer.** System setup asks for grains capacity at your salt fill, which a buyer has to calculate or trust the seller for.
-3. **Hard to buy as a homeowner.** Clack does not sell direct, and the one complete system on Amazon is unavailable.
+3. **Hard to buy as a homeowner.** Clack does not sell direct, and the one complete system we found on Amazon was unavailable when we checked on 1 October 2026.
 
 > **How this review was built.** It is built from documents, not from a unit on a bench. The evidence is Clack's *WS1 & WS1.25 Drawings and Service Manual* (form V3115-99, dated 10/24/2025), the WS1 programming manual, Pentair's 5600SXT specification sheet, distributor system listings and retail parts listings. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
@@ -185,7 +185,7 @@ What reaches you is whatever the system seller adds on top. Some sellers offer l
 ## Who the Clack WS1 Is Wrong For
 
 - **Anyone who wants one company to call.** With Clack, the valve maker and the warrantor are different companies. If you want a single brand that makes, sells and services the whole unit, a dealer brand or a big-box cabinet unit is simpler.
-- **Buyers who need Amazon delivery this month.** The system is not available there now.
+- **Buyers who need Amazon delivery.** The only complete system we found there was unavailable when we checked on 1 October 2026.
 - **Small households with soft-to-moderate water.** A 27 gpm valve on a one-bathroom home adds cost without adding anything you will notice.
 - **Owners who will never open a menu.** The WS1 rewards someone who checks the hardness setting and reads diagnostics. If the seller's defaults are wrong and nobody changes them, a cheaper valve programmed correctly will do better.
 

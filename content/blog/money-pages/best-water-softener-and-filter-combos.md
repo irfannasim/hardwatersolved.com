@@ -31,9 +31,9 @@ That matters because the parts in a combo wear out on different clocks. A cartri
 
 Three combos you may see elsewhere are not here:
 
-- **EcoPure EPHS hybrid softener and filter.** Its carbon media sits inside the softener cabinet and, in the maker's words, "never needs replacing". That is the design this page warns against. Amazon also shows it as currently unavailable.
-- **SpringWell water filter and salt softener combo.** Amazon shows it as currently unavailable.
-- **Fleck 5600SXT 64k bundled with a Culligan filter housing.** Amazon shows it as currently unavailable. It was a third-party bundle; Culligan supplied only the filter housing.
+- **EcoPure EPHS hybrid softener and filter.** Its carbon media sits inside the softener cabinet and, in the maker's words, "never needs replacing". That is the design this page warns against. Amazon also showed it as unavailable when we checked.
+- **SpringWell water filter and salt softener combo.** Amazon showed it as unavailable when we checked.
+- **Fleck 5600SXT 64k bundled with a Culligan filter housing.** Amazon showed it as unavailable when we checked. It was a third-party bundle; Culligan supplied only the filter housing.
 
 ## Best Water Softener and Filter Combos Compared
 

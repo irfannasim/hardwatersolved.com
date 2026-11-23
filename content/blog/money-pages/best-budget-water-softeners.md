@@ -33,8 +33,8 @@ That is the point of ranking on ownership cost. Over a decade, salt, regeneratio
 
 Three cheap units that turn up on other lists did not make it:
 
-- **Whirlpool WHES18.** It would be the lowest-cost pick, but Amazon shows it as currently unavailable.
-- **GE GXSF30V.** GE lists it as no longer manufactured, and Amazon shows it as unavailable. A discontinued valve is exactly the risk this page is about.
+- **Whirlpool WHES18.** It would be the lowest-cost pick, but Amazon showed it as unavailable when we checked.
+- **GE GXSF30V.** GE lists it as no longer manufactured, and Amazon showed it as unavailable when we checked. A discontinued valve is exactly the risk this page is about.
 - **Tier1 24,000-grain compact.** Its ceramic-disc valve, which has no seals to wear, is interesting, and the Amazon listing is live. We could not confirm the valve warranty terms today, so it is not ranked.
 
 ## The Best Budget Water Softeners, Costed Over Ten Years

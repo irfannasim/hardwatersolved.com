@@ -68,7 +68,7 @@ Three conclusions follow.
 
 **The hybrids differ most.** With the same 0.98 cubic feet of resin and the same 3 ppm iron limit, the EPHS is rated at 29,800 grains at 9.3 lb of salt, against the WHESFC's 24,700 at 7.8 lb. But the Whirlpool is a PRO model, with a two-year full warranty extendable to ten. The EPHS offers one year, extendable to five.
 
-What neither badge changes: the cabinet, the proprietary valve and its parts, the support line run by the same company, and the rule in both manuals that aftermarket parts void the warranty. On 1 October 2026 Whirlpool's Amazon softener listings showed no active offer, so on availability the EcoPure currently wins by default.
+What neither badge changes: the cabinet, the proprietary valve and its parts, the support line run by the same company, and the rule in both manuals that aftermarket parts void the warranty. On 1 October 2026 Whirlpool's Amazon softener listings showed no active offer, so on that check the EcoPure won on availability by default.
 
 ![Crowded hardware store with tools and household goods stacked on every shelf; EcoPure softeners are sold mainly through hardware retailers as well as Amazon](https://images.pexels.com/photos/12917478/pexels-photo-12917478.jpeg)
 
@@ -110,7 +110,7 @@ Three more EPHS details differ from the EP31 and EP42:
 - **Lower iron limit.** 3 ppm, so it is a city-water product more than a well-water one.
 - **A cooler temperature limit in the warranty.** The EPHS warranty applies at water temperatures "not exceeding 100°F", against 120°F for the EP31 and EP42.
 
-Availability is the last problem. When this site checked earlier, Amazon showed the EPHS as currently unavailable, and on 2 October 2026 we could not confirm a current US offer. EcoPure's website now features the EPH130, a 2-in-1 softener and filtration cabinet for up to five people. It was listed on Amazon on 1 October 2026, but EcoPure publishes no grain rating or carbon capacity for it, so it cannot yet be compared on the numbers above.
+Availability is the last point: check the current price and availability of the EPHS on Amazon before you order. EcoPure's website now features the EPH130, a 2-in-1 softener and filtration cabinet for up to five people. It was listed on Amazon on 1 October 2026, but EcoPure publishes no grain rating or carbon capacity for it, so it cannot yet be compared on the numbers above.
 
 ## The Warranty and the Cleaner Arithmetic
 

@@ -32,7 +32,7 @@ The **Culligan vs Whirlpool water softener** decision is really a decision about
 | | Culligan Aquasential Smart HE | Whirlpool cabinet softeners |
 |---|---|---|
 | Who makes it | Culligan International; sold by independently operated dealers | Water Channel Partners, under licence from Whirlpool |
-| Where you buy it | Local Culligan dealer only | Farm, home and hardware stores; Amazon listings unavailable |
+| Where you buy it | Local Culligan dealer only | Farm, home and hardware stores; Amazon listings unavailable on 1 Oct 2026 |
 | Installation | By the dealer | DIY kit included, or your plumber |
 | Layout | Separate tank and brine tank; 9, 10, 12 and 14 inch tanks; twin-tank option | Single-tank cabinet, resin tank inside the salt cabinet |
 | Certification | WQA and IAPMO R&T, NSF/ANSI 44 and 372, CSA B483.1 | NSF/ANSI 44, listed under Water Channel Partners |

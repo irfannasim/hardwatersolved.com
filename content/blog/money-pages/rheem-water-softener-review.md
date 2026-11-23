@@ -14,7 +14,7 @@ faqs:
   - question: "Who makes Rheem water softeners?"
     answer: "The Rheem Preferred softener manuals name Water Channel Partners of Eagan, Minnesota as the warrantor, and NSF's certification listing for the Rheem RHS18, RHS32, RHS42 and RHW42 names the same company. It also appears behind Whirlpool, Morton and EcoPure softeners on NSF's register, which is why several of these models share near-identical specifications."
   - question: "Can I buy a Rheem water softener on Amazon?"
-    answer: "No. Rheem Preferred whole-house softeners are not sold on Amazon; only third-party parts such as power adapters and cleaners appear there. Rheem softeners are sold through Home Depot. The Whirlpool WHES33, the closest match to the Rheem RHS32, showed as currently unavailable on Amazon on 1 October 2026. The in-stock Amazon options are the EcoPure EP42 and EPH130, from the same maker, and the GE GXSH35W, a cabinet softener from a different maker."
+    answer: "No. Rheem Preferred whole-house softeners are not sold on Amazon; only third-party parts such as power adapters and cleaners appear there. Rheem softeners are sold through Home Depot. The Whirlpool WHES33, the closest match to the Rheem RHS32, showed as currently unavailable on Amazon on 1 October 2026. The closest Amazon alternatives are the EcoPure EP42 and EPH130, from the same maker, and the GE GXSH35W, a cabinet softener from a different maker."
   - question: "What is the warranty on a Rheem water softener?"
     answer: "The RHS32, RHS42 and RHW42 manuals give a one-year full warranty on parts and labour, three years on the electronic control board, and ten years on the salt storage tank and resin tank. The one-year parts and labour period can be extended to five years if you use one bottle of Rheem RHWSC softener cleaner every four months and keep the receipts."
   - question: "Is softened water bad for a Rheem water heater?"
@@ -80,7 +80,7 @@ Capacity ratings only mean something at a stated salt dose, a point covered in [
 
 Three findings:
 
-1. **The RHS32 and the Whirlpool WHES33 publish the same capacity at all three doses.** Their efficiency ratings differ by 10 grains per pound, and NSF lists both under the same company. Treat them as one design with two badges. The WHES33's Amazon listing showed "currently unavailable" on 1 October 2026, so on Amazon the comparison is now academic.
+1. **The RHS32 and the Whirlpool WHES33 publish the same capacity at all three doses.** Their efficiency ratings differ by 10 grains per pound, and NSF lists both under the same company. Treat them as one design with two badges. The WHES33's Amazon listing showed "currently unavailable" on 1 October 2026, so on that date the Amazon comparison was academic.
 2. **The RHS42's "42,000 grains" needs 16.3 lb of salt.** At a normal 8 lb dose it delivers about 29,900 grains, level with the WaterBoss 900. Its real advantages are elsewhere: 1.2 cubic feet of resin, 9.9 gpm of rated flow and a 140 gpg hardness limit.
 3. **On rated efficiency, the WaterBoss 900 leads**, at 5,510 grains per pound at a 1 lb dose. That figure comes from a very small dose, so it regenerates often to achieve it.
 
@@ -90,9 +90,9 @@ Three findings:
 
 ## Amazon Alternatives
 
-Rheem sells no whole-house softeners on Amazon; only third-party adapters and cleaners turn up there. These are the closest equivalents that were in stock when checked on 1 October 2026:
+Rheem sells no whole-house softeners on Amazon; only third-party adapters and cleaners turn up there. These are the closest equivalents on Amazon. Check the current price and availability before you order:
 
-**EcoPure EPH130: the in-stock cabinet from Rheem's maker.** This is not the RHS32's twin, and its specification is not published alongside the Rheem's. The listing describes a 2-in-1 cabinet that adds filtration media to the softening resin for better-tasting water, AutoSense demand regeneration with up to 40% less salt than traditional systems, and sizing for households of up to five people. The listing title gives no grain rating, so check the spec label against the table above before you choose it over an RHS32.
+**EcoPure EPH130: the current cabinet from Rheem's maker.** This is not the RHS32's twin, and its specification is not published alongside the Rheem's. The listing describes a 2-in-1 cabinet that adds filtration media to the softening resin for better-tasting water, AutoSense demand regeneration with up to 40% less salt than traditional systems, and sizing for households of up to five people. The listing title gives no grain rating, so check the spec label against the table above before you choose it over an RHS32.
 
 [Check price on Amazon](https://www.amazon.com/dp/B0GMYSW7MG)
 
@@ -111,7 +111,7 @@ Rheem sells no whole-house softeners on Amazon; only third-party adapters and cl
 - **Anyone buying it to protect a Rheem heater warranty.** It does not. Any well-sized softener protects the heater equally, and the anode check is the same.
 - **Buyers who will not use the brand cleaner.** Without it, parts and labour cover ends after one year.
 - **Wells with red water, iron bacteria or iron above the rating.** The 8 and 11 ppm figures apply to clear-water iron only, and Wisconsin requires extra treatment above 5 ppm.
-- **Amazon-only shoppers.** Rheem softeners are not sold there, and the like-for-like WHES33 was unavailable when checked; the EcoPure EP42 is the closest in-stock size match.
+- **Amazon-only shoppers.** Rheem softeners are not sold there, and the like-for-like WHES33 was unavailable when checked; the EcoPure EP42 is the closest size match on Amazon.
 - **Anyone wanting to avoid salt.** That is a different technology with different trade-offs, covered in [salt-based vs salt-free water treatment](/blog/salt-based-vs-salt-free-water-treatment/).
 
 Buy a Rheem softener if its price at Home Depot beats the alternatives above, or if the RHS42's larger resin bed and higher flow suit your house. Do not buy one to match the heater.

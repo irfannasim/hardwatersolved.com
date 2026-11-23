@@ -145,13 +145,13 @@ For a direct-to-home brand, support is the product as much as the tank is.
 
 A softener with a widely stocked valve can be serviced by any water treatment technician. Neither brand's salt-based unit offers that, which is the trade-off of buying a branded head.
 
-## Amazon Alternatives While Pelican Is Unavailable
+## Amazon Alternatives to Pelican
 
 None of the four systems had an active Amazon offer. These are the closest equivalents we could confirm on 2 October 2026:
 
-1. **Aquasure Harmony 48,000-grain softener.** Listing active on Amazon and also sold at Aquasure's own store. A two-tank metered softener with 1.5 cubic feet of resin and a proprietary valve. [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
-2. **DuraWater 48,000-grain Fleck 5600SXT system.** Listing active on 2 October. 1.5 cubic feet of resin on a Fleck valve that most technicians can service, which neither brand's softener offers. [Check price on Amazon](https://www.amazon.com/dp/B010MR6T2I)
-3. **Watts Premier OneFlow Plus.** In stock on 2 October. A salt-free scale-prevention cartridge with a 20-micron carbon block. It conditions rather than softens, like FutureSoft and NaturSoft, and needs the same clean, iron-free water. [Check price on Amazon](https://www.amazon.com/dp/B01H273O4M)
+1. **Aquasure Harmony 48,000-grain softener.** Also sold at Aquasure's own store. A two-tank metered softener with 1.5 cubic feet of resin and a proprietary valve. [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
+2. **DuraWater 48,000-grain Fleck 5600SXT system.** 1.5 cubic feet of resin on a Fleck valve that most technicians can service, which neither brand's softener offers. [Check price on Amazon](https://www.amazon.com/dp/B010MR6T2I)
+3. **Watts Premier OneFlow Plus.** A salt-free scale-prevention cartridge with a 20-micron carbon block. It conditions rather than softens, like FutureSoft and NaturSoft, and needs the same clean, iron-free water. [Check price on Amazon](https://www.amazon.com/dp/B01H273O4M)
 
 ## Which to Choose
 

@@ -84,7 +84,7 @@ Two practical rules follow from the table.
 
 ## 2. Aquasana Rhino With Salt-Free Conditioner: Best for Chlorine Plus Scale
 
-The Amazon listing uses Aquasana's older EQ-1000 model name, so check that what ships is the current Rhino with the conditioner.
+The Amazon listing uses Aquasana's older EQ-1000 model name, so check that what ships is the current Rhino with the conditioner, and check the current price and availability before you order.
 
 [Check price on Amazon](https://www.amazon.com/dp/B00XAJK0S0)
 

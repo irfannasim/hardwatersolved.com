@@ -31,10 +31,10 @@ That is the finding in short. Below, 14 models are checked one at a time, with t
 |---|---|---|---|---|---|
 | EcoPure EP31 | "NSF-Certified" in Amazon title | **Listed**: hardness reduction, efficiency rated | Water Channel Partners | 7.2 gpm | [Check price on Amazon](https://www.amazon.com/dp/B01N5S983U) |
 | EcoPure EP42 | "NSF-Certified" in Amazon listing | **Listed**: hardness reduction, efficiency rated | Water Channel Partners | 8.2 gpm | [Check price on Amazon](https://www.amazon.com/dp/B01N5S92DK) |
-| EcoPure EPHS | "NSF Certified" in Amazon title | **Listed**: plus barium and radium reduction | Water Channel Partners | 8 gpm | Currently unavailable |
+| EcoPure EPHS | "NSF Certified" in Amazon title | **Listed**: plus barium and radium reduction | Water Channel Partners | 8 gpm | Currently unavailable on 1 Oct |
 | Whirlpool WHES33 | "NSF certified" in listing copy | **Listed** | Water Channel Partners | 8 gpm | Currently unavailable on 1 Oct |
 | Whirlpool WHES40E | "NSF certified" in Amazon title | **Listed** as WHES40 | Water Channel Partners | 7.6 gpm | Listing returned 404 on 1 Oct |
-| Morton M34 | NSF certified in manual | **Listed** | Water Channel Partners | per listing | MSD34C currently unavailable |
+| Morton M34 | NSF certified in manual | **Listed** | Water Channel Partners | per listing | MSD34C currently unavailable on 1 Oct |
 | WaterBoss 700 (22,000 grain) | Certified in manual | **Listed**: plus barium and radium | WaterBoss, Groveport, OH | 8 gpm | 22,000-grain listing, model not confirmed: [Check price on Amazon](https://www.amazon.com/dp/B000R8UN34) |
 | WaterBoss 900 | Certified in manual | **Listed** | WaterBoss | 7.5 gpm | Currently unavailable on 1 Oct |
 | GE GXSH40V / GXSH45V | NSF certified | **Listed**; GE flags them obsolete | GE Appliances | per listing | No active offer on 1 Oct |
@@ -58,7 +58,7 @@ Four patterns stand out.
 
 **1. One company holds the most listings.** Water Channel Partners of Eagan, Minnesota is listed for Ecodyne, EcoPure, Kenmore, Morton, North Star, Rheem and Whirlpool softeners. If you search NSF for "Whirlpool", every model appears under Water Channel Partners, not Whirlpool Corporation. That is normal: certification follows the manufacturer, and the trade name is listed beneath it.
 
-**2. A listed model is not always a buyable one.** Several models whose Amazon titles say "NSF certified" are genuinely listed, but on 1 and 2 October the Whirlpool WHES33 and EcoPure EPHS showed currently unavailable, the WHES40E listing returned a 404, and GE's listed models had no active offer. The certification is real; the product is not in stock.
+**2. A listed model is not always a buyable one.** Several models whose Amazon titles say "NSF certified" are genuinely listed, but on 1 and 2 October the Whirlpool WHES33 and EcoPure EPHS showed currently unavailable, the WHES40E listing returned a 404, and GE's listed models had no active offer. The certification is real; the product was not buyable there on those dates.
 
 **3. A certified model can be missing from NSF's list.** GE's 2025 range is the clearest case. The [GXSH35W and GXMD30W owner's manual](https://images.salsify.com/image/upload/s--Lr_Ft1_A--/8741b1cfc8b24187902fc0ad02b4a930fc751a27.pdf) says all systems are "certified by IAPMO R&T as verified by test data" to NSF/ANSI 44 for hardness reduction and NSF/ANSI 372 for lead content. Searching NSF for them finds nothing, because NSF did not certify them. The standard is the same; the certifier is not. Why the standard and the certifier are different things is explained in [what NSF/ANSI 44 means](/blog/what-nsf-ansi-44-means/).
 
@@ -114,7 +114,7 @@ WaterBoss's whole range, from the 220 to the 950, is on NSF's list. The catch is
 
 **Watch for:** the Model 900, the one most buyers want. Its Amazon listing showed currently unavailable on 1 October; Home Depot listed it.
 
-## Certified, but Not on Amazon Right Now
+## Certified, but Unavailable on Amazon When We Checked
 
 - **Whirlpool WHES18, WHES30, WHES33, WHES40, WHES44, WHES48, WHESFC and WHEC46.** All eight are listed under Water Channel Partners. Flows run from 7 gpm for the WHES18 to 12.5 gpm for the Wi-Fi WHEC46. The Amazon listings checked showed unavailable or no longer existed.
 - **EcoPure EPHS and EPHY.** Listed, with barium and radium reduction as well as hardness. The EPHS showed currently unavailable on Amazon.

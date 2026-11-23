@@ -98,7 +98,7 @@ The Amazon listing is the SpringWell well water filter + FutureSoft combo. The A
 
 ## 2. AFWFilters AIS10 + FutureSoft: Best for Higher Iron, at the Lowest Cost
 
-The two units are sold on Amazon as separate listings:
+The two units have separate Amazon listings. Check the current price and availability of each before you order:
 
 - **AFWFilters AIS10 air injection filter:** [Check price on Amazon](https://www.amazon.com/dp/B004FVZHLC)
 - **SpringWell FutureSoft conditioner:** [Check price on Amazon](https://www.amazon.com/dp/B07NP8JY4G)

@@ -2,7 +2,7 @@
 title: "GE Water Softener Review: Leftover Models, the 2025 Smart Range and What Still Has Support"
 seoTitle: "GE Water Softener Review: 7 Models, Value and Lifespan"
 seoDescription: "This GE water softener review converts its grain rating to real capacity, explains the app features and lists the most common failure points."
-excerpt: "GE's long-running GXSH, GXSF and GXMH softeners are now flagged as obsolete on GE's own product data, and their Amazon listings are unavailable. A new range of Wi-Fi models arrived in October 2025. This review sorts the leftover stock from the current line, converts every grain rating to capacity at a normal salt setting, explains the SmartHQ app features, and walks through the failures GE's own troubleshooting table expects."
+excerpt: "GE's long-running GXSH, GXSF and GXMH softeners are now flagged as obsolete on GE's own product data, and their Amazon listings showed as unavailable when we checked on 1 October 2026. A new range of Wi-Fi models arrived in October 2025. This review sorts the leftover stock from the current line, converts every grain rating to capacity at a normal salt setting, explains the SmartHQ app features, and walks through the failures GE's own troubleshooting table expects."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Reviews"
@@ -29,11 +29,11 @@ This **GE water softener review** has two answers, because there are now two GE 
 
 | Model | Type | GE status | First sold | Amazon |
 |---|---|---|---|---|
-| GXSF30V | 30,400-grain softener | Obsolete | 2012 | Unavailable |
-| GXSH40V | 40,000-grain softener | Obsolete | 2012 | Unavailable |
+| GXSF30V | 30,400-grain softener | Obsolete | 2012 | Not linked |
+| GXSH40V | 40,000-grain softener | Obsolete | 2012 | Not linked |
 | GXSH45V | 45,100-grain softener | Obsolete | 2012 | Not checked |
-| GXSHC40N | 40,000-grain, Wi-Fi | Obsolete | 2019 | Unavailable |
-| GXMH31H | 31,100-grain softener + filter | Obsolete | 2015 | Unavailable |
+| GXSHC40N | 40,000-grain, Wi-Fi | Obsolete | 2019 | Not linked |
+| GXMH31H | 31,100-grain softener + filter | Obsolete | 2015 | Not linked |
 | **GXSH35W** | 35,000-grain, Wi-Fi | **Current** | Oct 2025 | [Check price on Amazon](https://www.amazon.com/dp/B0FWTXRMW6) |
 | **GXSH45W** | 45,000-grain, Wi-Fi | **Current** | Oct 2025 | No listing found |
 | **GXMD30W** | 30,000-grain, Wi-Fi, carbon filter | **Current** | Oct 2025 | [Check price on Amazon](https://www.amazon.com/dp/B0FWTY3PT8) |

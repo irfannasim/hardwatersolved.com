@@ -2,7 +2,7 @@
 title: "Best Smart Water Softeners and the Smart Add-Ons That Matter"
 seoTitle: "Best Smart Water Softeners: Which 5 App Features Matter"
 seoDescription: "The best smart water softeners add salt alerts and leak detection. Which Wi-Fi features save money or prevent damage, and which are just notifications."
-excerpt: "The one Wi-Fi water softener that was sold on Amazon is discontinued and unavailable. The features that made it smart, flow monitoring and automatic leak shutoff, now come as add-ons that protect any softener. Which app features save money, which prevent damage, which are convenience only, and the three products worth buying."
+excerpt: "The one Wi-Fi water softener that was sold on Amazon, GE's GXSHC40N, has been discontinued. The features that made it smart, flow monitoring and automatic leak shutoff, now come as add-ons that protect any softener. Which app features save money, which prevent damage, which are convenience only, and the three products worth buying."
 date: "2026-10-01"
 author: "Irfan Nasim"
 category: "Best Picks"
@@ -16,12 +16,12 @@ faqs:
   - question: "Do smart water softeners need a subscription?"
     answer: "The core features usually do not. Moen's Flo app works without a plan, and its optional FloProtect plan adds deductible coverage of up to $5,000 and an extended limited warranty. Guardian by Elexa charges no monthly fee and closes the valve without the internet. Always check what still works if the maker's cloud service closes, because LeakSmart's app and hub stopped working when the brand shut down in 2024."
   - question: "Which water softener brands have Wi-Fi?"
-    answer: "GE sold the GXSHC40N with SmartHQ Wi-Fi, leak alerts and remote shutoff, but GE lists it as no longer manufactured and Amazon shows it as unavailable. Whirlpool and Morton have sold Wi-Fi models through home centres, and SpringWell's salt-based softener uses a Bluetooth head. None of these was available as a Wi-Fi softener on Amazon when we checked."
+    answer: "GE sold the GXSHC40N with SmartHQ Wi-Fi, leak alerts and remote shutoff, but GE lists it as no longer manufactured. Whirlpool and Morton have sold Wi-Fi models through home centres, and SpringWell's salt-based softener uses a Bluetooth head. None of these was available as a Wi-Fi softener on Amazon when we checked."
   - question: "Does a smart shutoff valve reduce water pressure?"
     answer: "A full-port shutoff sized to your main loses very little pressure at normal household flow. Size it to the pipe, not smaller. The Moen Flo comes in 3/4 inch and 1 inch versions, among others, and the size is set by your main line. Guardian clamps onto the valve you already have, so it adds no restriction of its own."
 ---
 
-**The best smart water softeners** right now are not single machines. The only Wi-Fi softener that was sold on Amazon, the GE GXSHC40N, is discontinued and unavailable. Its useful features now come as add-ons that protect any softener: a Moen Flo shutoff for whole-house flow monitoring and automatic shutoff, or a Guardian by Elexa kit for sensor-triggered shutoff without cutting pipe. Pair either with a demand-metered softener.
+**The best smart water softeners** right now are not single machines. The only Wi-Fi softener that was sold on Amazon, the GE GXSHC40N, has been discontinued. Its useful features now come as add-ons that protect any softener: a Moen Flo shutoff for whole-house flow monitoring and automatic shutoff, or a Guardian by Elexa kit for sensor-triggered shutoff without cutting pipe. Pair either with a demand-metered softener.
 
 That split is also the honest answer to "which app features matter". Automatic leak shutoff prevents damage. Flow monitoring can save money by finding leaks. Salt alerts and remote regeneration are convenience. The feature that saves the most salt, demand metering, needs no Wi-Fi at all.
 
@@ -31,9 +31,9 @@ That split is also the honest answer to "which app features matter". Automatic l
 
 What we found on Amazon on 1 October 2026:
 
-- **GE GXSHC40N Smart 40,000-grain softener.** GE's page lists SmartHQ Wi-Fi with leak and running-faucet alerts, remote water shutoff, low-salt alerts, vacation mode and usage monitoring. GE also marks it as no longer manufactured, and Amazon shows it as currently unavailable.
-- **SpringWell salt-based softener.** The brand sells it with a Bluetooth metered head and a 25 to 80 psi operating range. Its Amazon listing shows as currently unavailable.
-- **Phyn Plus smart shutoff,** first and second generation. Both Amazon listings show as currently unavailable.
+- **GE GXSHC40N Smart 40,000-grain softener.** GE's page lists SmartHQ Wi-Fi with leak and running-faucet alerts, remote water shutoff, low-salt alerts, vacation mode and usage monitoring. GE also marks it as no longer manufactured, and Amazon showed it as unavailable.
+- **SpringWell salt-based softener.** The brand sells it with a Bluetooth metered head and a 25 to 80 psi operating range. Its Amazon listing showed as unavailable.
+- **Phyn Plus smart shutoff,** first and second generation. Both Amazon listings showed as unavailable.
 
 So the products below are the smart pieces you can actually buy there today.
 

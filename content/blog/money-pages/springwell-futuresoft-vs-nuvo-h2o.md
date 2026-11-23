@@ -45,7 +45,7 @@ faqs:
 | Purchase price | Higher | Lower |
 | Replacement cartridges | Sediment filters, 10 in or 20 in | Manor cartridge; cheaper on autoship |
 | Warranty | Lifetime against defects; wear and out-of-spec water excluded | 5-year limited; 90-day money-back guarantee |
-| Amazon | "Currently unavailable" on 1 Oct: [Check price on Amazon](https://www.amazon.com/dp/B07NP8JY4G) | Listed: [Check price on Amazon](https://www.amazon.com/dp/B01ASXMI44) |
+| Amazon | [Check price on Amazon](https://www.amazon.com/dp/B07NP8JY4G) | [Check price on Amazon](https://www.amazon.com/dp/B01ASXMI44) |
 
 *FutureSoft limits from SpringWell's product page and specification table. NuvoH2O figures from its Manor product and cartridge pages. SpringWell's product page does not say which size of sediment filter the FutureSoft pre-filter takes.*
 

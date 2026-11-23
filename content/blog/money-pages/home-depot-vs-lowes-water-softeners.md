@@ -18,7 +18,7 @@ faqs:
   - question: "Does Lowe's install water softeners?"
     answer: "Yes, through independent installers. Lowe's water softener installation page, as indexed on 2 October 2026, says installers are background checked, insured and licensed where applicable, that installation includes materials, disposal, testing and an initial supply of salt where applicable, and that the installation is guaranteed for one year. Structural changes are excluded."
   - question: "Are Home Depot and Lowe's water softeners cheaper on Amazon?"
-    answer: "Usually there is nothing to compare at the moment. Most store models were not buyable on Amazon on our check: Rheem is not sold there, and the Whirlpool WHES33 and WaterBoss 900 listings showed as unavailable. The Aquasure Harmony 48,000 is sold at Home Depot and Aquasure's own store and has a live Amazon listing, so compare the current price at each on the day, because Amazon prices change often."
+    answer: "Only some of them can be compared. Rheem is not sold on Amazon, and on our 2 October 2026 check the Whirlpool WHES33 listing showed as unavailable. The Aquasure Harmony 48,000 is sold at Home Depot, at Aquasure's own store and on Amazon, so compare the current price at each on the day, because Amazon prices change often."
 ---
 
 **Home Depot vs Lowe's water softeners is mostly a question of brands, not stores, because the two shelves barely overlap.** On 2 October 2026 Home Depot's listings were built around Rheem, GE, WaterBoss, Aquasure and APEC. Lowe's was built around Whirlpool and A.O. Smith. The price bands overlap almost completely. The most useful thing to know is that some models are twins under different badges. Home Depot's Rheem RHS32 and Lowe's Whirlpool WHES33 publish the same capacity figures and come from the same maker. Both stores install through independent contractors, so the store's name is not the installer's.
@@ -38,7 +38,7 @@ faqs:
 | Home Depot | Rheem Preferred RHS32 | 32,000 grains | Not sold on Amazon |
 | Home Depot | Aquasure Harmony 32,000 | 32,000 grains | [Check price on Amazon](https://www.amazon.com/dp/B07F18VG8L) |
 | Home Depot | GE GXSH40V (older range) | 40,200 grains | Discontinued model, no active offer |
-| Home Depot | WaterBoss 900 | 36,400 grains | Currently unavailable |
+| Home Depot | WaterBoss 900 | 36,400 grains | Linked in the picks below |
 | Home Depot | Rheem Preferred Plus RHS42 | 42,000 grains | Not sold on Amazon |
 | Home Depot | Aquasure Harmony 48,000 | 48,000 grains | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
 | Home Depot | Rheem Preferred Platinum RHW42, Wi-Fi | 42,000 grains | Not sold on Amazon |
@@ -116,12 +116,13 @@ If you would rather fit it yourself, the job is manageable in a house with an ex
 The plan for this comparison was to show where Amazon undercuts the stores. On 2 October 2026 that was not possible for most of the lineup:
 
 - **Rheem** is not sold on Amazon at all.
-- **Whirlpool WHES33** and **WaterBoss 900** listings showed as currently unavailable.
+- **Whirlpool WHES33** listings showed as unavailable.
+- **WaterBoss 900** has an Amazon listing, linked below. Check its current price and availability before you order.
 - **GE's older GXSH40V** is discontinued; its 2025 replacement, the GXSH35W, is on Amazon.
 - **Aquasure Harmony 48,000** is sold at both Home Depot and Aquasure's own store, and its Amazon listing is live.
 - **A.O. Smith's** Lowe's range is sold through Lowe's; we found no Amazon listing to compare.
 
-So for now the stores are where most of these units can actually be bought. Where an Amazon listing does exist, compare the delivered price and whose warranty and returns terms apply.
+So on that check, the stores were where most of these units could actually be bought. Where an Amazon listing does exist, compare the delivered price and whose warranty and returns terms apply.
 
 ## Picks From the Lineup, by Situation
 
@@ -129,7 +130,7 @@ These are the models from either store we would shortlist, each with a live purc
 
 - **Two bathrooms, moderate hardness, space for two tanks:** Aquasure Harmony 32,000, sold at Home Depot and Aquasure. One cubic foot of resin and a metered valve. Its usable capacity at an efficient salt setting is about 21,000 grains. [Check price on Amazon](https://www.amazon.com/dp/B07F18VG8L)
 - **A family of four or more:** Aquasure Harmony 48,000, sold at Home Depot and Aquasure. It has 1.5 cubic feet of resin, more than any cabinet in either snapshot that publishes its resin volume. [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R)
-- **Well water with some clear-water iron, cabinet wanted:** WaterBoss 900, sold at Home Depot. Its Amazon listing was unavailable on our check, so buy it in store if that is still the case. [Check price on Amazon](https://www.amazon.com/dp/B091FXNCHB)
+- **Well water with some clear-water iron, cabinet wanted:** WaterBoss 900, sold at Home Depot. Check the current price and availability on Amazon before you order, or buy it in store. [Check price on Amazon](https://www.amazon.com/dp/B091FXNCHB)
 - **Softener and drinking-water RO in one purchase:** APEC WH-SOFTENER-30-FG, sold at Home Depot. It is a 30,000-grain softener bundled with a six-stage alkaline RO system. Only buy it if you want the RO as well; as a softener alone it is small for what the bundle costs. [Check price on Amazon](https://www.amazon.com/dp/B0CM8CLZZ4)
 
 Among the cabinet units, choose on the warranty table above and the price on the day. The Rheem RHS32 and Whirlpool WHES33 are the same design, so buy whichever is cheaper.

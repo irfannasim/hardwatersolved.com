@@ -145,14 +145,14 @@ SpringWell's terms are longer on paper. Two cautions apply. The 7-year versus 5-
 
 Aquasure's main trap is the 60-day registration. Miss it and the five years becomes one. Its iron and chlorine exclusion also means a Harmony used on an iron well, or on high-chlorine city water without a prefilter, has no resin or valve-internals cover.
 
-## Amazon Availability
+## Buying Through Amazon
 
-| Listing | Status | Where to buy instead | Amazon |
+| Listing | Before you order | Where else to buy | Amazon |
 |---|---|---|---|
-| Aquasure Harmony 48k | Live listing on 1 October 2026 | Aquasure's store | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
-| SpringWell salt-based softener | Showed "Currently unavailable" on 1 October 2026; our 2 October check could not load the page | SpringWell's store, which sells the SS1, SS4 and SS+ | [Check price on Amazon](https://www.amazon.com/dp/B086Q7NS7S) |
+| Aquasure Harmony 48k | Check the current price and availability on Amazon | Aquasure's store | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
+| SpringWell salt-based softener | Check the current price and availability on Amazon | SpringWell's store, which sells the SS1, SS4 and SS+ | [Check price on Amazon](https://www.amazon.com/dp/B086Q7NS7S) |
 
-An older Harmony 48k listing is unavailable; use the one linked above. If you buy either through Amazon, register directly with the brand anyway, because both warranties depend on registration.
+If you buy either through Amazon, register directly with the brand anyway, because both warranties depend on registration.
 
 ## Which One to Buy
 

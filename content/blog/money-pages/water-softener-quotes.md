@@ -126,8 +126,6 @@ These three systems are not recommendations for every home. They are 1.5 cubic f
 | Aquasure Harmony 48,000 (AS-HS48D) | Aquasure's own digital metered head on a 10 x 54 in tank | [Check price on Amazon](https://www.amazon.com/dp/B07F175C2R) |
 | SoftPro Elite 48,000 | 10% crosslink resin, upflow brining | [Check price on Amazon](https://www.amazon.com/dp/B07KY5SPSJ) |
 
-*The Aquasure Harmony listing in our original research is unavailable on Amazon, so the current listing for the same model is shown.*
-
 **How to use them.** Subtract the installation lines from a quote and compare what is left with the current prices of these systems. If an independent installer's equipment line for a 1.5 cubic foot Fleck system is $1,100 to $1,400, that is a normal markup for supplying, warranting and standing behind it. If a dealer's equipment line is $3,500 for a unit with a similar resin volume, ask what the extra $2,000 or more buys. Sometimes it is a long labor warranty and service. Sometimes it is the sales visit.
 
 **What they leave out.** The online price includes no installation, no warranty labor and no one to call. Add the installation lines from your quotes to the benchmark before you compare totals. An online unit installed by a plumber is a real third option, not just a price check.

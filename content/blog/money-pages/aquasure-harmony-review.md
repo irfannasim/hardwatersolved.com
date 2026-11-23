@@ -37,7 +37,7 @@ This **Aquasure Harmony review** comes down to what the box price covers and wha
 
 **Four real limits:** a proprietary valve, no NSF/ANSI 44 softener listing, a warranty that depends on registering within 60 days, and a grain rating you should not program from directly.
 
-> **How this review was built.** It is a document review, not a bench test. The evidence is the [Harmony Series owner's manual](https://images.thdstatic.com/catalog/pdfImages/d3/d38453b1-ce56-4e0a-859c-27e296a759d7.pdf), Aquasure's current warranty page, the Amazon listings, and NSF's public certification listings. The comparison system is the DuraWater 48,000-grain Fleck 5600SXT, as described on its Amazon listing. Several older Harmony listings now redirect or show as unavailable; the ones above were live listings on 1 October 2026. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
+> **How this review was built.** It is a document review, not a bench test. The evidence is the [Harmony Series owner's manual](https://images.thdstatic.com/catalog/pdfImages/d3/d38453b1-ce56-4e0a-859c-27e296a759d7.pdf), Aquasure's current warranty page, the Amazon listings, and NSF's public certification listings. The comparison system is the DuraWater 48,000-grain Fleck 5600SXT, as described on its Amazon listing. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 ## The Box-Contents Audit
 

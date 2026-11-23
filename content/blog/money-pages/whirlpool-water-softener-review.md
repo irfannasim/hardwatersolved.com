@@ -45,7 +45,7 @@ Older Whirlpool water documents, including a 2014 warranty sheet still hosted on
 
 Two practical consequences follow:
 
-- **The same maker sells EcoPure.** Amazon lists the EcoPure EP31, EP42 and EPH130 softeners with Water Channel Partners as the manufacturer. They are the closest thing to a Whirlpool you can order on Amazon right now.
+- **The same maker sells EcoPure.** Amazon lists the EcoPure EP31, EP42 and EPH130 softeners with Water Channel Partners as the manufacturer. They are the closest thing to a Whirlpool on Amazon.
 - **Whirlpool appliance technicians are not the service network.** Support runs through the softener maker's phone line and the parts it ships.
 
 ## The Lineup, With Capacity Restated
