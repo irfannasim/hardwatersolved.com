@@ -1,5 +1,6 @@
 import React from 'react';
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import styles from '../static-page.module.css';
 
 export const metadata: Metadata = {
@@ -65,10 +66,11 @@ export default function DisclaimerPage() {
                 <section className={styles.section}>
                     <h2>Affiliate Disclaimer</h2>
                     <p>
-                        Some pages on the Site may in the future contain affiliate links, meaning we may earn a
-                        commission if you make a purchase through such a link, at no additional cost to you. Any
-                        affiliate relationship does not influence the factual claims made in our informational
-                        articles.
+                        The Site contains affiliate links. Hard Water Solved is a participant in the Amazon Services
+                        LLC Associates Program, so we may earn a commission if you make a qualifying purchase through
+                        a link to Amazon.com, at no additional cost to you. Any affiliate relationship does not
+                        influence the factual claims made in our informational articles. Read our full{' '}
+                        <Link href="/affiliate-disclosure/">affiliate disclosure</Link>.
                     </p>
                 </section>
             </main>

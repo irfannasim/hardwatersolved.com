@@ -63,7 +63,7 @@ Year two has no introductory months, so it costs about $600 in rent plus salt. T
 
 Renting avoids the purchase price; buying avoids the monthly fee. The crossover is the month at which the rent you have paid passes the cost of owning. The chart compares $50 a month in rent with two purchases:
 
-- **An online softener installed by a plumber, about $1,400.** For example, an AFWFilters Fleck 5600SXT 48,000-grain softener plus roughly $600 of plumber labor and fittings. [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG)
+- **An online softener installed by a plumber, an illustrative $1,400.** For example, an AFWFilters Fleck 5600SXT 48,000-grain softener plus roughly $600 of plumber labor and fittings. The softener's own price changes, so check the current price and availability on Amazon. [Check price on Amazon](https://www.amazon.com/dp/B00YFOTWZG)
 - **A Culligan purchase, an illustrative $2,500.** That is the bottom of the upstate New York purchase quotes above. Many Culligan purchases cost more.
 
 Both purchase lines include **$7 a month** of owner upkeep, which is a $25 yearly allowance for supplies plus $60 a year set aside towards resin or valve repairs. Salt is left out on both sides, because a renter buys or orders salt too.

@@ -129,7 +129,7 @@ NuvoH2O is not TAC, and it is the only pick that adds something to the water. Th
 
 Buy this one for the filter, and treat the conditioner as a bonus that works only on fairly moderate water. The Rhino's chlorine claim is the best-documented figure anywhere on this page: Aquasana's data sheet shows more than 97.4 percent free chlorine reduction across its full 1,000,000-gallon rating. The conditioner's evidence is the weakest of the three picks, and its 15 gpg ceiling is the lowest.
 
-**Watch for:** availability. This site found the Rhino-plus-conditioner package unavailable on Amazon on 1 October, so confirm the listing is in stock before planning around it.
+**Watch for:** availability. Check the current price and availability of the Rhino-plus-conditioner package on Amazon before planning around it.
 
 ## Which Pick for Your Water Test
 

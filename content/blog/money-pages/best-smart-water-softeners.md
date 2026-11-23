@@ -29,7 +29,7 @@ That split is also the honest answer to "which app features matter". Automatic l
 
 ## How These Picks Were Chosen
 
-> **Methodology.** Every pick is listed on Amazon.com, in stock or shipping. We looked for app-connected softeners first, then for smart shutoffs that protect any softener. Each feature was classed as saving money, preventing damage, or convenience only, from maker listings and product pages. Nothing was physically tested. **Excluded:** products shown as unavailable on Amazon, monitors with no shutoff valve, add-on salt-level sensors, and brands whose cloud service has closed. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
+> **Methodology.** Every pick is listed on Amazon.com; check the current price and availability there before you order. We looked for app-connected softeners first, then for smart shutoffs that protect any softener. Each feature was classed as saving money, preventing damage, or convenience only, from maker listings and product pages. Nothing was physically tested. **Excluded:** products shown as unavailable on Amazon, monitors with no shutoff valve, add-on salt-level sensors, and brands whose cloud service has closed. **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.
 
 What we found on Amazon on 1 October 2026:
 
@@ -61,7 +61,7 @@ Two lessons come out of the table.
 
 ## 1. Moen Flo Smart Water Shutoff: Best Whole-House Protection
 
-**Buy it on Amazon:** the 3/4-inch and 1-inch Moen Flo are sold as separate listings, and both were in stock on Amazon. The price depends on size.
+**Buy it on Amazon:** the 3/4-inch and 1-inch Moen Flo are sold as separate listings. Check the current price and availability of your size on Amazon.
 
 3/4-inch Moen Flo Shutoff:
 

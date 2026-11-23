@@ -35,7 +35,7 @@ That trade is the whole buying decision. A cabinet that holds 80 lb of salt need
 
 Three cabinet units that often appear on lists like this one are left out:
 
-- **Whirlpool WHES40E.** Its Amazon listing could not be confirmed as in stock, Lowe's no longer sells it, and Whirlpool's 40,000-grain cabinet now sells at farm stores as the WHES405.
+- **Whirlpool WHES40E.** Lowe's no longer sells it, and Whirlpool's 40,000-grain cabinet now sells at farm stores as the WHES405.
 - **WaterBoss 900.** It is a strong cabinet on paper, with a published 10 gpm at a 15 psi drop and a 5-year parts warranty, but its Amazon listing shows it as currently unavailable.
 - **GE GXSH40V.** GE lists it as no longer manufactured, and Amazon shows it as unavailable.
 

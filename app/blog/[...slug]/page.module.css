@@ -251,6 +251,17 @@ a.metaValue:hover {
     gap: 0.35rem;
 }
 
+.affiliateDisclosure {
+    margin-bottom: 1.5rem;
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+.affiliateDisclosure a {
+    color: var(--color-link);
+}
+
 .mainContent p:first-of-type {
     color: var(--color-text-muted);
     font-family: var(--font-heading), sans-serif;

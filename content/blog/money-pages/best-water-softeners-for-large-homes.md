@@ -144,7 +144,7 @@ The alternative to two 13-inch tanks is one much larger tank on a high-flow valv
 
 ## Considered and Not Picked
 
-- **Fleck 7000SXT systems on Amazon** (64k in a 12x52 tank and 48k in a 10x54). Both Amazon listings showed "currently unavailable" on 1 October 2026. Even when in stock, the 7000 valve's 28 gpm is wasted on these tanks: a 12-inch bed carries about 11.8 gpm at peak and a 10-inch bed about 8.2 gpm.
+- **Fleck 7000SXT systems on Amazon** (64k in a 12x52 tank and 48k in a 10x54). Check the current price and availability on Amazon. Whatever the listing shows, the 7000 valve's 28 gpm is wasted on these tanks: a 12-inch bed carries about 11.8 gpm at peak and a 10-inch bed about 8.2 gpm.
 - **SpringWell salt-based SS+.** SpringWell's site lists an 80,000-grain model in a 13-inch tank rated at 20 gpm. We could not open its Amazon listing to confirm which sizes it carries, so it is not ranked.
 - **Dealer systems.** Culligan, Kinetico, EcoWater and RainSoft sell high-flow residential softeners through dealers, not on Amazon. A local quote is the way to compare them.
 

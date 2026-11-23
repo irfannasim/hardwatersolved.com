@@ -6,6 +6,26 @@ import remarkGfm from 'remark-gfm';
 import rehypeSlug from 'rehype-slug';
 import rehypeRaw from 'rehype-raw';
 import styles from './page.module.css';
+import type { Components } from 'react-markdown';
+import AffiliateLink from '@/app/_components/AffiliateLink';
+import { isTaggableAmazonUrl } from '@/app/_utils/amazon';
+
+// amazon.com links in FAQ answers get the Associates tag and sponsored rel;
+// every other link renders exactly as before.
+const faqComponents: Components = {
+    // `node` (the hast element) is dropped so it never reaches the DOM.
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    a: ({ node, href, children, ...props }) =>
+        typeof href === 'string' && isTaggableAmazonUrl(href) ? (
+            <AffiliateLink {...props} href={href}>
+                {children}
+            </AffiliateLink>
+        ) : (
+            <a {...props} href={href}>
+                {children}
+            </a>
+        ),
+};
 
 interface FAQItemProps {
     question: string;
@@ -28,6 +48,7 @@ const FAQItem: React.FC<FAQItemProps> = ({ question, answer }) => {
                     <ReactMarkdown
                         remarkPlugins={[remarkGfm]}
                         rehypePlugins={[rehypeSlug, rehypeRaw]}
+                        components={faqComponents}
                     >
                         {answer}
                     </ReactMarkdown>

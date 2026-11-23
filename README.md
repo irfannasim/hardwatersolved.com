@@ -42,6 +42,29 @@ Vercel serves the whole site statically/via CDN even though the project no longe
 `next.config.ts`'s `headers()` (security headers, caching), both of which Vercel's Next.js runtime
 supports natively.
 
+## Amazon Affiliate Links
+
+Amazon Associates (US marketplace) tagging is centralized:
+
+- **The tag lives in one place:** `NEXT_PUBLIC_AMAZON_TAG` (see `.env.example`; copy it to `.env.local` for
+  local work). It is not a secret.
+- **`NEXT_PUBLIC_` variables are inlined at build time.** Production (Vercel: Project Settings &rarr;
+  Environment Variables, for Production *and* Preview) must have the variable set, and the site must be
+  **rebuilt/redeployed** after setting or changing it &mdash; restarting the server is not enough.
+- A production build **fails** if the variable is missing, so an untagged site cannot ship.
+- Content keeps plain `https://www.amazon.com/dp/ASIN` URLs. Never hand-write `?tag=` into articles: links are
+  tagged at render time by `withAffiliateTag()` / `<AffiliateLink>` (`app/_utils/amazon.ts`,
+  `app/_components/AffiliateLink.tsx`), which also add `rel="sponsored nofollow noopener noreferrer"`.
+- Short links (`amzn.to`, `a.co`) cannot be tagged: use the full `/dp/ASIN` URL instead.
+- `npm run check:affiliate` scans the build output and source for untagged links, short links and missing
+  `rel="sponsored"`. It runs automatically after `npm run build` (in `postbuild`) and fails the build on any problem.
+
+```bash
+npm test                 # unit tests (vitest)
+npm run typecheck        # tsc --noEmit
+npm run check:affiliate  # affiliate link safety net (after a build)
+```
+
 ## Learn More
 
 - [Next.js Documentation](https://nextjs.org/docs)

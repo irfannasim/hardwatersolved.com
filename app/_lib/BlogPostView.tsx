@@ -11,6 +11,9 @@ import { imageSize } from 'image-size';
 import type { Metadata } from 'next';
 import type { Components } from 'react-markdown';
 import BackToTop from '@/app/_components/BackToTop';
+import AffiliateLink from '@/app/_components/AffiliateLink';
+import AffiliateDisclosure from '@/app/_components/AffiliateDisclosure';
+import { containsAmazonLink, isTaggableAmazonUrl } from '@/app/_utils/amazon';
 import TableOfContents from '@/app/_components/TableOfContents';
 import FAQSection from '@/app/blog/[...slug]/FAQSection';
 import { getOptimizedPexelsUrl } from '@/app/_utils/image';
@@ -214,6 +217,9 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
 
     const SITE_TITLE = process.env.NEXT_PUBLIC_SITE_TITLE || 'Hard Water Solved';
 
+    // Body or FAQ answers: the disclosure must appear before the first product link.
+    const hasAffiliateLinks = containsAmazonLink(content) || containsAmazonLink(JSON.stringify(data.faqs ?? []));
+
     const diagramImages = extractDiagrams(content).map((d) => ({
         '@type': 'ImageObject',
         '@id': `${SITE_DOMAIN}${d.src}`,
@@ -389,24 +395,33 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
             return <p>{children}</p>;
         },
 
-        a: ({ href = '', children, ...props }) => {
+        // `node` (the source hast element) is dropped: spread onto <a> it was
+        // serialized into the RSC payload, shipping the original untagged href.
+        // eslint-disable-next-line @typescript-eslint/no-unused-vars
+        a: ({ node, href = '', children, ...props }) => {
             const linkHref = typeof href === 'string' ? href : '';
 
             // Amazon product links are written as [Check price on Amazon](url) and
             // render as a button, so no product code or price appears in the text.
+            // AffiliateLink adds the Associates tag and the sponsored rel; content
+            // files keep plain untagged URLs.
             if (AMAZON_LINK_PATTERN.test(linkHref)) {
                 return (
-                    <a
-                        {...props}
-                        href={linkHref}
-                        className={styles.amazonButton}
-                        target="_blank"
-                        rel="sponsored nofollow noopener noreferrer"
-                    >
+                    <AffiliateLink {...props} href={linkHref} className={styles.amazonButton}>
                         <ShoppingCart size={16} aria-hidden="true" />
                         <span>{children}</span>
                         <ExternalLink size={14} aria-hidden="true" />
-                    </a>
+                    </AffiliateLink>
+                );
+            }
+
+            // Any other amazon.com link (one the button pattern does not match,
+            // e.g. a search or store page) is still tagged and marked sponsored.
+            if (isTaggableAmazonUrl(linkHref)) {
+                return (
+                    <AffiliateLink {...props} href={linkHref} className={styles.articleContentLink}>
+                        {children}
+                    </AffiliateLink>
                 );
             }
 
@@ -524,6 +539,9 @@ export default async function BlogPostView({ slug }: { slug: string[] }) {
                         </aside>
 
                         <div className={styles.mainContent}>
+                            {hasAffiliateLinks && (
+                                <AffiliateDisclosure className={styles.affiliateDisclosure} />
+                            )}
                             <div className="markdown-content">
                                 <ReactMarkdown
                                     remarkPlugins={[remarkGfm]}

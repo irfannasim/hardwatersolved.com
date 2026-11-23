@@ -87,6 +87,20 @@
     color: #6f8ea0;
 }
 
+.disclosure {
+    padding-top: 0.75rem;
+    color: #6f8ea0;
+    font-size: 0.85rem;
+}
+
+.disclosure a {
+    color: #cddbe4;
+}
+
+.disclosure a:hover {
+    color: #22c3dd;
+}
+
 @media (max-width: 860px) {
     .top {
         grid-template-columns: 1fr 1fr;

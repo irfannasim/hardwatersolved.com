@@ -9,7 +9,10 @@
     "start": "next start",
     "lint": "eslint",
     "check:diagrams": "node scripts/check-diagrams.mjs",
-    "postbuild": "next-sitemap"
+    "postbuild": "next-sitemap && npm run check:affiliate",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "check:affiliate": "node scripts/check-affiliate-links.mjs"
   },
   "dependencies": {
     "@microsoft/clarity": "^1.0.2",
@@ -42,6 +45,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "puppeteer-core": "^23.11.1",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^4.1.12"
   }
 }

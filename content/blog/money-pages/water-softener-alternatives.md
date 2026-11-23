@@ -50,7 +50,7 @@ Read it row by row. If your main complaint sits on a row with no "Yes", no alter
 
 > **Methodology.** Nothing on this page was physically tested. The matrix is built from the independent WateReuse study for TAC and electronic devices, the University of Nebraska-Lincoln extension guide, and each maker's own specification sheets, manuals and warranties.
 >
-> - **Included:** one product per alternative type, chosen as the best-documented example of that type that is sold on Amazon at a normal price above $100.
+> - **Included:** one product per alternative type, chosen as the best-documented example of that type that is listed on Amazon, leaving out low-cost accessories.
 > - **Swapped:** SpringWell FutureSoft was the first choice for TAC, but its Amazon listings showed no offer when this site checked on 1 October 2026 and its 95% claim names no test. The Watts OneFlow+ replaces it.
 > - **Not picked:** shower filters (most cost under $100, and they target chlorine, not hardness) and magnet clamps (no scientific consensus that they work).
 > - **Prices are not listed here** because they change often. Use the buttons to see the current price on Amazon.

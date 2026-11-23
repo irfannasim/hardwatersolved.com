@@ -143,7 +143,7 @@ The only single tank that clears three days in Home B, at 3.6 days. Buy it for c
 - **Softener half:** Core pairs it with the SS1 32k softener (9x48 tank, 11 gpm, sized by SpringWell for 1 to 3 bathrooms). Pro pairs the WS4 filter with the SS4 48k softener (10x54 tank, 13 gpm).
 - **Warranty:** SpringWell advertises a lifetime warranty and a 6-month money-back guarantee.
 - **Bundle saving:** SpringWell says on its [product page](https://www.springwellwater.com/product/well-water/well-water-filter-and-salt-based-water-softener/) that the Core package costs less than buying the two separately.
-- **Amazon listing:** we could not confirm it was in stock.
+- **Amazon listing:** check the current price and availability on Amazon before you order.
 
 [Check price on Amazon](https://www.amazon.com/dp/B0FT423F94)
 

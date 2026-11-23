@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import styles from './Footer.module.css';
+import AffiliateDisclosure from './AffiliateDisclosure';
 
 const SITE_TITLE = process.env.NEXT_PUBLIC_SITE_TITLE || "Hard Water Solved";
 
@@ -34,6 +35,7 @@ export default function Footer() {
                         <Link href="/privacy-policy" className={styles.link}>Privacy Policy</Link>
                         <Link href="/terms-conditions" className={styles.link}>Terms &amp; Conditions</Link>
                         <Link href="/disclaimer" className={styles.link}>Disclaimer</Link>
+                        <Link href="/affiliate-disclosure" className={styles.link}>Affiliate Disclosure</Link>
                     </nav>
                 </div>
 
@@ -43,6 +45,8 @@ export default function Footer() {
                         Educational content only &mdash; not a substitute for a licensed water treatment professional.
                     </span>
                 </div>
+
+                <AffiliateDisclosure variant="footer" className={styles.disclosure} />
             </div>
         </footer>
     );
