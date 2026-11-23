@@ -46,3 +46,8 @@ yarn-error.log*
 next-env.d.ts
 
 .vercel
+
+# local content audit reports (not committed)
+/affiliate-availability-audit.md
+/affiliate-fix-plan.md
+/affiliate-verify-asins.md
